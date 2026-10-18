@@ -4,11 +4,18 @@ from .common import get, event, in_window, dedupe
 import icalendar, recurring_ical_events
 from datetime import datetime, date
 
+WINDOWS_TZ = {"Eastern Time (US & Canada)": "America/New_York", "Central Time (US & Canada)": "America/Chicago",
+              "Mountain Time (US & Canada)": "America/Denver", "Pacific Time (US & Canada)": "America/Los_Angeles",
+              "Eastern Standard Time": "America/New_York"}
+
 def read(source, window_days=21):
     url = source.get("feed_url") or source["url"]
     if url.startswith("webcal:"):
         url = "https:" + url.split(":", 1)[1]
-    cal = icalendar.Calendar.from_ical(get(url).content)
+    raw = get(url).content
+    for win, iana in WINDOWS_TZ.items():
+        raw = raw.replace(win.encode(), iana.encode())
+    cal = icalendar.Calendar.from_ical(raw)
     lo = date.today(); hi = lo.replace(day=lo.day)  # placeholder, replaced below
     from .common import window
     lo, hi = window(window_days)

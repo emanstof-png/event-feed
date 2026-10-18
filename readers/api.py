@@ -31,7 +31,7 @@ def _dcpolicy(data, name):
             for e in data.get("events", [])]
 
 def _livewhale(data, name):  # events.georgetown.edu/live/json/events/...
-    items = data if isinstance(data, list) else data.get("events") or data.get("items") or []
+    items = data if isinstance(data, list) else data.get("data") or data.get("events") or data.get("items") or []
     out = []
     for e in items:
         s = e.get("date_iso") or e.get("date_utc") or e.get("date", "")
@@ -41,7 +41,8 @@ def _livewhale(data, name):  # events.georgetown.edu/live/json/events/...
                 d = datetime.strptime(s[:30], "%A, %B %d, %Y").date().isoformat()
             except Exception:
                 pass
-        out.append(event(d, e.get("title", ""), name, s[11:16] if s[4:5] == "-" else "",
+        import html as _h
+        out.append(event(d, _h.unescape(e.get("title", "")), name, s[11:16] if s[4:5] == "-" else "",
                          e.get("location", "") or "", e.get("url", "") or ""))
     return [e for e in out if e["date"]]
 
