@@ -142,6 +142,18 @@ CSV into the Feed tab (Composio Sheets, as the Sources tab was filled), Eric tic
 GitHub is the one setup step that matters: without it the feed is the 34 structured sources only.
 Nothing gets automated for Sunday until one manual run has been looked at by Eric.
 
+The manual run, step by step (first done Oct 18, 2:50am; 673 events with category and blurb):
+1. Dispatch: `gh api -X POST repos/emanstof-png/event-feed/actions/workflows/feedtest.yml/dispatches -f ref=main`
+   (about 1 minute; writes feed_test.csv, feed_desc.csv, run_log.csv to the repo).
+2. Blurbs: split feed_desc.csv into 40-row batches; one Haiku scout per batch with the BLURB brief
+   (5 to 10 words, writes `n<TAB>blurb` to a file, replies "done N"); cat the outputs into
+   feed_blurbs.tsv and commit it. 17 scouts, under a minute.
+3. Paste: in the Composio workbench, curl feed_test.csv and feed_blurbs.tsv from
+   raw.githubusercontent.com, build the rows, one GOOGLESHEETS_BATCH_UPDATE to Feed!A1 with
+   header Pick, Date, Time, Title, Venue, Source, Link, Category, Description. Never paste rows
+   through the chat; 673 rows is 140k characters.
+4. Tell Eric the count and the date range. He ticks; "capture" moves ticked rows to Itinerary.
+
 ## Things that went wrong once and must not again
 
 - Trusting the URL in the sheet as the events page. It was the homepage for 9 sources.
