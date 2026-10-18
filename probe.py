@@ -9,8 +9,10 @@ For every source it tries, cheapest first:
   3. jsonld   - schema.org Event data embedded in the page
   4. rss      - an events RSS/Atom feed
   5. html     - plain HTML that already shows dated listings
-  6. browser  - the page only shows events after JavaScript runs
-  7. none     - nothing usable found (blocked, no dates, program page)
+  6. xhr      - a JSON data call the page makes, readable without a browser
+  7. browser  - the page only shows events after JavaScript runs
+  8. reader   - the site blocks GitHub's servers but reads through r.jina.ai
+  9. none     - nothing usable found (blocked, no dates, program page)
 
 Writes probe_report.csv, probe_report.json and probe_samples/<slug>.txt
 (the page text the decision was based on, for building scrapers later).
@@ -108,10 +110,56 @@ def check_json_events(url):
         data = json.loads(r["text"])
     except Exception:
         return None
-    events = data.get("events") if isinstance(data, dict) else None
-    if isinstance(events, list) and events:
-        return {"feed_url": url, "events": len(events)}
+    if isinstance(data, dict):
+        for key in ("events", "upcoming"):
+            events = data.get(key)
+            if isinstance(events, list) and events:
+                return {"feed_url": url, "events": len(events)}
+    n = count_eventish(data)
+    if n >= 2:
+        return {"feed_url": url, "events": n}
     return None
+
+
+TITLE_KEYS = {"title", "name", "summary", "event_name", "eventname", "event_title"}
+DATE_KEYS = {"start", "startdate", "start_date", "starttime", "start_time", "date", "datetime",
+             "datetime_start", "dtstart", "starts_at", "startsat", "start_at", "startat",
+             "event_date", "eventdate", "begin", "begins", "first_date", "start_datetime", "startdatetime"}
+
+
+def count_eventish(node, depth=0):
+    """Count objects in a JSON tree that look like events (a title plus a start date)."""
+    if depth > 12:
+        return 0
+    if isinstance(node, list):
+        return sum(count_eventish(n, depth + 1) for n in node[:500])
+    if isinstance(node, dict):
+        keys = {str(k).lower() for k in node}
+        hit = 1 if (keys & TITLE_KEYS and keys & DATE_KEYS) else 0
+        return hit + sum(count_eventish(v, depth + 1) for v in node.values() if isinstance(v, (list, dict)))
+    return 0
+
+
+GCAL_ID_RE = re.compile(r"calendar/v3/calendars/([^/?&]+)/events|/calendar/ical/([^/]+)/public|calendar/embed\?[^\"' ]*?src=([^&\"' ]+)")
+
+
+def gcal_ics_from_text(text):
+    out = []
+    for m in GCAL_ID_RE.finditer(text):
+        cal = next(g for g in m.groups() if g)
+        cal = requests.utils.unquote(cal)
+        out.append(f"https://calendar.google.com/calendar/ical/{quote(cal)}/public/basic.ics")
+    return list(dict.fromkeys(out))[:4]
+
+
+def reader_fetch(url):
+    """Fallback for sites that block GitHub's servers: fetch through the r.jina.ai reader."""
+    try:
+        r = requests.get("https://r.jina.ai/" + url, headers={"Accept": "text/plain", "X-Return-Format": "text"},
+                         timeout=60)
+        return r.status_code, r.text or ""
+    except Exception as e:
+        return 0, f"{type(e).__name__}"
 
 
 def jsonld_events(soup):
@@ -139,8 +187,9 @@ def jsonld_events(soup):
     return len(found), upcoming
 
 
-def ics_candidates(page_url, soup, html_lower):
-    cands = []
+def ics_candidates(page_url, soup, html):
+    html_lower = html.lower()
+    cands = gcal_ics_from_text(html)
     for tag in soup.find_all(["a", "link"], href=True):
         href = tag["href"].strip()
         low = href.lower()
@@ -206,14 +255,18 @@ def probe_static(src):
 
     # 1. iCal
     best = None
-    for cand in ics_candidates(r["url"], soup, html_lower):
+    for cand in ics_candidates(r["url"], soup, html):
         res = check_ics(cand)
         if res and (best is None or res["upcoming"] > best["upcoming"]):
             best = res
     if best:
         rec["ics_events"], rec["ics_upcoming"] = best["events"], best["upcoming"]
-        if best["events"] > 0:
+        is_meetup = "meetup.com/" in best["feed_url"]
+        is_calendar_service = any(k in best["feed_url"] for k in ("calendar.google.com", "teamup.com"))
+        if best["events"] >= 2 or is_meetup or (is_calendar_service and best["events"] >= 1):
             rec["method"], rec["feed_url"] = "ical", best["feed_url"]
+        else:
+            notes.append("only a single-event calendar link, not a feed")
 
     # 2. JSON API
     if not rec["method"]:
@@ -224,6 +277,8 @@ def probe_static(src):
             api_cands.append(origin + "/wp-json/tribe/events/v1/events?per_page=20")
         if "localist" in html_lower:
             api_cands.append(origin + "/api/2/events?pp=20")
+        if "squarespace" in html_lower:
+            api_cands.append(r["url"].split("?")[0] + "?format=json")
         for cand in api_cands:
             res = check_json_events(cand)
             if res:
@@ -266,7 +321,9 @@ def probe_static(src):
 
 
 def probe_browser(recs):
-    """Render pages that the static pass could not classify."""
+    """Render pages the static pass could not classify. Along the way, look for
+    calendar feeds that only appear after JavaScript runs and for JSON data calls
+    that carry the events, which are cheaper to read than the rendered page."""
     try:
         from playwright.sync_api import sync_playwright
     except ImportError:
@@ -278,9 +335,8 @@ def probe_browser(recs):
         ctx = browser.new_context(user_agent=HEADERS["User-Agent"], locale="en-US")
         for rec in recs:
             page = ctx.new_page()
-            xhr = []
-            page.on("response", lambda resp: xhr.append(resp.url)
-                    if "json" in (resp.headers.get("content-type") or "") else None)
+            responses = []
+            page.on("response", lambda resp: responses.append(resp))
             try:
                 try:
                     page.goto(rec["url"], wait_until="networkidle", timeout=45000)
@@ -293,22 +349,71 @@ def probe_browser(recs):
                 rec["notes"] = (rec["notes"] + f"; browser error {type(e).__name__}").strip("; ")
                 page.close()
                 continue
+
+            # JSON data calls made by the page
+            best_xhr = None
+            for resp in responses:
+                try:
+                    if resp.request.method != "GET" or "json" not in (resp.headers.get("content-type") or ""):
+                        continue
+                    body = resp.text()
+                    if len(body) > 3_000_000:
+                        continue
+                    n = count_eventish(json.loads(body))
+                    if n >= 2 and (best_xhr is None or n > best_xhr[1]):
+                        best_xhr = (resp.url, n, body[:8000])
+                except Exception:
+                    continue
             page.close()
+
             d, n = date_stats(text)
             rec["rendered_date_hits"], rec["rendered_near_hits"] = d, n
-            n_ld, up_ld = jsonld_events(BeautifulSoup(html, "lxml"))
+            soup = BeautifulSoup(html, "lxml")
+            n_ld, up_ld = jsonld_events(soup)
             if n_ld and not rec["jsonld_events"]:
                 rec["jsonld_events"], rec["jsonld_upcoming"] = n_ld, up_ld
-            event_xhr = [u for u in xhr if any(k in u.lower() for k in ("event", "calendar", "graphql", "schedule"))]
-            if event_xhr:
-                rec["notes"] = (rec["notes"] + "; json calls: " + " | ".join(event_xhr[:3])).strip("; ")
-            if n >= 2 or d >= 4:
-                rec["method"] = "browser"
+
+            # a) calendar feed that only shows up after rendering
+            for cand in ics_candidates(rec["url"], soup, html) + gcal_ics_from_text(
+                    " ".join(r.url for r in responses)):
+                res = check_ics(cand)
+                if res and (res["events"] >= 2 or ("calendar.google.com" in cand and res["events"] >= 1)):
+                    rec["method"], rec["feed_url"] = "ical", cand
+                    rec["ics_events"], rec["ics_upcoming"] = res["events"], res["upcoming"]
+                    break
+            if rec["method"]:
                 rec["_text"] = text
-            elif n_ld:
+                continue
+
+            # b) JSON data call that also works without a browser
+            if best_xhr:
+                replay = check_json_events(best_xhr[0])
+                if replay:
+                    rec["method"], rec["feed_url"] = "xhr", best_xhr[0]
+                    rec["notes"] = (rec["notes"] + f"; json feed with {best_xhr[1]} events").strip("; ")
+                    rec["_text"] = best_xhr[2]
+                    continue
+                rec["notes"] = (rec["notes"] + f"; json feed needs the browser: {best_xhr[0][:150]}").strip("; ")
+
+            # c) dates visible in the rendered page
+            if n >= 2 or d >= 4 or n_ld or best_xhr:
                 rec["method"] = "browser"
                 rec["_text"] = text
         browser.close()
+
+
+def probe_reader(recs):
+    """Sites that block GitHub's servers: try the r.jina.ai reader instead."""
+    for rec in recs:
+        status, text = reader_fetch(rec["url"])
+        d, n = date_stats(text)
+        if status == 200 and (n >= 2 or d >= 4):
+            rec["method"], rec["feed_url"] = "reader", "https://r.jina.ai/" + rec["url"]
+            rec["_text"] = text
+            rec["notes"] = (rec["notes"] + f"; reader found {d} dates").strip("; ")
+        else:
+            rec["notes"] = (rec["notes"] + f"; reader {status}, {d} dates").strip("; ")
+        time.sleep(4)
 
 
 def main():
@@ -323,6 +428,12 @@ def main():
     t1 = time.time()
     probe_browser(todo)
     print(f"browser pass: {len(todo)} sources in {time.time() - t1:.0f}s", flush=True)
+
+    blocked = [r for r in recs if not r["method"] and (
+        r["http_status"] in (0, 202, 403, 406, 429, 503) or "JavaScript shell" in r["notes"])]
+    t2 = time.time()
+    probe_reader(blocked)
+    print(f"reader pass: {len(blocked)} sources in {time.time() - t2:.0f}s", flush=True)
 
     for r in recs:
         if not r["method"]:

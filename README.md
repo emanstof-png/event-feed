@@ -9,7 +9,7 @@ list. You tick events there and accept them into Google Calendar.
 | File | What it does |
 | --- | --- |
 | `sources.csv` | Snapshot of the sheet's Sources tab, used by the Probe. The sheet stays the source of truth. |
-| `probe.py` | Visits every source once and records how it can be read: `ical`, `api`, `jsonld`, `rss`, `html`, `browser`, or `none`. |
+| `probe.py` | Visits every source once and records how it can be read: `ical`, `api`, `jsonld`, `rss`, `html`, `xhr`, `browser`, `reader`, or `none`. |
 | `.github/workflows/probe.yml` | Runs the Probe on GitHub whenever `probe.py` or `sources.csv` changes, then commits the results. |
 | `probe_report.csv` / `.json` | Probe results, one row per source. |
 | `probe_samples/` | The page text each decision was based on, used to build scrapers. |
