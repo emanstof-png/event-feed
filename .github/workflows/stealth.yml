@@ -30,7 +30,7 @@ jobs:
 
       - name: Install dependencies
         run: |
-          pip install -r requirements-probe.txt "scrapling[fetchers]"
+          pip install requests beautifulsoup4 lxml "scrapling[fetchers]==0.5"
           scrapling install
 
       - name: Run stealth probe

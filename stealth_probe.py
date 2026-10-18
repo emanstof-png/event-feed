@@ -40,7 +40,7 @@ def main():
 
     results = []
     OUT.mkdir(exist_ok=True)
-    with StealthySession(headless=True, solve_cloudflare=True, network_idle=True) as session:
+    with StealthySession(headless=True, solve_cloudflare=True, network_idle=True, timeout=45000) as session:
         for s in targets:
             t0 = time.time()
             rec = {"name": s["name"], "url": s["url"], "probe_method": s["method"]}
