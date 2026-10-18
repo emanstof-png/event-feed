@@ -14,7 +14,17 @@ def window(days=21):
     return t, t + timedelta(days=days)
 
 def get(url, **kw):
-    r = requests.get(url, headers={**UA, **kw.pop("headers", {})}, timeout=kw.pop("timeout", 30), **kw)
+    """GET with a browser-like UA; retries twice on 429/5xx with a short backoff."""
+    import time
+    headers = {**UA, **kw.pop("headers", {})}
+    timeout = kw.pop("timeout", 30)
+    for attempt in range(3):
+        r = requests.get(url, headers=headers, timeout=timeout, **kw)
+        if r.status_code in (429, 500, 502, 503, 504) and attempt < 2:
+            time.sleep(4 * (attempt + 1))
+            continue
+        r.raise_for_status()
+        return r
     r.raise_for_status()
     return r
 

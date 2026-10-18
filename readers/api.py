@@ -62,4 +62,16 @@ def read(source, window_days=21):
             except Exception:
                 pass
     text = json.dumps(data)[:60000]
+    _debug_dump(source["name"], text)
     return dedupe([e for e in extract_events_from_text(text, source["name"]) if in_window(e, window_days)])
+
+
+def _debug_dump(name, text):
+    """No known shape matched: keep the first 4000 chars so the shape can be added."""
+    try:
+        import os, re
+        os.makedirs("debug", exist_ok=True)
+        slug = re.sub(r"[^a-z0-9]+", "-", name.lower()).strip("-")[:60]
+        open(f"debug/{slug}.json", "w", encoding="utf-8").write(text[:4000])
+    except Exception:
+        pass

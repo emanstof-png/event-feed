@@ -47,7 +47,7 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add feed_test.csv run_log.csv || true
+          git add feed_test.csv run_log.csv debug || true
           git commit -m "Feed test $(date -u +%Y-%m-%dT%H:%MZ)" || { echo "No changes"; exit 0; }
           git pull --rebase origin main
           git push origin HEAD:main
