@@ -13,8 +13,8 @@ jobs:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
         with: { python-version: "3.12" }
-      - run: pip install requests beautifulsoup4 lxml
-      - run: python -u verify.py 2>&1 | tee verify_log.txt
+      - run: pip install requests beautifulsoup4 lxml tzdata
+      - run: python -u verify.py 2>&1 | tee verify_log.txt; test ${PIPESTATUS[0]} -eq 0
       - name: Commit report
         if: always()
         run: |
