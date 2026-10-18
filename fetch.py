@@ -129,6 +129,8 @@ def run_source(src):
         return [], "SKIPPED", f"unknown method '{m}'"
     if src["feed_url"].startswith("https://r.jina.ai/"):
         src = {**src, "url": src["feed_url"]}
+    if m in ("browser", "stealth") and src["feed_url"].startswith("http"):
+        src = {**src, "url": src["feed_url"]}   # J holds the widget/embed URL to render
     try:
         mod = importlib.import_module(f"readers.{mod_name}")
         evs = mod.read(src, WINDOW_DAYS) or []
