@@ -100,6 +100,9 @@ NEEDS HUMAN. Eric's Chrome reads these on Sunday.
 - Today's date is in the sheet header; "upcoming" means on or after today.
 - Years matter. A page showing "10.21" with no year is not proof.
 - Write 3 sample events into your report. A count without samples is not proof.
+- A feed row is proof only when every column is filled: Date, Time (or blank for all-day), Title,
+  Venue, Link (http), Source, Category, Description. The first feed went out with 166 empty links
+  because this list stopped at "date and title".
 
 ## What to record (Sources tab columns)
 
@@ -176,6 +179,12 @@ The manual run, step by step (first done Oct 18, 2:50am; 673 events with categor
 - Quoting a duration without saying who spends it. "15 minutes" of GitHub rendering costs no
   tokens; say so, or it reads as 15 minutes of Fable.
 - A browser render job with no per-source cap: 34 sources ran past 28 minutes. Cap each source.
+- Announcing the feed without reading it. 166 of 673 rows had no link; Eric found it, not the
+  agent. Why it slipped: the proof standard covered sources (date + title), not feed rows; check.py
+  checked the source table, not the output; the ical reader was written against feeds the scouts
+  could not open (Google Calendar), so its URL handling was never exercised; and the lead agent
+  reported the row count instead of opening rows. Fixes: rule 11, check_feed() in check.py, the
+  feed-row proof line above, and the pre-announce check below.
 
 ## Working rules
 
@@ -184,6 +193,8 @@ The manual run, step by step (first done Oct 18, 2:50am; 673 events with categor
   commits raw text; scouts read the committed files and extract events. No key, same proof.
 - Fable designs and writes; Haiku repeats. Anything done more than four times goes to Haiku.
 - Answers to Eric: short, numbers first, built and proven stated separately.
+- Before telling Eric an output is ready: run `python check.py` on it, then read 5 rows chosen at
+  random as he would (click the link, read the blurb). A count is not a look.
 - Never invent an event. Say what you saw.
 - Plain fetch from this workspace cannot reach outside sites; GitHub Actions can. The
   scouts' WebFetch can.

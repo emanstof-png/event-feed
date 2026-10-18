@@ -38,6 +38,7 @@ script can; CI runs it on every push. The rest are on whoever is working.
 
 10. **Every session ends with a handoff in the Specs doc** (numbers, built / not built,
     confidence, next steps in order) and a green `python check.py`. Then it is safe to compact.
+    The same two steps come before announcing any output to Eric, plus reading 5 random rows.
 
 Added Oct 18, 2:55am, after Eric found 166 empty links in the first feed:
 
