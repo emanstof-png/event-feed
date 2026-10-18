@@ -1,45 +1,45 @@
 Source,Method,Status,Events,Seconds,Error,Sample,Run at
-GatherDC,api,LIVE,50,0.3,,2026-10-18 Sunday Run with Nice Jewish Runners DC; 2026-10-18 11th Annual Day of Ladino @ Sephardic Te; 2026-10-18 Stroll &#038; Shmooze (ages 25-35) with ,2026-10-18 02:33
-EntryPointDC (Edlavitch DCJCC),ical,LIVE,23,1.2,,2026-10-18 Teen Volunteer Project: Rock Creek Park ; 2026-10-19 FitLab @ the J; 2026-10-20 FitLab @ the J,2026-10-18 02:33
-Sixth & I,api,ERROR,0,0.2,HTTPError: 403 Client Error: Forbidden for url: https://www.sixthandi.org/wp-json/tribe/events/v1/events?per_page=100&start_date=2026-10-18,,2026-10-18 02:33
-2239 (Washington Hebrew Congregation),api,ERROR,0,0.4,HTTPError: 403 Client Error: Forbidden for url: https://www.whctemple.org/wp-json/tribe/events/v1/events?search=Metro%20Minyan&per_page=20,,2026-10-18 02:33
-Next Gen (Jewish Federation of Greater Washington),ical,LIVE,29,0.3,,2026-10-18 SunriseWALKS 2026 - Benefitting Kids wit; 2026-10-18 ECC Fall Festival; 2026-10-18 SHIN-DC 11th Annual Day of Ladino at DC',2026-10-18 02:33
-Bhakti Yoga DC,recurring,RECURRING,3,0.0,,2026-10-22 Satsang; 2026-10-29 Satsang; 2026-11-05 Satsang,2026-10-18 02:33
-Ecstatic Dance DC,recurring,RECURRING,3,0.0,,2026-10-22 Ecstatic Dance DC; 2026-10-29 Ecstatic Dance DC; 2026-11-05 Ecstatic Dance DC,2026-10-18 02:33
-Authentic Relating DC,ical,LIVE,5,0.6,,2026-10-25 Authentic Relating Women's Circle; 2026-10-26 Conscious Speed Dating; 2026-10-31 Forest Bathing at Lake Churchill,2026-10-18 02:33
-DC Contact Improv,recurring,RECURRING,4,0.0,,2026-10-18 Sunday Jam (1st Sunday = Underscore); 2026-10-25 Sunday Jam (1st Sunday = Underscore); 2026-11-01 Sunday Jam (1st Sunday = Underscore),2026-10-18 02:33
-Blueberry Gardens Healing Center,ical,LIVE,4,0.3,,2026-10-28 Gong Meditation / Sound Bath; 2026-10-19 All-Levels Yoga; 2026-10-26 All-Levels Yoga,2026-10-18 02:33
-The Center for Mindful Living,recurring,RECURRING,3,0.0,,2026-10-24 In-Person Living Dharma Circle; 2026-10-31 In-Person Living Dharma Circle; 2026-11-07 In-Person Living Dharma Circle,2026-10-18 02:33
-Satchidananda Ashram-Yogaville,ical,LIVE but thin,1,0.1,,2026-11-07 Deepavali,2026-10-18 02:33
-Georgetown University (university-wide),api,LIVE,96,0.9,,2026-10-18 Fall 2026- Parent & Family Weekend; 2026-10-19 DC Startup & Tech Week; 2026-10-19 F-1 & J-1 Academics,2026-10-18 02:33
-Georgetown School of Foreign Service,api,LIVE,13,0.5,,"2026-10-19 Far-Right France: How the Rise of Marine; 2026-10-19 Israel, Iran and the Midterms: A Discuss; 2026-10-20 McCourt Briefs: Big Issues, Short Talks ",2026-10-18 02:33
-Georgetown Institute of Politics and Public Service,ical,LIVE,12,0.5,,2026-10-28 Louisa Terrell Discussion Group; 2026-10-21 Colleen Reding Mearn Discussion Group; 2026-10-28 Colleen Reding Mearn Discussion Group,2026-10-18 02:33
-Georgetown Department of Government,api,LIVE,6,0.3,,2026-10-20 M.A. in Conflict Resolution Virtual Info; 2026-10-28 Book Talk with Professor danah boyd:“Dat; 2026-10-30 Government MA Programs Information Sessi,2026-10-18 02:33
-George Washington University (university-wide),api,LIVE,91,6.7,,2026-10-18 2026 GW Alumni & Families Weekend; 2026-10-18 George Washington University Women's Ten; 2026-10-18 Trick or Treat-ment,2026-10-18 02:33
-GW Elliott School of International Affairs,ical,LIVE,32,2.1,,2026-10-19 Book Launch: The Routledge Handbook of I; 2026-10-20 Book Presentation & Discussion: Climate ; 2026-10-20 America <-> Asia US-Taiwan Relations: Gr,2026-10-18 02:33
-La Maison Francaise (Embassy of France),ical,LIVE,7,1.2,,2026-10-21 The Role of the French Military in the A; 2026-10-23 Alsace: Pinot Gris World Wine Tasting & ; 2026-10-24 CONNEXION,2026-10-18 02:33
-Socrates Cafe Rockville,ical,LIVE,3,0.4,,2026-10-22 Socrates Café's Annual Spooky Movie Nigh; 2026-10-25 Aristotle's Café; 2026-11-07 Socrates Café Rockville Meetup,2026-10-18 02:33
-Practical Philosophy Club (Washington DC),ical,LIVE,3,1.1,,2026-10-21 WASHINGTON 🇺🇸 Practical Philosophy Meetu; 2026-10-28 WASHINGTON 🇺🇸 Practical Philosophy Meetu; 2026-11-04 WASHINGTON 🇺🇸 Practical Philosophy Meetu,2026-10-18 02:33
-Effective Altruism DC,ical,EMPTY,0,0.1,,,2026-10-18 02:33
-Interintellect,xhr,ERROR,0,14.0,HTTPError: 500 Server Error: Internal Server Error for url: https://interintellect.com/api/salon/public/all?grouped=true&direction=newer&isFirstLoad=true&includeSeries=true&tabType=all&limit=100,,2026-10-18 02:33
-Braver Angels DC Alliance,ical,LIVE but thin,1,0.3,,2026-10-20 DMV Social,2026-10-18 02:33
-Profs and Pints (Washington DC),ical,LIVE,9,0.5,,2026-10-18 Profs & Pints DC: The Macabre Poe; 2026-10-19 Profs & Pints DC: Medieval Monsters; 2026-10-20 SOLD OUT-Profs & Pints DC: Early America,2026-10-18 02:33
-DC Policy Events (aggregator),api,LIVE,80,2.2,,2026-10-19 Prioritizing Free Expression in the Unit; 2026-10-19 Agentic Data Flows Privacy Data Minimiza; 2026-10-19 US-Taiwan Relations in the Trump Era,2026-10-18 02:33
-People's Book (Takoma Park),api,EMPTY,0,6.7,,,2026-10-18 02:33
-Rock Creek Conservancy,xhr,ERROR,0,0.1,HTTPError: 403 Client Error: Forbidden for url: https://events.timely.fun/api/calendars/54713121/events?timezone=America/New_York&view=tile&per_page=50,,2026-10-18 02:33
-Casey Trees,ical,LIVE,4,0.6,,2026-10-24 Bike Ride & Invasive Vine Removal on the; 2026-10-24 Tree Tour Through Georgetown; 2026-10-25 Fall Colors Nature Walk,2026-10-18 02:33
-Anacostia Watershed Society,api,LIVE,8,2.8,,2026-10-18 Partner Led Event &#8211; Trail Plogging; 2026-10-22 Mussel Survey in Heritage Marsh; 2026-10-23 Riverside Tree Planting at the Bladensbu,2026-10-18 02:33
-HacDC,ical,LIVE,9,0.4,,2026-10-19 Open Hac; 2026-10-21 Anime Movie Night; 2026-10-22 Hardware Hacking Night,2026-10-18 02:33
-Data Science DC,ical,EMPTY,0,0.2,,,2026-10-18 02:33
-Data Community DC,ical,LIVE but thin,2,0.6,,2026-10-21 Data Viz DC: An Interactive Introduction; 2026-10-29 PowerBI - Newbie Speaker Happy Hour - Ha,2026-10-18 02:33
-DC Python,ical,LIVE but thin,1,0.2,,2026-10-20 An Evening of Python Coding,2026-10-18 02:33
-PSW Science,ical,LIVE but thin,2,0.2,,2026-10-23 PSW SCIENCE; 2026-11-06 PSW SCIENCE,2026-10-18 02:33
-Game Kastle (College Park),ical,LIVE,72,3.5,,2026-10-27 Flesh & Blood Armory - Classic Construct; 2026-10-28 Worldbuilding Wednesday (RPG); 2026-10-23 Magic the Gathering Presents Reality Ech,2026-10-18 02:33
-Games & Comics Pair O' Dice (Fairfax),ical,LIVE,51,0.5,,2026-10-23 MTG Draft; 2026-10-30 MTG Draft; 2026-11-06 MTG Draft,2026-10-18 02:33
-Break My Game,recurring,RECURRING,1,0.0,,2026-11-08 Break My Game playtest,2026-10-18 02:33
-Beer & Board Games,ical,LIVE,10,0.4,,2026-10-18 High Interaction Board Games at Western ; 2026-10-19 Bring Your Own Game Night in DC at Nanny; 2026-10-21 Wednesday Board Game Night at Your Hobby,2026-10-18 02:33
-The DC Area Board Game Club,ical,EMPTY,0,0.3,,,2026-10-18 02:33
-Baila DC (socials),recurring,RECURRING,1,0.0,,2026-11-05 Baila Thursdays Salsa Social,2026-10-18 02:33
-Carpe Diem Arts,ical,LIVE,24,0.4,,2026-10-18 Daily Antidote of Song; 2026-10-19 Daily Antidote of Song; 2026-10-20 Daily Antidote of Song,2026-10-18 02:33
-District Clay Center (One Shot classes),recurring,RECURRING,10,0.0,,2026-10-23 One Shot wheel class; 2026-10-30 One Shot wheel class; 2026-11-06 One Shot wheel class,2026-10-18 02:33
-DC Social Guide,xhr,EMPTY,0,0.6,,,2026-10-18 02:33
+GatherDC,api,LIVE,50,0.5,,2026-10-18 Sunday Run with Nice Jewish Runners DC; 2026-10-18 11th Annual Day of Ladino @ Sephardic Te; 2026-10-18 Stroll &#038; Shmooze (ages 25-35) with ,2026-10-18 02:44
+EntryPointDC (Edlavitch DCJCC),ical,LIVE,23,1.7,,2026-10-18 Teen Volunteer Project: Rock Creek Park ; 2026-10-19 FitLab @ the J; 2026-10-20 FitLab @ the J,2026-10-18 02:44
+Sixth & I,api,ERROR,0,0.1,HTTPError: 403 Client Error: Forbidden for url: https://www.sixthandi.org/wp-json/tribe/events/v1/events?per_page=100&start_date=2026-10-18,,2026-10-18 02:44
+2239 (Washington Hebrew Congregation),api,ERROR,0,0.6,HTTPError: 403 Client Error: Forbidden for url: https://www.whctemple.org/wp-json/tribe/events/v1/events?search=Metro%20Minyan&per_page=20,,2026-10-18 02:44
+Next Gen (Jewish Federation of Greater Washington),ical,LIVE,29,0.4,,2026-10-18 SunriseWALKS 2026 - Benefitting Kids wit; 2026-10-18 ECC Fall Festival; 2026-10-18 SHIN-DC 11th Annual Day of Ladino at DC',2026-10-18 02:44
+Bhakti Yoga DC,recurring,RECURRING,3,0.0,,2026-10-22 Satsang; 2026-10-29 Satsang; 2026-11-05 Satsang,2026-10-18 02:44
+Ecstatic Dance DC,recurring,RECURRING,3,0.0,,2026-10-22 Ecstatic Dance DC; 2026-10-29 Ecstatic Dance DC; 2026-11-05 Ecstatic Dance DC,2026-10-18 02:44
+Authentic Relating DC,ical,LIVE,5,0.5,,2026-10-25 Authentic Relating Women's Circle; 2026-10-26 Conscious Speed Dating; 2026-10-31 Forest Bathing at Lake Churchill,2026-10-18 02:44
+DC Contact Improv,recurring,RECURRING,4,0.0,,2026-10-18 Sunday Jam (1st Sunday = Underscore); 2026-10-25 Sunday Jam (1st Sunday = Underscore); 2026-11-01 Sunday Jam (1st Sunday = Underscore),2026-10-18 02:44
+Blueberry Gardens Healing Center,ical,LIVE,4,0.3,,2026-10-28 Gong Meditation / Sound Bath; 2026-10-19 All-Levels Yoga; 2026-10-26 All-Levels Yoga,2026-10-18 02:44
+The Center for Mindful Living,recurring,RECURRING,3,0.0,,2026-10-24 In-Person Living Dharma Circle; 2026-10-31 In-Person Living Dharma Circle; 2026-11-07 In-Person Living Dharma Circle,2026-10-18 02:44
+Satchidananda Ashram-Yogaville,ical,LIVE but thin,1,0.4,,2026-11-07 Deepavali,2026-10-18 02:44
+Georgetown University (university-wide),api,LIVE,96,0.6,,2026-10-18 Fall 2026- Parent & Family Weekend; 2026-10-19 DC Startup & Tech Week; 2026-10-19 F-1 & J-1 Academics,2026-10-18 02:44
+Georgetown School of Foreign Service,api,LIVE,13,0.4,,"2026-10-19 Far-Right France: How the Rise of Marine; 2026-10-19 Israel, Iran and the Midterms: A Discuss; 2026-10-20 McCourt Briefs: Big Issues, Short Talks ",2026-10-18 02:44
+Georgetown Institute of Politics and Public Service,ical,LIVE,12,0.8,,2026-10-20 Sabrina Singh Discussion Group; 2026-10-27 Sabrina Singh Discussion Group; 2026-11-03 Sabrina Singh Discussion Group,2026-10-18 02:44
+Georgetown Department of Government,api,LIVE,6,0.5,,2026-10-20 M.A. in Conflict Resolution Virtual Info; 2026-10-28 Book Talk with Professor danah boyd:“Dat; 2026-10-30 Government MA Programs Information Sessi,2026-10-18 02:44
+George Washington University (university-wide),api,LIVE,91,3.9,,2026-10-18 2026 GW Alumni & Families Weekend; 2026-10-18 George Washington University Women's Ten; 2026-10-18 Trick or Treat-ment,2026-10-18 02:44
+GW Elliott School of International Affairs,ical,LIVE,32,2.6,,2026-10-19 Book Launch: The Routledge Handbook of I; 2026-10-20 Book Presentation & Discussion: Climate ; 2026-10-20 America <-> Asia US-Taiwan Relations: Gr,2026-10-18 02:44
+La Maison Francaise (Embassy of France),ical,LIVE,7,1.0,,2026-10-21 The Role of the French Military in the A; 2026-10-23 Alsace: Pinot Gris World Wine Tasting & ; 2026-10-24 CONNEXION,2026-10-18 02:44
+Socrates Cafe Rockville,ical,LIVE,3,0.3,,2026-10-22 Socrates Café's Annual Spooky Movie Nigh; 2026-10-25 Aristotle's Café; 2026-11-07 Socrates Café Rockville Meetup,2026-10-18 02:44
+Practical Philosophy Club (Washington DC),ical,LIVE,3,0.9,,2026-10-21 WASHINGTON 🇺🇸 Practical Philosophy Meetu; 2026-10-28 WASHINGTON 🇺🇸 Practical Philosophy Meetu; 2026-11-04 WASHINGTON 🇺🇸 Practical Philosophy Meetu,2026-10-18 02:44
+Effective Altruism DC,ical,EMPTY,0,0.2,,,2026-10-18 02:44
+Interintellect,xhr,ERROR,0,15.4,HTTPError: 500 Server Error: Internal Server Error for url: https://interintellect.com/api/salon/public/all?grouped=true&direction=newer&isFirstLoad=true&includeSeries=true&tabType=all&limit=100,,2026-10-18 02:44
+Braver Angels DC Alliance,ical,LIVE but thin,1,0.3,,2026-10-20 DMV Social,2026-10-18 02:44
+Profs and Pints (Washington DC),ical,LIVE,9,0.5,,2026-10-18 Profs & Pints DC: The Macabre Poe; 2026-10-19 Profs & Pints DC: Medieval Monsters; 2026-10-20 SOLD OUT-Profs & Pints DC: Early America,2026-10-18 02:44
+DC Policy Events (aggregator),api,LIVE,80,1.7,,2026-10-19 Prioritizing Free Expression in the Unit; 2026-10-19 Agentic Data Flows Privacy Data Minimiza; 2026-10-19 US-Taiwan Relations in the Trump Era,2026-10-18 02:44
+People's Book (Takoma Park),api,EMPTY,0,2.0,,,2026-10-18 02:44
+Rock Creek Conservancy,xhr,ERROR,0,0.1,HTTPError: 403 Client Error: Forbidden for url: https://events.timely.fun/api/calendars/54713121/events?timezone=America/New_York&view=tile&per_page=50,,2026-10-18 02:44
+Casey Trees,ical,LIVE,4,0.4,,2026-10-24 Bike Ride & Invasive Vine Removal on the; 2026-10-24 Tree Tour Through Georgetown; 2026-10-25 Fall Colors Nature Walk,2026-10-18 02:44
+Anacostia Watershed Society,api,LIVE,8,2.4,,2026-10-18 Partner Led Event &#8211; Trail Plogging; 2026-10-22 Mussel Survey in Heritage Marsh; 2026-10-23 Riverside Tree Planting at the Bladensbu,2026-10-18 02:44
+HacDC,ical,LIVE,9,0.4,,2026-10-19 Open Hac; 2026-10-21 Anime Movie Night; 2026-10-22 Hardware Hacking Night,2026-10-18 02:44
+Data Science DC,ical,EMPTY,0,0.2,,,2026-10-18 02:44
+Data Community DC,ical,LIVE but thin,2,0.2,,2026-10-21 Data Viz DC: An Interactive Introduction; 2026-10-29 PowerBI - Newbie Speaker Happy Hour - Ha,2026-10-18 02:44
+DC Python,ical,LIVE but thin,1,0.2,,2026-10-20 An Evening of Python Coding,2026-10-18 02:44
+PSW Science,ical,LIVE but thin,2,0.2,,2026-10-23 PSW SCIENCE; 2026-11-06 PSW SCIENCE,2026-10-18 02:44
+Game Kastle (College Park),ical,LIVE,72,2.8,,2026-10-23 Magic the Gathering Presents Reality Ech; 2026-10-20 Tuesday Night TTRPG Carbon 2185 (RPG); 2026-10-27 Tuesday Night TTRPG Pathfinder 2e (RPG),2026-10-18 02:44
+Games & Comics Pair O' Dice (Fairfax),ical,LIVE,51,0.6,,2026-10-20 Lorcana Weekly Event; 2026-10-27 Lorcana Weekly Event; 2026-11-03 Lorcana Weekly Event,2026-10-18 02:44
+Break My Game,recurring,RECURRING,1,0.0,,2026-11-08 Break My Game playtest,2026-10-18 02:44
+Beer & Board Games,ical,LIVE,10,0.4,,2026-10-18 High Interaction Board Games at Western ; 2026-10-19 Bring Your Own Game Night in DC at Nanny; 2026-10-21 Wednesday Board Game Night at Your Hobby,2026-10-18 02:44
+The DC Area Board Game Club,ical,EMPTY,0,0.2,,,2026-10-18 02:44
+Baila DC (socials),recurring,RECURRING,1,0.0,,2026-11-05 Baila Thursdays Salsa Social,2026-10-18 02:44
+Carpe Diem Arts,ical,LIVE,24,0.4,,2026-10-23 Memory Café; 2026-11-06 TKPK: Solidarity Sing @ Church of the As; 2026-11-07 Shore- Dom Flemons Residency - Nanticoke,2026-10-18 02:44
+District Clay Center (One Shot classes),recurring,RECURRING,10,0.0,,2026-10-23 One Shot wheel class; 2026-10-30 One Shot wheel class; 2026-11-06 One Shot wheel class,2026-10-18 02:44
+DC Social Guide,xhr,EMPTY,0,0.6,,,2026-10-18 02:44
