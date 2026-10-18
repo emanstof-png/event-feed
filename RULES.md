@@ -23,7 +23,8 @@ script can; CI runs it on every push. The rest are on whoever is working.
    a note saying what was checked. *(checked: status vocabulary and EMPTY notes)*
 
 6. **Proof is 3 dated, titled events with samples.** Counts without samples are not proof; dates
-   without years are not proof. Scouts report in the fixed block format in `SCOUT` briefs.
+   without years are not proof. Scouts run on the prompts in `briefs/` and report in their fixed
+   block format; a brief that only exists in a chat is lost when the chat is compacted.
 
 7. **Say how long before starting; check back, never block.** Any job over a minute gets an
    expected duration up front and a scheduled check, not a silent wait. 20 subagents at once,

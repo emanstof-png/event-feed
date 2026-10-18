@@ -15,6 +15,11 @@ these wrong.
   recurring only, no Haiku, no browser). Oct 18 03:35Z: 674 events, 34 of 44 sources live.
   Re-run from the Actions tab, or `gh api -X POST repos/emanstof-png/event-feed/actions/workflows/feedtest.yml/dispatches -f ref=main`.
 - `debug/<slug>.json`: first 4000 chars of any API response no known shape matched. Add the shape to `readers/api.py`.
+- `briefs/`: the three Haiku scout prompts (verify a source, judge a browser render, write blurbs).
+  `briefs/README.md` says which to use when. Do not rewrite them in chat; read them from here.
+- `render_test.py` + "Browser render test" workflow: renders every browser row with the stealth
+  browser and commits the page text to `browser_samples/` (29 min for 34 rows). Scouts read those
+  files with `briefs/SCOUT_RENDER.md`. Oct 18: 20 of 34 showed real listings.
 - `readers/`: one module per method. `readers/README.md` maps Method to module.
 - `fetch.py`: loops Sources, dispatches on Method, writes the Feed tab. `--csv` runs with no Google
   key: reads `sources_methods.csv`, writes `feed_test.csv` + `run_log.csv`. `--dry-run` writes
@@ -145,7 +150,7 @@ Nothing gets automated for Sunday until one manual run has been looked at by Eri
 The manual run, step by step (first done Oct 18, 2:50am; 673 events with category and blurb):
 1. Dispatch: `gh api -X POST repos/emanstof-png/event-feed/actions/workflows/feedtest.yml/dispatches -f ref=main`
    (about 1 minute; writes feed_test.csv, feed_desc.csv, run_log.csv to the repo).
-2. Blurbs: split feed_desc.csv into 40-row batches; one Haiku scout per batch with the BLURB brief
+2. Blurbs: split feed_desc.csv into 40-row batches; one Haiku scout per batch with `briefs/BLURB.md`
    (5 to 10 words, writes `n<TAB>blurb` to a file, replies "done N"); cat the outputs into
    feed_blurbs.tsv and commit it. 17 scouts, under a minute.
 3. Paste: in the Composio workbench, curl feed_test.csv and feed_blurbs.tsv from

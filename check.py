@@ -67,7 +67,8 @@ def check_code():
     for m in set(MODULE.values()):
         try: importlib.import_module(f"readers.{m}")
         except Exception as e: problems.append(f"readers/{m}.py does not import: {type(e).__name__}: {e}")
-    for f in ["CLAUDE.md", "RULES.md", "readers/README.md", "requirements.txt",
+    for f in ["CLAUDE.md", "RULES.md", "readers/README.md", "requirements.txt", "briefs/SCOUT_VERIFY.md",
+              "briefs/SCOUT_RENDER.md", "briefs/BLURB.md", "render_test.py", ".github/workflows/render.yml",
               ".github/workflows/weekly.yml", ".github/workflows/feedtest.yml", ".github/workflows/check.yml"]:
         if not os.path.exists(f): problems.append(f"{f} missing")
     try:
