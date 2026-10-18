@@ -8,6 +8,16 @@ WINDOWS_TZ = {"Eastern Time (US & Canada)": "America/New_York", "Central Time (U
               "Mountain Time (US & Canada)": "America/Denver", "Pacific Time (US & Canada)": "America/Los_Angeles",
               "Eastern Standard Time": "America/New_York"}
 
+def _link(ev, source):
+    """Google Calendar and Luma feeds often have no URL property: fall back to the first link in the
+    description, then to the organization's page, so the Feed row is always clickable."""
+    import re
+    u = str(ev.get("URL", "") or "").strip()
+    if u.startswith("http"):
+        return u
+    m = re.search(r"https?://[^\s<>\"']+", str(ev.get("DESCRIPTION", "") or ""))
+    return m.group(0).rstrip(".,)") if m else source.get("url", "")
+
 def read(source, window_days=21):
     url = source.get("feed_url") or source["url"]
     if url.startswith("webcal:"):
@@ -25,5 +35,5 @@ def read(source, window_days=21):
         d = start.date() if isinstance(start, datetime) else start
         t = start.strftime("%H:%M") if isinstance(start, datetime) else ""
         out.append(event(d.isoformat(), str(ev.get("SUMMARY", "")), source["name"], t,
-                         str(ev.get("LOCATION", "") or ""), str(ev.get("URL", "") or ""), desc=str(ev.get("DESCRIPTION", ""))))
+                         str(ev.get("LOCATION", "") or ""), _link(ev, source), desc=str(ev.get("DESCRIPTION", ""))))
     return dedupe([e for e in out if in_window(e, window_days)])
