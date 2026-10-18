@@ -1,0 +1,153 @@
+DC Python
+https://www.meetup.com/dcpython/
+method: ical
+
+DC Python Meetup | Meetup
+Skip to content
+Homepage
+Part of Python Software Foundation Meetup Pro Network - 126 groups
+DC Python Meetup
+4.6
+•
+1313 ratings
+Bethesda, MD, US
+9,603 members
+Share
+About
+Events
+Members
+Photos
+Discussions
+About us
+Educational events for Python programmers in DC and worldwide, by 
+DC Python
+. Our 
+Code of Conduct is here
+.
+Upcoming events
+1
+See all
+An Evening of Python Coding
+Tue, Oct 20 · 8:00 PM EDT
+·
+Online
+Online
+• What we'll do
+Learners and complete Python novices are welcome as well as experts. If you want to start something new, please see this as an opportunity to jump start the project. If you need help with an existing coding project, bring it with you and we will have a look at it. If you want to show your complete code to someone else to test it, or if you just want to consult with python experts you are welcome.
+The format will be different than regular since this joins the Austin and DC python communities:
+6:30 CST = 7:30 EST we will start the meeting. Join the meetup to view the link.
+This link may change, so please check this link again before the meeting.
+7 CST = 8 EST: Announcement + Demo
+Around 7:30 CST = 8:30 EST continue discussions or break into smaller groups.
+Although this online meeting is different, for those new to this meetup, please check out previous meetups we had to get an idea of what to expect. Here is a link to previous meetups:
+https://github.com/Jacob-Barhak/EveningOfPythonCoding
+You will find there demo code and the folk who presented them. Feel free to clone and star demos that were useful to you.
+• Important to know
+Our focus for this month will be: django-cotton
+https://django-cotton.com/
+19 attendees
+Past events
+482
+See all
+An Evening of Python Coding
+Tue, Sep 15 · 8:00 PM EDT
+·
+Online
+Online
+41 attendees
+An Evening of Python Coding
+Tue, Aug 18 · 8:00 PM EDT
+·
+Online
+Online
+27 attendees
+Group links
+Organizers
+Alex
+and 3 others
+Message
+Members
+9,603
+See all
+J
+M
+R
+A
+K
+T
+C
+R
+C
+A
+J
+M
+Related topics
+Computer Programming
+Software Development
+Django
+Open Source
+Python Web Development
+Python
+Test Automation
+Data Science using Python
+Organizers
+Alex
+and 3 others
+Message
+Members
+9,603
+See all
+J
+M
+R
+A
+K
+T
+C
+R
+C
+A
+J
+M
+.
+The 
+people
+ platform
+Create your own Meetup group
+.
+Start a new group
+Your account
+Sign up
+Log in
+Help
+Discover
+Groups
+Events
+Topics
+Cities
+Online events
+Local guides
+Make friends
+Sitemap
+Meetup
+About
+Blog
+Meetup Pro
+Careers
+Apps
+Podcast
+Follow us
+Get the app
+Download on
+Google Play
+Download on
+App Store
+Terms of service
+Privacy policy
+Cookie policy
+License attribution
+Help
+© 
+Bending Spoons Operations S.p.A. | Sole shareholder company subject to the management and coordination of Bending Spoons S.p.A. | Via Nino Bonnet 10, 20154, Milan, Italy | VAT, tax code, and number of registration with the Milan Monza Brianza Lodi Company Register 13368510965 | REA number MI 2718456 | Contributed capital €150.000,00 fully paid-in
+Made with 
+ by

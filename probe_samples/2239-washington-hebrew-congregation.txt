@@ -1,0 +1,7 @@
+2239 (Washington Hebrew Congregation)
+https://www.whctemple.org/events/
+method: none
+
+403 Forbidden
+403 Forbidden
+nginx

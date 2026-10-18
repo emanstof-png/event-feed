@@ -1,0 +1,117 @@
+National Capital Astronomers
+https://capitalastronomers.org/
+method: html
+
+National Capital Astronomers, Washington, D.C. Metro Area
+HOME
+ | 
+Telescope Making Workshops
+ | 
+Exploring the Sky
+ | 
+Contact Info
+ | 
+Star Dust Archive
+ | 
+Mtg Videos
+ | 
+Links
+National Capital Astronomers
+Join or Renew!
+Fill out 
+our Google Form
+.
+Pay your dues! -- 2 options:
+Online
+    Membership Types
+      1 Yr Individual/Family $20.00 USD
+      3 Yr Individual/Family $45.00 USD
+      1 Yr Student $5.00 USD
+      Lifetime $200.00 USD
+Via Check
+Make payable to: National Capital Astronomers
+Then mail to: Jim Simpson, NCA Treasurer, 3845 Wayson Road, Davidsonville, MD 21035
+Your membership is active as soon as you pay the dues! There is no 'approval' process. It is as simple as filling out the form (for our records) and submitting your dues.
+About NCA
+Founded in 1937 at the US Naval Observatory by a group of professional and amateur astronomers, the National Capital Astronomers (NCA) is a volunteer-driven nonprofit aiming to ignite public interest in astronomy and space science. We're all about sharing the wonders of the universe with everyone!
+Our Stellar Activities:
+Monthly Star Talks:
+ Join us every second Saturday at the University of Maryland Observatory for enlightening lectures followed by stargazing sessions (weather permitting).
+Exploring the Sky:
+ In collaboration with the National Park Service, we host free monthly telescope events at Rock Creek National Park. Catch a planetarium show before diving into the cosmos!
+Sidewalk Astronomy:
+ We pop up around DC with telescopes for both planned and spontaneous events, showcasing celestial wonders against the city's bright lights.
+Science Fair Fun:
+ We scout and reward top-notch astronomy projects in local science fairs.
+School & Scout Outreach:
+ We bring the stars to classrooms and scout groups with talks and telescope demonstrations.
+Telescope Making Workshops:
+ Since WWII, we've been running free workshops where you can craft your own Newtonian telescope or fine-tune a commercial one.
+Deep-Sky Adventures:
+ Our members often venture to darker sites for deep-sky explorations with other astronomy clubs.
+Affiliations & Contributions:
+ As part of the Washington Academy of Sciences and the Astronomical League, we actively combat light pollution with Dark Sky International and are part of the Night Sky Network.
+Our Cosmic Perspective:
+While we marvel at the discovery of thousands of exoplanets, we recognize Earth's unique hospitality. This drives our mission to protect our planet's resources and life. After all, as Captain Kirk (a.k.a. William Shatner) discovered, space is a harsh place!
+Join us for a cosmic journey and be part of our mission to explore, understand, and protect our universe!
+Our Meetings
+Monthly Meetings with Educational Presentations are Free and Open to the Public
+NCA has regular monthly meetings September through June on the second Saturday of the month. For 2025-26, meetings will be held in-person at the University of Maryland Astronomical Observatory in College Park, Maryland (
+directions/map
+) 
+AND
+ online via Zoom (details below). Seating is limited, so we are encouraging folks to attend via Zoom.
+Public transportation:
+Directions/maps to the UMD Observatory
+Inclement weather:
+ In case of severe weather (tornado/snow/impassable roads), a notice will be placed on the 
+Observatory Website
+ on the day of the meeting. (Be sure to refresh/reload the page to make sure you are seeing an updated page.)
+The meetings for this year will be HYBRID (online via Zoom AND in-person), unless otherwise noted!
+Meeting Schedule for 2026-2027
+Sep 12, 2026:    Zachary Gleiberman (NCA), 
+Observatory DC: Amateur Astronomy from the District of Columbia
+Gleiberman video
+Gleiberman audio only
+Oct 10, 2026:     Nicholas Kirschner (NASA's Goddard Space Flight Center, GWU), 
+The Compton Pair (ComPair) Mission
+Nov 14, 2026:     James Cole (Leidos), 
+Models of the Universe: What We Can and Cannot Know. How We Know It and When We Knew It
+Dec 12, 2026:     Members' Only Observing Session (no speaker)
+Jan 09, 2027:     ???, 
+???
+Feb 13, 2027:     Saswatee Banerjee (Photonic Wave Solutions LLC), 
+Computational Photonics: Finite-Difference and other Computational Methods in Design and Fabrication of Photonic Devices
+Mar 13, 2027:     ???, 
+???
+Apr 10, 2027:     ???, 
+???
+May 08, 2027:     ???, 
+???
+Jun 12, 2027:    Science Fair Winners!! and Astrophotos!
+With permission of the speakers, most meetings will be recorded. Once available the audio and video will be linked.
+Online Meeting Information
+National Capital Astronomers will be holding its 2025-2026 meetings online via Zoom and in-person. This year, the Zoom meetings have been set up so that there is no registration required. This is the direct Zoom link, it is the same for everybody for every meeting this year. If we have problems with Zoom bombing at a meeting, then the link will be canceled and a new one created that will require registration for subsequent meetings.
+As usual, the Zoom room "doors" open at 7pm ET with the actual meeting starting on time at 7:30pm! While you do not need to sign in right at 7pm, please do not wait until 7:35pm!! And since we are not registering folks, it will be important that you have a recognizable name showing so that I can let you in from the virtual waiting room.
+With the permission of the guestspeakers, we will be recording the meetings.
+Zoom Link
+Join Zoom Meeting: 
+NCA Monthly Zoom
+Zoom Etiquette
+These guidelines will be updated as needed.
+AUDIO: Please mute yourself! Only unmute after "rasing your hand&quot: and being called on by moderator. If you need to test your system, please do so after the Zoom room opens but before the meeting starts! The moderator has the ability to mute viewers.
+VIDEO: Attendees may have their video on. Be mindful of what is in your background.
+Please have your name clearly posted.
+Use the "Raise Hand" function when you would like to ask a question. A moderator will call on you at which time you may unmute to ask your question. Questions may also be sent to a moderator via the chat function.
+With the permission of the guestspeakers, these Zoom sessions will be recorded.
+Moderators will mute individuals as needed. Any particularly unruly participants will be kicked out.
+The meetings will start at 7:30pm ET. The Zoom room will open at 7:00pm. Initially, we will not "lock the doors" at 7:30, but if folks joining late becomes disruptive, we will institute that requirement to be on time.
+The Compton Pair (ComPair) Mission
+Nicholas Kirschner (NASA's Goddard Space Flight Center, GWU)
+Next Meeting Date: Saturday, 10 October 2026
+7:30 pm
+Abstract:
+ The "MeV Gap" -- the notorious observational sensitivity deficit spanning the ~100 keV to ~100 MeV energy regime -- has limited progress in high-energy astrophysics for over two decades. Many astrophysical processes occur within this band therefore resolving this gap is essential to advancing our understanding of extreme astrophysical phenomena and early universe formation.
+The All-sky Medium Energy Gamma-ray Observatory (AMEGO) is a pioneering mission concept designed to bridge this gap, offering sensitive observations over an order of magnitude better than previous MeV instruments. To validate AMEGO's technology, the Compton Pair (ComPair) telescope was developed as a balloon-borne prototype and successfully flown in 2023. This presentation details the end-to-end development of the ComPair instrument, encompassing its construction, environmental testing, and flight performance.
+Bio:
+ Dr. Nicholas Kirschner is a high-energy astrophysicist who recently completed his doctorate at George Washington University. During his time there, he conducted his thesis research at NASA's Goddard Space Flight Center, where he played a key role in the development of the Compton Pair (ComPair) balloon instrument. He is currently a postdoctoral fellow at the U.S. Naval Research Laboratory (NRL), where he contributes to several high-energy gamma-ray missions, including 
