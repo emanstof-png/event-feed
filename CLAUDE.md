@@ -6,8 +6,11 @@ these wrong.
 
 ## Where things are
 
-- `PLAYBOOK.md`: one row per source, the final method, feed URL or rule, and why. Mirrored in the
-  Sources tab columns I (Method), J (Feed URL / rule), N (How to read). Read the row before touching a source.
+- `RULES.md`: ten operating rules. Read it second. `python check.py` enforces the mechanical ones
+  and CI runs it on every push; run it before every commit.
+- `sources_methods.csv`: snapshot of the Sources tab (B, I, J, K, L, M, N). `PLAYBOOK.md` is
+  generated from it by `python sync_playbook.py`; never edit PLAYBOOK by hand. Read a source's
+  row before touching the source.
 - `feed_test.csv` + `run_log.csv`: the latest "Feed test (no secrets)" run on GitHub (ical/api/xhr/
   recurring only, no Haiku, no browser). Oct 18 03:35Z: 674 events, 34 of 44 sources live.
   Re-run from the Actions tab, or `gh api -X POST repos/emanstof-png/event-feed/actions/workflows/feedtest.yml/dispatches -f ref=main`.
@@ -149,5 +152,8 @@ is never a complete note.
 - Never invent an event. Say what you saw.
 - Plain fetch from this workspace cannot reach outside sites; GitHub Actions can. The
   scouts' WebFetch can.
-- The sheet is the source of truth. `sources.csv` is a snapshot for the probe.
+- The sheet is the source of truth. `sources_methods.csv` is its snapshot; `sources.csv` is the
+  older probe snapshot (names and URLs only).
+- Before committing: `python check.py` must print OK. After changing a method anywhere, change
+  J, K, N, the CSV and run `python sync_playbook.py` in the same commit (RULES.md 1 to 3).
 - Commit messages end with the Claude attribution lines the session provides.

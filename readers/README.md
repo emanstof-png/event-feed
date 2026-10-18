@@ -13,4 +13,6 @@ One module per method. The sheet's **Method** column names the module; **Feed UR
 | reader | `readers/html.py` with `https://r.jina.ai/` prefix in Feed URL | yes | no |
 | none | skipped; row Status explains why | | |
 
+Browser rows render the Feed URL (J) when it is a URL, else the page URL (B).
+
 `fetch.py` loops over Sources, dispatches on Method, writes Feed. Read its docstring for flags.

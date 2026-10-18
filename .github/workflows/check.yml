@@ -1,0 +1,23 @@
+name: Check
+
+# Runs check.py on every push: the mechanical half of RULES.md. A red X here means the
+# snapshot, playbook, readers or workflows disagree with each other. Fix, don't skip.
+on:
+  push:
+    branches: [main]
+  pull_request:
+
+permissions:
+  contents: read
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install requests beautifulsoup4 lxml icalendar recurring-ical-events feedparser anthropic tzdata
+      - run: python check.py
