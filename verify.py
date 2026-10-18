@@ -14,6 +14,7 @@ IN3W = TODAY + timedelta(days=21)
 
 def ics_events(url):
     r = fetch(url)
+    r["text"] = r.get("text") or ""
     if r["status"] != 200 or "BEGIN:VEVENT" not in r["text"]: return None
     body = r["text"]
     out = []
@@ -30,7 +31,7 @@ def json_events(url, extra_headers=None):
         r = requests.get(url, headers={**HEADERS, **(extra_headers or {})}, timeout=30)
         data = r.json()
     except Exception as e:
-        return {"error": f"{type(e).__name__}"}
+        return {"error": f"{type(e).__name__}", "status": getattr(locals().get('r'), 'status_code', None), "head": (getattr(locals().get('r'), 'text', '') or '')[:200]}
     n = count_eventish(data)
     txt = json.dumps(data)[:600]
     return {"status": r.status_code, "eventish": n, "head": txt}
@@ -89,6 +90,7 @@ tests = {
  "Goethe": ("raw", "https://www.goethe.de/ins/us/en/sta/wsh/ver.cfm"),
 }
 
+import traceback
 report = {}
 for name, (kind, url) in tests.items():
     t0 = time.time()
@@ -98,9 +100,10 @@ for name, (kind, url) in tests.items():
         else:
             r = fetch(url); d, n = date_stats(r["text"])
             res = {"status": r["status"], "len": len(r["text"]), "dates": d, "near": n, "iframes": re.findall(r'<iframe[^>]+src="([^"]+)"', r["text"])[:3]}
-    except Exception as e:
-        res = {"error": f"{type(e).__name__}: {e}"[:120]}
+    except BaseException as e:
+        res = {"error": f"{type(e).__name__}: {e}"[:120], "tb": traceback.format_exc()[-300:]}
     res["url"] = url; res["sec"] = round(time.time()-t0,1)
     report[name] = res
     print(name, json.dumps(res)[:400], flush=True)
 json.dump(report, open("verify_report.json","w"), indent=1)
+print("DONE", len(report))

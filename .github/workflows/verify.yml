@@ -14,12 +14,12 @@ jobs:
       - uses: actions/setup-python@v5
         with: { python-version: "3.12" }
       - run: pip install requests beautifulsoup4 lxml
-      - run: python verify.py
+      - run: python -u verify.py 2>&1 | tee verify_log.txt
       - name: Commit report
         if: always()
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add verify_report.json
+          git add verify_report.json verify_log.txt
           git commit -m "Verify report $(date -u +%Y-%m-%dT%H:%MZ)" || exit 0
           git pull --rebase origin main && git push origin HEAD:main
