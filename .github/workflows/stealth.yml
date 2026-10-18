@@ -1,0 +1,47 @@
+name: Stealth probe (blocked sites)
+
+# Experiment: tests Scrapling's stealth browser on the sources that block
+# GitHub's servers. Runs when stealth_probe.py changes, or on demand.
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - stealth_probe.py
+      - .github/workflows/stealth.yml
+
+permissions:
+  contents: write
+
+concurrency:
+  group: stealth
+  cancel-in-progress: true
+
+jobs:
+  stealth:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: |
+          pip install -r requirements-probe.txt "scrapling[fetchers]"
+          scrapling install
+
+      - name: Run stealth probe
+        run: python stealth_probe.py
+
+      - name: Commit report
+        if: always()
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add stealth_report.json stealth_samples || true
+          git commit -m "Stealth probe report $(date -u +%Y-%m-%dT%H:%MZ)" || { echo "No changes"; exit 0; }
+          git pull --rebase origin main
+          git push origin HEAD:main
