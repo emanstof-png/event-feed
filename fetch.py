@@ -76,6 +76,18 @@ def load_sources(sh):
     return out
 
 
+def load_sources_csv(path="sources_methods.csv"):
+    """Snapshot of Sources columns A, B, E, I, J for runs without a Google key."""
+    import csv
+    out = []
+    with open(path, newline="", encoding="utf-8") as f:
+        for i, r in enumerate(csv.DictReader(f), start=2):
+            out.append({"row": i, "name": r["name"].strip(), "url": r["url"].strip(), "category": r.get("category", ""),
+                        "paused": (r.get("paused") or "").strip().upper() == "TRUE",
+                        "method": r["method"].strip().lower(), "feed_url": (r.get("feed_url") or "").strip()})
+    return out
+
+
 def worksheet(sh, title, rows=2000, cols=10):
     try:
         return sh.worksheet(title)
@@ -178,13 +190,18 @@ def main():
     ap.add_argument("--methods", default="", help="comma list of methods to run")
     ap.add_argument("--limit", type=int, default=0)
     ap.add_argument("--workers", type=int, default=4, help="parallel sources (browser rows run 1 at a time)")
+    ap.add_argument("--csv", action="store_true",
+                    help="no Google key: read sources from sources_methods.csv, write feed_test.csv + run_log.csv")
     args = ap.parse_args()
 
     if not os.environ.get("ANTHROPIC_API_KEY"):
         print("WARNING: ANTHROPIC_API_KEY not set; html/rss/browser readers will return nothing", flush=True)
 
-    sh = open_sheet()
-    sources = load_sources(sh)
+    if args.csv:
+        sh, sources = None, load_sources_csv()
+    else:
+        sh = open_sheet()
+        sources = load_sources(sh)
     if args.only:
         sources = [s for s in sources if args.only.lower() in s["name"].lower()]
     if args.methods:
@@ -230,6 +247,15 @@ def main():
     for _, _, status, _, _ in results.values():
         counts[status] = counts.get(status, 0) + 1
     print("\nSUMMARY", json.dumps(counts), f"events={len(feed_rows)}", flush=True)
+
+    if args.csv:
+        import csv
+        with open("feed_test.csv", "w", newline="", encoding="utf-8") as f:
+            w = csv.writer(f); w.writerow(FEED_HEADER); w.writerows(feed_rows)
+        with open("run_log.csv", "w", newline="", encoding="utf-8") as f:
+            w = csv.writer(f); w.writerow(LOG_HEADER); w.writerows(log_rows)
+        print("wrote feed_test.csv and run_log.csv", flush=True)
+        return 0
 
     if args.dry_run:
         write_table(worksheet(sh, "Feed_test"), FEED_HEADER, feed_rows)
