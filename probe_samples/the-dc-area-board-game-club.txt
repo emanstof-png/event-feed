@@ -1,6 +1,6 @@
 The DC Area Board Game Club
 https://www.meetup.com/dc-area-board-games/
-method: html
+method: ical
 
 The DC Area Board Game Club | Meetup
 Skip to content

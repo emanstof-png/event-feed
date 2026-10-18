@@ -1,5 +1,5 @@
 {
- "run_at": "2026-10-17T21:15:45.183553-04:00",
+ "run_at": "2026-10-17T21:30:16.309712-04:00",
  "sources": [
   {
    "name": "GatherDC",
@@ -52,7 +52,7 @@
    "feed_url": "",
    "http_status": 200,
    "final_url": "https://memglobal.org/find-a-house/moishe-house-washington-d-c-columbia-heights/",
-   "static_text_len": 3745,
+   "static_text_len": 3742,
    "static_date_hits": 4,
    "static_near_hits": 3,
    "rendered_date_hits": "",
@@ -69,8 +69,8 @@
    "url": "https://connectjew.org/events",
    "category": "Jewish young adult",
    "priority": "",
-   "method": "browser",
-   "feed_url": "",
+   "method": "xhr",
+   "feed_url": "https://connectjew.org/api/v1/events?sort_by=date_asc&limit=20",
    "http_status": 200,
    "final_url": "https://connectjew.org/events",
    "static_text_len": 2196,
@@ -83,15 +83,15 @@
    "jsonld_events": 0,
    "jsonld_upcoming": 0,
    "platform": "",
-   "notes": "json calls: https://connectjew.org/api/v1/events?sort_by=date_asc&limit=20 | https://connectjew.org/api/v1/events?sort_by=date_asc&limit=20"
+   "notes": "json feed with 20 events"
   },
   {
    "name": "Sixth & I",
    "url": "https://www.sixthandi.org/events/",
    "category": "Jewish young adult",
    "priority": "",
-   "method": "none",
-   "feed_url": "",
+   "method": "reader",
+   "feed_url": "https://r.jina.ai/https://www.sixthandi.org/events/",
    "http_status": 403,
    "final_url": "https://www.sixthandi.org/events/",
    "static_text_len": 16,
@@ -104,7 +104,7 @@
    "jsonld_events": 0,
    "jsonld_upcoming": 0,
    "platform": "",
-   "notes": "looks like a JavaScript shell; blocked or rate-limited (403)"
+   "notes": "looks like a JavaScript shell; blocked or rate-limited (403); reader found 4 dates"
   },
   {
    "name": "2239 (Washington Hebrew Congregation)",
@@ -125,15 +125,15 @@
    "jsonld_events": 0,
    "jsonld_upcoming": 0,
    "platform": "",
-   "notes": "looks like a JavaScript shell; blocked or rate-limited (403)"
+   "notes": "looks like a JavaScript shell; blocked or rate-limited (403); reader 200, 1 dates"
   },
   {
    "name": "Reva (Adas Israel)",
    "url": "https://www.adasisrael.org/reva",
    "category": "Jewish young adult",
    "priority": "",
-   "method": "none",
-   "feed_url": "",
+   "method": "reader",
+   "feed_url": "https://r.jina.ai/https://www.adasisrael.org/reva",
    "http_status": 406,
    "final_url": "https://www.adasisrael.org/reva",
    "static_text_len": 0,
@@ -146,7 +146,7 @@
    "jsonld_events": 0,
    "jsonld_upcoming": 0,
    "platform": "",
-   "notes": "looks like a JavaScript shell"
+   "notes": "looks like a JavaScript shell; reader found 19 dates"
   },
   {
    "name": "Chabad Young Professionals DC",
@@ -167,7 +167,7 @@
    "jsonld_events": 0,
    "jsonld_upcoming": 0,
    "platform": "wix",
-   "notes": "json calls: https://engage.wixapps.net/serverless/chat-event-reporter/report-event | https://wix-engage-visitors-prod-23.firebaseio.com/core-chat/participants/0420634e-8ba6-48c5-8b26-6c30ded18457/events.json?auth=eyJhbGciOiJSUzI1NiIsImtpZCI6IjkwNGIwZjkxYmU2ZWIwODY3ZGFiYmFhYjU4N2RmYzJlMzNmMDBhMjQiLCJ0eXAiOiJKV1QifQ.eyJwYXJ0aWNpcGFudElkIjoiMDQyMDYzNGUtOGJhNi00OGM1LThiMjYtNmMzMGRlZDE4NDU3IiwiaXNzIjoiaHR0cHM6Ly9zZWN1cmV0b2tlbi5nb29nbGUuY29tL3dpeC1lbmdhZ2UtdmlzaXRvcnMtcHJvZC0xNSIsImF1ZCI6IndpeC1lbmdhZ2UtdmlzaXRvcnMtcHJvZC0xNSIsImF1dGhfdGltZSI6MTc5MjI4NTc4NywidXNlcl9pZCI6ImJiNGEwZGI5LTZmZWMtNGQ3NS1hZDUzLTMxZDZiNTg5YzdhYSIsInN1YiI6ImJiNGEwZGI5LTZmZWMtNGQ3NS1hZDUzLTMxZDZiNTg5YzdhYSIsImlhdCI6MTc5MjI4NTc4NywiZXhwIjoxNzkyMjg5Mzg3LCJmaXJlYmFzZSI6eyJpZGVudGl0aWVzIjp7fSwic2lnbl9pbl9wcm92aWRlciI6ImN1c3RvbSJ9fQ.To4NjBLyhg3vZv7L0tfKxPRjuzKQlM4HZekK3ZXT4POodunQuzo5qMJf_074-vO371QzreK9897MpWi-BxZDnNDRY5hQnTs44pdc4YBULZU_QtOxSu6ju1NBhIv6efdmoxdPFHDLWJSRLfw4753cxH_7M9Aklo4qhLtnAXheH5c4oQyQl9aaeJDn66a1eDUDJYulyOkb3tXEkuyfWtalSt83Ys48LMVCsZRmrcqN7fnlFlacs2pppOvkL_yI4IwlFHyMDXfJZZoMdDoumeKVsjFOnQuPK5bL4OJsMaHMxSk7dOmVVQOIxcvaNCAgnjJWC1_a-krWKesRZCTk9IqVJg | https://wix-engage-visitors-prod-23.firebaseio.com/core-chat/participants/0420634e-8ba6-48c5-8b26-6c30ded18457/events.json?auth=eyJhbGciOiJSUzI1NiIsImtpZCI6IjkwNGIwZjkxYmU2ZWIwODY3ZGFiYmFhYjU4N2RmYzJlMzNmMDBhMjQiLCJ0eXAiOiJKV1QifQ.eyJwYXJ0aWNpcGFudElkIjoiMDQyMDYzNGUtOGJhNi00OGM1LThiMjYtNmMzMGRlZDE4NDU3IiwiaXNzIjoiaHR0cHM6Ly9zZWN1cmV0b2tlbi5nb29nbGUuY29tL3dpeC1lbmdhZ2UtdmlzaXRvcnMtcHJvZC0xNSIsImF1ZCI6IndpeC1lbmdhZ2UtdmlzaXRvcnMtcHJvZC0xNSIsImF1dGhfdGltZSI6MTc5MjI4NTc4NywidXNlcl9pZCI6ImJiNGEwZGI5LTZmZWMtNGQ3NS1hZDUzLTMxZDZiNTg5YzdhYSIsInN1YiI6ImJiNGEwZGI5LTZmZWMtNGQ3NS1hZDUzLTMxZDZiNTg5YzdhYSIsImlhdCI6MTc5MjI4NTc4NywiZXhwIjoxNzkyMjg5Mzg3LCJmaXJlYmFzZSI6eyJpZGVudGl0aWVzIjp7fSwic2lnbl9pbl9wcm92aWRlciI6ImN1c3RvbSJ9fQ.To4NjBLyhg3vZv7L0tfKxPRjuzKQlM4HZekK3ZXT4POodunQuzo5qMJf_074-vO371QzreK9897MpWi-BxZDnNDRY5hQnTs44pdc4YBULZU_QtOxSu6ju1NBhIv6efdmoxdPFHDLWJSRLfw4753cxH_7M9Aklo4qhLtnAXheH5c4oQyQl9aaeJDn66a1eDUDJYulyOkb3tXEkuyfWtalSt83Ys48LMVCsZRmrcqN7fnlFlacs2pppOvkL_yI4IwlFHyMDXfJZZoMdDoumeKVsjFOnQuPK5bL4OJsMaHMxSk7dOmVVQOIxcvaNCAgnjJWC1_a-krWKesRZCTk9IqVJg"
+   "notes": ""
   },
   {
    "name": "Next Gen (Jewish Federation of Greater Washington)",
@@ -209,7 +209,7 @@
    "jsonld_events": 0,
    "jsonld_upcoming": 0,
    "platform": "",
-   "notes": "looks like a JavaScript shell; blocked or rate-limited (403)"
+   "notes": "looks like a JavaScript shell; blocked or rate-limited (403); reader 200, 0 dates"
   },
   {
    "name": "Bhakti Yoga DC",
@@ -230,7 +230,7 @@
    "jsonld_events": 0,
    "jsonld_upcoming": 0,
    "platform": "squarespace",
-   "notes": "json calls: https://www.bhaktiyogadc.com/api/popup-overlay/render?currentUrl=%2Fworkshops-events | https://www.wellnessliving.com/Wl/Event/EventList.json?.id-region=1&dl_end=2027-10-18&dl_start=2026-10-18&id_flag=1&is_backend=0&is_cache_reset=0&is_ignore_requirement=1&is_tab_all=1&k_business=145144&k_class_tab=&k_skin=&text_search= | https://www.wellnessliving.com/Wl/Classes/ClassList/List.json?.id-region=1&is_enrollment_block_all=1&is_enrollment_block_empty=1&is_event_include=1&is_franchise=0&k_business=145144"
+   "notes": ""
   },
   {
    "name": "Ecstatic Dance DC",
@@ -272,7 +272,7 @@
    "jsonld_events": 0,
    "jsonld_upcoming": 0,
    "platform": "eventbrite,mindbody",
-   "notes": "json calls: https://ev.hotelchamp.io//production/events"
+   "notes": ""
   },
   {
    "name": "Soul Fire Experiences / Ecstatic Dance Arlington",
@@ -293,7 +293,7 @@
    "jsonld_events": 0,
    "jsonld_upcoming": 0,
    "platform": "",
-   "notes": "looks like a JavaScript shell; json calls: https://api.theticketing.co/trpc/tixcoReact.userPermissions.getUserPermissions,sitePublic.event.getPublicEventPage?batch=1&input=%7B%220%22%3A%7B%22json%22%3Anull%2C%22meta%22%3A%7B%22values%22%3A%5B%22undefined%22%5D%2C%22v%22%3A1%7D%7D%2C%221%22%3A%7B%22json%22%3A%7B%22slug%22%3A%22edancearlhalloween26%22%7D%7D%7D | https://api.theticketing.co/trpc/siteCheckout.chooseTickets.getEventInfo,siteCheckout.checkout.getTrackersByEventSlug,siteCheckout.checkout.getEventHelmetInfo,tixcoReact.userPermissions.getUserPermissions?batch=1&input=%7B%220%22%3A%7B%22json%22%3A%7B%22slug%22%3A%22edancearlhalloween26%22%2C%22eventInstanceId%22%3Anull%2C%22categoryIds%22%3Anull%2C%22tiersFilter%22%3Anull%7D%2C%22meta%22%3A%7B%22values%22%3A%7B%22eventInstanceId%22%3A%5B%22undefined%22%5D%2C%22categoryIds%22%3A%5B%22undefined%22%5D%2C%22tiersFilter%22%3A%5B%22undefined%22%5D%7D%2C%22v%22%3A1%7D%7D%2C%221%22%3A%7B%22json%22%3A%7B%22slug%22%3A%22edancearlhalloween26%22%7D%7D%2C%222%22%3A%7B%22json%22%3A%7B%22slug%22%3A%22edancearlhalloween26%22%7D%7D%2C%223%22%3A%7B%22json%22%3Anull%2C%22meta%22%3A%7B%22values%22%3A%5B%22undefined%22%5D%2C%22v%22%3A1%7D%7D%7D"
+   "notes": "looks like a JavaScript shell"
   },
   {
    "name": "The Dance with Ann Kite",
@@ -314,7 +314,7 @@
    "jsonld_events": 0,
    "jsonld_upcoming": 0,
    "platform": "squarespace",
-   "notes": "json calls: https://mpc2-prod-25-is5qnl632q-wl.a.run.app/events?cee=no"
+   "notes": ""
   },
   {
    "name": "Sun & Moon Yoga Studio",
@@ -356,7 +356,7 @@
    "jsonld_events": 0,
    "jsonld_upcoming": 0,
    "platform": "squarespace,mindbody",
-   "notes": "json calls: https://form.flodesk.com/forms/644818970d36cd9255fd32ed/events | https://www.flowyogacenter.com/api/popup-overlay/render?currentUrl=%2Fschedule | https://bam.nr-data.net/1/NRBR-864e5d2e4809de36383?a=1683833872&v=1.324.0&to=Z11VbURWW0dRAkNYWV4XYFxUcUdVXQRAXkRbbUVQGXlQTEQLRB5xdWwYFm1bWldRDVJsGUdRU15TQ0YbQwJfVFJFVFJKGWxFRlUXXlRBbRdsTl9TUlFEKFNsGUNbX1xSQllR&rst=1519&s=4a1c9fe96d66e1b2&ref=https://go.mindbodyonline.com/book/widgets/schedules/view/df11863b06/schedule&ptid=2b114e4187c0992a&tt=65972dfa27ec5064&af=err,spa,xhr,stn,ins&ap=55.0392&be=19&fe=1247&dc=1241&fsh=1&perf=%7B%22timing%22:%7B%22of%22:1792285856937,%22n%22:0,%22f%22:1,%22dn%22:1,%22dne%22:1,%22c%22:1,%22s%22:1,%22ce%22:1,%22rq%22:3,%22rp%22:240,%22rpe%22:1227,%22di%22:1259,%22ds%22:1260,%22de%22:1261,%22dc%22:1261,%22l%22:1264,%22le%22:1266%7D,%22navigation%22:%7B%7D%7D"
+   "notes": ""
   },
   {
    "name": "Kadampa Meditation Center DC",
@@ -367,9 +367,9 @@
    "feed_url": "",
    "http_status": 200,
    "final_url": "https://www.meditation-dc.org/",
-   "static_text_len": 10622,
-   "static_date_hits": 16,
-   "static_near_hits": 14,
+   "static_text_len": 10569,
+   "static_date_hits": 17,
+   "static_near_hits": 15,
    "rendered_date_hits": "",
    "rendered_near_hits": "",
    "ics_events": "",
@@ -468,8 +468,8 @@
    "url": "https://www.awarehousedc.com/events",
    "category": "Spiritual & movement",
    "priority": "",
-   "method": "ical",
-   "feed_url": "https://www.awarehousedc.com/events/cannabis-meditation-1-khz8n-p47rm-ky7lb?format=ical",
+   "method": "api",
+   "feed_url": "https://www.awarehousedc.com/events?format=json",
    "http_status": 200,
    "final_url": "https://www.awarehousedc.com/events",
    "static_text_len": 49850,
@@ -482,7 +482,7 @@
    "jsonld_events": 0,
    "jsonld_upcoming": 0,
    "platform": "squarespace",
-   "notes": ""
+   "notes": "only a single-event calendar link, not a feed; api returned 30 events"
   },
   {
    "name": "DC Contact Improv",
@@ -533,9 +533,9 @@
    "priority": "",
    "method": "none",
    "feed_url": "",
-   "http_status": 202,
+   "http_status": 200,
    "final_url": "https://www.blueberrygardens.org/",
-   "static_text_len": 0,
+   "static_text_len": 2198,
    "static_date_hits": 0,
    "static_near_hits": 0,
    "rendered_date_hits": 0,
@@ -545,7 +545,7 @@
    "jsonld_events": 0,
    "jsonld_upcoming": 0,
    "platform": "",
-   "notes": "looks like a JavaScript shell"
+   "notes": ""
   },
   {
    "name": "Art of Living DC Center",
@@ -554,9 +554,9 @@
    "priority": "",
    "method": "none",
    "feed_url": "",
-   "http_status": 202,
+   "http_status": 200,
    "final_url": "https://dc.artofliving.org/",
-   "static_text_len": 0,
+   "static_text_len": 3548,
    "static_date_hits": 0,
    "static_near_hits": 0,
    "rendered_date_hits": 0,
@@ -566,7 +566,7 @@
    "jsonld_events": 0,
    "jsonld_upcoming": 0,
    "platform": "",
-   "notes": "looks like a JavaScript shell"
+   "notes": ""
   },
   {
    "name": "Insight Meditation Community of Washington (IMCW)",
@@ -587,7 +587,7 @@
    "jsonld_events": 0,
    "jsonld_upcoming": 0,
    "platform": "",
-   "notes": "json calls: https://api.eventagent.ai/api/CategoryList | https://api.eventagent.ai/api/VenueList | https://api.eventagent.ai/api/Speakers/"
+   "notes": "json feed needs the browser: https://api.eventagent.ai/api/ListView/?&timezone=UTC&includeRepeats=false"
   },
   {
    "name": "The Center for Mindful Living",
@@ -629,7 +629,7 @@
    "jsonld_events": 0,
    "jsonld_upcoming": 0,
    "platform": "mindbody",
-   "notes": "json calls: https://widgets.mindbodyonline.com/widgets/schedules/68577199f8a.json?mobile=false&version=1&utm_params= | https://csp.secureserver.net/eventbus/web?clientid=b18ef4f046435b64a469b32c3c1c20a3 | https://csp.secureserver.net/eventbus/web?clientid=8da2217409854bee82e12dc4ca0b39fb"
+   "notes": ""
   },
   {
    "name": "Satchidananda Ashram-Yogaville",
@@ -713,7 +713,7 @@
    "jsonld_events": 0,
    "jsonld_upcoming": 0,
    "platform": "",
-   "notes": "json calls: https://events.georgetown.edu/live/calendar/view/all?user_tz=CUT&template_vars=id,href,image_raw,title_link,summary,datetime_start,time,location,latitude,longitude,tag_links,is_canceled,is_online,image_src,repeats,is_multi_day,is_first_multi_day,multi_day_span,tag_classes,category_classes,has_map,tags&syntax=%3Cwidget%20type%3D%22events_calendar%22%3E%3Carg%20id%3D%22events_per_page%22%3E10%3C%2Farg%3E%3Carg%20id%3D%22thumb_width%22%3E285%3C%2Farg%3E%3Carg%20id%3D%22thumb_height%22%3E285%3C%2Farg%3E%3Carg%20id%3D%22image_width%22%3E326%3C%2Farg%3E%3Carg%20id%3D%22image_height%22%3E326%3C%2Farg%3E%3Carg%20id%3D%22hide_repeats%22%3Etrue%3C%2Farg%3E%3Carg%20id%3D%22use_tag_classes%22%3Efalse%3C%2Farg%3E%3Carg%20id%3D%22search_all_events_only%22%3Etrue%3C%2Farg%3E%3Carg%20id%3D%22home_view_combine_today_upcoming%22%3Etrue%3C%2Farg%3E%3Carg%20id%3D%22month_view_day_limit%22%3E1%3C%2Farg%3E%3Carg%20id%3D%22use_modular_templates%22%3Etrue%3C%2Farg%3E%3Carg%20id%3D%22show_groups%22%3Etrue%3C%2Farg%3E%3Carg%20id%3D%22show_categories%22%3Etrue%3C%2Farg%3E%3Carg%20id%3D%22show_tags%22%3Etrue%3C%2Farg%3E%3Carg%20id%3D%22show_locations%22%3Etrue%3C%2Farg%3E%3Carg%20id%3D%22enable_home_view%22%3Etrue%3C%2Farg%3E%3Carg%20id%3D%22default_view%22%3Eall%3C%2Farg%3E%3Carg%20id%3D%22group%22%3E%0A%09%09%09%09%09Institute%20of%20Politics%20and%20Public%20Service%0A%09%09%09%09%3C%2Farg%3E%3C%2Fwidget%3E"
+   "notes": ""
   },
   {
    "name": "Georgetown Department of Government",
@@ -734,7 +734,7 @@
    "jsonld_events": 0,
    "jsonld_upcoming": 0,
    "platform": "",
-   "notes": "json calls: https://events.georgetown.edu/live/calendar/view/all?user_tz=CUT&template_vars=id,href,image_raw,title_link,summary,datetime_start,time,location,latitude,longitude,tag_links,is_canceled,is_online,image_src,repeats,is_multi_day,is_first_multi_day,multi_day_span,tag_classes,category_classes,has_map,tags&syntax=%3Cwidget%20type%3D%22events_calendar%22%3E%3Carg%20id%3D%22events_per_page%22%3E10%3C%2Farg%3E%3Carg%20id%3D%22thumb_width%22%3E285%3C%2Farg%3E%3Carg%20id%3D%22thumb_height%22%3E285%3C%2Farg%3E%3Carg%20id%3D%22image_width%22%3E326%3C%2Farg%3E%3Carg%20id%3D%22image_height%22%3E326%3C%2Farg%3E%3Carg%20id%3D%22hide_repeats%22%3Etrue%3C%2Farg%3E%3Carg%20id%3D%22use_tag_classes%22%3Efalse%3C%2Farg%3E%3Carg%20id%3D%22search_all_events_only%22%3Etrue%3C%2Farg%3E%3Carg%20id%3D%22home_view_combine_today_upcoming%22%3Etrue%3C%2Farg%3E%3Carg%20id%3D%22month_view_day_limit%22%3E1%3C%2Farg%3E%3Carg%20id%3D%22use_modular_templates%22%3Etrue%3C%2Farg%3E%3Carg%20id%3D%22show_groups%22%3Etrue%3C%2Farg%3E%3Carg%20id%3D%22show_categories%22%3Etrue%3C%2Farg%3E%3Carg%20id%3D%22show_tags%22%3Etrue%3C%2Farg%3E%3Carg%20id%3D%22show_locations%22%3Etrue%3C%2Farg%3E%3Carg%20id%3D%22enable_home_view%22%3Etrue%3C%2Farg%3E%3Carg%20id%3D%22default_view%22%3Eall%3C%2Farg%3E%3Carg%20id%3D%22group%22%3E%0A%09%09%09%09%09Government%0A%09%09%09%09%3C%2Farg%3E%3C%2Fwidget%3E"
+   "notes": ""
   },
   {
    "name": "George Washington University (university-wide)",
@@ -797,28 +797,28 @@
    "jsonld_events": 0,
    "jsonld_upcoming": 0,
    "platform": "",
-   "notes": "looks like a JavaScript shell; blocked or rate-limited (403)"
+   "notes": "looks like a JavaScript shell; blocked or rate-limited (403); reader 403, 1 dates"
   },
   {
    "name": "American University College of Arts and Sciences",
    "url": "https://www.american.edu/cas/events/calendar/",
    "category": "University seminars",
    "priority": "",
-   "method": "browser",
+   "method": "none",
    "feed_url": "",
    "http_status": 403,
    "final_url": "https://www.american.edu/cas/events/calendar/",
    "static_text_len": 16,
    "static_date_hits": 0,
    "static_near_hits": 0,
-   "rendered_date_hits": 10,
-   "rendered_near_hits": 2,
+   "rendered_date_hits": 0,
+   "rendered_near_hits": 0,
    "ics_events": "",
    "ics_upcoming": "",
    "jsonld_events": 0,
    "jsonld_upcoming": 0,
    "platform": "",
-   "notes": "looks like a JavaScript shell; blocked or rate-limited (403); json calls: https://ara.paa-reporting-advertising.amazon/aat?pid=8c6e4645-66ce-4977-ab57-f8871032242e&event=Sitewide&gtmVersion=3.5&ts=1792285938694&eventSource=amzn.js&uuid=018dc590-b4e7-4f6e-9a3f-e2f9ed805dfd | https://m6-211026f8a25b42c08fc190458268b30e.ecs.us-east-2.on.aws/events?cee=no | https://start.chooseamericanu.org/mtc/event"
+   "notes": "looks like a JavaScript shell; blocked or rate-limited (403); reader 403, 1 dates"
   },
   {
    "name": "University of Maryland, College Park",
@@ -860,15 +860,15 @@
    "jsonld_events": 0,
    "jsonld_upcoming": 0,
    "platform": "",
-   "notes": "looks like a JavaScript shell; blocked or rate-limited (403)"
+   "notes": "looks like a JavaScript shell; blocked or rate-limited (403); reader 200, 0 dates"
   },
   {
    "name": "Japan Information & Culture Center (Embassy of Japan)",
    "url": "https://www.us.emb-japan.go.jp/jicc/events.html",
    "category": "Embassies & cultural institutes",
    "priority": "",
-   "method": "none",
-   "feed_url": "",
+   "method": "reader",
+   "feed_url": "https://r.jina.ai/https://www.us.emb-japan.go.jp/jicc/events.html",
    "http_status": 403,
    "final_url": "https://www.us.emb-japan.go.jp/jicc/events.html",
    "static_text_len": 232,
@@ -881,7 +881,7 @@
    "jsonld_events": 0,
    "jsonld_upcoming": 0,
    "platform": "",
-   "notes": "looks like a JavaScript shell; blocked or rate-limited (403)"
+   "notes": "looks like a JavaScript shell; blocked or rate-limited (403); reader found 64 dates"
   },
   {
    "name": "Goethe-Institut Washington",
@@ -902,7 +902,7 @@
    "jsonld_events": 0,
    "jsonld_upcoming": 0,
    "platform": "",
-   "notes": "looks like a JavaScript shell; blocked or rate-limited (403)"
+   "notes": "looks like a JavaScript shell; blocked or rate-limited (403); reader 200, 0 dates"
   },
   {
    "name": "Alliance Francaise of Washington DC",
@@ -951,8 +951,8 @@
    "url": "https://www.acfdc.org/events",
    "category": "Embassies & cultural institutes",
    "priority": "",
-   "method": "ical",
-   "feed_url": "https://www.acfdc.org/events/judith-fliedl2026-ppajj?format=ical",
+   "method": "api",
+   "feed_url": "https://www.acfdc.org/events?format=json",
    "http_status": 200,
    "final_url": "https://www.acfdc.org/events",
    "static_text_len": 19544,
@@ -965,7 +965,7 @@
    "jsonld_events": 0,
    "jsonld_upcoming": 0,
    "platform": "squarespace,eventbrite",
-   "notes": ""
+   "notes": "only a single-event calendar link, not a feed; api returned 4 events"
   },
   {
    "name": "Mexican Cultural Institute",
@@ -1119,8 +1119,8 @@
    "url": "https://www.effectivealtruismdc.org/event",
    "category": "Salons & discussion",
    "priority": "",
-   "method": "ical",
-   "feed_url": "https://www.effectivealtruismdc.org/event/ea-dc-global-health-and-development-happy-hour-1?format=ical",
+   "method": "api",
+   "feed_url": "https://www.effectivealtruismdc.org/event?format=json",
    "http_status": 200,
    "final_url": "https://www.effectivealtruismdc.org/event",
    "static_text_len": 22176,
@@ -1133,7 +1133,7 @@
    "jsonld_events": 0,
    "jsonld_upcoming": 0,
    "platform": "squarespace,eventbrite",
-   "notes": ""
+   "notes": "only a single-event calendar link, not a feed; api returned 30 events"
   },
   {
    "name": "LessWrong community events",
@@ -1154,15 +1154,15 @@
    "jsonld_events": 0,
    "jsonld_upcoming": 0,
    "platform": "",
-   "notes": "json calls: https://www.lesswrong.com/api/streamGraphql"
+   "notes": ""
   },
   {
    "name": "Interintellect",
    "url": "https://interintellect.com/salons",
    "category": "Salons & discussion",
    "priority": "",
-   "method": "browser",
-   "feed_url": "",
+   "method": "xhr",
+   "feed_url": "https://interintellect.com/api/salon/public/all?grouped=true&salonId=cmo4hqfl40000jo044zp9l6ii&direction=newer&isFirstLoad=true&includeSeries=true&tabType=all&limit=27",
    "http_status": 200,
    "final_url": "https://interintellect.com/salons",
    "static_text_len": 23,
@@ -1175,36 +1175,36 @@
    "jsonld_events": 0,
    "jsonld_upcoming": 0,
    "platform": "nextjs",
-   "notes": "looks like a JavaScript shell"
+   "notes": "looks like a JavaScript shell; json feed with 119 events"
   },
   {
    "name": "Braver Angels DC Alliance",
    "url": "https://dc.braverangels.org/",
    "category": "Salons & discussion",
    "priority": "",
-   "method": "none",
-   "feed_url": "",
+   "method": "ical",
+   "feed_url": "https://calendar.google.com/calendar/ical/c_699a2b8c681edb1f3cf7e85d3b9717529b4ccef15a8769cfca3a3f7023579fbb%40group.calendar.google.com/public/basic.ics",
    "http_status": 200,
    "final_url": "https://dc.braverangels.org/",
    "static_text_len": 2780,
    "static_date_hits": 0,
    "static_near_hits": 0,
-   "rendered_date_hits": 0,
-   "rendered_near_hits": 0,
-   "ics_events": "",
-   "ics_upcoming": "",
+   "rendered_date_hits": "",
+   "rendered_near_hits": "",
+   "ics_events": 18,
+   "ics_upcoming": 8,
    "jsonld_events": 0,
    "jsonld_upcoming": 0,
    "platform": "",
-   "notes": "json calls: https://clients6.google.com/calendar/v3/calendars/c_591d3346a1886005f402b448da0df2a0a6bd1c0c2d0150d1c58f795c5fcfe896%40group.calendar.google.com/events?calendarId=c_591d3346a1886005f402b448da0df2a0a6bd1c0c2d0150d1c58f795c5fcfe896%40group.calendar.google.com&singleEvents=true&eventTypes=default&eventTypes=focusTime&eventTypes=outOfOffice&timeZone=America%2FNew_York&maxAttendees=1&maxResults=250&sanitizeHtml=true&timeMin=2026-09-27T00%3A00%3A00%2B18%3A00&timeMax=2026-11-01T00%3A00%3A00-18%3A00&key=AIzaSyDOtGM5jr8bNp1utVpG2_gSRH03RNGBkI8&%24unique=gc456 | https://clients6.google.com/calendar/v3/calendars/c_699a2b8c681edb1f3cf7e85d3b9717529b4ccef15a8769cfca3a3f7023579fbb%40group.calendar.google.com/events?calendarId=c_699a2b8c681edb1f3cf7e85d3b9717529b4ccef15a8769cfca3a3f7023579fbb%40group.calendar.google.com&singleEvents=true&eventTypes=default&eventTypes=focusTime&eventTypes=outOfOffice&timeZone=America%2FNew_York&maxAttendees=1&maxResults=250&sanitizeHtml=true&timeMin=2026-09-27T00%3A00%3A00%2B18%3A00&timeMax=2026-11-01T00%3A00%3A00-18%3A00&key=AIzaSyDOtGM5jr8bNp1utVpG2_gSRH03RNGBkI8&%24unique=gc456 | https://clients6.google.com/calendar/v3/calendars/c_348dd69fb87e5b1c7c476ae79a6162324a6f6cf486aa3506d343cecf636060f8%40group.calendar.google.com/events?calendarId=c_348dd69fb87e5b1c7c476ae79a6162324a6f6cf486aa3506d343cecf636060f8%40group.calendar.google.com&singleEvents=true&eventTypes=default&eventTypes=focusTime&eventTypes=outOfOffice&timeZone=America%2FNew_York&maxAttendees=1&maxResults=250&sanitizeHtml=true&timeMin=2026-09-27T00%3A00%3A00%2B18%3A00&timeMax=2026-11-01T00%3A00%3A00-18%3A00&key=AIzaSyDOtGM5jr8bNp1utVpG2_gSRH03RNGBkI8&%24unique=gc456"
+   "notes": ""
   },
   {
    "name": "Profs and Pints (Washington DC)",
    "url": "https://www.profsandpints.com/washingtondc",
    "category": "Salons & discussion",
    "priority": "",
-   "method": "none",
-   "feed_url": "",
+   "method": "xhr",
+   "feed_url": "https://inffuse.eventscalendar.co/api/v0.1/projects/proj_lr47k4RGcA7AOQjThigB2/data/public/events?user=user_4bZ5wVFkE6dPYATc46PUQ&app=calendar",
    "http_status": 200,
    "final_url": "https://www.profsandpints.com/washingtondc",
    "static_text_len": 1446,
@@ -1217,7 +1217,7 @@
    "jsonld_events": 0,
    "jsonld_upcoming": 0,
    "platform": "wix,eventbrite",
-   "notes": "json calls: https://inffuse.eventscalendar.co/js/v0.1/calendar/data?exclude=events&_referrer=https%3A%2F%2Fwww.profsandpints.com%2F | https://inffuse.eventscalendar.co/api/v0.1/projects/proj_lr47k4RGcA7AOQjThigB2/data/public/events?user=user_4bZ5wVFkE6dPYATc46PUQ&app=calendar | https://inffuse.eventscalendar.co/api/v0.1/analytics/track"
+   "notes": "json feed with 500 events"
   },
   {
    "name": "Hill Center DC",
@@ -1427,7 +1427,7 @@
    "jsonld_events": 0,
    "jsonld_upcoming": 0,
    "platform": "",
-   "notes": "looks like a JavaScript shell; blocked or rate-limited (403)"
+   "notes": "looks like a JavaScript shell; blocked or rate-limited (403); reader 403, 1 dates"
   },
   {
    "name": "Hudson Institute",
@@ -1455,8 +1455,8 @@
    "url": "https://dcpolicyevents.com/",
    "category": "Think tanks & policy",
    "priority": "",
-   "method": "browser",
-   "feed_url": "",
+   "method": "xhr",
+   "feed_url": "https://dcpolicyevents.com/api/events",
    "http_status": 200,
    "final_url": "https://dcpolicyevents.com/",
    "static_text_len": 1276,
@@ -1469,15 +1469,15 @@
    "jsonld_events": 0,
    "jsonld_upcoming": 0,
    "platform": "",
-   "notes": "json calls: https://dcpolicyevents.com/api/session | https://dcpolicyevents.com/api/events"
+   "notes": "json feed with 113 events"
   },
   {
    "name": "Politics and Prose",
    "url": "https://politics-prose.com/events",
    "category": "Book & essay discussion",
    "priority": "",
-   "method": "none",
-   "feed_url": "",
+   "method": "reader",
+   "feed_url": "https://r.jina.ai/https://politics-prose.com/events",
    "http_status": 403,
    "final_url": "https://politics-prose.com/events",
    "static_text_len": 16,
@@ -1490,15 +1490,15 @@
    "jsonld_events": 0,
    "jsonld_upcoming": 0,
    "platform": "",
-   "notes": "looks like a JavaScript shell; blocked or rate-limited (403)"
+   "notes": "looks like a JavaScript shell; blocked or rate-limited (403); reader found 65 dates"
   },
   {
    "name": "Lost City Books",
    "url": "https://lostcitybookstore.com/events",
    "category": "Book & essay discussion",
    "priority": "",
-   "method": "none",
-   "feed_url": "",
+   "method": "reader",
+   "feed_url": "https://r.jina.ai/https://lostcitybookstore.com/events",
    "http_status": 403,
    "final_url": "https://lostcitybookstore.com/events",
    "static_text_len": 16,
@@ -1511,7 +1511,7 @@
    "jsonld_events": 0,
    "jsonld_upcoming": 0,
    "platform": "",
-   "notes": "looks like a JavaScript shell; blocked or rate-limited (403)"
+   "notes": "looks like a JavaScript shell; blocked or rate-limited (403); reader found 39 dates"
   },
   {
    "name": "Kramers",
@@ -1532,7 +1532,7 @@
    "jsonld_events": 0,
    "jsonld_upcoming": 0,
    "platform": "",
-   "notes": "looks like a JavaScript shell; json calls: https://api.bookmanager.com/customer/event/v2/list?_cb=1562584 | https://api.bookmanager.com/customer/event/v2/getRsvpInfo?_cb=1562584 | https://api.bookmanager.com/customer/event/v2/getRsvpInfo?_cb=1562584"
+   "notes": "looks like a JavaScript shell"
   },
   {
    "name": "East City Bookshop",
@@ -1553,15 +1553,15 @@
    "jsonld_events": 0,
    "jsonld_upcoming": 0,
    "platform": "",
-   "notes": "looks like a JavaScript shell; json calls: https://api.bookmanager.com/customer/event/v2/list?_cb=9900977"
+   "notes": "looks like a JavaScript shell; reader 200, 0 dates"
   },
   {
    "name": "People's Book (Takoma Park)",
    "url": "https://peoplesbooktakoma.com/events/",
    "category": "Book & essay discussion",
    "priority": "",
-   "method": "none",
-   "feed_url": "",
+   "method": "ical",
+   "feed_url": "https://peoplesbooktakoma.com/donotuse/?ical=1",
    "http_status": 429,
    "final_url": "https://peoplesbooktakoma.com/events/",
    "static_text_len": 214,
@@ -1569,8 +1569,8 @@
    "static_near_hits": 0,
    "rendered_date_hits": 0,
    "rendered_near_hits": 0,
-   "ics_events": "",
-   "ics_upcoming": "",
+   "ics_events": 15,
+   "ics_upcoming": 3,
    "jsonld_events": 0,
    "jsonld_upcoming": 0,
    "platform": "",
@@ -1581,8 +1581,8 @@
    "url": "https://loyaltybookstores.com/bookclubs",
    "category": "Book & essay discussion",
    "priority": "",
-   "method": "none",
-   "feed_url": "",
+   "method": "reader",
+   "feed_url": "https://r.jina.ai/https://loyaltybookstores.com/bookclubs",
    "http_status": 403,
    "final_url": "https://loyaltybookstores.com/bookclubs",
    "static_text_len": 16,
@@ -1595,7 +1595,7 @@
    "jsonld_events": 0,
    "jsonld_upcoming": 0,
    "platform": "",
-   "notes": "looks like a JavaScript shell; blocked or rate-limited (403)"
+   "notes": "looks like a JavaScript shell; blocked or rate-limited (403); reader found 47 dates"
   },
   {
    "name": "Solid State Books: Reading the City",
@@ -1623,8 +1623,8 @@
    "url": "https://www.folger.edu/calendar/",
    "category": "Book & essay discussion",
    "priority": "",
-   "method": "browser",
-   "feed_url": "",
+   "method": "xhr",
+   "feed_url": "https://www.folger.edu/admin/wp-admin/admin-ajax.php?action=basethemeCalendarRequest&start=2026-10-18T11:00:00Z&end=2026-11-01T23:59:59Z",
    "http_status": 200,
    "final_url": "https://www.folger.edu/calendar/",
    "static_text_len": 4140,
@@ -1637,28 +1637,28 @@
    "jsonld_events": 0,
    "jsonld_upcoming": 0,
    "platform": "",
-   "notes": "json calls: https://www.folger.edu/admin/wp-admin/admin-ajax.php?action=basethemeCalendarMonthListRequest | https://www.folger.edu/admin/wp-admin/admin-ajax.php?action=basethemeCalendarRequest&start=2026-10-18T11:00:00Z&end=2026-11-01T23:59:59Z"
+   "notes": "json feed with 33 events"
   },
   {
    "name": "The Writer's Center (Bethesda)",
    "url": "https://writer.org/free-events-calendar/",
    "category": "Book & essay discussion",
    "priority": "",
-   "method": "jsonld",
+   "method": "browser",
    "feed_url": "",
-   "http_status": 200,
+   "http_status": 429,
    "final_url": "https://writer.org/free-events-calendar/",
-   "static_text_len": 19670,
-   "static_date_hits": 23,
-   "static_near_hits": 17,
-   "rendered_date_hits": "",
-   "rendered_near_hits": "",
+   "static_text_len": 214,
+   "static_date_hits": 0,
+   "static_near_hits": 0,
+   "rendered_date_hits": 0,
+   "rendered_near_hits": 0,
    "ics_events": "",
    "ics_upcoming": "",
    "jsonld_events": 23,
    "jsonld_upcoming": 10,
-   "platform": "wp-events-calendar",
-   "notes": ""
+   "platform": "",
+   "notes": "looks like a JavaScript shell; blocked or rate-limited (429)"
   },
   {
    "name": "DC Public Library: DC Reads",
@@ -1707,8 +1707,8 @@
    "url": "https://foodandfriends.org/volunteer/volunteer-with-us/",
    "category": "Volunteer project teams",
    "priority": "",
-   "method": "none",
-   "feed_url": "",
+   "method": "xhr",
+   "feed_url": "https://foodandfriends.org/volunteer/volunteer-with-us/jdata/",
    "http_status": 200,
    "final_url": "https://foodandfriends.org/volunteer/volunteer-with-us/",
    "static_text_len": 34,
@@ -1721,7 +1721,7 @@
    "jsonld_events": 0,
    "jsonld_upcoming": 0,
    "platform": "",
-   "notes": "looks like a JavaScript shell"
+   "notes": "looks like a JavaScript shell; json feed with 40 events"
   },
   {
    "name": "Martha's Table",
@@ -1763,7 +1763,7 @@
    "jsonld_events": 0,
    "jsonld_upcoming": 0,
    "platform": "",
-   "notes": "looks like a JavaScript shell"
+   "notes": "looks like a JavaScript shell; reader 200, 0 dates"
   },
   {
    "name": "Volunteer Arlington",
@@ -1812,7 +1812,7 @@
    "url": "https://www.rockcreekconservancy.org/calendar",
    "category": "Volunteer project teams",
    "priority": "",
-   "method": "none",
+   "method": "browser",
    "feed_url": "",
    "http_status": 200,
    "final_url": "https://www.rockcreekconservancy.org/calendar",
@@ -1826,7 +1826,7 @@
    "jsonld_events": 0,
    "jsonld_upcoming": 0,
    "platform": "squarespace",
-   "notes": "json calls: https://www.rockcreekconservancy.org/api/popup-overlay/render?currentUrl=%2Fcalendar | https://2c-1138a2e087744ef69e662051fe044c44.ecs.us-west-1.on.aws/events?cee=no | https://events.timely.fun/api/calendars/54713121/filters/custom"
+   "notes": "json feed needs the browser: https://events.timely.fun/api/calendars/54713121/events?timezone=America/Vancouver&view=tile&start_date_utc=1792220400&per_page=30&page=1"
   },
   {
    "name": "Casey Trees",
@@ -1938,8 +1938,8 @@
    "url": "https://www.meetup.com/data-science-dc/",
    "category": "Science & technology",
    "priority": "",
-   "method": "html",
-   "feed_url": "",
+   "method": "ical",
+   "feed_url": "https://www.meetup.com/data-science-dc/events/ical/",
    "http_status": 200,
    "final_url": "https://www.meetup.com/data-science-dc/",
    "static_text_len": 3051,
@@ -2064,8 +2064,8 @@
    "url": "https://www.novac.com/wp/events/",
    "category": "Science & technology",
    "priority": "Start here",
-   "method": "none",
-   "feed_url": "",
+   "method": "reader",
+   "feed_url": "https://r.jina.ai/https://www.novac.com/wp/events/",
    "http_status": 403,
    "final_url": "https://www.novac.com/wp/events/",
    "static_text_len": 16,
@@ -2078,7 +2078,7 @@
    "jsonld_events": 0,
    "jsonld_upcoming": 0,
    "platform": "",
-   "notes": "looks like a JavaScript shell; blocked or rate-limited (403)"
+   "notes": "looks like a JavaScript shell; blocked or rate-limited (403); reader found 7 dates"
   },
   {
    "name": "Carnegie Science",
@@ -2106,8 +2106,8 @@
    "url": "https://www.labyrinthdc.com/events/calendar/",
    "category": "Games & social play",
    "priority": "Start here",
-   "method": "none",
-   "feed_url": "",
+   "method": "xhr",
+   "feed_url": "https://www.labyrinthdc.com/?format=json",
    "http_status": 200,
    "final_url": "https://www.labyrinthdc.com/events/calendar/",
    "static_text_len": 4463,
@@ -2120,28 +2120,28 @@
    "jsonld_events": 0,
    "jsonld_upcoming": 0,
    "platform": "",
-   "notes": ""
+   "notes": "json feed with 5 events"
   },
   {
    "name": "Game Kastle (College Park)",
    "url": "https://gamekastle.com/pages/college-park-md-event-calendar",
    "category": "Games & social play",
    "priority": "",
-   "method": "browser",
-   "feed_url": "",
+   "method": "ical",
+   "feed_url": "https://calendar.google.com/calendar/ical/800f6bde859b0593ad025d88a9aee4e33487a4840eeb918ee6b0ee1034bc8279%40group.calendar.google.com/public/basic.ics",
    "http_status": 200,
    "final_url": "https://gamekastle.com/pages/college-park-md-event-calendar",
    "static_text_len": 1504,
    "static_date_hits": 0,
    "static_near_hits": 0,
-   "rendered_date_hits": 2,
-   "rendered_near_hits": 2,
-   "ics_events": "",
-   "ics_upcoming": "",
-   "jsonld_events": 6,
-   "jsonld_upcoming": 6,
+   "rendered_date_hits": "",
+   "rendered_near_hits": "",
+   "ics_events": 2049,
+   "ics_upcoming": 305,
+   "jsonld_events": 0,
+   "jsonld_upcoming": 0,
    "platform": "shopify",
-   "notes": "json calls: https://www.googleadservices.com/pagead/conversion/935948069/?random=1792286016135&cv=11&fst=1792286016135&fmt=7&bg=ffffff&guid=ON&async=1&en=page_view&gtm=45be6ae1v9134755004za20gzb9237562136zd9237562136xecxf1&gcs=G111&gcd=13t3t3t3t5l1&dma=0&tag_exp=115616985~115938466~115938468~118897920~118897930~120213116~120385422~120469145~120469153~121246026~121246034&u_w=1280&u_h=720&url=https%3A%2F%2Fgamekastle.com%2Fpages%2Fcollege-park-md-event-calendar&rcb=8&label=sElCCI2Ks_MYEKXepb4D&capi=1&gtm_ee=1&evnid=sh-4c924275-F17E-481C-3F4F-260CEFA06E8A&excid=shp.fe833dce-e5ac-483d-8a23-c49e6e07ed58&tiba=College%20Park%2C%20MD%20-%20Event%20Calendar%20%E2%80%93%20Game%20Kastle&frm=0&did=dN2ZkMj%2CdNTU0Yz%2CdYmNjMT%2CdNzYwYj&gdid=dN2ZkMj.dNTU0Yz.dYmNjMT&edid=dNzYwYj&hn=www.googleadservices.com&rdp=0&npa=0&pscdl=noapi&auid=1030212591.1792286016&uaa=x64&uab=64&uafvl=Chromium%3B130.0.6723.31%7CHeadlessChrome%3B130.0.6723.31%7CNot%253FA_Brand%3B99.0.0.0&uamb=0&uam=&uap=macOS&uapv=10_15_7&uaw=0&ec_mode=c&oid=GG_1053349875.1792286016&oidsrc=3&ecsid2=1380431036.1792286016&_tu=ABI&gcl_ctr=1~0~0~0&data=event%3Dpage_view%3Bshopify_event_name%3Dpage_viewed%3Bpage_path%3D%2Fpages%2Fcollege-park-md-event-calendar&category=acrcp_v1_512&em=tv.1&emd=tvd.1&ept=5 | https://api.eventcalendarapp.com/notifications/calendarViewed?userId=13220 | https://api.eventcalendarapp.com/settings?id=13220&widgetUuid=9f40b7d7-3984-4e04-9703-bccd0422177a"
+   "notes": ""
   },
   {
    "name": "Victory Comics",
@@ -2162,15 +2162,15 @@
    "jsonld_events": 0,
    "jsonld_upcoming": 0,
    "platform": "",
-   "notes": "json calls: https://csp.secureserver.net/eventbus/web?clientid=b18ef4f046435b64a469b32c3c1c20a3 | https://csp.secureserver.net/eventbus/web?clientid=8da2217409854bee82e12dc4ca0b39fb | https://csp.secureserver.net/eventbus/web?clientid=8da2217409854bee82e12dc4ca0b39fb"
+   "notes": ""
   },
   {
    "name": "Games & Comics Pair O' Dice (Fairfax)",
    "url": "https://www.gcpairodice.com/calendar",
    "category": "Games & social play",
    "priority": "",
-   "method": "none",
-   "feed_url": "",
+   "method": "ical",
+   "feed_url": "https://calendar.google.com/calendar/ical/c_i992fmeebehi4bi15lbke0acvg%40group.calendar.google.com/public/basic.ics",
    "http_status": 200,
    "final_url": "https://www.gcpairodice.com/calendar",
    "static_text_len": 0,
@@ -2178,12 +2178,12 @@
    "static_near_hits": 0,
    "rendered_date_hits": 0,
    "rendered_near_hits": 0,
-   "ics_events": "",
-   "ics_upcoming": "",
+   "ics_events": 267,
+   "ics_upcoming": 35,
    "jsonld_events": 0,
    "jsonld_upcoming": 0,
    "platform": "",
-   "notes": "looks like a JavaScript shell; json calls: https://clients6.google.com/calendar/v3/calendars/c_i992fmeebehi4bi15lbke0acvg%40group.calendar.google.com/events?calendarId=c_i992fmeebehi4bi15lbke0acvg%40group.calendar.google.com&singleEvents=true&eventTypes=default&eventTypes=focusTime&eventTypes=outOfOffice&timeZone=America%2FNew_York&maxAttendees=1&maxResults=250&sanitizeHtml=true&timeMin=2026-09-27T00%3A00%3A00%2B18%3A00&timeMax=2026-11-01T00%3A00%3A00-18%3A00&key=AIzaSyDOtGM5jr8bNp1utVpG2_gSRH03RNGBkI8&%24unique=gc456"
+   "notes": "looks like a JavaScript shell"
   },
   {
    "name": "Fantom Comics",
@@ -2274,8 +2274,8 @@
    "url": "https://www.meetup.com/dc-area-board-games/",
    "category": "Games & social play",
    "priority": "",
-   "method": "html",
-   "feed_url": "",
+   "method": "ical",
+   "feed_url": "https://www.meetup.com/dc-area-board-games/events/ical/",
    "http_status": 200,
    "final_url": "https://www.meetup.com/dc-area-board-games/",
    "static_text_len": 2232,
@@ -2309,7 +2309,7 @@
    "jsonld_events": 0,
    "jsonld_upcoming": 0,
    "platform": "",
-   "notes": "looks like a JavaScript shell"
+   "notes": "looks like a JavaScript shell; reader 200, 0 dates"
   },
   {
    "name": "DC Rawhides",
@@ -2351,7 +2351,7 @@
    "jsonld_events": 0,
    "jsonld_upcoming": 0,
    "platform": "",
-   "notes": "json calls: https://www.keepandshare.com/calendar18/fns_asynch_api.php?r=getrange0.07166615442938129"
+   "notes": ""
   },
   {
    "name": "Salsa Vida (DMV aggregator)",
@@ -2393,7 +2393,7 @@
    "jsonld_events": 0,
    "jsonld_upcoming": 0,
    "platform": "",
-   "notes": "json calls: https://backend.leadconnectorhq.com/stats/event"
+   "notes": ""
   },
   {
    "name": "Baila DC (classes)",
@@ -2414,7 +2414,7 @@
    "jsonld_events": 0,
    "jsonld_upcoming": 0,
    "platform": "",
-   "notes": "json calls: https://backend.leadconnectorhq.com/stats/event"
+   "notes": ""
   },
   {
    "name": "Dance Jam Productions",
@@ -2498,7 +2498,7 @@
    "jsonld_events": 0,
    "jsonld_upcoming": 0,
    "platform": "",
-   "notes": "looks like a JavaScript shell; json calls: https://cdn5.editmysite.com/app/store/api/v28/editor/users/149284512/sites/770225458465402826/products?page=1&per_page=50&ids[]=6EA3HTGKLMFYTCUSWQ7DEFAC&ids[]=UT4UTQV6ZO3IQVJU4NME2JNC&ids[]=PALAJQYY73HRULEEUJKPOEA7&ids[]=HG2WWLTT5BMLOBYA4ENXTFUA&ids[]=YV5PJU4XYVW3QE6F6IQB2BVN&ids[]=X42SW7NSTQW2IKSP5TLWFF6N&ids[]=OYBGUF2UDOPERRR36VTCPZ5K&ids[]=7M33BORET6IFUOPAU4OOSBR3&ids[]=WD6PVECGE4WWOY3JHM5RI73Q&visibilities[]=hidden&visibilities[]=visible&product_type=event&include=images,media_files&excluded_fulfillment=dine_in&cache-version=2026-03-25 | https://cdn5.editmysite.com/app/store/api/v28/editor/users/149284512/sites/770225458465402826/products?page=1&per_page=50&ids[]=XLMOBNIAK5YO2MV4TTQHRH6M&ids[]=XBTOGNXEBALRZPAN3K7EIMM5&ids[]=KKPRYXGBLLOV53RNKQRFQS7B&ids[]=OOOU7WY6Q4WSDA4OL5LXLIG3&ids[]=7393&ids[]=SIMVE5EP3RKQQUDP4G7N2QIC&ids[]=K3K6ID3BIWFVUI674KAUFW5V&ids[]=TDCZLPB2VFD3TEL75RCSE6FT&visibilities[]=hidden&visibilities[]=visible&product_type=event&include=images,media_files&excluded_fulfillment=dine_in&cache-version=2026-03-25 | https://cdn5.editmysite.com/app/store/api/v28/editor/users/149284512/sites/770225458465402826/products?page=1&per_page=50&ids[]=8372&ids[]=8616&ids[]=8373&ids[]=8615&visibilities[]=hidden&visibilities[]=visible&product_type=event&include=images,media_files&excluded_fulfillment=dine_in&cache-version=2026-03-25"
+   "notes": "looks like a JavaScript shell"
   },
   {
    "name": "Art House 7",
@@ -2589,8 +2589,8 @@
    "url": "https://www.dcsocialguide.com/",
    "category": "Catch-all feeds",
    "priority": "",
-   "method": "none",
-   "feed_url": "",
+   "method": "xhr",
+   "feed_url": "https://discovery.evvnt.com/api/publisher/6609/home_page_events?hitsPerPage=30&multipleEventInstances=true&page=0&publisher_id=6609",
    "http_status": 200,
    "final_url": "https://www.dcsocialguide.com/",
    "static_text_len": 650,
@@ -2603,7 +2603,7 @@
    "jsonld_events": 0,
    "jsonld_upcoming": 0,
    "platform": "wp-events-calendar",
-   "notes": "json calls: https://discovery.evvnt.com/api/publisher/6609/home_page_events?hitsPerPage=30&multipleEventInstances=true&page=0&publisher_id=6609"
+   "notes": "json feed with 32 events"
   }
  ]
 }

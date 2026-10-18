@@ -1,6 +1,6 @@
 Austrian Cultural Forum Washington
 https://www.acfdc.org/events
-method: ical
+method: api
 
 Events — Austrian Cultural Forum Washington DC
 0

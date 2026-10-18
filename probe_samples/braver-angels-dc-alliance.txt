@@ -1,6 +1,6 @@
 Braver Angels DC Alliance
 https://dc.braverangels.org/
-method: none
+method: ical
 
 DC Alliance
 Search this site

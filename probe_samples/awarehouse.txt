@@ -1,6 +1,6 @@
 Awarehouse
 https://www.awarehousedc.com/events
-method: ical
+method: api
 
 Explore Events | Special Workshops and Community Experiences at Awarehouse — Awarehouse
         Skip to Content

@@ -1,49 +1,5 @@
 Profs and Pints (Washington DC)
 https://www.profsandpints.com/washingtondc
-method: none
+method: xhr
 
-Talks | Washington D.C. | Profs and Pints
-top of page
-HOME
-CITIES AND VENUES
-Washington DC Metro
-Annapolis
-Austin, Texas
-Baltimore Metro
-Charlottesville
-Chicago Metro
-Metro Denver
-Nashville Metro
-Philadelphia Metro
-Richmond, Va.
-San Francisco Bay Area
-INFO FOR VENUES
-ONLINE TALKS
-ABOUT
-About Profs and Pints
-About CEO Peter Schmidt
-The Profs and Pints Story
-MERCHANDISE
-BECOME A PRESENTER
-More
-Use tab to navigate through the menu items.
-Follow 
-Profs and Pints
-on 
-Facebook 
-or 
-Meetup
-Support Profs and Pints through 
-Patreon
- and get yourself or loved ones placed on guest lists for talks.
-A note from Profs and Pints CEO Peter Schmidt about diversity among presenters:
-​
-In my recruitment of speakers I am committed to diversity in all of its forms, including gender, race, and ideological orientation. I encourage any college faculty member interested in being featured by Profs and Pints to click this 
-link
- for important background on the lectures and workshops that Profs and Pints offers and to email 
-profsandpints@hotmail.com
- for additional information on how to apply. 
-Profs and Pints talks are a great way to introduce young people to various academic fields. Please note, however, that all talks are delivered on an adult level and may feature mature content. Unless otherwise stated in event descriptions, anyone under 18 must be accompanied by an adult. 
-© 2017 by Profs and Pints. Proudly created with 
-Wix.com
-bottom of page
+{"result": true, "value": [{"allday": false, "end": 1546732800000, "description": "“Dreams of Intelligent Machines,” with Colin Allen, philosopher of science and adjunct in the Center for the Neural Basis of Cognition at the University of Pittsburgh.\n\nThe existence of artificially intelligent machines raises a fundamental philosophical question that neither they nor we can easily answer: “What are we?”\n\nAcross many different cultures in every era, humans have tackled this question by comparing ourselves to the things that we see as most similar to us. They include real thing—various other animals—and imagined things, including angels, anthropomorphic gods, humanlike monsters, and, more recently, space aliens. Artificially intelligent machines are an interesting hybrid category: Once imaginary, yet increasingly a real part of our shared environment, they are particularly interesting because they are superhuman in some respects, but are clearly lacking in others. Our current robots have less emotional intelligence than dogs, but artificial intelligence can play chess at world-champion level.\n\nWhat are we learning about ourselves from the attempt to create machines in our own image? What are the prospects and perils? Will these machines be ethical? Will they have feelings? Consciousness? (When, or why not?) Are they harbingers of a Golden Age of human self-fulfillment, or our future overlords in a technological dystopia? Is it up to us?\n\nGain an entirely new perspective on the machines and computer programs in your life from Professor Allen, whose research focuses on thephilosophical foundations of cognitive science and neuroscience, with a particular interest in the scientific study of cognition in nonhuman animals and computers. Just be careful not to tell Siri or Alexa where you’ve been. (Advance tickets: $12. Doors: $15, save $2 with a student ID. Posted time is door time. Talks start a half hour later. Please arrive early enough to give yourself plenty of time to get seated and settled.)", "links": {"0": {"url": "https://profspintsai.brownpapertickets.com", "newtab": true, "text": "Tickets"}}, "title": "Dreams of Intelligent Machines", "color": "rgb(255,255,255)", "image": {"width": 480, "url": "https://static.wixstatic.com/media/bd9f1a_4a2ac796800942eba959b8a90a86e815~mv2.jpg/v1/fill/w_480,h_320,q_85,usm_0.66_1.00_0.01/bd9f1a_4a2ac796800942eba959b8a90a86e815~mv2.jpg", "original_url": "bd9f1a_4a2ac796800942eba959b8a90a86e815~mv2.jpg", "height": 320, "source": "wix", "token": "b0bce7daf353e00b8e52bed085bc0976"}, "start": 1546732800000, "location": "Bier Baron Tavern", "location_to_gmaps": true, "id": "event_p5xURMthjR7oMyd5iIyy2", "startDate": "2019-01-06", "endDate": "2019-01-06", "timezone": "America/New_York", "startHour": 18, "startMinutes": 0, "endHour": 21, "endMinutes": 0}, {"allday": false, "end": 1547337600000, "description": "(Unfortunately this event is cancelled because the speaker is snowed in. Profs and Pints regrets any inconvenience and will try to reschedule the talk down the road.)\n\nProfs and Pints presents, \"The Tet Offensive: A 360-Degree View,\" with Erik Villard, military historian and author of Staying the Course: U.S. Army Combat Operations in Vietnam, Oct. 1967 to Sept. 1968.\n\nJanuary 30th marks the anniversary of the Tet Offensive, the massive North Vietnamese and Viet Cong military campaign that challenged President Johnson’s assertions that the US could see a light at the end of the tunnel in Vietnam.\n\nJoin Erik Villard, a leading scholar of that offensive, for a talk examining it not just from America's perspective, but the perspectives of the North Vietnamese, Viet Cong, South Vietnamese, and the civilians caught in the middle.\n\nHe'll discuss in detail the series of military attacks that the Viet Cong and their North Vietnamese allies launched at the end of January 1968. The campaign helped trigger a general uprising in South Vietnam that sowed chaos and destruction across its urban landscape and disrupted allied pacification programs just beginning to take hold in rural areas. It shook the foundation of the South Vietnamese state and forced the United States to reevaluate its military calculations in Southeast Asia.\n\nFor the enemy, however, such achievements came at a staggering cost in terms of lives, manpower, and material. he Tet offensive failed to cripple the South Vietnamese government or convince the United States to abandon its ally. As the dust settled, President Lyndon B. Johnson ordered his military commanders to press ahead with their current strategy unchanged apart from some short-term tactical adjustments and a modest increase in the U.S. troop deployment. \n\nDrawing upon nearly two decades of research, Dr. Erik Villard will discuss the causes and consequences of the Tet Offensive in a talk that challenges the conventional interpretation of Tet and dispels some of our most stubborn myths about it. \n\nThe speaker's proceeds from this talk will be donated to the National Coalition for Homeless Veterans.\n\n(Advance tickets: $12. Doors: $15. Save $2 with a student ID.)", "links": {"0": {"url": "https://profspintstet.brownpapertickets.com", "newtab": true, "text": "Tickets"}}, "title": "CANCELLED-The Tet Offensive (A 360-Degree View)", "image": {"width": 624, "url": "https://static.wixstatic.com/media/bd9f1a_d5bfd9bea13b4292ac32802a0cb5fffe~mv2.jpg/v1/fill/w_624,h_435,q_85,usm_0.66_1.00_0.01/bd9f1a_d5bfd9bea13b4292ac32802a0cb5fffe~mv2.jpg", "original_url": "bd9f1a_d5bfd9bea13b4292ac32802a0cb5fffe~mv2.jpg", "height": 435, "source": "wix", "token": "b0bce7daf353e00b8e52bed085bc0976"}, "start": 1547337600000, "location": "The Bier Baron Tavern", "location_to_gmaps": true, "id": "event_68Jkwxp6WLYsUp0ZXYo01", "startDate": "2019-01-13", "endDate": "2019-01-13", "timezone": "America/New_York", "startHour": 18, "startMinutes": 0, "endHour": 21, "endMinutes": 0}, {"allday": false, "end": 1547424000000, "description": "Profs and Pints presents: \"Dealing with Disaster,\" with Joseph Fiksel, emeritus professor of integrated systems engineering and co-founder of the Sustainable and Resilient Economy program at The Ohio State University, author of Resilient by Design.\n\nWhat have Americans learned from a 20-year string of disasters, including hurricanes, forest fires, tsunamis, oil spills, bridge collapses, gas explosions, and deliberate acts of terrorism and sabotage? Are we adequately prepared for the next crisis even though we cannot predict what it will be?\n\nWhen a catastrophe does occur, we declare an emergency and rush to aid the victims, but the memory fades quickly and we return to business as usual, distracted by more immediate financial or political pressures. How can we do better? \n\nThere is a growing realization in both government and industry that we need to strengthen the resilience of our economic systems and urban communities, as well as the infrastructures that support them. In a complex, tightly-connected and volatile world, it is impossible to protect against all possible disruptions. Technological systems such as machines, buildings, and industrial supply chains are especially vulnerable to unexpected events. One promising route is to borrow from nature’s designs, which are inherently resilient and adapt to changing conditions. For example, we can develop \"distributed systems,\" which eschew centralized operations in favor of smaller-scale, independent units.\n\nStart your new year by looking ahead with an expert who has worked with dozens of organizations to develop and implement strategies for resilience and sustainability. You will come away with a new appreciation of how critical systems can be made resilient in the face of economic turbulence, governmental dysfunction, global conflict, and climate change. (Advance tickets: $12. Doors:$15, save $2 with a student ID.)", "links": {"0": {"url": "https://profsandpintsdisaster.brownpapertickets.com", "newtab": true, "text"

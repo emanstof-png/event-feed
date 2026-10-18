@@ -1,6 +1,6 @@
 Effective Altruism DC
 https://www.effectivealtruismdc.org/event
-method: ical
+method: api
 
 Events — Effective Altruism DC
 0

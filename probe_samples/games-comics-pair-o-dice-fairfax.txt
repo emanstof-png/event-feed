@@ -1,4 +1,18 @@
 Games & Comics Pair O' Dice (Fairfax)
 https://www.gcpairodice.com/calendar
-method: none
+method: ical
 
+×
+Calendar
+Preorders and Preregistrations
+We Buy Cards
+ 
+More
+Events
+Communities
+Gallery
+Return Policy
+
+Browse our TCG Store
+
+While we strive to maintain an updated calendar, please consider reaching out via phone or Discord for real-time information.

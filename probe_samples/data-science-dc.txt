@@ -1,6 +1,6 @@
 Data Science DC
 https://www.meetup.com/data-science-dc/
-method: html
+method: ical
 
 Data Science DC | Meetup
 Skip to content
