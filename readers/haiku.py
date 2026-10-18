@@ -1,6 +1,7 @@
 """Shared: turn messy page/feed text into dated events with Claude Haiku.
 Needs ANTHROPIC_API_KEY. Returns [] without it (so feeds still work)."""
 import os, json, re
+MODEL = "claude-haiku-4-5"
 from .common import event, today
 
 PROMPT = """Today is {today} (America/New_York). Below is text from the events page or feed of "{name}".
@@ -18,7 +19,7 @@ def extract_events_from_text(text, name, base_url=""):
         return []
     import anthropic
     client = anthropic.Anthropic(api_key=key)
-    msg = client.messages.create(model="claude-haiku-4-5", max_tokens=4000,
+    msg = client.messages.create(model=MODEL, max_tokens=4000,
         messages=[{"role": "user", "content": PROMPT.format(today=today().isoformat(), name=name, base=base_url, text=text[:60000])}])
     raw = msg.content[0].text
     m = re.search(r"\[.*\]", raw, re.S)
