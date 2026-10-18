@@ -8,6 +8,10 @@ these wrong.
 
 - `PLAYBOOK.md`: one row per source, the final method, feed URL or rule, and why. Mirrored in the
   Sources tab columns I (Method), J (Feed URL / rule), N (How to read). Read the row before touching a source.
+- `feed_test.csv` + `run_log.csv`: the latest "Feed test (no secrets)" run on GitHub (ical/api/xhr/
+  recurring only, no Haiku, no browser). Oct 18 03:35Z: 674 events, 34 of 44 sources live.
+  Re-run from the Actions tab, or `gh api -X POST repos/emanstof-png/event-feed/actions/workflows/feedtest.yml/dispatches -f ref=main`.
+- `debug/<slug>.json`: first 4000 chars of any API response no known shape matched. Add the shape to `readers/api.py`.
 - `readers/`: one module per method. `readers/README.md` maps Method to module.
 - `fetch.py`: loops Sources, dispatches on Method, writes the Feed tab. `--csv` runs with no Google
   key: reads `sources_methods.csv`, writes `feed_test.csv` + `run_log.csv`. `--dry-run` writes
@@ -107,6 +111,10 @@ is never a complete note.
 
 - 61 LIVE (3+ dated events read), 6 LIVE but thin, 7 RECURRING, 11 EMPTY (confirmed), 35 NEEDS
   BROWSER, 6 UNTESTED (feed exists but the scouts' fetcher is blocked from it).
+- Proven from GitHub on Oct 18: every Google Calendar .ics works (Game Kastle 75, Pair O' Dice 51,
+  Carpe Diem 24, Georgetown IPPS 12, Blueberry 4); LiveWhale JSON works with `data[]`; Localist,
+  Tribe, Meetup, Luma, Teamup all work. Still 403 from GitHub: sixthandi.org, whctemple.org,
+  events.timely.fun (browser fallback handles these in the weekly job).
 - The scouts' WebFetch honors robots.txt and cannot reach calendar.google.com at all. So a
   Google Calendar .ics, a robots-disallowed admin-ajax or ?format=json route, or an API that
   returned a server error is UNTESTED, not broken. Test those from GitHub Actions (`fetch.py`).
