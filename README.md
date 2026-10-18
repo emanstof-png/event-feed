@@ -13,6 +13,9 @@ list. You tick events there and accept them into Google Calendar.
 | `.github/workflows/probe.yml` | Runs the Probe on GitHub whenever `probe.py` or `sources.csv` changes, then commits the results. |
 | `probe_report.csv` / `.json` | Probe results, one row per source. |
 | `probe_samples/` | The page text each decision was based on, used to build scrapers. |
+| `CLAUDE.md` | Rules every agent follows here: the per-source waterfall, proof standard, columns. |
+| `PLAYBOOK.md` | One row per source: final method, feed URL or rule, and how we know. Mirrored in the sheet. |
+| `readers/` | One module per method (ical, api, rss, html, browser, recurring, haiku). |
 
 ## Coming next
 

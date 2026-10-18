@@ -4,6 +4,13 @@ You are reading the events of DC-area organizations into one Google Sheet. Read 
 whole file before doing anything. It exists because the first attempt got most of
 these wrong.
 
+## Where things are
+
+- `PLAYBOOK.md`: one row per source, the final method, feed URL or rule, and why. Mirrored in the
+  Sources tab columns I (Method), J (Feed URL / rule), N (How to read). Read the row before touching a source.
+- `readers/`: one module per method. `readers/README.md` maps Method to module.
+- `fetch.py` (next): loops Sources, dispatches on Method, writes the Feed tab.
+
 ## The goal, in one sentence
 
 For each organization in the Sources tab, find WHERE THAT ORGANIZATION PUBLISHES ITS
@@ -16,7 +23,7 @@ page, its Luma, its ticketing page. Eventbrite counts only when it is that org's
 ## The waterfall: do these in order, stop at the first that yields 3+ dated events
 
 ### 0. Read what is already known
-Check the Sources tab (columns I to M) or `probe_report.json` for this source first.
+Check `PLAYBOOK.md` or the Sources tab (columns I, J, N) for this source first.
 If a working URL, feed, or method is recorded, start there. Do not re-discover what
 is already written down.
 
