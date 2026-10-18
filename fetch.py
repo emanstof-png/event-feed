@@ -237,6 +237,11 @@ def main():
         for e in evs:
             all_events.append(e)
     all_events.sort(key=lambda e: (e["date"], e["time"] or "99:99", e["source"]))
+    if args.csv:   # keep the raw text so Haiku scouts can write blurbs without an API key
+        import csv as _csv
+        with open("feed_desc.csv", "w", newline="", encoding="utf-8") as f:
+            w = _csv.writer(f); w.writerow(["n", "title", "source", "desc"])
+            w.writerows([k + 2, e["title"], e["source"], e.get("desc", "")] for k, e in enumerate(all_events))
     from readers.haiku import summarize
     summarize(all_events)
     cat = {src["name"]: src.get("category", "") for src, *_ in results.values()}
