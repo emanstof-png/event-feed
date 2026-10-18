@@ -28,9 +28,14 @@ def get(url, **kw):
     r.raise_for_status()
     return r
 
-def event(date_s, title, source, time_s="", venue="", link=""):
+def event(date_s, title, source, time_s="", venue="", link="", desc=""):
     return {"date": date_s, "time": time_s, "title": title.strip()[:200], "venue": venue.strip()[:120],
-            "link": link, "source": source}
+            "link": link, "source": source, "desc": clean_text(desc)[:600]}
+
+def clean_text(x):
+    import html as _h
+    x = re.sub(r"<[^>]+>", " ", str(x or ""))
+    return re.sub(r"\s+", " ", _h.unescape(x)).strip()
 
 def in_window(ev, days=21):
     lo, hi = window(days)

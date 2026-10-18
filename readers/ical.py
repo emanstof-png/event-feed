@@ -25,5 +25,5 @@ def read(source, window_days=21):
         d = start.date() if isinstance(start, datetime) else start
         t = start.strftime("%H:%M") if isinstance(start, datetime) else ""
         out.append(event(d.isoformat(), str(ev.get("SUMMARY", "")), source["name"], t,
-                         str(ev.get("LOCATION", "") or ""), str(ev.get("URL", "") or "")))
+                         str(ev.get("LOCATION", "") or ""), str(ev.get("URL", "") or ""), desc=str(ev.get("DESCRIPTION", ""))))
     return dedupe([e for e in out if in_window(e, window_days)])

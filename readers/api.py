@@ -8,7 +8,7 @@ from .haiku import extract_events_from_text
 def _tribe(data, name):   # WordPress Events Calendar /wp-json/tribe/events/v1/events
     return [event(e["start_date"][:10], e["title"], name, e["start_date"][11:16],
                   (e.get("venue") or {}).get("venue", "") if isinstance(e.get("venue"), dict) else "",
-                  e.get("url", "")) for e in data.get("events", [])]
+                  e.get("url", ""), desc=e.get("excerpt") or e.get("description", "")) for e in data.get("events", [])]
 
 def _localist(data, name):  # /api/2/events
     out = []
@@ -17,7 +17,7 @@ def _localist(data, name):  # /api/2/events
         for inst in e.get("event_instances", [{}]):
             i = inst.get("event_instance", inst)
             s = i.get("start", "")
-            out.append(event(s[:10], e.get("title", ""), name, s[11:16], e.get("location_name", ""), e.get("localist_url", "")))
+            out.append(event(s[:10], e.get("title", ""), name, s[11:16], e.get("location_name", ""), e.get("localist_url", ""), desc=e.get("description_text", "")))
     return out
 
 def _connectjew(data, name):
@@ -43,7 +43,7 @@ def _livewhale(data, name):  # events.georgetown.edu/live/json/events/...
                 pass
         import html as _h
         out.append(event(d, _h.unescape(e.get("title", "")), name, s[11:16] if s[4:5] == "-" else "",
-                         e.get("location", "") or "", e.get("url", "") or ""))
+                         e.get("location", "") or "", e.get("url", "") or "", desc=e.get("summary") or e.get("description", "")))
     return [e for e in out if e["date"]]
 
 SHAPES = [("tribe/events", _tribe), ("/api/2/events", _localist), ("connectjew.org", _connectjew),

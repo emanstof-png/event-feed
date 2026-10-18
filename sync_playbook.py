@@ -22,11 +22,11 @@ def from_sheet():
     sh = gspread.authorize(creds).open_by_key(os.environ.get("SHEET_ID", "1vDMP4n3bOBGGvwZ9PerbctPr4uGhiRvxu1cPv_QROYg"))
     vals = sh.worksheet("Sources").get_all_values()
     with open("sources_methods.csv", "w", newline="", encoding="utf-8") as f:
-        w = csv.writer(f); w.writerow(["row", "name", "url", "paused", "method", "feed_url", "status", "verified", "notes", "how"])
+        w = csv.writer(f); w.writerow(["row", "name", "url", "category", "paused", "method", "feed_url", "status", "verified", "notes", "how"])
         for i, r in enumerate(vals[1:], start=2):
             r = r + [""] * (14 - len(r))
             if r[0].strip():
-                w.writerow([i, r[0], r[1], r[4], r[8].lower(), r[9], r[10], r[11], r[12], r[13]])
+                w.writerow([i, r[0], r[1], r[2], r[4], r[8].lower(), r[9], r[10], r[11], r[12], r[13]])
 
 def esc(x):
     return (x or "").replace("|", "\\|").replace("\n", " ")

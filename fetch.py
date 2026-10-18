@@ -40,7 +40,7 @@ MODULE = {"ical": "ical", "api": "api", "xhr": "api", "rss": "rss", "html": "htm
           "jsonld": "html", "reader": "html", "browser": "browser", "stealth": "browser",
           "recurring": "recurring"}
 
-FEED_HEADER = ["Pick", "Date", "Time", "Title", "Venue", "Source", "Link"]
+FEED_HEADER = ["Pick", "Date", "Time", "Title", "Venue", "Source", "Link", "Category", "Description"]
 LOG_HEADER = ["Source", "Method", "Status", "Events", "Seconds", "Error", "Sample", "Run at"]
 
 
@@ -237,7 +237,11 @@ def main():
         for e in evs:
             all_events.append(e)
     all_events.sort(key=lambda e: (e["date"], e["time"] or "99:99", e["source"]))
-    feed_rows = [[False, e["date"], e["time"], e["title"], e["venue"], e["source"], e["link"]] for e in all_events]
+    from readers.haiku import summarize
+    summarize(all_events)
+    cat = {src["name"]: src.get("category", "") for src, *_ in results.values()}
+    feed_rows = [[False, e["date"], e["time"], e["title"], e["venue"], e["source"], e["link"], cat.get(e["source"], ""), e.get("desc", "")]
+                 for e in all_events]
 
     log_rows = []
     for row in sorted(results):
