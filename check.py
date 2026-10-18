@@ -59,6 +59,15 @@ def check_playbook(rows):
         if f"| {r['method']} |" not in line:
             problems.append(f"PLAYBOOK row {r['row']} method differs from csv; run python sync_playbook.py"); break
 
+def check_feed():
+    """The last committed feed: every row has a date, a title and an http link."""
+    if not os.path.exists("feed_test.csv"):
+        return
+    for i, r in enumerate(csv.DictReader(open("feed_test.csv", newline="", encoding="utf-8")), start=2):
+        if not r.get("Link", "").startswith("http"): problems.append(f"feed_test.csv row {i} ({r.get('Source','')[:30]}): empty Link"); break
+        if not r.get("Date") or not r.get("Title"): problems.append(f"feed_test.csv row {i}: missing Date or Title"); break
+
+
 def check_code():
     for f in ["fetch.py", "sync_playbook.py", "check.py"] + [f"readers/{m}.py" for m in set(MODULE.values())] + ["readers/common.py", "readers/haiku.py"]:
         try: py_compile.compile(f, doraise=True)
@@ -95,7 +104,7 @@ def check_sheet(rows):
 
 if __name__ == "__main__":
     rows = load()
-    check_rows(rows); check_playbook(rows); check_code()
+    check_rows(rows); check_playbook(rows); check_code(); check_feed()
     if "--sheet" in sys.argv:
         if os.environ.get("GOOGLE_SERVICE_ACCOUNT_JSON"): check_sheet(rows)
         else: print("(--sheet skipped: no GOOGLE_SERVICE_ACCOUNT_JSON)")

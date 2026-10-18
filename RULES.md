@@ -39,6 +39,12 @@ script can; CI runs it on every push. The rest are on whoever is working.
 10. **Every session ends with a handoff in the Specs doc** (numbers, built / not built,
     confidence, next steps in order) and a green `python check.py`. Then it is safe to compact.
 
+Added Oct 18, 2:55am, after Eric found 166 empty links in the first feed:
+
+11. **Every feed row is clickable.** Link is the event's own URL, else the first link in its
+    description, else the organization's calendar page. Never blank. *(checked on the last
+    committed feed)*
+
 ## Commands
 
     python check.py                       # before every commit

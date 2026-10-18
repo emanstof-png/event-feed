@@ -245,6 +245,10 @@ def main():
     from readers.haiku import summarize
     summarize(all_events)
     cat = {src["name"]: src.get("category", "") for src, *_ in results.values()}
+    urls = {src["name"]: src["url"] for src, *_ in results.values()}
+    for e in all_events:                       # RULES: a feed row is always clickable
+        if not (e.get("link") or "").startswith("http"):
+            e["link"] = urls.get(e["source"], "")
     feed_rows = [[False, e["date"], e["time"], e["title"], e["venue"], e["source"], e["link"], cat.get(e["source"], ""), e.get("desc", "")]
                  for e in all_events]
 
