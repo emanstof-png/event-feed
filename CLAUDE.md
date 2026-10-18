@@ -134,6 +134,14 @@ is never a complete note.
   Keep&Share / Square Online / Sawyer / Calendly / Mariana Tek (1 each). One browser reader that
   works on each platform unlocks the group.
 
+## Operating plan until the Google key exists (decided Oct 18, 1:50am)
+
+Manual mode. Eric says "run the feed"; the agent dispatches the GitHub job, pastes the resulting
+CSV into the Feed tab (Composio Sheets, as the Sources tab was filled), Eric ticks rows and says
+"capture"; the agent copies ticked rows to Itinerary and Google Calendar. The Anthropic key on
+GitHub is the one setup step that matters: without it the feed is the 34 structured sources only.
+Nothing gets automated for Sunday until one manual run has been looked at by Eric.
+
 ## Things that went wrong once and must not again
 
 - Trusting the URL in the sheet as the events page. It was the homepage for 9 sources.
@@ -145,10 +153,20 @@ is never a complete note.
 - Running on all 124 when asked for 20.
 - Launching more than 20 subagents at once: the harness caps concurrency at 20 and the rest fail.
   Send 20, wait, send the rest.
+- Reporting "built" and "proven" as one number. Say both: what exists, and what has produced
+  real events on GitHub. Eric reads "a third proven" as "two thirds broken" unless the
+  distinction is explicit.
+- Quoting a duration without saying who spends it. "15 minutes" of GitHub rendering costs no
+  tokens; say so, or it reads as 15 minutes of Fable.
+- A browser render job with no per-source cap: 34 sources ran past 28 minutes. Cap each source.
 
 ## Working rules
 
 - Haiku for scouts, 4 sources per agent, in parallel. 26 agents finished in 2 minutes.
+- Haiku scouts in chat stand in for the API key when testing: a GitHub job renders or fetches and
+  commits raw text; scouts read the committed files and extract events. No key, same proof.
+- Fable designs and writes; Haiku repeats. Anything done more than four times goes to Haiku.
+- Answers to Eric: short, numbers first, built and proven stated separately.
 - Never invent an event. Say what you saw.
 - Plain fetch from this workspace cannot reach outside sites; GitHub Actions can. The
   scouts' WebFetch can.
