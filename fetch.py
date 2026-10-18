@@ -27,8 +27,9 @@ from readers.common import TZ, dedupe
 
 SHEET_ID = os.environ.get("SHEET_ID", "1vDMP4n3bOBGGvwZ9PerbctPr4uGhiRvxu1cPv_QROYg")
 WINDOW_DAYS = 21
-PER_SOURCE_TIMEOUT = {"browser": 180, "stealth": 180}   # seconds; everything else 60
-DEFAULT_TIMEOUT = 60
+PER_SOURCE_TIMEOUT = {"browser": 180, "stealth": 180}   # seconds; everything else 150 (leaves room for a browser fallback)
+DEFAULT_TIMEOUT = 150
+FALLBACK_TO_BROWSER = {"html", "jsonld", "api", "xhr", "rss"}   # on error or 0 events, render with the stealth browser
 
 # Sources tab columns (0-based)
 COL = dict(name=0, url=1, category=2, has_feed=3, paused=4, status_old=5, last_run=6,
@@ -120,6 +121,10 @@ def run_source(src):
         mod = importlib.import_module(f"readers.{mod_name}")
         evs = mod.read(src, WINDOW_DAYS) or []
         evs = dedupe(evs)
+        if not evs and m in FALLBACK_TO_BROWSER:
+            evs, status, err = _browser_fallback(src, "0 events")
+            if evs:
+                return evs, status, err
         if m == "recurring":
             status = "RECURRING"
         elif len(evs) >= 3:
@@ -130,7 +135,26 @@ def run_source(src):
             status = "EMPTY"
         return evs, status, ""
     except Exception as e:
-        return [], "ERROR", f"{type(e).__name__}: {e}"[:300]
+        err = f"{type(e).__name__}: {e}"[:300]
+        if m in FALLBACK_TO_BROWSER:
+            evs, status, err2 = _browser_fallback(src, err)
+            if evs:
+                return evs, status, err2
+        return [], "ERROR", err
+
+
+def _browser_fallback(src, why):
+    """html/api/xhr/rss got nothing: render the page URL with the stealth browser instead."""
+    try:
+        mod = importlib.import_module("readers.browser")
+        evs = dedupe(mod.read({**src, "feed_url": ""}, WINDOW_DAYS) or [])
+    except Exception as e:
+        return [], "ERROR", f"{why}; browser fallback: {type(e).__name__}: {e}"[:300]
+    if len(evs) >= 3:
+        return evs, "LIVE", f"via browser fallback ({why})"
+    if evs:
+        return evs, "LIVE but thin", f"via browser fallback ({why})"
+    return [], "EMPTY", f"{why}; browser fallback also 0"
 
 
 def run_with_timeout(src):

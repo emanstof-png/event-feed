@@ -9,7 +9,8 @@ these wrong.
 - `PLAYBOOK.md`: one row per source, the final method, feed URL or rule, and why. Mirrored in the
   Sources tab columns I (Method), J (Feed URL / rule), N (How to read). Read the row before touching a source.
 - `readers/`: one module per method. `readers/README.md` maps Method to module.
-- `fetch.py`: loops Sources, dispatches on Method, writes the Feed tab. `--dry-run` writes
+- `fetch.py`: loops Sources, dispatches on Method, writes the Feed tab. `--csv` runs with no Google
+  key: reads `sources_methods.csv`, writes `feed_test.csv` + `run_log.csv`. `--dry-run` writes
   `Feed_test` + `Run_log` (one line per source: status, count, seconds, error, 3 samples).
   Run it from the Actions tab ("Weekly fetch" > Run workflow); it needs the two repo secrets
   `GOOGLE_SERVICE_ACCOUNT_JSON` and `ANTHROPIC_API_KEY`.
@@ -102,6 +103,26 @@ NEEDS HUMAN. Eric's Chrome reads these on Sunday.
 EMPTY is allowed only after steps 1 to 5 and must say what was checked. "No dates found"
 is never a complete note.
 
+## What the Oct 17 re-verification found (32 Haiku scouts, every row)
+
+- 61 LIVE (3+ dated events read), 6 LIVE but thin, 7 RECURRING, 11 EMPTY (confirmed), 35 NEEDS
+  BROWSER, 6 UNTESTED (feed exists but the scouts' fetcher is blocked from it).
+- The scouts' WebFetch honors robots.txt and cannot reach calendar.google.com at all. So a
+  Google Calendar .ics, a robots-disallowed admin-ajax or ?format=json route, or an API that
+  returned a server error is UNTESTED, not broken. Test those from GitHub Actions (`fetch.py`).
+- 12 sources recorded as "stealth" read fine with a plain fetch (AEI, Politics & Prose, Lost City,
+  JHU, AU, Writer's Center...). Blocks come and go; record the cheapest method that worked and let
+  `fetch.py`'s browser fallback handle the bad days.
+- Six sheet URLs were still the wrong page (Bhakti, Awarehouse, Loyalty, Folger, Volunteer
+  Alexandria, Break My Game). Now fixed. Check column B before anything else.
+- Pages that print "Oct 18" with no year are common (Moishe House, Flow Yoga, Sur La Table, Alliance
+  Francaise). Haiku infers the year from the weekday; the proof standard still wants a year, so
+  these stay "LIVE" only once the fetch run shows correct dates.
+- The 35 NEEDS BROWSER rows are mostly five platforms: Galaxy Digital (4 volunteer sites),
+  Bookmanager (2 bookstores), Mindbody (3 studios), Art of Living's Salesforce app (3 rows),
+  Keep&Share / Square Online / Sawyer / Calendly / Mariana Tek (1 each). One browser reader that
+  works on each platform unlocks the group.
+
 ## Things that went wrong once and must not again
 
 - Trusting the URL in the sheet as the events page. It was the homepage for 9 sources.
@@ -111,6 +132,8 @@ is never a complete note.
 - Running a long job silently. Say how long it will take before starting it; check back
   instead of blocking.
 - Running on all 124 when asked for 20.
+- Launching more than 20 subagents at once: the harness caps concurrency at 20 and the rest fail.
+  Send 20, wait, send the rest.
 
 ## Working rules
 

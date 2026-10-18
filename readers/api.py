@@ -30,7 +30,23 @@ def _dcpolicy(data, name):
                   e.get("time", "") or "", e.get("location", "") or "", e.get("url", "") or "")
             for e in data.get("events", [])]
 
-SHAPES = [("tribe/events", _tribe), ("/api/2/events", _localist), ("connectjew.org", _connectjew), ("dcpolicyevents", _dcpolicy)]
+def _livewhale(data, name):  # events.georgetown.edu/live/json/events/...
+    items = data if isinstance(data, list) else data.get("events") or data.get("items") or []
+    out = []
+    for e in items:
+        s = e.get("date_iso") or e.get("date_utc") or e.get("date", "")
+        d = s[:10] if s and s[4:5] == "-" else ""
+        if not d:
+            try:
+                d = datetime.strptime(s[:30], "%A, %B %d, %Y").date().isoformat()
+            except Exception:
+                pass
+        out.append(event(d, e.get("title", ""), name, s[11:16] if s[4:5] == "-" else "",
+                         e.get("location", "") or "", e.get("url", "") or ""))
+    return [e for e in out if e["date"]]
+
+SHAPES = [("tribe/events", _tribe), ("/api/2/events", _localist), ("connectjew.org", _connectjew),
+          ("dcpolicyevents", _dcpolicy), ("/live/json/", _livewhale)]
 
 def read(source, window_days=21):
     url = source.get("feed_url") or source["url"]

@@ -1,0 +1,127 @@
+name,url,category,paused,method,feed_url
+GatherDC,https://gatherdc.org/calendar/,,,api,https://gatherdc.org/wp-json/tribe/events/v1/events?per_page=50&start_date={start}&end_date={end}
+EntryPointDC (Edlavitch DCJCC),https://www.edcjcc.org/calendar/,,,ical,https://www.edcjcc.org/events/?ical=1
+Moishe House DC (Columbia Heights),https://memglobal.org/find-a-house/moishe-house-washington-d-c-columbia-heights/,,,html,
+ConnectJew,https://connectjew.org/events,,,none,
+Sixth & I,https://www.sixthandi.org/events/,,,api,https://www.sixthandi.org/wp-json/tribe/events/v1/events?per_page=100&start_date={start}
+2239 (Washington Hebrew Congregation),https://www.whctemple.org/events/,,,api,https://www.whctemple.org/wp-json/tribe/events/v1/events?search=Metro%20Minyan&per_page=20
+Reva (Adas Israel),https://www.adasisrael.org/reva,,,html,
+Chabad Young Professionals DC,https://www.yjpdc.org/,,,browser,
+Next Gen (Jewish Federation of Greater Washington),https://www.shalomdc.org/get-involved/next-gen/,,,ical,https://www.shalomdc.org/all-events/?ical=1
+Repair the World,https://werepair.org/get-involved/,,,browser,https://werepair.org/get-involved/volunteer/
+Bhakti Yoga DC,https://www.bhaktiyogadc.com/classes,,,recurring,weekly; thu; 18:45; Bhakti Yoga DC; Satsang
+Ecstatic Dance DC,https://ecstaticdance.org/dance/ecstatic-dance-dc/,,,recurring,weekly; thu; 20:45; Edgewood Arts Center; Ecstatic Dance DC
+Eaton Wellness,https://www.eatonworkshop.com/en-us/dc-washington-dc/wellness/,,,browser,https://www.eatonworkshop.com/en-us/events-calendar/
+Soul Fire Experiences / Ecstatic Dance Arlington,https://theticketing.co/e/edancearlhalloween26,,,browser,
+The Dance with Ann Kite,https://tickets.annkite.com/events/annkitecom/1994688/select-date,,,html,
+Sun & Moon Yoga Studio,https://www.sunandmoonstudio.com/workshops,,,html,
+Flow Yoga Center,https://www.flowyogacenter.com/cathedral,,,html,
+Kadampa Meditation Center DC,https://www.meditation-dc.org/calendar,,,html,
+Yoga District,https://www.yogadistrict.com/,,,browser,https://clients.mindbodyonline.com/classic/ws?studioid=2070&stype=-7&sView=week&sLoc=0
+National Museum of Women in the Arts,https://nmwa.org/whats-on/calendar/,,,browser,https://secure.nmwa.org/events
+Authentic Relating DC,https://www.meetup.com/authentic-relating-dc/,,,ical,https://www.meetup.com/authentic-relating-dc/events/ical/
+Interfusion Festival,https://interfusionfestival.com/,,,none,
+Awarehouse,https://www.awarehousedc.com/schedule,,,browser,https://www.awarehousedc.com/schedule
+DC Contact Improv,https://www.dccontactimprov.net/,,,recurring,weekly; sun; 14:00-17:00; Dance Place; Sunday Jam (1st Sunday = Underscore)
+ONIMA Breathwork,https://onimabreathwork.com/services-overview/pop-up-in-person-group-sessions/,,,browser,https://calendly.com/onimabreathwork
+Blueberry Gardens Healing Center,https://www.blueberrygardens.org/calendar.php,,,ical,https://calendar.google.com/calendar/ical/2989aa62829b1143076fe563d168190c9ad7007193026622e8068c3f2d7b4a7c%40group.calendar.google.com/public/basic.ics
+Art of Living DC Center (events),https://members.us.artofliving.org/us-en/centers/events/a054600000C7j5HAAR?timeZone=EST&viewMode=cards&embed=true,,,browser,
+Insight Meditation Community of Washington (IMCW),https://imcw.org/events/,,,browser,https://imcw.org/events/
+The Center for Mindful Living,https://living-mindfully.org/classes,,,recurring,weekly; sat; 10:30; Center for Mindful Living; In-Person Living Dharma Circle
+The Mindfulness Center,https://www.themindfulnesscenter.org/classes/,,,browser,
+Satchidananda Ashram-Yogaville,https://www.yogaville.org/programs/programs-calendar/,,,ical,https://www.yogaville.org/all-events/?ical=1
+Georgetown University (university-wide),https://events.georgetown.edu/,,,api,https://events.georgetown.edu/live/json/events/?days=35
+Georgetown School of Foreign Service,https://events.georgetown.edu/sfs/,,,api,https://events.georgetown.edu/live/json/events/group/School%20of%20Foreign%20Service
+Georgetown Institute of Politics and Public Service,https://events.georgetown.edu/politics,,,ical,https://calendar.google.com/calendar/ical/c_b282c9d4c1f9b1b59db3ea01107c9f214666178af96845414c23fcc0994f059e%40group.calendar.google.com/public/basic.ics
+Georgetown Department of Government,https://events.georgetown.edu/government,,,api,https://events.georgetown.edu/live/json/events/group/Government
+George Washington University (university-wide),https://calendar.gwu.edu/,,,api,https://calendar.gwu.edu/api/2/events?days=21&pp=100
+GW Elliott School of International Affairs,https://calendar.gwu.edu/elliott,,,ical,https://calendar.gwu.edu/elliott/calendar/1.ics
+American University (university-wide),https://www.american.edu/calendar/,,,html,https://www.american.edu/calendar/
+American University College of Arts and Sciences,https://www.american.edu/cas/events/calendar/,,,html,https://www.american.edu/cas/events/calendar/
+"University of Maryland, College Park",https://calendar.umd.edu/category/academics,,,html,https://calendar.umd.edu/category/academics
+Johns Hopkins Bloomberg Center DC,https://washingtondc.jhu.edu/events/upcoming-events/,,,html,https://washingtondc.jhu.edu/events/upcoming-events/
+Japan Information & Culture Center (Embassy of Japan),https://www.us.emb-japan.go.jp/jicc/events.html,,,html,
+Goethe-Institut Washington,https://www.goethe.de/ins/us/en/sta/wsh/ver.cfm,,,rss,https://www.goethe.de/ins/us/en/rss/was/ver.rss
+Alliance Francaise of Washington DC,https://francedc.org/events,,,html,
+Italian Cultural Institute of Washington,https://iicwashington.esteri.it/en/eventi/,,,html,
+Austrian Cultural Forum Washington,https://www.acfdc.org/events,,,html,https://www.acfdc.org/events?format=json
+Mexican Cultural Institute,https://instituteofmexicodc.org/index.php/cultural-happenings/,,,browser,https://instituteofmexicodc.org/index.php/cultural-calendar/
+La Maison Francaise (Embassy of France),https://media.franceintheus.org/calendar/,,,ical,https://media.franceintheus.org/events/?ical=1
+SPAIN arts & culture (Washington),https://www.spainculture.us/city/washington-dc/?date=today,,,rss,https://www.spainculture.us/city/washington-dc/feed/
+Korean Cultural Center Washington,https://washingtondc.korean-culture.org/en/1129/board/893/list,,,none,
+Embassy of the Czech Republic (cultural events),https://mzv.gov.cz/washington/en/culture_events/culture/index.html,,,html,
+Socrates Cafe Rockville,https://www.meetup.com/socrates-cafe-rockville/,,,ical,https://www.meetup.com/socrates-cafe-rockville/events/ical/
+Practical Philosophy Club (Washington DC),https://www.meetup.com/practical-philosophy-club-washington-dc/,,,ical,https://www.meetup.com/practical-philosophy-club-washington-dc/events/ical/
+Effective Altruism DC,https://luma.com/EA-DC,,,ical,https://api.luma.com/ics/get?entity=calendar&id=cal-GTJhC5OzDHfqInR
+LessWrong community events,https://www.lesswrong.com/community?filters=SSC,,,html,https://www.lesswrong.com/community?filters=SSC
+Interintellect,https://interintellect.com/salons,,,xhr,https://interintellect.com/api/salon/public/all?grouped=true&direction=newer&isFirstLoad=true&includeSeries=true&tabType=all&limit=100
+Braver Angels DC Alliance,https://dc.braverangels.org/,,,ical,https://calendar.google.com/calendar/ical/c_699a2b8c681edb1f3cf7e85d3b9717529b4ccef15a8769cfca3a3f7023579fbb%40group.calendar.google.com/public/basic.ics
+Profs and Pints (Washington DC),https://www.meetup.com/Profs-and-Pints-Meetup/,,,ical,https://www.meetup.com/Profs-and-Pints-Meetup/events/ical/
+Hill Center DC,https://www.hillcenterdc.org/calendar/,,,html,
+Brookings Institution,https://www.brookings.edu/events/,,,html,
+CSIS,https://www.csis.org/events,,,html,
+Carnegie Endowment for International Peace,https://carnegieendowment.org/events,,,html,
+Atlantic Council,https://www.atlanticcouncil.org/events/,,,html,
+Stimson Center,https://www.stimson.org/all-events/,,,html,
+New America,https://www.newamerica.org/events/,,,html,
+CNAS,https://www.cnas.org/events,,,html,
+Cato Institute,https://www.cato.org/events/upcoming,,,html,
+American Enterprise Institute,https://www.aei.org/events/,,,html,
+Hudson Institute,https://www.hudson.org/events,,,html,
+DC Policy Events (aggregator),https://dcpolicyevents.com/,,,api,https://dcpolicyevents.com/api/events
+Politics and Prose,https://politics-prose.com/events,,,html,
+Lost City Books,https://lostcitybookstore.com/events,,,html,
+Kramers,https://kramers.com/events?field_event_category_tid=All,,,browser,
+East City Bookshop,https://www.eastcitybookshop.com/events,,,browser,
+People's Book (Takoma Park),https://peoplesbooktakoma.com/wp-json/tribe/events/v1/events?per_page=50,,,api,https://peoplesbooktakoma.com/wp-json/tribe/events/v1/events?per_page=50
+Loyalty Bookstores (book clubs),https://loyaltybookstores.com/events,,,html,https://loyaltybookstores.com/events
+Solid State Books: Reading the City,https://www.solidstatebooksdc.com/events,,,html,
+Folger Shakespeare Library,https://www.folger.edu/whats-on/,,,html,https://www.folger.edu/whats-on/
+The Writer's Center (Bethesda),https://writer.org/free-events-calendar/,,,html,
+DC Public Library: DC Reads,https://dclibrary.libnet.info/events,,,browser,https://dclibrary.libnet.info/events
+DC Central Kitchen,https://dccentralkitchen.org/register,,,html,https://dccentralkitchen.org/register
+Food & Friends,https://foodandfriends.org/volunteer/volunteer-with-us/,,,none,
+Martha's Table,https://volunteer.marthastable.org/calendar/,,,browser,
+SOME (So Others Might Eat),https://some.volunteerportal.org/,,,browser,
+Volunteer Arlington,https://connect.volunteerarlington.org/calendar/,,,browser,https://connect.volunteerarlington.org/calendar/
+Volunteer Alexandria,https://www.volunteeralexandria.org/partner-events-calendar,,,html,https://www.volunteeralexandria.org/partner-events-calendar
+Rock Creek Conservancy,https://www.rockcreekconservancy.org/calendar,,,xhr,https://events.timely.fun/api/calendars/54713121/events?timezone=America/New_York&view=tile&per_page=50
+Casey Trees,https://caseytrees.org/get-involved/volunteer-events/,,,ical,https://caseytrees.org/events/?ical=1
+Anacostia Watershed Society,https://www.anacostiaws.org/events/,,,api,https://www.anacostiaws.org/wp-json/tribe/events/v1/events?per_page=50
+Capital Area Food Bank,https://volunteer.capitalareafoodbank.org/calendar,,,browser,https://volunteer.capitalareafoodbank.org/calendar
+HacDC,https://www.meetup.com/hac-dc/,,,ical,https://www.meetup.com/hac-dc/events/ical/
+Nova Labs,https://portal.nova-labs.org/events,,,rss,https://portal.nova-labs.org/events/RSS
+Data Science DC,https://www.meetup.com/data-science-dc/,,,ical,https://www.meetup.com/data-science-dc/events/ical/
+Data Community DC,https://luma.com/DC2,,,ical,https://api.luma.com/ics/get?entity=calendar&id=cal-eCuIBRbS1atJOa6
+DC Tech Meetup,https://www.dctechmeetup.com/,,,none,
+DC Python,https://www.meetup.com/dcpython/,,,ical,https://www.meetup.com/dcpython/events/ical/
+PSW Science,https://pswscience.org/,,,ical,https://ics.teamup.com/feed/ks1p86psgyu3z6msb4/10769005.ics
+National Capital Astronomers,https://capitalastronomers.org/,,,html,
+Northern Virginia Astronomy Club (NOVAC),https://www.novac.com/wp/events/,,,stealth,
+Carnegie Science,https://carnegiescience.edu/events,,,stealth,
+Labyrinth Games & Puzzles,https://www.labyrinthdc.com/events/calendar/,,,browser,https://www.labyrinthdc.com/events/calendar/
+Game Kastle (College Park),https://gamekastle.com/pages/college-park-md-event-calendar,,,ical,https://calendar.google.com/calendar/ical/800f6bde859b0593ad025d88a9aee4e33487a4840eeb918ee6b0ee1034bc8279%40group.calendar.google.com/public/basic.ics
+Victory Comics,https://victorycomics.com/event-schedule,,,browser,https://victorycomics.com/event-schedule
+Games & Comics Pair O' Dice (Fairfax),https://www.gcpairodice.com/calendar,,,ical,https://calendar.google.com/calendar/ical/c_i992fmeebehi4bi15lbke0acvg%40group.calendar.google.com/public/basic.ics
+Fantom Comics,https://ma.to/venue/fantomcomics,,,html,https://ma.to/venue/fantomcomics
+Break My Game,https://www.breakmygame.com/,,,recurring,monthly; 2 sun; 15:00-18:00; Crossroads Tabletop Tavern Manassas; Break My Game playtest
+Arlington Chess Club,https://www.arlingtonchessclub.com/Tournaments.html,,,browser,https://www.arlingtonchessclub.com/Schedule.html
+Beer & Board Games,https://www.meetup.com/beerbogglers/,,,ical,https://www.meetup.com/beerbogglers/events/ical/
+The DC Area Board Game Club,https://www.meetup.com/dc-area-board-games/,,,ical,https://www.meetup.com/dc-area-board-games/events/ical/
+The Board Room (Arlington),https://www.theboardroomva.com/br-happenings,,,none,
+DC Rawhides,https://dcrawhides.com/event-calendar/,,,html,
+Hollywood Ballroom,https://hollywoodballroomdc.com/calendar/,,,browser,https://www.keepandshare.com/calendar18/embed_calendar.php?i=2582549
+Salsa Vida (DMV aggregator),https://www.salsavida.com/guides/dc-maryland-virginia-dmv/washington-dc/,,,jsonld,
+Baila DC (socials),https://www.tickettailor.com/all-tickets/bailadc,,,recurring,"monthly; 1,3 thu; 19:00; La Cosecha 1280 4th St NE; Baila Thursdays Salsa Social"
+Baila DC (classes),https://bailadc.com/classes,,,none,
+Dance Jam Productions,https://dancejamproductions.com/events/,,,html,
+Carpe Diem Arts,https://carpediemarts.org/event-calendar,,,ical,https://calendar.google.com/calendar/ical/c_e34e234f52ce9e63e0f473fb83649658864302f511da14ca0b04810abf354556%40group.calendar.google.com/public/basic.ics
+District Clay Center (One Shot classes),https://www.districtclaycenter.com/one-shot-classes.html,,,recurring,"weekly; fri,sat,sun; 17:30; District Clay Center; One Shot wheel class"
+Merry Pin,https://www.merrypindc.com/events,,,browser,https://www.merrypindc.com/events
+Art House 7,https://arthouseseven.com/workshops/,,,browser,https://hisawyer.com/art-house-seven/schedules?schedule_id=camps&widget_tags=workshop
+Sur La Table (Pentagon Row),https://www.surlatable.com/locations/va/arlington/cooking-classes-24.html,,,html,
+Sur La Table (Alexandria),https://www.surlatable.com/locations/va/alexandria/cooking-classes-163.html,,,html,
+WGIT DC,https://wgitdc.com/,,,browser,https://wgitdc.com/events
+DC Social Guide,https://www.dcsocialguide.com/,,,xhr,https://discovery.evvnt.com/api/publisher/6609/home_page_events?hitsPerPage=50&multipleEventInstances=true&page=0&publisher_id=6609
+Art of Living DC Center (meetups),https://members.us.artofliving.org/us-en/centers/meetups/a054600000C7j5HAAR?timeZone=EST&viewMode=cards&embed=true,,,browser,
+Art of Living DC Center (courses),https://members.us.artofliving.org/us-en/centers/courses/a054600000C7j5HAAR?timeZone=EST&viewMode=cards&embed=true,,,browser,
