@@ -9,7 +9,10 @@ these wrong.
 - `PLAYBOOK.md`: one row per source, the final method, feed URL or rule, and why. Mirrored in the
   Sources tab columns I (Method), J (Feed URL / rule), N (How to read). Read the row before touching a source.
 - `readers/`: one module per method. `readers/README.md` maps Method to module.
-- `fetch.py` (next): loops Sources, dispatches on Method, writes the Feed tab.
+- `fetch.py`: loops Sources, dispatches on Method, writes the Feed tab. `--dry-run` writes
+  `Feed_test` + `Run_log` (one line per source: status, count, seconds, error, 3 samples).
+  Run it from the Actions tab ("Weekly fetch" > Run workflow); it needs the two repo secrets
+  `GOOGLE_SERVICE_ACCOUNT_JSON` and `ANTHROPIC_API_KEY`.
 
 ## The goal, in one sentence
 

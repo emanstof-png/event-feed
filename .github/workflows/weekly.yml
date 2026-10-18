@@ -1,0 +1,59 @@
+name: Weekly fetch
+
+# Runs every Sunday 6:00am Eastern (10:00 UTC during EDT, 11:00 UTC during EST; both listed
+# so it is 6am-ish all year). Also runs on demand from the Actions tab, where you can tick
+# dry_run to write Feed_test / Run_log instead of Feed.
+on:
+  schedule:
+    - cron: "0 10 * * 0"
+  workflow_dispatch:
+    inputs:
+      dry_run:
+        description: "Dry run: write Feed_test and Run_log, leave Feed alone"
+        type: boolean
+        default: true
+      only:
+        description: "Only sources whose name contains this (blank = all)"
+        type: string
+        default: ""
+      methods:
+        description: "Only these methods, comma-separated (blank = all)"
+        type: string
+        default: ""
+
+permissions:
+  contents: read
+
+concurrency:
+  group: weekly
+  cancel-in-progress: false
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    timeout-minutes: 90
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: |
+          pip install -r requirements.txt
+          scrapling install
+
+      - name: Fetch
+        env:
+          GOOGLE_SERVICE_ACCOUNT_JSON: ${{ secrets.GOOGLE_SERVICE_ACCOUNT_JSON }}
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: |
+          ARGS=""
+          if [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
+            [ "${{ inputs.dry_run }}" = "true" ] && ARGS="$ARGS --dry-run"
+            [ -n "${{ inputs.only }}" ] && ARGS="$ARGS --only \"${{ inputs.only }}\""
+            [ -n "${{ inputs.methods }}" ] && ARGS="$ARGS --methods ${{ inputs.methods }}"
+          fi
+          echo "python fetch.py $ARGS"
+          eval python fetch.py $ARGS
