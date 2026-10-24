@@ -6,7 +6,8 @@ these wrong.
 
 ## Where things are
 
-- `RULES.md`: ten operating rules. Read it second. `python check.py` enforces the mechanical ones
+- `SPEC_SPEED.md`: the approved speed/accuracy plan (Oct 24). Work it before anything else on scraping.
+- `RULES.md`: twelve operating rules. Read it second. `python check.py` enforces the mechanical ones
   and CI runs it on every push; run it before every commit.
 - `sources_methods.csv`: snapshot of the Sources tab (B, I, J, K, L, M, N). `PLAYBOOK.md` is
   generated from it by `python sync_playbook.py`; never edit PLAYBOOK by hand. Read a source's
