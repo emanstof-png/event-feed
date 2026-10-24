@@ -45,6 +45,9 @@ Added Oct 18, 2:55am, after Eric found 166 empty links in the first feed:
 11. **Every feed row is clickable.** Link is the event's own URL, else the first link in its
     description, else the organization's calendar page. Never blank. *(checked on the last
     committed feed)*
+12. **No live fetching from chat.** Agents and scouts never WebFetch, search or browse an
+    organization's site; each new domain is a permission prompt for Eric. GitHub jobs fetch and
+    commit the text; agents read those files. *(checked: no brief may tell a scout to WebFetch)*
 
 ## Commands
 

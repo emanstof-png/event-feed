@@ -80,6 +80,11 @@ def check_code():
               "briefs/SCOUT_RENDER.md", "briefs/BLURB.md", "render_test.py", ".github/workflows/render.yml",
               ".github/workflows/weekly.yml", ".github/workflows/feedtest.yml", ".github/workflows/check.yml"]:
         if not os.path.exists(f): problems.append(f"{f} missing")
+    import glob, re as _re
+    for f in glob.glob("briefs/*.md"):   # RULES 12: scouts read committed files, never fetch live
+        for n, line in enumerate(open(f, encoding="utf-8"), 1):
+            if _re.search(r"\b(WebFetch|WebSearch)\b", line) and not _re.search(r"(?i)\b(do not|never|no live)\b", line):
+                problems.append(f"{f}:{n} tells a scout to fetch live (RULES 12)")
     try:
         out = subprocess.run(["git", "grep", "-nE", r"(sk-ant-|\"private_key\")", "--", ".", ":!check.py"], capture_output=True, text=True)
         if out.stdout.strip(): problems.append("a secret-looking string is committed:\n" + out.stdout[:500])

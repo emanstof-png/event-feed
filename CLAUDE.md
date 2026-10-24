@@ -196,8 +196,11 @@ The manual run, step by step (first done Oct 18, 2:50am; 673 events with categor
 - Before telling Eric an output is ready: run `python check.py` on it, then read 5 rows chosen at
   random as he would (click the link, read the blurb). A count is not a look.
 - Never invent an event. Say what you saw.
-- Plain fetch from this workspace cannot reach outside sites; GitHub Actions can. The
-  scouts' WebFetch can.
+- Plain fetch from this workspace cannot reach outside sites; GitHub Actions can.
+- NO LIVE FETCHING FROM CHAT. Never WebFetch, WebSearch or browse an organization's site, from
+  the lead agent or any scout: each new domain stops Eric with a permission prompt (Oct 24, again
+  after he had said no). All fetching runs on GitHub (feedtest.yml, rawfetch.yml, render.yml),
+  which commits the text; agents read the committed files only. Missing file = dispatch the job.
 - The sheet is the source of truth. `sources_methods.csv` is its snapshot; `sources.csv` is the
   older probe snapshot (names and URLs only).
 - Before committing: `python check.py` must print OK. After changing a method anywhere, change
