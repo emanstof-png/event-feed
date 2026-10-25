@@ -5,15 +5,17 @@ text to browser_samples/<slug>.txt plus one line per source in browser_render_lo
 Haiku scouts then read the text files to prove (or disprove) that events are visible."""
 import csv, re, sys, time, os
 from pathlib import Path
+from lists import current as _list
+_L = _list()   # FEED_LIST=elite reads elite_methods.csv, writes elite_<log>.csv; sample files are per source either way
 sys.path.insert(0, ".")
 from readers.browser import render_text
 
 OUT = Path("browser_samples"); OUT.mkdir(exist_ok=True)
-EXTRA = set(sys.argv[1:]) or {"Sixth & I", "2239 (Washington Hebrew Congregation)", "Rock Creek Conservancy", "Interintellect"}
+EXTRA = set(sys.argv[1:]) or (set() if _L["prefix"] else {"Sixth & I", "2239 (Washington Hebrew Congregation)", "Rock Creek Conservancy", "Interintellect"})
 
 def slug(n): return re.sub(r"[^a-z0-9]+", "-", n.lower()).strip("-")[:60]
 
-rows = list(csv.DictReader(open("sources_methods.csv", newline="", encoding="utf-8")))
+rows = list(csv.DictReader(open(_L["csv"], newline="", encoding="utf-8")))
 targets = [r for r in rows if r["method"] in ("browser", "stealth") or r["name"] in EXTRA]
 print(f"{len(targets)} sources", flush=True)
 log = []
@@ -26,6 +28,6 @@ for r in targets:
     (OUT / f"{slug(r['name'])}.txt").write_text(f"{r['name']}\n{url}\nrendered {time.strftime('%Y-%m-%d %H:%MZ', time.gmtime())}  status={rep['status']} chars={rep['chars']} iframes={rep['iframes']} srcdoc={rep['srcdoc']} next={rep['clicked_next']} error={rep['error']}\n\n{text}", encoding="utf-8")
     line = [r["row"], r["name"], url, rep["status"], rep["chars"], rep["iframes"], rep["srcdoc"], rep["clicked_next"], dates, secs, rep["error"]]
     log.append(line); print(line, flush=True)
-with open("browser_render_log.csv", "w", newline="", encoding="utf-8") as f:
+with open(_L["prefix"] + "browser_render_log.csv", "w", newline="", encoding="utf-8") as f:
     w = csv.writer(f); w.writerow(["row", "name", "url", "status", "chars", "iframes", "srcdoc", "clicked_next", "date_strings", "seconds", "error"]); w.writerows(log)
 print("DONE", len(log))

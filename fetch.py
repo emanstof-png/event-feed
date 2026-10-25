@@ -24,6 +24,8 @@ from concurrent.futures import ThreadPoolExecutor, TimeoutError as FutTimeout
 from datetime import datetime
 
 from readers.common import TZ, dedupe
+from lists import current as _list
+L = _list()   # FEED_LIST=elite runs the Elite Sources tab into Elite Feed with this same code
 
 SHEET_ID = os.environ.get("SHEET_ID", "1vDMP4n3bOBGGvwZ9PerbctPr4uGhiRvxu1cPv_QROYg")
 WINDOW_DAYS = 21
@@ -58,7 +60,7 @@ def open_sheet():
 
 
 def load_sources(sh):
-    rows = sh.worksheet("Sources").get_all_values()
+    rows = sh.worksheet(L["sources"]).get_all_values()
     out = []
     for i, r in enumerate(rows[1:], start=2):          # sheet row numbers
         r = r + [""] * (14 - len(r))
@@ -76,7 +78,8 @@ def load_sources(sh):
     return out
 
 
-def load_sources_csv(path="sources_methods.csv"):
+def load_sources_csv(path=None):
+    path = path or L["csv"]
     """Snapshot of Sources columns A, B, E, I, J for runs without a Google key."""
     import csv
     out = []
@@ -177,10 +180,10 @@ def previous_counts(sh=None):
     rows = []
     try:
         if sh is not None:
-            rows = sh.worksheet("Run_log").get_all_values()[1:]
+            rows = sh.worksheet(L["run_log"]).get_all_values()[1:]
         else:
             import csv
-            rows = list(csv.reader(open("run_log.csv", newline="", encoding="utf-8")))[1:]
+            rows = list(csv.reader(open(f"run_log{L['out']}.csv", newline="", encoding="utf-8")))[1:]
     except Exception:
         return {}
     out = {}
@@ -218,8 +221,8 @@ def main():
     ap.add_argument("--workers", type=int, default=4, help="parallel sources (browser rows run 1 at a time)")
     ap.add_argument("--csv", action="store_true",
                     help="no Google key: read sources from sources_methods.csv, write feed_test.csv + run_log.csv")
-    ap.add_argument("--sources-csv", default="sources_methods.csv", help="with --csv: read sources from this file")
-    ap.add_argument("--out", default="", help="with --csv: write feed_test<out>.csv and run_log<out>.csv (e.g. _prove)")
+    ap.add_argument("--sources-csv", default=None, help="with --csv: read sources from this file")
+    ap.add_argument("--out", default=L["out"], help="with --csv: write feed_test<out>.csv and run_log<out>.csv (e.g. _prove)")
     args = ap.parse_args()
 
     if not os.environ.get("ANTHROPIC_API_KEY"):
@@ -308,17 +311,17 @@ def main():
         return 0
 
     if args.dry_run:
-        write_table(worksheet(sh, "Feed_test"), FEED_HEADER, feed_rows)
-        write_table(worksheet(sh, "Run_log"), LOG_HEADER, log_rows)
+        write_table(worksheet(sh, L["feed_test"]), FEED_HEADER, feed_rows)
+        write_table(worksheet(sh, L["run_log"]), LOG_HEADER, log_rows)
         print("wrote Feed_test and Run_log", flush=True)
         return 0
 
     # real run: Feed tab, plus Last run (G), Status (K), Events verified (L) on Sources
-    feed_ws = worksheet(sh, "Feed")
+    feed_ws = worksheet(sh, L["feed"])
     write_table(feed_ws, FEED_HEADER, feed_rows)
     if feed_rows:
         checkboxes(sh, feed_ws.id, len(feed_rows))
-    src_ws = sh.worksheet("Sources")
+    src_ws = sh.worksheet(L["sources"])
     updates = []
     for row in sorted(results):
         src, evs, status, err, secs = results[row]
@@ -329,8 +332,8 @@ def main():
         updates.append({"range": f"K{row}:L{row}", "values": [[reason, len(evs) if src["method"] != "recurring" else "recurring"]]})
     if updates:
         src_ws.batch_update(updates, value_input_option="USER_ENTERED")
-    write_table(worksheet(sh, "Run_log"), LOG_HEADER, log_rows)
-    print("wrote Feed, Sources G/K/L, Run_log", flush=True)
+    write_table(worksheet(sh, L["run_log"]), LOG_HEADER, log_rows)
+    print(f"wrote {L['feed']}, {L['sources']} G/K/L, {L['run_log']}", flush=True)
     return 0
 
 

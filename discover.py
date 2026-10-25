@@ -11,6 +11,8 @@ date_count, replay_status, replay_ok, first 4000 chars of body) and discover_log
 Haiku scouts read those files with briefs/SCOUT_DISCOVER.md. Cap: 60s per source."""
 import asyncio, csv, json, re, sys, time
 from pathlib import Path
+from lists import current as _list
+_L = _list()   # FEED_LIST=elite reads elite_methods.csv, writes elite_<log>.csv; sample files are per source either way
 
 OUT = Path("discover"); OUT.mkdir(exist_ok=True)
 CAP = 60
@@ -87,7 +89,7 @@ def replay(c):
 async def main():
     from playwright.async_api import async_playwright
     names = set(sys.argv[1:])
-    rows = list(csv.DictReader(open("sources_methods.csv", newline="", encoding="utf-8")))
+    rows = list(csv.DictReader(open(_L["csv"], newline="", encoding="utf-8")))
     targets = [r for r in rows if (r["name"] in names) if names] or [r for r in rows if r["method"] in ("browser", "stealth")]
     print(f"{len(targets)} sources, cap {CAP}s each", flush=True)
     log = []
@@ -110,7 +112,7 @@ async def main():
             line = [r["row"], r["name"], url, len(cands), sum(1 for c in cands if c.get("replay_ok")), secs, err]
             log.append(line); print(line, flush=True)
         await browser.close()
-    with open("discover_log.csv", "w", newline="", encoding="utf-8") as f:
+    with open(_L["prefix"] + "discover_log.csv", "w", newline="", encoding="utf-8") as f:
         w = csv.writer(f); w.writerow(["row", "name", "page", "candidates", "replay_ok", "seconds", "error"]); w.writerows(log)
     print("DONE", len(log), "sources,", sum(1 for l in log if l[3]), "with candidates,", sum(1 for l in log if l[4]), "replayable")
 

@@ -7,6 +7,8 @@ files with briefs/SCOUT_EXTRACT.md, standing in for readers/haiku.py until the k
 Browser and stealth rows are rendered by render_test.py instead."""
 import csv, re, sys, time
 from pathlib import Path
+from lists import current as _list
+_L = _list()   # FEED_LIST=elite reads elite_methods.csv, writes elite_<log>.csv; sample files are per source either way
 sys.path.insert(0, ".")
 import feedparser
 from readers.common import get
@@ -17,7 +19,7 @@ METHODS = {"html", "jsonld", "rss"}
 
 def slug(n): return re.sub(r"[^a-z0-9]+", "-", n.lower()).strip("-")[:60]
 
-rows = list(csv.DictReader(open("sources_methods.csv", newline="", encoding="utf-8")))
+rows = list(csv.DictReader(open(_L["csv"], newline="", encoding="utf-8")))
 targets = [r for r in rows if r["method"] in METHODS and not r.get("paused")]
 print(f"{len(targets)} sources", flush=True)
 log = []
@@ -46,6 +48,6 @@ for r in targets:
         encoding="utf-8")
     line = [r["row"], r["name"], r["method"], url, status, len(body), secs, err]
     log.append(line); print(line, flush=True)
-with open("raw_fetch_log.csv", "w", newline="", encoding="utf-8") as f:
+with open(_L["prefix"] + "raw_fetch_log.csv", "w", newline="", encoding="utf-8") as f:
     w = csv.writer(f); w.writerow(["row", "name", "method", "url", "status", "chars", "seconds", "error"]); w.writerows(log)
 print("DONE", len(log))

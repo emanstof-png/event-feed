@@ -6,6 +6,11 @@ name: Feed test (no secrets)
 on:
   workflow_dispatch:
     inputs:
+      list:
+        description: "Which source list: main (Sources tab) or elite (Elite Sources tab)"
+        type: choice
+        options: [main, elite]
+        default: main
       methods:
         description: "Methods to run, comma-separated"
         type: string
@@ -24,11 +29,14 @@ on:
       - sources_methods.csv
       - .github/workflows/feedtest.yml
 
+env:
+  FEED_LIST: ${{ inputs.list || 'main' }}
+
 permissions:
   contents: write
 
 concurrency:
-  group: feedtest
+  group: feedtest-${{ inputs.list || 'main' }}
   cancel-in-progress: true
 
 jobs:

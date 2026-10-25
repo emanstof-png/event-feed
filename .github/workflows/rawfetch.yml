@@ -4,12 +4,21 @@ name: Raw fetch (no secrets)
 # Haiku scouts can extract events (briefs/SCOUT_EXTRACT.md) until ANTHROPIC_API_KEY exists.
 on:
   workflow_dispatch:
+    inputs:
+      list:
+        description: "Which source list: main (Sources tab) or elite (Elite Sources tab)"
+        type: choice
+        options: [main, elite]
+        default: main
+
+env:
+  FEED_LIST: ${{ inputs.list || 'main' }}
 
 permissions:
   contents: write
 
 concurrency:
-  group: rawfetch
+  group: rawfetch-${{ inputs.list || 'main' }}
   cancel-in-progress: true
 
 jobs:
@@ -30,7 +39,7 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add raw_samples raw_fetch_log.csv || true
+          git add raw_samples '*raw_fetch_log.csv' || true
           git commit -m "Raw fetch $(date -u +%Y-%m-%dT%H:%MZ)" || { echo "No changes"; exit 0; }
           git pull --rebase --autostash origin main
           git push origin HEAD:main

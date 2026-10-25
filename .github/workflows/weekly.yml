@@ -8,6 +8,11 @@ on:
     - cron: "0 10 * * 0"
   workflow_dispatch:
     inputs:
+      list:
+        description: "Which source list: main (Sources tab) or elite (Elite Sources tab)"
+        type: choice
+        options: [main, elite]
+        default: main
       dry_run:
         description: "Dry run: write Feed_test and Run_log, leave Feed alone"
         type: boolean
@@ -21,11 +26,14 @@ on:
         type: string
         default: ""
 
+env:
+  FEED_LIST: ${{ inputs.list || 'main' }}
+
 permissions:
   contents: read
 
 concurrency:
-  group: weekly
+  group: weekly-${{ inputs.list || 'main' }}
   cancel-in-progress: false
 
 jobs:

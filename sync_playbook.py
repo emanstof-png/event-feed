@@ -3,6 +3,8 @@
 Never edit PLAYBOOK.md by hand. With GOOGLE_SERVICE_ACCOUNT_JSON set, --from-sheet first
 refreshes the CSV from the live sheet (columns A, B, E, I, J, K, L, M, N)."""
 import csv, os, sys, json
+from lists import current, name as list_name
+L = current()   # FEED_LIST=elite: elite_methods.csv -> ELITE_PLAYBOOK.md, Elite Sources tab
 
 HEAD = """# Playbook: how every source is read
 
@@ -20,13 +22,14 @@ def from_sheet():
     creds = Credentials.from_service_account_info(json.loads(os.environ["GOOGLE_SERVICE_ACCOUNT_JSON"]),
                                                   scopes=["https://www.googleapis.com/auth/spreadsheets.readonly"])
     sh = gspread.authorize(creds).open_by_key(os.environ.get("SHEET_ID", "1vDMP4n3bOBGGvwZ9PerbctPr4uGhiRvxu1cPv_QROYg"))
-    vals = sh.worksheet("Sources").get_all_values()
-    with open("sources_methods.csv", "w", newline="", encoding="utf-8") as f:
-        w = csv.writer(f); w.writerow(["row", "name", "url", "category", "paused", "method", "feed_url", "status", "verified", "notes", "how"])
+    vals = sh.worksheet(L["sources"]).get_all_values()
+    elite = list_name() != "main"   # extra list tabs carry O Programs, P Access
+    with open(L["csv"], "w", newline="", encoding="utf-8") as f:
+        w = csv.writer(f); w.writerow(["row", "name", "url", "category", "paused", "method", "feed_url", "status", "verified", "notes", "how"] + (["programs", "access"] if elite else []))
         for i, r in enumerate(vals[1:], start=2):
-            r = r + [""] * (14 - len(r))
+            r = r + [""] * (16 - len(r))
             if r[0].strip():
-                w.writerow([i, r[0], r[1], r[2], r[4], r[8].lower(), r[9], r[10], r[11], r[12], r[13]])
+                w.writerow([i, r[0], r[1], r[2], r[4], r[8].lower(), r[9], r[10], r[11], r[12], r[13]] + ([r[14], r[15]] if elite else []))
 
 def esc(x):
     return (x or "").replace("|", "\\|").replace("\n", " ")
@@ -35,11 +38,11 @@ def main():
     if "--from-sheet" in sys.argv:
         from_sheet()
     out = [HEAD]
-    for r in csv.DictReader(open("sources_methods.csv", newline="", encoding="utf-8")):
+    for r in csv.DictReader(open(L["csv"], newline="", encoding="utf-8")):
         feed = f"`{esc(r['feed_url'])}`" if r["feed_url"] else ""
         out.append(f"| {r['row']} | {esc(r['name'])} | {esc(r['url'])} | {r['method']} | {feed} | {esc(r['status'])} | {esc(r['how'])} | {esc(r['notes'])[:300]} |\n")
-    open("PLAYBOOK.md", "w", encoding="utf-8").write("".join(out))
-    print("PLAYBOOK.md regenerated")
+    open(L["playbook"], "w", encoding="utf-8").write("".join(out).replace("`sources_methods.csv` (a snapshot of the Sources tab)", f"`{L['csv']}` (a snapshot of the {L['sources']} tab)"))
+    print(f"{L['playbook']} regenerated")
 
 if __name__ == "__main__":
     main()

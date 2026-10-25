@@ -4,12 +4,21 @@ name: Browser render test (no secrets)
 # browser_samples/ so Haiku scouts can check whether events are visible. No API key needed.
 on:
   workflow_dispatch:
+    inputs:
+      list:
+        description: "Which source list: main (Sources tab) or elite (Elite Sources tab)"
+        type: choice
+        options: [main, elite]
+        default: main
+
+env:
+  FEED_LIST: ${{ inputs.list || 'main' }}
 
 permissions:
   contents: write
 
 concurrency:
-  group: render
+  group: render-${{ inputs.list || 'main' }}
   cancel-in-progress: true
 
 jobs:
@@ -32,7 +41,7 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add browser_samples browser_render_log.csv || true
+          git add browser_samples '*browser_render_log.csv' || true
           git commit -m "Browser render test $(date -u +%Y-%m-%dT%H:%MZ)" || { echo "No changes"; exit 0; }
           git pull --rebase --autostash origin main
           git push origin HEAD:main
