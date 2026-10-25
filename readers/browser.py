@@ -6,7 +6,7 @@ Speed rules (SPEC_SPEED Phase 2, Oct 24):
 - ONE browser session for the whole run, owned by one worker thread (Playwright's sync API is
   bound to the thread that started it). Every caller, including fetch.py's fallbacks from the
   parallel fast readers, queues here and waits at most CAP seconds.
-- No network_idle. After load, wait until the text shows a date, or WAIT_MS, whichever is first.
+- No network_idle. After load, wait until the text stops growing (1.5s steady, 2.5s to 12s).
 - solve_cloudflare only when the first render is a challenge page.
 
 render_text(source) returns the text and a small report without calling Haiku, so a job
@@ -16,10 +16,10 @@ from concurrent.futures import Future, TimeoutError as FutTimeout
 from .common import in_window, dedupe
 
 CAP = 45          # seconds per source, hard
-WAIT_MS = 5000    # after load: wait for a date to appear, at most this long
+SETTLE_MS = 12000 # after load: wait for the text to stop growing, at most this long
+MIN_MS = 2500     # ...but never less than this
 NAV_MS = 30000    # page navigation timeout
-_DATE_JS = r"""() => /(Jan|Feb|Mar|Apr|May|Jun|Jul|Aug|Sep|Oct|Nov|Dec)[a-z]*\.? \d{1,2}|\d{1,2}\/\d{1,2}|20\d\d-\d\d-\d\d/.test(document.body ? document.body.innerText : '')"""
-_CHALLENGE = re.compile(r"Just a moment|Verify you are human|Checking your browser|cf-chl|Attention Required", re.I)
+_CHALLENGE = re.compile(r"Just a moment|Verify you are human|Checking your browser|cf-chl|Attention Required|Performing security verification|verifies you are not a bot", re.I)
 _NEXT = 'a[aria-label*="next" i], button[aria-label*="next" i], a[title*="next" i], .fc-next-button, a.next'
 
 import os
@@ -27,13 +27,32 @@ _EXE = {"executable_path": os.environ["BROWSER_EXE"]} if os.environ.get("BROWSER
 _q, _thread, _lock = queue.Queue(), None, threading.Lock()
 
 
+def _settle(page):
+    """Wait until the page and its frames stop growing: text length unchanged for 1.5s, at least
+    MIN_MS after load, at most SETTLE_MS. Widgets fill in after load; a date in the header is not
+    proof the events arrived (Oct 24: Keep&Share, NMWA, Sixth & I read half-empty)."""
+    def size():
+        n = 0
+        for fr in page.frames[:5]:
+            try:
+                n += fr.evaluate("() => document.body ? document.body.innerText.length : 0")
+            except Exception:
+                pass
+        return n
+    t0, last, stable = time.time(), -1, 0
+    while (time.time() - t0) * 1000 < SETTLE_MS:
+        page.wait_for_timeout(500)
+        n = size()
+        stable = stable + 1 if n == last else 0
+        last = n
+        if stable >= 3 and (time.time() - t0) * 1000 >= MIN_MS:
+            return
+
+
 def _collect(rep, texts):
     """page_action: wait for content, read the page and every frame, click 'next' once."""
     def act(page):
-        try:
-            page.wait_for_function(_DATE_JS, timeout=WAIT_MS)
-        except Exception:
-            pass
+        _settle(page)
         def grab():
             try:
                 texts.append(page.inner_text("body", timeout=3000))
@@ -55,7 +74,7 @@ def _collect(rep, texts):
             nxt = page.locator(_NEXT).first
             if nxt.count():
                 nxt.click(timeout=3000)
-                page.wait_for_timeout(2000)
+                _settle(page)
                 rep["clicked_next"] = True
                 grab()
         except Exception:
