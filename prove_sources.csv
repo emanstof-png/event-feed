@@ -1,12 +1,8 @@
 row,name,url,category,paused,method,feed_url
-5,Arts Club of Washington,https://artsclubofwashington.org/events/,,,xhr,"https://artsclubofwashington.org/wp-admin/admin-ajax.php?action=get_calendar_events&start={gridstart}&end={gridend}#{""headers"": {""x-requested-with"": ""XMLHttpRequest"", ""referer"": ""https://artsclubofwashington.org/events/""}}"
-15,TiE DC,https://dc.tie.org/events/,,,xhr,"https://events.tie.org/public/portals/752651823/eventsMeta?brandId=34204000003245022&page=1&pageSize=50&type=live#{""headers"": {""x-requested-with"": ""XMLHttpRequest"", ""referer"": ""https://events.tie.org/events?brandId=34204000003245022&isEmbed=true""}}"
-11,French-American Chamber of Commerce DC,https://faccwdc.org/civicrm/event/list?reset=1,,,ical,https://faccwdc.org/civicrm/event/ical?reset=1
-43,Bender JCC of Greater Washington,https://www.benderjccgw.org/calendar/,,,ical,https://www.benderjccgw.org/calendar/?ical=1
-43b,Bender JCC (tribe api test),https://www.benderjccgw.org/calendar/,,,api,https://www.benderjccgw.org/wp-json/tribe/events/v1/events?per_page=50&start_date={start}&end_date={end}
-23,Dupont Underground,https://dupontunderground.org/whatson,,,ical,https://dupontunderground.org/calendar?format=ical
-27,Transformer,https://www.transformerdc.org/events,,,ical,https://www.transformerdc.org/events?format=ical
-28,Touchstone Gallery,https://www.touchstonegallery.com/events,,,ical,https://www.touchstonegallery.com/events?format=ical
-51,Smithsonian (all museums),https://www.si.edu/events,,,ical,https://www.trumba.com/calendars/smithsonian-events.ics
-52,Federation community calendar,https://www.shalomdc.org/community-calendar/,,,ical,https://www.shalomdc.org/events/?ical=1
-29,Foundry Gallery,https://www.foundrygallery.org/upcoming-exhibits,,,ical,https://www.foundrygallery.org/upcoming-exhibits?format=ical
+23,Dupont Underground,https://dupontunderground.org/whatson,,,api,https://dupontunderground.org/calendar?format=json
+27,Transformer,https://www.transformerdc.org/events,,,api,https://www.transformerdc.org/events?format=json
+28,Touchstone Gallery,https://www.touchstonegallery.com/events,,,api,https://www.touchstonegallery.com/events?format=json
+29,Foundry Gallery,https://www.foundrygallery.org/upcoming-exhibits,,,api,https://www.foundrygallery.org/upcoming-exhibits?format=json
+9,Hirshhorn Museum,https://hirshhorn.si.edu/events/,,,ical,"https://www.trumba.com/calendars/smithsonian-events.ics#{""filter"": ""Hirshhorn""}"
+31,Smithsonian American Art Museum / Renwick,https://americanart.si.edu/search/events,,,ical,"https://www.trumba.com/calendars/smithsonian-events.ics#{""filter"": ""American Art Museum|Renwick""}"
+51,Smithsonian (all museums),https://www.si.edu/events,,,ical,"https://www.trumba.com/calendars/smithsonian-events.ics#{""exclude"": ""\\bClosed\\b""}"

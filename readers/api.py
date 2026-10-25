@@ -108,7 +108,21 @@ def _zoho_backstage(data, name):  # Zoho Backstage portals: /public/portals/<id>
                          f"https://{e['domainName']}/{e['eventKey']}" if e.get("domainName") and e.get("eventKey") else "", desc=tr.get("summary", "")))
     return out
 
-SHAPES = [("get_calendar_events", _fullcalendar), ("/eventsMeta", _zoho_backstage), ("keepandshare.com", _keepandshare), ("getOpportunitiesCalendar", _handsonconnect),
+def _squarespace(data, name):  # Squarespace events collection: <collection>?format=json
+    from datetime import datetime
+    from .common import TZ
+    out = []
+    for e in data.get("upcoming") or data.get("items") or []:
+        ms = e.get("startDate")
+        if not isinstance(ms, (int, float)):
+            continue
+        dt = datetime.fromtimestamp(ms / 1000, TZ)
+        loc = (e.get("location") or {}).get("addressTitle", "") if isinstance(e.get("location"), dict) else ""
+        out.append(event(dt.date().isoformat(), e.get("title", ""), name, dt.strftime("%H:%M"), loc or "",
+                         e.get("fullUrl", "") or "", desc=e.get("excerpt") or e.get("body", "")))
+    return out
+
+SHAPES = [("format=json", _squarespace), ("get_calendar_events", _fullcalendar), ("/eventsMeta", _zoho_backstage), ("keepandshare.com", _keepandshare), ("getOpportunitiesCalendar", _handsonconnect),
           ("eatonworkshop.com/api/events", _eaton), ("libnet.info/eeventcaldata", _libnet),
           ("bookmanager.com/customer/event", _bookmanager), ("stec_public_ajax_action", _stec),
           ("tribe/events", _tribe), ("/api/2/events", _localist), ("connectjew.org", _connectjew),
