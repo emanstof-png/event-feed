@@ -1,0 +1,28 @@
+{
+ "row": "21",
+ "name": "National Museum of Women in the Arts",
+ "page": "https://secure.nmwa.org/events",
+ "discovered": "2026-10-25 00:03Z",
+ "error": "",
+ "candidates": [
+  {
+   "url": "https://secure.nmwa.org/api/products/productionseasons",
+   "method": "POST",
+   "headers": {
+    "accept": "application/json, text/javascript, */*; q=0.01",
+    "content-type": "application/json",
+    "origin": "https://secure.nmwa.org",
+    "referer": "https://secure.nmwa.org/events",
+    "x-requested-with": "XMLHttpRequest"
+   },
+   "post_data": "{\"productionSeasonIdFilter\":[],\"keywordIds\":null,\"startDate\":\"2026-10-24T00:00\",\"endDate\":\"2026-10-31T23:59\",\"keywords\":[]}",
+   "status": 200,
+   "content_type": "application/json; charset=utf-8",
+   "bytes": 3563,
+   "date_count": 18,
+   "body": "{\"productions\":[{\"productionSeasonId\":\"1660\",\"productionTitle\":\"Daily Admission\",\"listingImageUrl\":\"\",\"listingImageAlt\":\"\",\"description\":\"\",\"keywords\":null,\"actionUrl\":null,\"actionUrlText\":null,\"startDate\":\"0001-01-01T00:00:00\",\"displayDate\":null,\"displayTime\":null,\"performances\":[{\"id\":1835,\"performanceDate\":\"2026-10-25T21:00:00+00:00\",\"iso8601DateString\":\"2026-10-25T17:00:00.0000000-04:00\",\"displayDate\":\"Sunday, Oct 25, 2026\",\"displayTime\":\"\",\"performanceTitle\":\"Daily Admission\",\"actionUrl\":\"https://secure.nmwa.org/1660/1835\",\"actionUrlText\":\"Buy Tickets\",\"timeFormat\":\"h:mmtt\",\"isPerformanceVisible\":true,\"isOnSale\":true,\"hasLimitedSeatingAvailable\":false,\"performanceStatusMessage\":\"\",\"isTitleVisibleOnListView\":true,\"productTypeId\":1,\"productTypeName\":\"\",\"performanceSortTitle\":\"Daily Admission\"},{\"id\":1836,\"performanceDate\":\"2026-10-27T21:00:00+00:00\",\"iso8601DateString\":\"2026-10-27T17:00:00.0000000-04:00\",\"displayDate\":\"Tuesday, Oct 27, 2026\",\"displayTime\":\"\",\"performanceTitle\":\"Daily Admission\",\"actionUrl\":\"https://secure.nmwa.org/1660/1836\",\"actionUrlText\":\"Buy Tickets\",\"timeFormat\":\"h:mmtt\",\"isPerformanceVisible\":true,\"isOnSale\":true,\"hasLimitedSeatingAvailable\":false,\"performanceStatusMessage\":\"\",\"isTitleVisibleOnListView\":true,\"productTypeId\":1,\"productTypeName\":\"\",\"performanceSortTitle\":\"Daily Admission\"},{\"id\":1837,\"performanceDate\":\"2026-10-28T21:00:00+00:00\",\"iso8601DateString\":\"2026-10-28T17:00:00.0000000-04:00\",\"displayDate\":\"Wednesday, Oct 28, 2026\",\"displayTime\":\"\",\"performanceTitle\":\"Daily Admission\",\"actionUrl\":\"https://secure.nmwa.org/1660/1837\",\"actionUrlText\":\"Buy Tickets\",\"timeFormat\":\"h:mmtt\",\"isPerformanceVisible\":true,\"isOnSale\":true,\"hasLimitedSeatingAvailable\":false,\"performanceStatusMessage\":\"\",\"isTitleVisibleOnListView\":true,\"productTypeId\":1,\"productTypeName\":\"\",\"performanceSortTitle\":\"Daily Admission\"},{\"id\":1838,\"performanceDate\":\"2026-10-29T21:00:00+00:00\",\"iso8601DateString\":\"2026-10-29T17:00:00.0000000-04:00\",\"displayDate\":\"Thursday, Oct 29, 2026\",\"displayTime\":\"\",\"performanceTitle\":\"Daily Admission\",\"actionUrl\":\"https://secure.nmwa.org/1660/1838\",\"actionUrlText\":\"Buy Tickets\",\"timeFormat\":\"h:mmtt\",\"isPerformanceVisible\":true,\"isOnSale\":true,\"hasLimitedSeatingAvailable\":false,\"performanceStatusMessage\":\"\",\"isTitleVisibleOnListView\":true,\"productTypeId\":1,\"productTypeName\":\"\",\"performanceSortTitle\":\"Daily Admission\"},{\"id\":1839,\"performanceDate\":\"2026-10-30T21:00:00+00:00\",\"iso8601DateString\":\"2026-10-30T17:00:00.0000000-04:00\",\"displayDate\":\"Friday, Oct 30, 2026\",\"displayTime\":\"\",\"performanceTitle\":\"Daily Admission\",\"actionUrl\":\"https://secure.nmwa.org/1660/1839\",\"actionUrlText\":\"Buy Tickets\",\"timeFormat\":\"h:mmtt\",\"isPerformanceVisible\":true,\"isOnSale\":true,\"hasLimitedSeatingAvailable\":false,\"performanceStatusMessage\":\"\",\"isTitleVisibleOnListView\":true,\"productTypeId\":1,\"productTypeName\":\"\",\"performanceSortTitle\":\"Daily Admission\"},{\"id\":1840,\"performanceDate\":\"2026-10-31T21:00:00+00:00\",\"iso8601DateString\":\"2026-10-31T17:00:00.0000000-04:00\",\"displayDate\":\"Saturday, Oct 31, 2026\",\"displayTime\":\"\",\"performanceTitle\":\"Daily Admission\",\"actionUrl\":\"https://secure.nmwa.org/1660/1840\",\"actionUrlText\":\"Buy Tickets\",\"timeFormat\":\"h:mmtt\",\"isPerformanceVisible\":true,\"isOnSale\":true,\"hasLimitedSeatingAvailable\":false,\"performanceStatusMessage\":\"\",\"isTitleVisibleOnListView\":true,\"productTypeId\":1,\"productTypeName\":\"\",\"performanceSortTitle\":\"Daily Admission\"}],\"productionSeasonActionUrl\":\"https://secure.nmwa.org/1660\",\"isPerformanceListVisible\":true}],\"ga4DatalayerItems\":[]}",
+   "replay_status": 200,
+   "replay_ok": true
+  }
+ ]
+}

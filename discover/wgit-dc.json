@@ -1,0 +1,8 @@
+{
+ "row": "124",
+ "name": "WGIT DC",
+ "page": "https://wgitdc.com/events",
+ "discovered": "2026-10-25 00:08Z",
+ "error": "TimeoutError: Page.goto: Timeout 30000ms exceeded.\nCall log:\nnavigating to \"https://wgitdc.com/events\", waiting until \"domcontentloaded\"\n",
+ "candidates": []
+}

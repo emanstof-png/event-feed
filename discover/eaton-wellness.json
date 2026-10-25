@@ -1,0 +1,25 @@
+{
+ "row": "14",
+ "name": "Eaton Wellness",
+ "page": "https://www.eatonworkshop.com/en-us/events-calendar/",
+ "discovered": "2026-10-25 00:02Z",
+ "error": "",
+ "candidates": [
+  {
+   "url": "https://www.eatonworkshop.com/api/events/list/2026/10?culture=en-US",
+   "method": "GET",
+   "headers": {
+    "accept": "*/*",
+    "referer": "https://www.eatonworkshop.com/en-us/events-calendar/"
+   },
+   "post_data": null,
+   "status": 200,
+   "content_type": "application/json; charset=utf-8",
+   "bytes": 40806,
+   "date_count": 613,
+   "body": "{\"isCurrentMonth\":true,\"totalEventsInMonth\":70,\"location\":null,\"year\":2026,\"month\":10,\"items\":[{\"isInViewMonth\":false,\"isCurrentDate\":false,\"isPastDate\":true,\"date\":\"2026-09-27T00:00:00\",\"hasEvents\":true,\"totalEvents\":1,\"items\":[{\"key\":\"7666fdd5-dd90-4d17-861c-7d918453afd7\",\"name\":\"SAHK and HASS Lab presents: Art/Daily Art Exhibition\",\"locations\":[\"hong-kong\"],\"dates\":[\"2026-09-27T00:00:00\",\"2026-09-28T00:00:00\",\"2026-09-29T00:00:00\",\"2026-09-30T00:00:00\",\"2026-10-01T00:00:00\",\"2026-10-02T00:00:00\",\"2026-10-03T00:00:00\",\"2026-10-04T00:00:00\",\"2026-10-05T00:00:00\",\"2026-10-06T00:00:00\",\"2026-10-07T00:00:00\",\"2026-10-08T00:00:00\",\"2026-10-09T00:00:00\",\"2026-10-10T00:00:00\",\"2026-10-11T00:00:00\"],\"time\":\"10AM TO 9PM\",\"filters\":[2823,2822],\"venue\":\"[hk]-tomorrow-maybe\",\"pageUrl\":\"/en-us/events-calendar/hk-sahk-artdaily-art-exhibition/\",\"id\":11593,\"renderedCulture\":\"en-US\"}],\"dateDisplay\":\"27 Sep\"},{\"isInViewMonth\":false,\"isCurrentDate\":false,\"isPastDate\":true,\"date\":\"2026-09-28T00:00:00\",\"hasEvents\":true,\"totalEvents\":2,\"items\":[{\"key\":\"7666fdd5-dd90-4d17-861c-7d918453afd7\",\"name\":\"SAHK and HASS Lab presents: Art/Daily Art Exhibition\",\"locations\":[\"hong-kong\"],\"dates\":[\"2026-09-27T00:00:00\",\"2026-09-28T00:00:00\",\"2026-09-29T00:00:00\",\"2026-09-30T00:00:00\",\"2026-10-01T00:00:00\",\"2026-10-02T00:00:00\",\"2026-10-03T00:00:00\",\"2026-10-04T00:00:00\",\"2026-10-05T00:00:00\",\"2026-10-06T00:00:00\",\"2026-10-07T00:00:00\",\"2026-10-08T00:00:00\",\"2026-10-09T00:00:00\",\"2026-10-10T00:00:00\",\"2026-10-11T00:00:00\"],\"time\":\"10AM TO 9PM\",\"filters\":[2823,2822],\"venue\":\"[hk]-tomorrow-maybe\",\"pageUrl\":\"/en-us/events-calendar/hk-sahk-artdaily-art-exhibition/\",\"id\":11593,\"renderedCulture\":\"en-US\"},{\"key\":\"ee64d05e-58b0-4ac5-85ab-752001ef6f7b\",\"name\":\"Melodies for Nepal: Live Music \\u0026 Bar Takeover\",\"locations\":[\"hong-kong\"],\"dates\":[\"2026-09-28T00:00:00\"],\"time\":\"8PM TO 11PM\",\"filters\":[2822,2824],\"venue\":\"[hk]-4/f-music-room\",\"pageUrl\":\"/en-us/events-calendar/hk-melodies-for-nepal-live-music-1/\",\"id\":11598,\"renderedCulture\":\"en-US\"}],\"dateDisplay\":\"28 Sep\"},{\"isInViewMonth\":false,\"isCurrentDate\":false,\"isPastDate\":true,\"date\":\"2026-09-29T00:00:00\",\"hasEvents\":true,\"totalEvents\":1,\"items\":[{\"key\":\"7666fdd5-dd90-4d17-861c-7d918453afd7\",\"name\":\"SAHK and HASS Lab presents: Art/Daily Art Exhibition\",\"locations\":[\"hong-kong\"],\"dates\":[\"2026-09-27T00:00:00\",\"2026-09-28T00:00:00\",\"2026-09-29T00:00:00\",\"2026-09-30T00:00:00\",\"2026-10-01T00:00:00\",\"2026-10-02T00:00:00\",\"2026-10-03T00:00:00\",\"2026-10-04T00:00:00\",\"2026-10-05T00:00:00\",\"2026-10-06T00:00:00\",\"2026-10-07T00:00:00\",\"2026-10-08T00:00:00\",\"2026-10-09T00:00:00\",\"2026-10-10T00:00:00\",\"2026-10-11T00:00:00\"],\"time\":\"10AM TO 9PM\",\"filters\":[2823,2822],\"venue\":\"[hk]-tomorrow-maybe\",\"pageUrl\":\"/en-us/events-calendar/hk-sahk-artdaily-art-exhibition/\",\"id\":11593,\"renderedCulture\":\"en-US\"}],\"dateDisplay\":\"29 Sep\"},{\"isInViewMonth\":false,\"isCurrentDate\":false,\"isPastDate\":true,\"date\":\"2026-09-30T00:00:00\",\"hasEvents\":true,\"totalEvents\":1,\"items\":[{\"key\":\"7666fdd5-dd90-4d17-861c-7d918453afd7\",\"name\":\"SAHK and HASS Lab presents: Art/Daily Art Exhibition\",\"locations\":[\"hong-kong\"],\"dates\":[\"2026-09-27T00:00:00\",\"2026-09-28T00:00:00\",\"2026-09-29T00:00:00\",\"2026-09-30T00:00:00\",\"2026-10-01T00:00:00\",\"2026-10-02T00:00:00\",\"2026-10-03T00:00:00\",\"2026-10-04T00:00:00\",\"2026-10-05T00:00:00\",\"2026-10-06T00:00:00\",\"2026-10-07T00:00:00\",\"2026-10-08T00:00:00\",\"2026-10-09T00:00:00\",\"2026-10-10T00:00:00\",\"2026-10-11T00:00:00\"],\"time\":\"10AM TO 9PM\",\"filters\":[2823,2822],\"venue\":\"[hk]-tomorrow-maybe\",\"pageUrl\":\"/en-us/events-calendar/hk-sahk-artdaily-art-exhibition/\",\"id\":11593,\"renderedCulture\":\"en-US\"}],\"dateDisplay\":\"30 Sep\"},{\"isInViewMonth\":true,\"isCurrentDate\":false,\"isPastDate\":true,\"date\":\"2026-10-01T00:00:00\",\"hasEvents\":true,\"totalEvents\":3,\"items\":[{\"key\":\"7666fdd5-dd90-4d17-861c-7d918453afd7\",\"name\":\"SAHK and HASS Lab presents: Art/Daily Art Exhibition\",\"locations\":[\"hong-kong\"],\"dates\":[\"2026-09-27T00:00:00\",\"2026-09-28T0",
+   "replay_status": 200,
+   "replay_ok": true
+  }
+ ]
+}

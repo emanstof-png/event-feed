@@ -1,0 +1,26 @@
+{
+ "row": "29",
+ "name": "Insight Meditation Community of Washington (IMCW)",
+ "page": "https://imcw.org/events/",
+ "discovered": "2026-10-25 00:04Z",
+ "error": "",
+ "candidates": [
+  {
+   "url": "https://api.eventagent.ai/api/ListView/?&timezone=UTC&includeRepeats=false",
+   "method": "GET",
+   "headers": {
+    "accept": "application/json, text/plain, */*",
+    "origin": "https://imcw.org",
+    "referer": "https://imcw.org/"
+   },
+   "post_data": null,
+   "status": 200,
+   "content_type": "application/json; charset=utf-8",
+   "bytes": 7213,
+   "date_count": 10,
+   "body": "[{\"id\":1714,\"name\":\"Meditative Reparenting 5-Day Silent Retreat\",\"type\":\"Singleton\",\"startDate\":\"2026-12-03T21:00:00+00:00\",\"duration\":334800000,\"summary\":\"This silent retreat includes talks, meditations, and teacher meetings to aid in learning how to form relationships with stored younger versions of yourself and guide them into healing.\",\"imageUrl\":\"https://imcw.org/wp-content/uploads/2026/04/monkey-1.jpg\",\"speakers\":\"Stan Eisenstein\",\"venues\":\"Claymont Great Barn and Zoom\",\"neighborhood\":\"Charles Town\",\"location\":\"WV > Charles Town\",\"alertMessage\":\"Registration Open\",\"alertType\":\"info\",\"detailUrl\":\"/event/?eventId=1714\",\"rrule\":null,\"venueTime\":false,\"timeZone\":\"America/New_York\",\"venue\":null},{\"id\":1773,\"name\":\"Deepening Concentration; Deepening Insight Retreat\",\"type\":\"Singleton\",\"startDate\":\"2027-01-15T21:00:00+00:00\",\"duration\":248400000,\"summary\":\"This silent retreat is focused on stepping stones toward cultivating a more deeply concentrated mind. Concentration is a doorway to insight, joy, and freedom.\",\"imageUrl\":\"https://imcw.org/wp-content/uploads/2026/10/Buddha-square-dark.jpg\",\"speakers\":\"Stan Eisenstein\",\"venues\":\"Claymont Great Barn and Zoom\",\"neighborhood\":\"Charles Town\",\"location\":\"WV > Charles Town\",\"alertMessage\":\"Registration Open\",\"alertType\":\"info\",\"detailUrl\":\"/event/?eventId=1773\",\"rrule\":null,\"venueTime\":false,\"timeZone\":\"America/New_York\",\"venue\":null},{\"id\":1771,\"name\":\"The Freedom of Seeing Clearly\",\"type\":\"Singleton\",\"startDate\":\"2027-02-26T15:00:00+00:00\",\"duration\":248400000,\"summary\":\"Join us to explore the body and mind with openness, clarity, and kindness. Create space to see habitual patterns clearly and discover greater clarity, freedom and inner peace.\",\"imageUrl\":\"https://imcw.org/wp-content/uploads/2026/09/buddha-close.jpg\",\"speakers\":\"Marjolein Janssen and Deborah Ratner-Helzer\",\"venues\":\"Seven Oaks Retreat Center\",\"neighborhood\":\"Madison\",\"location\":\"VA > Madison\",\"alertMessage\":null,\"alertType\":\"none\",\"detailUrl\":\"/event/?eventId=1771\",\"rrule\":null,\"venueTime\":true,\"timeZone\":\"UTC\",\"venue\":null},{\"id\":1758,\"name\":\"Taking Refuge: A Day of Peace & Renewal\",\"type\":\"Singleton\",\"startDate\":\"2026-11-08T10:00:00+00:00\",\"duration\":23400000,\"summary\":\"In this daylong retreat we will take refuge in practices of awareness and compassion and connect with our internal resources for healing, well-being, and awakening in a safe, welcoming space.\",\"imageUrl\":\"https://imcw.org/wp-content/uploads/2026/09/water-seed.jpg\",\"speakers\":\"Hugh Byrne and Rebecca Hines\",\"venues\":\"Iona\",\"neighborhood\":\"Tenleytown,  Washington\",\"location\":\"DC >  Washington > Tenleytown\",\"alertMessage\":\"Registration Open\",\"alertType\":\"info\",\"detailUrl\":\"/event/?eventId=1758\",\"rrule\":null,\"venueTime\":true,\"timeZone\":\"UTC\",\"venue\":null},{\"id\":1750,\"name\":\"Dwelling in the Divine Abodes\",\"type\":\"Singleton\",\"startDate\":\"2026-11-07T15:00:00+00:00\",\"duration\":25200000,\"summary\":\"We'll be exploring the Bhrama Viharas, or the Divine Abodes \u2013 four practices that open and nurture the heart - and tapping into their profound and deep qualities.\",\"imageUrl\":\"https://imcw.org/wp-content/uploads/2026/08/purple-sky-sq.jpg\",\"speakers\":\"Shell Fischer\",\"venues\":\"St. Francis Episcopal Church and IMCW YouTube\",\"neighborhood\":\"Great Falls\",\"location\":\"VA > Great Falls\",\"alertMessage\":\"Registration Open\",\"alertType\":\"info\",\"detailUrl\":\"/event/?eventId=1750\",\"rrule\":null,\"venueTime\":false,\"timeZone\":\"America/New_York\",\"venue\":null},{\"id\":1772,\"name\":\"The Moon Freed from Clouds - A New Year Daylong\",\"type\":\"Singleton\",\"startDate\":\"2027-01-09T14:30:00+00:00\",\"duration\":23400000,\"summary\":\"Begin 2027 grounded in simple yet profound practices. The theme of this day is embodying the light of clear seeing, unobscured by the \\\"cloud-habits\\\" we have of wanting, pushing away, and numbing out.\",\"imageUrl\":\"https://imcw.org/wp-content/uploads/2026/10/moon-clouds.jpg\",\"speakers\":\"Trisha Stotler\",\"venues\":\"Church of the Holy Cross (Episcopal) and Zoom\",\"neighborhood\"",
+   "replay_status": 401,
+   "replay_ok": false
+  }
+ ]
+}
