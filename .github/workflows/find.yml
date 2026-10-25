@@ -1,0 +1,51 @@
+name: Find calendars (no secrets)
+
+# CLAUDE.md waterfall steps 0-3 for every method=none row of the chosen list: web search,
+# homepage, one-click events links, feed probes. Commits find/ + <prefix>find_log.csv.
+on:
+  workflow_dispatch:
+    inputs:
+      list:
+        description: "Which source list: main (Sources tab) or elite (Elite Sources tab)"
+        type: choice
+        options: [main, elite]
+        default: elite
+      names:
+        description: "Optional: source names, separated by |"
+        type: string
+        default: ""
+
+env:
+  FEED_LIST: ${{ inputs.list || 'elite' }}
+
+permissions:
+  contents: write
+
+concurrency:
+  group: find-${{ inputs.list || 'elite' }}
+  cancel-in-progress: true
+
+jobs:
+  find:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Install
+        run: pip install requests curl_cffi beautifulsoup4 lxml tzdata
+      - name: Find
+        run: |
+          IFS='|' read -ra N <<< "${{ inputs.names }}"
+          python find_calendars.py "${N[@]}"
+      - name: Commit
+        if: always()
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add find '*find_log.csv' || true
+          git commit -m "Find calendars ($FEED_LIST) $(date -u +%Y-%m-%dT%H:%MZ)" || { echo "No changes"; exit 0; }
+          git pull --rebase --autostash origin main
+          git push origin HEAD:main
