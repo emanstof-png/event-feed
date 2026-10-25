@@ -1,4 +1,370 @@
 American University (university-wide)
 https://www.american.edu/calendar/
-fetched 2026-10-25 00:06Z  status= chars=0 error=HTTPError: HTTP Error 403: 
+fetched 2026-10-25 00:09Z  status=200 chars=6032 error=
 
+University Calendar | American University, Washington, DC
+Skip to main content
+Show
+ Menu
+Search
+Search Website:
+Go
+Find People:
+Go
+Browse Departments & Services
+Log in
+myAU Portal
+Email
+Canvas
+Admissions & Aid
+Undergraduate Admissions
+Graduate Admissions
+Tuition & Fees
+Financial Aid
+Academics
+Academics Home
+Degrees
+Registration
+Schedule of Classes
+Study Abroad
+Summer Programs
+Online Programs
+Honors & 
+Learning Communities 
+Professional & 
+Lifelong Learning
+Schools & Colleges
+College of Arts & Sciences
+Kogod School of Business
+School of Communication
+Baker School of Education
+School of International Service
+Professional Studies and Executive Education
+School of Public Affairs
+Washington College of Law
+Student Services
+Student Affairs
+Athletics
+Housing
+Dining & Retail
+New Students
+Career Services
+Student Organizations
+AU Arts
+Library
+Calendars
+Community Relations
+Alumni
+Give to AU
+Research
+About
+Show
+ navigation
+University Calendar
+You are here: 
+American University
+University Calendar
+Today
+Browse By
+Event Type
+Location
+Host
+Series
+Academic Calendar
+American University (AU)
+Washington College of Law (WCL)
+Holidays
+2026 Holidays
+2027 Holidays
+Annual Events
+Eagle Summit
+Welcome Week
+All-American Weekend
+Commencement
+Staff Appreciation Week
+Event Scheduling
+Sun
+Mon
+Tue
+Wed
+Thu
+Fri
+Sat
+Featured Events
+Nadia Murad Book event 
+Thursday, November 12
+Back to top 
+Search University Calendar
+Go
+Today, 
+October 24, 2026
+Previous 
+Day
+Next 
+Day
+No events today.
+Previous 
+Day
+Next 
+Day
+Coming Soon
+Mon, 10/26/2026 
+11:00 
+am
+ – 2:00 
+pm
+Chabad AU Tabling
+MGSC TBL1 Lobby Information Table 1
+4400 Massachusetts Avenue
+Washington
+DC
+20016
+Interested in Jewish activities on campus? Stop by our table!
+ Export to Calendar
+ Email this item
+×
+Email Chabad AU Tabling event to a friend
+Loading...
+Close
+Host
+Chabad Lubavitch of AU
+Type
+(none)
+More Info
+Event Page
+Mon, 10/26/2026 
+1:30 
+pm
+ – 3:00 
+pm
+The AU Research Pledge
+BTLR 600 Butler Boardroom
+4400 Massachusetts Avenue
+Washington
+DC
+20016
+TBD
+ Export to Calendar
+ Email this item
+×
+Email The AU Research Pledge event to a friend
+Loading...
+Close
+Host
+Center for Faculty Excellence (formerly CTRL)
+Type
+Workshops and Seminars
+More Info
+Event Page
+Mon, 10/26/2026 
+5:00 
+pm
+ – 7:00 
+pm
+AU Psychology Club Pumpkin Painting
+MGSC 320* The Incubator
+4400 Massachusetts Avenue
+Washington
+DC
+20016
+Students will join us for a festive night of pumpkin painting, sweet and spooky treats, and safety tips + resources to have a responsible and fun halloween this year
+ Export to Calendar
+ Email this item
+×
+Email AU Psychology Club Pumpkin Painting event to a friend
+Loading...
+Close
+Host
+Psychology Club
+Type
+(none)
+More Info
+Event Page
+Mon, 10/26/2026 
+6:00 
+pm
+ – 8:00 
+pm
+CAS and careers
+MGSC 128 Eagle Summit Room
+4400 Massachusetts Avenue
+Washington
+DC
+20016
+CAS and careers is going to feature a panel of professors talking about their careers and experiences to CAS students and serve as a kind of panel/seminar for students to watch and learn from.
+ Export to Calendar
+ Email this item
+×
+Email CAS and careers event to a friend
+Loading...
+Close
+Host
+SG: CAS Undergraduate Council
+Type
+Workshops and Seminars
+More Info
+Event Page
+Mon, 10/26/2026 
+6:30 
+pm
+ – 7:30 
+pm
+Alexander Hamilton Society Book Club
+KRWN T03 Classroom 
+4400 Massachusetts Avenue
+Washington
+DC
+20016
+Book club with the Alexander Hamilton Society.
+ Export to Calendar
+ Email this item
+×
+Email Alexander Hamilton Society Book Club event to a friend
+Loading...
+Close
+Host
+The Alexander Hamilton Society, AU Chapter
+Type
+Arts and Entertainment
+More Info
+Event Page
+Mon, 10/26/2026 
+8:00 
+pm
+ – 10:00 
+pm
+PRIDE Photobooth Night
+MGSC 307 Meeting Room
+4400 Massachusetts Avenue
+Washington
+DC
+20016
+TBD
+ Export to Calendar
+ Email this item
+×
+Email PRIDE Photobooth Night event to a friend
+Loading...
+Close
+Host
+PRIDE at American University 
+Type
+(none)
+More Info
+Event Page
+Tue, 10/27/2026 
+7:00 
+am
+ – 8:30 
+am
+Field Hockey Meeting
+WATK 110 Classroom
+4400 Massachusetts Avenue
+Washington
+DC
+20016
+Meeting/Pre-practice film
+ Export to Calendar
+ Email this item
+×
+Email Field Hockey Meeting event to a friend
+Loading...
+Close
+Host
+Athletics and Recreation
+Type
+(none)
+More Info
+Event Page
+Tue, 10/27/2026 
+11:00 
+am
+ – 2:00 
+pm
+Chabad AU Tabling
+MGSC TBL1 Lobby Information Table 1
+4400 Massachusetts Avenue
+Washington
+DC
+20016
+Interested in Jewish activities on campus? Stop by our table!
+ Export to Calendar
+ Email this item
+×
+Email Chabad AU Tabling event to a friend
+Loading...
+Close
+Host
+Chabad Lubavitch of AU
+Type
+(none)
+More Info
+Event Page
+Tue, 10/27/2026 
+2:00 
+pm
+ – 3:00 
+pm
+PCD Student Dialogue Facilitation: The Sokovia Accords
+MGSC 320* The Incubator
+4400 Massachusetts Avenue
+Washington
+DC
+20016
+The Project on Civic Dialogue is hosting a student dialogue facilitation on the Sokovia Accords from Marvel's Captain America: Civil War. Students will be breaking down the theoretical policy and enforcement of superheroes within the Marvel universe. How would governments react? What preventative measures can be taken to avoid collateral damage? Discuss with PCD Student Fellow Rachel Stolusky.
+ Export to Calendar
+ Email this item
+×
+Email PCD Student Dialogue Facilitation: The Sokovia Accords event to a friend
+Loading...
+Close
+Host
+SPA Project on Civil Discourse
+Type
+(none)
+More Info
+Event Page
+Tue, 10/27/2026 
+2:00 
+pm
+ – 5:00 
+pm
+I Stand With Immigrants Tabling 
+MGSC TBL1 Lobby Information Table 1
+4400 Massachusetts Avenue
+Washington
+DC
+20016
+It is National I Stand With Immigrants Day! Join us for tabling with resources, shirts, and more!
+ Export to Calendar
+ Email this item
+×
+Email I Stand With Immigrants Tabling  event to a friend
+Loading...
+Close
+Host
+Latinos En Acción (LEA)
+Type
+(none)
+More Info
+Event Page
+4400 Massachusetts Avenue, NW
+Washington, DC 20016
+(202) 885-1000
+Contact Us
+Visit AU
+Work at AU
+Cookie Preferences
+Copyright © 2026 American University.
+Emergency Preparedness
+Policies
+Privacy
+Disclosure
+EEO
+Title IX
+Facebook
+Twitter
+Youtube
+LinkedIn
+Instagram
+ Homepage

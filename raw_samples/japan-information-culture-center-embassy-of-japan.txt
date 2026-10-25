@@ -1,6 +1,6 @@
 Japan Information & Culture Center (Embassy of Japan)
 https://www.us.emb-japan.go.jp/jicc/events.html
-fetched 2026-10-25 00:06Z  status=200 chars=7597 error=
+fetched 2026-10-25 00:09Z  status=200 chars=7597 error=
 
 JICC | Events
       Your browser does not support the video tag. 

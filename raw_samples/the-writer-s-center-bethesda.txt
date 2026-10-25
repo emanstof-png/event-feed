@@ -1,6 +1,6 @@
 The Writer's Center (Bethesda)
 https://writer.org/free-events-calendar/
-fetched 2026-10-25 00:06Z  status=200 chars=19717 error=
+fetched 2026-10-25 00:09Z  status=200 chars=29585 error=
 
 Events Calendar - The Writer's Center
 Skip to main content
@@ -45,9 +45,9 @@ Events
 														Writer Mixers													
 														Book Club													
 														Curated Conversation(s): a Latinx Poetry Show													
-Thursday | 7:00 PM EDT-9:00 PM EDT|
-														Zoom													
-Crafting Compelling Characters
+Sunday | 12:00 PM EDT-2:00 PM EDT|
+														The Writer’s Center													
+Managing Queries with QueryTracker
 															Workshop														
 Back
 Resources
@@ -101,7 +101,7 @@ Events
             Previous month
             Next month
 	This Month
-				2026-10-22			
+				2026-10-24			
 				October 2026			
 		Select date.	
 						Calendar of Events		
@@ -131,7 +131,7 @@ September 27 @ 1:00 PM EDT
 5:00 PM EDT
 Venue :
                             The Writer’s Center                        
-The Writer’s Center and Tintas DC presents a FREE, informative, and inspiring symposium exploring Latine heritage in literature and popular culture. The event will feature free creative writing workshops followed […]
+The Writer’s Center and Tintas DC presents a FREE, informative, and inspiring symposium exploring Latine heritage in literature and popular culture. The event will feature free creative writing workshops followed by a panel discussion with featured writers Dahlia Aguilar, Raffi "DJ Raffi" Umanzo, and María Amelia Viteri. The symposium concludes with a reception for all attendees. All events are FREE and open to the public. Limited space, registration required. The workshops are simultaneous, so please only sign up for ONE. Scroll down to register! Check In | 1:00pm Workshops | 1:30-3:00pm Please register for ONE workshop using the form below. Workshop registration includes […]
 Register
         Free    
 			1 event		
@@ -144,7 +144,7 @@ Register
 September 28 @ 7:00 PM EDT
  - 
 8:00 PM EDT
-The Writer’s Center presents a FREE virtual chat about the craft of nonfiction! We’re joined by author Rebecca Lee for a discussion of her new publication, Rogues, Widows and Orphans: Mischief […]
+The Writer’s Center presents a FREE virtual chat about the craft of nonfiction! We’re joined by author Rebecca Lee for a discussion of her new publication, Rogues, Widows and Orphans: Mischief and Misadventures in the World of Books. Rebecca is in conversation with Amy Freeman, author and Development Director at The Writer’s Center. RSVP below to receive login information (our virtual events are held via Zoom). FREE and open to the public, all times Eastern We encourage you to order a copy of the book from your local, independent bookseller or directly from the publisher>> Rebecca Lee is a senior editorial manager at Penguin Random House, […]
 Register
         Free    
 			1 event		
@@ -159,7 +159,7 @@ September 29 @ 7:00 PM EDT
 8:30 PM EDT
 Venue :
                             The Writer’s Center                        
-The Writer’s Center welcomes writer Bill Wilburn for a reading from his debut novel, First Comes Winter. Bill is joined by Emily Barrosse for a discussion of his novel. FREE & […]
+The Writer’s Center welcomes writer Bill Wilburn for a reading from his debut novel, First Comes Winter. Bill is joined by Emily Barrosse for a discussion of his novel. FREE & open to the public. RSVP below. The son of a Navy pilot, throughout his dad’s career, Bill Wilburn grew up in seven locations in the U.S. and Europe. After college, he worked as a news reporter, eventually leaving the Associated Press to begin law school. In his career as a lawyer, he published numerous professional articles in prominent law reviews and journals. His literary and op-ed works have appeared in The […]
 Register
         Free    
 			1 event		
@@ -174,7 +174,7 @@ September 30 @ 6:00 PM EDT
 7:00 PM EDT
 Venue :
                             Zoom                        
-The Writer’s Center welcomes Charlotte Goff and Ecre Karadag for a FREE virtual chat to celebrate International Translation Day. Charlotte and Ecre will discuss the joys and challenges of translating […]
+The Writer’s Center welcomes Charlotte Goff and Ecre Karadag for a FREE virtual chat to celebrate International Translation Day. Charlotte and Ecre will discuss the joys and challenges of translating Fiction with Charlotte Goff's translation of Nao-Cola Yamazaki's Beautiful Distance and Ecre Karadag’s translation of Asako Yuzuki’s Mari the Unwonderful Witch (Puffin UK). RSVP below to receive login information (our virtual events are held via Zoom). FREE and open to the public, all times Eastern We encourage you to order a copy of the books from your local, independent bookseller or directly from the publisher Beautiful Distance>> and Mari the Unwonderful Witch>> Charlotte Goff (trans. Beautiful […]
 Register
         Free    
 			1 event		
@@ -189,7 +189,7 @@ October 1 @ 6:00 PM EDT
 8:00 PM EDT
 Venue :
                             The Writer’s Center                        
-The Writer’s Center is pleased to host an exhibition works by artist Betsy Packard, on display in the Center’s Joram Piatigorsky Gallery, October 1–November 4, 2026. Opening reception is FREE […]
+The Writer’s Center is pleased to host an exhibition works by artist Betsy Packard, on display in the Center’s Joram Piatigorsky Gallery, October 1–November 4, 2026. Opening reception is FREE & open to the public. RSVP below. Artist's Statement I often respond to words on a page—words that I can see—more easily than I do the spoken word. The pieces exhibited here are a selection of works from 1978 to the present—where books, words, letters, and sometimes just the hint of a word or the shape of a letter, play a part. I have used books as material, to make new […]
 Register
         Free    
 			0 events		
@@ -208,7 +208,7 @@ October 3 @ 2:00 PM EDT
 3:30 PM EDT
 Venue :
                             The Writer’s Center                        
-The Writer’s Center welcomes 1455 to celebrate the launch of their Women Writers Anthology for a Q&A between 1455 Executive Director Sean Murphy and local author Hannah Grieco, followed by […]
+The Writer’s Center welcomes 1455 to celebrate the launch of their Women Writers Anthology for a Q&A between 1455 Executive Director Sean Murphy and local author Hannah Grieco, followed by readings from the anthology. FREE & open to the public. RSVP below. About the Anthology 1455’s first Women Writers Anthology brings together original poetry, fiction, creative nonfiction, and hybrid work from women writers across the globe, each offering a unique perspective on identity, resilience, connection, and the complexities of modern life. As one of the inaugural titles from 1455 books, this collection reflects a commitment to accessibility, authenticity, and the enduring power of […]
 Register
         Free    
 			0 events		
@@ -227,7 +227,7 @@ October 5 @ 7:00 PM EDT
 8:30 PM EDT
 Venue :
                             The Writer’s Center                        
-The Writer’s Center welcomes the Café Muse Literary Salon for a reading featuring writers Lola Haskins and Mary Sesso. The evening begins at 7 PM with Michael Davis live on […]
+The Writer’s Center welcomes the Café Muse Literary Salon for a reading featuring writers Lola Haskins and Mary Sesso. The evening begins at 7 PM with Michael Davis live on classical guitar. The readings begin at 7:30 PM with opening remarks by a Café Muse co-host. FREE & open to the public. RSVP on the Cafe Muse Website.   Enjoying our free events? Help us offer more programs to support writers with a $10 donation »
 Register
 			0 events		
 			6		
@@ -249,7 +249,7 @@ October 8 @ 7:00 PM EDT
 8:00 PM EDT
 Venue :
                             Zoom                        
-70,000 is The Inner Loop’s Author’s Corner spotlight. The Inner Loop cultivates and promotes the distinctive literary culture of Washington, DC. Author’s Corner supports local authors’ independently published books by spotlighting them in community programming and collaborations. RSVP […]
+70,000 is The Inner Loop’s Author’s Corner spotlight. The Inner Loop cultivates and promotes the distinctive literary culture of Washington, DC. Author’s Corner supports local authors’ independently published books by spotlighting them in community programming and collaborations. RSVP below to receive login information (our virtual events are held via Zoom). FREE and open to the public, all times Eastern We encourage you to order a copy of the book from your local, independent bookseller or online from Bookshop.org » Lenna Jawdat is a poet, writer, professor, and psychotherapist of Palestinian and Iraqi descent. Her writing, which explores trauma, identity and resilience, has appeared in journals such as Poet Lore, The Margins, Passenger’s Journal, […]
 Register
         Free    
 			0 events		
@@ -272,7 +272,7 @@ October 11 @ 3:00 PM EDT
 4:30 PM EDT
 Venue :
                             The Writer’s Center                        
-Calling all BIPOC writers in the DMV! Let’s hang out and talk writing! Come join us for an informal gathering at The Writer’s Center to meet new writers, make new […]
+Calling all BIPOC writers in the DMV! Let’s hang out and talk writing! Come join us for an informal gathering at The Writer’s Center to meet new writers, make new friends, and share your love of the written word. Please bring a drink or an appetizer that serves six. You’re welcome to bring a friend, too. FREE & open to the public. RSVP required below.
 Register
         Free    
         7:00 PM EDT    
@@ -283,7 +283,7 @@ October 11 @ 7:00 PM EDT
 8:30 PM EDT
 Venue :
                             Zoom                        
-The Writer’s Center welcomes DC-ALT, Vocales Verticales, and Tintas DC to celebrate Venezuelan Poetry. Poetry is a force for healing. We’ll be joined by Venezuelan, Latine and U.S. based poets, […]
+The Writer’s Center welcomes DC-ALT, Vocales Verticales, and Tintas DC to celebrate Venezuelan Poetry. Poetry is a force for healing. We’ll be joined by Venezuelan, Latine and U.S. based poets, translators, and writers who will come together to read Venezuelan poetry in both Spanish and English—celebrating the power of poetry to connect us, hold memory, and help us heal. The event will also raise awareness about the earthquakes in Venezuela, ongoing relief efforts, and ways you can support communities affected by the disaster. FREE & open to the public. RSVP below. About the Organizing Partners DC-ALT’s mission is to foster a community […]
 Register
         Free    
 			0 events		
@@ -306,7 +306,7 @@ October 14 @ 7:00 PM EDT
 9:00 PM EDT
 Venue :
                             The Writer’s Center                        
-Prose, poetry, and spoken word Open Mic @ The Writer’s Center! All writers are welcome to come and share 4-5 minutes of their latest work. Sign-up starts at 6:45pm, and […]
+Prose, poetry, and spoken word Open Mic @ The Writer’s Center! All writers are welcome to come and share 4-5 minutes of their latest work. Sign-up starts at 6:45pm, and readings begin promptly at 7pm. Limited to 20 readers, so arrive early if you plan to read. Sponsored by Poet Lore, America’s oldest poetry magazine. FREE and open to the public. Please note that we no longer offer advance sign-up. If you need an accommodation for this event, please contact us at access@writer.org. We will attempt to fulfill all requests, but advance notice is necessary to arrange for some accessibility services. Enjoying […]
 Register
         Free    
         7:00 PM EDT    
@@ -317,7 +317,7 @@ October 14 @ 7:00 PM EDT
 8:00 PM EDT
 Venue :
                             Zoom                        
-Poet Lore, America’s oldest poetry journal and The Writer’s Center welcomes poet Taylor Byas to our monthly Virtual Poetry Book Club for a discussion of her collection, Resting Bitch Face. […]
+Poet Lore, America’s oldest poetry journal and The Writer’s Center welcomes poet Taylor Byas to our monthly Virtual Poetry Book Club for a discussion of her collection, Resting Bitch Face. Taylor is joined by Book Club Host, Hannah Grieco. We encourage you to order a copy of the book from your local, independent bookseller or online »  directly from the publisher, Soft Skull Press. FREE & open to the public. RSVP below. Dr. Taylor Byas, Ph.D. is a Black Chicago native currently living in Cincinnati, Ohio, where she is a Features Editor for The Rumpus, an Editorial Advisor for Jackleg Press, a […]
 Register
         Free    
 			1 event		
@@ -332,7 +332,7 @@ October 15 @ 7:00 PM EDT
 8:00 PM EDT
 Venue :
                             Zoom                        
-The Writer’s Center presents a FREE virtual chat about the craft of poetry! We’re joined by author Kirsten Kaschock for a discussion of her poetry collection, AutoPortrait (as flotsam). Kirsten […]
+The Writer’s Center presents a FREE virtual chat about the craft of poetry! We’re joined by author Kirsten Kaschock for a discussion of her poetry collection, AutoPortrait (as flotsam). Kirsten is in conversation with Brandon Johnson, poet and Events Director at The Writer’s Center. RSVP below to receive login information (our virtual events are held via Zoom). FREE and open to the public, all times Eastern We encourage you to order a copy of the book from your local, independent bookseller or directly from the publisher Kirsten Kaschock is a poet and novelist who writes across several genres. Her background in dance has impacted her […]
 Register
         Free    
 			0 events		
@@ -351,7 +351,7 @@ October 17 @ 3:00 PM EDT
 6:00 PM EDT
 Venue :
                             The Writer’s Center                        
-The Writer’s Center welcomes the Washington Sculptors Group (WSG) for a discussion of their artwork while images and videos are being presented. The Annual Image Show is a great opportunity […]
+The Writer’s Center welcomes the Washington Sculptors Group (WSG) for a discussion of their artwork while images and videos are being presented. The Annual Image Show is a great opportunity to discover/rediscover the talent and highly diverse work of Washington area sculptors. DC area gallerists, curators, collectors, and art supporters are invited to attend. Twenty member artists will present their work, followed by Q&A. FREE & open to the public. RSVP below. About The Washington Sculptors Group Founded in 1984, the WSG is a artist-run organization committed to promoting an awareness and understanding of sculpture and the exchange of ideas among […]
 Register
         Free    
 			1 event		
@@ -366,7 +366,7 @@ October 18 @ 2:00 PM EDT
 3:00 PM EDT
 Venue :
                             The Writer’s Center                        
-The Writer’s Center welcomes author Hasan Dudar to our monthly Fiction Book Club for a discussion of his debut novel, Carryout, at The Writer's Center! Hasan is joined by Book […]
+The Writer’s Center welcomes author Hasan Dudar to our monthly Fiction Book Club for a discussion of his debut novel, Carryout, at The Writer's Center! Hasan is joined by Book Club Host, Hannah Grieco. We encourage you to order a copy of the book from your local, independent bookseller or online » FREE & open to the public. RSVP below. Hasan Dudar is the author of the short story collection Carryout (University of Iowa Press). He is originally from Toledo, Ohio, and currently lives with his wife and daughter in Washington, DC, where he works in broadcast media. His fiction has appeared in Gulf […]
 Register
         Free    
 			0 events		
@@ -385,7 +385,7 @@ October 20 @ 7:00 PM EDT
 8:00 PM EDT
 Venue :
                             Zoom                        
-The Writer’s Center presents a FREE virtual chat about the craft of writing! We’re joined by editors Lauren Francis-Sharma and Jennifer Grotz for a discussion of their new anthology, Welcome […]
+The Writer’s Center presents a FREE virtual chat about the craft of writing! We’re joined by editors Lauren Francis-Sharma and Jennifer Grotz for a discussion of their new anthology, Welcome to the Mountain: A Portable Bread Loaf Writers’ Conference. They are in conversation with Zach Powers, author and Executive & Artistic Director at The Writer’s Center. RSVP below to receive login information (our virtual events are held via Zoom). FREE and open to the public, all times Eastern We encourage you to order a copy of the book from your local, independent bookseller or directly from the publisher » About the Book What […]
 Register
         Free    
 			0 events		
@@ -408,7 +408,7 @@ October 23 @ 7:00 PM EDT
 8:00 PM EDT
 Venue :
                             The Writer’s Center                        
-A Free Fitzgerald Festival Event Co-sponsored with The Writer’s Center The F. Scott Fitzgerald Festival and The Writer’s Center present a reading in tribute to legendary author Tobias Wolff. Featuring multiple […]
+A Free Fitzgerald Festival Event Co-sponsored with The Writer’s Center The F. Scott Fitzgerald Festival and The Writer’s Center present a reading in tribute to legendary author Tobias Wolff. Featuring multiple award-winning author Richard Bausch, award-winning novelist Varun Gauri, PEN/Faulkner winner Mahreen Sohail, plus concluding remarks by Wolff. FREE and open to the public. RSVP required below. Tobias Wolff is the author of the memoirs This Boy's Life (1989) and In Pharaoh's Army (1994), and he has also written novels and short story collections, including Our Story Begins: New and Selected Stories (2008). His novel The Barracks Thief (1984) won the PEN/Faulkner Award for Fiction. He received a National Medal of […]
 Register
         Free    
 			0 events		
@@ -427,7 +427,7 @@ October 25 @ 2:00 PM EDT
 5:00 PM EDT
 Venue :
                             The Writer’s Center                        
-Looking for a writing group? We want to help you meet other interested writers! The Writer's Center and The Inner Loop invite you to Search Party, a social event connecting […]
+Looking for a writing group? We want to help you meet other interested writers! The Writer's Center and The Inner Loop invite you to Search Party, a social event connecting writers to other writers interested in forming/joining a writing group. Simply show up, fill out a nametag with your genres and other areas of interest, and mingle. You can: Visit themed tables for specific genres. Follow our guide to ask a few useful questions. Collect names and contact information on a handy form provided to all registrants. Enjoy complimentary refreshments! FREE and open to the public. RSVP below. Suggested donation of […]
 Register
         Free    
 			1 event		
@@ -442,7 +442,7 @@ October 26 @ 7:00 PM EDT
 8:00 PM EDT
 Venue :
                             The Writer’s Center                        
-The Writer’s Center and Politics and Prose welcomes writer Daniel Nayeri for a reading from his new book, This Is a Door. Daniel is in conversation with poet and Events Director at […]
+The Writer’s Center and Politics and Prose welcomes writer Daniel Nayeri for a reading from his new book, This Is a Door. Daniel is in conversation with poet and Events Director at The Writer’s Center, Brandon Johnson. This is a PAID event. Your ticket to this event includes a copy of This Is a Door.  Buy your ticket using this link Daniel Nayeri is an award-winning author of children and teen fiction, including most recently, The Teacher of Nomad Land. After being born in Iran and immigrating to Oklahoma, Nayeri attended NYU. He currently lives with his family in New Jersey.   A groundbreaking hero's journey […]
 Register
 			1 event		
 			27		
@@ -456,7 +456,7 @@ October 27 @ 6:00 PM EDT
 8:00 PM EDT
 Venue :
                             The Writer’s Center                        
-The Writer’s Center welcomes one of the most distinctive voices in contemporary Czech literature, Petra Hůlová,  and her longtime translator Alex Zucker for a reading and conversation about her provocative […]
+The Writer’s Center welcomes one of the most distinctive voices in contemporary Czech literature, Petra Hůlová,  and her longtime translator Alex Zucker for a reading and conversation about her provocative new novel, The Long Version.Hůlová and Zucker will read from the novel and discuss the ideas behind the book, contemporary Czech literature, and the unique relationship between an author and her translator. The conversation will be moderated by poet and translator Katherine E. Young. FREE & open to the public. RSVP using this link>>> Petra Hůlová is the recipient of several of Czechia’s most important literary honors, including the Magnesia Litera, […]
 Register
 			1 event		
 			28		
@@ -470,7 +470,7 @@ October 28 @ 7:00 PM EDT
 9:00 PM EDT
 Venue :
                             The Writer’s Center                        
-Prose, poetry, and spoken word Open Mic @ The Writer’s Center! All writers are welcome to come and share 4-5 minutes of their latest work. Sign-up starts at 6:45pm, and […]
+Prose, poetry, and spoken word Open Mic @ The Writer’s Center! All writers are welcome to come and share 4-5 minutes of their latest work. Sign-up starts at 6:45pm, and readings begin promptly at 7pm. Limited to 20 readers, so arrive early if you plan to read. Sponsored by Poet Lore, America’s oldest poetry magazine. FREE and open to the public. Please note that we no longer offer advance sign-up. If you need an accommodation for this event, please contact us at access@writer.org. We will attempt to fulfill all requests, but advance notice is necessary to arrange for some accessibility services. Enjoying […]
 Register
         Free    
 			2 events		
@@ -485,7 +485,7 @@ October 29 @ 7:00 PM EDT
 8:00 PM EDT
 Venue :
                             Zoom                        
-The Writer’s Center presents a FREE virtual chat about the craft of fiction! We’re joined by author Amber Blaeser-Wardzala for a discussion of her debut novel, Another Name for Red […]
+The Writer’s Center presents a FREE virtual chat about the craft of fiction! We’re joined by author Amber Blaeser-Wardzala for a discussion of her debut novel, Another Name for Red at the End. Amber is in conversation with Amy Freeman, author and Development Director at The Writer’s Center. RSVP below to receive login information (our virtual events are held via Zoom). FREE and open to the public, all times Eastern We encourage you to order a copy of the book from your local, independent bookseller or online from Bookshop.org » Amber Blaeser-Wardzala is an Anishinaabe writer, beadwork artist, and jingle dress dancer. She […]
 Register
         Free    
         7:00 PM EDT    
@@ -496,7 +496,7 @@ October 29 @ 7:00 PM EDT
 8:30 PM EDT
 Venue :
                             The Writer’s Center                        
-The Writer’s Center welcomes poet Richard Hoffman for a reading from two New and Selected collection, Each Child a Disappearance and Mundus et Infans. Richard is joined in conversation by […]
+The Writer’s Center welcomes poet Richard Hoffman for a reading from two New and Selected collection, Each Child a Disappearance and Mundus et Infans. Richard is joined in conversation by poet Richard Smith. FREE & open to the public. RSVP below. Richard Hoffman is the author of seven books of poetry: Without Paradise; Gold Star Road, winner of The Barrow Street Press Poetry Prize and the Sheila Motton Book Award from The New England Poetry Club; Emblem; Noon until Night, which received the 2018 Massachusetts Book Award for Poetry; People Once Real; and his most recent, Each Child a Disappearance: New […]
 Register
         Free    
 			0 events		
