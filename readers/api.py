@@ -66,7 +66,9 @@ def _eaton(data, name):  # eatonworkshop.com/api/events/list/{year}/{month}
         for e in day.get("items", []):
             v = re.sub(r"^\[\w+\]-", "", e.get("venue", "") or "").replace("-", " ").title()
             loc = " ".join(e.get("locations") or [])   # "washington-dc" or "hong-kong": J filters on it
-            out.append(event(day.get("date", "")[:10], e.get("name", ""), name, "", f"{v}, {loc.replace('-', ' ').title()}".strip(", "),
+            tm = re.match(r"\s*(\d{1,2})(?::(\d\d))?\s*([AP]M)", e.get("time") or "", re.I)   # "5:30PM - 6:30PM"
+            hhmm = f"{(int(tm.group(1)) % 12) + (12 if tm.group(3).upper() == 'PM' else 0):02d}:{tm.group(2) or '00'}" if tm else ""
+            out.append(event(day.get("date", "")[:10], e.get("name", ""), name, hhmm, f"{v}, {loc.replace('-', ' ').title()}".strip(", "),
                              "https://www.eatonworkshop.com" + (e.get("pageUrl") or ""), desc=e.get("time", "")))
     return out
 
@@ -85,7 +87,7 @@ def _bookmanager(data, name):  # api.bookmanager.com/customer/event/v2/list (mul
     return out
 
 def _stec(data, name):  # Stachethemes Event Calendar: wp-admin/admin-ajax.php action=stec_public_ajax_action
-    return [event((e.get("start_date") or "")[:10], e.get("title", ""), name, (e.get("start_date") or "")[11:16],
+    return [event((e.get("start_date") or "")[:10], e.get("title", ""), name, (e.get("start_date") or "")[11:16].replace("00:00", ""),
                   ((e.get("location") or {}).get("title", "") if isinstance(e.get("location"), dict) else ""),
                   e.get("permalink", "") or "", desc=e.get("description_short") or e.get("description", ""))
             for e in (data if isinstance(data, list) else [])]
@@ -111,7 +113,7 @@ def _fill(x, lo, hi, month=None):
 def parse_feed(feed):
     """J may carry request options after '#' as JSON (SPEC_SPEED Phase 1, replayed widget calls):
     https://host/path#{"post": "a=1&from={start}", "headers": {...}, "filter": "regex"}
-    keys: post (form string), multipart (dict), headers (dict), filter (regex kept on title+venue),
+    keys: post (form string), multipart (dict), headers (dict), filter (regex kept on title+venue), exclude (regex dropped on title),
     token_page + token_regex (plain-fetch that page, first regex group fills {token}: WordPress nonces).
     Placeholders: {start} {end} (ISO), {start8} {end8} (YYYYMMDD), {days}, {year} {month}
     (a {month} URL is fetched once per month the window touches)."""
@@ -142,12 +144,16 @@ def read(source, window_days=21):
             r = get(u, headers=opts.get("headers") or {})
         datas.append(r.json())
     keep = re.compile(opts["filter"], re.I) if opts.get("filter") else None
+    drop = re.compile(opts["exclude"], re.I) if opts.get("exclude") else None
     for key, fn in SHAPES:
         if key in url or key in str(opts.get("post", "")):
             try:
                 evs = [e for d in datas for e in fn(d, source["name"])]
+                evs = [e for e in evs if e["title"]]
                 if keep:
                     evs = [e for e in evs if keep.search(e["title"] + " " + e["venue"])]
+                if drop:
+                    evs = [e for e in evs if not drop.search(e["title"])]
                 if evs:
                     return dedupe([e for e in evs if in_window(e, window_days)])
             except Exception:

@@ -65,7 +65,7 @@ def request(url, method="GET", data=None, multipart=None, headers=None, timeout=
 
 
 def event(date_s, title, source, time_s="", venue="", link="", desc=""):
-    return {"date": date_s, "time": time_s, "title": title.strip()[:200], "venue": venue.strip()[:120],
+    return {"date": date_s, "time": time_s, "title": re.sub(r"\s+", " ", title or "").strip()[:200], "venue": venue.strip()[:120],
             "link": link, "source": source, "desc": clean_text(desc)[:600]}
 
 def clean_text(x):
