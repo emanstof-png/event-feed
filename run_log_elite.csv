@@ -1,0 +1,14 @@
+Source,Method,Status,Events,Seconds,Error,Sample,Run at
+Arts Club of Washington,xhr,LIVE,24,1.2,,"2026-11-13 Theatre Outing: ""Are You Now or Have You; 2026-11-13 DINING - Club Lunch; 2026-11-13 The Friday Noon Concert Series",2026-10-24 22:36
+Hirshhorn Museum,ical,LIVE,9,4.5,,2026-10-24 Teen Studio: Are You Surreal?; 2026-10-27 Estudio de Cuentos: ¡Feliz Halloween!; 2026-10-28 Storytime Studio: Happy Halloween!,2026-10-24 22:36
+TiE DC,xhr,LIVE but thin,1,0.5,,2026-11-14 TiE DC - Annual Awards & Diwali Gala 202,2026-10-24 22:36
+Dupont Underground,api,LIVE,3,0.4,,"2026-10-27 AACIA IBERO-AMERICAN LITERATURE FESTIVAL; 2026-11-04 THE TRUMPETER; 2026-11-11 The Secrets of Easter Island, Finally Re",2026-10-24 22:36
+Transformer,api,EMPTY,0,0.7,,,2026-10-24 22:36
+Touchstone Gallery,api,LIVE,3,0.5,,2026-10-28 50 for 50: Keith Kozloff Happy Hour Rece; 2026-11-05 50 for 50: Jayne Gaskins Happy Hour Rece; 2026-11-07 1976 Studio Sale,2026-10-24 22:36
+Smithsonian American Art Museum / Renwick,ical,LIVE,4,4.8,,2026-10-24 Mammoth Performance (Afternoon); 2026-10-24 Mammoth Performance (Evening); 2026-11-01 Beyond the Studio Workshop: Embroidery w,2026-10-24 22:36
+Mexican Cultural Institute,xhr,LIVE,4,1.2,,2026-10-26 Mini Catrina Paper Maché Workshop by Ana; 2026-10-27 Las Puntuantes: Conferencia performática; 2026-10-31 Día de Muertos 2026 at the Mexican Cultu,2026-10-24 22:36
+Jewish Federation of Greater Washington,ical,LIVE,30,0.3,,2026-10-25 Capital Camps October Tour; 2026-10-25 Capital Camps & Retreat Center’s Living ; 2026-10-25 Men's Club breakfast and presentation,2026-10-24 22:36
+Edlavitch DCJCC,ical,LIVE,26,0.9,,2026-10-25 Handmade for the Homeless - October 2026; 2026-10-26 Book Discussion: The Final Solution to t; 2026-10-27 Piccadilly,2026-10-24 22:36
+Sixth & I,api,LIVE,21,1.2,,"2026-10-24 Niladri Kumaar, sitar; 2026-10-27 How to be a Jewish Adult; 2026-10-28 Grief Group",2026-10-24 22:36
+Smithsonian (all museums),ical,LIVE,419,5.7,,2026-10-24 Talbotton Blues Festival; 2026-10-24 We Tell These Truths: Union Makes Streng; 2026-10-24 Little Critters: Nature Play at the Bird,2026-10-24 22:36
+GatherDC (community calendar),api,LIVE,50,0.4,,2026-10-24 Board Game Afternoon with Reva; 2026-10-24 &#8220;Boots for Israel&#8221; Talk with; 2026-10-24 Jewish Teachings on Death and Dying with,2026-10-24 22:36
