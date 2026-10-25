@@ -13,6 +13,13 @@ these wrong.
   `prove_sources.csv`, run "Feed test" with sources=prove_sources.csv, out=_prove, read `run_log_prove.csv`.
   J for a replayed call is `URL#{json options}` (post, multipart, headers, filter, exclude, token_page);
   see `readers/api.py::parse_feed`.
+- Elite list (Oct 24): `elite_methods.csv` = the Elite Sources tab (same columns + O Programs, P Access),
+  `ELITE_PLAYBOOK.md`, `elite_feed.csv` = what goes in the Elite Feed tab. Same code: set FEED_LIST=elite
+  (`lists.py`), or pick list=elite on any workflow. New groups: add rows with method none + status
+  UNTESTED, run "Find calendars" (`find_calendars.py`) and "Discover data calls", scouts use
+  `briefs/SCOUT_FIND.md`, prove feeds via `prove_sources.csv`. Loading a feed tab: the "Elite import" tab
+  holds =IMPORTDATA(raw GitHub URL of the committed csv, pinned to a commit) and is copied as values
+  into the feed tab; Google needs Eric to click "Allow access" on that tab once.
 - `RULES.md`: twelve operating rules. Read it second. `python check.py` enforces the mechanical ones
   and CI runs it on every push; run it before every commit.
 - `sources_methods.csv`: snapshot of the Sources tab (B, I, J, K, L, M, N). `PLAYBOOK.md` is
