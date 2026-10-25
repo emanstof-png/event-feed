@@ -1,4 +1,4 @@
 Art House 7
 https://hisawyer.com/art-house-seven/schedules?schedule_id=camps&widget_tags=workshop
-rendered 2026-10-25 00:15Z  status=None chars=0 iframes=0 srcdoc=0 next=False error=cap 45s
+rendered 2026-10-25 00:25Z  status=None chars=0 iframes=0 srcdoc=0 next=False error=cap 45s
 

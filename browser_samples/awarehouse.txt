@@ -1,41 +1,141 @@
 Awarehouse
 https://www.awarehousedc.com/schedule
-rendered 2026-10-25 00:13Z  status=200 chars=548 iframes=0 srcdoc=0 next=False error=
+rendered 2026-10-25 00:21Z  status=200 chars=1661 iframes=1 srcdoc=0 next=False error=
 
-Skip to Content
-ABOUT
-SCHEDULE
-EXPERIENCES
-MEMBERSHIP + PASSES
-EVENTS
-BLOG
-NEW TO AWAREHOUSE?
-CART
-LOG IN
-CONTACT
 
-2201 N. Pershing Dr. Suite H
-Arlington, VA 22201
 
-703-563-2642
+Book a Class | Cold Plunge, Sauna, and Breathwork at Awarehouse — Awarehouse
 
-PRIVATE EVENTS
+        Skip to Content
 
-Host an Event
+Open Menu
+
+Close Menu
 
 About
 
-Experiences
+Schedule
 
-Packages
+        Experiences
 
-DISCOVER
+                  What to Expect
 
-Contact
+                  Guided Offerings
+
+                  Breathwork
+
+                  Sauna
+
+                  Cold Plunge
+
+Membership + Passes
+
+Events
+
+        Blog 
+
+        New to Awarehouse?
+
+(
+0
+)
+
+                          Cart
+
+                    (
+0
+)
+
+                    LOG IN
+
+About
 
 Schedule
 
-REACH OUT
+        Experiences
+
+                  What to Expect
+
+                  Guided Offerings
+
+                  Breathwork
+
+                  Sauna
+
+                  Cold Plunge
+
+Membership + Passes
+
+Events
+
+        Blog 
+
+        New to Awarehouse?
+
+(
+0
+)
+
+                          Cart
+
+                    (
+0
+)
+
+                    LOG IN
+
+Open Menu
+
+Close Menu
+
+About
+
+Schedule
+
+Folder:
+
+Experiences
+
+Membership + Passes
+
+Events
+
+                  Blog 
+
+                  New to Awarehouse?
+
+                LOG IN
+
+Back
+
+                        What to Expect
+
+                        Guided Offerings
+
+                        Breathwork
+
+                        Sauna
+
+                        Cold Plunge
+
+Contact
+2201 N. Pershing Dr. Suite H
+Arlington, VA 22201
+703-563-2642
+
+Private events
+Host an Event
+
+About
+Experiences
+Packages
+
+Discover
+
+Contact
+Schedule
+
+Reach Out
 
 Terms of Service
 
@@ -43,13 +143,14 @@ Privacy Policy
 
 © 2024 Awarehouse
 
-PAUSING OPERATIONS JULY 1
+Pausing Operations July 1
 
 Dear Awarehouse Community,
-
 We are pausing all operations beginning July 1, while we navigate the next phase of the business. 
-
 Stay tuned here for updates!!
-
 Big hugs,
 The Awarehouse Team
+
+----
+
+ns

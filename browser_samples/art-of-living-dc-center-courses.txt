@@ -1,7 +1,8 @@
 Art of Living DC Center (courses)
 https://members.us.artofliving.org/us-en/centers/courses/a054600000C7j5HAAR?timeZone=EST&viewMode=cards&embed=true
-rendered 2026-10-25 00:16Z  status=200 chars=2542 iframes=0 srcdoc=0 next=False error=
+rendered 2026-10-25 00:26Z  status=200 chars=5389 iframes=2 srcdoc=0 next=False error=
 
+Washington DC National - Course Dates and Registration
 All
 Courses
 Meetups
@@ -9,6 +10,7 @@ Events
 Cards
 List
 Calendar
+Save Changes
 Center
 Washington DC National
 Course Format
@@ -22,10 +24,12 @@ Time Zone
 Eastern
 Instructor
 Select...
+Filter
+1
 Eastern
 Course
 Art of Living Part 1
-ONLINE
+Online
 Archana Karne
 10/26 Monday
 , 7:30 AM - 9:30 AM ET
@@ -33,9 +37,11 @@ Archana Karne
 , 7:30 AM - 9:30 AM ET
 10/28 Wednesday
 , 7:30 AM - 9:30 AM ET
+Details
+Register
 Course
 Art of Living Part 1
-IN-PERSON
+In-Person
 Non-Residential
 8005 Gramercy blvd, Derwood, MD, 28005
 Jalpa Patel
@@ -45,9 +51,11 @@ Jalpa Patel
 , 10:00 AM - 12:30 PM ET
 10/28 Wednesday
 , 10:00 AM - 12:30 PM ET
+Details
+Register
 Course
 Art of Living Part 1
-IN-PERSON
+In-Person
 2401 15th Street Northwest, Washington, DC, 20009
 Shikha Arya, Yayati Thakur
 10/26 Monday
@@ -56,9 +64,11 @@ Shikha Arya, Yayati Thakur
 , 6:30 PM - 9:30 PM ET
 10/28 Wednesday
 , 6:30 PM - 9:30 PM ET
+Details
+Register
 Course
 Sahaj Samadhi Meditation
-ONLINE
+Online
 Madhushri Tejasvi, Apoorva Srivastava
 10/26 Monday
 , 7:00 PM - 9:00 PM ET
@@ -66,9 +76,11 @@ Madhushri Tejasvi, Apoorva Srivastava
 , 7:00 PM - 9:00 PM ET
 10/28 Wednesday
 , 7:00 PM - 9:00 PM ET
+Details
+Register
 Course
 Art of Living Part 1
-ONLINE
+Online
 Nisha Mehta
 10/27 Tuesday
 , 6:30 AM - 8:30 AM ET
@@ -76,9 +88,11 @@ Nisha Mehta
 , 6:30 AM - 8:30 AM ET
 10/29 Thursday
 , 6:30 AM - 8:30 AM ET
+Details
+Register
 Course
 Art of Living Part 1
-ONLINE
+Online
 Nisha Mehta
 10/30 Friday
 , 6:30 AM - 8:30 AM ET
@@ -86,9 +100,11 @@ Nisha Mehta
 , 6:30 AM - 8:30 AM ET
 11/1 Sunday
 , 6:30 AM - 8:30 AM ET
+Details
+Register
 Course
 Sahaj Samadhi Meditation
-ONLINE
+Online
 Archana Karne
 10/30 Friday
 , 7:00 AM - 9:00 AM ET
@@ -96,9 +112,11 @@ Archana Karne
 , 7:00 AM - 9:00 AM ET
 11/1 Sunday
 , 7:00 AM - 9:00 AM ET
+Details
+Register
 Course
 Art of Living Part 1
-IN-PERSON
+In-Person
 2401 15th Street NW, Washington, DC, 20009
 Catalina Lozano, Sreenivasa Radha Krishnan Rayaprolu
 10/30 Friday
@@ -107,9 +125,11 @@ Catalina Lozano, Sreenivasa Radha Krishnan Rayaprolu
 , 10:30 AM - 1:30 PM ET
 11/1 Sunday
 , 10:30 AM - 1:30 PM ET
+Details
+Register
 Course
 Art of Living Part 1
-IN-PERSON
+In-Person
 10701 Buckingham Rd, Fairfax, VA, 22032
 Muktesh Chhabra
 10/30 Friday
@@ -118,9 +138,11 @@ Muktesh Chhabra
 , 10:30 AM - 1:30 PM ET
 11/1 Sunday
 , 10:30 AM - 1:30 PM ET
+Details
+Register
 Course
 Art of Living Part 1
-IN-PERSON
+In-Person
 3921 Beeker Mill Place, Herndon, VA, 20151
 Ramesh Parajuli, Jaymin Mehta
 10/30 Friday
@@ -129,9 +151,11 @@ Ramesh Parajuli, Jaymin Mehta
 , 8:00 AM - 11:00 AM ET
 11/1 Sunday
 , 8:00 AM - 11:00 AM ET
+Details
+Register
 Course
 Art of Living Part 1
-ONLINE
+Online
 Non-Residential
 Jalpa Patel
 10/30 Friday
@@ -140,9 +164,11 @@ Jalpa Patel
 , 10:00 AM - 12:30 PM ET
 11/1 Sunday
 , 10:00 AM - 12:30 PM ET
+Details
+Register
 Course
 Sahaj Samadhi Meditation
-IN-PERSON
+In-Person
 22837 Queensbridge Dr, Ashburn, VA, 20148
 Dev Manghat
 10/30 Friday
@@ -151,3 +177,164 @@ Dev Manghat
 , 3:00 PM - 5:30 PM ET
 11/1 Sunday
 , 3:00 PM - 5:30 PM ET
+Details
+Register
+Course
+Sahaj Samadhi Meditation
+In-Person
+Non-Residential
+10701 Buckingham Road, Fairfax, VA, 22032
+Madhushri Tejasvi
+10/30 Friday
+, 6:30 PM - 8:00 PM ET
+10/31 Saturday
+, 9:30 AM - 11:30 AM ET
+11/1 Sunday
+, 9:30 AM - 11:30 AM ET
+Details
+Register
+Course
+Sleep and Anxiety Protocol
+Online
+Pushpa Krishnaswamy
+10/30 Friday
+, 7:00 PM - 9:30 PM ET
+10/31 Saturday
+, 7:00 PM - 9:30 PM ET
+11/1 Sunday
+, 7:00 PM - 9:30 PM ET
+Details
+Register
+Course
+Art of Living Part 1
+In-Person
+43392 Barnstead Dr, Ashburn, VA, 20148
+Nisha Mehta
+10/31 Saturday
+, 10:00 AM - 12:30 PM ET
+11/1 Sunday
+, 10:00 AM - 12:30 PM ET
+11/2 Monday
+, 5:00 PM - 7:30 PM ET
+Details
+Register
+Course
+Art of Living Part 1
+In-Person
+3536 Schuerman House Drive, Fairfax, VA, 22031
+Shalini Jerath
+10/31 Saturday
+, 10:30 AM - 1:30 PM ET
+11/1 Sunday
+, 10:30 AM - 1:30 PM ET
+11/2 Monday
+, 6:30 PM - 9:30 PM ET
+Details
+Register
+Course
+Art of Living Part 1
+In-Person
+Non-Residential
+8005 Gramercy blvd, Derwood, MD, 28005
+Jalpa Patel
+11/2 Monday
+, 10:00 AM - 12:30 PM ET
+11/3 Tuesday
+, 10:00 AM - 12:30 PM ET
+11/4 Wednesday
+, 10:00 AM - 12:30 PM ET
+Details
+Register
+Course
+Art of Living Part 1
+In-Person
+737 SWANN AVE
+APT 405, Alexandria, VA, 22301
+Apoorva Srivastava
+11/2 Monday
+, 6:30 PM - 9:30 PM ET
+11/3 Tuesday
+, 6:30 PM - 9:30 PM ET
+11/4 Wednesday
+, 6:30 PM - 9:30 PM ET
+Details
+Register
+Course
+Sahaj Samadhi Meditation
+Online
+Jalpa Patel, Gautam Chopra
+11/3 Tuesday
+, 8:00 AM - 10:30 AM ET
+11/4 Wednesday
+, 8:00 AM - 10:30 AM ET
+11/5 Thursday
+, 8:00 AM - 10:30 AM ET
+Details
+Register
+Course
+Art of Living Part 1
+Online
+Sangeetha Pridhu Dev, Dev Manghat
+11/6 Friday
+, 6:00 AM - 8:15 AM ET
+11/7 Saturday
+, 6:00 AM - 8:15 AM ET
+11/8 Sunday
+, 6:00 AM - 8:15 AM ET
+Details
+Register
+Course
+Sahaj Samadhi Meditation
+Online
+Archana Karne
+11/6 Friday
+, 7:00 AM - 9:00 AM ET
+11/7 Saturday
+, 8:00 AM - 10:00 AM ET
+11/8 Sunday
+, 8:00 AM - 10:00 AM ET
+Details
+Register
+Course
+Art of Living Part 1
+Online
+Non-Residential
+Jalpa Patel
+11/6 Friday
+, 6:00 PM - 8:30 PM ET
+11/7 Saturday
+, 10:00 AM - 12:30 PM ET
+11/8 Sunday
+, 10:00 AM - 12:30 PM ET
+Details
+Register
+Course
+Sahaj Samadhi Meditation
+In-Person
+2401 15th Street Northwest, Washington, DC, 20009
+Reshma Thawani
+11/6 Friday
+, 6:30 PM - 8:30 PM ET
+11/7 Saturday
+, 11:00 AM - 1:00 PM ET
+11/8 Sunday
+, 11:00 AM - 1:00 PM ET
+Details
+Register
+Course
+Sahaj Samadhi Meditation
+In-Person
+22837 Queensbridge Dr, Ashburn, VA, 20148
+Dev Manghat
+11/6 Friday
+, 7:00 PM - 8:15 PM ET
+11/7 Saturday
+, 2:00 PM - 4:15 PM ET
+11/8 Sunday
+, 2:00 PM - 4:15 PM ET
+Details
+Register
+
+----
+
+ns

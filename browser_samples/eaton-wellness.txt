@@ -1,19 +1,58 @@
 Eaton Wellness
 https://www.eatonworkshop.com/en-us/events-calendar/
-rendered 2026-10-25 00:12Z  status=200 chars=5147 iframes=0 srcdoc=0 next=False error=
+rendered 2026-10-25 00:20Z  status=200 chars=9382 iframes=3 srcdoc=0 next=False error=
 
-LOCATIONS
-ABOUT
-STORIES
-RADIO
-CALENDAR
+
+
+Eaton Workshop | Cultural Events
+
+                                Locations
+
+Hong Kong
+
+Washington DC
+
+                                About
+
+                                Stories
+
+                                Radio
+
+                                Calendar
+
 ENG
+
+                                        简体
+
+                                        繁體
+
+                                        日本語
+
+                                        한국어
+
+ENG
+
+                                            简体
+
+                                            繁體
+
+                                            日本語
+
+                                            한국어
+
 Hotel
 [DC] Washington DC
 Hong Kong
-2 GUESTS
-BOOK A STAY
+2 guests 
+ Book a stay 
+Hotel
+[DC] Washington DC
+Hong Kong
+ Book a stay 
+
 Events Calendar
+
+Previous
 January
 February
 March
@@ -29,35 +68,43 @@ December
 2026
 2027
 2028
-HONG KONG
-WASHINGTON DC
-ALL
-IMPACT
-ART & CULTURE
-MUSIC & RADIO
-HOUSE
-WELLNESS
-SUN
-MON
-TUE
-WED
-THU
-FRI
-SAT
+Next
+ Hong Kong 
+ Washington DC 
+ All 
+ Impact 
+ Art & Culture 
+ Music & Radio 
+ House 
+ Wellness 
+Location
+Filters
+Sun
+Mon
+Tue
+Wed
+Thu
+Fri
+Sat
+27 Sep
 27 Sep
 SAHK and HASS Lab presents: Art/Daily Art Exhibition
 10AM TO 9PM
 28
+28 Sep
 SAHK and HASS Lab presents: Art/Daily Art Exhibition
 10AM TO 9PM
 Melodies for Nepal: Live Music & Bar Takeover
 8PM TO 11PM
 29
+29 Sep
 SAHK and HASS Lab presents: Art/Daily Art Exhibition
 10AM TO 9PM
 30
+30 Sep
 SAHK and HASS Lab presents: Art/Daily Art Exhibition
 10AM TO 9PM
+1 Oct
 1 Oct
 SAHK and HASS Lab presents: Art/Daily Art Exhibition
 10AM TO 9PM
@@ -66,12 +113,14 @@ Live Music Night w/ The Sleeves HK
 Yoga: Move, breathe, and reconnect, en español.
 5:30PM - 6:30PM
 2
+2 Oct
 SAHK and HASS Lab presents: Art/Daily Art Exhibition
 10AM TO 9PM
 Yao (Live DJ)
 8:30PM TO 12:30AM
 3
-Invigorating Flow Yoga with Karen Chiang
+3 Oct
+Invigorating Flow Yoga with Karen Chiang 
 10-11AM
 SAHK and HASS Lab presents: Art/Daily Art Exhibition
 10AM TO 9PM
@@ -80,18 +129,23 @@ Yogalates Flow with Karen Chiang
 Fergus (Live DJ)
 8:30PM TO 12:30AM
 4
+4 Oct
 SAHK and HASS Lab presents: Art/Daily Art Exhibition
 10AM TO 9PM
 5
+5 Oct
 SAHK and HASS Lab presents: Art/Daily Art Exhibition
 10AM TO 9PM
 6
+6 Oct
 SAHK and HASS Lab presents: Art/Daily Art Exhibition
 10AM TO 9PM
 7
+7 Oct
 SAHK and HASS Lab presents: Art/Daily Art Exhibition
 10AM TO 9PM
 8
+8 Oct
 SAHK and HASS Lab presents: Art/Daily Art Exhibition
 10AM TO 9PM
 The Odyssey: Artist Talk by Oscar Chan Yik Long
@@ -99,12 +153,14 @@ The Odyssey: Artist Talk by Oscar Chan Yik Long
 Live Music Night w/ Imnainla Jamir x Matt Lam x Max Li
 9PM TO 11:30PM
 9
+9 Oct
 SAHK and HASS Lab presents: Art/Daily Art Exhibition
 10AM TO 9PM
 Featurz & DJ Pace (Live DJ)
 8:30PM TO 12:30AM
 10
-Invigorating Flow Yoga with Karen Chiang
+10 Oct
+Invigorating Flow Yoga with Karen Chiang 
 10-11AM
 SAHK and HASS Lab presents: Art/Daily Art Exhibition
 10AM TO 9PM
@@ -115,25 +171,32 @@ Melodies for Nepal: Momo Making Workshop
 Lai Fai (Live DJ)
 8:30PM TO 12:30AM
 11
+11 Oct
 SAHK and HASS Lab presents: Art/Daily Art Exhibition
 10AM TO 9PM
 12
+12 Oct
 Melodies for Nepal: Live Music & Bar Takeover
 8PM TO 11PM
 13
+13 Oct
 14
+14 Oct
 15
+15 Oct
 Good Old Soil: "Made in Lantau" photo exhibition
 11AM TO 10PM
 Live Music Night w/ Jackson and the Intervals
 8PM TO 11PM
 16
+16 Oct
 Good Old Soil: "Made in Lantau" photo exhibition
 11AM TO 10PM
 Naive Sound (Live DJ)
 8:30PM TO 12:30AM
 17
-Invigorating Flow Yoga with Karen Chiang
+17 Oct
+Invigorating Flow Yoga with Karen Chiang 
 10-11AM
 Yogalates Flow with Karen Chiang
 11:30AM TO 12:30PM
@@ -142,31 +205,39 @@ Good Old Soil: "Made in Lantau" photo exhibition
 Adrianna Roma (Live DJ)
 8:30PM TO 12:30AM
 18
+18 Oct
 Good Old Soil: "Made in Lantau" photo exhibition
 11AM TO 10PM
 Melodies for Nepal: Community Market & Finale Concert
+
 2PM TO 8PM
 19
+19 Oct
 Good Old Soil: "Made in Lantau" photo exhibition
 11AM TO 10PM
 20
+20 Oct
 Good Old Soil: "Made in Lantau" photo exhibition
 11AM TO 10PM
 21
+21 Oct
 Good Old Soil: "Made in Lantau" photo exhibition
 11AM TO 10PM
 22
+22 Oct
 Good Old Soil: "Made in Lantau" photo exhibition
 11AM TO 10PM
 Live Music Night w/ The Wildcards
 8PM TO 11PM
 23
+23 Oct
 Good Old Soil: "Made in Lantau" photo exhibition
 11AM TO 10PM
 Subash (Live DJ)
 8:30PM TO 12:30AM
 24
-Invigorating Flow Yoga with Karen Chiang
+24 Oct
+Invigorating Flow Yoga with Karen Chiang 
 10-11AM
 Yogalates Flow with Karen Chiang
 11:30AM TO 12:30PM
@@ -175,71 +246,187 @@ Good Old Soil: "Made in Lantau" photo exhibition
 Ceci Fung (Live DJ)
 8:30PM TO 12:30AM
 25
+25 Oct
 Good Old Soil: "Made in Lantau" photo exhibition
 11AM TO 10PM
 26
+26 Oct
 Good Old Soil: "Made in Lantau" photo exhibition
 11AM TO 10PM
 A Tibetan Bowl Sound Bath for Mental Health and Emotional Well-Being
 7:00PM to 8:00PM
 27
+27 Oct
 Good Old Soil: "Made in Lantau" photo exhibition
 11AM TO 10PM
 Yoga: Move, breathe, and reconnect, en español.
 5:30PM - 6:30PM
-Yogalates with Kaya: The mindfulness of yoga, the strength of Pilates
+Yogalates with Kaya:
+The mindfulness of yoga, the strength of Pilates 
+
 7:00 PM - 8:00 PM
 Former Gov Coworking at Eaton House
 9:00AM-5:00PM
 28
+28 Oct
 Good Old Soil: "Made in Lantau" photo exhibition
 11AM TO 10PM
 R&B Yoga Class with Sydnea
 7:00 PM-8:00 PM
-R&B Yoga: Where good vibes and soulful beats combine
+R&B Yoga: 
+Where good vibes and soulful beats combine
 7:00PM to 8:00PM
 29
+29 Oct
 Good Old Soil: "Made in Lantau" photo exhibition
 11AM TO 10PM
 Live Music Night w/ Mad Dog & the Stray Cats
 8PM TO 11PM
 Recalibrate Your Vibes: Soundbath Journey & Expression Session
 7:00 PM-8:00 PM
-Sound Meditation & Music Medicine Recline in savasana, slow down, and surrender
+Sound Meditation & Music Medicine
+Recline in savasana, slow down, and surrender 
 7:00PM to 8:00PM
 30
+30 Oct
 Good Old Soil: "Made in Lantau" photo exhibition
 11AM TO 10PM
-Drag jam presents: Ghouls Night Out
+Drag jam presents: Ghouls Night Out 
 9PM TO 12AM
 31
+31 Oct
 Good Old Soil: "Made in Lantau" photo exhibition
 11AM TO 10PM
 Liminal Hotel: A Backroom Halloween Party
 9PM TO 2AM
-Yogalates with Kaya: The mindfulness of yoga, the strength of Pilates
+Yogalates with Kaya:
+The mindfulness of yoga, the strength of Pilates 
 10:30AM to 11:45AM
-EATON WORKSHOP
-EATON@EATONWORKSHOP.COM
-BRILLIANT BY LANGHAM
-CONTACT US
-CAREERS
-PRIVACY POLICY
-GUEST CODE OF CONDUCT
-TERMS AND CONDITIONS
-FACEBOOK
-INSTAGRAM
-YOUTUBE
-MIXCLOUD
-WECHAT
-TRIPADVISOR
+
+Eaton Workshop
+
+eaton@eatonworkshop.com
+
+Brilliant by Langham
+
+Contact Us
+
+Careers
+
+Privacy Policy
+
+Guest Code of Conduct
+
+Terms and Conditions
+
+Facebook
+
+Instagram
+
+Youtube
+
+Mixcloud
+
+Wechat
+
+Tripadvisor
+
 This site is protected by reCAPTCHA.
-©2026 EATON WORKSHOP, ALL RIGHTS RESERVED
-Washington DC
-Hong Kong
-Gallery
-About Brilliant by Langham
-By clicking “Accept All Cookies”, you agree to the storing of cookies on your device to enhance site navigation, analyze site usage, and assist in our marketing efforts. Cookie Policy
+
+ ©2026 Eaton Workshop, all rights reserved
+
+                            Washington DC
+
+                            Hong Kong
+
+                            Gallery
+
+                            About Brilliant by Langham
+
+                            Locations
+
+                                        Hong Kong
+
+                                        Washington DC
+
+                            About
+
+                            Stories
+
+                            Radio
+
+                            Calendar
+
+                            Washington DC
+
+                            Hong Kong
+
+                            Gallery
+
+                            About Brilliant by Langham
+
+By clicking “Accept All Cookies”, you agree to the storing of cookies on your device to enhance site navigation, analyze site usage, and assist in our marketing efforts. 
+Cookie Policy
 Accept All Cookies
 Reject All Non-Essential Cookies
 Cookies Settings
+Privacy Preference Center
+When you visit any website, it may store or retrieve information on your browser, mostly in the form of cookies. This information might be about you, your preferences, or your device, and is mostly used to make the site work as you expect. The information does not usually identify you directly, but it can give you a more personalized web experience. Because we respect your right to privacy, you can choose not to allow some types of cookies. Click on the different category headings to learn more and change our default settings. Blocking some types of cookies may impact your experience of the site and the services we are able to offer.
+Allow All
+ Manage Consent Preferences
+Strictly Necessary Cookies
+Always Active
+These cookies are necessary for the website to function and cannot be switched off in our systems. They are usually only set in response to actions made by you which amount to a request for services, such as setting your privacy preferences, logging in or filling in forms.    You can set your browser to block or alert you about these cookies, but some parts of the site will not then work. These cookies do not store any personally identifiable information.
+Performance Cookies
+
+Performance Cookies
+
+These cookies allow us to count visits and traffic sources so we can measure and improve the performance of our site. They help us to know which pages are the most and least popular and see how visitors move around the site.    All information these cookies collect is aggregated and therefore anonymous. If you do not allow these cookies we will not know when you have visited our site, and will not be able to monitor its performance.
+Functional Cookies
+
+Functional Cookies
+
+These cookies enable the website to provide enhanced functionality and personalisation. They may be set by us or by third party providers whose services we have added to our pages.    If you do not allow these cookies then some or all of these services may not function properly.
+Targeting Cookies
+
+Targeting Cookies
+
+These cookies may be set through our site by our advertising partners. They may be used by those companies to build a profile of your interests and show you relevant adverts on other sites.    They do not store directly personal information, but are based on uniquely identifying your browser and internet device. If you do not allow these cookies, you will experience less targeted advertising.
+Back Button
+Cookie List
+
+Search Icon
+Filter Icon
+Clear
+
+checkbox label
+
+label
+Apply
+
+Cancel
+Consent
+
+Leg.Interest
+
+checkbox label
+
+label
+
+checkbox label
+
+label
+
+checkbox label
+
+label
+
+Confirm My Choices
+
+----
+
+Adobe AudienceManager
+
+----
+
+ns

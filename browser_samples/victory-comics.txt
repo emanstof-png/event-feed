@@ -1,60 +1,98 @@
 Victory Comics
 https://victorycomics.com/event-schedule
-rendered 2026-10-25 00:14Z  status=200 chars=16526 iframes=2 srcdoc=0 next=False error=
+rendered 2026-10-25 00:24Z  status=200 chars=17396 iframes=2 srcdoc=0 next=False error=
 
-Victory Comics
-HOME
-SUBSCRIPTIONS
-EVENT SCHEDULE
-PRODUCTS/SERVICES
-SELLING YOUR COLLECTION
-GETTING HERE
-ON THE ROAD
 Event Schedule
 
-Our flagship store in Falls Church has the largest in-store gaming area inside the Beltway in Northern Virginia.
+Victory Comics
+Victory Comics
+Victory Comics
+Victory Comics
+Home
+Subscriptions
+Event Schedule
+Products/Services
+Selling Your Collection
+Getting Here
+On the Road
+More
+Home
+Subscriptions
+Event Schedule
+Products/Services
+Selling Your Collection
+Getting Here
+On the Road
+Victory Comics
+Victory Comics
+Victory Comics
+Victory Comics
+Home
+Subscriptions
+Event Schedule
+Products/Services
+Selling Your Collection
+Getting Here
+On the Road
 
-To keep up with the latest and greatest in comics and gaming events, follow us on Facebook on our Falls Church page and our Springfield page, or follow us on Instagram.
+Event Schedule
+Our flagship store in Falls Church has the largest in-store gaming area inside the Beltway in Northern Virginia.
+To keep up with the latest and greatest in comics and gaming events, follow us on Facebook on 
+our Falls Church page
+ and 
+our Springfield page
+, or follow us on 
+Instagram
+.
 
 Falls Church Event Calendar
+
 Springfield Event Calendar
 
 Copyright © 2026 Victory Comics Group, Inc - All Rights Reserved.
-
-Powered by
+Powered by 
 
 This website uses cookies.
-
 We use cookies to analyze website traffic and optimize your website experience. By accepting our use of cookies, your data will be aggregated with all other user data.
-
-ACCEPT
+Accept
 
 ----
 
+Victory Comics Falls Church
 Today
 Saturday, October 24
 Previous month
 Next month
 October 2026
 October 2026
+Oct 2026
 Send feedback to Google
 Select calendar
+Victory Comics Falls Church
+Victory Comics Falls Church
 Print my calendar (shows preview in new window)
 Month
-SUNDAY
-SUN
-MONDAY
-MON
-TUESDAY
-TUE
-WEDNESDAY
-WED
-THURSDAY
-THU
-FRIDAY
-FRI
-SATURDAY
-SAT
+Schedule
+Week
+Month
+Schedule
+Week
+Month
+Send feedback to Google
+Sunday
+Sun
+Monday
+Mon
+Tuesday
+Tue
+Wednesday
+Wed
+Thursday
+Thu
+Friday
+Fri
+Saturday
+Sat
 27
 28
 29
@@ -81,7 +119,7 @@ LGBTQIA+ Comic Night
 7pm to 9pm, LGBTQIA+ Comic Night, Calendar: Victory Comics Falls Church, Location: Victory Comics, 586 S Washington St, Falls Church, VA 22046, USA, September 29, 2026
 2 events, Wednesday, September 30
 6pm
-Lorcana League
+Lorcana League 
 6pm to 9pm, Lorcana League , Calendar: Victory Comics Falls Church, No location, September 30, 2026
 6:30pm
 MTG Standard Constructed Tournament
@@ -131,7 +169,7 @@ Ladies Night with Victory Comics
 7pm to 9pm, Ladies Night with Victory Comics, Calendar: Victory Comics Falls Church, Location: Victory Church, Falls Church, VA 22042, United States, October 6, 2026
 2 events, Wednesday, October 7
 6pm
-Lorcana League
+Lorcana League 
 6pm to 9pm, Lorcana League , Calendar: Victory Comics Falls Church, No location, October 7, 2026
 6:30pm
 MTG Standard Constructed Tournament
@@ -146,7 +184,7 @@ FNM Sealed or Draft (Your Choice!)
 6:30pm to 10:30pm, FNM Sealed or Draft (Your Choice!), Calendar: Victory Comics Falls Church, Location: Victory Comics, 586 S Washington St, Falls Church, VA 22046, USA, October 9, 2026
 1 event, Saturday, October 10
 11am
-Season 5 - Round 2 RCQ .5k with pins!
+Season 5 - Round 2 RCQ .5k with pins! 
 11am to 8pm, Season 5 - Round 2 RCQ .5k with pins! , Calendar: Victory Comics Falls Church, No location, October 10, 2026
 11
 12
@@ -178,7 +216,7 @@ Star Wars Unlimited Weekly Play
 6:30pm to 9pm, Star Wars Unlimited Weekly Play, Calendar: Victory Comics Falls Church, Location: Victory Comics, 586 S Washington St, West Falls Church, VA 22046, USA, October 13, 2026
 2 events, Wednesday, October 14
 6pm
-Lorcana League
+Lorcana League 
 6pm to 9pm, Lorcana League , Calendar: Victory Comics Falls Church, No location, October 14, 2026
 6:30pm
 MTG Standard Constructed Tournament
@@ -285,7 +323,7 @@ LGBTQIA+ Comic Night
 7pm to 9pm, LGBTQIA+ Comic Night, Calendar: Victory Comics Falls Church, Location: Victory Comics, 586 S Washington St, Falls Church, VA 22046, USA, October 27, 2026
 2 events, Wednesday, October 28
 6pm
-Lorcana League
+Lorcana League 
 6pm to 9pm, Lorcana League , Calendar: Victory Comics Falls Church, No location, October 28, 2026
 6:30pm
 MTG Standard Constructed Tournament
@@ -304,35 +342,49 @@ MTG Commander
 12pm to 5pm, MTG Commander, Calendar: Victory Comics Falls Church, Location: Victory Comics, 586 South Washington Street, Falls Church, VA 22046, United States, October 31, 2026
 Victory Comics Falls Church
 Events shown in time zone: (GMT-04:00) Eastern Time - New York
+GMT-04
+Events shown in time zone: (GMT-04:00) Eastern Time - New York
 Add to Google Calendar
+Add to Google Calendar (opens a new tab)
  Calendar
 
 ----
 
+Victory Comics Springfield
 Today
 Saturday, October 24
 Previous month
 Next month
 October 2026
 October 2026
+Oct 2026
 Send feedback to Google
 Select calendar
+Victory Comics Springfield
+Victory Comics Springfield
 Print my calendar (shows preview in new window)
 Month
-SUNDAY
-SUN
-MONDAY
-MON
-TUESDAY
-TUE
-WEDNESDAY
-WED
-THURSDAY
-THU
-FRIDAY
-FRI
-SATURDAY
-SAT
+Schedule
+Week
+Month
+Schedule
+Week
+Month
+Send feedback to Google
+Sunday
+Sun
+Monday
+Mon
+Tuesday
+Tue
+Wednesday
+Wed
+Thursday
+Thu
+Friday
+Fri
+Saturday
+Sat
 27
 28
 29
@@ -440,5 +492,8 @@ Friday Night Magic Legacy
 No events, Saturday, October 31
 Victory Comics Springfield
 Events shown in time zone: (GMT-04:00) Eastern Time - New York
+GMT-04
+Events shown in time zone: (GMT-04:00) Eastern Time - New York
 Add to Google Calendar
+Add to Google Calendar (opens a new tab)
  Calendar

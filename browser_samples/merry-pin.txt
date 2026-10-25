@@ -1,29 +1,86 @@
 Merry Pin
 https://www.merrypindc.com/events
-rendered 2026-10-25 00:14Z  status=200 chars=4244 iframes=1 srcdoc=0 next=False error=
+rendered 2026-10-25 00:24Z  status=200 chars=5567 iframes=1 srcdoc=0 next=False error=
+
+
+
+Events | Merry Pin
 
 ×
-ABOUT
-SHOP ONLINE
-WHAT WE OFFER
-PRIVATE PARTIES & VENUE RENTALS
-OFF-SITE EVENTS & WORKSHOPS
-CREATIVE REUSE
-MAKER SPACE & MACHINERY
-CO-WORKING
-TABLE RESERVATIONS
-CAMPS FOR KIDS
-EVENTS
-FOOD & DRINK
+
+						About
+
+						Shop Online
+
+				What We Offer
+
+					Private Parties & Venue Rentals
+
+					Off-Site Events & Workshops
+
+					Creative Reuse
+
+					Maker Space & Machinery
+
+					Co-Working
+
+					Table Reservations
+
+					Camps for Kids
+
+						Events
+
+						Food & Drink
+
+		Sign In
+
+Upstairs Check
+
+				Shopping Cart
+
+You don't have any items in your cart.
+
+				Checkout
+
+				Continue Shopping
+
+				Accepted here
+
+					About
+
+					Shop Online
+
+					What We Offer
+
+					Private Parties & Venue Rentals
+
+					Off-Site Events & Workshops
+
+					Creative Reuse
+
+					Maker Space & Machinery
+
+					Co-Working
+
+					Table Reservations
+
+					Camps for Kids
+
+					Events
+
+					Food & Drink
+
+More
 
 Upstairs Check
 
 Get Crafty.
+
 Craft Experiences
 
-Find out what's happening at Merry Pin—including events, promotions, workshops, and more!
-
-Want to see when the upstairs will be open? Use our upstairs check calendar.
+Find out what's happening at Merry Pin—including events, promotions, workshops, and more!  
+Want to see when the upstairs will be open? 
+Use our upstairs check calendar.
 
 FAQs
 
@@ -35,116 +92,256 @@ Self-guided, "craft cafe-style" activities—there is no facilitator or instruct
 
 Workshops
 
-Workshops are classroom-style opportunities, led by an instructor.
+Workshops are classroom-style opportunities, led by an instructor. 
 
 Events
 
-From trivia to movie nights, we offer a variety of events at Merry Pin. Some are free (RSVPs always appreciated) and others are ticketed.
+From trivia to movie nights, we offer a variety of events at Merry Pin. Some are free (RSVPs always appreciated) and others are ticketed. 
 
 Coming Up At Merry Pin
 
-Want to see a narrowed down list of workshops and classes for kids? Click here.
-
+Want to see a narrowed down list of workshops and classes for kids? 
+Click here.
 If an event no longer appears on the website, it does not mean it's canceled—events that are sold out no longer appear here.
 
-WED, OCT 21 3:30 PM
-Wednesday Open Craft Studio for Kids & Families
-Learn More
-THU, OCT 22 6:30 PM
-Crafted Dialogues: Wearing Our Masks All Year
-Learn More
-FRI, OCT 23 6:00 PM
-Queer Crafting Night - Oct
-Learn More
-SAT, OCT 24 10:00 AM
-Crafty Tales: The Little Ghost Who Was a Quilt
-Learn More
-SAT, OCT 24 10:00 AM
-CRAFTOWEEN 2026
-Learn More
-SAT, OCT 24 6:30 PM
-Practical Magic Screening - Part of CRAFTOWEEN 2026
-Learn More
-SUN, OCT 25 1:00 PM
-Poisoned Printmaking
-Learn More
-WED, OCT 28 6:30 PM
-Witches Cauldron Candlemaking Workshop
-Learn More
-THU, OCT 29 6:30 PM
-Hand-Bound Hearth Brooms
-Learn More
-SAT, OCT 31 10:00 AM
-Crafty Tales: Halloween
-Learn More
-SUN, NOV 1 10:00 AM
-Shop the Halls - Early Holiday Mega Shopping Event
-Learn More
-FRI, NOV 6 6:30 PM
-Nature Figure Drawing with Anna Beucler (Nov)
-Learn More
-SAT, NOV 7 10:00 AM
-Crafty Tales: The Pot That Juan Built
-Learn More
-SAT, NOV 14 10:00 AM
-Crafty Tales: Augusta Savage
-Learn More
+	Wed, Oct 21
+
+	3:30 PM
+
+		Wednesday Open Craft Studio for Kids & Families
+
+		Learn More
+
+	Thu, Oct 22
+
+	6:30 PM
+
+		Crafted Dialogues: Wearing Our Masks All Year
+
+		Learn More
+
+	Fri, Oct 23
+
+	6:00 PM
+
+		Queer Crafting Night - Oct
+
+		Learn More
+
+	Sat, Oct 24
+
+	10:00 AM
+
+		Crafty Tales: The Little Ghost Who Was a Quilt
+
+		Learn More
+
+	Sat, Oct 24
+
+	10:00 AM
+
+		CRAFTOWEEN 2026
+
+		Learn More
+
+	Sat, Oct 24
+
+	6:30 PM
+
+		Practical Magic Screening - Part of CRAFTOWEEN 2026
+
+		Learn More
+
+	Sun, Oct 25
+
+	1:00 PM
+
+		Poisoned Printmaking
+
+		Learn More
+
+	Wed, Oct 28
+
+	6:30 PM
+
+		Witches Cauldron Candlemaking Workshop
+
+		Learn More
+
+	Thu, Oct 29
+
+	6:30 PM
+
+		Hand-Bound Hearth Brooms
+
+		Learn More
+
+	Sat, Oct 31
+
+	10:00 AM
+
+		Crafty Tales: Halloween
+
+		Learn More
+
+	Sun, Nov 1
+
+	10:00 AM
+
+		Shop the Halls - Early Holiday Mega Shopping Event
+
+		Learn More
+
+	Fri, Nov 6
+
+	6:30 PM
+
+		Nature Figure Drawing with Anna Beucler (Nov)
+
+		Learn More
+
+	Sat, Nov 7
+
+	10:00 AM
+
+		Crafty Tales: The Pot That Juan Built
+
+		Learn More
+
+	Sat, Nov 14
+
+	10:00 AM
+
+		Crafty Tales: Augusta Savage
+
+		Learn More
+
 Further Ahead
 
 Want to go ahead and reserve your seat for a future workshop? Check out these upcoming workshops!
 
-SAT, NOV 14 5:00 PM
-Boozy Book Fair: 90s Edition
-Get tickets
-SUN, NOV 15 2:00 PM
-Make Your Own Fall Garland
-Get tickets
-WED, NOV 18 6:30 PM
-Miniature Rustic Wooden Wall Shelf (1:12 Scale)
-Get tickets
-SAT, NOV 21 10:00 AM
-Crafty Tales: The Life of a Crayon
-Get tickets
-NOV 22 - DEC 6 11:00 AM
-Learn to Knit 101 (Nov-Dec)
-Get tickets
-SUN, NOV 22 2:00 PM
-Hemming and Mending by Hand (November)
-Get tickets
-SAT, NOV 28 10:00 AM
-Crafty Tales: Andy Warhol
-Get tickets
-SAT, DEC 5 10:00 AM
-Crafty Tales: If Monet Painted a Monster
-Get tickets
-SAT, DEC 12 10:00 AM
-Crafty Tales: Sky Color
-Get tickets
-SAT, DEC 19 10:00 AM
-Crafty Tales: Eric Carle
-Get tickets
-SUN, DEC 20 2:00 PM
-Getting to Know your Sewing Machine (December)
-Get tickets
-SAT, JAN 2, 2027 10:00 AM
-Crafty Tales: The Art of Miss Chew
-Get tickets
-THU, JAN 7, 2027 6:30 PM
-Nature Figure Drawing with Anna Beucler (Jan)
-Get tickets
+	Sat, Nov 14
+
+	5:00 PM
+
+		Boozy Book Fair: 90s Edition
+
+		Get tickets
+
+	Sun, Nov 15
+
+	2:00 PM
+
+		Make Your Own Fall Garland
+
+		Get tickets
+
+	Wed, Nov 18
+
+	6:30 PM
+
+		Miniature Rustic Wooden Wall Shelf (1:12 Scale)
+
+		Get tickets
+
+	Sat, Nov 21
+
+	10:00 AM
+
+		Crafty Tales: The Life of a Crayon
+
+		Get tickets
+
+	Nov 22 - Dec 6
+
+	11:00 AM
+
+		Learn to Knit 101 (Nov-Dec)
+
+		Get tickets
+
+	Sun, Nov 22
+
+	2:00 PM
+
+		Hemming and Mending by Hand (November)
+
+		Get tickets
+
+	Sat, Nov 28
+
+	10:00 AM
+
+		Crafty Tales: Andy Warhol
+
+		Get tickets
+
+	Sat, Dec 5
+
+	10:00 AM
+
+		Crafty Tales: If Monet Painted a Monster
+
+		Get tickets
+
+	Sat, Dec 12
+
+	10:00 AM
+
+		Crafty Tales: Sky Color
+
+		Get tickets
+
+	Sat, Dec 19
+
+	10:00 AM
+
+		Crafty Tales: Eric Carle
+
+		Get tickets
+
+	Sun, Dec 20
+
+	2:00 PM
+
+		Getting to Know your Sewing Machine (December)
+
+		Get tickets
+
+	Sat, Jan 2, 2027
+
+	10:00 AM
+
+		Crafty Tales: The Art of Miss Chew
+
+		Get tickets
+
+	Thu, Jan 7, 2027
+
+	6:30 PM
+
+		Nature Figure Drawing with Anna Beucler (Jan)
+
+		Get tickets
+
 Get ready to roll with us!
 
-Merry Pin on the Move is your new opportunity to experience the accessibility, inclusivity, sustainability, and fun you love about Merry Pin, but out in the world!
-
+Merry Pin on the Move
+ is your new opportunity to experience the accessibility, inclusivity, sustainability, and fun you love about Merry Pin, but out in the world!
 These carefully curated experiences are small groups of 15-20, allowing us a chance to build community, discover new places, and get crafty.
 
-Beyond The Skein: A Fiber Retreat
-NOV 6 - NOV 8 2:00 PM
+		Beyond The Skein: A Fiber Retreat
+
+	Nov 6 - Nov 8
+
+	2:00 PM
 
 Farm in Maryland (Full address provided upon registration)
 
-Low stock
-Get tickets
+	Low stock
+
+		Get tickets
+
 Frequently Asked Questions
 
 Have a question that isn't answered here? Email us at hello@MerryPinDC.com.
@@ -153,26 +350,66 @@ Stay in the Loop
 
 Get the latest when you sign up for our newsletter.
 
-Sign Up
-This form is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.
-Refunds & Returns
-Gift Cards
-Newsroom
-Jobs
-Private Parties
-Day Camps
-Group Reservations
+		Sign Up
+
+This form is protected by reCAPTCHA and the Google 
+Privacy Policy
+ and 
+Terms of Service
+ apply.
+
+					Refunds & Returns
+
+					Gift Cards
+
+					Newsroom
+
+					Jobs
+
+					Private Parties
+
+					Day Camps
+
+					Group Reservations
+
+		Facebook
+
+		Instagram
 
 Crafts + Community + Cheer
 
-Sign Up
-This form is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.
+		Sign Up
+
+This form is protected by reCAPTCHA and the Google 
+Privacy Policy
+ and 
+Terms of Service
+ apply.
 
 7350 Georgia Avenue NW
 
+				Back to Cart
+
+		Merry Pin
+
+				Secure checkout by Square
+
+		Helpful Information
+
+			Returns Policy
+
+We will accept returns of unopened or unused items returned in as-purchased condition, with exceptions for defective merchandise, for a full refund to your original payment method. 
+Click here to read our full refund policy.
+
 ----
+
+Weebly Promote - Email Creation Made Easy
+
+                        Sorry, we can’t sign you up at this time.
 
 Visiting with a group of 4+ people? You can book a table reservation for upstairs!
 
- 
 Book Now
+
+×
+

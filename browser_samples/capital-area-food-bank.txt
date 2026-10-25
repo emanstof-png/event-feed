@@ -1,60 +1,278 @@
 Capital Area Food Bank
 https://volunteer.capitalareafoodbank.org/calendar
-rendered 2026-10-25 00:14Z  status=200 chars=10318 iframes=4 srcdoc=0 next=True error=
+rendered 2026-10-25 00:23Z  status=200 chars=11310 iframes=2 srcdoc=0 next=True error=
+
+
 
 Skip to Main Content
+
 Skip to Footer
 
- 
+Please wait...
 
- 
+Capital Area Food Bank
 
 Good food today. Brighter futures tomorrow. Volunteer.
 
- 
+Register
+ | 
+Login
+
 Log in
-OPPORTUNITIES
-	
-INDIVIDUAL VOLUNTEERS
-	
-GROUPS
-	
-CORPORATE TEAMS
-	
-FAQS
-GO TO LIST VIEW GO TO CALENDAR
-COLOR KEY:
+
+Opportunities
+
+Volunteer Opportunity Search
+
+Volunteer Opportunity Calendar
+
+Become a Volunteer
+
+Individual Volunteers
+
+Groups
+
+Corporate Teams
+
+FAQs
+
+Go To List View
+
+Go to Calendar
+
+Please wait...
+
+0
+ occurrence(s) returned.
+
+0
+
+ occurrence(s) returned.
+
+You are seeing a filtered number of volunteer opportunities based on your last search.
+
+Click here to see All Opportunities
+
+Color Key:
+
 Volunteer Opportunities
+
 Trainings & Other Activities
+
 Already Filled
+
 Special Events
-BASIC SEARCH AND SEARCH OPTIONS
-OPEN SECTION
+
+Basic Search and Search Options
+
+Basic Search and Search Options
+
+Open Section
+
+Location Type
+
+Address
+
+Virtual
+
+Any Distance
+
+Within 5 miles
+
+Within 10 miles
+
+Within 20 miles
+
+Within 30 miles
+
+Within 50 miles
+
+Filter & Sort
+
+Your Availability
+
+Morn
+
+Aft
+
+Eve
+
+All
+
+Sun
+
+Mon
+
+Tue
+
+Wed
+
+Thu
+
+Fri
+
+Sat
+
+All
+
+Duration
+
+0-1 hour
+
+1-2 hours
+
+2-3 hours
+
+3-4 hours
+
+4+ hours
+
+Select options
+Select All
+0-1 hour
+1-2 hours
+2-3 hours
+3-4 hours
+4+ hours
+
+Type of Opportunity
+
+Issue Area(s) to Address
+
+Hunger & Homelessness
+Hunger Relief
+Select options
+Select All
+Hunger & Homelessness
+Hunger Relief
+
+Skills
+
+Select options
+Unselect all
+
+Activity Type
+
+Select options
+Unselect all
+
+Participate in Event
+
+Select options
+Unselect all
+
+Managed By
+
+Managed by Us
+
+Managed by Partner
+
+Select options
+Select All
+Managed by Us
+Managed by Partner
+
+Who to Serve
+
+Organization(s) to Serve
+
+Capital Area Food Bank
+Select options
+Select All
+Capital Area Food Bank
+
+Age Group
+
+All ages
+Select options
+Select All
+All ages
+
+Gender
+
+All Genders Served
+Select options
+Select All
+All Genders Served
+
+Population
+
+Families
+Low-income Communities
+Select options
+Select All
+Families
+Low-income Communities
+
+Appropriate For
+
+Age of Volunteer
+
+Other Criteria
+
+Court Ordered Volunteers
+
+Groups
+
+Seniors/RSVP
+
+View by
+
+Volunteer Opportunities
+
+Training
+
+Already Filled
+
+Special Events
+
+Submit
+
+Additional Filters
+
+Have an invitation code?
+
+                                            Enter Code
+
+*
+
+*
+ This will override all other search criteria.
+
+Display Invited Opportunities
+
+My Searches
+
+My Saved Searches
+
+Select a search
+
+                                                    Share Search Results
+
+                                                        (Copy)
+
+Get shareable link!
+
+                                                    Save Current Search As
+
+Save Search
+
 Oct 2026
 month
 week
 day
 today
 Sun
-	
 Mon
-	
 Tue
-	
 Wed
-	
 Thu
-	
 Fri
-	
 Sat
-
 27
-	
 28
 04:00 PM
 Mobile Meals - Northern Virginia
-	
 29
 01:00 PM
 DC: Tuesday Afternoon
@@ -62,7 +280,6 @@ DC: Tuesday Afternoon
 Mobile Meals - Northern Virginia
 05:30 PM
 DC: Tuesday Evening
-	
 30
 08:30 AM
 Urban Demonstration Garden
@@ -72,7 +289,6 @@ DC: Wednesday Morning
 DC: Wednesday Afternoon
 04:00 PM
 Mobile Meals - Northern Virginia
-	
 1
 09:00 AM
 NOVA: Thursday Morning
@@ -82,7 +298,6 @@ DC: Thursday Afternoon
 Mobile Meals - Northern Virginia
 05:30 PM
 DC: Thursday Evening
-	
 2
 08:30 AM
 Urban Demonstration Garden
@@ -94,19 +309,15 @@ DC: Friday Morning
 NOVA: Friday Morning
 01:00 PM
 DC: Friday Afternoon
-	
 3
 07:30 AM
 DC Community Marketplace
 01:00 PM
 DC: Saturday Afternoon
-
 4
-	
 5
 04:00 PM
 Mobile Meals - Northern Virginia
-	
 6
 09:00 AM
 East Capitol Walk-In Center
@@ -118,7 +329,6 @@ DC: Tuesday Afternoon
 Mobile Meals - Northern Virginia
 05:30 PM
 DC: Tuesday Evening
-	
 7
 08:30 AM
 Urban Demonstration Garden
@@ -130,7 +340,6 @@ DC: Wednesday Morning
 DC: Wednesday Afternoon
 04:00 PM
 Mobile Meals - Northern Virginia
-	
 8
 09:00 AM
 East Capitol Walk-In Center
@@ -142,7 +351,6 @@ DC: Thursday Afternoon
 Mobile Meals - Northern Virginia
 05:30 PM
 DC: Thursday Evening
-	
 9
 08:30 AM
 Urban Demonstration Garden
@@ -156,15 +364,11 @@ NOVA: Friday Morning
 DC: Friday Afternoon
 04:00 PM
 Mobile Meals - Northern Virginia
-	
 10
 07:30 AM
 Reston Community Marketplace
-
 11
-	
 12
-	
 13
 09:00 AM
 East Capitol Walk-In Center
@@ -176,7 +380,6 @@ DC: Tuesday Afternoon
 Mobile Meals - Northern Virginia
 05:30 PM
 DC: Tuesday Evening
-	
 14
 08:30 AM
 Urban Demonstration Garden
@@ -188,8 +391,11 @@ Silver Market Greeter: Gaithersburg, MD
 East Capitol Walk-In Center
 09:00 AM
 DC: Wednesday Morning
+01:00 PM
+DC: Wednesday Afternoon
+04:00 PM
+Mobile Meals - Northern Virginia
 +2 more
-	
 15
 09:00 AM
 East Capitol Walk-In Center
@@ -201,7 +407,6 @@ DC: Thursday Afternoon
 Mobile Meals - Northern Virginia
 05:30 PM
 DC: Thursday Evening
-	
 16
 08:30 AM
 Urban Demonstration Garden
@@ -215,7 +420,6 @@ NOVA: Friday Morning
 DC: Friday Afternoon
 04:00 PM
 Mobile Meals - Northern Virginia
-	
 17
 07:30 AM
 Prince George's Community Marketplace
@@ -223,15 +427,12 @@ Prince George's Community Marketplace
 DC: Saturday Morning
 01:00 PM
 DC: Saturday Afternoon
-
 18
-	
 19
 09:00 AM
 East Capitol Walk-In Center
 04:00 PM
 Mobile Meals - Northern Virginia
-	
 20
 09:00 AM
 East Capitol Walk-In Center
@@ -243,7 +444,6 @@ DC: Tuesday Afternoon
 Mobile Meals - Northern Virginia
 05:30 PM
 DC: Tuesday Evening
-	
 21
 08:30 AM
 Urban Demonstration Garden
@@ -253,7 +453,6 @@ DC: Wednesday Morning
 DC: Wednesday Afternoon
 04:00 PM
 Mobile Meals - Northern Virginia
-	
 22
 09:00 AM
 NOVA: Thursday Morning
@@ -263,7 +462,6 @@ DC: Thursday Afternoon
 Mobile Meals - Northern Virginia
 05:30 PM
 DC: Thursday Evening
-	
 23
 08:30 AM
 Urban Demonstration Garden
@@ -273,7 +471,6 @@ NOVA: Friday Morning
 DC: Friday Afternoon
 04:00 PM
 Mobile Meals - Northern Virginia
-	
 24
 07:30 AM
 Arlington Community Marketplace
@@ -281,13 +478,10 @@ Arlington Community Marketplace
 DC: Saturday Morning
 01:00 PM
 DC: Saturday Afternoon
-
 25
-	
 26
 04:00 PM
 Mobile Meals - Northern Virginia
-	
 27
 09:00 AM
 NOVA: Tuesday Morning
@@ -297,7 +491,6 @@ DC: Tuesday Afternoon
 Mobile Meals - Northern Virginia
 05:30 PM
 DC: Tuesday Evening
-	
 28
 08:30 AM
 Urban Demonstration Garden
@@ -307,7 +500,6 @@ DC: Wednesday Morning
 DC: Wednesday Afternoon
 04:00 PM
 Mobile Meals - Northern Virginia
-	
 29
 09:00 AM
 NOVA: Thursday Morning
@@ -317,7 +509,6 @@ DC: Thursday Afternoon
 Mobile Meals - Northern Virginia
 05:30 PM
 DC: Thursday Evening
-	
 30
 08:30 AM
 Urban Demonstration Garden
@@ -329,7 +520,6 @@ NOVA: Friday Morning
 DC: Friday Afternoon
 04:00 PM
 Mobile Meals - Northern Virginia
-	
 31
 09:00 AM
 DC: Saturday Morning
@@ -337,13 +527,10 @@ DC: Saturday Morning
 Urban Demonstration Garden- Family Day
 01:00 PM
 DC: Saturday Afternoon
-
 1
-	
 2
 04:00 PM
 Mobile Meals - Northern Virginia
-	
 3
 09:00 AM
 East Capitol Walk-In Center
@@ -355,7 +542,6 @@ DC: Tuesday Afternoon
 Mobile Meals - Northern Virginia
 05:30 PM
 DC: Tuesday Evening
-	
 4
 08:30 AM
 Urban Demonstration Garden
@@ -367,7 +553,6 @@ DC: Wednesday Morning
 DC: Wednesday Afternoon
 04:00 PM
 Mobile Meals - Northern Virginia
-	
 5
 09:00 AM
 East Capitol Walk-In Center
@@ -379,7 +564,6 @@ DC: Thursday Afternoon
 Mobile Meals - Northern Virginia
 05:30 PM
 DC: Thursday Evening
-	
 6
 08:30 AM
 Urban Demonstration Garden
@@ -393,7 +577,6 @@ NOVA: Friday Morning
 DC: Friday Afternoon
 04:00 PM
 Mobile Meals - Northern Virginia
-	
 7
 07:30 AM
 DC Community Marketplace
@@ -401,64 +584,348 @@ DC Community Marketplace
 DC: Saturday Morning
 01:00 PM
 DC: Saturday Afternoon
+
 Good food today. Brighter futures tomorrow.
+
 Location
+
 District of Columbia
 
 4900 Puerto Rico Avenue, NE
-Washington, DC 20017
-P: (202) 644-9800
-F: (202) 529-1767
 
- 
+Washington, DC 20017
+
+P: (202) 644-9800
+
+F: (202) 529-1767
 
 © Capital Area Food Bank – Washington, DC Metro Area
 
 Donor Info
 
-United Way: #8052
-CFC: #30794
-Tax ID: #52-1167581
+United Way:
+ #8052
+
+CFC:
+ #30794
+
+Tax ID:
+ #52-1167581
+
+Log in with
+
+Google
+
+Apple
+
+Or log in using your email address
+
+Email Address
+
+Password
+
+Forgot your password?                
+
+Not a member?
+
+Register
+
+×
+
+Common Messages
+
+Select a month
+
+Select
+
+January
+
+February
+
+March
+
+April
+
+May
+
+June
+
+July
+
+August
+
+September
+
+October
+
+November
+
+December
+
+×
+
+Copied!
 
 ----
 
-protected by reCAPTCHA
-This site is exceeding reCAPTCHA Enterprise free quota.
+reCAPTCHA
 
-----
-
-function q(e,t){function c(e){return e=e.replace(/([\[|\]])/g,"\\$1"),!!(e=t.cookie[r](new RegExp(e+"=([^;]*)")))&&e[1]}var i="replace",r="match",n="setAttribute",a=navigator.userAgent,d=e.pathname,l=e.host,e=e.hash,o=e[r](/[#&]cid=([^&]*)/)[1],s=e[r](/[#&]cls=([^&]*)/),p=e[r](/[#&]ver=([^&]*)/)[1],m=e[r](/[#&]lbl=([^&]*)/)[1],E=e[r](/[#&]cc=([^&]*)/)[1],h=e[r](/[#&]tt=([^&]*)/)[1],g=(e[r](/[#&]rc=([^&]*)/)&&e[r](/[#&]rc=([^&]*)/)[1],e[r](/[#&]w=([^&]*)/)),A=e[r](/[#&]ell=([^&]*)/)[1],C=decodeURIComponent(e[r](/[#&]cck=([^&]*)/)[1]),C=c(m+"Acc3PC")||c(C),a=/^(?!.*(?:chromium|opr|Edg)).*chrome/i.test(a);!C&&a?(C=t.createElement("img"),a="//"+l+"/"+A+"/a.gif?aqet=priv_block_3pcookie&r="+(new Date).getTime()+"&cid="+o+"&tt="+h+(s?"&cls="+s[1]:""),C[n]("src",a),C[n]("title","userblk3PC"),t.body.appendChild(C)):(h=(A=t.body.appendChild(t.createElement("IFRAME"))).contentWindow.document,A[n]("id","i"+m+"frame"),A[n]("title","i"+m+"frame"),A.style.cssText="style:display:none;width:0px;height:0px;left:0px;",a="//"+l+d[i](/\/?(?:.*\/)*(.*)/,"/"+p+"/a"+(-1<((e,t)=>{for(var c=0;c<e.length;c++)if(e[c]===t)return c;return-1})(["US","GB","BR","CA","IN","FR","IT","PH","DE","AU","ES","MX","ID","NL","GR","MY","SG","TR","TH","RU","RO","BE","VN","SA","EG","AR","TW","SE","KR","PL","CO","PK","AE","BD","PT","CL","PE","NZ","JP","IE","CH","DK","GE","NO","FI","JO","RS","IS","UA","IL","HK","DZ","VE","AT","NP","HU","MA","CZ","ZA","CN","BG","CY","LK","QA","EC","HR","EE","LV","LI","LU","LT","MT","SK","SI"],E)?"/"+E:"")+"/$1")[i](/(\.dhj|_\.htm)/,"_.js")[i](/^((?:\/[a-zA-Z0-9.]+)*\/t?)(?:c)(s?.+)$/,"$1$2")+"?cid="+o+(s?"&cls="+s[1]:"")+(g?"&w="+g[1]:""),a=(a+=e+"&htmReqTime="+(new Date).getTime())[i](/\\/g,"\\\\")[i](/&/g,"&amp;")[i](/'/g,"\\'"),h.open().write("<body onload=\"var d=document,s=d.getElementsByTagName('head')[0].appendChild(d.createElement('script'));s.id='i"+m+"scrpt'; s.title='i"+m+"scrpt';s.src='"+a+"'\">"),h.close())}
+Recaptcha requires verification. 
+protected by 
+reCAPTCHA
+This site is exceeding 
+reCAPTCHA Enterprise free quota
+.
 
 ----
 
 Skip to Main Content
+
 Skip to Footer
 
- 
+Please wait...
 
- 
+Capital Area Food Bank
 
 Good food today. Brighter futures tomorrow. Volunteer.
 
- 
+Register
+ | 
+Login
+
 Log in
-OPPORTUNITIES
-	
-INDIVIDUAL VOLUNTEERS
-	
-GROUPS
-	
-CORPORATE TEAMS
-	
-FAQS
-GO TO LIST VIEW GO TO CALENDAR
-COLOR KEY:
+
+Opportunities
+
+Volunteer Opportunity Search
+
+Volunteer Opportunity Calendar
+
+Become a Volunteer
+
+Individual Volunteers
+
+Groups
+
+Corporate Teams
+
+FAQs
+
+Go To List View
+
+Go to Calendar
+
+Please wait...
+
+0
+ occurrence(s) returned.
+
+0
+
+ occurrence(s) returned.
+
+You are seeing a filtered number of volunteer opportunities based on your last search.
+
+Click here to see All Opportunities
+
+Color Key:
+
 Volunteer Opportunities
+
 Trainings & Other Activities
+
 Already Filled
+
 Special Events
-BASIC SEARCH AND SEARCH OPTIONS
-OPEN SECTION
+
+Basic Search and Search Options
+
+Basic Search and Search Options
+
+Open Section
+
+Location Type
+
+Address
+
+Virtual
+
+Any Distance
+
+Within 5 miles
+
+Within 10 miles
+
+Within 20 miles
+
+Within 30 miles
+
+Within 50 miles
+
+Filter & Sort
+
+Your Availability
+
+Morn
+
+Aft
+
+Eve
+
+All
+
+Sun
+
+Mon
+
+Tue
+
+Wed
+
+Thu
+
+Fri
+
+Sat
+
+All
+
+Duration
+
+0-1 hour
+
+1-2 hours
+
+2-3 hours
+
+3-4 hours
+
+4+ hours
+
+Select options
+Select All
+0-1 hour
+1-2 hours
+2-3 hours
+3-4 hours
+4+ hours
+
+Type of Opportunity
+
+Issue Area(s) to Address
+
+Hunger & Homelessness
+Select options
+Select All
+Hunger & Homelessness
+
+Skills
+
+Select options
+Unselect all
+
+Activity Type
+
+Select options
+Unselect all
+
+Participate in Event
+
+Select options
+Unselect all
+
+Managed By
+
+Managed by Us
+
+Managed by Partner
+
+Select options
+Select All
+Managed by Us
+Managed by Partner
+
+Who to Serve
+
+Organization(s) to Serve
+
+Capital Area Food Bank
+Select options
+Select All
+Capital Area Food Bank
+
+Age Group
+
+All ages
+Select options
+Select All
+All ages
+
+Gender
+
+All Genders Served
+Select options
+Select All
+All Genders Served
+
+Population
+
+Select options
+Unselect all
+
+Appropriate For
+
+Age of Volunteer
+
+Other Criteria
+
+Court Ordered Volunteers
+
+Groups
+
+Seniors/RSVP
+
+View by
+
+Volunteer Opportunities
+
+Training
+
+Already Filled
+
+Special Events
+
+Submit
+
+Additional Filters
+
+Have an invitation code?
+
+                                            Enter Code
+
+*
+
+*
+ This will override all other search criteria.
+
+Display Invited Opportunities
+
+My Searches
+
+My Saved Searches
+
+Select a search
+
+                                                    Share Search Results
+
+                                                        (Copy)
+
+Get shareable link!
+
+                                                    Save Current Search As
+
+Save Search
+
 Oct 25, 2026
 month
 week
@@ -467,30 +934,93 @@ today
 Sunday
 
 Good food today. Brighter futures tomorrow.
+
 Location
+
 District of Columbia
 
 4900 Puerto Rico Avenue, NE
-Washington, DC 20017
-P: (202) 644-9800
-F: (202) 529-1767
 
- 
+Washington, DC 20017
+
+P: (202) 644-9800
+
+F: (202) 529-1767
 
 © Capital Area Food Bank – Washington, DC Metro Area
 
 Donor Info
 
-United Way: #8052
-CFC: #30794
-Tax ID: #52-1167581
+United Way:
+ #8052
+
+CFC:
+ #30794
+
+Tax ID:
+ #52-1167581
+
+Log in with
+
+Google
+
+Apple
+
+Or log in using your email address
+
+Email Address
+
+Password
+
+Forgot your password?                
+
+Not a member?
+
+Register
+
+×
+
+Common Messages
+
+Select a month
+
+Select
+
+January
+
+February
+
+March
+
+April
+
+May
+
+June
+
+July
+
+August
+
+September
+
+October
+
+November
+
+December
+
+×
+
+Copied!
 
 ----
 
-protected by reCAPTCHA
-This site is exceeding reCAPTCHA Enterprise free quota.
+reCAPTCHA
 
-----
-
-function q(e,t){function c(e){return e=e.replace(/([\[|\]])/g,"\\$1"),!!(e=t.cookie[r](new RegExp(e+"=([^;]*)")))&&e[1]}var i="replace",r="match",n="setAttribute",a=navigator.userAgent,d=e.pathname,l=e.host,e=e.hash,o=e[r](/[#&]cid=([^&]*)/)[1],s=e[r](/[#&]cls=([^&]*)/),p=e[r](/[#&]ver=([^&]*)/)[1],m=e[r](/[#&]lbl=([^&]*)/)[1],E=e[r](/[#&]cc=([^&]*)/)[1],h=e[r](/[#&]tt=([^&]*)/)[1],g=(e[r](/[#&]rc=([^&]*)/)&&e[r](/[#&]rc=([^&]*)/)[1],e[r](/[#&]w=([^&]*)/)),A=e[r](/[#&]ell=([^&]*)/)[1],C=decodeURIComponent(e[r](/[#&]cck=([^&]*)/)[1]),C=c(m+"Acc3PC")||c(C),a=/^(?!.*(?:chromium|opr|Edg)).*chrome/i.test(a);!C&&a?(C=t.createElement("img"),a="//"+l+"/"+A+"/a.gif?aqet=priv_block_3pcookie&r="+(new Date).getTime()+"&cid="+o+"&tt="+h+(s?"&cls="+s[1]:""),C[n]("src",a),C[n]("title","userblk3PC"),t.body.appendChild(C)):(h=(A=t.body.appendChild(t.createElement("IFRAME"))).contentWindow.document,A[n]("id","i"+m+"frame"),A[n]("title","i"+m+"frame"),A.style.cssText="style:display:none;width:0px;height:0px;left:0px;",a="//"+l+d[i](/\/?(?:.*\/)*(.*)/,"/"+p+"/a"+(-1<((e,t)=>{for(var c=0;c<e.length;c++)if(e[c]===t)return c;return-1})(["US","GB","BR","CA","IN","FR","IT","PH","DE","AU","ES","MX","ID","NL","GR","MY","SG","TR","TH","RU","RO","BE","VN","SA","EG","AR","TW","SE","KR","PL","CO","PK","AE","BD","PT","CL","PE","NZ","JP","IE","CH","DK","GE","NO","FI","JO","RS","IS","UA","IL","HK","DZ","VE","AT","NP","HU","MA","CZ","ZA","CN","BG","CY","LK","QA","EC","HR","EE","LV","LI","LU","LT","MT","SK","SI"],E)?"/"+E:"")+"/$1")[i](/(\.dhj|_\.htm)/,"_.js")[i](/^((?:\/[a-zA-Z0-9.]+)*\/t?)(?:c)(s?.+)$/,"$1$2")+"?cid="+o+(s?"&cls="+s[1]:"")+(g?"&w="+g[1]:""),a=(a+=e+"&htmReqTime="+(new Date).getTime())[i](/\\/g,"\\\\")[i](/&/g,"&amp;")[i](/'/g,"\\'"),h.open().write("<body onload=\"var d=document,s=d.getElementsByTagName('head')[0].appendChild(d.createElement('script'));s.id='i"+m+"scrpt'; s.title='i"+m+"scrpt';s.src='"+a+"'\">"),h.close())}
-
+Recaptcha requires verification. 
+protected by 
+reCAPTCHA
+This site is exceeding 
+reCAPTCHA Enterprise free quota
+.

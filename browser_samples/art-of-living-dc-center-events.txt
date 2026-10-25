@@ -1,7 +1,8 @@
 Art of Living DC Center (events)
 https://members.us.artofliving.org/us-en/centers/events/a054600000C7j5HAAR?timeZone=EST&viewMode=cards&embed=true
-rendered 2026-10-25 00:13Z  status=200 chars=463 iframes=0 srcdoc=0 next=False error=
+rendered 2026-10-25 00:21Z  status=200 chars=562 iframes=2 srcdoc=0 next=False error=
 
+Washington DC National - Event Dates and Registration
 All
 Courses
 Meetups
@@ -9,6 +10,7 @@ Events
 Cards
 List
 Calendar
+Save Changes
 Center
 Washington DC National
 Event Format
@@ -18,20 +20,27 @@ Weekend Courses / Events
 Select...
 Time Zone
 Eastern
+Filter
+1
 Eastern
 Event
 Full Moon Meditation
-IN-PERSON
+In-Person
 2401 15th Street Northwest, Washington, 20009
 Catalina Lozano
 10/25 Sunday
 , 7:30 PM - 9:00 PM ET
+Enroll
 Event
 Full Moon Meditation
-IN-PERSON
+In-Person
 2401 15th Street Northwest, Washington, 20009
 Catalina Lozano
 10/26 Monday
 , 7:30 PM - 8:30 PM ET
-
+Enroll
 No more items to display.
+
+----
+
+ns
