@@ -1,8 +1,9 @@
 Source,Method,Status,Events,Seconds,Error,Sample,Run at
-Hollywood Ballroom,xhr,ERROR,0,150.0,timeout after 150s,,2026-10-24 20:21
-Capital Area Food Bank,xhr,ERROR,0,150.0,timeout after 150s,,2026-10-24 20:21
-Eaton Wellness,xhr,LIVE,62,1.0,,"2026-10-24 Invigorating Flow Yoga with Karen Chiang; 2026-10-24 Yogalates Flow with Karen Chiang; 2026-10-24 Good Old Soil: ""Made in Lantau"" photo ex",2026-10-24 20:21
-DC Public Library: DC Reads,xhr,LIVE,29,1.4,,2026-10-24 Friends Book Sale; 2026-10-24 Reading All-Stars with Northstar; 2026-10-24 Friends of Tenley Library Book Sale,2026-10-24 20:21
-Kramers,xhr,ERROR,0,150.0,timeout after 150s,,2026-10-24 20:21
-Mexican Cultural Institute,xhr,ERROR,0,150.0,timeout after 150s,,2026-10-24 20:21
-Victory Comics,ical,LIVE,40,3.0,,2026-10-28 MTG Standard Constructed Tournament; 2026-11-04 MTG Standard Constructed Tournament; 2026-11-11 MTG Standard Constructed Tournament,2026-10-24 20:21
+Hollywood Ballroom,xhr,ERROR,0,1.0,HTTPError: HTTP Error 404: ,,2026-10-24 20:25
+Capital Area Food Bank,xhr,EMPTY,0,1.0,,,2026-10-24 20:25
+Eaton Wellness,xhr,LIVE,27,1.0,,"2026-10-26 A Tibetan Bowl Sound Bath for Mental Hea; 2026-10-27 Yoga: Move, breathe, and reconnect, en e; 2026-10-27 Yogalates with Kaya:
+The mindfulness of ",2026-10-24 20:25
+DC Public Library: DC Reads,xhr,LIVE,29,0.8,,2026-10-24 Friends Book Sale; 2026-10-24 Reading All-Stars with Northstar; 2026-10-24 Friends of Tenley Library Book Sale,2026-10-24 20:25
+Kramers,xhr,EMPTY,0,0.5,,,2026-10-24 20:25
+Mexican Cultural Institute,xhr,ERROR,0,1.4,HTTPError: HTTP Error 400: ,,2026-10-24 20:25
+Victory Comics,ical,LIVE,40,2.6,,2026-11-03 Ladies Night with Victory Comics; 2026-10-28 MTG Standard Constructed Tournament; 2026-11-04 MTG Standard Constructed Tournament,2026-10-24 20:25
