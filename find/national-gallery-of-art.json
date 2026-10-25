@@ -1,0 +1,58 @@
+{
+ "row": "24",
+ "name": "National Gallery of Art",
+ "seed_url": "https://www.nga.gov/calendar",
+ "programs": "National Gallery Nights",
+ "access": "Public; capture lottery deadlines",
+ "found": "2026-10-25 02:00Z",
+ "search_hits": [],
+ "search_error": "",
+ "probes": [
+  {
+   "url": "https://www.nga.gov/wp-json/tribe/events/v1/events?per_page=10",
+   "status": "HTTPError",
+   "events": 0
+  },
+  {
+   "url": "https://www.nga.gov/events/?ical=1",
+   "status": "HTTPError",
+   "events": 0
+  },
+  {
+   "url": "https://www.nga.gov/?ical=1",
+   "status": "HTTPError",
+   "events": 0
+  }
+ ],
+ "pages": [
+  {
+   "url": "https://www.nga.gov/calendar",
+   "status": null,
+   "final_url": "",
+   "title": "",
+   "dates": 0,
+   "jsonld": 0,
+   "jsonld_samples": [],
+   "hints": [],
+   "iframes": [],
+   "event_links": [],
+   "platform": "",
+   "error": "HTTPError: HTTP Error 403: "
+  },
+  {
+   "url": "https://www.nga.gov/",
+   "status": null,
+   "final_url": "",
+   "title": "",
+   "dates": 0,
+   "jsonld": 0,
+   "jsonld_samples": [],
+   "hints": [],
+   "iframes": [],
+   "event_links": [],
+   "platform": "",
+   "error": "HTTPError: HTTP Error 403: "
+  }
+ ],
+ "best_page": "https://www.nga.gov/calendar"
+}

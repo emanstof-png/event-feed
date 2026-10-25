@@ -1,0 +1,157 @@
+{
+ "row": "12",
+ "name": "Swedish-American Chamber of Commerce DC",
+ "seed_url": "https://www.sacc-dc.org/",
+ "programs": "Business and social events",
+ "access": "Ask about nonmember admission",
+ "found": "2026-10-25 01:59Z",
+ "search_hits": [],
+ "search_error": "",
+ "probes": [
+  {
+   "url": "https://www.sacc-dc.org/wp-json/tribe/events/v1/events?per_page=10",
+   "status": 200,
+   "events": 0,
+   "head": "\r\n\t\t<!DOCTYPE html>\n<html lang=\"en\" class=\"html_live mobile_version_1\">\n<head>\n\n\t\n\t\n\t\r\n<!-- Google Tag Manager - Weqlo version 1.1.2 -->\r\n<script>\r\n\twindow.dataLayer = window.dataLayer || [];\r\n\tfunction gtag(){dataLayer.push(arguments);}\r\n\t\r\n\r\n\t(function(w,d,s,l,i){\r\n\t\tw[l]=w[l]||[];\r\n\t\tw[l].push({\r"
+  },
+  {
+   "url": "https://www.sacc-dc.org/events/?ical=1",
+   "status": 200,
+   "events": 0,
+   "head": "\r\n\t\t<!DOCTYPE html>\n<html lang=\"en\" class=\"html_live mobile_version_1\">\n<head>\n\n\t\n\t\n\t\r\n<!-- Google Tag Manager - Weqlo version 1.1.2 -->\r\n<script>\r\n\twindow.dataLayer = window.dataLayer || [];\r\n\tfunction gtag(){dataLayer.push(arguments);}\r\n\t\r\n\r\n\t(function(w,d,s,l,i){\r\n\t\tw[l]=w[l]||[];\r\n\t\tw[l].push({\r"
+  },
+  {
+   "url": "https://www.sacc-dc.org/?ical=1",
+   "status": 200,
+   "events": 0,
+   "head": "\r\n\t\t<!DOCTYPE html>\n<html lang=\"en\" class=\"html_live mobile_version_1\">\n<head>\n\n\t\n\t\n\t\r\n<!-- Google Tag Manager - Weqlo version 1.1.2 -->\r\n<script>\r\n\twindow.dataLayer = window.dataLayer || [];\r\n\tfunction gtag(){dataLayer.push(arguments);}\r\n\t\r\n\r\n\t(function(w,d,s,l,i){\r\n\t\tw[l]=w[l]||[];\r\n\t\tw[l].push({\r"
+  }
+ ],
+ "pages": [
+  {
+   "url": "https://www.sacc-dc.org/",
+   "status": 200,
+   "final_url": "https://www.sacc-dc.org/",
+   "title": "Home | SACC Washington DC",
+   "dates": 0,
+   "jsonld": 0,
+   "jsonld_samples": [],
+   "hints": [],
+   "iframes": [],
+   "event_links": [
+    {
+     "text": "Events",
+     "url": "https://www.sacc-dc.org/events"
+    },
+    {
+     "text": "Annual Crayfish Reception",
+     "url": "https://www.sacc-dc.org/events/annual-crayfish-reception"
+    },
+    {
+     "text": "Annual SACC-DC Open",
+     "url": "https://www.sacc-dc.org/events/annual-sacc-dc-open"
+    }
+   ],
+   "platform": "",
+   "error": ""
+  },
+  {
+   "url": "https://www.sacc-dc.org/events",
+   "status": 200,
+   "final_url": "https://www.sacc-dc.org/events",
+   "title": "Events | SACC Washington DC",
+   "dates": 0,
+   "jsonld": 0,
+   "jsonld_samples": [],
+   "hints": [
+    "https://www.eventbrite.com/e/company-visit-at-saab-with-sacc-dc-tickets-885722599137"
+   ],
+   "iframes": [],
+   "event_links": [
+    {
+     "text": "Events",
+     "url": "https://www.sacc-dc.org/events"
+    },
+    {
+     "text": "Annual Crayfish Reception",
+     "url": "https://www.sacc-dc.org/events/annual-crayfish-reception"
+    },
+    {
+     "text": "Annual SACC-DC Open",
+     "url": "https://www.sacc-dc.org/events/annual-sacc-dc-open"
+    },
+    {
+     "text": "",
+     "url": "https://www.sacc-dc.org/events/wealth-management-webinar"
+    },
+    {
+     "text": "",
+     "url": "https://www.sacc-dc.org/events/yp-visit-to-the-world-bank"
+    },
+    {
+     "text": "",
+     "url": "https://www.eventbrite.com/e/company-visit-at-saab-with-sacc-dc-tickets-885722599137"
+    }
+   ],
+   "platform": "eventbrite",
+   "error": ""
+  },
+  {
+   "url": "https://www.sacc-dc.org/events/annual-crayfish-reception",
+   "status": 200,
+   "final_url": "https://www.sacc-dc.org/events/annual-crayfish-reception",
+   "title": "Annual Crayfish Party | SACC Washington DC",
+   "dates": 0,
+   "jsonld": 0,
+   "jsonld_samples": [],
+   "hints": [],
+   "iframes": [
+    "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d12419.930472452314!2d-77.058845!3d38.9015128!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89b7b64cf966e13d%3A0xe7ff22831016668b!2sHouse%20of%20Sweden!5e0!3m2!1sen!2sus!4v1723225088121!5m2!1sen!2sus"
+   ],
+   "event_links": [
+    {
+     "text": "Events",
+     "url": "https://www.sacc-dc.org/events"
+    },
+    {
+     "text": "Annual Crayfish Reception",
+     "url": "https://www.sacc-dc.org/events/annual-crayfish-reception"
+    },
+    {
+     "text": "Annual SACC-DC Open",
+     "url": "https://www.sacc-dc.org/events/annual-sacc-dc-open"
+    }
+   ],
+   "platform": "",
+   "error": ""
+  },
+  {
+   "url": "https://www.sacc-dc.org/events/annual-sacc-dc-open",
+   "status": 200,
+   "final_url": "https://www.sacc-dc.org/events/annual-sacc-dc-open",
+   "title": "Annual SACC-DC Golf Open | SACC Washington DC",
+   "dates": 0,
+   "jsonld": 0,
+   "jsonld_samples": [],
+   "hints": [],
+   "iframes": [],
+   "event_links": [
+    {
+     "text": "Events",
+     "url": "https://www.sacc-dc.org/events"
+    },
+    {
+     "text": "Annual Crayfish Reception",
+     "url": "https://www.sacc-dc.org/events/annual-crayfish-reception"
+    },
+    {
+     "text": "Annual SACC-DC Open",
+     "url": "https://www.sacc-dc.org/events/annual-sacc-dc-open"
+    }
+   ],
+   "platform": "",
+   "error": ""
+  }
+ ],
+ "best_page": "https://www.sacc-dc.org/"
+}

@@ -1,0 +1,554 @@
+{
+ "row": "7",
+ "name": "The Phillips Collection",
+ "seed_url": "https://www.phillipscollection.org/events",
+ "programs": "Contemporaries (ages 21-44)",
+ "access": "Public calendar plus member listings",
+ "found": "2026-10-25 01:59Z",
+ "search_hits": [],
+ "search_error": "",
+ "probes": [
+  {
+   "url": "https://www.phillipscollection.org/wp-json/tribe/events/v1/events?per_page=10",
+   "status": "HTTPError",
+   "events": 0
+  },
+  {
+   "url": "https://www.phillipscollection.org/events/?ical=1",
+   "status": 200,
+   "events": 0,
+   "head": "\n\n<!DOCTYPE html>\n<html lang=\"en\" dir=\"ltr\" prefix=\"og: https://ogp.me/ns#\">\n  <head>\n    <script> document.documentElement.className = document.documentElement.className.replace(/\\bno-js\\b/, 'js'); </script>\n    <meta charset=\"utf-8\" />\n<link rel=\"canonical\" href=\"https://www.phillipscollection.org"
+  },
+  {
+   "url": "https://www.phillipscollection.org/?ical=1",
+   "status": 200,
+   "events": 0,
+   "head": "\n\n<!DOCTYPE html>\n<html lang=\"en\" dir=\"ltr\" prefix=\"og: https://ogp.me/ns#\">\n  <head>\n    <script> document.documentElement.className = document.documentElement.className.replace(/\\bno-js\\b/, 'js'); </script>\n    <meta charset=\"utf-8\" />\n<link rel=\"shortlink\" href=\"https://www.phillipscollection.org"
+  }
+ ],
+ "pages": [
+  {
+   "url": "https://www.phillipscollection.org/events",
+   "status": 200,
+   "final_url": "https://www.phillipscollection.org/events",
+   "title": "Events | The Phillips Collection",
+   "dates": 13,
+   "jsonld": 0,
+   "jsonld_samples": [],
+   "hints": [],
+   "iframes": [],
+   "event_links": [
+    {
+     "text": "Exhibitions & Events",
+     "url": "https://www.phillipscollection.org/events-exhibitions"
+    },
+    {
+     "text": "Current Exhibitions",
+     "url": "https://www.phillipscollection.org/exhibitions"
+    },
+    {
+     "text": "Upcoming Exhibitions",
+     "url": "https://www.phillipscollection.org/exhibitions/upcoming"
+    },
+    {
+     "text": "Past Exhibitions",
+     "url": "https://www.phillipscollection.org/exhibitions/past"
+    },
+    {
+     "text": "360-Degree Tours",
+     "url": "https://www.phillipscollection.org/exhibitions/360-degree-tours"
+    },
+    {
+     "text": "Educator Programs and Resources",
+     "url": "https://www.phillipscollection.org/educator-programs-and-resources"
+    },
+    {
+     "text": "Community Exhibitions",
+     "url": "https://www.phillipscollection.org/community-exhibitions"
+    },
+    {
+     "text": "Sunday Concert",
+     "url": "https://www.phillipscollection.org/event/2026-10-25-radu-ratoi-benett-tsai"
+    },
+    {
+     "text": "Art & Wellness",
+     "url": "https://www.phillipscollection.org/event/2026-10-26-reframing-care"
+    },
+    {
+     "text": "5-Week Educator Course",
+     "url": "https://www.phillipscollection.org/event/2026-10-28-educator-course"
+    },
+    {
+     "text": "Living Room",
+     "url": "https://www.phillipscollection.org/event/2026-10-30-living-room"
+    },
+    {
+     "text": "Sunday Concert",
+     "url": "https://www.phillipscollection.org/event/2026-11-01-nikolaj-hess-trio"
+    },
+    {
+     "text": "Teacher Program",
+     "url": "https://www.phillipscollection.org/event/2026-11-03-evening-educators"
+    },
+    {
+     "text": "Phillips after 5",
+     "url": "https://www.phillipscollection.org/event/2026-11-05-phillips-after-5"
+    },
+    {
+     "text": "Phillips@THEARC Workshop",
+     "url": "https://www.phillipscollection.org/event/2026-11-07-studio-saturday"
+    },
+    {
+     "text": "Member Tour",
+     "url": "https://www.phillipscollection.org/event/2026-11-08-member-tour"
+    },
+    {
+     "text": "Sunday Concert",
+     "url": "https://www.phillipscollection.org/event/2026-11-08-prism-piano-trio"
+    },
+    {
+     "text": "Phillips@THEARC",
+     "url": "https://www.phillipscollection.org/event/2026-11-11-crochet-circle"
+    },
+    {
+     "text": "Wellness",
+     "url": "https://www.phillipscollection.org/event/2026-11-11-wellness-club"
+    },
+    {
+     "text": "Current page\n             1",
+     "url": "https://www.phillipscollection.org/events?page=0"
+    },
+    {
+     "text": "Page\n             2",
+     "url": "https://www.phillipscollection.org/events?page=1"
+    },
+    {
+     "text": "Page\n             3",
+     "url": "https://www.phillipscollection.org/events?page=2"
+    },
+    {
+     "text": "Page\n             4",
+     "url": "https://www.phillipscollection.org/events?page=3"
+    },
+    {
+     "text": "Page\n             5",
+     "url": "https://www.phillipscollection.org/events?page=4"
+    }
+   ],
+   "platform": "drupal blackbaud",
+   "error": ""
+  },
+  {
+   "url": "https://www.phillipscollection.org/",
+   "status": 200,
+   "final_url": "https://www.phillipscollection.org/",
+   "title": "The Phillips Collection",
+   "dates": 16,
+   "jsonld": 0,
+   "jsonld_samples": [],
+   "hints": [],
+   "iframes": [
+    "https://www.youtube.com/embed/j5ziyGVjPDc",
+    "https://www.youtube.com/embed/XvzGAbl355U",
+    "https://www.youtube.com/embed/IzxCRjDr6iU"
+   ],
+   "event_links": [
+    {
+     "text": "Exhibitions & Events",
+     "url": "https://www.phillipscollection.org/events-exhibitions"
+    },
+    {
+     "text": "Current Exhibitions",
+     "url": "https://www.phillipscollection.org/exhibitions"
+    },
+    {
+     "text": "Upcoming Exhibitions",
+     "url": "https://www.phillipscollection.org/exhibitions/upcoming"
+    },
+    {
+     "text": "Past Exhibitions",
+     "url": "https://www.phillipscollection.org/exhibitions/past"
+    },
+    {
+     "text": "360-Degree Tours",
+     "url": "https://www.phillipscollection.org/exhibitions/360-degree-tours"
+    },
+    {
+     "text": "Events",
+     "url": "https://www.phillipscollection.org/events"
+    },
+    {
+     "text": "Educator Programs and Resources",
+     "url": "https://www.phillipscollection.org/educator-programs-and-resources"
+    },
+    {
+     "text": "Community Exhibitions",
+     "url": "https://www.phillipscollection.org/community-exhibitions"
+    },
+    {
+     "text": "Avery, Gottlieb & Rothko: By the Sea",
+     "url": "https://www.phillipscollection.org/event/2026-10-24-avery-gottlieb-rothko"
+    },
+    {
+     "text": "Community Exhibition",
+     "url": "https://www.phillipscollection.org/event/2026-08-15-creative-aging"
+    },
+    {
+     "text": "Sunday Concert",
+     "url": "https://www.phillipscollection.org/event/2026-10-25-radu-ratoi-benett-tsai"
+    },
+    {
+     "text": "Art & Wellness",
+     "url": "https://www.phillipscollection.org/event/2026-10-26-reframing-care"
+    },
+    {
+     "text": "Teacher Program",
+     "url": "https://www.phillipscollection.org/event/2026-11-03-evening-educators"
+    },
+    {
+     "text": "The Migration Series",
+     "url": "https://lawrencemigration.phillipscollection.org/"
+    },
+    {
+     "text": "Exhibitions & Events",
+     "url": "https://www.phillipscollection.org/blog/2026-08-28-tomorrow-sun-will-rise-alexandra-silverthorne"
+    },
+    {
+     "text": "Exhibitions & Events",
+     "url": "https://www.phillipscollection.org/blog/2026-08-17-tomorrow-sun-will-rise-ringo-lisko"
+    },
+    {
+     "text": "Exhibitions & Events",
+     "url": "https://www.phillipscollection.org/blog/2026-08-17-tomorrow-sun-will-rise-alexandra-chiou"
+    },
+    {
+     "text": "",
+     "url": "https://dc.citycast.fm/podcasts/phillips-collection-highlights-local-artists-in-new-exhibition"
+    },
+    {
+     "text": "",
+     "url": "https://observer.com/2026/06/art-exhibition-review-joan-miro-and-the-united-states-the-phillips-collection/"
+    }
+   ],
+   "platform": "drupal blackbaud",
+   "error": ""
+  },
+  {
+   "url": "https://www.phillipscollection.org/events-exhibitions",
+   "status": 200,
+   "final_url": "https://www.phillipscollection.org/exhibitions-events",
+   "title": "Exhibitions & Events | The Phillips Collection",
+   "dates": 11,
+   "jsonld": 0,
+   "jsonld_samples": [],
+   "hints": [],
+   "iframes": [],
+   "event_links": [
+    {
+     "text": "Exhibitions & Events",
+     "url": "https://www.phillipscollection.org/events-exhibitions"
+    },
+    {
+     "text": "Current Exhibitions",
+     "url": "https://www.phillipscollection.org/exhibitions"
+    },
+    {
+     "text": "Upcoming Exhibitions",
+     "url": "https://www.phillipscollection.org/exhibitions/upcoming"
+    },
+    {
+     "text": "Past Exhibitions",
+     "url": "https://www.phillipscollection.org/exhibitions/past"
+    },
+    {
+     "text": "360-Degree Tours",
+     "url": "https://www.phillipscollection.org/exhibitions/360-degree-tours"
+    },
+    {
+     "text": "Events",
+     "url": "https://www.phillipscollection.org/events"
+    },
+    {
+     "text": "Educator Programs and Resources",
+     "url": "https://www.phillipscollection.org/educator-programs-and-resources"
+    },
+    {
+     "text": "Community Exhibitions",
+     "url": "https://www.phillipscollection.org/community-exhibitions"
+    },
+    {
+     "text": "Community Exhibition",
+     "url": "https://www.phillipscollection.org/event/2026-08-15-creative-aging"
+    },
+    {
+     "text": "Special Exhibition",
+     "url": "https://www.phillipscollection.org/event/2026-10-24-avery-gottlieb-rothko"
+    },
+    {
+     "text": "Upcoming Exhibitions",
+     "url": "https://www.phillipscollection.org/upcoming-exhibitions"
+    },
+    {
+     "text": "Past Exhibitions",
+     "url": "https://www.phillipscollection.org/past-exhibitions"
+    },
+    {
+     "text": "Sunday Concert",
+     "url": "https://www.phillipscollection.org/event/2026-10-25-radu-ratoi-benett-tsai"
+    },
+    {
+     "text": "Art & Wellness",
+     "url": "https://www.phillipscollection.org/event/2026-10-26-reframing-care"
+    },
+    {
+     "text": "5-Week Educator Course",
+     "url": "https://www.phillipscollection.org/event/2026-10-28-educator-course"
+    },
+    {
+     "text": "Living Room",
+     "url": "https://www.phillipscollection.org/event/2026-10-30-living-room"
+    },
+    {
+     "text": "Sunday Concert",
+     "url": "https://www.phillipscollection.org/event/2026-11-01-nikolaj-hess-trio"
+    },
+    {
+     "text": "Teacher Program",
+     "url": "https://www.phillipscollection.org/event/2026-11-03-evening-educators"
+    }
+   ],
+   "platform": "drupal blackbaud",
+   "error": ""
+  },
+  {
+   "url": "https://www.phillipscollection.org/exhibitions",
+   "status": 200,
+   "final_url": "https://www.phillipscollection.org/exhibitions",
+   "title": "Exhibitions | The Phillips Collection",
+   "dates": 7,
+   "jsonld": 0,
+   "jsonld_samples": [],
+   "hints": [],
+   "iframes": [],
+   "event_links": [
+    {
+     "text": "Exhibitions & Events",
+     "url": "https://www.phillipscollection.org/events-exhibitions"
+    },
+    {
+     "text": "Upcoming Exhibitions",
+     "url": "https://www.phillipscollection.org/exhibitions/upcoming"
+    },
+    {
+     "text": "Past Exhibitions",
+     "url": "https://www.phillipscollection.org/exhibitions/past"
+    },
+    {
+     "text": "360-Degree Tours",
+     "url": "https://www.phillipscollection.org/exhibitions/360-degree-tours"
+    },
+    {
+     "text": "Events",
+     "url": "https://www.phillipscollection.org/events"
+    },
+    {
+     "text": "Educator Programs and Resources",
+     "url": "https://www.phillipscollection.org/educator-programs-and-resources"
+    },
+    {
+     "text": "Community Exhibitions",
+     "url": "https://www.phillipscollection.org/community-exhibitions"
+    },
+    {
+     "text": "Community Exhibition",
+     "url": "https://www.phillipscollection.org/event/2026-08-15-creative-aging"
+    },
+    {
+     "text": "Special Exhibition",
+     "url": "https://www.phillipscollection.org/event/2026-10-24-avery-gottlieb-rothko"
+    }
+   ],
+   "platform": "drupal blackbaud",
+   "error": ""
+  },
+  {
+   "url": "https://www.phillipscollection.org/exhibitions/upcoming",
+   "status": 200,
+   "final_url": "https://www.phillipscollection.org/exhibitions/upcoming",
+   "title": "Upcoming Exhibitions | The Phillips Collection",
+   "dates": 10,
+   "jsonld": 0,
+   "jsonld_samples": [],
+   "hints": [],
+   "iframes": [],
+   "event_links": [
+    {
+     "text": "Exhibitions & Events",
+     "url": "https://www.phillipscollection.org/events-exhibitions"
+    },
+    {
+     "text": "Current Exhibitions",
+     "url": "https://www.phillipscollection.org/exhibitions"
+    },
+    {
+     "text": "Past Exhibitions",
+     "url": "https://www.phillipscollection.org/exhibitions/past"
+    },
+    {
+     "text": "360-Degree Tours",
+     "url": "https://www.phillipscollection.org/exhibitions/360-degree-tours"
+    },
+    {
+     "text": "Events",
+     "url": "https://www.phillipscollection.org/events"
+    },
+    {
+     "text": "Educator Programs and Resources",
+     "url": "https://www.phillipscollection.org/educator-programs-and-resources"
+    },
+    {
+     "text": "Community Exhibitions",
+     "url": "https://www.phillipscollection.org/community-exhibitions"
+    },
+    {
+     "text": "Special Exhibition",
+     "url": "https://www.phillipscollection.org/event/2026-10-24-avery-gottlieb-rothko"
+    },
+    {
+     "text": "Staff Exhibition",
+     "url": "https://www.phillipscollection.org/event/2026-12-01-staff-show"
+    },
+    {
+     "text": "Special Exhibition",
+     "url": "https://www.phillipscollection.org/event/2027-02-27-beauford-delaney"
+    },
+    {
+     "text": "Special Exhibition",
+     "url": "https://www.phillipscollection.org/event/2027-06-26-juan-sanchez"
+    },
+    {
+     "text": "Special Exhibition",
+     "url": "https://www.phillipscollection.org/event/2027-10-16-vuillard-and-theater"
+    }
+   ],
+   "platform": "drupal blackbaud",
+   "error": ""
+  },
+  {
+   "url": "https://www.phillipscollection.org/exhibitions/past",
+   "status": 200,
+   "final_url": "https://www.phillipscollection.org/exhibitions/past",
+   "title": "Past Exhibitions | The Phillips Collection",
+   "dates": 24,
+   "jsonld": 0,
+   "jsonld_samples": [],
+   "hints": [],
+   "iframes": [],
+   "event_links": [
+    {
+     "text": "Exhibitions & Events",
+     "url": "https://www.phillipscollection.org/events-exhibitions"
+    },
+    {
+     "text": "Current Exhibitions",
+     "url": "https://www.phillipscollection.org/exhibitions"
+    },
+    {
+     "text": "Upcoming Exhibitions",
+     "url": "https://www.phillipscollection.org/exhibitions/upcoming"
+    },
+    {
+     "text": "360-Degree Tours",
+     "url": "https://www.phillipscollection.org/exhibitions/360-degree-tours"
+    },
+    {
+     "text": "Events",
+     "url": "https://www.phillipscollection.org/events"
+    },
+    {
+     "text": "Educator Programs and Resources",
+     "url": "https://www.phillipscollection.org/educator-programs-and-resources"
+    },
+    {
+     "text": "Community Exhibitions",
+     "url": "https://www.phillipscollection.org/community-exhibitions"
+    },
+    {
+     "text": "Special Exhibition",
+     "url": "https://www.phillipscollection.org/event/2026-08-01-juried-exhibition"
+    },
+    {
+     "text": "Special Exhibition",
+     "url": "https://www.phillipscollection.org/event/2026-03-21-miro-and-united-states"
+    },
+    {
+     "text": "Community Exhibition",
+     "url": "https://www.phillipscollection.org/event/2026-02-28-community-exhibition"
+    },
+    {
+     "text": "Special Exhibition",
+     "url": "https://www.phillipscollection.org/event/2026-01-17-peter-campus-there-somewhere"
+    },
+    {
+     "text": "Special Exhibition",
+     "url": "https://www.phillipscollection.org/event/2025-11-08-out-many-reframing-american-art-collection"
+    },
+    {
+     "text": "Phillips@THEARC Exhibition",
+     "url": "https://www.phillipscollection.org/event/2025-09-24-rik-freeman-wade-waters"
+    },
+    {
+     "text": "Staff Exhibition",
+     "url": "https://www.phillipscollection.org/event/2025-08-19-staff-show"
+    },
+    {
+     "text": "Special Exhibition",
+     "url": "https://www.phillipscollection.org/event/2025-06-28-vivian-browne-my-kind-protest"
+    },
+    {
+     "text": "Special Exhibition",
+     "url": "https://www.phillipscollection.org/event/2025-05-17-essex-hemphill-take-care-your-blessings"
+    },
+    {
+     "text": "Phillips@THEARC Exhibition",
+     "url": "https://www.phillipscollection.org/event/2025-03-12-artists-experience-brotherman-batman"
+    },
+    {
+     "text": "Special Exhibition",
+     "url": "https://www.phillipscollection.org/event/2025-02-22-timeless-mucha-magic-line"
+    },
+    {
+     "text": "Community Exhibition",
+     "url": "https://www.phillipscollection.org/event/2025-02-19-community-exhibition"
+    },
+    {
+     "text": "Current page\n             1",
+     "url": "https://www.phillipscollection.org/exhibitions/past?page=0"
+    },
+    {
+     "text": "Page\n             2",
+     "url": "https://www.phillipscollection.org/exhibitions/past?page=1"
+    },
+    {
+     "text": "Page\n             3",
+     "url": "https://www.phillipscollection.org/exhibitions/past?page=2"
+    },
+    {
+     "text": "Page\n             4",
+     "url": "https://www.phillipscollection.org/exhibitions/past?page=3"
+    },
+    {
+     "text": "Page\n             5",
+     "url": "https://www.phillipscollection.org/exhibitions/past?page=4"
+    },
+    {
+     "text": "Page\n             6",
+     "url": "https://www.phillipscollection.org/exhibitions/past?page=5"
+    }
+   ],
+   "platform": "drupal blackbaud",
+   "error": ""
+  }
+ ],
+ "best_page": "https://www.phillipscollection.org/exhibitions/past"
+}

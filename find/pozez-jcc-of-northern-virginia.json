@@ -1,0 +1,58 @@
+{
+ "row": "47",
+ "name": "Pozez JCC of Northern Virginia",
+ "seed_url": "https://www.thejccnv.org/calendar/",
+ "programs": "Adult programs; arts and gallery; JxJ Best of Fest (Fairfax)",
+ "access": "Public; dedupe JxJ against DCJCC",
+ "found": "2026-10-25 02:00Z",
+ "search_hits": [],
+ "search_error": "",
+ "probes": [
+  {
+   "url": "https://www.thejccnv.org/wp-json/tribe/events/v1/events?per_page=10",
+   "status": "DNSError",
+   "events": 0
+  },
+  {
+   "url": "https://www.thejccnv.org/events/?ical=1",
+   "status": "DNSError",
+   "events": 0
+  },
+  {
+   "url": "https://www.thejccnv.org/?ical=1",
+   "status": "DNSError",
+   "events": 0
+  }
+ ],
+ "pages": [
+  {
+   "url": "https://www.thejccnv.org/calendar/",
+   "status": null,
+   "final_url": "",
+   "title": "",
+   "dates": 0,
+   "jsonld": 0,
+   "jsonld_samples": [],
+   "hints": [],
+   "iframes": [],
+   "event_links": [],
+   "platform": "",
+   "error": "DNSError: Failed to perform, curl: (6) Could not resolve host: www.thejccnv.org. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+  },
+  {
+   "url": "https://www.thejccnv.org/",
+   "status": null,
+   "final_url": "",
+   "title": "",
+   "dates": 0,
+   "jsonld": 0,
+   "jsonld_samples": [],
+   "hints": [],
+   "iframes": [],
+   "event_links": [],
+   "platform": "",
+   "error": "DNSError: Failed to perform, curl: (6) Could not resolve host: www.thejccnv.org. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+  }
+ ],
+ "best_page": "https://www.thejccnv.org/calendar/"
+}

@@ -1,0 +1,48 @@
+{
+ "row": "4",
+ "name": "University Club of Washington DC",
+ "seed_url": "https://www.universityclubdc.com/",
+ "programs": "Member social and intellectual programming",
+ "access": "Restricted: no public dated calendar verified",
+ "found": "2026-10-25 01:59Z",
+ "search_hits": [],
+ "search_error": "",
+ "probes": [
+  {
+   "url": "https://www.universityclubdc.com/wp-json/tribe/events/v1/events?per_page=10",
+   "status": "HTTPError",
+   "events": 0
+  },
+  {
+   "url": "https://www.universityclubdc.com/events/?ical=1",
+   "status": 200,
+   "events": 0,
+   "head": "<!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Transitional//EN\" \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd\">\r\n<html xmlns=\"http://www.w3.org/1999/xhtml\"  lang=\"en\" xml:lang=\"en\">\r\n<head id=\"head\"><title>\r\n\tLogin - University Club of Washington, DC\r\n</title>\r\n\t     <!--jQuery include por"
+  },
+  {
+   "url": "https://www.universityclubdc.com/?ical=1",
+   "status": 200,
+   "events": 0,
+   "head": "<!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Transitional//EN\" \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd\">\r\n<html xmlns=\"http://www.w3.org/1999/xhtml\"  lang=\"en\" xml:lang=\"en\">\r\n<head id=\"head\"><title>\r\n\tA Tradition of Belonging - University Club of Washington, DC\r\n</title>\r\n\t     <!-"
+  }
+ ],
+ "pages": [
+  {
+   "url": "https://www.universityclubdc.com/",
+   "status": 200,
+   "final_url": "https://www.universityclubdc.com/",
+   "title": "A Tradition of Belonging - University Club of Washington, DC",
+   "dates": 0,
+   "jsonld": 0,
+   "jsonld_samples": [],
+   "hints": [],
+   "iframes": [
+    "https://player.vimeo.com/video/1020692462?h=202cdac62c&autoplay=1&loop=1&title=0&byline=0&portrait=0&muted=1&controls=0"
+   ],
+   "event_links": [],
+   "platform": "clubessential",
+   "error": ""
+  }
+ ],
+ "best_page": "https://www.universityclubdc.com/"
+}

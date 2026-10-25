@@ -1,0 +1,502 @@
+{
+ "row": "31",
+ "name": "Smithsonian American Art Museum / Renwick",
+ "seed_url": "https://americanart.si.edu/events",
+ "programs": "Featured events",
+ "access": "Public",
+ "found": "2026-10-25 02:00Z",
+ "search_hits": [],
+ "search_error": "",
+ "probes": [
+  {
+   "url": "https://americanart.si.edu/wp-json/tribe/events/v1/events?per_page=10",
+   "status": "HTTPError",
+   "events": 0
+  },
+  {
+   "url": "https://americanart.si.edu/events/?ical=1",
+   "status": 200,
+   "events": 0,
+   "head": "<!DOCTYPE html>\n<html  lang=\"en\" dir=\"ltr\" prefix=\"og: https://ogp.me/ns#\" lang=\"en\">\n<head>\n  <meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\">\n      <!-- Google Tag Manager -->\n    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':\n          new Date().getTime(),event:'gtm.js'}"
+  },
+  {
+   "url": "https://americanart.si.edu/?ical=1",
+   "status": 200,
+   "events": 0,
+   "head": "<!DOCTYPE html>\n<html  lang=\"en\" dir=\"ltr\" prefix=\"og: https://ogp.me/ns#\" lang=\"en\">\n<head>\n  <meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\">\n      <!-- Google Tag Manager -->\n    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':\n          new Date().getTime(),event:'gtm.js'}"
+  }
+ ],
+ "pages": [
+  {
+   "url": "https://americanart.si.edu/events",
+   "status": 200,
+   "final_url": "https://americanart.si.edu/search/events",
+   "title": "Search Events | Smithsonian American Art Museum and Renwick Gallery",
+   "dates": 3,
+   "jsonld": 0,
+   "jsonld_samples": [],
+   "hints": [],
+   "iframes": [],
+   "event_links": [
+    {
+     "text": "Handwork: Contemporary Craft at the Renwick Gallery",
+     "url": "https://americanart.si.edu/exhibitions/handwork"
+    },
+    {
+     "text": "Current Exhibitions",
+     "url": "https://americanart.si.edu/exhibitions"
+    },
+    {
+     "text": "ASL Tours",
+     "url": "https://americanart.si.edu/events/asl-tours-art-signs"
+    },
+    {
+     "text": "Dementia Programs",
+     "url": "https://americanart.si.edu/events/dementia-programs"
+    },
+    {
+     "text": "Verbal Description Tours",
+     "url": "https://americanart.si.edu/events/verbal-description-tours"
+    },
+    {
+     "text": "Upcoming Exhibitions",
+     "url": "https://americanart.si.edu/exhibitions/upcoming"
+    },
+    {
+     "text": "Traveling Exhibitions",
+     "url": "https://americanart.si.edu/exhibitions/traveling"
+    },
+    {
+     "text": "Past Exhibitions",
+     "url": "https://americanart.si.edu/exhibitions/past"
+    },
+    {
+     "text": "Fellowship Programs",
+     "url": "https://americanart.si.edu/research/fellowships"
+    },
+    {
+     "text": "Internship Programs",
+     "url": "https://americanart.si.edu/research/internships"
+    },
+    {
+     "text": "Event Venues and Space Rental",
+     "url": "https://americanart.si.edu/about/event-spaces"
+    },
+    {
+     "text": "Events",
+     "url": "https://americanart.si.edu/search/events?content_type=event"
+    },
+    {
+     "text": "Exhibitions",
+     "url": "https://americanart.si.edu/search/exhibitions?content_type=exhibition&sort=desc"
+    }
+   ],
+   "platform": "drupal",
+   "error": ""
+  },
+  {
+   "url": "https://americanart.si.edu/",
+   "status": 200,
+   "final_url": "https://americanart.si.edu/",
+   "title": "Smithsonian American Art Museum and Renwick Gallery",
+   "dates": 12,
+   "jsonld": 1,
+   "jsonld_samples": [
+    {
+     "name": "Nick Cave: Mammoth",
+     "start": "2026-02-13T19:34:08-05:00",
+     "url": "https://americanart.si.edu/home"
+    }
+   ],
+   "hints": [],
+   "iframes": [],
+   "event_links": [
+    {
+     "text": "Handwork: Contemporary Craft at the Renwick Gallery",
+     "url": "https://americanart.si.edu/exhibitions/handwork"
+    },
+    {
+     "text": "Event Calendar",
+     "url": "https://americanart.si.edu/search/events"
+    },
+    {
+     "text": "Current Exhibitions",
+     "url": "https://americanart.si.edu/exhibitions"
+    },
+    {
+     "text": "ASL Tours",
+     "url": "https://americanart.si.edu/events/asl-tours-art-signs"
+    },
+    {
+     "text": "Dementia Programs",
+     "url": "https://americanart.si.edu/events/dementia-programs"
+    },
+    {
+     "text": "Verbal Description Tours",
+     "url": "https://americanart.si.edu/events/verbal-description-tours"
+    },
+    {
+     "text": "Upcoming Exhibitions",
+     "url": "https://americanart.si.edu/exhibitions/upcoming"
+    },
+    {
+     "text": "Traveling Exhibitions",
+     "url": "https://americanart.si.edu/exhibitions/traveling"
+    },
+    {
+     "text": "Past Exhibitions",
+     "url": "https://americanart.si.edu/exhibitions/past"
+    },
+    {
+     "text": "Fellowship Programs",
+     "url": "https://americanart.si.edu/research/fellowships"
+    },
+    {
+     "text": "Internship Programs",
+     "url": "https://americanart.si.edu/research/internships"
+    },
+    {
+     "text": "Event Venues and Space Rental",
+     "url": "https://americanart.si.edu/about/event-spaces"
+    },
+    {
+     "text": "Nick Cave: Mammoth",
+     "url": "https://americanart.si.edu/exhibitions/nick-cave"
+    },
+    {
+     "text": "New Deal art",
+     "url": "https://americanart.si.edu/exhibitions/experience-america"
+    },
+    {
+     "text": "",
+     "url": "https://americanart.si.edu/exhibition/bicentennial-photography-surveys"
+    },
+    {
+     "text": "",
+     "url": "https://americanart.si.edu/exhibitions/shahzia-sikander-last-post"
+    },
+    {
+     "text": "",
+     "url": "https://americanart.si.edu/events/american-art-family-day-november-15-2026"
+    },
+    {
+     "text": "Get Tickets",
+     "url": "https://events.blackthorn.io/5f4ZMUx7/5a2bVR3slUr"
+    },
+    {
+     "text": "",
+     "url": "https://americanart.si.edu/events/handi-hour-november-17-2026"
+    },
+    {
+     "text": "Get Tickets",
+     "url": "https://events.blackthorn.io/5f4ZMUx7/5a2bVR3slpp"
+    }
+   ],
+   "platform": "drupal",
+   "error": ""
+  },
+  {
+   "url": "https://americanart.si.edu/exhibitions/handwork",
+   "status": 200,
+   "final_url": "https://americanart.si.edu/exhibitions/handwork",
+   "title": "Handwork: Contemporary Craft at the Renwick Gallery | Smithsonian American Art Museum",
+   "dates": 4,
+   "jsonld": 1,
+   "jsonld_samples": [
+    {
+     "name": "Handwork: Contemporary Craft at the Renwick Gallery",
+     "start": "2026-11-13T19:34:08-05:00",
+     "url": "https://americanart.si.edu/exhibitions/handwork"
+    }
+   ],
+   "hints": [],
+   "iframes": [],
+   "event_links": [
+    {
+     "text": "Event Calendar",
+     "url": "https://americanart.si.edu/search/events"
+    },
+    {
+     "text": "Current Exhibitions",
+     "url": "https://americanart.si.edu/exhibitions"
+    },
+    {
+     "text": "ASL Tours",
+     "url": "https://americanart.si.edu/events/asl-tours-art-signs"
+    },
+    {
+     "text": "Dementia Programs",
+     "url": "https://americanart.si.edu/events/dementia-programs"
+    },
+    {
+     "text": "Verbal Description Tours",
+     "url": "https://americanart.si.edu/events/verbal-description-tours"
+    },
+    {
+     "text": "Upcoming Exhibitions",
+     "url": "https://americanart.si.edu/exhibitions/upcoming"
+    },
+    {
+     "text": "Traveling Exhibitions",
+     "url": "https://americanart.si.edu/exhibitions/traveling"
+    },
+    {
+     "text": "Past Exhibitions",
+     "url": "https://americanart.si.edu/exhibitions/past"
+    },
+    {
+     "text": "Fellowship Programs",
+     "url": "https://americanart.si.edu/research/fellowships"
+    },
+    {
+     "text": "Internship Programs",
+     "url": "https://americanart.si.edu/research/internships"
+    },
+    {
+     "text": "Event Venues and Space Rental",
+     "url": "https://americanart.si.edu/about/event-spaces"
+    },
+    {
+     "text": "Tiara of Useful Knowledge, from the series City Flora: The P",
+     "url": "https://americanart.si.edu/artwork/tiara-useful-knowledge-series-city-flora-philadelphia-series-122826"
+    },
+    {
+     "text": "",
+     "url": "https://americanart.si.edu/events/handwork-contemporary-craft-open-house-november-13-2026"
+    },
+    {
+     "text": "Get Tickets",
+     "url": "https://events.blackthorn.io/5f4ZMUx7/5a2bVR3slGL"
+    }
+   ],
+   "platform": "drupal",
+   "error": ""
+  },
+  {
+   "url": "https://americanart.si.edu/exhibitions",
+   "status": 200,
+   "final_url": "https://americanart.si.edu/exhibitions",
+   "title": "Exhibitions | Smithsonian American Art Museum",
+   "dates": 6,
+   "jsonld": 0,
+   "jsonld_samples": [],
+   "hints": [],
+   "iframes": [],
+   "event_links": [
+    {
+     "text": "Handwork: Contemporary Craft at the Renwick Gallery",
+     "url": "https://americanart.si.edu/exhibitions/handwork"
+    },
+    {
+     "text": "Event Calendar",
+     "url": "https://americanart.si.edu/search/events"
+    },
+    {
+     "text": "ASL Tours",
+     "url": "https://americanart.si.edu/events/asl-tours-art-signs"
+    },
+    {
+     "text": "Dementia Programs",
+     "url": "https://americanart.si.edu/events/dementia-programs"
+    },
+    {
+     "text": "Verbal Description Tours",
+     "url": "https://americanart.si.edu/events/verbal-description-tours"
+    },
+    {
+     "text": "Upcoming Exhibitions",
+     "url": "https://americanart.si.edu/exhibitions/upcoming"
+    },
+    {
+     "text": "Traveling Exhibitions",
+     "url": "https://americanart.si.edu/exhibitions/traveling"
+    },
+    {
+     "text": "Past Exhibitions",
+     "url": "https://americanart.si.edu/exhibitions/past"
+    },
+    {
+     "text": "Fellowship Programs",
+     "url": "https://americanart.si.edu/research/fellowships"
+    },
+    {
+     "text": "Internship Programs",
+     "url": "https://americanart.si.edu/research/internships"
+    },
+    {
+     "text": "Event Venues and Space Rental",
+     "url": "https://americanart.si.edu/about/event-spaces"
+    },
+    {
+     "text": "",
+     "url": "https://americanart.si.edu/exhibition/bicentennial-photography-surveys"
+    },
+    {
+     "text": "",
+     "url": "https://americanart.si.edu/exhibitions/nick-cave"
+    },
+    {
+     "text": "",
+     "url": "https://americanart.si.edu/exhibitions/shahzia-sikander-last-post"
+    },
+    {
+     "text": "",
+     "url": "https://americanart.si.edu/exhibitions/glenn-kaino-bridge"
+    },
+    {
+     "text": "",
+     "url": "https://americanart.si.edu/exhibitions/modern-contemporary-art"
+    },
+    {
+     "text": "",
+     "url": "https://americanart.si.edu/exhibitions/folk-art"
+    },
+    {
+     "text": "",
+     "url": "https://americanart.si.edu/exhibition/18th-20th-century-art"
+    },
+    {
+     "text": "",
+     "url": "https://americanart.si.edu/exhibitions/experience-america"
+    }
+   ],
+   "platform": "drupal",
+   "error": ""
+  },
+  {
+   "url": "https://americanart.si.edu/events/asl-tours-art-signs",
+   "status": 200,
+   "final_url": "https://americanart.si.edu/search/events?event_series%5B%5D=2629",
+   "title": "Search Events | Smithsonian American Art Museum and Renwick Gallery",
+   "dates": 3,
+   "jsonld": 0,
+   "jsonld_samples": [],
+   "hints": [],
+   "iframes": [],
+   "event_links": [
+    {
+     "text": "Handwork: Contemporary Craft at the Renwick Gallery",
+     "url": "https://americanart.si.edu/exhibitions/handwork"
+    },
+    {
+     "text": "Current Exhibitions",
+     "url": "https://americanart.si.edu/exhibitions"
+    },
+    {
+     "text": "ASL Tours",
+     "url": "https://americanart.si.edu/events/asl-tours-art-signs"
+    },
+    {
+     "text": "Dementia Programs",
+     "url": "https://americanart.si.edu/events/dementia-programs"
+    },
+    {
+     "text": "Verbal Description Tours",
+     "url": "https://americanart.si.edu/events/verbal-description-tours"
+    },
+    {
+     "text": "Upcoming Exhibitions",
+     "url": "https://americanart.si.edu/exhibitions/upcoming"
+    },
+    {
+     "text": "Traveling Exhibitions",
+     "url": "https://americanart.si.edu/exhibitions/traveling"
+    },
+    {
+     "text": "Past Exhibitions",
+     "url": "https://americanart.si.edu/exhibitions/past"
+    },
+    {
+     "text": "Fellowship Programs",
+     "url": "https://americanart.si.edu/research/fellowships"
+    },
+    {
+     "text": "Internship Programs",
+     "url": "https://americanart.si.edu/research/internships"
+    },
+    {
+     "text": "Event Venues and Space Rental",
+     "url": "https://americanart.si.edu/about/event-spaces"
+    },
+    {
+     "text": "Events",
+     "url": "https://americanart.si.edu/search/events?content_type=event"
+    },
+    {
+     "text": "Exhibitions",
+     "url": "https://americanart.si.edu/search/exhibitions?content_type=exhibition&sort=desc"
+    }
+   ],
+   "platform": "drupal",
+   "error": ""
+  },
+  {
+   "url": "https://americanart.si.edu/events/dementia-programs",
+   "status": 200,
+   "final_url": "https://americanart.si.edu/search/events?event_series%5B%5D=2664",
+   "title": "Search Events | Smithsonian American Art Museum and Renwick Gallery",
+   "dates": 3,
+   "jsonld": 0,
+   "jsonld_samples": [],
+   "hints": [],
+   "iframes": [],
+   "event_links": [
+    {
+     "text": "Handwork: Contemporary Craft at the Renwick Gallery",
+     "url": "https://americanart.si.edu/exhibitions/handwork"
+    },
+    {
+     "text": "Current Exhibitions",
+     "url": "https://americanart.si.edu/exhibitions"
+    },
+    {
+     "text": "ASL Tours",
+     "url": "https://americanart.si.edu/events/asl-tours-art-signs"
+    },
+    {
+     "text": "Dementia Programs",
+     "url": "https://americanart.si.edu/events/dementia-programs"
+    },
+    {
+     "text": "Verbal Description Tours",
+     "url": "https://americanart.si.edu/events/verbal-description-tours"
+    },
+    {
+     "text": "Upcoming Exhibitions",
+     "url": "https://americanart.si.edu/exhibitions/upcoming"
+    },
+    {
+     "text": "Traveling Exhibitions",
+     "url": "https://americanart.si.edu/exhibitions/traveling"
+    },
+    {
+     "text": "Past Exhibitions",
+     "url": "https://americanart.si.edu/exhibitions/past"
+    },
+    {
+     "text": "Fellowship Programs",
+     "url": "https://americanart.si.edu/research/fellowships"
+    },
+    {
+     "text": "Internship Programs",
+     "url": "https://americanart.si.edu/research/internships"
+    },
+    {
+     "text": "Event Venues and Space Rental",
+     "url": "https://americanart.si.edu/about/event-spaces"
+    },
+    {
+     "text": "Events",
+     "url": "https://americanart.si.edu/search/events?content_type=event"
+    },
+    {
+     "text": "Exhibitions",
+     "url": "https://americanart.si.edu/search/exhibitions?content_type=exhibition&sort=desc"
+    }
+   ],
+   "platform": "drupal",
+   "error": ""
+  }
+ ],
+ "best_page": "https://americanart.si.edu/"
+}

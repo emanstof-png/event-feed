@@ -1,0 +1,59 @@
+{
+ "row": "40",
+ "name": "JNF-USA Greater Washington (JNFuture)",
+ "seed_url": "https://www.jnf.org/events",
+ "programs": "JNFuture (ages 22-40)",
+ "access": "Regional listings; filter program and geography",
+ "found": "2026-10-25 02:00Z",
+ "search_hits": [],
+ "search_error": "",
+ "probes": [
+  {
+   "url": "https://www.jnf.org/wp-json/tribe/events/v1/events?per_page=10",
+   "status": "HTTPError",
+   "events": 0
+  },
+  {
+   "url": "https://www.jnf.org/events/?ical=1",
+   "status": "HTTPError",
+   "events": 0
+  },
+  {
+   "url": "https://www.jnf.org/?ical=1",
+   "status": 200,
+   "events": 0,
+   "head": " <!DOCTYPE html> <html lang=\"en\"> <head> <meta charset=\"utf-8\" /> <meta name=\"viewport\" content=\"initial-scale=1,width=device-width\" /> <meta name=\"facebook-domain-verification\" content=\"9kg8l40e0ahfvsa1948wfdrbcas0et\" /> <title>\r\n\tDonate to Israel | Jewish National Fund-USA\r\n</title> <link href=\"/R"
+  }
+ ],
+ "pages": [
+  {
+   "url": "https://www.jnf.org/events",
+   "status": null,
+   "final_url": "",
+   "title": "",
+   "dates": 0,
+   "jsonld": 0,
+   "jsonld_samples": [],
+   "hints": [],
+   "iframes": [],
+   "event_links": [],
+   "platform": "",
+   "error": "HTTPError: HTTP Error 404: Not Found"
+  },
+  {
+   "url": "https://www.jnf.org/",
+   "status": 200,
+   "final_url": "https://www.jnf.org/",
+   "title": "Donate to Israel | Jewish National Fund-USA",
+   "dates": 0,
+   "jsonld": 0,
+   "jsonld_samples": [],
+   "hints": [],
+   "iframes": [],
+   "event_links": [],
+   "platform": "",
+   "error": ""
+  }
+ ],
+ "best_page": "https://www.jnf.org/"
+}

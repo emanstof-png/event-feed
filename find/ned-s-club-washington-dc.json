@@ -1,0 +1,66 @@
+{
+ "row": "2",
+ "name": "Ned's Club (Washington DC)",
+ "seed_url": "https://www.nedsclub.com/",
+ "programs": "Membership programming",
+ "access": "Restricted: member calendar exists, no public listing verified; 'Meetings and Events' page is venue hire",
+ "found": "2026-10-25 01:59Z",
+ "search_hits": [
+  "https://www.thened.com/dc/meetings-and-events",
+  "https://www.thened.com/dc",
+  "https://www.eventbrite.com/d/dc--washington/ned's-club/",
+  "https://www.businessinsider.com/neds-club-private-dc-members-only-etiquette-2025-7?op=1",
+  "https://www.washingtonian.com/2025/02/18/whats-the-deal-with-neds-club-and-other-new-private-spots/",
+  "https://www.washingtonsun.com/metro/neds-club-dc-exclusive-food-review"
+ ],
+ "search_error": "",
+ "probes": [
+  {
+   "url": "https://www.thened.com/wp-json/tribe/events/v1/events?per_page=10",
+   "status": "HTTPError",
+   "events": 0
+  },
+  {
+   "url": "https://www.thened.com/events/?ical=1",
+   "status": "HTTPError",
+   "events": 0
+  },
+  {
+   "url": "https://www.thened.com/?ical=1",
+   "status": 200,
+   "events": 0,
+   "head": "\r\n\r\n<!DOCTYPE html>\r\n<html lang=\"en\">\r\n<head>\r\n    <link rel=\"stylesheet\" href=\"/Assets/Ned/bundle/app.css?v=22102026110446\">\r\n    <title>The Ned | A Hotel and Members&#39; Club in London, New York and Doha</title>\r\n<meta name=\"description\" content=\"A Hotel and Members&#39; Club with locations in th"
+  }
+ ],
+ "pages": [
+  {
+   "url": "https://www.nedsclub.com/",
+   "status": 200,
+   "final_url": "https://www.thened.com/dc",
+   "title": "Ned's Club Washington, DC | Members' Club in President's Park",
+   "dates": 0,
+   "jsonld": 0,
+   "jsonld_samples": [],
+   "hints": [],
+   "iframes": [],
+   "event_links": [],
+   "platform": "",
+   "error": ""
+  },
+  {
+   "url": "https://www.thened.com/",
+   "status": 200,
+   "final_url": "https://www.thened.com/",
+   "title": "The Ned | A Hotel and Members' Club in London, New York and Doha",
+   "dates": 0,
+   "jsonld": 0,
+   "jsonld_samples": [],
+   "hints": [],
+   "iframes": [],
+   "event_links": [],
+   "platform": "",
+   "error": ""
+  }
+ ],
+ "best_page": "https://www.nedsclub.com/"
+}

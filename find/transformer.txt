@@ -1,0 +1,200 @@
+Transformer
+best page: https://www.transformerdc.org/events (status 200, 65 date strings, 0 JSON-LD events)
+fetched 2026-10-25 02:00Z
+
+
+Events — Transformer
+@media only screen and (max-width:767px) {
+  .item-pagination {
+    display: flex;
+    flex-direction: column;
+  }
+  .item-pagination-link {
+    max-width: 100%;
+  }
+  .item-pagination-link--prev {
+    margin-bottom: 16px;
+  }
+}
+0
+        Skip to Content
+        Exhibitions
+        Programs
+                  Artist Resources
+                  Exercises
+                  FlatFile
+                  Framework
+                  Siren Arts
+                  Temporal Projects
+                  International Projects
+                  Transformer20 The Book
+        Special Events
+                  Auction
+                  Collector's View
+                  Heartbreakers Ball
+        Get Involved
+        About
+                  Who We Are
+                  Press
+                  History
+                  Events
+Shop
+                    Donate
+Open Menu
+Close Menu
+        Exhibitions
+        Programs
+                  Artist Resources
+                  Exercises
+                  FlatFile
+                  Framework
+                  Siren Arts
+                  Temporal Projects
+                  International Projects
+                  Transformer20 The Book
+        Special Events
+                  Auction
+                  Collector's View
+                  Heartbreakers Ball
+        Get Involved
+        About
+                  Who We Are
+                  Press
+                  History
+                  Events
+Shop
+                    Donate
+Open Menu
+Close Menu
+                  Exhibitions
+Folder:
+Programs
+Back
+                        Artist Resources
+                        Exercises
+                        FlatFile
+                        Framework
+                        Siren Arts
+                        Temporal Projects
+                        International Projects
+                        Transformer20 The Book
+Folder:
+Special Events
+Back
+                        Auction
+                        Collector's View
+                        Heartbreakers Ball
+                  Get Involved
+Folder:
+About
+Back
+                        Who We Are
+                        Press
+                        History
+                        Events
+Shop
+                Donate
+UPCOMING EVENTS
+Nov
+21
+The Kaleidoscope Effect: Transformer’s 22nd Annual Auction Exhibition & Benefit Gala
+Saturday, November 21, 2026
+7:00 PM
+11:00 PM
+                The Line DC Hotel
+(map)
+Google Calendar
+ICS
+Join Transformer in celebration of our 22nd Annual Auction event, 
+The Kaleidoscope Effect, 
+featuring a two-week public Auction Exhibition, 
+at The Line DC Hotel, November 07 - 20, 2026 and Benefit Gala on Saturday November 21. 
+The Kaleidoscope Effect
+ offers heightened brand visibility as 100+ guests check in to The Line daily, and our closing Benefit Gala will have 500+ of DC’s top artists and collectors in attendance!
+          View Event →
+Oct
+10
+A SPARK OF CONSCIOUSNESS: Healing The Soul, Community Open House Reception
+Saturday, October 10, 2026
+12:00 PM
+6:00 PM
+                Transformer
+(map)
+Google Calendar
+ICS
+Join us for the Community Open House reception of 
+A SPARK OF CONSCIOUSNESS: Healing The Soul
+ by 
+Laurence Elle Groux
+ from 5 — 7 PM.
+          View Event →
+Oct
+9
+A SPARK OF CONSCIOUSNESS: Healing The Soul, VLC Preview Reception
+Friday, October 9, 2026
+5:00 PM
+7:00 PM
+                Transformer
+(map)
+Google Calendar
+ICS
+Join us for the 
+Visionary Leaders Circle Preview
+ of 
+A SPARK OF CONSCIOUSNESS: Healing The Soul
+ by 
+Laurence Elle Groux
+ from 5 — 7 PM.
+          View Event →
+Sep
+20
+CELEBRATION OF THE ARTS: Flatfile Art Sale + Custom Portraits!
+Sunday, September 20, 2026
+12:00 PM
+5:00 PM
+                Capital One Center
+(map)
+Google Calendar
+ICS
+Join us for a FLATFILE ART SALE as part of Capital One Center's Celebration of the Arts 2026, featuring CUSTOM PORTRAITS by FlatFile artist Marissa Stratton
+📍Capital One Center, Tysons, VA⁠
+          View Event →
+Sep
+19
+CELEBRATION OF THE ARTS: Flatfile Art Sale + Custom Portraits!
+Saturday, September 19, 2026
+12:00 PM
+6:00 PM
+Google Calendar
+ICS
+Join us for a FLATFILE ART SALE as part of Capital One Center's Celebration of the Arts 2026, featuring CUSTOM PORTRAITS by FlatFile artist Marissa Stratton
+📍Capital One Center, Tysons, VA⁠
+          View Event →
+Sep
+12
+ART ALL NIGHT: Extended Gallery Hours
+Saturday, September 12, 2026
+12:00 PM
+8:00 PM
+                Transformer
+(map)
+Google Calendar
+ICS
+ART ALL NIGHT, DC's Free Arts Festival will feature EXTENDED GALLERY HOURS TO 8PM at Transformer on Saturday, September 12! ⁠
+The festival takes place in all 8 wards with different activations on each night, bringing visual and performing arts, including painting, photography, sculpture, crafts, fashion, music, literary arts, dance, theater, film, and poetry, to indoor and outdoor public and private spaces, including local businesses and restaurants.⁠
+Stop by our gallery anytime between 12pm and 8pm and check out our current exhibit, "Comics, et cetera," the culminating exhibition of E23: DWIGHTMESS Comics Lab — the 23rd edition of Transformer's Exercises for Emerging Artists program.⁠
+          View Event →
+Sep
+10
+E23: Introduction to flipbooks with Adam Griffiths 
+Thursday, September 10, 2026
+6:00 PM
+7:00 PM
+                Transformer 
+(map)
+Google Calendar
+ICS
+Illustrator Adam Griffiths will lead an introductory lesson to flip book animation, sharing samples from his own collection, outlining several basic techniques for simulating movement in sequence, and tools for best practices.
+    RSVP here!
+The Exercises is a spring/summer peer mentorship program that Transformer launched in March 2004 to support a select group of DC area based artists at critical points or crossroads in their professional growth and development. Concentrating on a different artistic discipline each year of the program, the goal of the Exercises is to advance participating artists’ creative careers through rigorous peer artist mentorship.  
+The structure of the Ex

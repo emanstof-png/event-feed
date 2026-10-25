@@ -1,0 +1,333 @@
+{
+ "row": "27",
+ "name": "Transformer",
+ "seed_url": "https://www.transformerdc.org/",
+ "programs": "Exhibitions; openings",
+ "access": "Public",
+ "found": "2026-10-25 02:00Z",
+ "search_hits": [],
+ "search_error": "",
+ "probes": [
+  {
+   "url": "https://www.transformerdc.org/wp-json/tribe/events/v1/events?per_page=10",
+   "status": "HTTPError",
+   "events": 0
+  },
+  {
+   "url": "https://www.transformerdc.org/events/?ical=1",
+   "status": 200,
+   "events": 0,
+   "head": "<!doctype html>\n<html xmlns:og=\"http://opengraphprotocol.org/schema/\" xmlns:fb=\"http://www.facebook.com/2008/fbml\" lang=\"en-US\"  >\n  <head>\n    <meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge,chrome=1\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">\n    <!-- This is Squ"
+  },
+  {
+   "url": "https://www.transformerdc.org/?ical=1",
+   "status": 200,
+   "events": 0,
+   "head": "<!doctype html>\n<html xmlns:og=\"http://opengraphprotocol.org/schema/\" xmlns:fb=\"http://www.facebook.com/2008/fbml\" lang=\"en-US\"  >\n  <head>\n    <meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge,chrome=1\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">\n    <!-- This is Squ"
+  }
+ ],
+ "pages": [
+  {
+   "url": "https://www.transformerdc.org/",
+   "status": 200,
+   "final_url": "https://www.transformerdc.org/",
+   "title": "Transformer",
+   "dates": 9,
+   "jsonld": 0,
+   "jsonld_samples": [],
+   "hints": [],
+   "iframes": [],
+   "event_links": [
+    {
+     "text": "Exhibitions",
+     "url": "https://www.transformerdc.org/exhibitions-1"
+    },
+    {
+     "text": "Events",
+     "url": "https://www.transformerdc.org/events"
+    },
+    {
+     "text": "Folder: \n Programs",
+     "url": "https://www.transformerdc.org/programs"
+    },
+    {
+     "text": "Folder: \n Special Events",
+     "url": "https://www.transformerdc.org/special-events"
+    },
+    {
+     "text": "Learn more about advance Gala tickets\u00a0+ pre Gala special eve",
+     "url": "https://www.transformerdc.org/supportauction2026"
+    },
+    {
+     "text": "PURCHASE GALA TICKETS HERE!",
+     "url": "https://onecau.se/kaleidoscope-effect"
+    }
+   ],
+   "platform": "squarespace eventbrite",
+   "error": ""
+  },
+  {
+   "url": "https://www.transformerdc.org/exhibitions-1",
+   "status": 200,
+   "final_url": "https://www.transformerdc.org/exhibitions-1",
+   "title": "Exhibitions \u2014 Transformer",
+   "dates": 5,
+   "jsonld": 0,
+   "jsonld_samples": [],
+   "hints": [],
+   "iframes": [],
+   "event_links": [
+    {
+     "text": "Events",
+     "url": "https://www.transformerdc.org/events"
+    },
+    {
+     "text": "Folder: \n Programs",
+     "url": "https://www.transformerdc.org/programs"
+    },
+    {
+     "text": "Folder: \n Special Events",
+     "url": "https://www.transformerdc.org/special-events"
+    }
+   ],
+   "platform": "squarespace eventbrite",
+   "error": ""
+  },
+  {
+   "url": "https://www.transformerdc.org/events",
+   "status": 200,
+   "final_url": "https://www.transformerdc.org/events",
+   "title": "Events \u2014 Transformer",
+   "dates": 65,
+   "jsonld": 0,
+   "jsonld_samples": [],
+   "hints": [
+    "https://www.transformerdc.org/events/the-kaleidoscope-effect-transformers-22nd-annual-auction-exhibition-benefit-gala?format=ical",
+    "https://www.transformerdc.org/events/ujls7tqlw272n027axhqe024yo6mki?format=ical",
+    "https://www.transformerdc.org/events/a-spark-of-consciousness-healing-the-soul-vlc-preview-reception?format=ical",
+    "https://www.transformerdc.org/events/celebration-of-the-arts-flatfile-art2?format=ical",
+    "https://www.transformerdc.org/events/celebration-of-the-arts-flatfile-art-sale-custom-portraits?format=ical",
+    "https://www.transformerdc.org/events/art-all-night-extended-gallery-hours?format=ical",
+    "https://www.transformerdc.org/events/e23-visionary-leaders-circle-preview-eemyw-cssbt-ycncs-46rkk-d3blg-rcr72-ctz2g?format=ical",
+    "https://www.transformerdc.org/events/e23-visionary-leaders-circle-preview-eemyw-cssbt-ycncs-46rkk-d3blg-rcr72?format=ical",
+    "https://www.transformerdc.org/events/e23-visionary-leaders-circle-preview-eemyw-cssbt-ycncs-46rkk-d3blg?format=ical",
+    "https://www.transformerdc.org/events/states-of-matter-artist-talk-by-niki-afsar-7j73f-9cxpz-w96ny-f559a-yppyt-s5hz9?format=ical",
+    "https://www.transformerdc.org/events/states-of-matter-artist-talk-by-niki-afsar-f8ygm-7rm78-wab8g-85tgf-wrf88?format=ical",
+    "https://www.transformerdc.org/events/e23-visionary-leaders-circle-preview-eemyw-cssbt-ycncs-46rkk?format=ical",
+    "https://www.transformerdc.org/events/states-of-matter-artist-talk-by-niki-afsar-7j73f-9cxpz-w96ny-f559a-yppyt?format=ical",
+    "https://www.transformerdc.org/events/states-of-matter-artist-talk-by-niki-afsar-f8ygm-7rm78-wab8g-85tgf?format=ical",
+    "https://www.transformerdc.org/events/states-of-matter-artist-talk-by-niki-afsar-7j73f-9cxpz-w96ny-f559a?format=ical",
+    "https://www.transformerdc.org/events/states-of-matter-artist-talk-by-niki-afsar-f8ygm-7rm78-wab8g?format=ical",
+    "https://www.transformerdc.org/events/e23-visionary-leaders-circle-preview-eemyw-cssbt-ycncs?format=ical",
+    "https://www.transformerdc.org/events/states-of-matter-artist-talk-by-niki-afsar-7j73f-9cxpz-w96ny?format=ical",
+    "https://www.transformerdc.org/events/states-of-matter-artist-talk-by-niki-afsar-f8ygm-7rm78?format=ical",
+    "https://www.transformerdc.org/events/e23-visionary-leaders-circle-preview-eemyw-cssbt?format=ical",
+    "https://www.transformerdc.org/events/e23-visionary-leaders-circle-preview-eemyw?format=ical",
+    "https://www.transformerdc.org/events/e23-visionary-leaders-circle-preview?format=ical",
+    "https://www.transformerdc.org/events/states-of-matter-artist-talk-by-niki-afsar-7j73f-9cxpz?format=ical",
+    "https://www.transformerdc.org/events/states-of-matter-artist-talk-by-niki-afsar-f8ygm?format=ical",
+    "https://www.transformerdc.org/events/states-of-matter-artist-talk-by-niki-afsar-7j73f?format=ical"
+   ],
+   "iframes": [],
+   "event_links": [
+    {
+     "text": "Exhibitions",
+     "url": "https://www.transformerdc.org/exhibitions-1"
+    },
+    {
+     "text": "Folder: \n Programs",
+     "url": "https://www.transformerdc.org/programs"
+    },
+    {
+     "text": "Folder: \n Special Events",
+     "url": "https://www.transformerdc.org/special-events"
+    },
+    {
+     "text": "",
+     "url": "https://www.transformerdc.org/events/the-kaleidoscope-effect-transformers-22nd-annual-auction-exhibition-benefit-gala"
+    },
+    {
+     "text": "Google Calendar",
+     "url": "http://www.google.com/calendar/event?action=TEMPLATE&text=The%20Kaleidoscope%20Effect%3A%20Transformer%E2%80%99s%2022nd%20Annual%20Auction%20Exhibition%20%26%20Benefit%20Gala&dates=20261122T000000Z/20261122T040000Z&location=1770%20Euclid%20Street%20Northwest%2C%20Washington%2C%20District%20of%20Columbia%2C%2020009%2C%20United%20States"
+    },
+    {
+     "text": "ICS",
+     "url": "https://www.transformerdc.org/events/the-kaleidoscope-effect-transformers-22nd-annual-auction-exhibition-benefit-gala?format=ical"
+    },
+    {
+     "text": "",
+     "url": "https://www.transformerdc.org/events/ujls7tqlw272n027axhqe024yo6mki"
+    },
+    {
+     "text": "Google Calendar",
+     "url": "http://www.google.com/calendar/event?action=TEMPLATE&text=A%20SPARK%20OF%20CONSCIOUSNESS%3A%20Healing%20The%20Soul%2C%20Community%20Open%20House%20Reception&dates=20261010T160000Z/20261010T220000Z&location=1404%20P%20Street%20Northwest%2C%20Washington%2C%20District%20of%20Columbia%2C%2020005%2C%20United%20States"
+    },
+    {
+     "text": "ICS",
+     "url": "https://www.transformerdc.org/events/ujls7tqlw272n027axhqe024yo6mki?format=ical"
+    },
+    {
+     "text": "",
+     "url": "https://www.transformerdc.org/events/a-spark-of-consciousness-healing-the-soul-vlc-preview-reception"
+    },
+    {
+     "text": "Google Calendar",
+     "url": "http://www.google.com/calendar/event?action=TEMPLATE&text=A%20SPARK%20OF%20CONSCIOUSNESS%3A%20Healing%20The%20Soul%2C%20VLC%20Preview%20Reception&dates=20261009T210000Z/20261009T230000Z&location=1404%20P%20Street%20Northwest%2C%20Washington%2C%20District%20of%20Columbia%2C%2020005%2C%20United%20States"
+    },
+    {
+     "text": "ICS",
+     "url": "https://www.transformerdc.org/events/a-spark-of-consciousness-healing-the-soul-vlc-preview-reception?format=ical"
+    },
+    {
+     "text": "",
+     "url": "https://www.transformerdc.org/events/celebration-of-the-arts-flatfile-art2"
+    },
+    {
+     "text": "Google Calendar",
+     "url": "http://www.google.com/calendar/event?action=TEMPLATE&text=CELEBRATION%20OF%20THE%20ARTS%3A%20Flatfile%20Art%20Sale%20%2B%20Custom%20Portraits%21&dates=20260920T160000Z/20260920T210000Z&location=1803%20Capital%20One%20Drive%20South%2C%20Tysons%2C%20Virginia%2C%2022102%2C%20United%20States"
+    },
+    {
+     "text": "ICS",
+     "url": "https://www.transformerdc.org/events/celebration-of-the-arts-flatfile-art2?format=ical"
+    },
+    {
+     "text": "",
+     "url": "https://www.transformerdc.org/events/celebration-of-the-arts-flatfile-art-sale-custom-portraits"
+    },
+    {
+     "text": "Google Calendar",
+     "url": "http://www.google.com/calendar/event?action=TEMPLATE&text=CELEBRATION%20OF%20THE%20ARTS%3A%20Flatfile%20Art%20Sale%20%2B%20Custom%20Portraits%21&dates=20260919T160000Z/20260919T220000Z"
+    },
+    {
+     "text": "ICS",
+     "url": "https://www.transformerdc.org/events/celebration-of-the-arts-flatfile-art-sale-custom-portraits?format=ical"
+    },
+    {
+     "text": "",
+     "url": "https://www.transformerdc.org/events/art-all-night-extended-gallery-hours"
+    },
+    {
+     "text": "Google Calendar",
+     "url": "http://www.google.com/calendar/event?action=TEMPLATE&text=ART%20ALL%20NIGHT%3A%20Extended%20Gallery%20Hours&dates=20260912T160000Z/20260913T000000Z&location=1404%20P%20Street%20Northwest%2C%20Washington%2C%20District%20of%20Columbia%2C%2020005%2C%20United%20States"
+    },
+    {
+     "text": "ICS",
+     "url": "https://www.transformerdc.org/events/art-all-night-extended-gallery-hours?format=ical"
+    },
+    {
+     "text": "",
+     "url": "https://www.transformerdc.org/events/e23-visionary-leaders-circle-preview-eemyw-cssbt-ycncs-46rkk-d3blg-rcr72-ctz2g"
+    },
+    {
+     "text": "Google Calendar",
+     "url": "http://www.google.com/calendar/event?action=TEMPLATE&text=E23%3A%20Introduction%20to%20flipbooks%20with%20Adam%20Griffiths%26nbsp%3B&dates=20260910T220000Z/20260910T230000Z&location=1404%20P%20Street%20Northwest%2C%20Washington%2C%20District%20of%20Columbia%2C%2020005%2C%20United%20States"
+    },
+    {
+     "text": "ICS",
+     "url": "https://www.transformerdc.org/events/e23-visionary-leaders-circle-preview-eemyw-cssbt-ycncs-46rkk-d3blg-rcr72-ctz2g?format=ical"
+    },
+    {
+     "text": "",
+     "url": "https://www.transformerdc.org/events/e23-visionary-leaders-circle-preview-eemyw-cssbt-ycncs-46rkk-d3blg-rcr72"
+    }
+   ],
+   "platform": "squarespace eventbrite",
+   "error": ""
+  },
+  {
+   "url": "https://www.transformerdc.org/programs",
+   "status": 200,
+   "final_url": "https://www.transformerdc.org/artist-resources",
+   "title": "Artist Resources \u2014 Transformer",
+   "dates": 9,
+   "jsonld": 0,
+   "jsonld_samples": [],
+   "hints": [],
+   "iframes": [],
+   "event_links": [
+    {
+     "text": "Exhibitions",
+     "url": "https://www.transformerdc.org/exhibitions-1"
+    },
+    {
+     "text": "Events",
+     "url": "https://www.transformerdc.org/events"
+    },
+    {
+     "text": "Folder: \n Programs",
+     "url": "https://www.transformerdc.org/programs"
+    },
+    {
+     "text": "Folder: \n Special Events",
+     "url": "https://www.transformerdc.org/special-events"
+    },
+    {
+     "text": "VisArts Call for Solo Exhibitions 2027",
+     "url": "https://www.eastcityart.com/calls-for-entry/visartssolos27/"
+    },
+    {
+     "text": "VISARTS: Emerging Curator Program",
+     "url": "https://visarts.submittable.com/submit"
+    },
+    {
+     "text": "Call for Art, Links Bridge Vineyards",
+     "url": "https://www.linksbridgevineyards.com/2026-links-bridge-vineyards-wine-art-series/"
+    },
+    {
+     "text": "Creativity Grants for Projects \u2013 Maryland State Arts Council",
+     "url": "https://msac.org/programs/creativity-grants/creativity-grants-projects"
+    },
+    {
+     "text": "My First Arquetopia Residency",
+     "url": "https://www.arquetopia.org/special-themed-residency-programs"
+    },
+    {
+     "text": "Anderson Ranch Arts Center Residency",
+     "url": "https://www.andersonranch.org/programs/artists-in-residence-program/"
+    },
+    {
+     "text": "Indigo Arts Alliance mentorship residency",
+     "url": "https://indigoartsalliance.me/mentorship-residency-program/"
+    }
+   ],
+   "platform": "squarespace eventbrite",
+   "error": ""
+  },
+  {
+   "url": "https://www.transformerdc.org/special-events",
+   "status": 200,
+   "final_url": "https://www.transformerdc.org/auction",
+   "title": "Auction \u2014 Transformer",
+   "dates": 26,
+   "jsonld": 0,
+   "jsonld_samples": [],
+   "hints": [],
+   "iframes": [],
+   "event_links": [
+    {
+     "text": "Exhibitions",
+     "url": "https://www.transformerdc.org/exhibitions-1"
+    },
+    {
+     "text": "Events",
+     "url": "https://www.transformerdc.org/events"
+    },
+    {
+     "text": "Folder: \n Programs",
+     "url": "https://www.transformerdc.org/programs"
+    },
+    {
+     "text": "Folder: \n Special Events",
+     "url": "https://www.transformerdc.org/special-events"
+    },
+    {
+     "text": "PURCHASE EARLY BIRD AND PATRON GALA TICKETS HERE!",
+     "url": "https://onecau.se/kaleidoscope-effect"
+    }
+   ],
+   "platform": "squarespace eventbrite",
+   "error": ""
+  }
+ ],
+ "best_page": "https://www.transformerdc.org/events"
+}

@@ -1,0 +1,484 @@
+{
+ "row": "19",
+ "name": "Arlington Chamber of Commerce",
+ "seed_url": "https://www.arlingtonchamber.org/events/",
+ "programs": "Business After Business; networking",
+ "access": "Public",
+ "found": "2026-10-25 02:00Z",
+ "search_hits": [],
+ "search_error": "",
+ "probes": [
+  {
+   "url": "https://www.arlingtonchamber.org/wp-json/tribe/events/v1/events?per_page=10",
+   "status": "HTTPError",
+   "events": 0
+  },
+  {
+   "url": "https://www.arlingtonchamber.org/events/?ical=1",
+   "status": 200,
+   "events": 0,
+   "head": "<!DOCTYPE html>\n<html lang=\"en\">\n\t<head>\n\t\t<title>Arlington (VA) Chamber of Commerce - Events - Arlington (VA) Chamber of Commerce | Arlington, VA 22201</title><meta property=\"og:site_name\" content=\"Arlington (VA) Chamber of Commerce | Arlington, VA 22201\" />\n<meta property=\"og:title\" content=\"Arlin"
+  },
+  {
+   "url": "https://www.arlingtonchamber.org/?ical=1",
+   "status": 200,
+   "events": 0,
+   "head": "<!DOCTYPE html>\n<html lang=\"en\">\n\t<head>\n\t\t<title>Arlington (VA) Chamber of Commerce | Arlington, VA 22201 - Home - Arlington Chamber of Commerce - Arlington, VA</title><meta property=\"og:site_name\" content=\"Arlington (VA) Chamber of Commerce | Arlington, VA 22201\" />\n<meta property=\"og:title\" conte"
+  }
+ ],
+ "pages": [
+  {
+   "url": "https://www.arlingtonchamber.org/events/",
+   "status": 200,
+   "final_url": "https://www.arlingtonchamber.org/events.html",
+   "title": "Arlington (VA) Chamber of Commerce - Events - Arlington (VA) Chamber of Commerce | Arlington, VA 22201",
+   "dates": 0,
+   "jsonld": 0,
+   "jsonld_samples": [],
+   "hints": [],
+   "iframes": [],
+   "event_links": [
+    {
+     "text": "Chamber Member Retirement Program",
+     "url": "https://www.arlingtonchamber.org/chamber-member-retirement-program.html"
+    },
+    {
+     "text": "Events",
+     "url": "https://www.arlingtonchamber.org/events.html"
+    },
+    {
+     "text": "Chamber Calendar",
+     "url": "https://web.arlingtonchamber.org/events?oe=true"
+    },
+    {
+     "text": "Community Calendar\n\t\t >",
+     "url": "https://web.arlingtonchamber.org/events?ce=true"
+    },
+    {
+     "text": "Submit a Community Event",
+     "url": "https://web.arlingtonchamber.org/Events/EventSubmission.aspx"
+    },
+    {
+     "text": "Signature Events\n\t\t >",
+     "url": "https://www.arlingtonchamber.org/signature-events.html"
+    },
+    {
+     "text": "Advocacy Events\n\t\t >",
+     "url": "https://www.arlingtonchamber.org/advocacy-events.html"
+    },
+    {
+     "text": "Networking Events\n\t\t >",
+     "url": "https://www.arlingtonchamber.org/networking-events.html"
+    },
+    {
+     "text": "Educational Events\n\t\t >",
+     "url": "https://www.arlingtonchamber.org/educational-events.html"
+    },
+    {
+     "text": "events @arlingtonchamber.org",
+     "url": "https://www.arlingtonchamber.org/cdn-cgi/l/email-protection#84e1f2e1eaf0f7c4e5f6e8edeae3f0ebeae7ece5e9e6e1f6aaebf6e3"
+    }
+   ],
+   "platform": "",
+   "error": ""
+  },
+  {
+   "url": "https://www.arlingtonchamber.org/",
+   "status": 200,
+   "final_url": "https://www.arlingtonchamber.org/",
+   "title": "Arlington (VA) Chamber of Commerce | Arlington, VA 22201 - Home - Arlington Chamber of Commerce - Arlington, VA",
+   "dates": 0,
+   "jsonld": 0,
+   "jsonld_samples": [],
+   "hints": [],
+   "iframes": [],
+   "event_links": [
+    {
+     "text": "Chamber Member Retirement Program",
+     "url": "https://www.arlingtonchamber.org/chamber-member-retirement-program.html"
+    },
+    {
+     "text": "Events",
+     "url": "https://www.arlingtonchamber.org/events.html"
+    },
+    {
+     "text": "Chamber Calendar",
+     "url": "https://web.arlingtonchamber.org/events?oe=true"
+    },
+    {
+     "text": "Community Calendar\n\t\t >",
+     "url": "https://web.arlingtonchamber.org/events?ce=true"
+    },
+    {
+     "text": "Submit a Community Event",
+     "url": "https://web.arlingtonchamber.org/Events/EventSubmission.aspx"
+    },
+    {
+     "text": "Signature Events\n\t\t >",
+     "url": "https://www.arlingtonchamber.org/signature-events.html"
+    },
+    {
+     "text": "Advocacy Events\n\t\t >",
+     "url": "https://www.arlingtonchamber.org/advocacy-events.html"
+    },
+    {
+     "text": "Networking Events\n\t\t >",
+     "url": "https://www.arlingtonchamber.org/networking-events.html"
+    },
+    {
+     "text": "Educational Events\n\t\t >",
+     "url": "https://www.arlingtonchamber.org/educational-events.html"
+    }
+   ],
+   "platform": "",
+   "error": ""
+  },
+  {
+   "url": "https://www.arlingtonchamber.org/chamber-member-retirement-program.html",
+   "status": 200,
+   "final_url": "https://www.arlingtonchamber.org/chamber-member-retirement-program.html",
+   "title": "Chamber Member Retirement Program - Arlington (VA) Chamber of Commerce | Arlington, VA 22201",
+   "dates": 0,
+   "jsonld": 0,
+   "jsonld_samples": [],
+   "hints": [],
+   "iframes": [
+    "about:blank"
+   ],
+   "event_links": [
+    {
+     "text": "Chamber Member Retirement Program",
+     "url": "https://www.arlingtonchamber.org/chamber-member-retirement-program.html"
+    },
+    {
+     "text": "Events",
+     "url": "https://www.arlingtonchamber.org/events.html"
+    },
+    {
+     "text": "Chamber Calendar",
+     "url": "https://web.arlingtonchamber.org/events?oe=true"
+    },
+    {
+     "text": "Community Calendar\n\t\t >",
+     "url": "https://web.arlingtonchamber.org/events?ce=true"
+    },
+    {
+     "text": "Submit a Community Event",
+     "url": "https://web.arlingtonchamber.org/Events/EventSubmission.aspx"
+    },
+    {
+     "text": "Signature Events\n\t\t >",
+     "url": "https://www.arlingtonchamber.org/signature-events.html"
+    },
+    {
+     "text": "Advocacy Events\n\t\t >",
+     "url": "https://www.arlingtonchamber.org/advocacy-events.html"
+    },
+    {
+     "text": "Networking Events\n\t\t >",
+     "url": "https://www.arlingtonchamber.org/networking-events.html"
+    },
+    {
+     "text": "Educational Events\n\t\t >",
+     "url": "https://www.arlingtonchamber.org/educational-events.html"
+    },
+    {
+     "text": "What is a Multiple Employer Aggregation Program (MEAP)? Why ",
+     "url": "https://www.arlingtonchamber.org/uploads/8/6/6/6/86665924/accmp_-_informational_proposal_brochure.pdf"
+    }
+   ],
+   "platform": "",
+   "error": ""
+  },
+  {
+   "url": "https://www.arlingtonchamber.org/events.html",
+   "status": 200,
+   "final_url": "https://www.arlingtonchamber.org/events.html",
+   "title": "Arlington (VA) Chamber of Commerce - Events - Arlington (VA) Chamber of Commerce | Arlington, VA 22201",
+   "dates": 0,
+   "jsonld": 0,
+   "jsonld_samples": [],
+   "hints": [],
+   "iframes": [],
+   "event_links": [
+    {
+     "text": "Chamber Member Retirement Program",
+     "url": "https://www.arlingtonchamber.org/chamber-member-retirement-program.html"
+    },
+    {
+     "text": "Events",
+     "url": "https://www.arlingtonchamber.org/events.html"
+    },
+    {
+     "text": "Chamber Calendar",
+     "url": "https://web.arlingtonchamber.org/events?oe=true"
+    },
+    {
+     "text": "Community Calendar\n\t\t >",
+     "url": "https://web.arlingtonchamber.org/events?ce=true"
+    },
+    {
+     "text": "Submit a Community Event",
+     "url": "https://web.arlingtonchamber.org/Events/EventSubmission.aspx"
+    },
+    {
+     "text": "Signature Events\n\t\t >",
+     "url": "https://www.arlingtonchamber.org/signature-events.html"
+    },
+    {
+     "text": "Advocacy Events\n\t\t >",
+     "url": "https://www.arlingtonchamber.org/advocacy-events.html"
+    },
+    {
+     "text": "Networking Events\n\t\t >",
+     "url": "https://www.arlingtonchamber.org/networking-events.html"
+    },
+    {
+     "text": "Educational Events\n\t\t >",
+     "url": "https://www.arlingtonchamber.org/educational-events.html"
+    },
+    {
+     "text": "events @arlingtonchamber.org",
+     "url": "https://www.arlingtonchamber.org/cdn-cgi/l/email-protection#771201121903043716051b1e1910031819141f161a15120559180510"
+    }
+   ],
+   "platform": "",
+   "error": ""
+  },
+  {
+   "url": "https://web.arlingtonchamber.org/events?oe=true",
+   "status": 200,
+   "final_url": "https://web.arlingtonchamber.org/events?oe=true",
+   "title": "Events |  | Arlington Chamber of Commerce | Arlington, VA",
+   "dates": 12,
+   "jsonld": 0,
+   "jsonld_samples": [],
+   "hints": [
+    "https://web.arlingtonchamber.org/events?oe=true&RSS=True"
+   ],
+   "iframes": [],
+   "event_links": [
+    {
+     "text": "Chamber Member Retirement Program",
+     "url": "http://www.arlingtonchamber.org/chamber-member-retirement-program.html"
+    },
+    {
+     "text": "Events",
+     "url": "http://www.arlingtonchamber.org/events.html"
+    },
+    {
+     "text": "Chamber Calendar",
+     "url": "https://web.arlingtonchamber.org/events?oe=true"
+    },
+    {
+     "text": "Community Calendar\n\t\t >",
+     "url": "https://web.arlingtonchamber.org/events?ce=true"
+    },
+    {
+     "text": "Submit a Community Event",
+     "url": "https://web.arlingtonchamber.org/Events/EventSubmission.aspx"
+    },
+    {
+     "text": "Signature Events\n\t\t >",
+     "url": "http://www.arlingtonchamber.org/signature-events.html"
+    },
+    {
+     "text": "Advocacy Events\n\t\t >",
+     "url": "http://www.arlingtonchamber.org/advocacy-events.html"
+    },
+    {
+     "text": "Networking Events\n\t\t >",
+     "url": "http://www.arlingtonchamber.org/networking-events.html"
+    },
+    {
+     "text": "Educational Events\n\t\t >",
+     "url": "http://www.arlingtonchamber.org/educational-events.html"
+    },
+    {
+     "text": "1",
+     "url": "https://web.arlingtonchamber.org/events/eventresults.aspx?EventDate=10/1/2026&OE=TRUE"
+    },
+    {
+     "text": "7",
+     "url": "https://web.arlingtonchamber.org/events/eventresults.aspx?EventDate=10/7/2026&OE=TRUE"
+    },
+    {
+     "text": "15",
+     "url": "https://web.arlingtonchamber.org/events/eventresults.aspx?EventDate=10/15/2026&OE=TRUE"
+    },
+    {
+     "text": "21",
+     "url": "https://web.arlingtonchamber.org/events/eventresults.aspx?EventDate=10/21/2026&OE=TRUE"
+    },
+    {
+     "text": "22",
+     "url": "https://web.arlingtonchamber.org/events/eventresults.aspx?EventDate=10/22/2026&OE=TRUE"
+    },
+    {
+     "text": "28",
+     "url": "https://web.arlingtonchamber.org/events/eventresults.aspx?EventDate=10/28/2026&OE=TRUE"
+    },
+    {
+     "text": "30",
+     "url": "https://web.arlingtonchamber.org/events/eventresults.aspx?EventDate=10/30/2026&OE=TRUE"
+    },
+    {
+     "text": "",
+     "url": "https://web.arlingtonchamber.org/events?oe=true&month=9&Year=2026"
+    },
+    {
+     "text": "",
+     "url": "https://web.arlingtonchamber.org/events?oe=true&month=11&Year=2026"
+    },
+    {
+     "text": "",
+     "url": "https://web.arlingtonchamber.org/events?oe=true&RSS=True"
+    },
+    {
+     "text": "Small Business Roundtable: How to Get More Local Leads From ",
+     "url": "https://web.arlingtonchamber.org/events/Small-Business-Roundtable-How-to-Get-More-Local-Leads-From-Google-Without-Paying-for-Ads-9010/details"
+    },
+    {
+     "text": "Women in Business Networking",
+     "url": "https://web.arlingtonchamber.org/events/Women-in-Business-Networking-9000/details"
+    },
+    {
+     "text": "Nonprofit Forum - Engaging Volunteers: Building Lasting Impa",
+     "url": "https://web.arlingtonchamber.org/events/Nonprofit-Forum-Engaging-Volunteers-Building-Lasting-Impact-and-Stronger-Communities-9232/details"
+    },
+    {
+     "text": "Government Affairs & Economic Development Committee",
+     "url": "https://web.arlingtonchamber.org/events/Government-Affairs-Economic-Development-Committee-9247/details"
+    },
+    {
+     "text": "Chamber 101",
+     "url": "https://web.arlingtonchamber.org/events/Chamber-101-8983/details"
+    },
+    {
+     "text": "Young Professionals Happy Hour",
+     "url": "https://web.arlingtonchamber.org/events/Young-Professionals-Happy-Hour-8972/details"
+    }
+   ],
+   "platform": "wordpress",
+   "error": ""
+  },
+  {
+   "url": "https://web.arlingtonchamber.org/events?ce=true",
+   "status": 200,
+   "final_url": "https://web.arlingtonchamber.org/events?ce=true",
+   "title": "Events |  | Arlington Chamber of Commerce | Arlington, VA",
+   "dates": 35,
+   "jsonld": 0,
+   "jsonld_samples": [],
+   "hints": [
+    "https://web.arlingtonchamber.org/events?ce=true&RSS=True"
+   ],
+   "iframes": [],
+   "event_links": [
+    {
+     "text": "Chamber Member Retirement Program",
+     "url": "http://www.arlingtonchamber.org/chamber-member-retirement-program.html"
+    },
+    {
+     "text": "Events",
+     "url": "http://www.arlingtonchamber.org/events.html"
+    },
+    {
+     "text": "Chamber Calendar",
+     "url": "https://web.arlingtonchamber.org/events?oe=true"
+    },
+    {
+     "text": "Community Calendar\n\t\t >",
+     "url": "https://web.arlingtonchamber.org/events?ce=true"
+    },
+    {
+     "text": "Submit a Community Event",
+     "url": "https://web.arlingtonchamber.org/Events/EventSubmission.aspx"
+    },
+    {
+     "text": "Signature Events\n\t\t >",
+     "url": "http://www.arlingtonchamber.org/signature-events.html"
+    },
+    {
+     "text": "Advocacy Events\n\t\t >",
+     "url": "http://www.arlingtonchamber.org/advocacy-events.html"
+    },
+    {
+     "text": "Networking Events\n\t\t >",
+     "url": "http://www.arlingtonchamber.org/networking-events.html"
+    },
+    {
+     "text": "Educational Events\n\t\t >",
+     "url": "http://www.arlingtonchamber.org/educational-events.html"
+    },
+    {
+     "text": "1",
+     "url": "https://web.arlingtonchamber.org/events/eventresults.aspx?EventDate=10/1/2026&CE=TRUE"
+    },
+    {
+     "text": "7",
+     "url": "https://web.arlingtonchamber.org/events/eventresults.aspx?EventDate=10/7/2026&CE=TRUE"
+    },
+    {
+     "text": "10",
+     "url": "https://web.arlingtonchamber.org/events/eventresults.aspx?EventDate=10/10/2026&CE=TRUE"
+    },
+    {
+     "text": "14",
+     "url": "https://web.arlingtonchamber.org/events/eventresults.aspx?EventDate=10/14/2026&CE=TRUE"
+    },
+    {
+     "text": "15",
+     "url": "https://web.arlingtonchamber.org/events/eventresults.aspx?EventDate=10/15/2026&CE=TRUE"
+    },
+    {
+     "text": "16",
+     "url": "https://web.arlingtonchamber.org/events/eventresults.aspx?EventDate=10/16/2026&CE=TRUE"
+    },
+    {
+     "text": "17",
+     "url": "https://web.arlingtonchamber.org/events/eventresults.aspx?EventDate=10/17/2026&CE=TRUE"
+    },
+    {
+     "text": "18",
+     "url": "https://web.arlingtonchamber.org/events/eventresults.aspx?EventDate=10/18/2026&CE=TRUE"
+    },
+    {
+     "text": "20",
+     "url": "https://web.arlingtonchamber.org/events/eventresults.aspx?EventDate=10/20/2026&CE=TRUE"
+    },
+    {
+     "text": "21",
+     "url": "https://web.arlingtonchamber.org/events/eventresults.aspx?EventDate=10/21/2026&CE=TRUE"
+    },
+    {
+     "text": "22",
+     "url": "https://web.arlingtonchamber.org/events/eventresults.aspx?EventDate=10/22/2026&CE=TRUE"
+    },
+    {
+     "text": "24",
+     "url": "https://web.arlingtonchamber.org/events/eventresults.aspx?EventDate=10/24/2026&CE=TRUE"
+    },
+    {
+     "text": "26",
+     "url": "https://web.arlingtonchamber.org/events/eventresults.aspx?EventDate=10/26/2026&CE=TRUE"
+    },
+    {
+     "text": "27",
+     "url": "https://web.arlingtonchamber.org/events/eventresults.aspx?EventDate=10/27/2026&CE=TRUE"
+    },
+    {
+     "text": "28",
+     "url": "https://web.arlingtonchamber.org/events/eventresults.aspx?EventDate=10/28/2026&CE=TRUE"
+    },
+    {
+     "text": "29",
+     "url": "https://web.arlingtonchamber.org/events/eventresults.aspx?EventDate=10/29/2026&CE=TRUE"
+    }
+   ],
+   "platform": "wordpress",
+   "error": ""
+  }
+ ],
+ "best_page": "https://web.arlingtonchamber.org/events?ce=true"
+}

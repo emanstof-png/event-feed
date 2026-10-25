@@ -1,0 +1,533 @@
+{
+ "row": "8",
+ "name": "The Washington Ballet",
+ "seed_url": "https://www.washingtonballet.org/",
+ "programs": "Jet\u00e9 Society (ages 21-40)",
+ "access": "Public performances and signature events; Jet\u00e9 invitations sent separately",
+ "found": "2026-10-25 01:59Z",
+ "search_hits": [],
+ "search_error": "",
+ "probes": [
+  {
+   "url": "https://www.washingtonballet.org/wp-json/tribe/events/v1/events?per_page=10",
+   "status": "HTTPError",
+   "events": 0
+  },
+  {
+   "url": "https://www.washingtonballet.org/events/?ical=1",
+   "status": 200,
+   "events": 0,
+   "head": "\n<!doctype html>\n<html lang=\"en-US\">\n  <head>\n  <!-- Google Tag Manager -->\n<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':\nnew\n Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],\nj=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=\n'https://www"
+  },
+  {
+   "url": "https://www.washingtonballet.org/?ical=1",
+   "status": 200,
+   "events": 0,
+   "head": "\n<!doctype html>\n<html lang=\"en-US\">\n  <head>\n  <!-- Google Tag Manager -->\n<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':\nnew\n Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],\nj=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=\n'https://www"
+  }
+ ],
+ "pages": [
+  {
+   "url": "https://www.washingtonballet.org/",
+   "status": 200,
+   "final_url": "https://www.washingtonballet.org/",
+   "title": "The Washington Ballet - In & of the Nation\u2019s Capital",
+   "dates": 0,
+   "jsonld": 0,
+   "jsonld_samples": [],
+   "hints": [
+    "https://www.washingtonballet.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.washingtonballet.org%2F",
+    "https://www.washingtonballet.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.washingtonballet.org%2F&format=xml",
+    "https://www.washingtonballet.org/wp-json/wp/v2/pages/2"
+   ],
+   "iframes": [],
+   "event_links": [
+    {
+     "text": "Calendar",
+     "url": "https://www.washingtonballet.org/calendar/"
+    },
+    {
+     "text": "Performances & Events",
+     "url": "https://www.washingtonballet.org/events/"
+    },
+    {
+     "text": "Go-Go 50",
+     "url": "https://www.washingtonballet.org/events/gogo-50/"
+    },
+    {
+     "text": "The Nutcracker",
+     "url": "https://www.washingtonballet.org/events/the-nutcracker-2026/"
+    },
+    {
+     "text": "Dracula",
+     "url": "https://www.washingtonballet.org/events/dracula/"
+    },
+    {
+     "text": "Romeo & Juliet",
+     "url": "https://www.washingtonballet.org/events/romeo-juliet/"
+    },
+    {
+     "text": "Made in Washington: A 50th Season Finale at Wolf Trap",
+     "url": "https://www.washingtonballet.org/events/made-in-washington/"
+    },
+    {
+     "text": "Signature Events",
+     "url": "https://www.washingtonballet.org/fundraising-events/"
+    },
+    {
+     "text": "50 Forward Celebration",
+     "url": "https://www.washingtonballet.org/events/50-forward/"
+    },
+    {
+     "text": "The Nutcracker Tea Party",
+     "url": "https://www.washingtonballet.org/events/the-nutcracker-tea-party-2026/"
+    },
+    {
+     "text": "2027 Gala",
+     "url": "https://www.washingtonballet.org/events/2027-gala/"
+    },
+    {
+     "text": "TWSB Student Performances",
+     "url": "https://www.washingtonballet.org/series/student-performances/"
+    },
+    {
+     "text": "Events & Programs",
+     "url": "https://www.washingtonballet.org/community-engagement-home/"
+    },
+    {
+     "text": "Events Archive",
+     "url": "https://www.washingtonballet.org/past-events/"
+    },
+    {
+     "text": "Trainee Program",
+     "url": "https://www.washingtonballet.org/trainee-program/"
+    },
+    {
+     "text": "Learn More",
+     "url": "https://www.washingtonballet.org/school-year-programs/"
+    },
+    {
+     "text": "Advertise in Our Programs",
+     "url": "https://playbills.artslandia.com/the-washington-ballet-media-kit.html"
+    }
+   ],
+   "platform": "",
+   "error": ""
+  },
+  {
+   "url": "https://www.washingtonballet.org/calendar/",
+   "status": 200,
+   "final_url": "https://www.washingtonballet.org/calendar/",
+   "title": "Calendar | The Washington Ballet",
+   "dates": 0,
+   "jsonld": 0,
+   "jsonld_samples": [],
+   "hints": [
+    "https://www.washingtonballet.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.washingtonballet.org%2Fcalendar%2F",
+    "https://www.washingtonballet.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.washingtonballet.org%2Fcalendar%2F&format=xml",
+    "https://www.washingtonballet.org/wp-json/wp/v2/pages/124"
+   ],
+   "iframes": [],
+   "event_links": [
+    {
+     "text": "Performances & Events",
+     "url": "https://www.washingtonballet.org/events/"
+    },
+    {
+     "text": "Go-Go 50",
+     "url": "https://www.washingtonballet.org/events/gogo-50/"
+    },
+    {
+     "text": "The Nutcracker",
+     "url": "https://www.washingtonballet.org/events/the-nutcracker-2026/"
+    },
+    {
+     "text": "Dracula",
+     "url": "https://www.washingtonballet.org/events/dracula/"
+    },
+    {
+     "text": "Romeo & Juliet",
+     "url": "https://www.washingtonballet.org/events/romeo-juliet/"
+    },
+    {
+     "text": "Made in Washington: A 50th Season Finale at Wolf Trap",
+     "url": "https://www.washingtonballet.org/events/made-in-washington/"
+    },
+    {
+     "text": "Signature Events",
+     "url": "https://www.washingtonballet.org/fundraising-events/"
+    },
+    {
+     "text": "50 Forward Celebration",
+     "url": "https://www.washingtonballet.org/events/50-forward/"
+    },
+    {
+     "text": "The Nutcracker Tea Party",
+     "url": "https://www.washingtonballet.org/events/the-nutcracker-tea-party-2026/"
+    },
+    {
+     "text": "2027 Gala",
+     "url": "https://www.washingtonballet.org/events/2027-gala/"
+    },
+    {
+     "text": "TWSB Student Performances",
+     "url": "https://www.washingtonballet.org/series/student-performances/"
+    },
+    {
+     "text": "Events & Programs",
+     "url": "https://www.washingtonballet.org/community-engagement-home/"
+    },
+    {
+     "text": "Events Archive",
+     "url": "https://www.washingtonballet.org/past-events/"
+    },
+    {
+     "text": "Trainee Program",
+     "url": "https://www.washingtonballet.org/trainee-program/"
+    },
+    {
+     "text": "September",
+     "url": "https://www.washingtonballet.org/calendar/?month=September+2026"
+    },
+    {
+     "text": "November",
+     "url": "https://www.washingtonballet.org/calendar/?month=November+2026"
+    },
+    {
+     "text": "Learn More",
+     "url": "https://www.washingtonballet.org/school-year-programs/"
+    },
+    {
+     "text": "Advertise in Our Programs",
+     "url": "https://playbills.artslandia.com/the-washington-ballet-media-kit.html"
+    }
+   ],
+   "platform": "",
+   "error": ""
+  },
+  {
+   "url": "https://www.washingtonballet.org/events/",
+   "status": 200,
+   "final_url": "https://www.washingtonballet.org/events/",
+   "title": "Events | The Washington Ballet",
+   "dates": 10,
+   "jsonld": 0,
+   "jsonld_samples": [],
+   "hints": [
+    "https://www.washingtonballet.org/events/feed/"
+   ],
+   "iframes": [],
+   "event_links": [
+    {
+     "text": "Calendar",
+     "url": "https://www.washingtonballet.org/calendar/"
+    },
+    {
+     "text": "Go-Go 50",
+     "url": "https://www.washingtonballet.org/events/gogo-50/"
+    },
+    {
+     "text": "The Nutcracker",
+     "url": "https://www.washingtonballet.org/events/the-nutcracker-2026/"
+    },
+    {
+     "text": "Dracula",
+     "url": "https://www.washingtonballet.org/events/dracula/"
+    },
+    {
+     "text": "Romeo & Juliet",
+     "url": "https://www.washingtonballet.org/events/romeo-juliet/"
+    },
+    {
+     "text": "Made in Washington: A 50th Season Finale at Wolf Trap",
+     "url": "https://www.washingtonballet.org/events/made-in-washington/"
+    },
+    {
+     "text": "Signature Events",
+     "url": "https://www.washingtonballet.org/fundraising-events/"
+    },
+    {
+     "text": "50 Forward Celebration",
+     "url": "https://www.washingtonballet.org/events/50-forward/"
+    },
+    {
+     "text": "The Nutcracker Tea Party",
+     "url": "https://www.washingtonballet.org/events/the-nutcracker-tea-party-2026/"
+    },
+    {
+     "text": "2027 Gala",
+     "url": "https://www.washingtonballet.org/events/2027-gala/"
+    },
+    {
+     "text": "TWSB Student Performances",
+     "url": "https://www.washingtonballet.org/series/student-performances/"
+    },
+    {
+     "text": "Events & Programs",
+     "url": "https://www.washingtonballet.org/community-engagement-home/"
+    },
+    {
+     "text": "Events Archive",
+     "url": "https://www.washingtonballet.org/past-events/"
+    },
+    {
+     "text": "Trainee Program",
+     "url": "https://www.washingtonballet.org/trainee-program/"
+    },
+    {
+     "text": "Buy Tickets",
+     "url": "https://www.ticketmaster.com/washington-ballet-tickets/artist/888836"
+    },
+    {
+     "text": "",
+     "url": "https://www.washingtonballet.org/events/trainee-program-fall-showcase-2026/"
+    },
+    {
+     "text": "Buy Tickets",
+     "url": "https://my.washingtonballet.org/"
+    },
+    {
+     "text": "Buy Tickets",
+     "url": "https://www.ticketmaster.com/the-washington-ballet's-nutcracker-tickets/artist/1904600"
+    },
+    {
+     "text": "Buy Tickets",
+     "url": "https://www.shakespearetheatre.org/index.php/events/twb-dracula-26-27/"
+    },
+    {
+     "text": "Advertise in Our Programs",
+     "url": "https://playbills.artslandia.com/the-washington-ballet-media-kit.html"
+    }
+   ],
+   "platform": "",
+   "error": ""
+  },
+  {
+   "url": "https://www.washingtonballet.org/events/gogo-50/",
+   "status": 200,
+   "final_url": "https://www.washingtonballet.org/events/gogo-50/",
+   "title": "Go-Go 50 | The Washington Ballet",
+   "dates": 6,
+   "jsonld": 5,
+   "jsonld_samples": [
+    {
+     "name": "Go-Go 50",
+     "start": "2026-10-30T19:30:00",
+     "url": "https://www.washingtonballet.org/events/gogo-50/"
+    },
+    {
+     "name": "Go-Go 50",
+     "start": "2026-11-01T14:00:00",
+     "url": "https://www.washingtonballet.org/events/gogo-50/"
+    },
+    {
+     "name": "Go-Go 50",
+     "start": "2026-10-31T19:30:00",
+     "url": "https://www.washingtonballet.org/events/gogo-50/"
+    },
+    {
+     "name": "Go-Go 50",
+     "start": "2026-10-31T14:00:00",
+     "url": "https://www.washingtonballet.org/events/gogo-50/"
+    },
+    {
+     "name": "Go-Go 50",
+     "start": "2026-10-30T19:30:00",
+     "url": "https://www.washingtonballet.org/events/gogo-50/"
+    }
+   ],
+   "hints": [
+    "https://www.washingtonballet.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.washingtonballet.org%2Fevents%2Fgogo-50%2F",
+    "https://www.washingtonballet.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.washingtonballet.org%2Fevents%2Fgogo-50%2F&format=xml",
+    "https://www.washingtonballet.org/wp-json/wp/v2/mc_event/26913"
+   ],
+   "iframes": [],
+   "event_links": [
+    {
+     "text": "Calendar",
+     "url": "https://www.washingtonballet.org/calendar/"
+    },
+    {
+     "text": "Performances & Events",
+     "url": "https://www.washingtonballet.org/events/"
+    },
+    {
+     "text": "The Nutcracker",
+     "url": "https://www.washingtonballet.org/events/the-nutcracker-2026/"
+    },
+    {
+     "text": "Dracula",
+     "url": "https://www.washingtonballet.org/events/dracula/"
+    },
+    {
+     "text": "Romeo & Juliet",
+     "url": "https://www.washingtonballet.org/events/romeo-juliet/"
+    },
+    {
+     "text": "Made in Washington: A 50th Season Finale at Wolf Trap",
+     "url": "https://www.washingtonballet.org/events/made-in-washington/"
+    },
+    {
+     "text": "Signature Events",
+     "url": "https://www.washingtonballet.org/fundraising-events/"
+    },
+    {
+     "text": "50 Forward Celebration",
+     "url": "https://www.washingtonballet.org/events/50-forward/"
+    },
+    {
+     "text": "The Nutcracker Tea Party",
+     "url": "https://www.washingtonballet.org/events/the-nutcracker-tea-party-2026/"
+    },
+    {
+     "text": "2027 Gala",
+     "url": "https://www.washingtonballet.org/events/2027-gala/"
+    },
+    {
+     "text": "TWSB Student Performances",
+     "url": "https://www.washingtonballet.org/series/student-performances/"
+    },
+    {
+     "text": "Events & Programs",
+     "url": "https://www.washingtonballet.org/community-engagement-home/"
+    },
+    {
+     "text": "Events Archive",
+     "url": "https://www.washingtonballet.org/past-events/"
+    },
+    {
+     "text": "Trainee Program",
+     "url": "https://www.washingtonballet.org/trainee-program/"
+    },
+    {
+     "text": "Buy Tickets",
+     "url": "https://www.ticketmaster.com/washington-ballet-tickets/artist/888836"
+    },
+    {
+     "text": "Learn More about Go-Go 50",
+     "url": "https://www.washingtonballet.org/events/go-go-50/"
+    },
+    {
+     "text": "Advertise in Our Programs",
+     "url": "https://playbills.artslandia.com/the-washington-ballet-media-kit.html"
+    }
+   ],
+   "platform": "",
+   "error": ""
+  },
+  {
+   "url": "https://www.washingtonballet.org/events/the-nutcracker-2026/",
+   "status": 200,
+   "final_url": "https://www.washingtonballet.org/events/the-nutcracker-2026/",
+   "title": "The Nutcracker | The Washington Ballet",
+   "dates": 3,
+   "jsonld": 35,
+   "jsonld_samples": [
+    {
+     "name": "The Nutcracker",
+     "start": "2026-11-28T19:00:00",
+     "url": "https://www.washingtonballet.org/events/the-nutcracker-2026/"
+    },
+    {
+     "name": "The Nutcracker",
+     "start": "2026-12-27T18:00:00",
+     "url": "https://www.washingtonballet.org/events/the-nutcracker-2026/"
+    },
+    {
+     "name": "The Nutcracker",
+     "start": "2026-12-27T13:00:00",
+     "url": "https://www.washingtonballet.org/events/the-nutcracker-2026/"
+    },
+    {
+     "name": "The Nutcracker",
+     "start": "2026-12-26T19:00:00",
+     "url": "https://www.washingtonballet.org/events/the-nutcracker-2026/"
+    },
+    {
+     "name": "The Nutcracker",
+     "start": "2026-12-26T14:00:00",
+     "url": "https://www.washingtonballet.org/events/the-nutcracker-2026/"
+    }
+   ],
+   "hints": [
+    "https://www.washingtonballet.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.washingtonballet.org%2Fevents%2Fthe-nutcracker-2026%2F",
+    "https://www.washingtonballet.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.washingtonballet.org%2Fevents%2Fthe-nutcracker-2026%2F&format=xml",
+    "https://www.washingtonballet.org/wp-json/wp/v2/mc_event/27078"
+   ],
+   "iframes": [],
+   "event_links": [
+    {
+     "text": "Calendar",
+     "url": "https://www.washingtonballet.org/calendar/"
+    },
+    {
+     "text": "Performances & Events",
+     "url": "https://www.washingtonballet.org/events/"
+    },
+    {
+     "text": "Go-Go 50",
+     "url": "https://www.washingtonballet.org/events/gogo-50/"
+    },
+    {
+     "text": "Dracula",
+     "url": "https://www.washingtonballet.org/events/dracula/"
+    },
+    {
+     "text": "Romeo & Juliet",
+     "url": "https://www.washingtonballet.org/events/romeo-juliet/"
+    },
+    {
+     "text": "Made in Washington: A 50th Season Finale at Wolf Trap",
+     "url": "https://www.washingtonballet.org/events/made-in-washington/"
+    },
+    {
+     "text": "Signature Events",
+     "url": "https://www.washingtonballet.org/fundraising-events/"
+    },
+    {
+     "text": "50 Forward Celebration",
+     "url": "https://www.washingtonballet.org/events/50-forward/"
+    },
+    {
+     "text": "The Nutcracker Tea Party",
+     "url": "https://www.washingtonballet.org/events/the-nutcracker-tea-party-2026/"
+    },
+    {
+     "text": "2027 Gala",
+     "url": "https://www.washingtonballet.org/events/2027-gala/"
+    },
+    {
+     "text": "TWSB Student Performances",
+     "url": "https://www.washingtonballet.org/series/student-performances/"
+    },
+    {
+     "text": "Events & Programs",
+     "url": "https://www.washingtonballet.org/community-engagement-home/"
+    },
+    {
+     "text": "Events Archive",
+     "url": "https://www.washingtonballet.org/past-events/"
+    },
+    {
+     "text": "Trainee Program",
+     "url": "https://www.washingtonballet.org/trainee-program/"
+    },
+    {
+     "text": "Buy Tickets",
+     "url": "https://www.ticketmaster.com/the-washington-ballet's-nutcracker-tickets/artist/1904600"
+    },
+    {
+     "text": "Learn More",
+     "url": "https://www.washingtonballet.org/school-year-programs/"
+    },
+    {
+     "text": "Advertise in Our Programs",
+     "url": "https://playbills.artslandia.com/the-washington-ballet-media-kit.html"
+    }
+   ],
+   "platform": "",
+   "error": ""
+  }
+ ],
+ "best_page": "https://www.washingtonballet.org/events/the-nutcracker-2026/"
+}

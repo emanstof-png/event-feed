@@ -1,0 +1,59 @@
+{
+ "row": "38",
+ "name": "Embassy of Sweden / House of Sweden",
+ "seed_url": "https://www.swedenabroad.se/en/embassies/usa-washington/",
+ "programs": "Embassy events",
+ "access": "Check public vs invitation-only",
+ "found": "2026-10-25 02:00Z",
+ "search_hits": [],
+ "search_error": "",
+ "probes": [
+  {
+   "url": "https://www.swedenabroad.se/wp-json/tribe/events/v1/events?per_page=10",
+   "status": "HTTPError",
+   "events": 0
+  },
+  {
+   "url": "https://www.swedenabroad.se/events/?ical=1",
+   "status": "HTTPError",
+   "events": 0
+  },
+  {
+   "url": "https://www.swedenabroad.se/?ical=1",
+   "status": 200,
+   "events": 0,
+   "head": "\r\n\r\n<!DOCTYPE html>\r\n<html lang=\"sv\" class=\"sv\">\r\n\r\n<head>\r\n    <meta charset=\"UTF-8\">\r\n    <title>Startsida - Sweden Abroad</title>\r\n\r\n    <link rel=\"icon\" href=\"/ClientResources/Favicons/favicon.ico\">\r\n\r\n    <link rel=\"apple-touch-icon-precomposed\" sizes=\"57x57\" href=\"/ClientResources/Favicons/app"
+  }
+ ],
+ "pages": [
+  {
+   "url": "https://www.swedenabroad.se/en/embassies/usa-washington/",
+   "status": null,
+   "final_url": "",
+   "title": "",
+   "dates": 0,
+   "jsonld": 0,
+   "jsonld_samples": [],
+   "hints": [],
+   "iframes": [],
+   "event_links": [],
+   "platform": "",
+   "error": "HTTPError: HTTP Error 403: "
+  },
+  {
+   "url": "https://www.swedenabroad.se/",
+   "status": null,
+   "final_url": "",
+   "title": "",
+   "dates": 0,
+   "jsonld": 0,
+   "jsonld_samples": [],
+   "hints": [],
+   "iframes": [],
+   "event_links": [],
+   "platform": "",
+   "error": "HTTPError: HTTP Error 403: "
+  }
+ ],
+ "best_page": "https://www.swedenabroad.se/en/embassies/usa-washington/"
+}

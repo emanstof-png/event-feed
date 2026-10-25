@@ -1,0 +1,333 @@
+{
+ "row": "13",
+ "name": "International Club of DC",
+ "seed_url": "https://www.internationalclubdc.com/",
+ "programs": "Social events (skip dance-centered ones)",
+ "access": "Public; check ticket eligibility",
+ "found": "2026-10-25 02:00Z",
+ "search_hits": [],
+ "search_error": "",
+ "probes": [
+  {
+   "url": "https://www.internationalclubdc.com/wp-json/tribe/events/v1/events?per_page=10",
+   "status": "HTTPError",
+   "events": 0
+  },
+  {
+   "url": "https://www.internationalclubdc.com/events/?ical=1",
+   "status": 200,
+   "events": 0,
+   "head": "\r\n<!DOCTYPE html>\r\n<html lang=\"en\">\r\n<head><link rel=\"shortcut icon\" type=\"image/x-icon\" href=\"/favicon.ico\" /><meta charset=\"utf-8\" /><meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\" /><title>\r\n\tInternational Club of DC - \r\n</title><script src=\"/bundles/modernizr?v=inCVuEFe6J4Q"
+  },
+  {
+   "url": "https://www.internationalclubdc.com/?ical=1",
+   "status": 200,
+   "events": 0,
+   "head": "\r\n<!DOCTYPE html>\r\n<html lang=\"en\">\r\n<head><link rel=\"shortcut icon\" type=\"image/x-icon\" href=\"/favicon.ico\" /><meta charset=\"utf-8\" /><meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\" /><title>\r\n\tInternational Club of DC - International Club of DC Inc. Embassy Events, Wine Tasti"
+  }
+ ],
+ "pages": [
+  {
+   "url": "https://www.internationalclubdc.com/",
+   "status": 200,
+   "final_url": "https://www.internationalclubdc.com/",
+   "title": "International Club of DC - International Club of DC Inc. Embassy Events, Wine Tastings, Galas, Concerts, and other Cultu",
+   "dates": 14,
+   "jsonld": 0,
+   "jsonld_samples": [],
+   "hints": [],
+   "iframes": [
+    "https://player.vimeo.com/video/1019293975?badge=0&autopause=0&player_id=0&app_id=58479",
+    "https://player.vimeo.com/video/108515958"
+   ],
+   "event_links": [
+    {
+     "text": "Events",
+     "url": "https://www.internationalclubdc.com/Events/Calendar"
+    },
+    {
+     "text": "",
+     "url": "https://www.internationalclubdc.com/Events/EventDetails.aspx?EventID=D58C452F-64CA-46A8-9A98-F132F246DD6E"
+    },
+    {
+     "text": "",
+     "url": "https://www.internationalclubdc.com/Events/EventDetails.aspx?EventID=B4B71E2D-3199-42BE-B4F1-603EC2F8C74D"
+    },
+    {
+     "text": "",
+     "url": "https://www.internationalclubdc.com/Events/EventDetails.aspx?EventID=6C2F2546-8B7F-4F04-B664-2E4668461721"
+    },
+    {
+     "text": "",
+     "url": "https://www.internationalclubdc.com/Events/EventDetails.aspx?EventID=AD9E083F-13A1-4479-B6C5-870E2564B401"
+    },
+    {
+     "text": "",
+     "url": "https://www.internationalclubdc.com/Events/EventDetails.aspx?EventID=2AB396F0-79C4-4254-87CD-8D967EE2A13E"
+    },
+    {
+     "text": "",
+     "url": "https://www.internationalclubdc.com/Events/EventDetails.aspx?EventID=F46F25B0-8E77-451F-8197-0F415C7C6962"
+    },
+    {
+     "text": "",
+     "url": "https://www.internationalclubdc.com/Events/EventDetails.aspx?EventID=AE042422-4B81-4E63-8D0F-530008D180A0"
+    },
+    {
+     "text": "",
+     "url": "https://www.internationalclubdc.com/Events/EventDetails.aspx?EventID=F97F8440-55E9-4654-A6C3-9C72356912B9"
+    },
+    {
+     "text": "",
+     "url": "https://www.internationalclubdc.com/Events/EventDetails.aspx?EventID=F6DDC0F5-2D74-4541-9A33-03FC2D9F84FD"
+    },
+    {
+     "text": "",
+     "url": "https://www.internationalclubdc.com/Events/EventDetails.aspx?EventID=9C5A6CF5-74B2-4B7E-B620-D562B3FE3ABF"
+    },
+    {
+     "text": "",
+     "url": "https://www.internationalclubdc.com/Events/EventDetails.aspx?EventID=326AE6E7-DB44-4C07-ADA8-7887FA9B5B55"
+    },
+    {
+     "text": "",
+     "url": "https://www.internationalclubdc.com/Events/EventDetails.aspx?EventID=2087C2FA-4B1A-4BF3-B7B5-434C0F1FAA7B"
+    },
+    {
+     "text": "Viennese Ball at the Embassy of Austria",
+     "url": "https://www.internationalclubdc.com/specialevents/Viennese-Ball-washington-dc/Viennese-Ball.aspx"
+    },
+    {
+     "text": "Viennese waltz lessons at the Austrian Embassy the night bef",
+     "url": "https://www.internationalclubdc.com/SpecialEvents/Viennese-Waltz-Lessons/Viennese-Waltz-Lessons.aspx"
+    },
+    {
+     "text": "Ticket Policy",
+     "url": "https://www.internationalclubdc.com/About/TicketSalesPolicy.aspx"
+    },
+    {
+     "text": "Calendar of Events",
+     "url": "https://www.internationalclubdc.com/Events/Calendar.aspx"
+    },
+    {
+     "text": "Photos of Past Events",
+     "url": "https://www.internationalclubdc.com/Photos/Default.aspx"
+    },
+    {
+     "text": "Videos of Past Events",
+     "url": "https://www.internationalclubdc.com/Videos.aspx"
+    }
+   ],
+   "platform": "",
+   "error": ""
+  },
+  {
+   "url": "https://www.internationalclubdc.com/Events/Calendar",
+   "status": 200,
+   "final_url": "https://www.internationalclubdc.com/Events/Calendar",
+   "title": "International Club of DC -",
+   "dates": 0,
+   "jsonld": 0,
+   "jsonld_samples": [],
+   "hints": [],
+   "iframes": [],
+   "event_links": [
+    {
+     "text": "Events",
+     "url": "https://www.internationalclubdc.com/Events/Calendar"
+    },
+    {
+     "text": "Embassy Row Rooftop Night in Havana Under the Stars with Lat",
+     "url": "https://www.internationalclubdc.com/Events/EventDetails.aspx?EventID=8D8C2716-1B16-4696-972C-06227AB3157E"
+    },
+    {
+     "text": "Concert and French Wine Reception at the Embassy of France L",
+     "url": "https://www.internationalclubdc.com/Events/EventDetails.aspx?EventID=3D845FD4-DD49-469E-B971-DD94528BD600"
+    },
+    {
+     "text": "Chocolate Feast in Spain: Exquisite Chocolates and Truffles ",
+     "url": "https://www.internationalclubdc.com/Events/EventDetails.aspx?EventID=C1AAD75E-83A2-4564-A861-DCF6EEC5D0E3"
+    },
+    {
+     "text": "Jane Austen Ball and Garden Soiree at Georgetown Dumbarton H",
+     "url": "https://www.internationalclubdc.com/Events/EventDetails.aspx?EventID=0CBDE380-4667-49DA-B797-C755F2AADC63"
+    },
+    {
+     "text": "Library of Congress Guided Tour with Walking Tour from Union",
+     "url": "https://www.internationalclubdc.com/Events/EventDetails.aspx?EventID=EF8A7ACB-6E93-43BF-9B56-671C9912AFAC"
+    },
+    {
+     "text": "Halloween under the Stars at the Embassy Row Rooftop: Dance ",
+     "url": "https://www.internationalclubdc.com/Events/EventDetails.aspx?EventID=D58C452F-64CA-46A8-9A98-F132F246DD6E"
+    },
+    {
+     "text": "Austrian Embassy Viennese Waltz Lessons and Dance Rehearsal ",
+     "url": "https://www.internationalclubdc.com/Events/EventDetails.aspx?EventID=F97F8440-55E9-4654-A6C3-9C72356912B9"
+    },
+    {
+     "text": "Austrian Embassy Annual Viennese Ball: A Night in Vienna and",
+     "url": "https://www.internationalclubdc.com/Events/EventDetails.aspx?EventID=2AB396F0-79C4-4254-87CD-8D967EE2A13E"
+    },
+    {
+     "text": "Tour of the US Capitol with Walking Tour from Union Station",
+     "url": "https://www.internationalclubdc.com/Events/EventDetails.aspx?EventID=6C2F2546-8B7F-4F04-B664-2E4668461721"
+    },
+    {
+     "text": "French Embassy Beaujolais Nouveau Wine Celebration: Evening ",
+     "url": "https://www.internationalclubdc.com/Events/EventDetails.aspx?EventID=B4B71E2D-3199-42BE-B4F1-603EC2F8C74D"
+    },
+    {
+     "text": "Chocolate Feast in Spain: Exquisite Chocolates and Truffles ",
+     "url": "https://www.internationalclubdc.com/Events/EventDetails.aspx?EventID=2087C2FA-4B1A-4BF3-B7B5-434C0F1FAA7B"
+    },
+    {
+     "text": "Portuguese Ambassador's Residence Concert and Dinner by the ",
+     "url": "https://www.internationalclubdc.com/Events/EventDetails.aspx?EventID=AD9E083F-13A1-4479-B6C5-870E2564B401"
+    },
+    {
+     "text": "Concert and French Wine Reception at the Embassy of France L",
+     "url": "https://www.internationalclubdc.com/Events/EventDetails.aspx?EventID=F6DDC0F5-2D74-4541-9A33-03FC2D9F84FD"
+    },
+    {
+     "text": "Library of Congress Guided Tour with Walking Tour from Union",
+     "url": "https://www.internationalclubdc.com/Events/EventDetails.aspx?EventID=326AE6E7-DB44-4C07-ADA8-7887FA9B5B55"
+    },
+    {
+     "text": "Black Tie New Year's Eve Gala at the Luxurious Willard Inter",
+     "url": "https://www.internationalclubdc.com/Events/EventDetails.aspx?EventID=9C5A6CF5-74B2-4B7E-B620-D562B3FE3ABF"
+    },
+    {
+     "text": "Ticket Policy",
+     "url": "https://www.internationalclubdc.com/About/TicketSalesPolicy.aspx"
+    },
+    {
+     "text": "Calendar of Events",
+     "url": "https://www.internationalclubdc.com/Events/Calendar.aspx"
+    },
+    {
+     "text": "Photos of Past Events",
+     "url": "https://www.internationalclubdc.com/Photos/Default.aspx"
+    },
+    {
+     "text": "Videos of Past Events",
+     "url": "https://www.internationalclubdc.com/Videos.aspx"
+    }
+   ],
+   "platform": "",
+   "error": ""
+  },
+  {
+   "url": "https://www.internationalclubdc.com/Events/EventDetails.aspx?EventID=D58C452F-64CA-46A8-9A98-F132F246DD6E",
+   "status": 200,
+   "final_url": "https://www.internationalclubdc.com/Events/EventDetails.aspx?EventID=D58C452F-64CA-46A8-9A98-F132F246DD6E",
+   "title": "International Club of DC -",
+   "dates": 1,
+   "jsonld": 0,
+   "jsonld_samples": [],
+   "hints": [],
+   "iframes": [
+    "https://player.vimeo.com/video/875754016",
+    "https://www.google.com/maps/embed/v1/place?key=AIzaSyBWFaDEgrVqG3KBtglmaJOopO2IZS318N0            &zoom=16&q=2015 Massachusetts Avenue NW, Washington DC 20036 "
+   ],
+   "event_links": [
+    {
+     "text": "Events",
+     "url": "https://www.internationalclubdc.com/Events/Calendar"
+    },
+    {
+     "text": "Ticket Policy",
+     "url": "https://www.internationalclubdc.com/About/TicketSalesPolicy.aspx"
+    },
+    {
+     "text": "Calendar of Events",
+     "url": "https://www.internationalclubdc.com/Events/Calendar.aspx"
+    },
+    {
+     "text": "Photos of Past Events",
+     "url": "https://www.internationalclubdc.com/Photos/Default.aspx"
+    },
+    {
+     "text": "Videos of Past Events",
+     "url": "https://www.internationalclubdc.com/Videos.aspx"
+    }
+   ],
+   "platform": "eventbrite",
+   "error": ""
+  },
+  {
+   "url": "https://www.internationalclubdc.com/Events/EventDetails.aspx?EventID=B4B71E2D-3199-42BE-B4F1-603EC2F8C74D",
+   "status": 200,
+   "final_url": "https://www.internationalclubdc.com/Events/EventDetails.aspx?EventID=B4B71E2D-3199-42BE-B4F1-603EC2F8C74D",
+   "title": "International Club of DC -",
+   "dates": 1,
+   "jsonld": 0,
+   "jsonld_samples": [],
+   "hints": [],
+   "iframes": [
+    "https://www.google.com/maps/embed/v1/place?key=AIzaSyBWFaDEgrVqG3KBtglmaJOopO2IZS318N0            &zoom=16&q=4101 Reservoir Road NW, Washington DC 20007 "
+   ],
+   "event_links": [
+    {
+     "text": "Events",
+     "url": "https://www.internationalclubdc.com/Events/Calendar"
+    },
+    {
+     "text": "Ticket Policy",
+     "url": "https://www.internationalclubdc.com/About/TicketSalesPolicy.aspx"
+    },
+    {
+     "text": "Calendar of Events",
+     "url": "https://www.internationalclubdc.com/Events/Calendar.aspx"
+    },
+    {
+     "text": "Photos of Past Events",
+     "url": "https://www.internationalclubdc.com/Photos/Default.aspx"
+    },
+    {
+     "text": "Videos of Past Events",
+     "url": "https://www.internationalclubdc.com/Videos.aspx"
+    }
+   ],
+   "platform": "eventbrite",
+   "error": ""
+  },
+  {
+   "url": "https://www.internationalclubdc.com/Events/EventDetails.aspx?EventID=6C2F2546-8B7F-4F04-B664-2E4668461721",
+   "status": 200,
+   "final_url": "https://www.internationalclubdc.com/Events/EventDetails.aspx?EventID=6C2F2546-8B7F-4F04-B664-2E4668461721",
+   "title": "International Club of DC -",
+   "dates": 1,
+   "jsonld": 0,
+   "jsonld_samples": [],
+   "hints": [],
+   "iframes": [
+    "https://www.google.com/maps/embed/v1/place?key=AIzaSyBWFaDEgrVqG3KBtglmaJOopO2IZS318N0            &zoom=16&q=50 Massachusetts Avenue, N.E., Washington DC 20002 "
+   ],
+   "event_links": [
+    {
+     "text": "Events",
+     "url": "https://www.internationalclubdc.com/Events/Calendar"
+    },
+    {
+     "text": "Ticket Policy",
+     "url": "https://www.internationalclubdc.com/About/TicketSalesPolicy.aspx"
+    },
+    {
+     "text": "Calendar of Events",
+     "url": "https://www.internationalclubdc.com/Events/Calendar.aspx"
+    },
+    {
+     "text": "Photos of Past Events",
+     "url": "https://www.internationalclubdc.com/Photos/Default.aspx"
+    },
+    {
+     "text": "Videos of Past Events",
+     "url": "https://www.internationalclubdc.com/Videos.aspx"
+    }
+   ],
+   "platform": "eventbrite",
+   "error": ""
+  }
+ ],
+ "best_page": "https://www.internationalclubdc.com/"
+}

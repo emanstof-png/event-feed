@@ -1,0 +1,160 @@
+{
+ "row": "15",
+ "name": "TiE DC",
+ "seed_url": "https://dc.tie.org/events/",
+ "programs": "Events",
+ "access": "Public; guest vs member registration",
+ "found": "2026-10-25 02:00Z",
+ "search_hits": [],
+ "search_error": "",
+ "probes": [
+  {
+   "url": "https://dc.tie.org/wp-json/tribe/events/v1/events?per_page=10",
+   "status": "HTTPError",
+   "events": 0
+  },
+  {
+   "url": "https://dc.tie.org/events/?ical=1",
+   "status": 200,
+   "events": 0,
+   "head": "<!DOCTYPE html><html lang=\"en\"><head><meta charSet=\"utf-8\"/><meta name=\"viewport\" content=\"width=device-width, initial-scale=1\"/><link rel=\"preload\" as=\"image\" href=\"/tie-logo.svg\" fetchPriority=\"high\"/><link rel=\"preload\" as=\"image\" href=\"/events/oral.png\"/><link rel=\"preload\" as=\"image\" href=\"/eve"
+  },
+  {
+   "url": "https://dc.tie.org/?ical=1",
+   "status": 200,
+   "events": 0,
+   "head": "<!DOCTYPE html><html lang=\"en\"><head><meta charSet=\"utf-8\"/><meta name=\"viewport\" content=\"width=device-width, initial-scale=1\"/><link rel=\"preload\" as=\"image\" href=\"/tie-logo.svg\" fetchPriority=\"high\"/><link rel=\"preload\" as=\"image\" href=\"/pillars/mentoring.png\" fetchPriority=\"high\"/><link rel=\"pre"
+  }
+ ],
+ "pages": [
+  {
+   "url": "https://dc.tie.org/events/",
+   "status": 200,
+   "final_url": "https://dc.tie.org/events",
+   "title": "TiE DC: A Leader In Empowering Entrepreneurship",
+   "dates": 0,
+   "jsonld": 0,
+   "jsonld_samples": [],
+   "hints": [],
+   "iframes": [
+    "https://events.tie.org/events?brandId=34204000003245022&isEmbed=true"
+   ],
+   "event_links": [
+    {
+     "text": "Events",
+     "url": "https://dc.tie.org/events"
+    },
+    {
+     "text": "Programs",
+     "url": "https://dc.tie.org/programs"
+    }
+   ],
+   "platform": "",
+   "error": ""
+  },
+  {
+   "url": "https://dc.tie.org/",
+   "status": 200,
+   "final_url": "https://dc.tie.org/",
+   "title": "TiE DC: A Leader In Empowering Entrepreneurship",
+   "dates": 0,
+   "jsonld": 0,
+   "jsonld_samples": [],
+   "hints": [],
+   "iframes": [
+    "https://events.tie.org/events?brandId=34204000003245022&isEmbed=true"
+   ],
+   "event_links": [
+    {
+     "text": "Events",
+     "url": "https://dc.tie.org/events"
+    },
+    {
+     "text": "Programs",
+     "url": "https://dc.tie.org/programs"
+    },
+    {
+     "text": "READ MORE",
+     "url": "https://tie.org/programs/tg-angels/"
+    }
+   ],
+   "platform": "",
+   "error": ""
+  },
+  {
+   "url": "https://dc.tie.org/events",
+   "status": 200,
+   "final_url": "https://dc.tie.org/events",
+   "title": "TiE DC: A Leader In Empowering Entrepreneurship",
+   "dates": 0,
+   "jsonld": 0,
+   "jsonld_samples": [],
+   "hints": [],
+   "iframes": [
+    "https://events.tie.org/events?brandId=34204000003245022&isEmbed=true"
+   ],
+   "event_links": [
+    {
+     "text": "Events",
+     "url": "https://dc.tie.org/events"
+    },
+    {
+     "text": "Programs",
+     "url": "https://dc.tie.org/programs"
+    }
+   ],
+   "platform": "",
+   "error": ""
+  },
+  {
+   "url": "https://dc.tie.org/programs",
+   "status": 200,
+   "final_url": "https://dc.tie.org/programs",
+   "title": "Programs - TiE DC",
+   "dates": 0,
+   "jsonld": 0,
+   "jsonld_samples": [],
+   "hints": [],
+   "iframes": [],
+   "event_links": [
+    {
+     "text": "Events",
+     "url": "https://dc.tie.org/events"
+    },
+    {
+     "text": "Programs",
+     "url": "https://dc.tie.org/programs"
+    },
+    {
+     "text": "TYE - Young Entrepreneurs TYE 2026 empowers high-school stud",
+     "url": "https://dc.tie.org/programs/tye"
+    },
+    {
+     "text": "TiE Women TiE Women embraces, engages, and empowers women en",
+     "url": "https://dc.tie.org/programs/tie-women"
+    },
+    {
+     "text": "TiE U A 6-month program designed to fast-track collegiate en",
+     "url": "https://dc.tie.org/programs/tie-u"
+    }
+   ],
+   "platform": "",
+   "error": ""
+  },
+  {
+   "url": "https://tie.org/programs/tg-angels/",
+   "status": null,
+   "final_url": "",
+   "title": "",
+   "dates": 0,
+   "jsonld": 0,
+   "jsonld_samples": [],
+   "hints": [],
+   "iframes": [],
+   "event_links": [],
+   "platform": "",
+   "error": "HTTPError: HTTP Error 404: "
+  }
+ ],
+ "best_page": "https://dc.tie.org/events/"
+}

@@ -1,0 +1,445 @@
+{
+ "row": "26",
+ "name": "Georgetown University Art Galleries",
+ "seed_url": "https://art.georgetown.edu/galleries/",
+ "programs": "Openings; discussions; workshops",
+ "access": "Public; verify year",
+ "found": "2026-10-25 02:00Z",
+ "search_hits": [],
+ "search_error": "",
+ "probes": [
+  {
+   "url": "https://art.georgetown.edu/wp-json/tribe/events/v1/events?per_page=10",
+   "status": "HTTPError",
+   "events": 0
+  },
+  {
+   "url": "https://art.georgetown.edu/events/?ical=1",
+   "status": "HTTPError",
+   "events": 0
+  },
+  {
+   "url": "https://art.georgetown.edu/?ical=1",
+   "status": 200,
+   "events": 0,
+   "head": "<!DOCTYPE html>\n<html class=\"no-js\" lang=\"en\">\n<head>\n  <title>Department of Art and Art History |\n    Georgetown University</title>\n\n<meta charset=\"UTF-8\">\n<meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">\n<meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\"><script type=\"text/ja"
+  }
+ ],
+ "pages": [
+  {
+   "url": "https://art.georgetown.edu/galleries/",
+   "status": 200,
+   "final_url": "https://art.georgetown.edu/exhibitions/",
+   "title": "Galleries | Department of Art and Art History |\n    Georgetown University",
+   "dates": 3,
+   "jsonld": 0,
+   "jsonld_samples": [],
+   "hints": [
+    "https://art.georgetown.edu/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fart.georgetown.edu%2Fexhibitions%2F",
+    "https://art.georgetown.edu/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fart.georgetown.edu%2Fexhibitions%2F&format=xml",
+    "https://art.georgetown.edu/wp-json/wp/v2/pages/2254"
+   ],
+   "iframes": [],
+   "event_links": [
+    {
+     "text": "Academic Programs",
+     "url": "https://art.georgetown.edu/programs/"
+    },
+    {
+     "text": "B.A. in Art History",
+     "url": "https://art.georgetown.edu/programs/art-history/"
+    },
+    {
+     "text": "Program Goals",
+     "url": "https://art.georgetown.edu/programs/art-history/learning-goals/"
+    },
+    {
+     "text": "Requirements",
+     "url": "https://art.georgetown.edu/programs/art-history/requirements/"
+    },
+    {
+     "text": "Study Abroad",
+     "url": "https://art.georgetown.edu/programs/art-history/study-abroad/"
+    },
+    {
+     "text": "Internships",
+     "url": "https://art.georgetown.edu/programs/art-history/internships/"
+    },
+    {
+     "text": "M.A. in Art & Museum Studies",
+     "url": "https://art.georgetown.edu/programs/museum-studies/"
+    },
+    {
+     "text": "Admissions",
+     "url": "https://art.georgetown.edu/programs/museum-studies/admissions/"
+    },
+    {
+     "text": "Learning Goals",
+     "url": "https://art.georgetown.edu/programs/museum-studies/learning-goals/"
+    },
+    {
+     "text": "Requirements",
+     "url": "https://art.georgetown.edu/programs/museum-studies/requirements/"
+    },
+    {
+     "text": "Student Exhibitions",
+     "url": "https://art.georgetown.edu/exhibitions/student-exhibitions/"
+    },
+    {
+     "text": "Read More",
+     "url": "https://art.georgetown.edu/tag/exhibition/"
+    },
+    {
+     "text": "The Georgetown University Art Galleries are pleased to prese",
+     "url": "https://art.georgetown.edu/announcements/the-georgetown-university-art-galleries-spring-2022-exhibitions/"
+    }
+   ],
+   "platform": "wordpress [WordPress]",
+   "error": ""
+  },
+  {
+   "url": "https://art.georgetown.edu/",
+   "status": 200,
+   "final_url": "https://art.georgetown.edu/",
+   "title": "Department of Art and Art History |\n    Georgetown University",
+   "dates": 5,
+   "jsonld": 0,
+   "jsonld_samples": [],
+   "hints": [
+    "https://art.georgetown.edu/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fart.georgetown.edu%2F",
+    "https://art.georgetown.edu/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fart.georgetown.edu%2F&format=xml",
+    "https://art.georgetown.edu/wp-json/wp/v2/pages/927"
+   ],
+   "iframes": [],
+   "event_links": [
+    {
+     "text": "Academic Programs",
+     "url": "https://art.georgetown.edu/programs/"
+    },
+    {
+     "text": "B.A. in Art History",
+     "url": "https://art.georgetown.edu/programs/art-history/"
+    },
+    {
+     "text": "Program Goals",
+     "url": "https://art.georgetown.edu/programs/art-history/learning-goals/"
+    },
+    {
+     "text": "Requirements",
+     "url": "https://art.georgetown.edu/programs/art-history/requirements/"
+    },
+    {
+     "text": "Study Abroad",
+     "url": "https://art.georgetown.edu/programs/art-history/study-abroad/"
+    },
+    {
+     "text": "Internships",
+     "url": "https://art.georgetown.edu/programs/art-history/internships/"
+    },
+    {
+     "text": "M.A. in Art & Museum Studies",
+     "url": "https://art.georgetown.edu/programs/museum-studies/"
+    },
+    {
+     "text": "Admissions",
+     "url": "https://art.georgetown.edu/programs/museum-studies/admissions/"
+    },
+    {
+     "text": "Learning Goals",
+     "url": "https://art.georgetown.edu/programs/museum-studies/learning-goals/"
+    },
+    {
+     "text": "Requirements",
+     "url": "https://art.georgetown.edu/programs/museum-studies/requirements/"
+    },
+    {
+     "text": "Galleries",
+     "url": "https://art.georgetown.edu/exhibitions/"
+    },
+    {
+     "text": "Student Exhibitions",
+     "url": "https://art.georgetown.edu/exhibitions/student-exhibitions/"
+    },
+    {
+     "text": "Recent Exhibitions",
+     "url": "https://guartgalleries.org/"
+    },
+    {
+     "text": "All Upcoming Events",
+     "url": "https://events.georgetown.edu/art"
+    }
+   ],
+   "platform": "wordpress [WordPress]",
+   "error": ""
+  },
+  {
+   "url": "https://art.georgetown.edu/programs/",
+   "status": 200,
+   "final_url": "https://art.georgetown.edu/programs/",
+   "title": "Academic Programs | Department of Art and Art History |\n    Georgetown University",
+   "dates": 0,
+   "jsonld": 0,
+   "jsonld_samples": [],
+   "hints": [
+    "https://art.georgetown.edu/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fart.georgetown.edu%2Fprograms%2F",
+    "https://art.georgetown.edu/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fart.georgetown.edu%2Fprograms%2F&format=xml",
+    "https://art.georgetown.edu/wp-json/wp/v2/pages/925"
+   ],
+   "iframes": [],
+   "event_links": [
+    {
+     "text": "B.A. in Art History",
+     "url": "https://art.georgetown.edu/programs/art-history/"
+    },
+    {
+     "text": "Program Goals",
+     "url": "https://art.georgetown.edu/programs/art-history/learning-goals/"
+    },
+    {
+     "text": "Requirements",
+     "url": "https://art.georgetown.edu/programs/art-history/requirements/"
+    },
+    {
+     "text": "Study Abroad",
+     "url": "https://art.georgetown.edu/programs/art-history/study-abroad/"
+    },
+    {
+     "text": "Internships",
+     "url": "https://art.georgetown.edu/programs/art-history/internships/"
+    },
+    {
+     "text": "M.A. in Art & Museum Studies",
+     "url": "https://art.georgetown.edu/programs/museum-studies/"
+    },
+    {
+     "text": "Admissions",
+     "url": "https://art.georgetown.edu/programs/museum-studies/admissions/"
+    },
+    {
+     "text": "Learning Goals",
+     "url": "https://art.georgetown.edu/programs/museum-studies/learning-goals/"
+    },
+    {
+     "text": "Requirements",
+     "url": "https://art.georgetown.edu/programs/museum-studies/requirements/"
+    },
+    {
+     "text": "Galleries",
+     "url": "https://art.georgetown.edu/exhibitions/"
+    },
+    {
+     "text": "Student Exhibitions",
+     "url": "https://art.georgetown.edu/exhibitions/student-exhibitions/"
+    },
+    {
+     "text": "Learn More About Our Art Program",
+     "url": "https://art.georgetown.edu/programs/art-history/art/"
+    }
+   ],
+   "platform": "wordpress [WordPress]",
+   "error": ""
+  },
+  {
+   "url": "https://art.georgetown.edu/programs/art-history/",
+   "status": 200,
+   "final_url": "https://art.georgetown.edu/programs/art-history/",
+   "title": "B.A. in Art History | Department of Art and Art History |\n    Georgetown University",
+   "dates": 0,
+   "jsonld": 0,
+   "jsonld_samples": [],
+   "hints": [
+    "https://art.georgetown.edu/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fart.georgetown.edu%2Fprograms%2Fart-history%2F",
+    "https://art.georgetown.edu/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fart.georgetown.edu%2Fprograms%2Fart-history%2F&format=xml",
+    "https://art.georgetown.edu/wp-json/wp/v2/pages/909"
+   ],
+   "iframes": [],
+   "event_links": [
+    {
+     "text": "Academic Programs",
+     "url": "https://art.georgetown.edu/programs/"
+    },
+    {
+     "text": "Program Goals",
+     "url": "https://art.georgetown.edu/programs/art-history/learning-goals/"
+    },
+    {
+     "text": "Requirements",
+     "url": "https://art.georgetown.edu/programs/art-history/requirements/"
+    },
+    {
+     "text": "Study Abroad",
+     "url": "https://art.georgetown.edu/programs/art-history/study-abroad/"
+    },
+    {
+     "text": "Internships",
+     "url": "https://art.georgetown.edu/programs/art-history/internships/"
+    },
+    {
+     "text": "M.A. in Art & Museum Studies",
+     "url": "https://art.georgetown.edu/programs/museum-studies/"
+    },
+    {
+     "text": "Admissions",
+     "url": "https://art.georgetown.edu/programs/museum-studies/admissions/"
+    },
+    {
+     "text": "Learning Goals",
+     "url": "https://art.georgetown.edu/programs/museum-studies/learning-goals/"
+    },
+    {
+     "text": "Requirements",
+     "url": "https://art.georgetown.edu/programs/museum-studies/requirements/"
+    },
+    {
+     "text": "Galleries",
+     "url": "https://art.georgetown.edu/exhibitions/"
+    },
+    {
+     "text": "Student Exhibitions",
+     "url": "https://art.georgetown.edu/exhibitions/student-exhibitions/"
+    },
+    {
+     "text": "Integrated Writing (IW) in Art History",
+     "url": "https://art.georgetown.edu/programs/art-history/requirements/iw/"
+    }
+   ],
+   "platform": "wordpress [WordPress]",
+   "error": ""
+  },
+  {
+   "url": "https://art.georgetown.edu/programs/art-history/learning-goals/",
+   "status": 200,
+   "final_url": "https://art.georgetown.edu/programs/art-history/learning-goals/",
+   "title": "Program Goals | Department of Art and Art History |\n    Georgetown University",
+   "dates": 0,
+   "jsonld": 0,
+   "jsonld_samples": [],
+   "hints": [
+    "https://art.georgetown.edu/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fart.georgetown.edu%2Fprograms%2Fart-history%2Flearning-goals%2F",
+    "https://art.georgetown.edu/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fart.georgetown.edu%2Fprograms%2Fart-history%2Flearning-goals%2F&format=xml",
+    "https://art.georgetown.edu/wp-json/wp/v2/pages/908"
+   ],
+   "iframes": [],
+   "event_links": [
+    {
+     "text": "Academic Programs",
+     "url": "https://art.georgetown.edu/programs/"
+    },
+    {
+     "text": "B.A. in Art History",
+     "url": "https://art.georgetown.edu/programs/art-history/"
+    },
+    {
+     "text": "Requirements",
+     "url": "https://art.georgetown.edu/programs/art-history/requirements/"
+    },
+    {
+     "text": "Study Abroad",
+     "url": "https://art.georgetown.edu/programs/art-history/study-abroad/"
+    },
+    {
+     "text": "Internships",
+     "url": "https://art.georgetown.edu/programs/art-history/internships/"
+    },
+    {
+     "text": "M.A. in Art & Museum Studies",
+     "url": "https://art.georgetown.edu/programs/museum-studies/"
+    },
+    {
+     "text": "Admissions",
+     "url": "https://art.georgetown.edu/programs/museum-studies/admissions/"
+    },
+    {
+     "text": "Learning Goals",
+     "url": "https://art.georgetown.edu/programs/museum-studies/learning-goals/"
+    },
+    {
+     "text": "Requirements",
+     "url": "https://art.georgetown.edu/programs/museum-studies/requirements/"
+    },
+    {
+     "text": "Galleries",
+     "url": "https://art.georgetown.edu/exhibitions/"
+    },
+    {
+     "text": "Student Exhibitions",
+     "url": "https://art.georgetown.edu/exhibitions/student-exhibitions/"
+    },
+    {
+     "text": "Integrated Writing (IW) in Art History",
+     "url": "https://art.georgetown.edu/programs/art-history/requirements/iw/"
+    }
+   ],
+   "platform": "wordpress [WordPress]",
+   "error": ""
+  },
+  {
+   "url": "https://art.georgetown.edu/programs/art-history/requirements/",
+   "status": 200,
+   "final_url": "https://art.georgetown.edu/programs/art-history/requirements/",
+   "title": "Requirements | Department of Art and Art History |\n    Georgetown University",
+   "dates": 0,
+   "jsonld": 0,
+   "jsonld_samples": [],
+   "hints": [
+    "https://art.georgetown.edu/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fart.georgetown.edu%2Fprograms%2Fart-history%2Frequirements%2F",
+    "https://art.georgetown.edu/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fart.georgetown.edu%2Fprograms%2Fart-history%2Frequirements%2F&format=xml",
+    "https://art.georgetown.edu/wp-json/wp/v2/pages/907"
+   ],
+   "iframes": [],
+   "event_links": [
+    {
+     "text": "Academic Programs",
+     "url": "https://art.georgetown.edu/programs/"
+    },
+    {
+     "text": "B.A. in Art History",
+     "url": "https://art.georgetown.edu/programs/art-history/"
+    },
+    {
+     "text": "Program Goals",
+     "url": "https://art.georgetown.edu/programs/art-history/learning-goals/"
+    },
+    {
+     "text": "Study Abroad",
+     "url": "https://art.georgetown.edu/programs/art-history/study-abroad/"
+    },
+    {
+     "text": "Internships",
+     "url": "https://art.georgetown.edu/programs/art-history/internships/"
+    },
+    {
+     "text": "M.A. in Art & Museum Studies",
+     "url": "https://art.georgetown.edu/programs/museum-studies/"
+    },
+    {
+     "text": "Admissions",
+     "url": "https://art.georgetown.edu/programs/museum-studies/admissions/"
+    },
+    {
+     "text": "Learning Goals",
+     "url": "https://art.georgetown.edu/programs/museum-studies/learning-goals/"
+    },
+    {
+     "text": "Requirements",
+     "url": "https://art.georgetown.edu/programs/museum-studies/requirements/"
+    },
+    {
+     "text": "Galleries",
+     "url": "https://art.georgetown.edu/exhibitions/"
+    },
+    {
+     "text": "Student Exhibitions",
+     "url": "https://art.georgetown.edu/exhibitions/student-exhibitions/"
+    },
+    {
+     "text": "Integrated Writing (IW) in Art History",
+     "url": "https://art.georgetown.edu/programs/art-history/requirements/iw/"
+    }
+   ],
+   "platform": "wordpress [WordPress]",
+   "error": ""
+  }
+ ],
+ "best_page": "https://art.georgetown.edu/"
+}

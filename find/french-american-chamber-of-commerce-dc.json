@@ -1,0 +1,216 @@
+{
+ "row": "11",
+ "name": "French-American Chamber of Commerce DC",
+ "seed_url": "https://www.faccwdc.org/",
+ "programs": "Mixers; receptions; gala",
+ "access": "Event and member prices vary; attend a nonmember reception first",
+ "found": "2026-10-25 01:59Z",
+ "search_hits": [],
+ "search_error": "",
+ "probes": [
+  {
+   "url": "https://faccwdc.org/wp-json/tribe/events/v1/events?per_page=10",
+   "status": "HTTPError",
+   "events": 0
+  },
+  {
+   "url": "https://faccwdc.org/events/?ical=1",
+   "status": "HTTPError",
+   "events": 0
+  },
+  {
+   "url": "https://faccwdc.org/?ical=1",
+   "status": 200,
+   "events": 0,
+   "head": "<!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"ie ie6 \" lang=\"en\" dir=\"ltr\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"ie ie7 \" lang=\"en\" dir=\"ltr\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"ie ie8 \" lang=\"en\" dir=\"ltr\"> <![endif]-->\n<!--[if gt IE 8]> <!--> <html class=\" \" lang=\"en\" dir=\"ltr\"> <"
+  }
+ ],
+ "pages": [
+  {
+   "url": "https://www.faccwdc.org/",
+   "status": 200,
+   "final_url": "https://faccwdc.org/",
+   "title": "Front page DC | FACC Washington D.C. Chapter",
+   "dates": 13,
+   "jsonld": 0,
+   "jsonld_samples": [],
+   "hints": [],
+   "iframes": [
+    "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1330.7735609282283!2d-77.07956323183289!3d38.913876403311995!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89b7b7ce0235c573%3A0xe229a3007674f905!2sAmbassade+de+France+%2F+Embassy+of+France!5e0!3m2!1sen!2spt!4v1547074753512"
+   ],
+   "event_links": [
+    {
+     "text": "Event Calendar",
+     "url": "https://faccwdc.org/civicrm/showevents?id=1"
+    },
+    {
+     "text": "Event List",
+     "url": "https://www.faccwdc.org/civicrm/event/ical?reset=1&list=1&html=1"
+    },
+    {
+     "text": "International Career Development Programs",
+     "url": "https://faccwdc.org/dc/international-career-development-programs"
+    },
+    {
+     "text": "FACC Events",
+     "url": "https://faccwdc.org/dc/facc-events"
+    },
+    {
+     "text": "La Galette des Rois International Business Mixer",
+     "url": "https://faccwdc.org/events/la-galette-des-rois-international-business-mixer"
+    },
+    {
+     "text": "Jazz vs Wizards - French Heritage Night - With Meet & Greet",
+     "url": "https://faccwdc.org/events/jazz-vs-wizards-french-heritage-night-meet-greet"
+    }
+   ],
+   "platform": "drupal",
+   "error": ""
+  },
+  {
+   "url": "https://faccwdc.org/civicrm/showevents?id=1",
+   "status": 200,
+   "final_url": "https://faccwdc.org/civicrm/showevents?id=1",
+   "title": "Event Calendar | FACC Washington D.C. Chapter",
+   "dates": 0,
+   "jsonld": 0,
+   "jsonld_samples": [],
+   "hints": [],
+   "iframes": [],
+   "event_links": [
+    {
+     "text": "Event Calendar",
+     "url": "https://faccwdc.org/civicrm/showevents?id=1"
+    },
+    {
+     "text": "Event List",
+     "url": "https://www.faccwdc.org/civicrm/event/ical?reset=1&list=1&html=1"
+    },
+    {
+     "text": "International Career Development Programs",
+     "url": "https://faccwdc.org/dc/international-career-development-programs"
+    },
+    {
+     "text": "FACC Events",
+     "url": "https://faccwdc.org/dc/facc-events"
+    },
+    {
+     "text": "",
+     "url": "https://faccwdc.org/fr/civicrm/showevents?id=1"
+    }
+   ],
+   "platform": "drupal",
+   "error": ""
+  },
+  {
+   "url": "https://www.faccwdc.org/civicrm/event/ical?reset=1&list=1&html=1",
+   "status": 200,
+   "final_url": "https://faccwdc.org/civicrm/event/list?reset=1",
+   "title": "Current and Upcoming Events | FACC Washington D.C. Chapter",
+   "dates": 0,
+   "jsonld": 0,
+   "jsonld_samples": [],
+   "hints": [],
+   "iframes": [],
+   "event_links": [
+    {
+     "text": "Event Calendar",
+     "url": "https://faccwdc.org/civicrm/showevents?id=1"
+    },
+    {
+     "text": "Event List",
+     "url": "https://www.faccwdc.org/civicrm/event/ical?reset=1&list=1&html=1"
+    },
+    {
+     "text": "International Career Development Programs",
+     "url": "https://faccwdc.org/dc/international-career-development-programs"
+    },
+    {
+     "text": "FACC Events",
+     "url": "https://faccwdc.org/dc/facc-events"
+    },
+    {
+     "text": "",
+     "url": "https://faccwdc.org/fr/civicrm/event/list?reset=1"
+    },
+    {
+     "text": "",
+     "url": "https://faccwdc.org/civicrm/event/list?reset=1"
+    }
+   ],
+   "platform": "drupal",
+   "error": ""
+  },
+  {
+   "url": "https://faccwdc.org/dc/international-career-development-programs",
+   "status": 200,
+   "final_url": "https://faccwdc.org/dc/international-career-development-programs",
+   "title": "International Career Development Programs | FACC Washington D.C. Chapter",
+   "dates": 0,
+   "jsonld": 0,
+   "jsonld_samples": [],
+   "hints": [],
+   "iframes": [],
+   "event_links": [
+    {
+     "text": "Event Calendar",
+     "url": "https://faccwdc.org/civicrm/showevents?id=1"
+    },
+    {
+     "text": "Event List",
+     "url": "https://www.faccwdc.org/civicrm/event/ical?reset=1&list=1&html=1"
+    },
+    {
+     "text": "International Career Development Programs",
+     "url": "https://faccwdc.org/dc/international-career-development-programs"
+    },
+    {
+     "text": "FACC Events",
+     "url": "https://faccwdc.org/dc/facc-events"
+    }
+   ],
+   "platform": "drupal",
+   "error": ""
+  },
+  {
+   "url": "https://faccwdc.org/dc/facc-events",
+   "status": 200,
+   "final_url": "https://faccwdc.org/dc/facc-events",
+   "title": "FACC Events | FACC Washington D.C. Chapter",
+   "dates": 0,
+   "jsonld": 0,
+   "jsonld_samples": [],
+   "hints": [],
+   "iframes": [],
+   "event_links": [
+    {
+     "text": "Event Calendar",
+     "url": "https://faccwdc.org/civicrm/showevents?id=1"
+    },
+    {
+     "text": "Event List",
+     "url": "https://www.faccwdc.org/civicrm/event/ical?reset=1&list=1&html=1"
+    },
+    {
+     "text": "International Career Development Programs",
+     "url": "https://faccwdc.org/dc/international-career-development-programs"
+    },
+    {
+     "text": "FACC Events",
+     "url": "https://faccwdc.org/dc/facc-events"
+    },
+    {
+     "text": "See What's Coming Up",
+     "url": "https://faccwdc.org/civicrm/showevents"
+    },
+    {
+     "text": "See Past Events",
+     "url": "https://faccwdc.org/events"
+    }
+   ],
+   "platform": "drupal",
+   "error": ""
+  }
+ ],
+ "best_page": "https://www.faccwdc.org/"
+}

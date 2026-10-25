@@ -1,0 +1,169 @@
+{
+ "row": "35",
+ "name": "Korean Cultural Center Washington",
+ "seed_url": "https://washingtondc.korean-culture.org/en/1129/board/893/list",
+ "programs": "Special events; exhibitions",
+ "access": "Public; receptions inside exhibition text",
+ "found": "2026-10-25 02:00Z",
+ "search_hits": [],
+ "search_error": "",
+ "probes": [
+  {
+   "url": "https://washingtondc.korean-culture.org/wp-json/tribe/events/v1/events?per_page=10",
+   "status": "HTTPError",
+   "events": 0
+  },
+  {
+   "url": "https://washingtondc.korean-culture.org/events/?ical=1",
+   "status": "HTTPError",
+   "events": 0
+  },
+  {
+   "url": "https://washingtondc.korean-culture.org/?ical=1",
+   "status": 200,
+   "events": 0,
+   "head": "\n\n\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\n\n\n<!DOCTYPE html>\n<html lang=\"ko\">\n<head>\n<title>Korean Culture Center</title>\n<script type=\"text/javascript\">\nlocation.href=\"/en\"\n</script>\n</head>\n</html>"
+  }
+ ],
+ "pages": [
+  {
+   "url": "https://washingtondc.korean-culture.org/en/1129/board/893/list",
+   "status": 200,
+   "final_url": "https://washingtondc.korean-culture.org/en/1129/board/893/list",
+   "title": "Korean Cultural Center Washington, D.C.",
+   "dates": 24,
+   "jsonld": 0,
+   "jsonld_samples": [],
+   "hints": [],
+   "iframes": [],
+   "event_links": [
+    {
+     "text": "Exhibitions",
+     "url": "https://washingtondc.korean-culture.org/en/1126/board/890/list"
+    },
+    {
+     "text": "Special Events",
+     "url": "https://washingtondc.korean-culture.org/en/1129/board/893/list"
+    },
+    {
+     "text": "Outreach Program",
+     "url": "https://washingtondc.korean-culture.org/en/1130/board/894/list"
+    },
+    {
+     "text": "Event Gallery",
+     "url": "https://washingtondc.korean-culture.org/en/1430/board/1199/list"
+    }
+   ],
+   "platform": "",
+   "error": ""
+  },
+  {
+   "url": "https://washingtondc.korean-culture.org/",
+   "status": 200,
+   "final_url": "https://washingtondc.korean-culture.org/",
+   "title": "Korean Culture Center",
+   "dates": 0,
+   "jsonld": 0,
+   "jsonld_samples": [],
+   "hints": [],
+   "iframes": [],
+   "event_links": [],
+   "platform": "",
+   "error": ""
+  },
+  {
+   "url": "https://washingtondc.korean-culture.org/en/1126/board/890/list",
+   "status": 200,
+   "final_url": "https://washingtondc.korean-culture.org/en/1126/board/890/list",
+   "title": "Korean Cultural Center Washington, D.C.",
+   "dates": 41,
+   "jsonld": 0,
+   "jsonld_samples": [],
+   "hints": [],
+   "iframes": [],
+   "event_links": [
+    {
+     "text": "Exhibitions",
+     "url": "https://washingtondc.korean-culture.org/en/1126/board/890/list"
+    },
+    {
+     "text": "Special Events",
+     "url": "https://washingtondc.korean-culture.org/en/1129/board/893/list"
+    },
+    {
+     "text": "Outreach Program",
+     "url": "https://washingtondc.korean-culture.org/en/1130/board/894/list"
+    },
+    {
+     "text": "Event Gallery",
+     "url": "https://washingtondc.korean-culture.org/en/1430/board/1199/list"
+    }
+   ],
+   "platform": "",
+   "error": ""
+  },
+  {
+   "url": "https://washingtondc.korean-culture.org/en/1130/board/894/list",
+   "status": 200,
+   "final_url": "https://washingtondc.korean-culture.org/en/1130/board/894/list",
+   "title": "Korean Cultural Center Washington, D.C.",
+   "dates": 6,
+   "jsonld": 0,
+   "jsonld_samples": [],
+   "hints": [],
+   "iframes": [],
+   "event_links": [
+    {
+     "text": "Exhibitions",
+     "url": "https://washingtondc.korean-culture.org/en/1126/board/890/list"
+    },
+    {
+     "text": "Special Events",
+     "url": "https://washingtondc.korean-culture.org/en/1129/board/893/list"
+    },
+    {
+     "text": "Outreach Program",
+     "url": "https://washingtondc.korean-culture.org/en/1130/board/894/list"
+    },
+    {
+     "text": "Event Gallery",
+     "url": "https://washingtondc.korean-culture.org/en/1430/board/1199/list"
+    }
+   ],
+   "platform": "",
+   "error": ""
+  },
+  {
+   "url": "https://washingtondc.korean-culture.org/en/1430/board/1199/list",
+   "status": 200,
+   "final_url": "https://washingtondc.korean-culture.org/en/1430/board/1199/list",
+   "title": "Korean Cultural Center Washington, D.C.",
+   "dates": 16,
+   "jsonld": 0,
+   "jsonld_samples": [],
+   "hints": [],
+   "iframes": [],
+   "event_links": [
+    {
+     "text": "Exhibitions",
+     "url": "https://washingtondc.korean-culture.org/en/1126/board/890/list"
+    },
+    {
+     "text": "Special Events",
+     "url": "https://washingtondc.korean-culture.org/en/1129/board/893/list"
+    },
+    {
+     "text": "Outreach Program",
+     "url": "https://washingtondc.korean-culture.org/en/1130/board/894/list"
+    },
+    {
+     "text": "Event Gallery",
+     "url": "https://washingtondc.korean-culture.org/en/1430/board/1199/list"
+    }
+   ],
+   "platform": "",
+   "error": ""
+  }
+ ],
+ "best_page": "https://washingtondc.korean-culture.org/en/1126/board/890/list"
+}

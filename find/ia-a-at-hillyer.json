@@ -1,0 +1,58 @@
+{
+ "row": "21",
+ "name": "IA&A at Hillyer",
+ "seed_url": "https://hillyer.org/events/",
+ "programs": "First Fridays; talks; jazz",
+ "access": "Public",
+ "found": "2026-10-25 02:00Z",
+ "search_hits": [],
+ "search_error": "",
+ "probes": [
+  {
+   "url": "https://hillyer.org/wp-json/tribe/events/v1/events?per_page=10",
+   "status": "DNSError",
+   "events": 0
+  },
+  {
+   "url": "https://hillyer.org/events/?ical=1",
+   "status": "DNSError",
+   "events": 0
+  },
+  {
+   "url": "https://hillyer.org/?ical=1",
+   "status": "DNSError",
+   "events": 0
+  }
+ ],
+ "pages": [
+  {
+   "url": "https://hillyer.org/events/",
+   "status": null,
+   "final_url": "",
+   "title": "",
+   "dates": 0,
+   "jsonld": 0,
+   "jsonld_samples": [],
+   "hints": [],
+   "iframes": [],
+   "event_links": [],
+   "platform": "",
+   "error": "DNSError: Failed to perform, curl: (6) Could not resolve host: hillyer.org. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+  },
+  {
+   "url": "https://hillyer.org/",
+   "status": null,
+   "final_url": "",
+   "title": "",
+   "dates": 0,
+   "jsonld": 0,
+   "jsonld_samples": [],
+   "hints": [],
+   "iframes": [],
+   "event_links": [],
+   "platform": "",
+   "error": "DNSError: Failed to perform, curl: (6) Could not resolve host: hillyer.org. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+  }
+ ],
+ "best_page": "https://hillyer.org/events/"
+}

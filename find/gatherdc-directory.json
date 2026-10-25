@@ -1,0 +1,290 @@
+{
+ "row": "53",
+ "name": "GatherDC directory",
+ "seed_url": "https://gatherdc.org/dmv-jewish-organizations/",
+ "programs": "Directory of DMV Jewish organizations",
+ "access": "Directory only: not a calendar",
+ "found": "2026-10-25 02:01Z",
+ "search_hits": [],
+ "search_error": "",
+ "probes": [
+  {
+   "url": "https://gatherdc.org/wp-json/tribe/events/v1/events?per_page=10",
+   "status": 200,
+   "events": 10,
+   "head": "{\"events\":[{\"id\":550987,\"global_id\":\"gatherdc.org?id=550987\",\"global_id_lineage\":[\"gatherdc.org?id=550987\"],\"author\":\"3774\",\"status\":\"publish\",\"date\":\"2026-10-19 10:46:26\",\"date_utc\":\"2026-10-19 14:46:26\",\"modified\":\"2026-10-19 10:46:26\",\"modified_utc\":\"2026-10-19 14:46:26\",\"url\":\"https:\\/\\/gatherdc"
+  },
+  {
+   "url": "https://gatherdc.org/events/?ical=1",
+   "status": 200,
+   "events": 1,
+   "head": "BEGIN:VCALENDAR\r\nVERSION:2.0\r\nPRODID:-//GatherDC - ECPv6.18.1//NONSGML v1.0//EN\r\nCALSCALE:GREGORIAN\r\nMETHOD:PUBLISH\r\nX-WR-CALNAME:GatherDC\r\nX-ORIGINAL-URL:https://gatherdc.org\r\nX-WR-CALDESC:Events for GatherDC\r\nREFRESH-INTERVAL;VALUE=DURATION:PT1H\r\nX-Robots-Tag:noindex\r\nX-PUBLISHED-TTL:PT1H\r\nBEGIN:V"
+  },
+  {
+   "url": "https://gatherdc.org/?ical=1",
+   "status": 200,
+   "events": 26,
+   "head": "BEGIN:VCALENDAR\r\nVERSION:2.0\r\nPRODID:-//GatherDC - ECPv6.18.1//NONSGML v1.0//EN\r\nCALSCALE:GREGORIAN\r\nMETHOD:PUBLISH\r\nX-WR-CALNAME:GatherDC\r\nX-ORIGINAL-URL:https://gatherdc.org\r\nX-WR-CALDESC:Events for GatherDC\r\nREFRESH-INTERVAL;VALUE=DURATION:PT1H\r\nX-Robots-Tag:noindex\r\nX-PUBLISHED-TTL:PT1H\r\nBEGIN:V"
+  }
+ ],
+ "pages": [
+  {
+   "url": "https://gatherdc.org/dmv-jewish-organizations/",
+   "status": null,
+   "final_url": "",
+   "title": "",
+   "dates": 0,
+   "jsonld": 0,
+   "jsonld_samples": [],
+   "hints": [],
+   "iframes": [],
+   "event_links": [],
+   "platform": "",
+   "error": "HTTPError: HTTP Error 404: "
+  },
+  {
+   "url": "https://gatherdc.org/",
+   "status": 200,
+   "final_url": "https://gatherdc.org/",
+   "title": "GatherDC | Find Your People & Place in Jewish DC",
+   "dates": 3,
+   "jsonld": 0,
+   "jsonld_samples": [],
+   "hints": [
+    "https://gatherdc.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fgatherdc.org%2F",
+    "https://gatherdc.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fgatherdc.org%2F&format=xml",
+    "https://gatherdc.org/wp-json/wp/v2/pages/536607",
+    "https://gatherdc.org/wp-json/tribe/events/v1/"
+   ],
+   "iframes": [
+    "https://forms.gatherdc.org/GatherDC/form/DCNewsletterSignup/formperma/NXE623iSrzHCvTQUKFEfFDInuJfIQq4QThQ9JNfWdDE"
+   ],
+   "event_links": [
+    {
+     "text": "Calendar",
+     "url": "https://gatherdc.org/calendar/"
+    },
+    {
+     "text": "Submit Event",
+     "url": "https://gatherdc.org/get-involved/submit-event/"
+    },
+    {
+     "text": "Event Listing Policy",
+     "url": "https://gatherdc.org/get-involved/listing-policy/"
+    }
+   ],
+   "platform": "wordpress tribe-events",
+   "error": ""
+  },
+  {
+   "url": "https://gatherdc.org/calendar/",
+   "status": 200,
+   "final_url": "https://gatherdc.org/calendar/",
+   "title": "Events for October 2026 \u2013 GatherDC",
+   "dates": 318,
+   "jsonld": 259,
+   "jsonld_samples": [
+    {
+     "name": "20th Anniversary Shabbat Dinner with Moishe House Columbia Heights",
+     "start": "2026-10-30T19:30:00-04:00",
+     "url": "https://gatherdc.org/event/20th-anniversary-shabbat-dinner-with-moishe-house-columbia-heights/"
+    },
+    {
+     "name": "Challah-ween Shabbat Dinner &#038; Bonfire Night with Stacy&#8217;s Social Circles and NOVA",
+     "start": "2026-10-30T19:15:00-04:00",
+     "url": "https://gatherdc.org/event/challah-ween-shabbat-dinner-bonfire-night-with-stacys-social-circles-and-nova/"
+    },
+    {
+     "name": "Shabbat Circle with Mesorah DC",
+     "start": "2026-10-30T19:00:00-04:00",
+     "url": "https://gatherdc.org/event/shabbat-circle-with-mesorah-dc-3/"
+    },
+    {
+     "name": "Shabbat Experience with Reva and Adas Israel Congregation",
+     "start": "2026-10-30T17:15:00-04:00",
+     "url": "https://gatherdc.org/event/shabbat-experience-with-reva-and-adas-israel-congregation/"
+    },
+    {
+     "name": "Parsha, Pizza, and Prep with Moishe House Columbia Heights",
+     "start": "2026-10-29T19:00:00-04:00",
+     "url": "https://gatherdc.org/event/parsha-pizza-and-prep-with-moishe-house-columbia-heights/"
+    }
+   ],
+   "hints": [
+    "https://gatherdc.org/calendar/feed/",
+    "https://gatherdc.org/wp-json/tribe/events/v1/",
+    "webcal://gatherdc.org/?post_type=tribe_events&ical=1&eventDisplay=list",
+    "https://gatherdc.org/calendar/month/?ical=1",
+    "https://gatherdc.org/calendar/month/?outlook-ical=1"
+   ],
+   "iframes": [],
+   "event_links": [
+    {
+     "text": "Submit Event",
+     "url": "https://gatherdc.org/get-involved/submit-event/"
+    },
+    {
+     "text": "Event Listing Policy",
+     "url": "https://gatherdc.org/get-involved/listing-policy/"
+    },
+    {
+     "text": "Submit it here.",
+     "url": "https://gatherdc.org/calendar/submit-event/"
+    },
+    {
+     "text": "List",
+     "url": "https://gatherdc.org/calendar/list/"
+    },
+    {
+     "text": "Month",
+     "url": "https://gatherdc.org/calendar/month/"
+    },
+    {
+     "text": "",
+     "url": "https://gatherdc.org/calendar/month/2026-09/"
+    },
+    {
+     "text": "",
+     "url": "https://gatherdc.org/calendar/month/2026-11/"
+    },
+    {
+     "text": "27",
+     "url": "https://gatherdc.org/calendar/2026-09-27/"
+    },
+    {
+     "text": "Sukkot Festival Morning Service and Lunch with Congregation ",
+     "url": "https://gatherdc.org/event/sukkot-festival-morning-service-and-lunch-with-congregation-adat-reyim-2/"
+    },
+    {
+     "text": "Reverse Tashlich: Park Cleanup with Moishe House Columbia He",
+     "url": "https://gatherdc.org/event/reverse-tashlich-park-cleanup-with-moishe-house-columbia-heights/"
+    },
+    {
+     "text": "Sukkot Party in Eastern Market Park with Chabad East DC",
+     "url": "https://gatherdc.org/event/sukkot-party-in-eastern-market-park-with-chabad-east-dc/"
+    },
+    {
+     "text": "Dwelling in the Sukkah with GatherDC",
+     "url": "https://gatherdc.org/event/dwelling-in-the-sukkah-with-gatherdc/"
+    },
+    {
+     "text": "Fall Shabbat Clusters Registration Deadline with the Edlavit",
+     "url": "https://gatherdc.org/event/fall-shabbat-clusters-registration-deadline-with-the-edlavitch-dcjcc/"
+    },
+    {
+     "text": "28",
+     "url": "https://gatherdc.org/calendar/2026-09-28/"
+    },
+    {
+     "text": "Lawyers Lunch & Learn: Sanctioned Bigotry: Antisemitism in U",
+     "url": "https://gatherdc.org/event/lawyers-lunch-learn-sanctioned-bigotry-antisemitism-in-us-history-with-jcrc/"
+    },
+    {
+     "text": "The Den SukkahMobile Pop-Up: Union Market with the Den Colle",
+     "url": "https://gatherdc.org/event/the-den-sukkahmobile-pop-up-union-market-with-the-den-collective/"
+    },
+    {
+     "text": "Krav Maga Training & Info Session with CSS",
+     "url": "https://gatherdc.org/event/krav-maga-training-info-session-with-css/"
+    },
+    {
+     "text": "Catan Tournament with Moishe House Arlington",
+     "url": "https://gatherdc.org/event/catan-tournament-with-moishe-house-arlington/"
+    },
+    {
+     "text": "29",
+     "url": "https://gatherdc.org/calendar/2026-09-29/"
+    },
+    {
+     "text": "Pizza in the Hut with Kesher Israel Congregation",
+     "url": "https://gatherdc.org/event/pizza-in-the-hut-with-kesher-israel-congregation/"
+    },
+    {
+     "text": "What\u2019s At Stake in the Virginia Elections: Constitutional Am",
+     "url": "https://gatherdc.org/event/whats-at-stake-in-the-virginia-elections-constitutional-amendments-with-jufj/"
+    },
+    {
+     "text": "An Evening with Thomas Mallon and Scott Simon with Bet Mishp",
+     "url": "https://gatherdc.org/event/an-evening-with-thomas-mallon-and-scott-simon-with-bet-mishpachah/"
+    },
+    {
+     "text": "Come On In: A Sukkot Art Salon on Belonging with the Den Col",
+     "url": "https://gatherdc.org/event/come-on-in-a-sukkot-art-salon-on-belonging-with-the-den-collective/"
+    },
+    {
+     "text": "30",
+     "url": "https://gatherdc.org/calendar/2026-09-30/"
+    },
+    {
+     "text": "Potluck Dinner in the Sukkah with Fabrangen Havurah",
+     "url": "https://gatherdc.org/event/potluck-dinner-in-the-sukkah-with-fabrangen-havurah/"
+    }
+   ],
+   "platform": "wordpress tribe-events",
+   "error": ""
+  },
+  {
+   "url": "https://gatherdc.org/get-involved/submit-event/",
+   "status": 200,
+   "final_url": "https://gatherdc.org/get-involved/submit-event/",
+   "title": "Submit Event - GatherDC",
+   "dates": 0,
+   "jsonld": 0,
+   "jsonld_samples": [],
+   "hints": [
+    "https://gatherdc.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fgatherdc.org%2Fget-involved%2Fsubmit-event%2F",
+    "https://gatherdc.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fgatherdc.org%2Fget-involved%2Fsubmit-event%2F&format=xml",
+    "https://gatherdc.org/wp-json/wp/v2/pages/536667",
+    "https://gatherdc.org/wp-json/tribe/events/v1/"
+   ],
+   "iframes": [
+    "https://forms.zohopublic.com/GatherDC/form/DCWEBSITEEventCalendar/formperma/JshGwNTcxs6l0XKsIkpsThpNxamsxqtIIvnDjSORLro"
+   ],
+   "event_links": [
+    {
+     "text": "Calendar",
+     "url": "https://gatherdc.org/calendar/"
+    },
+    {
+     "text": "Event Listing Policy",
+     "url": "https://gatherdc.org/get-involved/listing-policy/"
+    },
+    {
+     "text": "Event Listing Policy",
+     "url": "https://gatherdc.org/calendar/listing-policy/"
+    }
+   ],
+   "platform": "wordpress tribe-events",
+   "error": ""
+  },
+  {
+   "url": "https://gatherdc.org/get-involved/listing-policy/",
+   "status": 200,
+   "final_url": "https://gatherdc.org/get-involved/listing-policy/",
+   "title": "Event Listing Policy - GatherDC",
+   "dates": 0,
+   "jsonld": 0,
+   "jsonld_samples": [],
+   "hints": [
+    "https://gatherdc.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fgatherdc.org%2Fget-involved%2Flisting-policy%2F",
+    "https://gatherdc.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fgatherdc.org%2Fget-involved%2Flisting-policy%2F&format=xml",
+    "https://gatherdc.org/wp-json/wp/v2/pages/536645",
+    "https://gatherdc.org/wp-json/tribe/events/v1/"
+   ],
+   "iframes": [],
+   "event_links": [
+    {
+     "text": "Calendar",
+     "url": "https://gatherdc.org/calendar/"
+    },
+    {
+     "text": "Submit Event",
+     "url": "https://gatherdc.org/get-involved/submit-event/"
+    }
+   ],
+   "platform": "wordpress tribe-events",
+   "error": ""
+  }
+ ],
+ "best_page": "https://gatherdc.org/calendar/"
+}

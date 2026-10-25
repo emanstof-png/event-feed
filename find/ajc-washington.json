@@ -1,0 +1,58 @@
+{
+ "row": "42",
+ "name": "AJC Washington",
+ "seed_url": "https://www.ajc.org/washington/events",
+ "programs": "ACCESS DC",
+ "access": "Public regional events; diplomatic invitations not always listed",
+ "found": "2026-10-25 02:00Z",
+ "search_hits": [],
+ "search_error": "",
+ "probes": [
+  {
+   "url": "https://www.ajc.org/wp-json/tribe/events/v1/events?per_page=10",
+   "status": "HTTPError",
+   "events": 0
+  },
+  {
+   "url": "https://www.ajc.org/events/?ical=1",
+   "status": "HTTPError",
+   "events": 0
+  },
+  {
+   "url": "https://www.ajc.org/?ical=1",
+   "status": "HTTPError",
+   "events": 0
+  }
+ ],
+ "pages": [
+  {
+   "url": "https://www.ajc.org/washington/events",
+   "status": null,
+   "final_url": "",
+   "title": "",
+   "dates": 0,
+   "jsonld": 0,
+   "jsonld_samples": [],
+   "hints": [],
+   "iframes": [],
+   "event_links": [],
+   "platform": "",
+   "error": "HTTPError: HTTP Error 403: "
+  },
+  {
+   "url": "https://www.ajc.org/",
+   "status": null,
+   "final_url": "",
+   "title": "",
+   "dates": 0,
+   "jsonld": 0,
+   "jsonld_samples": [],
+   "hints": [],
+   "iframes": [],
+   "event_links": [],
+   "platform": "",
+   "error": "HTTPError: HTTP Error 403: "
+  }
+ ],
+ "best_page": "https://www.ajc.org/washington/events"
+}

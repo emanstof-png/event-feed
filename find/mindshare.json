@@ -1,0 +1,44 @@
+{
+ "row": "17",
+ "name": "Mindshare",
+ "seed_url": "https://www.mindshare.org/",
+ "programs": "Monthly events",
+ "access": "Restricted: no reliable public calendar",
+ "found": "2026-10-25 02:00Z",
+ "search_hits": [],
+ "search_error": "",
+ "probes": [
+  {
+   "url": "https://www.mindshare.org/wp-json/tribe/events/v1/events?per_page=10",
+   "status": "DNSError",
+   "events": 0
+  },
+  {
+   "url": "https://www.mindshare.org/events/?ical=1",
+   "status": "DNSError",
+   "events": 0
+  },
+  {
+   "url": "https://www.mindshare.org/?ical=1",
+   "status": "DNSError",
+   "events": 0
+  }
+ ],
+ "pages": [
+  {
+   "url": "https://www.mindshare.org/",
+   "status": null,
+   "final_url": "",
+   "title": "",
+   "dates": 0,
+   "jsonld": 0,
+   "jsonld_samples": [],
+   "hints": [],
+   "iframes": [],
+   "event_links": [],
+   "platform": "",
+   "error": "DNSError: Failed to perform, curl: (6) Could not resolve host: www.mindshare.org. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+  }
+ ],
+ "best_page": "https://www.mindshare.org/"
+}
