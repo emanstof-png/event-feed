@@ -1,8 +1,9 @@
 Yoga District
 https://clients.mindbodyonline.com/classic/ws?studioid=2070&stype=-7&sView=week&sLoc=0
-rendered 2026-10-25 00:07Z  status=200 chars=27789 iframes=0 srcdoc=0 next=False error=
+rendered 2026-10-25 00:12Z  status=200 chars=27845 iframes=0 srcdoc=0 next=False error=
 
 	
+WE LOVE YOU AND WANT YOU TO BE HAPPY, PEACEFUL AND FREE
 	
 Staff sign-in
 |
@@ -1428,7 +1429,7 @@ Volunteer
 1910 14th St NW, 3rd Floor
 1 hour &30 minutes
 
-10/24/2026 8:07:08 PM in District of Columbia
+10/24/2026 8:12:50 PM in District of Columbia
 
 Privacy Policy ©2026 MINDBODY Inc.
 

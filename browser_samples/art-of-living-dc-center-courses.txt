@@ -1,6 +1,6 @@
 Art of Living DC Center (courses)
 https://members.us.artofliving.org/us-en/centers/courses/a054600000C7j5HAAR?timeZone=EST&viewMode=cards&embed=true
-rendered 2026-10-25 00:09Z  status=200 chars=2542 iframes=0 srcdoc=0 next=False error=
+rendered 2026-10-25 00:16Z  status=200 chars=2542 iframes=0 srcdoc=0 next=False error=
 
 All
 Courses

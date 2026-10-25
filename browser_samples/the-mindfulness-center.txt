@@ -1,6 +1,6 @@
 The Mindfulness Center
 https://www.themindfulnesscenter.org/classes/
-rendered 2026-10-25 00:07Z  status=200 chars=877 iframes=1 srcdoc=0 next=False error=
+rendered 2026-10-25 00:13Z  status=200 chars=877 iframes=1 srcdoc=0 next=False error=
 
 Skip to the content
 

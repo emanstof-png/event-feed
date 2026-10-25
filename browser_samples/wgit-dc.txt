@@ -1,6 +1,6 @@
 WGIT DC
 https://wgitdc.com/events
-rendered 2026-10-25 00:09Z  status=200 chars=12652 iframes=0 srcdoc=0 next=False error=
+rendered 2026-10-25 00:16Z  status=200 chars=12652 iframes=0 srcdoc=0 next=False error=
 
 Skip to content
 DC Guidebook
@@ -12,15 +12,15 @@ Instagram
 View Calendar
 Events Calendar
 FEATURED EVENTS Advertise With Us
+Oct 29
+Dia De Los Muertos Dance with DJ Shango
+Edgewood Arts Center
 Oct 24
 AFRO Informer High Tea
 The Press Club
 Oct 27
 Urban Garden Tuesday Trivia
 Urban Garden Brewing
-Oct 29
-Dia De Los Muertos Dance with DJ Shango
-Edgewood Arts Center
 |
 All Events
 Time
