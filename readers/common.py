@@ -45,6 +45,9 @@ def get(url, **kw):
 def request(url, method="GET", data=None, multipart=None, headers=None, timeout=30):
     """POST / multipart replay of a widget's data call (SPEC_SPEED Phase 1). GET goes through get()."""
     headers = headers or {}
+    if isinstance(data, str):   # a captured form string: send it as a form (sets the form Content-Type)
+        from urllib.parse import parse_qsl
+        data = dict(parse_qsl(data, keep_blank_values=True))
     if method == "GET" and not multipart:
         return get(url, headers=headers, timeout=timeout)
     if multipart is not None:   # requests builds the boundary; curl_cffi's multipart API differs
