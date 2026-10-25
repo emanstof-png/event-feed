@@ -17,12 +17,16 @@ Building Operations
 Contact
 Stay Connected
 Search 
-About
-show submenu for About
-Mission & Vision
-Our Building
-Hours & Directions
-Contact
+Events
+show submenu for Events
+Upcoming Events
+Series & Forums
+News & Updates
+Research Topics
+show submenu for Research Topics
+Artificial Intelligence
+Health & Medicine
+Space
 Arts & Culture
 show submenu for Arts & Culture
 Irene and Richard Frary Gallery
@@ -30,16 +34,13 @@ Sam Gilliam Lecture Series
 Stories That Matter Film Series
 Peabody Performance series
 Permanent Art Installations
-News & Updates
-Events
-show submenu for Events
-Upcoming Events
-Series & Forums
-Research & Policy
-show submenu for Research & Policy
-Artificial Intelligence
-Space Exploration
-Nexus Awards
+Find an Expert
+About
+show submenu for About
+Mission & Vision
+Our Building
+Hours & Directions
+Contact
 Make a Gift
 Stay Connected
 Search 
@@ -54,24 +55,29 @@ Filters
 Filter by Category
 Category
 All
+Arts + Culture
+Fun Stuff
+Social Events
+Faculty + Staff Honors
+Government + Policy
+International Relations + Foreign Policy
+Speakers
 Business
 Conferences
 Arts + Humanities
-Government + Policy
 Health + Medicine
 Lectures + Symposiums
 Science + Technology
 Social Sciences
-Arts + Culture
 Music
 Dance
 Theater + Performance
 Careers + Networking
-Speakers
 Arts + STEM
 Filter by School
 School
 All
+SAIS
 Carey Business School
 Peabody Institute
 School of Public Health
@@ -83,45 +89,6 @@ All
 October
 November
 December
-October 17, 2026
-7:30 - 9:30 p.m. EDT
-Peabody Institute
-Free
-
-                American Music Festival: Peabody Hip Hop            
-Peabody presents an evening of hip-hop featuring genre pioneers turned instructors DJ Babu, Max Bent, Rah Digga, Lupe Fiasco, Wendel Patrick, and guests.
-
-            Read More
-        
-October 18, 2026
-3 - 4:30 p.m. EDT
-Peabody Institute
-Free
-
-                American Music Festival: Peabody Chamber Orchestra            
-Conducting faculty artist Joseph Young (AD ’09, Conducting) leads the Peabody Chamber Orchestra through the original 1924 version of George Gershwin’s Rhapsody in Blue.
-
-            Read More
-        
-October 19, 2026
-7 a.m. - 5:15 p.m. EDT
-School of Medicine
-
-                2026 Pamela Tucker Johns Hopkins Course in Transplant and Oncology Infectious Diseases            
-This one-day, in-person educational activity offered by the Johns Hopkins Division of Infectious Diseases will expand expertise on infectious complications in transplant and oncology patients.
-
-            Read More
-        
-October 20, 2026
-6 - 7:30 p.m. EDT
-School of Arts and Sciences
-Free
-
-                Humanities on the Hill: Freedom Round the Globe            
-Sarah Pearsall, professor and department chair of the Department of History at Johns Hopkins, will give a talk as part of the Alexander Grass Humanities Institute’s Humanities on the Hill, presented in partnership with East City Bookshop.
-
-            Read More
-        
 October 26, 2026
 8 a.m. - 6 p.m. EDT
 
@@ -177,12 +144,22 @@ Join bestselling author and NobleReach Foundation CEO Arun Gupta and Carey Busin
 
             Read More
         
-November 11, 2026
+November 10, 2026
 9 a.m. - 6 p.m. EST
 Free
 
-                Future of Next            
-Join Johns Hopkins University in Washington, D.C., for a free, full-day event celebrating 150 years of innovation and discovery. From health to technology to civic life, attendees will ask: What does change mean for you?
+                The Future of Next            
+A free, full-day event celebrating 150 years of innovation and discovery. From health to technology to civic life, attendees will ask: What does change mean for you?
+
+            Read More
+        
+November 11, 2026
+10:30 - 11:30 a.m. EST
+SAIS
+Free
+
+                The Bitter Struggle: Superintelligence, Superpowers, and the Fate of the World            
+AI is becoming the decisive strategic technology of this century. Built by the private sector, it has profound implications for governments—and for all of us. Join Johns Hopkins’ Ben Buchanan for a discussion on his new book related to this topic, The Bitter Struggle: Superintelligence, Superpowers, and the Fate of the World.
 
             Read More
         
@@ -214,6 +191,15 @@ Come explore how music shapes the brain, with works by Bach, Beethoven, and more
 
             Read More
         
+December 3, 2026
+6:30 - 8 p.m. EST
+Free
+
+                Winter Community Celebration Market            
+All Johns Hopkins affiliates are welcome and encouraged to kick off the holiday season shopping at the Community Celebration Market. Support locally owned businesses by purchasing one-of-a-kind gifts.
+
+            Read More
+        
 December 4, 2026
 12:30 - 1:30 p.m. EST
 Peabody Institute
@@ -236,4 +222,30 @@ Conductor Michael Chrsitie, Peabody’s Ruth Blaustein Rosenberg Artistic Direct
 There are currently no events matching this criteria. Please adjust the filters above.
 Load More Events
 Series and Forums
-Signature series and forums hosted at the Johns Hopkins University Bloomberg Center create strategic connections between policymakers, facult
+Signature series and forums hosted at the Johns Hopkins University Bloomberg Center create strategic connections between policymakers, faculty, researchers, and students.
+Learn more
+sign up for our newsletter
+Get relevant programming, research, and expert insights sent straight to your inbox.
+Please enable JavaScript in your browser to complete this form.
+Please enable JavaScript in your browser to complete this form.
+Email * *
+Email 
+*
+Submit
+View on Map
+Johns Hopkins University
+555 Pennsylvania Avenue, NW 
+
+Washington, D.C. 20001
+Sign Up for Our Newsletter
+Facebook
+Instagram
+© 2026 Johns Hopkins University.
+   All rights reserved
+All rights reserved
+Sitemap
+Close
+Search for:
+Search
+Quick Links:
+Stay

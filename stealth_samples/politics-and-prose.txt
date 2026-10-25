@@ -45,7 +45,6 @@ All selections except for books will open in a new window
 Search type 
 Books
 Audiobooks
-Opus Authors
 Merchandise
 Services
 Search 
@@ -62,10 +61,9 @@ Next Month
 You must have JavaScript enabled to use this form.
 Event Type 
 - Any -
-Cancelled, or Cancelled and Rescheduled
+Cancelled
 Child & Teen
 Children
-Classes - Poetry
 Classes - Salon
 Exclude from Grid
 Fall Nonfiction Ticketed Event Lineup
@@ -77,6 +75,7 @@ Not Personalized
 Not Signed or Personalized
 Offsite
 Partnered
+Rescheduled
 Sale
 Signing Only
 Sold Out
@@ -147,10 +146,10 @@ Oct
 POSTPONED - Kevin Davies —  Curved Air: A Biography of Sickle Cell Anemia and the Quest to Cure the First Molecular Disease - with Swee Lay Thein and LaRae Morning — at the Wharf
 The Wharf
 Non Fiction
+Rescheduled
 
-            Due to unforeseen circumstances, this event has been postponed. We will update this once a new date has been confirmed. 
- 
-How sickle cell anemia led the quest to edit the human genome wh...
+            Due to unforeseen circumstances, this event has been postponed. It has been rescheduled to 11/7 at Conn Ave.
+How sickle cell anemia led the quest to edit the human genome while patients endured dec...
       
 Date: 
 
@@ -315,4 +314,4 @@ Oct
 Sarah Ignatius — The Kaleidoscope of Destiny - with David Ignatius — at Conn Ave
 Fiction & Poetry
 
-            It’s 1915. War rages in Europe while Armenians in the Ottoman Empire find themselves unfairly blamed for a major military defeat. Cooped up at hom
+            It’s 1915. War rages in Europe while Armenians in the Ottoman Empire find themselves unfairly blamed for a major military defeat. Cooped up at home, fourteen-year-old Arake

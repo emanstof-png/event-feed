@@ -4,7 +4,7 @@
   "url": "https://www.sixthandi.org/events/",
   "probe_method": "reader",
   "status": 200,
-  "text_len": 16476,
+  "text_len": 15634,
   "date_hits": 31,
   "near_hits": 21,
   "text_via": "get_all_text",
@@ -16,81 +16,81 @@
   "url": "https://www.whctemple.org/events/",
   "probe_method": "none",
   "status": 200,
-  "text_len": 35758,
+  "text_len": 36048,
   "date_hits": 30,
   "near_hits": 24,
   "text_via": "get_all_text",
   "works": true,
-  "seconds": 8.6
+  "seconds": 7.7
  },
  {
   "name": "Reva (Adas Israel)",
   "url": "https://www.adasisrael.org/reva",
   "probe_method": "reader",
   "status": 200,
-  "text_len": 13830,
-  "date_hits": 20,
-  "near_hits": 10,
+  "text_len": 13831,
+  "date_hits": 19,
+  "near_hits": 9,
   "text_via": "get_all_text",
   "works": true,
-  "seconds": 8.2
+  "seconds": 8.3
  },
  {
   "name": "Repair the World",
   "url": "https://werepair.org/get-involved/",
   "probe_method": "none",
   "status": 200,
-  "text_len": 5054,
+  "text_len": 5060,
   "date_hits": 0,
   "near_hits": 0,
   "text_via": "get_all_text",
   "works": false,
-  "seconds": 12.6
+  "seconds": 12.1
  },
  {
   "name": "American University (university-wide)",
   "url": "https://www.american.edu/calendar/",
   "probe_method": "none",
   "status": 200,
-  "text_len": 10218,
-  "date_hits": 5,
+  "text_len": 6165,
+  "date_hits": 4,
   "near_hits": 2,
   "text_via": "get_all_text",
   "works": true,
-  "seconds": 67.2
+  "seconds": 10.4
  },
  {
   "name": "American University College of Arts and Sciences",
   "url": "https://www.american.edu/cas/events/calendar/",
   "probe_method": "none",
   "status": 200,
-  "text_len": 9248,
-  "date_hits": 10,
+  "text_len": 6370,
+  "date_hits": 11,
   "near_hits": 2,
   "text_via": "get_all_text",
   "works": true,
-  "seconds": 8.8
+  "seconds": 8.4
  },
  {
   "name": "Johns Hopkins Bloomberg Center DC",
   "url": "https://washingtondc.jhu.edu/events/upcoming-events/",
   "probe_method": "none",
   "status": 200,
-  "text_len": 8418,
-  "date_hits": 16,
-  "near_hits": 16,
+  "text_len": 8038,
+  "date_hits": 14,
+  "near_hits": 14,
   "text_via": "get_all_text",
   "works": true,
-  "seconds": 63.1
+  "seconds": 63.0
  },
  {
   "name": "Japan Information & Culture Center (Embassy of Japan)",
   "url": "https://www.us.emb-japan.go.jp/jicc/events.html",
   "probe_method": "reader",
   "status": 200,
-  "text_len": 7660,
-  "date_hits": 64,
-  "near_hits": 13,
+  "text_len": 7611,
+  "date_hits": 65,
+  "near_hits": 14,
   "text_via": "get_all_text",
   "works": true,
   "seconds": 17.1
@@ -105,43 +105,43 @@
   "near_hits": 0,
   "text_via": "get_all_text",
   "works": false,
-  "seconds": 125.4
+  "seconds": 125.3
  },
  {
   "name": "American Enterprise Institute",
   "url": "https://www.aei.org/events/",
   "probe_method": "none",
   "status": 200,
-  "text_len": 7312,
-  "date_hits": 13,
-  "near_hits": 13,
+  "text_len": 7471,
+  "date_hits": 14,
+  "near_hits": 14,
   "text_via": "get_all_text",
   "works": true,
-  "seconds": 63.6
+  "seconds": 180.8
  },
  {
   "name": "Politics and Prose",
   "url": "https://politics-prose.com/events",
   "probe_method": "reader",
   "status": 200,
-  "text_len": 63804,
+  "text_len": 63816,
   "date_hits": 65,
   "near_hits": 33,
   "text_via": "get_all_text",
   "works": true,
-  "seconds": 10.4
+  "seconds": 66.5
  },
  {
   "name": "Lost City Books",
   "url": "https://lostcitybookstore.com/events",
   "probe_method": "reader",
   "status": 200,
-  "text_len": 13398,
+  "text_len": 13421,
   "date_hits": 39,
   "near_hits": 19,
   "text_via": "get_all_text",
   "works": true,
-  "seconds": 64.4
+  "seconds": 64.0
  },
  {
   "name": "People's Book (Takoma Park)",
@@ -153,42 +153,42 @@
   "near_hits": 0,
   "text_via": "get_all_text",
   "works": false,
-  "seconds": 10.0
+  "seconds": 9.9
  },
  {
   "name": "Loyalty Bookstores (book clubs)",
   "url": "https://loyaltybookstores.com/bookclubs",
   "probe_method": "reader",
   "status": 200,
-  "text_len": 7006,
+  "text_len": 6997,
   "date_hits": 47,
   "near_hits": 12,
   "text_via": "get_all_text",
   "works": true,
-  "seconds": 63.1
+  "seconds": 63.0
  },
  {
   "name": "The Writer's Center (Bethesda)",
   "url": "https://writer.org/free-events-calendar/",
   "probe_method": "browser",
   "status": 200,
-  "text_len": 20263,
+  "text_len": 30167,
   "date_hits": 23,
   "near_hits": 17,
   "text_via": "get_all_text",
   "works": true,
-  "seconds": 126.1
+  "seconds": 7.1
  },
  {
   "name": "Northern Virginia Astronomy Club (NOVAC)",
   "url": "https://www.novac.com/wp/events/",
   "probe_method": "reader",
   "status": 200,
-  "text_len": 6378,
-  "date_hits": 7,
-  "near_hits": 7,
+  "text_len": 5678,
+  "date_hits": 6,
+  "near_hits": 6,
   "text_via": "get_all_text",
   "works": true,
-  "seconds": 6.5
+  "seconds": 11.7
  }
 ]
