@@ -19,7 +19,14 @@ def _link(ev, source):
     return m.group(0).rstrip(".,)") if m else source.get("url", "")
 
 def read(source, window_days=21):
-    url = source.get("feed_url") or source["url"]
+    """J may hold several .ics URLs separated by spaces (one org, several calendars: Victory Comics)."""
+    urls = (source.get("feed_url") or source["url"]).split()
+    if len(urls) > 1:
+        out = []
+        for u in urls:
+            out += read({**source, "feed_url": u}, window_days)
+        return dedupe(out)
+    url = urls[0]
     if url.startswith("webcal:"):
         url = "https:" + url.split(":", 1)[1]
     raw = get(url).content

@@ -10,6 +10,14 @@ on:
         description: "Methods to run, comma-separated"
         type: string
         default: "ical,api,xhr,recurring"
+      sources:
+        description: "Sources file (prove_sources.csv to test candidate feeds before they go in the sheet)"
+        type: string
+        default: "sources_methods.csv"
+      out:
+        description: "Output suffix, e.g. _prove writes feed_test_prove.csv + run_log_prove.csv"
+        type: string
+        default: ""
   push:
     branches: [main]
     paths:
@@ -40,14 +48,14 @@ jobs:
       - name: Run feed-based readers
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
-        run: python fetch.py --csv --methods "${{ inputs.methods || 'ical,api,xhr,recurring' }}" --workers 6
+        run: python fetch.py --csv --methods "${{ inputs.methods || 'ical,api,xhr,recurring' }}" --workers 6 --sources-csv "${{ inputs.sources || 'sources_methods.csv' }}" --out "${{ inputs.out }}"
 
       - name: Commit results
         if: always()
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add feed_test.csv feed_desc.csv run_log.csv debug || true
+          git add feed_test*.csv feed_desc*.csv run_log*.csv debug || true
           git commit -m "Feed test $(date -u +%Y-%m-%dT%H:%MZ)" || { echo "No changes"; exit 0; }
           git pull --rebase origin main
           git push origin HEAD:main

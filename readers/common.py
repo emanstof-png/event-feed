@@ -42,6 +42,25 @@ def get(url, **kw):
     r.raise_for_status()
     return r
 
+def request(url, method="GET", data=None, multipart=None, headers=None, timeout=30):
+    """POST / multipart replay of a widget's data call (SPEC_SPEED Phase 1). GET goes through get()."""
+    headers = headers or {}
+    if method == "GET" and not multipart:
+        return get(url, headers=headers, timeout=timeout)
+    if multipart is not None:   # requests builds the boundary; curl_cffi's multipart API differs
+        r = requests.post(url, files={k: (None, v) for k, v in multipart.items()}, headers={**UA, **headers}, timeout=timeout)
+    else:
+        try:
+            from curl_cffi import requests as creq
+            r = creq.post(url, data=data, headers={"Accept-Language": UA["Accept-Language"], **headers}, impersonate="chrome", timeout=timeout)
+            if r.status_code in (401, 403, 406):
+                raise ImportError
+        except ImportError:
+            r = requests.post(url, data=data, headers={**UA, **headers}, timeout=timeout)
+    r.raise_for_status()
+    return r
+
+
 def event(date_s, title, source, time_s="", venue="", link="", desc=""):
     return {"date": date_s, "time": time_s, "title": title.strip()[:200], "venue": venue.strip()[:120],
             "link": link, "source": source, "desc": clean_text(desc)[:600]}

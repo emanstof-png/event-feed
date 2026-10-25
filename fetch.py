@@ -216,13 +216,15 @@ def main():
     ap.add_argument("--workers", type=int, default=4, help="parallel sources (browser rows run 1 at a time)")
     ap.add_argument("--csv", action="store_true",
                     help="no Google key: read sources from sources_methods.csv, write feed_test.csv + run_log.csv")
+    ap.add_argument("--sources-csv", default="sources_methods.csv", help="with --csv: read sources from this file")
+    ap.add_argument("--out", default="", help="with --csv: write feed_test<out>.csv and run_log<out>.csv (e.g. _prove)")
     args = ap.parse_args()
 
     if not os.environ.get("ANTHROPIC_API_KEY"):
         print("WARNING: ANTHROPIC_API_KEY not set; html/rss/browser readers will return nothing", flush=True)
 
     if args.csv:
-        sh, sources = None, load_sources_csv()
+        sh, sources = None, load_sources_csv(args.sources_csv)
     else:
         sh = open_sheet()
         sources = load_sources(sh)
@@ -261,7 +263,7 @@ def main():
     all_events.sort(key=lambda e: (e["date"], e["time"] or "99:99", e["source"]))
     if args.csv:   # keep the raw text so Haiku scouts can write blurbs without an API key
         import csv as _csv
-        with open("feed_desc.csv", "w", newline="", encoding="utf-8") as f:
+        with open(f"feed_desc{args.out}.csv", "w", newline="", encoding="utf-8") as f:
             w = _csv.writer(f); w.writerow(["n", "title", "source", "desc"])
             w.writerows([k + 2, e["title"], e["source"], e.get("desc", "")] for k, e in enumerate(all_events))
     from readers.haiku import summarize
@@ -296,11 +298,11 @@ def main():
 
     if args.csv:
         import csv
-        with open("feed_test.csv", "w", newline="", encoding="utf-8") as f:
+        with open(f"feed_test{args.out}.csv", "w", newline="", encoding="utf-8") as f:
             w = csv.writer(f); w.writerow(FEED_HEADER); w.writerows(feed_rows)
-        with open("run_log.csv", "w", newline="", encoding="utf-8") as f:
+        with open(f"run_log{args.out}.csv", "w", newline="", encoding="utf-8") as f:
             w = csv.writer(f); w.writerow(LOG_HEADER); w.writerows(log_rows)
-        print("wrote feed_test.csv and run_log.csv", flush=True)
+        print(f"wrote feed_test{args.out}.csv and run_log{args.out}.csv", flush=True)
         return 0
 
     if args.dry_run:
