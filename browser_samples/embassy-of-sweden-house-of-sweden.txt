@@ -1,0 +1,1248 @@
+Embassy of Sweden / House of Sweden
+https://www.swedenabroad.se/en/embassies/usa-washington/
+rendered 2026-10-25 02:37Z  status=200 chars=26389 iframes=0 srcdoc=0 next=False error=
+
+
+
+USA, Washington - Sweden Abroad
+
+Consent
+Details
+[#IABV2SETTINGS#]
+About
+This website uses cookies
+We use cookies to personalise content and ads, to provide social media features and to analyse our traffic. We also share information about your use of our site with our social media, advertising and analytics partners who may combine it with other information that you’ve provided to them or that they’ve collected from your use of their services. 
+[#GPC_BANNER_ICON#]
+[#GPC_TOAST_TEXT#]
+Consent Selection
+Necessary
+
+Preferences
+
+Statistics
+
+Marketing
+
+Show details
+Details
+Necessary 
+
+16
+
+Necessary cookies help make a website usable by enabling basic functions like page navigation and access to secure areas of the website. The website cannot function properly without these cookies.
+Azure
+3
+Learn more about this provider
+AI_buffer
+Used in context with the "AI_sentBuffer" in order to limit the number of data-server-updates (Azure).  This synergy also allows the website to detect any duplicate data-server-updates. 
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+AI_sentBuffer
+Used in context with the "AI_buffer" in order to limit the number of data-server-updates (Azure). This synergy also allows the website to detect any duplicate data-server-updates. 
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+ai_session
+Preserves users states across page requests.
+Maximum Storage Duration
+: 1 day
+Type
+: HTTP Cookie
+Cloudflare
+1
+Learn more about this provider
+cf.turnstile.u
+Used by Cloudflare Turnstile (a CAPTCHA alternative) to validate that the user is human without intrusive challenges.
+Maximum Storage Duration
+: Persistent
+Type
+: HTML Local Storage
+Cookiebot
+1
+Learn more about this provider
+CookieConsent
+Stores the user's cookie consent state for the current domain
+Maximum Storage Duration
+: 1 year
+Type
+: HTTP Cookie
+Vimeo
+2
+Learn more about this provider
+__cf_bm
+This cookie is used to distinguish between humans and bots. This is beneficial for the website, in order to make valid reports on the use of their website.
+Maximum Storage Duration
+: 1 day
+Type
+: HTTP Cookie
+cf_clearance
+This cookie is used to distinguish between humans and bots. 
+Maximum Storage Duration
+: 1 year
+Type
+: HTTP Cookie
+www.riksrevisionen.se
+1
+SiteVisionLTM
+This cookie is used in context with load balancing - This optimizes the response rate between the visitor and the site, by distributing the traffic load on multiple network links or disk drivers.
+Maximum Storage Duration
+: Session
+Type
+: HTTP Cookie
+www.swedenabroad.se
+5
+.AspNetCore.Antiforgery.#
+Helps prevent Cross-Site Request Forgery (CSRF) attacks.
+Maximum Storage Duration
+: Session
+Type
+: HTTP Cookie
+.EPiForm_BID
+This cookie is used to distinguish the browser that the visitor is using. The server automatically assigns an ID string to that browser, so that the website can identify the visitor again when reentering the website.
+Maximum Storage Duration
+: 3 months
+Type
+: HTTP Cookie
+.EPiForm_VisitorIdentifier
+This cookie is used to identify the visitor when reentering the website, by using the ID string contained in the .EPiForm_BID cookie.
+Maximum Storage Duration
+: 3 months
+Type
+: HTTP Cookie
+ARRAffinity
+Used to distribute traffic to the website on several servers in order to optimise response times.
+Maximum Storage Duration
+: Session
+Type
+: HTTP Cookie
+ARRAffinitySameSite
+Used to distribute traffic to the website on several servers in order to optimise response times.
+Maximum Storage Duration
+: Session
+Type
+: HTTP Cookie
+www.val.se
+3
+lb_www
+Load balancing cookie used to distribute traffic across servers to maintain website performance and availability.
+Maximum Storage Duration
+: Session
+Type
+: HTTP Cookie
+lb2_www
+Used for load balancing to distribute network traffic evenly across multiple servers, ensuring website stability and performance.
+Maximum Storage Duration
+: Session
+Type
+: HTTP Cookie
+TS#
+Used to ensure website security and fraud detection.
+Maximum Storage Duration
+: Session
+Type
+: HTTP Cookie
+Preferences 
+
+0
+
+Preference cookies enable a website to remember information that changes the way the website behaves or looks, like your preferred language or the region that you are in.
+We do not use cookies of this type.
+Statistics 
+
+8
+
+Statistic cookies help website owners to understand how visitors interact with websites by collecting and reporting information anonymously.
+Azure
+1
+Learn more about this provider
+ai_user
+Used by Microsoft Application Insights software to collect statistical usage and telemetry information. The cookie stores a unique identifier to recognize users on returning visits over time.
+Maximum Storage Duration
+: 1 year
+Type
+: HTTP Cookie
+Google
+1
+Learn more about this provider
+Some of the data collected by this provider is for the purposes of personalization and measuring advertising effectiveness. The provider may use the IP Addresses for ads measurement and ads personalization.
+__ga
+The main cookie used by Google Analytics, enables the service to distinguish one visitor from another and lasts for 2 years.
+Maximum Storage Duration
+: 2 years
+Type
+: HTTP Cookie
+Microsoft
+4
+Learn more about this provider
+c.gif
+Collects data on the user’s navigation and behavior on the website. This is used to compile statistical reports and heatmaps for the website owner.
+Maximum Storage Duration
+: Session
+Type
+: Pixel Tracker
+_cltk
+Registers statistical data on users' behaviour on the website. Used for internal analytics by the website operator. 
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+_clck
+Collects data on the user’s navigation and behavior on the website. This is used to compile statistical reports and heatmaps for the website owner.
+Maximum Storage Duration
+: 1 year
+Type
+: HTTP Cookie
+_clsk
+Registers statistical data on users' behaviour on the website. Used for internal analytics by the website operator. 
+Maximum Storage Duration
+: 1 day
+Type
+: HTTP Cookie
+Vimeo
+1
+Learn more about this provider
+vuid
+Collects data on the user's visits to the website, such as which pages have been read.
+Maximum Storage Duration
+: 2 years
+Type
+: HTTP Cookie
+www.swedenabroad.se
+1
+EPiStateMarker
+This cookie is used to distinguish the browser that the visitor is using. The server automatically assigns an ID string to that browser, so that the website can identify the visitor again when reentering the website.
+Maximum Storage Duration
+: Session
+Type
+: HTTP Cookie
+Marketing 
+
+34
+
+Marketing cookies are used to track visitors across websites. The intention is to display ads that are relevant and engaging for the individual user and thereby more valuable for publishers and third party advertisers.
+Google
+3
+Learn more about this provider
+Some of the data collected by this provider is for the purposes of personalization and measuring advertising effectiveness. The provider may use the IP Addresses for ads measurement and ads personalization.
+NID
+Registers a unique ID that identifies a returning user's device. The ID is used for targeted ads.
+Maximum Storage Duration
+: 6 months
+Type
+: HTTP Cookie
+_ga
+Used to send data to Google Analytics about the visitor's device and behavior. Tracks the visitor across devices and marketing channels.
+Maximum Storage Duration
+: 2 years
+Type
+: HTTP Cookie
+_ga_#
+Used to send data to Google Analytics about the visitor's device and behavior. Tracks the visitor across devices and marketing channels.
+Maximum Storage Duration
+: 2 years
+Type
+: HTTP Cookie
+Microsoft
+7
+Learn more about this provider
+MR [x2]
+Used to track visitors on multiple websites, in order to present relevant advertisement based on the visitor's preferences. 
+Maximum Storage Duration
+: 7 days
+Type
+: HTTP Cookie
+MUID [x2]
+Used widely by Microsoft as a unique user ID. The cookie enables user tracking by synchronising the ID across many Microsoft domains.
+Maximum Storage Duration
+: 1 year
+Type
+: HTTP Cookie
+SRM_B
+Tracks the user’s interaction with the website’s search-bar-function. This data can be used to present the user with relevant products or services.     
+Maximum Storage Duration
+: 1 year
+Type
+: HTTP Cookie
+ANONCHK
+Registers data on visitors from multiple visits and on multiple websites. This information is used to measure the efficiency of advertisement on websites.  
+Maximum Storage Duration
+: 1 day
+Type
+: HTTP Cookie
+SM
+Registers a unique ID that identifies the user's device during return visits across websites that use the same ad network. The ID is used to allow targeted ads.
+Maximum Storage Duration
+: Session
+Type
+: HTTP Cookie
+Vimeo
+7
+Learn more about this provider
+__cf_ob
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTTP Cookie
+_cfPre_tabId
+Pending
+Maximum Storage Duration
+: Session
+Type
+: HTML Local Storage
+orionV3#identity
+Used to track user’s interaction with embedded content.
+Maximum Storage Duration
+: Persistent
+Type
+: IndexedDB
+picox#events
+Used to track user’s interaction with embedded content.
+Maximum Storage Duration
+: Persistent
+Type
+: IndexedDB
+LOCAL_STORAGE_ID_PICOX_ID
+Used to track user’s interaction with embedded content.
+Maximum Storage Duration
+: Persistent
+Type
+: HTML Local Storage
+LOCAL_STORAGE_ID_VIMEO_PLAYER
+Used to track user’s interaction with embedded content.
+Maximum Storage Duration
+: Persistent
+Type
+: HTML Local Storage
+PLAYER_PICOX_SAMPLING_SEED
+Used to track user’s interaction with embedded content.
+Maximum Storage Duration
+: Persistent
+Type
+: HTML Local Storage
+YouTube
+17
+Learn more about this provider
+LAST_RESULT_ENTRY_KEY [x2]
+Used to track user’s interaction with embedded content.
+Maximum Storage Duration
+: Session
+Type
+: HTTP Cookie
+TESTCOOKIESENABLED [x2]
+Used to track user’s interaction with embedded content.
+Maximum Storage Duration
+: 1 day
+Type
+: HTTP Cookie
+yt-icons-last-purged [x2]
+Necessary for the implementation and functionality of YouTube video-content on the website.  
+Maximum Storage Duration
+: Persistent
+Type
+: HTML Local Storage
+ytidb::LAST_RESULT_ENTRY_KEY [x2]
+Used to track user’s interaction with embedded content.
+Maximum Storage Duration
+: Persistent
+Type
+: HTML Local Storage
+YtIdbMeta#databases [x2]
+Used to track user’s interaction with embedded content.
+Maximum Storage Duration
+: Persistent
+Type
+: IndexedDB
+__Secure-BUCKET
+Pending
+Maximum Storage Duration
+: 180 days
+Type
+: HTTP Cookie
+__Secure-ROLLOUT_TOKEN
+Used for A/B testing of new features to selected users.
+Maximum Storage Duration
+: 180 days
+Type
+: HTTP Cookie
+__Secure-YEC
+Stores the user's video player preferences using embedded YouTube video
+Maximum Storage Duration
+: Session
+Type
+: HTTP Cookie
+__Secure-YNID
+Used to identify the user and deliver personalized content or advertisements based on previous interactions with YouTube videos.
+Maximum Storage Duration
+: 180 days
+Type
+: HTTP Cookie
+LogsDatabaseV2:V#||LogsRequestsStore
+Used to track user’s interaction with embedded content.
+Maximum Storage Duration
+: Persistent
+Type
+: IndexedDB
+VISITOR_INFO1_LIVE
+Tries to estimate the users' bandwidth on pages with integrated YouTube videos.
+Maximum Storage Duration
+: 180 days
+Type
+: HTTP Cookie
+YSC
+Registers a unique ID to keep statistics of what videos from YouTube the user has seen.
+Maximum Storage Duration
+: Session
+Type
+: HTTP Cookie
+Unclassified  
+0
+Unclassified cookies are cookies that we are in the process of classifying, together with the providers of individual cookies.
+We do not use cookies of this type.
+Cross-domain consent
+[#BULK_CONSENT_DOMAINS_COUNT#]
+[#BULK_CONSENT_TITLE#]
+List of domains your consent applies to:
+ [#BULK_CONSENT_DOMAINS#]
+Cookie declaration last updated on 10/3/26 by 
+Cookiebot
+[#IABV2_TITLE#]
+[#IABV2_BODY_INTRO#]
+[#IABV2_BODY_LEGITIMATE_INTEREST_INTRO#]
+[#IABV2_BODY_PREFERENCE_INTRO#]
+[#IABV2_LABEL_PURPOSES#]
+[#IABV2_BODY_PURPOSES_INTRO#]
+[#IABV2_BODY_PURPOSES#]
+[#IABV2_LABEL_FEATURES#]
+[#IABV2_BODY_FEATURES_INTRO#]
+[#IABV2_BODY_FEATURES#]
+[#IABV2_LABEL_PARTNERS#]
+[#IABV2_BODY_PARTNERS_INTRO#]
+[#IABV2_BODY_PARTNERS#]
+About
+Cookies are small text files that can be used by websites to make a user's experience more efficient.
+The law states that we can store cookies on your device if they are strictly necessary for the operation of this site. For all other types of cookies we need your permission.
+This site uses different types of cookies. Some cookies are placed by third party services that appear on our pages.
+You can at any time change or withdraw your consent from the Cookie Declaration on our website.
+Learn more about who we are, how you can contact us and how we process personal data in our Privacy Policy.
+Please state your consent ID and date when you contact us regarding your consent.
+
+Do not sell or share my personal information
+Deny
+
+Allow selection
+
+Customize
+
+Allow all
+
+Sweden Abroad
+
+Go to content
+
+Sweden Abroad
+
+Search
+
+Menu
+
+Embassies
+
+Svensklistan
+
+UD Resklar - på regeringen.se
+
+Data protection policy
+
+About cookies
+
+Tillgänglighetsredogörelse
+
+For Swedes
+
+Bermuda
+
+Hjälp till svenskar i Bermuda
+
+Rösta i Bermuda
+
+Pass i Bermuda
+
+Reseinformation
+
+Ambassadens reseinformation
+
+Puerto Rico
+
+Hjälp till svenskar i Puerto Rico
+
+Rösta i Puerto Rico
+
+Pass i Puerto Rico
+
+Reseinformation
+
+Ambassadens reseinformation
+
+United States
+
+Service for Swedish Citizens
+
+Apply for/renew Passports or National ID-card
+
+Pick up passport/national ID-card
+
+How do I cancel or reschedule my appointment?
+
+Swedish Citizenship
+
+Driver License
+
+Do I need to book an appointment?
+
+Getting Married in the USA
+
+In Case of Emergency
+
+Reseinformation
+
+Reseinformation USA
+
+Service Fees
+
+Avgifter
+
+For non-Swedes
+
+Bermuda
+
+Puerto Rico
+
+United States
+
+Going to Sweden?
+
+Contact and Opening Hours
+
+Visiting Sweden
+
+Moving to Sweden
+
+Processing of personal data
+
+Embassies and consulates 
+
+Embassy of Sweden in Washington, USA
+
+Contact / Opening Hours
+
+About
+
+Job Openings
+
+Social Media
+
+Subscribe to Mailing List
+
+House of Sweden
+
+Lediga tjänster
+
+Praktiktjänstgöring
+
+Data Protection Policy
+
+Dataskyddspolicy (GDPR)
+
+Sweden Promotion
+
+Så stöttar vi svenska företag
+
+Vi är en resurs för svenska företag
+
+Team Sweden
+
+Så kan du få stöd
+
+Svenska företag i USA
+
+Anmäl handelshinder
+
+Främjarverksamhet
+
+Current
+
+U.S. Embassy in Sweden
+
+Swedish-American Museums, Institutions and Organizations
+
+Swedish Press Corps
+
+White House Tours
+
+Calendar
+
+Besök till Vita huset
+
+Consulate-General of Sweden in Houston, USA
+
+Contact
+
+About us
+
+Job openings
+
+Data Protection Policy (GDPR)
+
+Så stöttar vi svenska företag
+
+Vi är en resurs för svenska företag
+
+Team Sweden
+
+Så kan du få stöd
+
+Svenska företag i Texas
+
+Anmäl handelshinder
+
+Current
+
+Calendar
+
+News
+
+Promoting Sweden in Texas
+
+Swedish Community
+
+Consulate-General of Sweden in New York, USA
+
+Contact
+
+About us
+
+The Consul General
+
+The Swedish Residence in New York
+
+Job Openings
+
+Internship
+
+Privacy Policy for Social Media Accounts
+
+Data protection policy
+
+Så stöttar vi svenska företag
+
+Vi är en resurs för svenska företag
+
+Team Sweden
+
+Så kan du få stöd
+
+Svenska företag i nordöstra USA
+
+Anmäl handelshinder
+
+Promoting Sweden
+
+Newsletter
+
+Consulate-General of Sweden in San Francisco, USA
+
+Contact
+
+About us
+
+Data protection policy
+
+Så stöttar vi svenska företag
+
+Vi är en resurs för svenska företag
+
+Team Sweden
+
+Så kan du få stöd
+
+Anmäl handelshinder
+
+Current
+
+Calendar
+
+Search
+
+Svenska
+
+English
+
+                                    Embassy of Sweden
+
+                                        Washington, USA
+
+Local time
+
+10:37 PM
+
+Embassies
+
+USA, Washington
+
+USA, Washington
+
+Contact / Opening Hours
+
+About
+
+Job Openings
+
+Social Media
+
+Subscribe to Mailing List
+
+House of Sweden
+
+Data Protection Policy
+
+Sweden Promotion
+
+Current
+
+U.S. Embassy in Sweden
+
+Swedish-American Museums, Institutions and Organizations
+
+Swedish Press Corps
+
+White House Tours
+
+Calendar
+
+EXHIBITION: Swedish Footprints in the United States
+
+Sweden Lounge at the Embassy of Sweden
+
+Rooftop Summer Film Series
+
+Consular service for Swedish citizens
+
+Are you a Swedish citizen in need of information regarding citizenship, passports or other?
+
+Select country here
+When autocomplete results are available use up and down arrows to review and enter to select.  Touch device users, explore by touch or with swipe gestures.
+Select country here
+United States
+Bermuda
+Puerto Rico
+
+About Sweden
+
+Working in Sweden, travel to Sweden, study in Sweden or just interested in Sweden?
+
+Select country here
+When autocomplete results are available use up and down arrows to review and enter to select.  Touch device users, explore by touch or with swipe gestures.
+Select country here
+United States
+Bermuda
+Puerto Rico
+
+Frequently asked questions
+
+USA travel advice  
+
+USA travel advice (in Swedish)
+
+How do I apply for a new passport or national ID card? 
+
+Information on passport and national ID card
+
+Do I need a Visa or Residence Permit to visit Sweden? 
+
+A Schengen visa is required for persons of certain nationalities who wish to visit the Schengen countries. A Schengen visa can be issued for a maximum of 90 days. U.S citizens do not need a visa to visit Sweden if the visit is 90 days or less. Visa applications for travel to Sweden can be submitted to one of the VFS Global Visa Application Centers in the USA. 
+
+Link to: 
+Visa information
+
+Swedish Citizenship 
+
+Questions regarding Swedish citizenship
+
+Service Fees 
+
+List of service fees
+
+Job openings 
+
+Click here for any open positions at the Embassy of Sweden in DC or a Swedish Consulate in the US 
+
+Observed Holidays during 2026 
+
+The Embassy will be closed during these observed Holidays
+
+Join the Embassy mailing list for upcoming events 
+
+Mailing List
+
+Follow us on X
+
+Follow us on LinkedIn
+
+Follow us on Instagram
+
+Follow us on Facebook
+
+Do you want to know more about Sweden?
+
+Doing business with Sweden
+
+Find comprehensive information on how to do business with Sweden.
+
+Doing business with Sweden
+
+Welcome to Sweden
+
+Plan your holiday on Sweden's official website for tourism and travel information.
+
+Visit Sweden
+
+Universities in Sweden
+
+Studyinsweden.se is the official resource on higher education in Sweden for international students.
+
+Study in Sweden
+
+Report to the MFA
+
+If you have a complaint or suspect criminal offences or irregularities related to the Swedish Foreign Service’s activities, please report these to the Ministry for Foreign Affairs.
+
+File a complaint against the Swedish Foreign Service
+
+Report suspicions of a crime or other irregularities
+
+www.government.se
+
+Visit the official website of the Swedish Government and Government Offices.
+
+To government.se
+
+GDPR Requests
+
+Request a register extract, rectification or erasure of personal data or restriction of personal data processing in government central systems.
+
+GDPR Requests
+
+Sweden in USA, Washington
+
+Embassy
+
+Visiting address
+
+Embassy of Sweden 
+2900 K Street, N.W.
+Washington, DC 20007                
+
+Postal address
+
+Embassy of Sweden 
+2900 K Street, N.W.
+Washington, DC 20007                
+
+Phone
+
+                    +1 202 467 2600
+
+Fax
+
+                    +1 202 467 2699 
+
+Email
+
+                    DC@gov.se 
+
+For questions about migration:                            
+
+visa.washington@gov.se                
+
+Honorary consulates
+
+ Anchorage, AK
+
+Phone: 
+
++1 (907) 764-3292
+
+Email:
+
+anchorage@consulateofsweden.org
+
+                                        2925 Debarr Road, suite 215
+Anchorage, AK 99508
+District: Alaska.
+
+                                        Visits by appointment only.
+
+ Atlanta, GA
+
+Phone:
+
++1 (404) 408-7460
+
+Email:
+
+atlanta@consulateofsweden.org
+
+                                        One Ameris Center
+3490 Piedmont Road, suite 1400
+Atlanta, GA 30305-4808
+District: Georgia
+
+                                        Visits by appointment only. 
+
+ Chicago, IL
+
+Phone:
+
++1 (312) 781 6262
+
+Email:
+
+chicago@consulateofsweden.org
+
+                                        5211 North Clark Street
+Chicago, IL 60640
+USA
+District: Illinois, Indiana, Kentucky, Tennessee, Wisconsin and Michigan.
+
+                                        Visits by appointment only.
+
+ Cleveland, OH
+
+                                        The honorary consulate in Cleveland is permanently closed. Please contact the Embassy in Washington DC at DC@gov.se.
+
+ Denver, CO
+
+                                        The honorary consulate in Denver is temporarily closed. Please contact the Embassy in Washington DC at DC@gov.se.
+
+ Fort Lauderdale & Miami, FL
+
+Phone:
+
++1 (954) 467 3507
+
+Email:
+
+fortlauderdale@consulateofsweden.org
+
+                                        7700 Congress Avenue
+Building 2000, Suite 2205
+Boca Raton, FL 33487
+District: Florida. 
+
+                                        Visits by appointment only. 
+
+ Hamilton, Bermuda
+
+Phone:
+
++1 (441) 705-5055
+
+Email:
+
+hamilton@consulateofsweden.org
+
+                                        100 Pitts Bay Road,
+"Waterloo House", 3rd Floor, 
+Pembroke, HM08, Bermuda
+District: Bermuda. 
+
+                                        Visits by appointment only.
+
+ Minneapolis, MN
+
+Phone:
+
++1 (612) 870 3377
+
+Email:
+
+minneapolis@consulateofsweden.org
+
+                                        American Swedish Institute 
+2600 Park Ave., 
+Minneapolis, MN 55407 
+USA 
+District: Minnesota, Iowa, North Dakota, South Dakota and Nebraska. 
+
+                                        Visits by appointment only.
+
+ New Orleans, LA
+
+Phone:
+
++ 1 (504) 460-2825
+
+Email:
+
+neworleans@consulateofsweden.org
+
+                                        1591 Exposition Boulevard
+New Orleans, LA 70118
+USA
+District: Louisiana, Mississippi and Alabama.
+
+                                        Visits by appointment only.
+
+ Phoenix, AZ
+
+Phone:
+
++1 (919) 449-8981
+
+Email:
+
+phoenix@consulateofsweden.org
+
+                                        6965 S Priest Drive
+Building A, suite 5
+Tempe, AZ 85283
+District: Arizona and Nevada. 
+
+                                        Visits by appointment only.
+
+ Raleigh, NC
+
+Phone:
+
++1 (919) 219-7434
+
+Email:
+
+raleigh@consulateofsweden.org
+
+                                        The office of Keller Williams Legacy
+1483 Beaver Creek Commons Drive,
+Apex, NC 27502
+USA 
+District: North Carolina and South Carolina. 
+
+                                        Opening hours: Thursdays, visits by appointment only. 
+
+ Salt Lake City, UT
+
+Phone:
+
++1 (435) 654 8798
+
+Email:
+
+saltlakecity@consulateofsweden.org
+
+                                        World Trade Center at City Creek
+60 East South Temple, 3rd Floor
+Salt Lake City, UT 84111
+USA 
+District: Utah, Montana and Idaho.
+
+                                        Visits by appointment only.
+
+ San Juan, Puerto Rico
+
+Phone:
+
++1 (787) 289-9250
+
+Email:
+
+sanjuan@consulateofsweden.org
+
+                                        166 Ave. de la Constitución
+San Juan, PR  00901
+
+District: Puerto Rico and U.S. Virgin Islands 
+
+                                        Opening hours: Monday-Friday 08:00 am-5:00 pm. 
+
+ Seattle, WA
+
+Phone:
+
++1 (425) 952 6299
+
+Email:
+
+seattle@consulateofsweden.org
+
+                                        Offices of Hilleberg the Tentmaker
+17280 Woodinville Redmond Rd NE, Suite 803 
+Woodinville, WA 98072
+USA
+District: Washington and Oregon.
+
+                                        Visits by appointment only.
+
+ St. Louis, MO
+
+Phone:
+
++1 (314) 889 0899
+
+Email:
+
+stlouis@consulateofsweden.org
+
+                                        7733 Forsyth Blvd., Ste 2300
+St. Louis, MO 63105
+District: Missouri and Kansas.
+
+                                        Visits by appointment only. 
+
+Sweden has diplomatic relations with almost all states in the world, with embassies and consulates in around half of these. Sweden's foreign representation consists of approximately 100 missions abroad and 350 honorary consulates.
+
+Find the embassy you are looking for:
+
+Select embassy
+When autocomplete results are available use up and down arrows to review and enter to select.  Touch device users, explore by touch or with swipe gestures.
+Select embassy
+Åland, Mariehamn
+Albania, Tirana
+Algeriet, Alger
+Angola, Stockholm
+Antigua and Barbuda, Stockholm
+Argentina, Buenos Aires
+Armenia, Yerevan
+Australia, Canberra
+Austria, Vienna
+Azerbaijan, Baku
+Bahamas, Stockholm
+Bangladesh, Dhaka
+Barbados, Stockholm
+Belarus, Minsk
+Belgium, Brussels
+Belize, Stockholm
+Benin, Stockholm
+Bolivia, La Paz
+Bosnia and Herzegovina, Sarajevo
+Brasil, Brasília
+Brussels, NATO
+Bulgaria, Stockholm
+Canada, Ottawa
+Chile, Santiago de Chile
+China, Beijing
+China, Shanghai
+Colombia, Bogotá
+Côte d'Ivoire, Stockholm
+Council of Europe, Strasbourg
+Croatia, Zagreb
+Cuba, Habana
+Cyprus, Nicosia
+Czech Republic, Prague
+D.R. Kongo, Kinshasa
+Denmark, Copenhagen
+Dialogue institute
+Dominica, Stockholm
+Egypt, Cairo
+Eritrea, Stockholm
+Estonia, Tallinn
+Ethiopia, Addis Ababa
+EU-representation, Brussels
+Finland, Helsingfors
+Frankrike, Paris
+Gambia, Stockholm
+Georgia, Tbilisi
+Germany, Berlin
+Greece, Athens
+Grenada, Stockholm
+Guatemala City, Guatemala
+Guinea, Stockholm
+Guyana, Stockholm
+Haiti, Stockholm
+Holy See, Stockholm
+Hong Kong
+Hungary, Budapest
+Iceland, Reykjavik
+India, Mumbai
+India, New Delhi
+Indonesia, Jakarta
+Iran, Tehran
+Iraq, Baghdad
+Ireland, Dublin
+Israel, Tel Aviv
+Italy, Rome
+Jamaica, Stockholm
+Japan, Tokyo
+Jerusalem
+Jordan, Amman
+Kazakhstan, Astana
+Kenya, Nairobi
+Kosovo, Pristina
+Kyrgyzstan, Stockholm
+Latvia, Riga
+Lebanon, Beirut
+Liberia, Monrovia
+Lithuania, Vilnius
+Malta, Stockholm
+Mexiko, Mexico City
+Moldova, Chisinau
+Morocco, Rabat
+Mozambique, Maputo
+Netherlands, The Hague
+Nigeria, Abuja
+North Korea, Pyongyang
+North Macedonia, Skopje
+Norway, Oslo
+OECD, UNESCO
+OSCE
+Pacific, Stockholm
+Pakistan, Islamabad
+Peru, Lima
+Philippines, Manila
+Polen, Warszawa
+Portugal, Lissabon
+Qatar, Doha
+Romania, Bucharest
+Russia, Moscow
+Rwanda, Kigali
+Saint Kitts and Nevis, Stockholm
+Saint Lucia, Stockholm
+Saint Vincent and the Grenadines, Stockholm
+Saudi Arabia, Riyadh
+Sénégal, Dakar
+Serbia, Belgrade
+Singapore, Singapore
+South Africa, Pretoria
+South Korea, Seoul
+Spain, Madrid
+Sudan, Khartoum
+Suriname, Stockholm
+Switzerland, Bern
+Syria, Damascus
+Tajikistan, Stockholm
+Tanzania, Dar es Salaam
+Thailand, Bangkok
+Togo, Stockholm
+Trinidad and Tobago, Stockholm
+Tunisien, Tunis
+Türkiye, Ankara
+Türkiye, Istanbul
+Turkmenistan, Stockholm
+Uganda, Kampala
+Ukraine, Kyiv
+UN Geneva
+UN, New York
+United Arab Emirates, Abu Dhabi
+United Kingdom, London
+USA, Houston
+USA, New York
+USA, San Francisco
+USA, Washington
+Uzbekistan, Stockholm
+Vietnam, Hanoi
+Zambia, Lusaka
+
+See a list of all embassies here
+
