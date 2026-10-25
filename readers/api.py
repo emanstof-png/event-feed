@@ -92,7 +92,23 @@ def _stec(data, name):  # Stachethemes Event Calendar: wp-admin/admin-ajax.php a
                   e.get("permalink", "") or "", desc=e.get("description_short") or e.get("description", ""))
             for e in (data if isinstance(data, list) else [])]
 
-SHAPES = [("keepandshare.com", _keepandshare), ("getOpportunitiesCalendar", _handsonconnect),
+def _fullcalendar(data, name):  # WordPress FullCalendar feeds: admin-ajax.php?action=get_calendar_events (Arts Club)
+    items = data if isinstance(data, list) else data.get("events", [])
+    return [event((e.get("start") or "")[:10], e.get("title", ""), name, (e.get("start") or "")[11:16].replace("00:00", "") if "T" in (e.get("start") or "") else "",
+                  "", e.get("url", "") or "") for e in items]
+
+def _zoho_backstage(data, name):  # Zoho Backstage portals: /public/portals/<id>/eventsMeta (TiE DC)
+    out = []
+    for m in data.get("liveEventMetas", []) + data.get("upcomingEventMetas", []):
+        e = (m.get("meta") or {}).get("event", {})
+        tr = ((m.get("meta") or {}).get("eventTranslation") or [{}])[0]
+        v = ((m.get("meta") or {}).get("venueTranslation") or [{}])[0]
+        s_ = e.get("tzStartDate") or e.get("startDate") or ""
+        out.append(event(s_[:10], tr.get("name", ""), name, s_[11:16], v.get("name", "") or "",
+                         f"https://{e['domainName']}/{e['eventKey']}" if e.get("domainName") and e.get("eventKey") else "", desc=tr.get("summary", "")))
+    return out
+
+SHAPES = [("get_calendar_events", _fullcalendar), ("/eventsMeta", _zoho_backstage), ("keepandshare.com", _keepandshare), ("getOpportunitiesCalendar", _handsonconnect),
           ("eatonworkshop.com/api/events", _eaton), ("libnet.info/eeventcaldata", _libnet),
           ("bookmanager.com/customer/event", _bookmanager), ("stec_public_ajax_action", _stec),
           ("tribe/events", _tribe), ("/api/2/events", _localist), ("connectjew.org", _connectjew),
@@ -154,6 +170,10 @@ def read(source, window_days=21):
                     evs = [e for e in evs if keep.search(e["title"] + " " + e["venue"])]
                 if drop:
                     evs = [e for e in evs if not drop.search(e["title"])]
+                for e in evs:   # relative links ("/events/details/?id=1") resolve against the call's site
+                    if e["link"].startswith("/"):
+                        from urllib.parse import urljoin
+                        e["link"] = urljoin(url, e["link"])
                 if evs:
                     return dedupe([e for e in evs if in_window(e, window_days)])
             except Exception:
