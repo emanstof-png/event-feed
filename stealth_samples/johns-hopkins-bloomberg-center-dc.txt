@@ -228,7 +228,7 @@ sign up for our newsletter
 Get relevant programming, research, and expert insights sent straight to your inbox.
 Please enable JavaScript in your browser to complete this form.
 Please enable JavaScript in your browser to complete this form.
-Email * *
+Email * Email
 Email 
 *
 Submit
@@ -248,4 +248,3 @@ Close
 Search for:
 Search
 Quick Links:
-Stay

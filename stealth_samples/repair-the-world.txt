@@ -150,7 +150,7 @@ Store
 
                             Our generation can make a difference, sign up to join the movement.                        
 General Contact Form
-Phone
+Email
 This field is for validation purposes and should be left unchanged.
 Email
 Submit

@@ -9,7 +9,7 @@
   "near_hits": 21,
   "text_via": "get_all_text",
   "works": true,
-  "seconds": 6.5
+  "seconds": 6.7
  },
  {
   "name": "2239 (Washington Hebrew Congregation)",
@@ -21,7 +21,7 @@
   "near_hits": 24,
   "text_via": "get_all_text",
   "works": true,
-  "seconds": 7.7
+  "seconds": 11.1
  },
  {
   "name": "Reva (Adas Israel)",
@@ -33,7 +33,7 @@
   "near_hits": 9,
   "text_via": "get_all_text",
   "works": true,
-  "seconds": 8.3
+  "seconds": 8.6
  },
  {
   "name": "Repair the World",
@@ -45,55 +45,67 @@
   "near_hits": 0,
   "text_via": "get_all_text",
   "works": false,
-  "seconds": 12.1
+  "seconds": 128.9
+ },
+ {
+  "name": "Interfusion Festival",
+  "url": "https://interfusionfestival.com/",
+  "probe_method": "none",
+  "status": 200,
+  "text_len": 1413,
+  "date_hits": 1,
+  "near_hits": 0,
+  "text_via": "get_all_text",
+  "works": false,
+  "seconds": 9.3
  },
  {
   "name": "American University (university-wide)",
   "url": "https://www.american.edu/calendar/",
-  "probe_method": "none",
+  "probe_method": "reader",
   "status": 200,
-  "text_len": 6165,
+  "text_len": 9068,
   "date_hits": 4,
   "near_hits": 2,
   "text_via": "get_all_text",
   "works": true,
-  "seconds": 10.4
+  "seconds": 67.0
  },
  {
   "name": "American University College of Arts and Sciences",
   "url": "https://www.american.edu/cas/events/calendar/",
-  "probe_method": "none",
+  "probe_method": "browser",
   "status": 200,
-  "text_len": 6370,
+  "text_len": 9273,
   "date_hits": 11,
   "near_hits": 2,
   "text_via": "get_all_text",
   "works": true,
-  "seconds": 8.4
+  "seconds": 9.0
  },
  {
   "name": "Johns Hopkins Bloomberg Center DC",
   "url": "https://washingtondc.jhu.edu/events/upcoming-events/",
   "probe_method": "none",
   "status": 200,
-  "text_len": 8038,
+  "text_len": 8042,
   "date_hits": 14,
   "near_hits": 14,
   "text_via": "get_all_text",
   "works": true,
-  "seconds": 63.0
+  "seconds": 70.1
  },
  {
   "name": "Japan Information & Culture Center (Embassy of Japan)",
   "url": "https://www.us.emb-japan.go.jp/jicc/events.html",
-  "probe_method": "reader",
+  "probe_method": "none",
   "status": 200,
   "text_len": 7611,
   "date_hits": 65,
   "near_hits": 14,
   "text_via": "get_all_text",
   "works": true,
-  "seconds": 17.1
+  "seconds": 17.2
  },
  {
   "name": "Goethe-Institut Washington",
@@ -105,31 +117,43 @@
   "near_hits": 0,
   "text_via": "get_all_text",
   "works": false,
-  "seconds": 125.3
+  "seconds": 125.8
+ },
+ {
+  "name": "Stimson Center",
+  "url": "https://www.stimson.org/all-events/",
+  "probe_method": "reader",
+  "status": 200,
+  "text_len": 7470,
+  "date_hits": 17,
+  "near_hits": 15,
+  "text_via": "get_all_text",
+  "works": true,
+  "seconds": 64.3
  },
  {
   "name": "American Enterprise Institute",
   "url": "https://www.aei.org/events/",
-  "probe_method": "none",
+  "probe_method": "reader",
   "status": 200,
   "text_len": 7471,
   "date_hits": 14,
   "near_hits": 14,
   "text_via": "get_all_text",
   "works": true,
-  "seconds": 180.8
+  "seconds": 64.3
  },
  {
   "name": "Politics and Prose",
   "url": "https://politics-prose.com/events",
-  "probe_method": "reader",
+  "probe_method": "none",
   "status": 200,
   "text_len": 63816,
   "date_hits": 65,
   "near_hits": 33,
   "text_via": "get_all_text",
   "works": true,
-  "seconds": 66.5
+  "seconds": 15.0
  },
  {
   "name": "Lost City Books",
@@ -141,19 +165,19 @@
   "near_hits": 19,
   "text_via": "get_all_text",
   "works": true,
-  "seconds": 64.0
+  "seconds": 9.1
  },
  {
   "name": "People's Book (Takoma Park)",
   "url": "https://peoplesbooktakoma.com/events/",
-  "probe_method": "ical",
+  "probe_method": "none",
   "status": 200,
   "text_len": 2619,
   "date_hits": 0,
   "near_hits": 0,
   "text_via": "get_all_text",
   "works": false,
-  "seconds": 9.9
+  "seconds": 11.9
  },
  {
   "name": "Loyalty Bookstores (book clubs)",
@@ -165,19 +189,19 @@
   "near_hits": 12,
   "text_via": "get_all_text",
   "works": true,
-  "seconds": 63.0
+  "seconds": 63.3
  },
  {
   "name": "The Writer's Center (Bethesda)",
   "url": "https://writer.org/free-events-calendar/",
-  "probe_method": "browser",
+  "probe_method": "ical",
   "status": 200,
   "text_len": 30167,
   "date_hits": 23,
   "near_hits": 17,
   "text_via": "get_all_text",
   "works": true,
-  "seconds": 7.1
+  "seconds": 126.3
  },
  {
   "name": "Northern Virginia Astronomy Club (NOVAC)",
@@ -190,5 +214,17 @@
   "text_via": "get_all_text",
   "works": true,
   "seconds": 11.7
+ },
+ {
+  "name": "The Board Room (Arlington)",
+  "url": "https://www.theboardroomva.com/br-happenings",
+  "probe_method": "none",
+  "status": 403,
+  "text_len": 782,
+  "date_hits": 0,
+  "near_hits": 0,
+  "text_via": "get_all_text",
+  "works": false,
+  "seconds": 5.7
  }
 ]
