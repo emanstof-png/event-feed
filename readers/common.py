@@ -26,9 +26,14 @@ def get(url, **kw):
         do = lambda: creq.get(url, headers={"Accept-Language": UA["Accept-Language"], **extra},
                               impersonate="chrome", timeout=timeout, **kw)
     except ImportError:
-        do = lambda: requests.get(url, headers={**UA, **extra}, timeout=timeout, **kw)
+        do = None
+    plain = lambda: requests.get(url, headers={**UA, **extra}, timeout=timeout, **kw)
     for attempt in range(3):
-        r = do()
+        r = do() if do else plain()
+        if do and r.status_code in (401, 403, 406):   # some sites refuse the impersonation; Oct 24: Ann Kite
+            r2 = plain()
+            if r2.status_code < 400:
+                return r2
         if r.status_code in (429, 500, 502, 503, 504) and attempt < 2:
             time.sleep(4 * (attempt + 1))
             continue
