@@ -140,6 +140,19 @@ def main():
     print(f"{len(targets)} sources, cap {CAP}s each", flush=True)
     log = []
     for r in targets:
+        try:
+            log.append(one(r))
+        except Exception as e:
+            import traceback
+            tb = traceback.format_exc().splitlines()
+            print(f"::error title=find {r['name'][:40]}::{type(e).__name__}: {e} | {' / '.join(tb[-4:])}"[:900], flush=True)
+            log.append([r["row"], r["name"], "", "", 0, 0, 0, 0, 0, 0, f"{type(e).__name__}: {e}"[:80]])
+    with open(_L["prefix"] + "find_log.csv", "w", newline="", encoding="utf-8") as f:
+        w = csv.writer(f); w.writerow(["row", "name", "best_page", "status", "date_strings", "jsonld_events", "feed_hints", "probe_events", "search_hits", "seconds", "error"]); w.writerows(log)
+    print("DONE", len(log))
+
+def one(r):
+    if True:
         t0 = time.time(); deadline = t0 + CAP
         hits, serr = search(f'"{r["name"].split(" (")[0]}" Washington DC events')
         pages = [examine(r["url"], deadline)]
@@ -168,10 +181,8 @@ def main():
         line = [r["row"], r["name"], best["url"], best["status"], best["dates"], best["jsonld"],
                 sum(len(p["hints"]) for p in pages), max((x.get("events", 0) for x in pr), default=0), len(hits),
                 round(time.time() - t0, 1), (start["error"] or serr)[:80]]
-        log.append(line); print(line, flush=True)
-    with open(_L["prefix"] + "find_log.csv", "w", newline="", encoding="utf-8") as f:
-        w = csv.writer(f); w.writerow(["row", "name", "best_page", "status", "date_strings", "jsonld_events", "feed_hints", "probe_events", "search_hits", "seconds", "error"]); w.writerows(log)
-    print("DONE", len(log))
+        print(line, flush=True)
+        return line
 
 if __name__ == "__main__":
     main()
