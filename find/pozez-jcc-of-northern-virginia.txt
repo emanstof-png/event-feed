@@ -1,4 +1,4 @@
 Pozez JCC of Northern Virginia
-best page: https://www.thejccnv.org/calendar/ (status None, 0 date strings, 0 JSON-LD events)
-fetched 2026-10-25 02:08Z
+best page: https://www.jccnv.org/ (status None, 0 date strings, 0 JSON-LD events)
+fetched 2026-10-25 02:15Z
 

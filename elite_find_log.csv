@@ -1,42 +1,6 @@
 row,name,best_page,status,date_strings,jsonld_events,feed_hints,probe_events,search_hits,seconds,error
-2,Ned's Club (Washington DC),https://www.nedsclub.com/,200,0,0,0,0,6,4.3,
-3,Meridian International Center,https://meridian.org/project/meridian-and-idb-open-unseen-threads-art-exhibition/,200,8,0,22,0,6,7.2,
-4,University Club of Washington DC,https://www.universityclubdc.com/,200,0,0,0,0,2,3.4,
-5,Arts Club of Washington,https://artsclubofwashington.org/,200,7,0,18,0,6,3.8,
-6,International Student House DC (I-House),https://ihousedc.org/,200,6,0,27,0,0,8.2,"html.duckduckgo.com 0 hits (202, 14297b); www.bing.com 0 hits (200, 129360b); li"
-7,The Phillips Collection,https://www.phillipscollection.org/exhibitions/past,200,24,0,0,0,0,5.7,"html.duckduckgo.com 0 hits (202, 14295b); www.bing.com 0 hits (200, 129142b); li"
-8,The Washington Ballet,https://www.washingtonballet.org/events/the-nutcracker-2026/,200,3,35,13,0,0,10.1,"html.duckduckgo.com 0 hits (202, 14279b); www.bing.com 0 hits (200, 132134b); li"
-9,Hirshhorn Museum,https://hirshhorn.si.edu/events/,,0,0,0,0,0,5.1,HTTPError: HTTP Error 403: 
-11,French-American Chamber of Commerce DC,https://www.faccwdc.org/,200,13,0,0,0,0,10.8,"html.duckduckgo.com 0 hits (202, 14307b); www.bing.com 0 hits (200, 132045b); li"
-12,Swedish-American Chamber of Commerce DC,https://www.sacc-dc.org/,200,0,0,1,0,0,8.1,"html.duckduckgo.com 0 hits (202, 14315b); www.bing.com 0 hits (200, 131248b); li"
-13,International Club of DC,https://www.internationalclubdc.com/,200,14,0,0,0,0,6.5,"html.duckduckgo.com 0 hits (202, 14279b); www.bing.com 0 hits (200, 129634b); li"
-15,TiE DC,https://dc.tie.org/events/,200,0,0,0,0,0,8.3,"html.duckduckgo.com 0 hits (202, 14261b); www.bing.com 0 hits (200, 127274b); li"
-16,Entrepreneurs' Organization DC,https://www.eodc.org/,200,0,0,5,0,0,8.3,"html.duckduckgo.com 0 hits (202, 14305b); www.bing.com 0 hits (200, 130708b); li"
-17,Mindshare,https://www.mindshare.org/,,0,0,0,0,0,5.5,"DNSError: Failed to perform, curl: (6) Could not resolve host: www.mindshare.org"
-18,YPO (DC chapter),https://www.ypo.org/,200,0,0,6,0,0,6.6,"html.duckduckgo.com 0 hits (202, 14243b); www.bing.com 0 hits (200, 120793b); li"
-19,Arlington Chamber of Commerce,https://web.arlingtonchamber.org/events?ce=true,200,35,0,2,0,0,7.6,"html.duckduckgo.com 0 hits (202, 14289b); www.bing.com 0 hits (200, 128959b); li"
-20,Northern Virginia Chamber of Commerce,https://novachamber.org/,200,6,0,5,0,0,6.0,HTTPError: HTTP Error 404: 
-21,IA&A at Hillyer,https://hillyer.org/events/,,0,0,0,0,0,5.5,"DNSError: Failed to perform, curl: (6) Could not resolve host: hillyer.org. See "
-22,Dupont Circle Art Walk,https://www.dupontcircleartwalk.com/,,0,0,0,0,0,4.8,"DNSError: Failed to perform, curl: (6) Could not resolve host: www.dupontcirclea"
-23,Dupont Underground,https://dupontunderground.org/fall-2025-events-archive,200,181,0,27,0,0,7.6,"html.duckduckgo.com 0 hits (202, 14279b); www.bing.com 0 hits (200, 127543b); li"
-24,National Gallery of Art,https://www.nga.gov/calendar,,0,0,0,0,0,5.1,HTTPError: HTTP Error 403: 
-25,MoCA Arlington,https://mocaarlington.org/exhibitions/current/,200,12,0,30,0,0,8.6,"html.duckduckgo.com 0 hits (202, 14271b); www.bing.com 0 hits (200, 130030b); li"
-26,Georgetown University Art Galleries,https://art.georgetown.edu/,200,5,0,18,0,0,5.5,"html.duckduckgo.com 0 hits (202, 14307b); www.bing.com 0 hits (200, 128600b); li"
-27,Transformer,https://www.transformerdc.org/events,200,65,0,25,0,0,7.1,"html.duckduckgo.com 0 hits (202, 14257b); www.bing.com 0 hits (200, 125701b); li"
-28,Touchstone Gallery,https://www.touchstonegallery.com/events,200,43,0,27,0,0,5.8,"html.duckduckgo.com 0 hits (202, 14273b); www.bing.com 0 hits (200, 127762b); li"
-29,Foundry Gallery,https://www.foundrygallery.org/,200,0,0,0,0,0,5.5,"html.duckduckgo.com 0 hits (202, 14267b); www.bing.com 0 hits (200, 126316b); li"
-30,Zenith Gallery,https://zenithgallery.com/exhibit-category/past/,200,90,0,23,0,0,7.5,"html.duckduckgo.com 0 hits (202, 14265b); www.bing.com 0 hits (200, 131978b); li"
-31,Smithsonian American Art Museum / Renwick,https://americanart.si.edu/,200,12,1,0,0,0,6.3,"html.duckduckgo.com 0 hits (202, 14319b); www.bing.com 0 hits (200, 128166b); li"
-35,Korean Cultural Center Washington,https://washingtondc.korean-culture.org/en/1126/board/890/list,200,41,0,0,0,0,11.8,"html.duckduckgo.com 0 hits (202, 14303b); www.bing.com 0 hits (200, 114838b); li"
-38,Embassy of Sweden / House of Sweden,https://www.swedenabroad.se/en/embassies/usa-washington/,,0,0,0,0,0,6.0,HTTPError: HTTP Error 403: 
-40,JNF-USA Greater Washington (JNFuture),https://www.jnf.org/,200,0,0,0,0,0,6.5,HTTPError: HTTP Error 404: Not Found
-41,Israel Bonds (Washington),https://israelbonds.com/,200,26,0,10,0,0,10.5,"html.duckduckgo.com 0 hits (202, 14252b); www.bing.com 0 hits (200, 128757b); li"
-42,AJC Washington,https://www.ajc.org/washington/events,,0,0,0,0,0,6.6,HTTPError: HTTP Error 403: 
-43,Bender JCC of Greater Washington,https://www.benderjccgw.org/calendar/month/,200,102,0,12,0,0,8.7,"html.duckduckgo.com 0 hits (202, 14286b); www.bing.com 0 hits (200, 129943b); li"
-46,Capital Jewish Museum,https://capitaljewishmuseum.org/calendar/?all_events=1,200,33,0,15,0,0,7.6,"html.duckduckgo.com 0 hits (202, 14276b); www.bing.com 0 hits (200, 130024b); li"
-47,Pozez JCC of Northern Virginia,https://www.thejccnv.org/calendar/,,0,0,0,0,0,20.8,"DNSError: Failed to perform, curl: (6) Could not resolve host: www.thejccnv.org."
-49,MakomDC (Adas Israel),https://www.adasisrael.org/daily-minyan-schedule,200,15,20,25,0,0,38.4,"html.duckduckgo.com Timeout; www.bing.com 0 hits (200, 125033b); lite.duckduckgo"
-50,East City Art,https://www.eastcityart.com/weekend-list/dcart101926/,200,85,0,18,0,0,40.6,"html.duckduckgo.com Timeout; www.bing.com 0 hits (200, 123031b); lite.duckduckgo"
-51,Smithsonian (all museums),https://www.si.edu/events,,0,0,0,0,0,35.1,HTTPError: HTTP Error 403: 
-52,Federation community calendar,https://www.shalomdc.org/community-calendar/,200,257,214,48,30,0,53.3,"html.duckduckgo.com Timeout; www.bing.com 0 hits (200, 130264b); lite.duckduckgo"
-53,GatherDC directory,https://gatherdc.org/calendar/,200,318,259,17,26,0,37.8,HTTPError: HTTP Error 404: 
+20,Northern Virginia Chamber of Commerce,https://web.novachamber.org/events,200,0,0,0,0,6,16.2,
+21,IA&A at Hillyer,https://athillyer.org/series/third-thursdays/,200,17,0,17,0,6,13.2,
+22,Dupont Circle Art Walk,https://dupontcirclebid.org/,200,1,0,0,0,0,7.9,"html.duckduckgo.com 0 hits (200, 9392b); www.bing.com 0 hits (200, 128290b); lit"
+40,JNF-USA Greater Washington (JNFuture),https://www.jnf.org/jnf-in-your-area/midatlantic,200,0,0,0,0,0,8.1,"html.duckduckgo.com 0 hits (202, 14288b); www.bing.com 0 hits (200, 136078b); li"
+47,Pozez JCC of Northern Virginia,https://www.jccnv.org/,,0,0,0,0,0,69.5,HTTPError: HTTP Error 522: 

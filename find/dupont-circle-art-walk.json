@@ -1,44 +1,211 @@
 {
  "row": "22",
  "name": "Dupont Circle Art Walk",
- "seed_url": "https://www.dupontcircleartwalk.com/",
+ "seed_url": "https://dupontcirclebid.org/events",
  "programs": "First Friday art walk",
  "access": "Recurring; receptions may duplicate gallery calendars",
- "found": "2026-10-25 02:06Z",
+ "found": "2026-10-25 02:13Z",
  "search_hits": [],
- "search_error": "html.duckduckgo.com 0 hits (202, 14287b); www.bing.com 0 hits (200, 127843b); lite.duckduckgo.com 0 hits (202, 14281b)",
+ "search_error": "html.duckduckgo.com 0 hits (200, 9392b); www.bing.com 0 hits (200, 128290b); lite.duckduckgo.com 0 hits (200, 8001b)",
  "probes": [
   {
-   "url": "https://www.dupontcircleartwalk.com/wp-json/tribe/events/v1/events?per_page=10",
-   "status": "DNSError",
-   "events": 0
+   "url": "https://dupontcirclebid.org/wp-json/tribe/events/v1/events?per_page=10",
+   "status": 200,
+   "events": 0,
+   "head": "<!doctype html>\r\n<html lang=\"en\" prefix=\"og: http://ogp.me/ns#\">\r\n<head>\r\n  <meta charset=\"utf-8\">\r\n  <meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">\r\n\r\n  <title>Dupont Circle BID | Dupont Circle, Washington DC</title>\n  <link rel=\"canonical\" href=\"https://dupontcirclebid.org/\">"
   },
   {
-   "url": "https://www.dupontcircleartwalk.com/events/?ical=1",
-   "status": "DNSError",
-   "events": 0
+   "url": "https://dupontcirclebid.org/events/?ical=1",
+   "status": 200,
+   "events": 0,
+   "head": "<!doctype html>\r\n<html lang=\"en\" prefix=\"og: http://ogp.me/ns#\">\r\n<head>\r\n  <meta charset=\"utf-8\">\r\n  <meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">\r\n\r\n  <title>Events | Dupont Circle</title>\n  <link rel=\"canonical\" href=\"https://dupontcirclebid.org/events\">\n  <meta name=\"robot"
   },
   {
-   "url": "https://www.dupontcircleartwalk.com/?ical=1",
-   "status": "DNSError",
-   "events": 0
+   "url": "https://dupontcirclebid.org/?ical=1",
+   "status": 200,
+   "events": 0,
+   "head": "<!doctype html>\r\n<html lang=\"en\" prefix=\"og: http://ogp.me/ns#\">\r\n<head>\r\n  <meta charset=\"utf-8\">\r\n  <meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">\r\n\r\n  <title>Dupont Circle BID | Dupont Circle, Washington DC</title>\n  <link rel=\"canonical\" href=\"https://dupontcirclebid.org/\">"
   }
  ],
  "pages": [
   {
-   "url": "https://www.dupontcircleartwalk.com/",
-   "status": null,
-   "final_url": "",
-   "title": "",
+   "url": "https://dupontcirclebid.org/events",
+   "status": 200,
+   "final_url": "https://dupontcirclebid.org/events",
+   "title": "Events | Dupont Circle",
    "dates": 0,
    "jsonld": 0,
    "jsonld_samples": [],
    "hints": [],
    "iframes": [],
-   "event_links": [],
+   "event_links": [
+    {
+     "text": "Event Venues",
+     "url": "https://dupontcirclebid.org/visit/event-venues"
+    },
+    {
+     "text": "Calendar",
+     "url": "https://dupontcirclebid.org/events/calendar"
+    },
+    {
+     "text": "First Friday",
+     "url": "https://dupontcirclebid.org/events/artwalk-dupont"
+    }
+   ],
    "platform": "",
-   "error": "DNSError: Failed to perform, curl: (6) Could not resolve host: www.dupontcircleartwalk.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more det"
+   "error": ""
+  },
+  {
+   "url": "https://dupontcirclebid.org/",
+   "status": 200,
+   "final_url": "https://dupontcirclebid.org/",
+   "title": "Dupont Circle BID | Dupont Circle, Washington DC",
+   "dates": 1,
+   "jsonld": 0,
+   "jsonld_samples": [],
+   "hints": [],
+   "iframes": [],
+   "event_links": [
+    {
+     "text": "Event Venues",
+     "url": "https://dupontcirclebid.org/visit/event-venues"
+    },
+    {
+     "text": "Events",
+     "url": "https://dupontcirclebid.org/events"
+    },
+    {
+     "text": "Calendar",
+     "url": "https://dupontcirclebid.org/events/calendar"
+    },
+    {
+     "text": "First Friday",
+     "url": "https://dupontcirclebid.org/events/artwalk-dupont"
+    },
+    {
+     "text": "Events Calendar",
+     "url": "https://dupontcirclebid.org/explore/events"
+    }
+   ],
+   "platform": "",
+   "error": ""
+  },
+  {
+   "url": "https://dupontcirclebid.org/visit/event-venues",
+   "status": 200,
+   "final_url": "https://dupontcirclebid.org/visit/event-venues",
+   "title": "Event Venues | Visit | Dupont Circle",
+   "dates": 0,
+   "jsonld": 0,
+   "jsonld_samples": [],
+   "hints": [],
+   "iframes": [],
+   "event_links": [
+    {
+     "text": "Events",
+     "url": "https://dupontcirclebid.org/events"
+    },
+    {
+     "text": "Calendar",
+     "url": "https://dupontcirclebid.org/events/calendar"
+    },
+    {
+     "text": "First Friday",
+     "url": "https://dupontcirclebid.org/events/artwalk-dupont"
+    }
+   ],
+   "platform": "",
+   "error": ""
+  },
+  {
+   "url": "https://dupontcirclebid.org/events/calendar",
+   "status": 200,
+   "final_url": "https://dupontcirclebid.org/events/calendar",
+   "title": "Calendar | Events | Dupont Circle",
+   "dates": 0,
+   "jsonld": 0,
+   "jsonld_samples": [],
+   "hints": [],
+   "iframes": [],
+   "event_links": [
+    {
+     "text": "Event Venues",
+     "url": "https://dupontcirclebid.org/visit/event-venues"
+    },
+    {
+     "text": "Events",
+     "url": "https://dupontcirclebid.org/events"
+    },
+    {
+     "text": "First Friday",
+     "url": "https://dupontcirclebid.org/events/artwalk-dupont"
+    },
+    {
+     "text": "Click here to list your event",
+     "url": "https://dupontcirclebid.org/events/calendar/submit-an-event"
+    }
+   ],
+   "platform": "",
+   "error": ""
+  },
+  {
+   "url": "https://dupontcirclebid.org/events/artwalk-dupont",
+   "status": 200,
+   "final_url": "https://dupontcirclebid.org/events/artwalk-dupont",
+   "title": "First Friday | Events | Dupont Circle",
+   "dates": 0,
+   "jsonld": 0,
+   "jsonld_samples": [],
+   "hints": [],
+   "iframes": [],
+   "event_links": [
+    {
+     "text": "Event Venues",
+     "url": "https://dupontcirclebid.org/visit/event-venues"
+    },
+    {
+     "text": "Events",
+     "url": "https://dupontcirclebid.org/events"
+    },
+    {
+     "text": "Calendar",
+     "url": "https://dupontcirclebid.org/events/calendar"
+    }
+   ],
+   "platform": "",
+   "error": ""
+  },
+  {
+   "url": "https://dupontcirclebid.org/explore/events",
+   "status": 200,
+   "final_url": "https://dupontcirclebid.org/events/calendar",
+   "title": "Calendar | Events | Dupont Circle",
+   "dates": 0,
+   "jsonld": 0,
+   "jsonld_samples": [],
+   "hints": [],
+   "iframes": [],
+   "event_links": [
+    {
+     "text": "Event Venues",
+     "url": "https://dupontcirclebid.org/visit/event-venues"
+    },
+    {
+     "text": "Events",
+     "url": "https://dupontcirclebid.org/events"
+    },
+    {
+     "text": "First Friday",
+     "url": "https://dupontcirclebid.org/events/artwalk-dupont"
+    },
+    {
+     "text": "Click here to list your event",
+     "url": "https://dupontcirclebid.org/events/calendar/submit-an-event"
+    }
+   ],
+   "platform": "",
+   "error": ""
   }
  ],
- "best_page": "https://www.dupontcircleartwalk.com/"
+ "best_page": "https://dupontcirclebid.org/"
 }

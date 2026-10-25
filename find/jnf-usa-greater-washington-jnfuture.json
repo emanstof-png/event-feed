@@ -1,12 +1,12 @@
 {
  "row": "40",
  "name": "JNF-USA Greater Washington (JNFuture)",
- "seed_url": "https://www.jnf.org/events",
+ "seed_url": "https://www.jnf.org/jnf-in-your-area/midatlantic",
  "programs": "JNFuture (ages 22-40)",
  "access": "Regional listings; filter program and geography",
- "found": "2026-10-25 02:07Z",
+ "found": "2026-10-25 02:14Z",
  "search_hits": [],
- "search_error": "html.duckduckgo.com 0 hits (202, 14274b); www.bing.com 0 hits (200, 129688b); lite.duckduckgo.com 0 hits (202, 14334b)",
+ "search_error": "html.duckduckgo.com 0 hits (202, 14288b); www.bing.com 0 hits (200, 136078b); lite.duckduckgo.com 0 hits (202, 14289b)",
  "probes": [
   {
    "url": "https://www.jnf.org/wp-json/tribe/events/v1/events?per_page=10",
@@ -27,10 +27,10 @@
  ],
  "pages": [
   {
-   "url": "https://www.jnf.org/events",
-   "status": null,
-   "final_url": "",
-   "title": "",
+   "url": "https://www.jnf.org/jnf-in-your-area/midatlantic",
+   "status": 200,
+   "final_url": "https://www.jnf.org/jnf-in-your-area/midatlantic",
+   "title": "Find Out About Upcoming Events in MidAtlantic | JNF",
    "dates": 0,
    "jsonld": 0,
    "jsonld_samples": [],
@@ -38,7 +38,7 @@
    "iframes": [],
    "event_links": [],
    "platform": "",
-   "error": "HTTPError: HTTP Error 404: Not Found"
+   "error": ""
   },
   {
    "url": "https://www.jnf.org/",
@@ -55,5 +55,5 @@
    "error": ""
   }
  ],
- "best_page": "https://www.jnf.org/"
+ "best_page": "https://www.jnf.org/jnf-in-your-area/midatlantic"
 }
