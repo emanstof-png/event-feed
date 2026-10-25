@@ -1,9 +1,9 @@
 Source,Method,Status,Events,Seconds,Error,Sample,Run at
-Hollywood Ballroom,xhr,ERROR,0,0.6,HTTPError: HTTP Error 404: ,,2026-10-24 20:27
-Capital Area Food Bank,xhr,EMPTY,0,0.8,,,2026-10-24 20:27
-Eaton Wellness,xhr,LIVE,27,0.9,,"2026-10-26 A Tibetan Bowl Sound Bath for Mental Hea; 2026-10-27 Yoga: Move, breathe, and reconnect, en e; 2026-10-27 Yogalates with Kaya:
-The mindfulness of ",2026-10-24 20:27
-DC Public Library: DC Reads,xhr,LIVE,29,1.4,,2026-10-24 Friends Book Sale; 2026-10-24 Reading All-Stars with Northstar; 2026-10-24 Friends of Tenley Library Book Sale,2026-10-24 20:27
-Kramers,xhr,EMPTY,0,0.4,,,2026-10-24 20:27
-Mexican Cultural Institute,xhr,ERROR,0,1.6,HTTPError: HTTP Error 400: ,,2026-10-24 20:27
-Victory Comics,ical,LIVE,40,3.1,,2026-11-05 WH40k Kill Team; 2026-10-28 MTG Standard Constructed Tournament; 2026-11-04 MTG Standard Constructed Tournament,2026-10-24 20:27
+Hollywood Ballroom,xhr,LIVE,16,0.8,,2026-10-24 Mr. Mambo's; 2026-10-25 PRIVATE DANCE INSTRUCTION; 2026-10-25 SUNDAY SOCIAL BALLROOM DANCE,2026-10-24 20:29
+Capital Area Food Bank,xhr,LIVE,75,0.8,,2026-10-24 Arlington Community Marketplace; 2026-10-24 DC: Saturday Morning; 2026-10-24 DC: Saturday Afternoon,2026-10-24 20:29
+Eaton Wellness,xhr,LIVE,27,1.1,,"2026-10-26 A Tibetan Bowl Sound Bath for Mental Hea; 2026-10-27 Yoga: Move, breathe, and reconnect, en e; 2026-10-27 Yogalates with Kaya:
+The mindfulness of ",2026-10-24 20:29
+DC Public Library: DC Reads,xhr,LIVE,29,1.5,,2026-10-24 Friends Book Sale; 2026-10-24 Reading All-Stars with Northstar; 2026-10-24 Friends of Tenley Library Book Sale,2026-10-24 20:29
+Kramers,xhr,EMPTY,0,0.4,,,2026-10-24 20:29
+Mexican Cultural Institute,xhr,LIVE,4,1.8,,2026-10-26 Mini Catrina Paper Maché Workshop by Ana; 2026-10-27 Las Puntuantes: Conferencia performática; 2026-10-31 Día de Muertos 2026 at the Mexican Cultu,2026-10-24 20:29
+Victory Comics,ical,LIVE,40,2.8,,2026-10-28 MTG Standard Constructed Tournament; 2026-11-04 MTG Standard Constructed Tournament; 2026-11-11 MTG Standard Constructed Tournament,2026-10-24 20:29
