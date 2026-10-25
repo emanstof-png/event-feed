@@ -1,217 +1,275 @@
 The Writer's Center (Bethesda)
 https://writer.org/free-events-calendar/
-method: ical
+method: jsonld
 
-Skip To Main Content
+Events Calendar - The Writer's Center
+Skip to main content
+Search Site
+Menu
 Member Log-in
 Rent Our Space
 TWC Magazine
 FAQs & Contact
-Workshops
-Events
-Resources
-Get Involved
-About Us
-Poet Lore
+Workshops  
+Events  
+Resources  
+Get Involved  
+About Us  
+Poet Lore  
 Join
 Give
+Member Log-in
+Rent Our Space
+TWC Magazine
+FAQs & Contact
+Back
+Workshops
+Menu
+Workshops
+														Workshops Calendar													
+														How to Choose your Workshop													
+														Gift Cards													
+														Instructors													
+														Scholarships													
+														Compass Fellowship													
+														Book Farm													
+																									Take a workshop																							
+Register
+Back
+Events
+Menu
+Events
+														Events Calendar													
+														What’s On Stage													
+														Watch Past Events													
+														Writer Mixers													
+														Book Club													
+														Curated Conversation(s): a Latinx Poetry Show													
+Sunday | 12:00 PM EDT-2:00 PM EDT|
+														The Writer’s Center													
+Managing Queries with QueryTracker
+															Workshop														
+Back
+Resources
+Menu
+Resources
+														TWC Magazine													
+														Email Newsletter													
+														Blog													
+														Compass Fellowship													
+														Writing Coaches & Consultants													
+posted on June 26, 2026
+Bethesda Local Writer’s Showcase: 2026 Adult Essay Contest
+Uncategorized
+Back
+Get Involved
+Menu
+Get Involved
+														Rent Our Space													
+														Become a Member													
+														Donate Today													
+														Teach for Us													
+																									Help us help writers!																							
+Support Us
+Back
+About Us
+Menu
+About Us
+														Location & Hours													
+														Our Mission													
+														Our Impact													
+														Our Team													
+														Employment													
+														Code of Conduct													
+																									Learn about The Writer's Center																							
+Our Mission
+Back
+Poet Lore
+Menu
+Poet Lore
+														Our Story													
+														Subscribe													
+														Submit													
+														Support													
+																									America's oldest poetry magazine																							
+Poet Lore
 Events Calendar
 Events for writers!
-
 The Writer’s Center offers dozens of events every year. We invite writers to have fun, explore the craft of writing, and connect with the literary community. Join us in-person and online.
-
+		35 events found.	
 Events
-Previous month
-Next month
-This Month
-October 2026
-Select date.
-Calendar of Events
-S
-SUNDAY
-M
-MONDAY
-T
-TUESDAY
-W
-WEDNESDAY
-T
-THURSDAY
-F
-FRIDAY
-S
-SATURDAY
-1 event,
-27
-1:00 PM EDT
-Latine Heritage Through a Literary Lens
-Register Free
-1 event,
-28
-7:00 PM EDT
-Virtual Craft Chat w/ Author Rebecca Lee
-Register Free
-1 event,
-29
-7:00 PM EDT
-Bill Wilburn Book Release
-Register Free
-1 event,
-30
-6:00 PM EDT
-Virtual International Translation Day Celebration: Nao-Cola Yamazaki and Asako Yuzuki with translators Charlotte Goff and Ecre Karadag
-Register Free
-1 event,
-1
-6:00 PM EDT
-Betsy Packard Art Reception
-Register Free
-0 events,
-2
-1 event,
-3
-2:00 PM EDT
-1455’s Women’s Writers Anthology Reading
-Register Free
-0 events,
-4
-1 event,
-5
-7:00 PM EDT
-Cafe Muse Literary Salon
+            Previous month
+            Next month
+	This Month
+				2026-10-24			
+				October 2026			
+		Select date.	
+						Calendar of Events		
+						S					
+						Sunday					
+						M					
+						Monday					
+						T					
+						Tuesday					
+						W					
+						Wednesday					
+						T					
+						Thursday					
+						F					
+						Friday					
+						S					
+						Saturday					
+			1 event		
+			27		
+		1 event,
+				27			
+        1:00 PM EDT    
+        Latine Heritage Through a Literary Lens    
+                    Latine Heritage Through a Literary Lens                
+September 27 @ 1:00 PM EDT
+ - 
+5:00 PM EDT
+Venue :
+                            The Writer’s Center                        
+The Writer’s Center and Tintas DC presents a FREE, informative, and inspiring symposium exploring Latine heritage in literature and popular culture. The event will feature free creative writing workshops followed […]
 Register
-0 events,
-6
-0 events,
-7
-1 event,
-8
-7:00 PM EDT
-Inner Loop Author’s Corner w/ Lenna Jawdat!
-Register Free
-0 events,
-9
-0 events,
-10
-2 events,
-11
-3:00 PM EDT
-BIPOC Writers Mixer
-Register Free
-7:00 PM EDT
-Venezuelan Poetry for Healing
-Register Free
-0 events,
-12
-0 events,
-13
-2 events,
-14
-7:00 PM EDT
-Open Mic @ The Writer’s Center
-Register Free
-7:00 PM EDT
-Poetry Book Club w/ Taylor Byas!
-Register Free
-1 event,
-15
-7:00 PM EDT
-Virtual Craft Chat w/ Poet Kirsten Kaschock
-Register Free
-0 events,
-16
-1 event,
-17
-3:00 PM EDT
-Washington Sculptors Group Annual Members’ Image Show
-Register Free
-1 event,
-18
-2:00 PM EDT
-***CANCELLED*** Fiction Book Club w/ Hasan Dudar!
-Register Free
-0 events,
-19
-1 event,
-20
-7:00 PM EDT
-Virtual Craft Chat w/ Lauren Francis-Sharma & Jennifer Grotz, Editors of Welcome to the Mountain
-Register Free
-0 events,
-21
-0 events,
-22
-1 event,
-23
-7:00 PM EDT
-An Evening of Tributes to Tobias Wolff
-Register Free
-0 events,
-24
-1 event,
-25
-2:00 PM EDT
-Search Party: Find Your Writing Group
-Register Free
-1 event,
-26
-7:00 PM EDT
-Daniel Nayeri Book Release
+        Free    
+			1 event		
+			28		
+		1 event,
+				28			
+        7:00 PM EDT    
+        Virtual Craft Chat w/ Author Rebecca Lee    
+                    Virtual Craft Chat w/ Author Rebecca Lee                
+September 28 @ 7:00 PM EDT
+ - 
+8:00 PM EDT
+The Writer’s Center presents a FREE virtual chat about the craft of nonfiction! We’re joined by author Rebecca Lee for a discussion of her new publication, Rogues, Widows and Orphans: Mischief […]
 Register
-1 event,
-27
-6:00 PM EDT
-A Conversation & Reading with Petra Hůlová and Alex Zucker
+        Free    
+			1 event		
+			29		
+		1 event,
+				29			
+        7:00 PM EDT    
+        Bill Wilburn Book Release    
+                    Bill Wilburn Book Release                
+September 29 @ 7:00 PM EDT
+ - 
+8:30 PM EDT
+Venue :
+                            The Writer’s Center                        
+The Writer’s Center welcomes writer Bill Wilburn for a reading from his debut novel, First Comes Winter. Bill is joined by Emily Barrosse for a discussion of his novel. FREE & […]
 Register
-1 event,
-28
+        Free    
+			1 event		
+			30		
+		1 event,
+				30			
+        6:00 PM EDT    
+        Virtual International Translation Day Celebration: Nao-Cola Yamazaki and Asako Yuzuki with translators Charlotte Goff and Ecre Karadag    
+                    Virtual International Translation Day Celebration: Nao-Cola Yamazaki and Asako Yuzuki with translators Charlotte Goff and Ecre Karadag                
+September 30 @ 6:00 PM EDT
+ - 
 7:00 PM EDT
-Open Mic @ The Writer’s Center
-Register Free
-2 events,
-29
-7:00 PM EDT
-Virtual Craft Chat w/ Author Amber Blaeser-Wardzala
-Register Free
-7:00 PM EDT
-***CANCELLED**Richard Hoffman Book Release
-Register Free
-0 events,
-30
-0 events,
-31
-Subscribe to calendar 
-
-The Writer’s Center
-4508 Walsh St
-Bethesda MD 20815
-
-info@writer.org
-301.654.8664
-Workshops
-Events
-Rent Our Space
-TWC Swag Shop
-Become A Member
-Monday:
-10am – 3pm
-Tuesday – Thursday:
-10am - 9pm
-Friday:
-Closed
-Saturday:
-10am – 2pm
-Sunday:
-Closed
-Follow Us
-Newsletter
-Name*
-First Name*
-Last Name*
-Email Address*
-Confirm Email*
-Submit
-Copyright 2026 | The Writer's Center | Nonprofit Website Design by Elevation Web |
-Accessibility Policy
-Terms of Use
-Privacy Policy
+Venue :
+                            Zoom                        
+The Writer’s Center welcomes Charlotte Goff and Ecre Karadag for a FREE virtual chat to celebrate International Translation Day. Charlotte and Ecre will discuss the joys and challenges of translating […]
+Register
+        Free    
+			1 event		
+			1		
+		1 event,
+				1			
+        6:00 PM EDT    
+        Betsy Packard Art Reception    
+                    Betsy Packard Art Reception                
+October 1 @ 6:00 PM EDT
+ - 
+8:00 PM EDT
+Venue :
+                            The Writer’s Center                        
+The Writer’s Center is pleased to host an exhibition works by artist Betsy Packard, on display in the Center’s Joram Piatigorsky Gallery, October 1–November 4, 2026. Opening reception is FREE […]
+Register
+        Free    
+			0 events		
+			2		
+		0 events,
+					2			
+			1 event		
+			3		
+		1 event,
+				3			
+        2:00 PM EDT    
+        1455’s Women’s Writers Anthology Reading    
+                    1455’s Women’s Writers Anthology Reading                
+October 3 @ 2:00 PM EDT
+ - 
+3:30 PM EDT
+Venue :
+                            The Writer’s Center                        
+The Writer’s Center welcomes 1455 to celebrate the launch of their Women Writers Anthology for a Q&A between 1455 Executive Director Sean Murphy and local author Hannah Grieco, followed by […]
+Register
+        Free    
+			0 events		
+			4		
+		0 events,
+					4			
+			1 event		
+			5		
+		1 event,
+				5			
+        7:00 PM EDT    
+        Cafe Muse Literary Salon    
+                    Cafe Muse Literary Salon                
+October 5 @ 7:00 PM EDT
+ - 
+8:30 PM EDT
+Venue :
+                            The Writer’s Center                        
+The Writer’s Center welcomes the Café Muse Literary Salon for a reading featuring writers Lola Haskins and Mary Sesso. The evening begins at 7 PM with Michael Davis live on […]
+Register
+			0 events		
+			6		
+		0 events,
+					6			
+			0 events		
+			7		
+		0 events,
+					7			
+			1 event		
+			8		
+		1 event,
+				8			
+        7:00 PM EDT    
+        Inner Loop Author’s Corner w/ Lenna Jawdat!    
+                    Inner Loop Author’s Corner w/ Lenna Jawdat!                
+October 8 @ 7:00 PM EDT
+ - 
+8:00 PM EDT
+Venue :
+                            Zoom                        
+70,000 is The Inner Loop’s Author’s Corner spotlight. The Inner Loop cultivates and promotes the distinctive literary culture of Washington, DC. Author’s Corner supports local authors’ independently published books by spotlighting them in community programming and collaborations. RSVP […]
+Register
+        Free    
+			0 events		
+			9		
+		0 events,
+					9			
+			0 events		
+			10		
+		0 events,
+					10			
+			2 events		
+			11		
+		2 events,
+				11			
+        3:00 PM EDT    
+        BIPOC Writers Mixer    
+                    BIPOC Writers Mixer                
+October 11 @ 3:00 PM EDT
+ - 
+4:30 PM EDT
+Venue :
+                            The Writer’s Center                        
+Calling all BIPOC writers in the DMV! Let’s hang out and talk writing! Come join us for
