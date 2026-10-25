@@ -196,12 +196,14 @@ def previous_counts(sh=None):
 def run_with_timeout(src):
     t0 = time.time()
     limit = PER_SOURCE_TIMEOUT.get(src["method"], DEFAULT_TIMEOUT)
-    with ThreadPoolExecutor(max_workers=1) as ex:
-        fut = ex.submit(run_source, src)
-        try:
-            evs, status, err = fut.result(timeout=limit)
-        except FutTimeout:
-            evs, status, err = [], "ERROR", f"timeout after {limit}s"
+    ex = ThreadPoolExecutor(max_workers=1)   # no `with`: its exit would wait for a hung reader, defeating the timeout
+    fut = ex.submit(run_source, src)
+    try:
+        evs, status, err = fut.result(timeout=limit)
+    except FutTimeout:
+        evs, status, err = [], "ERROR", f"timeout after {limit}s"
+    finally:
+        ex.shutdown(wait=False)
     return evs, status, err, round(time.time() - t0, 1)
 
 
@@ -333,4 +335,6 @@ def main():
 
 
 if __name__ == "__main__":
-    sys.exit(main())
+    rc = main() or 0
+    sys.stdout.flush(); sys.stderr.flush()
+    os._exit(rc)   # a reader that hung past its timeout must not hold the job open (Oct 24)
