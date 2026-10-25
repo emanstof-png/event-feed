@@ -1,0 +1,127 @@
+Source,Method,Status,Events,Seconds,Error,Sample,Run at
+GatherDC,api,LIVE,50,0.6,,2026-10-24 Board Game Afternoon with Reva; 2026-10-24 &#8220;Boots for Israel&#8221; Talk with; 2026-10-24 Jewish Teachings on Death and Dying with,2026-10-24 21:44
+EntryPointDC (Edlavitch DCJCC),ical,LIVE,26,1.2,,2026-10-25 Handmade for the Homeless - October 2026; 2026-10-26 Book Discussion: The Final Solution to t; 2026-10-27 Piccadilly,2026-10-24 21:44
+Moishe House DC (Columbia Heights),html,EMPTY,0,15.3,,,2026-10-24 21:44
+ConnectJew,none,SKIPPED,0,0.0,method=none,,2026-10-24 21:44
+Sixth & I,api,LIVE,21,1.8,,"2026-10-24 Niladri Kumaar, sitar; 2026-10-27 How to be a Jewish Adult; 2026-10-28 Grief Group",2026-10-24 21:44
+2239 (Washington Hebrew Congregation),api,LIVE but thin,1,0.7,,2026-11-06 Shabbat@WHC featuring Metro Minyan,2026-10-24 21:44
+Reva (Adas Israel),html,EMPTY,0,24.6,,,2026-10-24 21:44
+Chabad Young Professionals DC,browser,EMPTY,0,9.5,,,2026-10-24 21:44
+Next Gen (Jewish Federation of Greater Washington),ical,LIVE,30,0.3,,2026-10-25 Capital Camps October Tour; 2026-10-25 Capital Camps & Retreat Center’s Living ; 2026-10-25 Men's Club breakfast and presentation,2026-10-24 21:44
+Repair the World,browser,EMPTY,0,11.1,,,2026-10-24 21:44
+Bhakti Yoga DC,recurring,RECURRING,3,0.0,,2026-10-29 Satsang; 2026-11-05 Satsang; 2026-11-12 Satsang,2026-10-24 21:44
+Ecstatic Dance DC,recurring,RECURRING,3,0.0,,2026-10-29 Ecstatic Dance DC; 2026-11-05 Ecstatic Dance DC; 2026-11-12 Ecstatic Dance DC,2026-10-24 21:44
+Eaton Wellness,xhr,LIVE,27,0.5,,"2026-10-26 A Tibetan Bowl Sound Bath for Mental Hea; 2026-10-27 Yoga: Move, breathe, and reconnect, en e; 2026-10-27 Yogalates with Kaya: The mindfulness of ",2026-10-24 21:44
+Soul Fire Experiences / Ecstatic Dance Arlington,browser,EMPTY,0,10.6,,,2026-10-24 21:44
+The Dance with Ann Kite,html,EMPTY,0,113.8,,,2026-10-24 21:44
+Sun & Moon Yoga Studio,html,EMPTY,0,126.4,,,2026-10-24 21:44
+Flow Yoga Center,html,EMPTY,0,121.6,,,2026-10-24 21:44
+Kadampa Meditation Center DC,html,EMPTY,0,131.1,,,2026-10-24 21:44
+Yoga District,browser,EMPTY,0,7.8,,,2026-10-24 21:44
+National Museum of Women in the Arts,browser,EMPTY,0,9.4,,,2026-10-24 21:44
+Authentic Relating DC,ical,LIVE,5,0.6,,2026-10-25 Authentic Relating Women's Circle; 2026-10-26 Conscious Speed Dating; 2026-10-31 Forest Bathing at Lake Churchill,2026-10-24 21:44
+Interfusion Festival,none,SKIPPED,0,0.0,method=none,,2026-10-24 21:44
+Awarehouse,browser,EMPTY,0,7.7,,,2026-10-24 21:44
+DC Contact Improv,recurring,RECURRING,3,0.0,,2026-10-25 Sunday Jam (1st Sunday = Underscore); 2026-11-01 Sunday Jam (1st Sunday = Underscore); 2026-11-08 Sunday Jam (1st Sunday = Underscore),2026-10-24 21:44
+ONIMA Breathwork,browser,EMPTY,0,8.4,,,2026-10-24 21:44
+Blueberry Gardens Healing Center,ical,LIVE,4,0.2,,2026-10-28 Gong Meditation / Sound Bath; 2026-10-26 All-Levels Yoga; 2026-11-02 All-Levels Yoga,2026-10-24 21:44
+Art of Living DC Center (events),browser,EMPTY,0,12.1,,,2026-10-24 21:44
+Insight Meditation Community of Washington (IMCW),browser,EMPTY,0,10.1,,,2026-10-24 21:44
+The Center for Mindful Living,recurring,RECURRING,4,0.0,,2026-10-24 In-Person Living Dharma Circle; 2026-10-31 In-Person Living Dharma Circle; 2026-11-07 In-Person Living Dharma Circle,2026-10-24 21:44
+The Mindfulness Center,browser,EMPTY,0,14.2,,,2026-10-24 21:44
+Satchidananda Ashram-Yogaville,ical,LIVE but thin,1,0.2,,2026-11-07 Deepavali,2026-10-24 21:44
+Georgetown University (university-wide),api,LIVE,96,0.6,,2026-10-25 Hoya Harvest Garden: Planting Party; 2026-10-26 Arabic Conversation Hour; 2026-10-26 Simmering Seas: Escalation and De-escala,2026-10-24 21:44
+Georgetown School of Foreign Service,api,LIVE,12,0.2,,2026-10-27 Climate Change and Rural Livelihoods in ; 2026-10-28 Konrad Adenauer: Chancellor after the Ca; 2026-10-28 Russian Conversation Hour,2026-10-24 21:44
+Georgetown Institute of Politics and Public Service,ical,LIVE,12,0.4,,2026-10-28 Colleen Reding Mearn Discussion Group; 2026-11-04 Colleen Reding Mearn Discussion Group; 2026-11-11 Colleen Reding Mearn Discussion Group,2026-10-24 21:44
+Georgetown Department of Government,api,LIVE,6,0.2,,2026-10-28 Book Talk with Professor danah boyd:“Dat; 2026-10-30 Government MA Programs Information Sessi; 2026-11-02 American Pogroms: How Forgotten Massacre,2026-10-24 21:44
+George Washington University (university-wide),api,LIVE,93,3.5,,"2026-10-24 Animals, Technology, & Law 2026 Conferen; 2026-10-24 George Washington University Women's Row; 2026-10-24 George Washington University Women's Ten",2026-10-24 21:44
+GW Elliott School of International Affairs,ical,LIVE,27,0.5,,"2026-10-25 The Kindertransport: Rescue, Separation,; 2026-10-26 Conflict Mediation: Case Studies from Uk; 2026-10-27 Greening the Belt and Road: Promises and",2026-10-24 21:44
+American University (university-wide),html,ERROR,0,128.2,HTTPError: HTTP Error 403: ,,2026-10-24 21:44
+American University College of Arts and Sciences,html,ERROR,0,142.6,HTTPError: HTTP Error 403: ,,2026-10-24 21:44
+"University of Maryland, College Park",html,EMPTY,0,59.7,,,2026-10-24 21:44
+Johns Hopkins Bloomberg Center DC,html,ERROR,0,64.5,HTTPError: HTTP Error 403: ,,2026-10-24 21:44
+Japan Information & Culture Center (Embassy of Japan),html,EMPTY,0,64.5,,,2026-10-24 21:44
+Goethe-Institut Washington,rss,EMPTY,0,63.6,,,2026-10-24 21:44
+Alliance Francaise of Washington DC,html,EMPTY,0,57.7,,,2026-10-24 21:44
+Italian Cultural Institute of Washington,html,EMPTY,0,48.6,,,2026-10-24 21:44
+Austrian Cultural Forum Washington,html,EMPTY,0,47.6,,,2026-10-24 21:44
+Mexican Cultural Institute,xhr,LIVE,4,1.2,,2026-10-26 Mini Catrina Paper Maché Workshop by Ana; 2026-10-27 Las Puntuantes: Conferencia performática; 2026-10-31 Día de Muertos 2026 at the Mexican Cultu,2026-10-24 21:44
+La Maison Francaise (Embassy of France),ical,LIVE,6,1.0,,2026-10-29 The Comité Tricolore Philanthropic Soiré; 2026-10-30 Wine Tasting Dinner; 2026-11-04 The Therapeutic Harpsichord,2026-10-24 21:44
+SPAIN arts & culture (Washington),rss,EMPTY,0,41.3,,,2026-10-24 21:44
+Korean Cultural Center Washington,none,SKIPPED,0,0.0,method=none,,2026-10-24 21:44
+Embassy of the Czech Republic (cultural events),html,EMPTY,0,46.0,,,2026-10-24 21:44
+Socrates Cafe Rockville,ical,LIVE but thin,2,0.5,,2026-10-25 Aristotle's Café; 2026-11-07 Socrates Café Rockville Meetup,2026-10-24 21:44
+Practical Philosophy Club (Washington DC),ical,LIVE,3,0.9,,2026-10-28 WASHINGTON 🇺🇸 Practical Philosophy Meetu; 2026-11-04 WASHINGTON 🇺🇸 Practical Philosophy Meetu; 2026-11-11 WASHINGTON 🇺🇸 Practical Philosophy Meetu,2026-10-24 21:44
+Effective Altruism DC,ical,LIVE but thin,1,0.1,,2026-11-10 November EA DC Happy Hour @ The Admiral,2026-10-24 21:44
+LessWrong community events,html,EMPTY,0,50.3,,,2026-10-24 21:44
+Interintellect,xhr,ERROR,0,57.1,HTTPError: HTTP Error 500: ,,2026-10-24 21:44
+Braver Angels DC Alliance,ical,EMPTY,0,0.3,,,2026-10-24 21:44
+Profs and Pints (Washington DC),ical,LIVE,10,0.6,,2026-10-25 SOLD OUT-Profs & Pints DC: A Guide to Wi; 2026-10-25 SOLD OUT-Profs & Pints Northern Virginia; 2026-10-26 Profs & Pints DC: The Haunted House,2026-10-24 21:44
+Hill Center DC,html,EMPTY,0,43.1,,,2026-10-24 21:44
+Brookings Institution,html,EMPTY,0,51.1,,,2026-10-24 21:44
+CSIS,html,EMPTY,0,49.8,,,2026-10-24 21:44
+Carnegie Endowment for International Peace,html,EMPTY,0,54.1,,,2026-10-24 21:44
+Atlantic Council,html,EMPTY,0,51.1,,,2026-10-24 21:44
+Stimson Center,html,ERROR,0,51.0,HTTPError: HTTP Error 403: ,,2026-10-24 21:44
+New America,html,EMPTY,0,54.9,,,2026-10-24 21:44
+CNAS,html,EMPTY,0,55.2,,,2026-10-24 21:44
+Cato Institute,html,EMPTY,0,55.4,,,2026-10-24 21:44
+American Enterprise Institute,html,ERROR,0,134.0,HTTPError: HTTP Error 403: ,,2026-10-24 21:44
+Hudson Institute,html,EMPTY,0,138.9,,,2026-10-24 21:44
+DC Policy Events (aggregator),api,LIVE,86,1.9,,"2026-10-26 Climate education in action: A collectiv; 2026-10-26 Recovery, Resettlement, and Risk in the ; 2026-10-26 The Haunting of Students Abroad: Interna",2026-10-24 21:44
+Politics and Prose,html,EMPTY,0,142.7,,,2026-10-24 21:44
+Lost City Books,html,ERROR,0,150.0,timeout after 150s,,2026-10-24 21:44
+Kramers,browser,EMPTY,0,5.2,,,2026-10-24 21:44
+East City Bookshop,browser,EMPTY,0,4.8,,,2026-10-24 21:44
+People's Book (Takoma Park),api,EMPTY,0,148.6,,,2026-10-24 21:44
+Loyalty Bookstores (book clubs),html,ERROR,0,147.9,HTTPError: HTTP Error 403: ,,2026-10-24 21:44
+Solid State Books: Reading the City,html,EMPTY,0,65.1,,,2026-10-24 21:44
+Folger Shakespeare Library,html,EMPTY,0,66.1,,,2026-10-24 21:44
+The Writer's Center (Bethesda),html,EMPTY,0,57.3,,,2026-10-24 21:44
+DC Public Library: DC Reads,xhr,LIVE,29,1.2,,2026-10-24 Friends Book Sale; 2026-10-24 Reading All-Stars with Northstar; 2026-10-24 Friends of Tenley Library Book Sale,2026-10-24 21:44
+DC Central Kitchen,html,EMPTY,0,56.3,,,2026-10-24 21:44
+Food & Friends,none,SKIPPED,0,0.0,method=none,,2026-10-24 21:44
+Martha's Table,browser,EMPTY,0,14.5,,,2026-10-24 21:44
+SOME (So Others Might Eat),browser,EMPTY,0,7.6,,,2026-10-24 21:44
+Volunteer Arlington,browser,EMPTY,0,9.3,,,2026-10-24 21:44
+Volunteer Alexandria,html,EMPTY,0,41.3,,,2026-10-24 21:44
+Rock Creek Conservancy,xhr,ERROR,0,52.7,HTTPError: HTTP Error 403: ,,2026-10-24 21:44
+Casey Trees,ical,LIVE,8,0.4,,2026-10-25 Fall Colors Nature Walk; 2026-10-30 Community Tree Planting: Mount Olivet Ce; 2026-10-31 Invasive Vine Removal at Browning's Grov,2026-10-24 21:44
+Anacostia Watershed Society,api,LIVE,5,2.6,,2026-10-24 Mussel Release in Kenilworth Lake &#8211; 2026-10-28 Vernal Pool Conservation Workshop; 2026-10-29 Riverside Tree Planting at the Bladensbu,2026-10-24 21:44
+Capital Area Food Bank,xhr,LIVE,75,0.5,,2026-10-24 Arlington Community Marketplace; 2026-10-24 DC: Saturday Morning; 2026-10-24 DC: Saturday Afternoon,2026-10-24 21:44
+HacDC,ical,LIVE,8,0.5,,2026-10-26 Open Hac; 2026-10-28 Anime Movie Night; 2026-10-29 Hardware Hacking Night,2026-10-24 21:44
+Nova Labs,rss,EMPTY,0,46.5,,,2026-10-24 21:44
+Data Science DC,ical,EMPTY,0,0.2,,,2026-10-24 21:44
+Data Community DC,ical,LIVE,3,0.2,,2026-10-28 Data Horror Stories: Spooky Talks From B; 2026-10-29 PowerBI - Newbie Speaker Happy Hour - Ha; 2026-11-12 Data Engineers D.C. Presents: DuckDB 2.0,2026-10-24 21:44
+DC Tech Meetup,none,SKIPPED,0,0.0,method=none,,2026-10-24 21:44
+DC Python,ical,EMPTY,0,0.2,,,2026-10-24 21:44
+PSW Science,ical,LIVE but thin,1,0.2,,2026-11-06 PSW SCIENCE,2026-10-24 21:44
+National Capital Astronomers,html,EMPTY,0,40.9,,,2026-10-24 21:44
+Northern Virginia Astronomy Club (NOVAC),stealth,EMPTY,0,8.0,,,2026-10-24 21:44
+Carnegie Science,stealth,EMPTY,0,25.6,,,2026-10-24 21:44
+Labyrinth Games & Puzzles,browser,EMPTY,0,12.4,,,2026-10-24 21:44
+Game Kastle (College Park),ical,LIVE,73,2.3,,2026-10-29 Drop-In RPG Night (RPG); 2026-11-05 Drop-In RPG Night (RPG); 2026-11-12 Drop-In RPG Night (RPG),2026-10-24 21:44
+Victory Comics,ical,LIVE,40,2.5,,2026-10-26 Modern Monday; 2026-11-02 Modern Monday; 2026-11-09 Modern Monday,2026-10-24 21:44
+Games & Comics Pair O' Dice (Fairfax),ical,LIVE,51,0.5,,2026-10-27 Lorcana Weekly Event; 2026-11-03 Lorcana Weekly Event; 2026-11-10 Lorcana Weekly Event,2026-10-24 21:44
+Fantom Comics,html,EMPTY,0,35.7,,,2026-10-24 21:44
+Break My Game,recurring,RECURRING,1,0.0,,2026-11-08 Break My Game playtest,2026-10-24 21:44
+Arlington Chess Club,browser,EMPTY,0,6.2,,,2026-10-24 21:44
+Beer & Board Games,ical,LIVE,10,0.4,,2026-10-25 High Interaction Board Games at Western ; 2026-10-26 Bring Your Own Game Night in DC at Nanny; 2026-10-28 Wednesday Board Game Night at Your Hobby,2026-10-24 21:44
+The DC Area Board Game Club,ical,EMPTY,0,0.2,,,2026-10-24 21:44
+The Board Room (Arlington),none,SKIPPED,0,0.0,method=none,,2026-10-24 21:44
+DC Rawhides,html,EMPTY,0,39.4,,,2026-10-24 21:44
+Hollywood Ballroom,xhr,LIVE,9,0.3,,2026-10-24 Mr. Mambo's; 2026-10-25 SUNDAY SOCIAL BALLROOM DANCE; 2026-11-01 SUNDAY SOCIAL BALLROOM DANCE,2026-10-24 21:44
+Salsa Vida (DMV aggregator),jsonld,EMPTY,0,44.1,,,2026-10-24 21:44
+Baila DC (socials),recurring,RECURRING,1,0.0,,2026-11-05 Baila Thursdays Salsa Social,2026-10-24 21:44
+Baila DC (classes),none,SKIPPED,0,0.0,method=none,,2026-10-24 21:44
+Dance Jam Productions,html,EMPTY,0,40.2,,,2026-10-24 21:44
+Carpe Diem Arts,ical,LIVE,30,0.4,,2026-11-10 Shore-AA Ches Center w/ Amor y Luz; 2026-11-13 Memory Café; 2026-11-12 Contra Dance Silver Spring,2026-10-24 21:44
+District Clay Center (One Shot classes),recurring,RECURRING,10,0.0,,2026-10-30 One Shot wheel class; 2026-11-06 One Shot wheel class; 2026-11-13 One Shot wheel class,2026-10-24 21:44
+Merry Pin,browser,EMPTY,0,5.3,,,2026-10-24 21:44
+Art House 7,browser,ERROR,0,90.0,timeout after 90s,,2026-10-24 21:44
+Sur La Table (Pentagon Row),html,EMPTY,0,43.6,,,2026-10-24 21:44
+Sur La Table (Alexandria),html,EMPTY,0,47.9,,,2026-10-24 21:44
+WGIT DC,browser,EMPTY,0,14.9,,,2026-10-24 21:44
+DC Social Guide,xhr,EMPTY,0,58.7,,,2026-10-24 21:44
+Art of Living DC Center (meetups),browser,EMPTY,0,12.2,,,2026-10-24 21:44
+Art of Living DC Center (courses),browser,EMPTY,0,11.5,,,2026-10-24 21:44
