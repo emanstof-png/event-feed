@@ -1,0 +1,25 @@
+{
+ "row": "2",
+ "name": "Ned's Club (Washington DC)",
+ "page": "https://www.nedsclub.com/",
+ "discovered": "2026-10-25 02:13Z",
+ "error": "",
+ "candidates": [
+  {
+   "url": "https://www.thened.com/Assets/Ned/bundle/NedComponents.js?v=22102026110939",
+   "method": "GET",
+   "headers": {
+    "accept": "*/*",
+    "referer": "https://www.thened.com/dc"
+   },
+   "post_data": null,
+   "status": 200,
+   "content_type": "application/javascript",
+   "bytes": 1644778,
+   "date_count": 8,
+   "body": "(function(){var __webpack_modules__={7991:function(e,t){\r\n/*!\r\n * accounting.js v0.4.1\r\n * Copyright 2014 Open Exchange Rates\r\n *\r\n * Freely distributable under the MIT license.\r\n * Portions of accounting.js are inspired or borrowed from underscore.js\r\n *\r\n * Full details and documentation:\r\n * http://openexchangerates.github.io/accounting.js/\r\n */\r\n(function(n,r){var i={version:\"0.4.1\",settings:{currency:{symbol:\"$\",format:\"%s%v\",decimal:\".\",thousand:\",\",precision:2,grouping:3},number:{precision:0,grouping:3,thousand:\",\",decimal:\".\"}}},a=Array.prototype.map,s=Array.isArray,o=Object.prototype.toString;function l(e){return!!(\"\"===e||e&&e.charCodeAt&&e.substr)}function u(e){return s?s(e):\"[object Array]\"===o.call(e)}function c(e){return e&&\"[object Object]\"===o.call(e)}function d(e,t){var n;for(n in e=e||{},t=t||{},t)t.hasOwnProperty(n)&&null==e[n]&&(e[n]=t[n]);return e}function p(e,t,n){var r,i,s=[];if(!e)return s;if(a&&e.map===a)return e.map(t,n);for(r=0,i=e.length;r<i;r++)s[r]=t.call(n,e[r],r,e);return s}function h(e,t){return e=Math.round(Math.abs(e)),isNaN(e)?t:e}function f(e){var t=i.settings.currency.format;return\"function\"===typeof e&&(e=e()),l(e)&&e.match(\"%v\")?{pos:e,neg:e.replace(\"-\",\"\").replace(\"%v\",\"-%v\"),zero:e}:e&&e.pos&&e.pos.match(\"%v\")?e:l(t)?i.settings.currency.format={pos:t,neg:t.replace(\"%v\",\"-%v\"),zero:t}:t}var m=i.unformat=i.parse=function(e,t){if(u(e))return p(e,(function(e){return m(e,t)}));if(e=e||0,\"number\"===typeof e)return e;t=t||i.settings.number.decimal;var n=new RegExp(\"[^0-9-\"+t+\"]\",[\"g\"]),r=parseFloat((\"\"+e).replace(/\\((.*)\\)/,\"-$1\").replace(n,\"\").replace(t,\".\"));return isNaN(r)?0:r},_=i.toFixed=function(e,t){t=h(t,i.settings.number.precision);var n=Math.pow(10,t);return(Math.round(i.unformat(e)*n)/n).toFixed(t)},v=i.formatNumber=i.format=function(e,t,n,r){if(u(e))return p(e,(function(e){return v(e,t,n,r)}));e=m(e);var a=d(c(t)?t:{precision:t,thousand:n,decimal:r},i.settings.number),s=h(a.precision),o=e<0?\"-\":\"\",l=parseInt(_(Math.abs(e||0),s),10)+\"\",f=l.length>3?l.length%3:0;return o+(f?l.substr(0,f)+a.thousand:\"\")+l.substr(f).replace(/(\\d{3})(?=\\d)/g,\"$1\"+a.thousand)+(s?a.decimal+_(Math.abs(e),s).split(\".\")[1]:\"\")},g=i.formatMoney=function(e,t,n,r,a,s){if(u(e))return p(e,(function(e){return g(e,t,n,r,a,s)}));e=m(e);var o=d(c(t)?t:{symbol:t,precision:n,thousand:r,decimal:a,format:s},i.settings.currency),l=f(o.format),_=e>0?l.pos:e<0?l.neg:l.zero;return _.replace(\"%s\",o.symbol).replace(\"%v\",v(Math.abs(e),h(o.precision),o.thousand,o.decimal))};i.formatColumn=function(e,t,n,r,a,s){if(!e)return[];var o=d(c(t)?t:{symbol:t,precision:n,thousand:r,decimal:a,format:s},i.settings.currency),_=f(o.format),g=_.pos.indexOf(\"%s\")<_.pos.indexOf(\"%v\"),y=0,b=p(e,(function(e,t){if(u(e))return i.formatColumn(e,o);e=m(e);var n=e>0?_.pos:e<0?_.neg:_.zero,r=n.replace(\"%s\",o.symbol).replace(\"%v\",v(Math.abs(e),h(o.precision),o.thousand,o.decimal));return r.length>y&&(y=r.length),r}));return p(b,(function(e,t){return l(e)&&e.length<y?g?e.replace(o.symbol,o.symbol+new Array(y-e.length+1).join(\" \")):new Array(y-e.length+1).join(\" \")+e:e}))},e.exports&&(t=e.exports=i),t.accounting=i})()},72579:function(e,t,n){\"use strict\";\r\n/*!\r\n * arr-flatten <https://github.com/jonschlinkert/arr-flatten>\r\n *\r\n * Copyright (c) 2014-2017, Jon Schlinkert.\r\n * Released under the MIT License.\r\n */function r(e,t){for(var n,i=0,a=e.length;i<a;i++)n=e[i],Array.isArray(n)?r(n,t):t.push(n);return t}n(70560),e.exports=function(e){return r(e,[])}},32869:function(e,t,n){\"use strict\";n(70560),e.exports=function(e){if(!Array.isArray(e))throw new TypeError(\"arr-union expects the first argument to be an array.\");var t=arguments.length,n=0;while(++n<t){var r=arguments[n];if(r){Array.isArray(r)||(r=[r]);for(var i=0;i<r.length;i++){var a=r[i];e.indexOf(a)>=0||e.push(a)}}}return e}},75732:function(e){\"use strict\";\r\n/*!\r\n * assign-symbols <https://github.com/jonschlinkert/assign-symbols>\r\n *\r\n * Copyright (c) 2015, Jon Schlinkert.\r\n * Licensed under the MIT Li",
+   "replay_status": 200,
+   "replay_ok": true
+  }
+ ]
+}

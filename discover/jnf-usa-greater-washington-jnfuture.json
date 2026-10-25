@@ -1,0 +1,25 @@
+{
+ "row": "40",
+ "name": "JNF-USA Greater Washington (JNFuture)",
+ "page": "https://www.jnf.org/jnf-in-your-area/midatlantic",
+ "discovered": "2026-10-25 02:19Z",
+ "error": "",
+ "candidates": [
+  {
+   "url": "https://www.jnf.org/ResourcePackages/JNF/MVC/Scripts/resource-main.js?v=639281526960000000",
+   "method": "GET",
+   "headers": {
+    "accept": "*/*",
+    "referer": "https://www.jnf.org/jnf-in-your-area/midatlantic"
+   },
+   "post_data": null,
+   "status": 200,
+   "content_type": "application/x-javascript",
+   "bytes": 1447892,
+   "date_count": 5,
+   "body": "(function(){function r(e,n,t){function o(i,f){if(!n[i]){if(!e[i]){var c=\"function\"==typeof require&&require;if(!f&&c)return c(i,!0);if(u)return u(i,!0);var a=new Error(\"Cannot find module '\"+i+\"'\");throw a.code=\"MODULE_NOT_FOUND\",a}var p=n[i]={exports:{}};e[i][0].call(p.exports,function(r){var n=e[i][1][r];return o(n||r)},p,p.exports,r,e,n,t)}return n[i].exports}for(var u=\"function\"==typeof require&&require,i=0;i<t.length;i++)o(t[i]);return o}return r})()({1:[function(require,module,exports){\r\n'use strict';\r\n\r\nmodule.exports = BrowserSession;\r\n\r\nvar currentDate = new Date();\r\nvar instances;\r\n\r\n$(function () {\r\n    $('#copyyear').text(currentDate.getFullYear());\r\n});\r\n\r\nfunction BrowserSession() {\r\n\r\n    var ifSessionActive = false;\r\n    var currentSessionData;\r\n    var currentSession = localStorage['activeSession'];\r\n\r\n    if (currentSession !== undefined && currentSession !== null) {\r\n\r\n        currentSessionData = JSON.parse(currentSession);\r\n        var lastDate = new Date(currentSessionData.lastTimeLogoDisplay);\r\n        instances = Number(currentSessionData.instances) + 1;\r\n        if (!currentSessionData.active) {\r\n            activateSession();\r\n        } else if (currentDate - lastDate > 3600000) {\r\n            activateSession();\r\n        } else {\r\n            ifSessionActive = true;\r\n        }\r\n    } else {\r\n        instances = 1;\r\n        activateSession();\r\n    }\r\n    return ifSessionActive;\r\n}\r\n\r\nvar activateSession = function activateSession() {\r\n    var activeSession = {\r\n        active: true,\r\n        lastTimeLogoDisplay: currentDate,\r\n        instances: instances\r\n    };\r\n    localStorage['activeSession'] = JSON.stringify(activeSession);\r\n};\r\n\r\n},{}],2:[function(require,module,exports){\r\n(function (global){\r\n'use strict';\r\n\r\nvar $ = (typeof window !== \"undefined\" ? window['jQuery'] : typeof global !== \"undefined\" ? global['jQuery'] : null);\r\nvar SizerBreakpoint = require('../SizerBreakpoint');\r\nvar Tracker = require('../Tracking/Tracker');\r\n\r\nvar Description = function Description(customOptions) {\r\n    var defaults = {\r\n        element: null,\r\n        readMoreSelector: '.jnf-widget-description-read-more',\r\n        readLessSelector: '.jnf-widget-description-read-less',\r\n        contentSelector: '.jnf-widget-description-content',\r\n        readMoreClass: 'jnf-widget-description',\r\n        contentCut: 'jnf-widget-description-cut',\r\n        buttonsWrap: '.buttons-wrapper',\r\n        button: '.jnf-widget-description-donate-button'\r\n    };\r\n\r\n    var options = $.extend({}, defaults, customOptions);\r\n\r\n    if (options.element === null) {\r\n        throw new Error('element option required');\r\n    }\r\n\r\n    var $element = $(options.element);\r\n    var $readMore = $element.find(options.readMoreSelector);\r\n    var $readLess = $element.find(options.readLessSelector);\r\n    var $content = $element.find(options.contentSelector);\r\n    var $buttonWrapper = $element.find(options.buttonsWrap);\r\n    var $display = 'block';\r\n\r\n    if ($element[0].className.indexOf('jnf-widget-description-template-7') !== -1) {\r\n        $display = 'inline-block';\r\n    }\r\n    if ($element[0].className.indexOf('sizer-mobile-small') !== -1) {\r\n        $display = 'block';\r\n    }\r\n\r\n    var dataLimitAttribute = $element.find(options.contentSelector).attr('data-limit');\r\n\r\n    if (typeof dataLimitAttribute !== 'undefined') {\r\n        var limitLength = function limitLength(element) {\r\n            $(element).not('iframe').contents().each(function (index, child) {\r\n                if (wordsFound >= wordLimit) {\r\n                    child.remove();\r\n                } else if (child.nodeType !== Node.TEXT_NODE) {\r\n                    limitLength(child);\r\n                } else {\r\n                    var words = child.nodeValue.split(\" \");\r\n                    if (wordsFound + words.length >= wordLimit) {\r\n                        child.nodeValue = words.slice(0, wordLimit - wordsFound).join(\" \");\r\n                    }\r\n                    wordsFound += words.length",
+   "replay_status": 200,
+   "replay_ok": true
+  }
+ ]
+}

@@ -1,0 +1,42 @@
+{
+ "row": "15",
+ "name": "TiE DC",
+ "page": "https://dc.tie.org/events/",
+ "discovered": "2026-10-25 02:16Z",
+ "error": "",
+ "candidates": [
+  {
+   "url": "https://dc.tie.org/_next/static/chunks/app/news/page-440ea3a26e978a89.js",
+   "method": "GET",
+   "headers": {
+    "accept": "*/*",
+    "referer": "https://dc.tie.org/events"
+   },
+   "post_data": null,
+   "status": 200,
+   "content_type": "application/javascript; charset=utf-8",
+   "bytes": 45698,
+   "date_count": 28,
+   "body": "(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[834],{9771:function(e,t,n){Promise.resolve().then(n.bind(n,1394))},1394:function(e,t,n){\"use strict\";n.r(t),n.d(t,{default:function(){return c}});var a=n(7437),r=n(2265),s=n(1396),o=n.n(s),i=n(4986);let l=[{slug:\"tie-dc-newsletter-march-2026\",title:\"TiE DC Newsletter: March 2026 Update\",date:\"2026-03-31\",dateDisplay:\"MARCH 31, 2026\",categories:[\"News\",\"Newsletters\"],externalUrl:\"https://campaignlp.constantcontact.com/em/1133733797598/33ecb5ef-8111-4874-8614-613d25b86ece\",excerpt:\"Momentum is building across TiE DC. Our March event at Pillsbury brought founders and leaders together with Mehul Sanghani and Sonu Singh sharing their journeys. The TYE program is in full swing at George Mason, TiE Women is now led by Neeraja Lingam, and our flagship FedGov Symposium is set for June 17 [...]\",images:[],content:[]},{slug:\"tie-dc-newsletter-february-2026\",title:\"TiE DC Newsletter: February 2026 Update\",date:\"2026-02-28\",dateDisplay:\"FEBRUARY 28, 2026\",categories:[\"News\",\"Newsletters\"],externalUrl:\"https://myemail.constantcontact.com/TiE-DC-Newsletter--2026-February-Update-.html?soid=1133733797598&aid=HJEylvCPJog\",excerpt:\"2026 feels different \u2013 and in the best possible way. We are running the year as a deliberate journey: Story, Strategy, Scale, Capital, Leadership, and Activation. February brought us \u201cEntrepreneurs at the Chef\u2019s Table\u201d at Lucky Danger with Sid Chowdhary and Tim Ma, and we welcomed 31 students into the 2026 TYE Boot Camp [...]\",images:[],content:[]},{slug:\"tie-dc-newsletter-january-2026\",title:\"TiE DC Newsletter: January 2026 Update\",date:\"2026-01-31\",dateDisplay:\"JANUARY 31, 2026\",categories:[\"News\",\"Newsletters\"],externalUrl:\"https://myemail.constantcontact.com/TiE-DC-Newsletter--2026-January-Update-.html?soid=1133733797598&aid=oytGGnxS8EI\",excerpt:\"It is an honor to serve TiE DC at a time when connection, collaboration, and courageous entrepreneurship matter more than ever. In 2026 we are focused on strengthening meaningful connections that lead to real outcomes \u2013 partnerships, mentors, and capital that move founders forward [...]\",images:[],content:[]},{slug:\"presidents-notes-january-2023\",title:\"President's Notes, January 2023\",date:\"2023-09-14\",dateDisplay:\"SEPTEMBER 14, 2023\",categories:[\"News\",\"Newsletters\"],excerpt:\"Hello TiE DC Members \u2013 Happy New Year! Hope you were able to spend quality time with family and friends over the holidays! It has been great seeing so many friendly faces during our recent events \u2013 the (once again) Annual Gala in December and TiE GovCon in November. You have already heard from Pallabi [...]\",images:[\"/news/Sumeet-Shrivastava-President.jpg\"],content:[\"Hello TiE DC Members \u2013 Happy New Year! Hope you were able to spend quality time with family and friends over the holidays! It has been great seeing so many friendly faces during our recent events \u2013 the (once again) Annual Gala in December and TiE GovCon in November. You have already heard from Pallabi about the incredible year we\u2019ve had under her leadership and the 2022 Board\u2019s contributions. The 2023 Board is now working actively on our plans for this year.\",\"As we continue the momentum of the last few years, there are a couple of areas we will put some intensity of focus for 2023. I\u2019ve summarized our 6 main areas below \u2013 and note that many of them come from the feedback you, our members, have been giving us \u2013 thank you for that!\",\"IMPORTANT and ACTION: As you read these, please think about how your passions and interest intersect with these areas \u2013 a key element of our future organizational strategy will be to execute through our committees that focus on these initiatives, which will have a Board member assigned as Chair \u2013 but will be heavily driven by You \u2013 a bit of a \u201cfor the people, by the people\u201d approach!\",\"Initiative 1 \u2013 Organizational Efficiency and Efficacy \u2013 led by Sri Vasireddy \u2013 as we\u2019ve continued to scale our programs and organization, it has become critical that we",
+   "replay_status": 200,
+   "replay_ok": true
+  },
+  {
+   "url": "https://events.tie.org/public/portals/752651823/eventsMeta?brandId=34204000003245022&page=1&pageSize=15&type=live",
+   "method": "GET",
+   "headers": {
+    "accept": "application/json, text/javascript, */*; q=0.01",
+    "referer": "https://events.tie.org/events?brandId=34204000003245022&isEmbed=true",
+    "x-requested-with": "XMLHttpRequest"
+   },
+   "post_data": null,
+   "status": 200,
+   "content_type": "application/json;charset=utf-8",
+   "bytes": 1167,
+   "date_count": 4,
+   "body": "{\"liveEventMetas\":[{\"id\":\"34204000491491412\",\"meta\":{\"event\":{\"dcCode\":\"US\",\"endDate\":\"2026-11-15T03:00:00.000Z\",\"eventId\":\"34204000491518402\",\"category\":\"OTHERS\",\"eventKey\":\"TiEDC-AnnualAwardsDiwaliGala2026\",\"portalId\":\"752651823\",\"timezone\":\"America/New_York\",\"eventType\":2,\"startDate\":\"2026-11-14T23:00:00.000Z\",\"themeCode\":\"t2\",\"tzEndDate\":\"2026-11-14T22:00:00-0500\",\"domainName\":\"events.tie.org\",\"tzStartDate\":\"2026-11-14T18:00:00-0500\",\"is24HrFormat\":false,\"isOnlineEvent\":false,\"logoResourceId\":\"34204000491531656\",\"defaultLangCode\":\"en\",\"tileImageResourceId\":\"34204000491491126\"},\"eventTranslation\":[{\"name\":\"TiE DC - Annual Awards & Diwali Gala 2026\",\"summary\":\"Celebrating Entrepreneurial Excellence, Community & the Festival of Lights\\nJoin us for an extraordinary evening of recognition, celebration, and connection at the TiE DC Annual Awards & Diwali Gala 2026!\",\"langCode\":\"en\"}],\"venueTranslation\":[{\"city\":\"Arlington\",\"name\":\"Fuse at Mason Square\",\"state\":\"Virginia\",\"street\":\"Fairfax Dr, Arlington\",\"country\":\"United States\",\"langCode\":\"en\",\"latitude\":\"38.88482610000001\",\"longitude\":\"-77.101681\",\"formattedVenue\":\"Arlington, Virginia, 22226 \"}]}}]}",
+   "replay_status": 200,
+   "replay_ok": true
+  }
+ ]
+}
