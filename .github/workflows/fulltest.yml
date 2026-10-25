@@ -1,0 +1,46 @@
+name: Full run test (no Google key)
+
+# Every source, every method, browser installed: the real weekly run minus the sheet.
+# Writes feed_test_full.csv, run_log_full.csv and full_run.txt (wall time, key present or not).
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: fulltest
+  cancel-in-progress: true
+
+jobs:
+  full:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Install
+        run: |
+          pip install -r requirements.txt tzdata
+          scrapling install
+      - name: Full run
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: |
+          START=$(date +%s)
+          python fetch.py --csv --out _full --workers 6 || true
+          END=$(date +%s)
+          KEY=no; [ -n "$ANTHROPIC_API_KEY" ] && KEY=yes
+          echo "run $(date -u +%Y-%m-%dT%H:%MZ) wall_seconds=$((END-START)) haiku_key=$KEY" > full_run.txt
+          cat full_run.txt
+      - name: Commit
+        if: always()
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add feed_test_full.csv feed_desc_full.csv run_log_full.csv full_run.txt || true
+          git commit -m "Full run test $(date -u +%Y-%m-%dT%H:%MZ)" || { echo "No changes"; exit 0; }
+          git pull --rebase origin main
+          git push origin HEAD:main
