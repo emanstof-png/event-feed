@@ -1,6 +1,6 @@
 Moishe House DC (Columbia Heights)
 https://memglobal.org/find-a-house/moishe-house-washington-d-c-columbia-heights/
-fetched 2026-10-24 23:34Z  status=200 chars=3090 error=
+fetched 2026-10-25 00:06Z  status=200 chars=3091 error=
 
 Moishe House Washington D.C. - Columbia Heights | Mem Global
 About
@@ -87,7 +87,7 @@ Use Our Contact Form
 Generously Supported By
 Dottie Bennett, Carol and Gary Berman, Jane and Scott Brown, Laura and Mike Cutler, Shelley and Adam Ducker, Eve and David Farber,  Robin Hettleman and Matthew Weinberg, Jewish Federation of Greater Washington, Kay Klass and Mark Levitt, Liza Levy, The Morningstar Philanthropic Fund, Alison and Michael Nadel, Estee and Elliott Portnoy, Diane Lipson Schilit and Howard Schilit, Julie Wallick and David Selden, Deborah and David Yaffe, and young adult community builders giving back through our alumni Ambassador Circle and annual resident-driven WE ARE Campaign
 Contact Us
-Facebook
+Instagram
 This field is for validation purposes and should be left unchanged.
 First Name
 (Required)

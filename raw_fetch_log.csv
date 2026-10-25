@@ -1,46 +1,46 @@
 row,name,method,url,status,chars,seconds,error
-4,Moishe House DC (Columbia Heights),html,https://memglobal.org/find-a-house/moishe-house-washington-d-c-columbia-heights/,200,3090,3.9,
-8,Reva (Adas Israel),html,https://www.adasisrael.org/reva,,0,0.2,HTTPError: 406 Client Error: Not Acceptable for url: https://www.adasisrael.org/reva
-16,The Dance with Ann Kite,html,https://tickets.annkite.com/events/annkitecom/1994688/select-date,200,1149,0.7,
-17,Sun & Moon Yoga Studio,html,https://www.sunandmoonstudio.com/workshops,200,8233,0.7,
-18,Flow Yoga Center,html,https://www.flowyogacenter.com/cathedral,200,6449,0.5,
-19,Kadampa Meditation Center DC,html,https://www.meditation-dc.org/calendar,200,1643,2.9,
-39,American University (university-wide),html,https://www.american.edu/calendar/,,0,0.4,HTTPError: 403 Client Error: Forbidden for url: https://www.american.edu/calendar/
-40,American University College of Arts and Sciences,html,https://www.american.edu/cas/events/calendar/,,0,0.1,HTTPError: 403 Client Error: Forbidden for url: https://www.american.edu/cas/events/calendar/
-41,"University of Maryland, College Park",html,https://calendar.umd.edu/category/academics,200,5010,0.7,
-42,Johns Hopkins Bloomberg Center DC,html,https://washingtondc.jhu.edu/events/upcoming-events/,,0,0.3,HTTPError: 403 Client Error: Forbidden for url: https://washingtondc.jhu.edu/events/upcoming-events/
-43,Japan Information & Culture Center (Embassy of Japan),html,https://www.us.emb-japan.go.jp/jicc/events.html,,0,0.4,HTTPError: 403 Client Error: Forbidden for url: https://www.us.emb-japan.go.jp/jicc/events.html
-44,Goethe-Institut Washington,rss,https://www.goethe.de/ins/us/en/rss/was/ver.rss,10 items,9786,1.8,
-45,Alliance Francaise of Washington DC,html,https://francedc.org/events,200,12996,0.4,
-46,Italian Cultural Institute of Washington,html,https://iicwashington.esteri.it/en/eventi/,200,3870,1.3,
-47,Austrian Cultural Forum Washington,html,https://www.acfdc.org/events,200,19544,0.6,
-50,SPAIN arts & culture (Washington),rss,https://www.spainculture.us/city/washington-dc/feed/,25 items,16945,0.6,
-52,Embassy of the Czech Republic (cultural events),html,https://mzv.gov.cz/washington/en/culture_events/culture/index.html,200,4000,1.8,
-56,LessWrong community events,html,https://www.lesswrong.com/community?filters=SSC,200,1040,2.4,
-60,Hill Center DC,html,https://www.hillcenterdc.org/calendar/,200,40000,0.6,
-61,Brookings Institution,html,https://www.brookings.edu/events/,200,5768,0.3,
-62,CSIS,html,https://www.csis.org/events,200,10957,0.2,
-63,Carnegie Endowment for International Peace,html,https://carnegieendowment.org/events,200,1331,0.5,
-64,Atlantic Council,html,https://www.atlanticcouncil.org/events/,200,15894,1.6,
-65,Stimson Center,html,https://www.stimson.org/all-events/,,0,0.2,HTTPError: 403 Client Error: Forbidden for url: https://www.stimson.org/all-events/
-66,New America,html,https://www.newamerica.org/events/,200,7267,2.3,
+4,Moishe House DC (Columbia Heights),html,https://memglobal.org/find-a-house/moishe-house-washington-d-c-columbia-heights/,200,3091,3.5,
+8,Reva (Adas Israel),html,https://www.adasisrael.org/reva,200,13658,0.7,
+16,The Dance with Ann Kite,html,https://tickets.annkite.com/events/annkitecom/1994688/select-date,,0,0.1,HTTPError: HTTP Error 403: 
+17,Sun & Moon Yoga Studio,html,https://www.sunandmoonstudio.com/workshops,200,8233,0.3,
+18,Flow Yoga Center,html,https://www.flowyogacenter.com/cathedral,200,6449,0.3,
+19,Kadampa Meditation Center DC,html,https://www.meditation-dc.org/calendar,200,1643,2.5,
+39,American University (university-wide),html,https://www.american.edu/calendar/,,0,0.2,HTTPError: HTTP Error 403: 
+40,American University College of Arts and Sciences,html,https://www.american.edu/cas/events/calendar/,,0,0.1,HTTPError: HTTP Error 403: 
+41,"University of Maryland, College Park",html,https://calendar.umd.edu/category/academics,200,5010,0.4,
+42,Johns Hopkins Bloomberg Center DC,html,https://washingtondc.jhu.edu/events/upcoming-events/,,0,0.3,HTTPError: HTTP Error 403: 
+43,Japan Information & Culture Center (Embassy of Japan),html,https://www.us.emb-japan.go.jp/jicc/events.html,200,7597,0.4,
+44,Goethe-Institut Washington,rss,https://www.goethe.de/ins/us/en/rss/was/ver.rss,10 items,9786,0.2,
+45,Alliance Francaise of Washington DC,html,https://francedc.org/events,200,12996,0.5,
+46,Italian Cultural Institute of Washington,html,https://iicwashington.esteri.it/en/eventi/,200,3870,1.5,
+47,Austrian Cultural Forum Washington,html,https://www.acfdc.org/events,200,19544,0.7,
+50,SPAIN arts & culture (Washington),rss,https://www.spainculture.us/city/washington-dc/feed/,25 items,16945,0.3,
+52,Embassy of the Czech Republic (cultural events),html,https://mzv.gov.cz/washington/en/culture_events/culture/index.html,200,4000,0.9,
+56,LessWrong community events,html,https://www.lesswrong.com/community?filters=SSC,200,1040,1.8,
+60,Hill Center DC,html,https://www.hillcenterdc.org/calendar/,200,40000,0.8,
+61,Brookings Institution,html,https://www.brookings.edu/events/,200,5768,0.1,
+62,CSIS,html,https://www.csis.org/events,200,10957,0.1,
+63,Carnegie Endowment for International Peace,html,https://carnegieendowment.org/events,200,1331,0.0,
+64,Atlantic Council,html,https://www.atlanticcouncil.org/events/,200,15894,1.3,
+65,Stimson Center,html,https://www.stimson.org/all-events/,,0,0.2,HTTPError: HTTP Error 403: 
+66,New America,html,https://www.newamerica.org/events/,200,7267,0.4,
 67,CNAS,html,https://www.cnas.org/events,200,9513,0.2,
-68,Cato Institute,html,https://www.cato.org/events/upcoming,200,8066,0.6,
-69,American Enterprise Institute,html,https://www.aei.org/events/,,0,0.2,HTTPError: 403 Client Error: Forbidden for url: https://www.aei.org/events/
-70,Hudson Institute,html,https://www.hudson.org/events,200,18777,0.2,
-72,Politics and Prose,html,https://politics-prose.com/events,,0,0.2,HTTPError: 403 Client Error: Forbidden for url: https://politics-prose.com/events
-73,Lost City Books,html,https://lostcitybookstore.com/events,,0,0.2,HTTPError: 403 Client Error: Forbidden for url: https://lostcitybookstore.com/events
-77,Loyalty Bookstores (book clubs),html,https://loyaltybookstores.com/events,,0,0.2,HTTPError: 403 Client Error: Forbidden for url: https://loyaltybookstores.com/events
-78,Solid State Books: Reading the City,html,https://www.solidstatebooksdc.com/events,200,1971,1.0,
-79,Folger Shakespeare Library,html,https://www.folger.edu/whats-on/,200,20023,1.7,
-80,The Writer's Center (Bethesda),html,https://writer.org/free-events-calendar/,200,19743,0.6,
-82,DC Central Kitchen,html,https://dccentralkitchen.org/register,200,3312,1.9,
-87,Volunteer Alexandria,html,https://www.volunteeralexandria.org/partner-events-calendar,200,4106,0.4,
-93,Nova Labs,rss,https://portal.nova-labs.org/events/RSS,212 items,67392,2.7,
-99,National Capital Astronomers,html,https://capitalastronomers.org/,200,10856,0.3,
-106,Fantom Comics,html,https://ma.to/venue/fantomcomics,200,5040,0.7,
-112,DC Rawhides,html,https://dcrawhides.com/event-calendar/,200,15443,0.5,
-114,Salsa Vida (DMV aggregator),jsonld,https://www.salsavida.com/guides/dc-maryland-virginia-dmv/washington-dc/,200,11707,0.4,
-117,Dance Jam Productions,html,https://dancejamproductions.com/events/,200,1416,0.3,
-122,Sur La Table (Pentagon Row),html,https://www.surlatable.com/locations/va/arlington/cooking-classes-24.html,200,8990,1.6,
-123,Sur La Table (Alexandria),html,https://www.surlatable.com/locations/va/alexandria/cooking-classes-163.html,200,8802,0.4,
+68,Cato Institute,html,https://www.cato.org/events/upcoming,200,8066,0.4,
+69,American Enterprise Institute,html,https://www.aei.org/events/,,0,0.3,HTTPError: HTTP Error 403: 
+70,Hudson Institute,html,https://www.hudson.org/events,200,18777,0.1,
+72,Politics and Prose,html,https://politics-prose.com/events,,0,0.0,HTTPError: HTTP Error 403: 
+73,Lost City Books,html,https://lostcitybookstore.com/events,,0,0.0,HTTPError: HTTP Error 403: 
+77,Loyalty Bookstores (book clubs),html,https://loyaltybookstores.com/events,,0,0.0,HTTPError: HTTP Error 403: 
+78,Solid State Books: Reading the City,html,https://www.solidstatebooksdc.com/events,200,1971,0.3,
+79,Folger Shakespeare Library,html,https://www.folger.edu/whats-on/,200,20023,1.2,
+80,The Writer's Center (Bethesda),html,https://writer.org/free-events-calendar/,200,19717,0.3,
+82,DC Central Kitchen,html,https://dccentralkitchen.org/register,200,3312,2.0,
+87,Volunteer Alexandria,html,https://www.volunteeralexandria.org/partner-events-calendar,200,4106,0.2,
+93,Nova Labs,rss,https://portal.nova-labs.org/events/RSS,212 items,67392,3.5,
+99,National Capital Astronomers,html,https://capitalastronomers.org/,200,10856,0.6,
+106,Fantom Comics,html,https://ma.to/venue/fantomcomics,200,5020,0.5,
+112,DC Rawhides,html,https://dcrawhides.com/event-calendar/,200,15443,0.1,
+114,Salsa Vida (DMV aggregator),jsonld,https://www.salsavida.com/guides/dc-maryland-virginia-dmv/washington-dc/,200,11707,0.1,
+117,Dance Jam Productions,html,https://dancejamproductions.com/events/,200,1416,0.1,
+122,Sur La Table (Pentagon Row),html,https://www.surlatable.com/locations/va/arlington/cooking-classes-24.html,200,8990,0.2,
+123,Sur La Table (Alexandria),html,https://www.surlatable.com/locations/va/alexandria/cooking-classes-163.html,200,8802,0.8,

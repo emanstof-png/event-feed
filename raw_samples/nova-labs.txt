@@ -1,6 +1,6 @@
 Nova Labs
 https://portal.nova-labs.org/events/RSS
-fetched 2026-10-24 23:35Z  status=212 items chars=67392 error=
+fetched 2026-10-25 00:06Z  status=212 items chars=67392 error=
 
 BL_S06: Bladesmithing - Stainless Steel Knife-Making (24 Oct 2026)
 Sat, 24 Oct 2026 13:00:00 GMT

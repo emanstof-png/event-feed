@@ -1,6 +1,6 @@
 SPAIN arts & culture (Washington)
 https://www.spainculture.us/city/washington-dc/feed/
-fetched 2026-10-24 23:35Z  status=25 items chars=16945 error=
+fetched 2026-10-25 00:06Z  status=25 items chars=16945 error=
 
 Edgar P. Richardson Symposium 2026
 Fri, 06 Nov 2026 09:30:00 -0500

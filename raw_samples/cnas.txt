@@ -1,6 +1,6 @@
 CNAS
 https://www.cnas.org/events
-fetched 2026-10-24 23:35Z  status=200 chars=9513 error=
+fetched 2026-10-25 00:06Z  status=200 chars=9513 error=
 
 Events at CNAS | CNAS
 Center for a New American Security

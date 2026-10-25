@@ -1,6 +1,6 @@
 Hill Center DC
 https://www.hillcenterdc.org/calendar/
-fetched 2026-10-24 23:35Z  status=200 chars=40000 error=
+fetched 2026-10-25 00:06Z  status=200 chars=40000 error=
 
 Program Calendar – Hill Center DC
 Skip to content
@@ -187,7 +187,7 @@ Monday, September 28 @ 6:30 pm
  - 
 8:00 pm
 		Contemporary Watercolors Course with Christine Vineyard	
-Join us for a contemporary approach to painting with watercolors with Christine Vineyard. Students will learn how to use several different types of watercolor paints (tube, liquid and pencils) and approach them in a contemporary way. This class will give students the skills to create paintings on their own with a variety of materials, many…
+Join us for a contemporary approach to painting with watercolors with Christine Vineyard. Students will learn how to use several different types of watercolor paints (tube, liquid and pencils) and…
 		$131.00	
 			5 events		
 			29		
@@ -201,7 +201,7 @@ Tuesday, September 29 @ 3:30 pm
  - 
 8:00 pm
 		Piano and Voice Lessons with Ms. Alice	
-Alice was raised by a family of professional singers and began taking Suzuki piano lessons at age 4. In school, she joined concert bands playing the French horn and often landed leading roles in musical theater productions at school and in community theaters. Alice studied music at the University of Maryland, College Park where she…
+Alice was raised by a family of professional singers and began taking Suzuki piano lessons at age 4. In school, she joined concert bands playing the French horn and often…
 		6:00 pm	
  - 
 			8:00 pm		
@@ -229,7 +229,7 @@ Tuesday, September 29 @ 6:30 pm
  - 
 8:00 pm
 		Basic Drawing Techniques: Drawing From an Image with Christine Vineyard	
-This course is designed for adults who wish to start drawing, but aren’t sure where to begin! We will be working on basic drawing skills and techniques over the course of four classes. Our first class will serve as an introduction – trying out techniques and becoming familiar with materials. In the second class, students…
+This course is designed for adults who wish to start drawing, but aren’t sure where to begin! We will be working on basic drawing skills and techniques over the course…
 		$137.00	
 		7:00 pm	
  - 
@@ -253,7 +253,7 @@ Wednesday, September 30 @ 10:10 am
  - 
 10:50 am
 		Tippi Toes: Toddler & Me	
-Toddler & Me dance classes are for children 18 months up to the age of 3 years. Music, movement, balance and the basic dance steps are introduced in a fun, friendly and positive manner. This type of class includes mom or dad, another loved one or a caretaker participating in the class along with the…
+Toddler & Me dance classes are for children 18 months up to the age of 3 years. Music, movement, balance and the basic dance steps are introduced in a fun,…
 		3:30 pm	
  - 
 			8:00 pm		
@@ -271,7 +271,7 @@ Wednesday, September 30 @ 4:45 pm
  - 
 5:30 pm
 		Tippi Toes: Ballet Tap Jazz Combo	
-Ballet, Tap & Jazz combo classes are offered for children 3-6 years old. This high energy dance class is designed to keep boys and girls engaged in continual motion while they learn the basic elements of dance including positions and terminology. We incorporate an even mix of the three types of dance over the 45…
+Ballet, Tap & Jazz combo classes are offered for children 3-6 years old. This high energy dance class is designed to keep boys and girls engaged in continual motion while…
 		5:00 pm	
  - 
 			6:30 pm		
@@ -290,7 +290,7 @@ Wednesday, September 30 @ 5:40 pm
  - 
 6:25 pm
 		Tippi Toes: Tippi Pro	
-Tippi Pro takes our Ballet Tap Jazz combo class to a whole new level - introducing more complex dance steps, combos, and steps across the floor in the same upbeat, FUN Tippi Toes way! This class is designed for 6-9 year olds and builds on concepts learned in prior Tippi Toes classes. No prior dance…
+Tippi Pro takes our Ballet Tap Jazz combo class to a whole new level - introducing more complex dance steps, combos, and steps across the floor in the same upbeat,…
 		6:00 pm	
  - 
 			8:00 pm		
@@ -323,7 +323,7 @@ Thursday, October 1 @ 6:00 pm
  - 
 7:30 pm
 		Chinese/Hong Kong Mahjong 101	
-Ready to test your skills and have a blast? Mahjong on the Hill is the perfect in-person event for all the tile-shufflers out there! Whether you’re a casual player or just starting, come join us to learn what mahjong is all about! This program is designed for those who are curious about Hong Kong Mahjong, enjoy social games, or are…
+Ready to test your skills and have a blast? Mahjong on the Hill is the perfect in-person event for all the tile-shufflers out there! Whether you’re a casual player or just starting,…
 		6:00 pm	
  - 
 			8:00 pm		
@@ -398,7 +398,7 @@ Saturday, October 3 @ 9:30 am
  - 
 10:00 am
 		Tippi Toes: Baby Ballet	
-This class is a wonderful transition between Toddler & Me and Ballet, Tap & Jazz class. Music, movement, balance and the basic dance steps are introduced in a fun, friendly and positive manner. The dancers do not have mom, dad or another loved one by their side during the class, so this class is great…
+This class is a wonderful transition between Toddler & Me and Ballet, Tap & Jazz class. Music, movement, balance and the basic dance steps are introduced in a fun, friendly…
 		10:00 am	
  - 
 			11:00 am		
@@ -407,7 +407,7 @@ Saturday, October 3 @ 10:00 am
  - 
 11:00 am
 		Woolfolk Academy Dance – Jr. Ballet (Ages 5-8)	
-Jr. Ballet is designed for movers ages 5-8 who enjoy ballet dancing. In this class, students build coordination, confidence, creativity, and teamwork skills; all while having fun.This class introduces foundational ballet skills, technique and vocabulary that will transfer well in ballet classes as they progress. Students will also learn the history of ballet throughout the…
+Jr. Ballet is designed for movers ages 5-8 who enjoy ballet dancing. In this class, students build coordination, confidence, creativity, and teamwork skills; all while having fun.This class introduces foundational…
 		10:10 am	
  - 
 			10:50 am		
@@ -416,7 +416,7 @@ Saturday, October 3 @ 10:10 am
  - 
 10:50 am
 		Tippi Toes: Toddler & Me	
-Toddler & Me dance classes are for children 18 months up to the age of 3 years. Music, movement, balance and the basic dance steps are introduced in a fun, friendly and positive manner. This type of class includes mom or dad, another loved one or a caretaker participating in the class along with the…
+Toddler & Me dance classes are for children 18 months up to the age of 3 years. Music, movement, balance and the basic dance steps are introduced in a fun,…
 		10:10 am	
  - 
 			10:45 am		
@@ -425,7 +425,7 @@ Saturday, October 3 @ 10:10 am
  - 
 10:45 am
 		Tippi Toes: Ballet Tap Jazz Combo	
-Ballet, Tap & Jazz combo classes are offered for children 3-6 years old. This high energy dance class is designed to keep boys and girls engaged in continual motion while they learn the basic elements of dance including positions and terminology. We incorporate an even mix of the three types of dance over the 45…
+Ballet, Tap & Jazz combo classes are offered for children 3-6 years old. This high energy dance class is designed to keep boys and girls engaged in continual motion while…
 		11:00 am	
  - 
 			11:45 am		
@@ -434,7 +434,7 @@ Saturday, October 3 @ 11:00 am
  - 
 11:45 am
 		Woolfolk Academy Dance – Creative Movement (Ages 3-4)	
-This class is designed for movers ages 3-4 who enjoy dancing. It focuses on creativity, coordination, musicality, and confidence in a fun and nurturing environment. This class introduces foundational dance skills that will transfer well in any dance class. TUITION & FEES: $420 for the full fall term. $360 for classes and a $20 registration…
+This class is designed for movers ages 3-4 who enjoy dancing. It focuses on creativity, coordination, musicality, and confidence in a fun and nurturing environment. This class introduces foundational dance…
 		11:00 am	
  - 
 			11:45 am		
@@ -443,7 +443,7 @@ Saturday, October 3 @ 11:00 am
  - 
 11:45 am
 		Tippi Toes: Ballet Tap Jazz Combo	
-Ballet, Tap & Jazz combo classes are offered for children 3-4 years old. This high energy dance class is designed to keep boys and girls engaged in continual motion while they learn the basic elements of dance including positions and terminology. We incorporate an even mix of the three types of dance over the 45…
+Ballet, Tap & Jazz combo classes are offered for children 3-4 years old. This high energy dance class is designed to keep boys and girls engaged in continual motion while…
 		11:00 am	
  - 
 			11:45 am		
@@ -452,7 +452,7 @@ Saturday, October 3 @ 11:00 am
  - 
 11:45 am
 		Tippi Toes: Ballet Tap Jazz Combo	
-Ballet, Tap & Jazz combo classes are offered for children 5-6 years old. This high energy dance class is designed to keep boys and girls engaged in continual motion while they learn the basic elements of dance including positions and terminology. We incorporate an even mix of the three types of dance over the 45…
+Ballet, Tap & Jazz combo classes are offered for children 5-6 years old. This high energy dance class is designed to keep boys and girls engaged in continual motion while…
 		12:00 pm	
  - 
 			1:00 pm		
@@ -461,7 +461,7 @@ Saturday, October 3 @ 12:00 pm
  - 
 1:00 pm
 		Woolfolk Academy Dance – Jr. Hip Hop (Ages 5-8)	
-Jr. Hip Hop is designed for movers ages 5-8 who enjoy hip hop dancing. In this class, students build coordination, confidence, creativity, and teamwork skills; all while having fun. This class introduces foundational hip hop skills, technique and vocabulary that will transfer well in hip hop classes as they progress. Students will also learn the…
+Jr. Hip Hop is designed for movers ages 5-8 who enjoy hip hop dancing. In this class, students build coordination, confidence, creativity, and teamwork skills; all while having fun. This…
 		12:00 pm	
  - 
 			12:45 pm		
@@ -470,7 +470,7 @@ Saturday, October 3 @ 12:00 pm
  - 
 12:45 pm
 		Tippi Toes:  Hip Hop	
-Do you love to dance around the house listening to great music? Have you ever wanted to play freeze dance or do a line dance? Tippi Toes teachers will have you dancin' to the beat in no time! Our Hip Hop class starts with warm-ups and stretching and quickly moves into learning hip hop choreography…
+Do you love to dance around the house listening to great music? Have you ever wanted to play freeze dance or do a line dance? Tippi Toes teachers will have…
 			3 events		
 			4		
 		3 events,
@@ -502,7 +502,7 @@ Sunday, October 4 @ 4:30 pm
  - 
 6:30 pm
 		American Roots Concert Series: Chloe Kimes	
-Chloe Kimes is an independent artist and songwriter based in Nashville, TN and hers is a name you ought to know. Consistently producing difficult and honest storytelling, incomparable vocal delivery, and an undeniable sound, she needs not much explanation but simply your attendance at her show to see and know the real Kimes. Her forthcoming…
+Chloe Kimes is an independent artist and songwriter based in Nashville, TN and hers is a name you ought to know. Consistently producing difficult and honest storytelling, incomparable vocal delivery,…
 		Free	
 			4 events		
 			5		
@@ -866,7 +866,7 @@ Monday, October 12 @ 5:00 pm
  - 
 6:30 pm
 		Knitting for Beginners with Paula Lytle	
-This class will introduce you to the basic techniques you need to make a wide variety of item (stitches, cast-ons & off, decreases & increases) as well as how to…
+This class will introduce you to the basic techniques you need to make a wide variety of item (stitches, cast-ons & off, decreases & increases) as well as how to choose and read a pattern, and all about yarn!  The instructor can provide an initial pair of needles and yarn to start, but you can…
 		$325.00	
 		6:00 pm	
  - 
@@ -876,7 +876,7 @@ Monday, October 12 @ 6:00 pm
  - 
 8:00 pm
 		Spanish Language Course: Intermediate Class – September 2026	
-Hill Center has partnered with Go Spanish Now to provide this Spanish course. The purpose of this course is not simply to teach you about Spanish, but rather to develop…
+Hill Center has partnered with Go Spanish Now to provide this Spanish course. The purpose of this course is not simply to teach you about Spanish, but rather to develop your language skills so that you can communicate successfully in the language. For that reason, the course includes a variety of components designed to allow…
 		$199.00 – $349.00	
 			4 events		
 			13		
@@ -899,7 +899,7 @@ Tuesday, October 13 @ 6:00 pm
  - 
 8:00 pm
 		Spanish Language Course: Advanced Beginners Class – September 2026	
-Hill Center has partnered with Go Spanish Now to provide this Spanish course. The purpose of this course is not simply to teach you about Spanish, but rather to develop…
+Hill Center has partnered with Go Spanish Now to provide this Spanish course. The purpose of this course is not simply to teach you about Spanish, but rather to develop your language skills so that you can communicate successfully in the language. For that reason, the course includes a variety of components designed to allow…
 		$199.00 – $349.00	
 		6:00 pm	
  - 
@@ -909,7 +909,7 @@ Tuesday, October 13 @ 6:00 pm
  - 
 8:00 pm
 		Chicken 101 with Chef Wendi James	
-Ready to break down a whole chicken? There's a reason professional chefs start here. A whole chicken is one of the most economical and versatile things you can buy —…
+Ready to break down a whole chicken? There's a reason professional chefs start here. A whole chicken is one of the most economical and versatile things you can buy — but most home cooks never learn to break one down themselves. Chef Wendi James changes that in one hands-on evening, unlocking a fundamental skill that…
 		$75.00	
 		6:15 pm	
  - 
@@ -941,7 +941,7 @@ Wednesday, October 14 @ 3:30 pm
  - 
 8:00 pm
 		Piano and Voice Lessons with Ms. Alice	
-Alice was raised by a family of professional singers and began taking Suzuki piano lessons at age 4. In school, she joined concert bands playing the French horn and often…
+Alice was raised by a family of professional singers and began taking Suzuki piano lessons at age 4. In school, she joined concert bands playing the French horn and often landed leading roles in musical theater productions at school and in community theaters. Alice studied music at the University of Maryland, College Park where she…
 		4:45 pm	
  - 
 			5:30 pm		
@@ -959,7 +959,7 @@ Wednesday, October 14 @ 5:00 pm
  - 
 6:30 pm
 		The Knitting Club: Intermediate Class with Wine & Community with Paula Lytle	
-Would you like to hone your knitting skills with a manageable project?  Are you interested in trying a new technique in knitting: colorwork, lace, cables, etc. Or do you have…
+Would you like to hone your knitting skills with a manageable project?  Are you interested in trying a new technique in knitting: colorwork, lace, cables, etc. Or do you have a knitting problem or an unfinished project that you would like to solve and/or finish? This is your class!  Join The Knitting Club at Hill…
 		$325.00	
 		5:40 pm	
  - 
@@ -1002,7 +1002,7 @@ Thursday, October 15 @ 5:00 pm
  - 
 6:30 pm
 		Make a Sweater with Paula Lytle	
-If you have a grasp of basic knitting techniques and always wanted to make the jump to knitting a sweater, this is your class. We will be knitting a sweater…
+If you have a grasp of basic knitting techniques and always wanted to make the jump to knitting a sweater, this is your class. We will be knitting a sweater in the round with raglan shoulders, either in worsted or bulky weight. The pattern will be provided by the instructor, but you will need to…
 		$325.00	
 		6:00 pm	
  - 
@@ -1035,7 +1035,7 @@ Friday, October 16 @ 7:00 pm
  - 
 9:00 pm
 		Stone Room Concerts @ Hill Center Featuring Modern Folk/Americana band Buffalo Rose	
-“How can a band be loose and tight at the same time? Listen to Buffalo Rose for the answer. I flat love them.” — Tom Paxton, folk music legend and Grammy Lifetime Achievement Award recipient “Their sound is intoxicating - the combination of their tight string band rhythm and their supple harmonies.” — John Platt,…
+“How can a band be loose and tight at the same time? Listen to Buffalo Rose for the answer. I flat love them.” — Tom Paxton, folk music legend and…
 		$23.00	
 			13 events		
 			17		
@@ -1049,7 +1049,7 @@ Saturday, October 17 @ 9:00 am
  - 
 11:00 am
 		Tai Chi Chuan	
-Tai Chi Chuan is a formulated set of movements designed for body and mind. This discipline for health and serenity is also a complete system of self-defense and a martial…
+Tai Chi Chuan is a formulated set of movements designed for body and mind. This discipline for health and serenity is also a complete system of self-defense and a martial art that emphasizes sensitivity, serenity and flexibility. Our classes are conducted in a relaxed, go-at-your-own-pace, collegial spirit infused with the seriousness that the study of…
 		9:00 am	
  - 
 			11:00 am		
@@ -1067,3 +1067,33 @@ Make learning Spanish an exciting 8-week adventure for your child! Brought to yo
 Saturday, October 17 @ 9:00 am
  - 
 11:00 am
+		Immersive Saturday Spanish for Kids by Go Spanish Now – Confident Communicators (Ages 9–14)	
+Make learning Spanish an exciting 8-week adventure for your child! Brought to you by Go Spanish Now, our fully immersive program is designed to spark joy in learning, build confidence, and help children start speaking Spanish naturally. Through engaging games, music, and interactive activities led by experienced native Spanish-speaking instructors, our small-group classes provide the…
+		$349.00	
+		9:30 am	
+ - 
+			10:00 am		
+		Tippi Toes: Baby Ballet	
+Saturday, October 17 @ 9:30 am
+ - 
+10:00 am
+		Tippi Toes: Baby Ballet	
+This class is a wonderful transition between Toddler & Me and Ballet, Tap & Jazz class. Music, movement, balance and the basic dance steps are introduced in a fun, friendly…
+		10:00 am	
+ - 
+			11:00 am		
+		Woolfolk Academy Dance – Jr. Ballet (Ages 5-8)	
+Saturday, October 17 @ 10:00 am
+ - 
+11:00 am
+		Woolfolk Academy Dance – Jr. Ballet (Ages 5-8)	
+Jr. Ballet is designed for movers ages 5-8 who enjoy ballet dancing. In this class, students build coordination, confidence, creativity, and teamwork skills; all while having fun.This class introduces foundational…
+		10:00 am	
+ - 
+			12:30 pm		
+		French Pastry 101 with Chef Wendi James	
+Saturday, October 17 @ 10:00 am
+ - 
+12:30 pm
+		French Pastry 101 with Chef Wendi James	
+French Pastry 101 takes you through the building blocks that show up again and aga

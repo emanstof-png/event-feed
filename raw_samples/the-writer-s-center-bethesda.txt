@@ -1,6 +1,6 @@
 The Writer's Center (Bethesda)
 https://writer.org/free-events-calendar/
-fetched 2026-10-24 23:35Z  status=200 chars=19743 error=
+fetched 2026-10-25 00:06Z  status=200 chars=19717 error=
 
 Events Calendar - The Writer's Center
 Skip to main content
@@ -45,10 +45,10 @@ Events
 														Writer Mixers													
 														Book Club													
 														Curated Conversation(s): a Latinx Poetry Show													
-Tuesday | 7:00 PM EDT-8:00 PM EDT|
+Thursday | 7:00 PM EDT-9:00 PM EDT|
 														Zoom													
-Virtual Craft Chat w/ Lauren Francis-Sharma & Jennifer Grotz, Editors of Welcome to the Mountain
-															Free Events														
+Crafting Compelling Characters
+															Workshop														
 Back
 Resources
 Menu
@@ -101,7 +101,7 @@ Events
             Previous month
             Next month
 	This Month
-				2026-10-20			
+				2026-10-22			
 				October 2026			
 		Select date.	
 						Calendar of Events		
@@ -489,8 +489,8 @@ The Writer’s Center presents a FREE virtual chat about the craft of fiction! W
 Register
         Free    
         7:00 PM EDT    
-        Richard Hoffman Book Release    
-                    Richard Hoffman Book Release                
+        ***CANCELLED**Richard Hoffman Book Release    
+                    ***CANCELLED**Richard Hoffman Book Release                
 October 29 @ 7:00 PM EDT
  - 
 8:30 PM EDT
@@ -644,7 +644,7 @@ October 29 @ 7:00 PM EDT
 October 29 @ 7:00 PM EDT
  - 
 8:30 PM EDT
-		Richard Hoffman Book Release	
+		***CANCELLED**Richard Hoffman Book Release	
 	Notice
 					There are no events on this day.				
 	Notice

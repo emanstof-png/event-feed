@@ -1,6 +1,6 @@
 Folger Shakespeare Library
 https://www.folger.edu/whats-on/
-fetched 2026-10-24 23:35Z  status=200 chars=20023 error=
+fetched 2026-10-25 00:06Z  status=200 chars=20023 error=
 
 What's on | Folger Shakespeare Library
 Skip to main content

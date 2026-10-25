@@ -1,6 +1,6 @@
 Goethe-Institut Washington
 https://www.goethe.de/ins/us/en/rss/was/ver.rss
-fetched 2026-10-24 23:35Z  status=10 items chars=9786 error=
+fetched 2026-10-25 00:06Z  status=10 items chars=9786 error=
 
 Play Reading and Discussion : 18.11.2026, Václav Havel’s "Protest"
 Wed, 18 Nov 2026 00:00:00 +0200

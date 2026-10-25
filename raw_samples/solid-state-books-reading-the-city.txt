@@ -1,6 +1,6 @@
 Solid State Books: Reading the City
 https://www.solidstatebooksdc.com/events
-fetched 2026-10-24 23:35Z  status=200 chars=1971 error=
+fetched 2026-10-25 00:06Z  status=200 chars=1971 error=
 
 H St. Events — Solid State Books
 HOME
