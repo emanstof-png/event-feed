@@ -35,12 +35,13 @@ jobs:
           KEY=no; [ -n "$ANTHROPIC_API_KEY" ] && KEY=yes
           echo "run $(date -u +%Y-%m-%dT%H:%MZ) wall_seconds=$((END-START)) haiku_key=$KEY" > full_run.txt
           cat full_run.txt
+          echo "::notice title=full run::$(cat full_run.txt)"
       - name: Commit
         if: always()
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add feed_test_full.csv feed_desc_full.csv run_log_full.csv full_run.txt || true
+          git add feed_test_full.csv feed_desc_full.csv run_log_full.csv full_run.txt debug || true
           git commit -m "Full run test $(date -u +%Y-%m-%dT%H:%MZ)" || { echo "No changes"; exit 0; }
-          git pull --rebase origin main
+          git pull --rebase --autostash origin main
           git push origin HEAD:main
