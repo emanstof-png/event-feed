@@ -17,9 +17,11 @@ these wrong.
   `ELITE_PLAYBOOK.md`, `elite_feed.csv` = what goes in the Elite Feed tab. Same code: set FEED_LIST=elite
   (`lists.py`), or pick list=elite on any workflow. New groups: add rows with method none + status
   UNTESTED, run "Find calendars" (`find_calendars.py`) and "Discover data calls", scouts use
-  `briefs/SCOUT_FIND.md`, prove feeds via `prove_sources.csv`. Loading a feed tab: the "Elite import" tab
-  holds =IMPORTDATA(raw GitHub URL of the committed csv, pinned to a commit) and is copied as values
-  into the feed tab; Google needs Eric to click "Allow access" on that tab once.
+  `briefs/SCOUT_FIND.md`, prove feeds via `prove_sources.csv`. Loading a feed tab (no secrets, nothing through chat): in the Composio workbench,
+  GOOGLEDRIVE_UPLOAD_FROM_URL (account googledrive_suddle-drib) pulls the committed csv from
+  raw.githubusercontent.com, proxy_execute downloads it, GOOGLESHEETS_BATCH_UPDATE writes the tab, a
+  setDataValidation BOOLEAN makes column A tick boxes, then trash the temp Drive file. (IMPORTDATA needs a
+  browser click Eric never saw; do not use it.) First done Oct 25: 673 events.
 - `RULES.md`: twelve operating rules. Read it second. `python check.py` enforces the mechanical ones
   and CI runs it on every push; run it before every commit.
 - `sources_methods.csv`: snapshot of the Sources tab (B, I, J, K, L, M, N). `PLAYBOOK.md` is
