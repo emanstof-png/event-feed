@@ -50,5 +50,4 @@ jobs:
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add discover '*discover_log.csv' || true
           git commit -m "Discover $(date -u +%Y-%m-%dT%H:%MZ)" || { echo "No changes"; exit 0; }
-          git pull --rebase --autostash origin main
-          git push origin HEAD:main
+          for i in 1 2 3 4; do git pull --rebase --autostash origin main && git push origin HEAD:main && break; echo "push retry $i"; sleep $((i*5)); done

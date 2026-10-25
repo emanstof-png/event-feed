@@ -18,7 +18,7 @@ on:
       sources:
         description: "Sources file (prove_sources.csv to test candidate feeds before they go in the sheet)"
         type: string
-        default: "sources_methods.csv"
+        default: ""
       out:
         description: "Output suffix, e.g. _prove writes feed_test_prove.csv + run_log_prove.csv"
         type: string
@@ -56,7 +56,7 @@ jobs:
       - name: Run feed-based readers
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
-        run: python fetch.py --csv --methods "${{ inputs.methods || 'ical,api,xhr,recurring' }}" --workers 6 --sources-csv "${{ inputs.sources || 'sources_methods.csv' }}" --out "${{ inputs.out }}"
+        run: python fetch.py --csv --methods "${{ inputs.methods || 'ical,api,xhr,recurring' }}" --workers 6 ${{ inputs.sources && format('--sources-csv "{0}"', inputs.sources) || '' }} ${{ inputs.out && format('--out "{0}"', inputs.out) || '' }}
 
       - name: Commit results
         if: always()
@@ -65,5 +65,4 @@ jobs:
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add feed_test*.csv feed_desc*.csv run_log*.csv debug || true
           git commit -m "Feed test $(date -u +%Y-%m-%dT%H:%MZ)" || { echo "No changes"; exit 0; }
-          git pull --rebase --autostash origin main
-          git push origin HEAD:main
+          for i in 1 2 3 4; do git pull --rebase --autostash origin main && git push origin HEAD:main && break; echo "push retry $i"; sleep $((i*5)); done
