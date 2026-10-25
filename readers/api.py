@@ -64,7 +64,9 @@ def _eaton(data, name):  # eatonworkshop.com/api/events/list/{year}/{month}
     out = []
     for day in data.get("items", []):
         for e in day.get("items", []):
-            out.append(event(day.get("date", "")[:10], e.get("name", ""), name, "", e.get("venue", "") + " " + " ".join(e.get("locations") or []),
+            v = re.sub(r"^\[\w+\]-", "", e.get("venue", "") or "").replace("-", " ").title()
+            loc = " ".join(e.get("locations") or [])   # "washington-dc" or "hong-kong": J filters on it
+            out.append(event(day.get("date", "")[:10], e.get("name", ""), name, "", f"{v}, {loc.replace('-', ' ').title()}".strip(", "),
                              "https://www.eatonworkshop.com" + (e.get("pageUrl") or ""), desc=e.get("time", "")))
     return out
 

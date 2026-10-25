@@ -135,7 +135,6 @@ def _render(session, source):
 
 
 def _worker():
-    from scrapling.fetchers import StealthySession
     session = None
     while True:
         source, fut = _q.get()
@@ -143,6 +142,7 @@ def _worker():
             continue
         try:
             if session is None:
+                from scrapling.fetchers import StealthySession   # inside try: a missing browser fails the source, not the thread
                 session = StealthySession(headless=True, timeout=NAV_MS, network_idle=False, retries=1, **_EXE)
                 session.start()
             fut.set_result(_render(session, source))
@@ -166,7 +166,7 @@ def render_text(source, cap=CAP):
     t0 = time.time()
     _q.put((source, fut))
     # time spent queued behind other sources does not count against this source's cap
-    while not fut.running() and not fut.done():
+    while not fut.running() and not fut.done() and time.time() - t0 < 600:
         time.sleep(0.2)
     try:
         return fut.result(timeout=cap)
