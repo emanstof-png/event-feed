@@ -1,12 +1,8 @@
 Source,Method,Status,Events,Seconds,Error,Sample,Run at
-Arts Club of Washington,xhr,LIVE,24,1.9,,"2026-11-13 Theatre Outing: ""Are You Now or Have You; 2026-11-13 DINING - Club Lunch; 2026-11-13 The Friday Noon Concert Series",2026-10-24 22:28
-TiE DC,xhr,LIVE but thin,1,1.0,,2026-11-14 TiE DC - Annual Awards & Diwali Gala 202,2026-10-24 22:28
-French-American Chamber of Commerce DC,ical,EMPTY,0,1.3,,,2026-10-24 22:28
-Bender JCC of Greater Washington,ical,ERROR,0,1.9,ValueError: Content line could not be parsed into parts: '<!DOCTYPE html>': <!DOCTYPEhtml>,,2026-10-24 22:28
-Bender JCC (tribe api test),api,ERROR,0,1.8,HTTPError: HTTP Error 404: ,,2026-10-24 22:28
-Dupont Underground,ical,ERROR,0,1.8,ValueError: Content line could not be parsed into parts: '<!doctype html>': <!doctypehtml>,,2026-10-24 22:28
-Transformer,ical,ERROR,0,1.3,ValueError: Content line could not be parsed into parts: '<!doctype html>': <!doctypehtml>,,2026-10-24 22:28
-Touchstone Gallery,ical,ERROR,0,1.4,ValueError: Content line could not be parsed into parts: '<!doctype html>': <!doctypehtml>,,2026-10-24 22:28
-Smithsonian (all museums),ical,LIVE,420,3.0,,2026-10-24 Kogod Courtyard Closed; 2026-10-24 Talbotton Blues Festival; 2026-10-24 We Tell These Truths: Union Makes Streng,2026-10-24 22:28
-Federation community calendar,ical,LIVE,30,3.0,,2026-10-25 Capital Camps October Tour; 2026-10-25 Capital Camps & Retreat Center’s Living ; 2026-10-25 Men's Club breakfast and presentation,2026-10-24 22:28
-Foundry Gallery,ical,ERROR,0,0.6,ValueError: Content line could not be parsed into parts: '<!doctype html>': <!doctypehtml>,,2026-10-24 22:28
+Dupont Underground,api,LIVE,3,1.0,,"2026-10-27 AACIA IBERO-AMERICAN LITERATURE FESTIVAL; 2026-11-04 THE TRUMPETER; 2026-11-11 The Secrets of Easter Island, Finally Re",2026-10-24 22:30
+Transformer,api,EMPTY,0,2.0,,,2026-10-24 22:30
+Touchstone Gallery,api,LIVE,3,0.4,,2026-10-28 50 for 50: Keith Kozloff Happy Hour Rece; 2026-11-05 50 for 50: Jayne Gaskins Happy Hour Rece; 2026-11-07 1976 Studio Sale,2026-10-24 22:30
+Foundry Gallery,api,EMPTY,0,0.7,,,2026-10-24 22:30
+Hirshhorn Museum,ical,LIVE,9,2.8,,2026-10-24 Teen Studio: Are You Surreal?; 2026-10-27 Estudio de Cuentos: ¡Feliz Halloween!; 2026-10-28 Storytime Studio: Happy Halloween!,2026-10-24 22:30
+Smithsonian American Art Museum / Renwick,ical,LIVE,5,2.8,,2026-10-24 Kogod Courtyard Closed; 2026-10-24 Mammoth Performance (Afternoon); 2026-10-24 Mammoth Performance (Evening),2026-10-24 22:30
+Smithsonian (all museums),ical,LIVE,419,3.3,,2026-10-24 Talbotton Blues Festival; 2026-10-24 We Tell These Truths: Union Makes Streng; 2026-10-24 Little Critters: Nature Play at the Bird,2026-10-24 22:30
