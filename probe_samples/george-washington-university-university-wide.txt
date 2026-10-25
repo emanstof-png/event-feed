@@ -1,6 +1,6 @@
 George Washington University (university-wide)
 https://calendar.gwu.edu/
-method: ical
+method: api
 
 Events Calendar - GW Calendar
 GW Homepage
@@ -16,48 +16,13 @@ Sign up
 Featured Events
 Homepage - Featured Events
 Skip Homepage - Featured Events Carousel
-Janelle James: Fall Comedy Show 2026
-Saturday, October 17, 2026 8:00pm to 11:00pm EDT
-Charles E. Smith Center
-22.5-60
-                          Buy Tickets
-I'm Interested
-Share Janelle James: Fall Comedy Show 2026
-Share Janelle James: Fall Comedy Show 2026 on Facebook
-Share Janelle James: Fall Comedy Show 2026 on X
-Share Janelle James: Fall Comedy Show 2026 on LinkedIn
 2026 Columbian College Graduate Programs Virtual Open House 
-Monday, October 19, 2026
+Monday, October 26, 2026
                           Register
 Share 2026 Columbian College Graduate Programs Virtual Open House 
 Share 2026 Columbian College Graduate Programs Virtual Open House  on Facebook
 Share 2026 Columbian College Graduate Programs Virtual Open House  on X
 Share 2026 Columbian College Graduate Programs Virtual Open House  on LinkedIn
-World on a Plate Guest Lecture Series: Amber Smith
-Tuesday, October 20, 2026 4:10pm to 5:00pm EDT
-Phillips Hall (Academic Center), B156
-                          Register
-Share World on a Plate Guest Lecture Series: Amber Smith
-Share World on a Plate Guest Lecture Series: Amber Smith on Facebook
-Share World on a Plate Guest Lecture Series: Amber Smith on X
-Share World on a Plate Guest Lecture Series: Amber Smith on LinkedIn
-GW Graduate & Professional School Fair
-Wednesday, October 21, 2026 4:30pm to 7:30pm EDT
-University Student Center, Grand Ballroom
-                          Register
-I'm Interested
-Share GW Graduate & Professional School Fair
-Share GW Graduate & Professional School Fair on Facebook
-Share GW Graduate & Professional School Fair on X
-Share GW Graduate & Professional School Fair on LinkedIn
-Apple Day 
-Thursday, October 22, 2026 11:30am to 1:30pm EDT
-Kogan Plaza
-I'm Interested
-Share Apple Day 
-Share Apple Day  on Facebook
-Share Apple Day  on X
-Share Apple Day  on LinkedIn
 Doggie Destress at VSTC
 Monday, November 30, 2026 11:00am to 1:00pm EST
 Innovation Hall, Lobby
@@ -94,43 +59,43 @@ All Experiences
 In-Person
 Virtual
 Event Types
-Student Life (936)
-Athletics (170)
-Info Session (169)
-Arts & Culture (165)
-Admissions (125)
-Exhibition (112)
-Lectures & Speakers (102)
-Academic (63)
-Performance (39)
-General (33)
-Alumni (27)
-Research (26)
-Career & Professional Development (25)
-Student Organizations (24)
-Free Food (21)
-Health & Wellness (21)
-Conference (18)
+Student Life (909)
+Arts & Culture (280)
+Exhibition (230)
+Athletics (151)
+Info Session (147)
+Admissions (104)
+Lectures & Speakers (92)
+Academic (47)
+Performance (38)
+General (24)
+Alumni (22)
+Student Organizations (21)
+Conference (17)
 Diversity (17)
-Politics & Policy (17)
-International (16)
-Just for Fun (15)
-Science & Technology (13)
+Career & Professional Development (16)
+Free Food (16)
+Research (15)
+International (11)
+Just for Fun (11)
+Politics & Policy (11)
+Health & Wellness (9)
+Science & Technology (8)
 Community Service (4)
-Faculty Affairs (0)
-Safety & Security (0)
+Faculty Affairs (1)
+Safety & Security (1)
 Audiences
-GW Community (243)
-Prospective Students (198)
-Undergraduate Students (161)
-Graduate Students (138)
-Staff (109)
-Faculty (107)
-General Public (99)
-Alumni (50)
-Postdocs (45)
-Visiting Scholars (41)
-Families (10)
+GW Community (336)
+Prospective Students (172)
+Undergraduate Students (135)
+Graduate Students (122)
+Staff (91)
+General Public (82)
+Faculty (79)
+Alumni (38)
+Postdocs (34)
+Visiting Scholars (32)
+Families (5)
 Subscribe to Displayed Results
 Save to Google Calendar
 Save to iCal
@@ -154,55 +119,37 @@ Digest emailer
                   All Upcoming Events
                   Trending Events
                   #GWToDo
-2026 GW Alumni & Families Weekend
-Sat, Oct 17
-Student Life
+Animals, Technology, & Law 2026 Conference
+Sat, Oct 24
+ Law School, 716 20th ST NW
+Lectures & Speakers
 More dates & times available
               Register
 I'm Interested
-Share 2026 GW Alumni & Families Weekend
-Share 2026 GW Alumni & Families Weekend on Facebook
-Share 2026 GW Alumni & Families Weekend on X
-Share 2026 GW Alumni & Families Weekend on LinkedIn
-George Washington University Men's Track/Cross Country  ECAC / IC4A Championships
-Sat, Oct 17
- Hempstead, NY
+Share Animals, Technology, & Law 2026 Conference
+Share Animals, Technology, & Law 2026 Conference on Facebook
+Share Animals, Technology, & Law 2026 Conference on X
+Share Animals, Technology, & Law 2026 Conference on LinkedIn
+George Washington University Women's Rowing  Head of the Schuylkill
+Sat, Oct 24
+ Philadelphia, PA
 Athletics
 I'm Interested
-Share George Washington University Men's Track/Cross Country  ECAC / IC4A Championships
-Share George Washington University Men's Track/Cross Country  ECAC / IC4A Championships on Facebook
-Share George Washington University Men's Track/Cross Country  ECAC / IC4A Championships on X
-Share George Washington University Men's Track/Cross Country  ECAC / IC4A Championships on LinkedIn
-George Washington University Women's Tennis vs ITA Regionals
-Sat, Oct 17
- Lynchburg, VA
-Athletics
-More dates & times available
-I'm Interested
-Share George Washington University Women's Tennis vs ITA Regionals
-Share George Washington University Women's Tennis vs ITA Regionals on Facebook
-Share George Washington University Women's Tennis vs ITA Regionals on X
-Share George Washington University Women's Tennis vs ITA Regionals on LinkedIn
-George Washington University Women's Track/Cross Country  ECAC / IC4A Championships
-Sat, Oct 17
- Hempstead, NY
+Share George Washington University Women's Rowing  Head of the Schuylkill
+Share George Washington University Women's Rowing  Head of the Schuylkill on Facebook
+Share George Washington University Women's Rowing  Head of the Schuylkill on X
+Share George Washington University Women's Rowing  Head of the Schuylkill on LinkedIn
+George Washington University Women's Tennis at CNU Fall Invitational
+Sat, Oct 24
+ Newport News, VA
 Athletics
 I'm Interested
-Share George Washington University Women's Track/Cross Country  ECAC / IC4A Championships
-Share George Washington University Women's Track/Cross Country  ECAC / IC4A Championships on Facebook
-Share George Washington University Women's Track/Cross Country  ECAC / IC4A Championships on X
-Share George Washington University Women's Track/Cross Country  ECAC / IC4A Championships on LinkedIn
-Vern Harvest
-Sat, Oct 17
- Mount Vernon Campus
-Student Life
-I'm Interested
-Share Vern Harvest
-Share Vern Harvest on Facebook
-Share Vern Harvest on X
-Share Vern Harvest on LinkedIn
+Share George Washington University Women's Tennis at CNU Fall Invitational
+Share George Washington University Women's Tennis at CNU Fall Invitational on Facebook
+Share George Washington University Women's Tennis at CNU Fall Invitational on X
+Share George Washington University Women's Tennis at CNU Fall Invitational on LinkedIn
 Trick or Treat-ment
-Sat, Oct 17 12am to 11:59pm EDT
+Sat, Oct 24 12am to 11:59pm EDT
 New
 General
 More dates & times available
@@ -211,45 +158,56 @@ Share Trick or Treat-ment
 Share Trick or Treat-ment on Facebook
 Share Trick or Treat-ment on X
 Share Trick or Treat-ment on LinkedIn
-GW Buff and Blue Invitational
-Sat, Oct 17 8am to 6pm EDT
- The George Washington University, 801 22nd St NW, Washington, DC 20052, United States
+Trip to York, PA (PA-10)
+Sat, Oct 24 8:30am to 7:30pm EDT
+ Sign in to download the location
+New
 Student Life
-More dates & times available
 I'm Interested
-Share GW Buff and Blue Invitational
-Share GW Buff and Blue Invitational on Facebook
-Share GW Buff and Blue Invitational on X
-Share GW Buff and Blue Invitational on LinkedIn
-George Washington University Men's Swimming and Diving vs Florida State University
-Sat, Oct 17 9am to 12pm EDT
+Share Trip to York, PA (PA-10)
+Share Trip to York, PA (PA-10) on Facebook
+Share Trip to York, PA (PA-10) on X
+Share Trip to York, PA (PA-10) on LinkedIn
+H4H Saturday Maryland Screening 10/24
+Sat, Oct 24 9am to 12pm EDT
+ Sign in to download the location
 New
-Athletics
+Student Life
 I'm Interested
-Share George Washington University Men's Swimming and Diving vs Florida State University
-Share George Washington University Men's Swimming and Diving vs Florida State University on Facebook
-Share George Washington University Men's Swimming and Diving vs Florida State University on X
-Share George Washington University Men's Swimming and Diving vs Florida State University on LinkedIn
-George Washington University Women's Swimming and Diving vs Florida State University
-Sat, Oct 17 9am to 12pm EDT
+Share H4H Saturday Maryland Screening 10/24
+Share H4H Saturday Maryland Screening 10/24 on Facebook
+Share H4H Saturday Maryland Screening 10/24 on X
+Share H4H Saturday Maryland Screening 10/24 on LinkedIn
+Poodles Go Pink: Breast Cancer Awareness Walk/Run
+Sat, Oct 24 9am to 10am EDT
+ Sign in to download the location
 New
-Athletics
+Student Life
 I'm Interested
-Share George Washington University Women's Swimming and Diving vs Florida State University
-Share George Washington University Women's Swimming and Diving vs Florida State University on Facebook
-Share George Washington University Women's Swimming and Diving vs Florida State University on X
-Share George Washington University Women's Swimming and Diving vs Florida State University on LinkedIn
+Share Poodles Go Pink: Breast Cancer Awareness Walk/Run
+Share Poodles Go Pink: Breast Cancer Awareness Walk/Run on Facebook
+Share Poodles Go Pink: Breast Cancer Awareness Walk/Run on X
+Share Poodles Go Pink: Breast Cancer Awareness Walk/Run on LinkedIn
+Catalyst: Presented By Leadershape
+Sat, Oct 24 10am to 3pm EDT
+ Sign in to download the location
+Student Life
+I'm Interested
+Share Catalyst: Presented By Leadershape
+Share Catalyst: Presented By Leadershape on Facebook
+Share Catalyst: Presented By Leadershape on X
+Share Catalyst: Presented By Leadershape on LinkedIn
+Off-Campus Sisterhood Retreat
+Sat, Oct 24 10am to 8pm EDT
+ Sign in to download the location
+New
+Student Life
+I'm Interested
+Share Off-Campus Sisterhood Retreat
+Share Off-Campus Sisterhood Retreat on Facebook
+Share Off-Campus Sisterhood Retreat on X
+Share Off-Campus Sisterhood Retreat on LinkedIn
 Show all events
-Resource Rally
-Mon, Oct 19 12pm to 2pm EDT
- Innovation Hall, Lobby
-Sponsored
-Student Life
-I'm Interested
-Share Resource Rally
-Share Resource Rally on Facebook
-Share Resource Rally on X
-Share Resource Rally on LinkedIn
 Fall Degree Conferral
 Fri, Jan 8, 2027
 I'm Interested
@@ -257,12 +215,50 @@ Share Fall Degree Conferral
 Share Fall Degree Conferral on Facebook
 Share Fall Degree Conferral on X
 Share Fall Degree Conferral on LinkedIn
-Janelle James: Fall Comedy Show 2026
-Sat, Oct 17 8pm to 11pm EDT
- Charles E. Smith Center
-Alumni
-22.5-60
-              Buy Tickets
+Pursuing a Career in International Law
+Mon, Oct 26 12pm to 1pm EDT
+ Law School, Burns Moot Courtroom
+Career & Professional Development
 I'm Interested
-Share Janelle James: Fall Comedy Show 2026
-Share Janelle James: Fall Comedy Sh
+Share Pursuing a Career in International Law
+Share Pursuing a Career in International Law on Facebook
+Share Pursuing a Career in International Law on X
+Share Pursuing a Career in International Law on LinkedIn
+A Conversation with Lech Walesa: Elliott School Dean’s Global Perspective Series
+Tue, Oct 27 5pm to 7:30pm EDT
+Alumni
+I'm Interested
+Share A Conversation with Lech Walesa: Elliott School Dean’s Global Perspective Series
+Share A Conversation with Lech Walesa: Elliott School Dean’s Global Perspective Series on Facebook
+Share A Conversation with Lech Walesa: Elliott School Dean’s Global Perspective Series on X
+Share A Conversation with Lech Walesa: Elliott School Dean’s Global Perspective Series on LinkedIn
+Philosophy Griffith Lecture: "How Can We Build Human Morality into AI?" with Dr. Walter Sinnott-Armstrong
+Fri, Oct 30 4pm EDT
+ Duques Hall, 152
+New
+Lectures & Speakers
+I'm Interested
+Share Philosophy Griffith Lecture: "How Can We Build Human Morality into AI?" with Dr. Walter Sinnott-Armstrong
+Share Philosophy Griffith Lecture: "How Can We Build Human Morality into AI?" with Dr. Walter Sinnott-Armstrong on Facebook
+Share Philosophy Griffith Lecture: "How Can We Build Human Morality into AI?" with Dr. Walter Sinnott-Armstrong on X
+Share Philosophy Griffith Lecture: "How Can We Build Human Morality into AI?" with Dr. Walter Sinnott-Armstrong on LinkedIn
+The Grit and the Grind: Book Talk Featuring Dr. Joshua L. Glazer
+Wed, Dec 2 5:30pm to 7pm EST
+ University Student Center, 404
+New
+Lectures & Speakers
+              Register
+I'm Interested
+Share The Grit and the Grind: Book Talk Featuring Dr. Joshua L. Glazer
+Share The Grit and the Grind: Book Talk Featuring Dr. Joshua L. Glazer on Facebook
+Share The Grit and the Grind: Book Talk Featuring Dr. Joshua L. Glazer on X
+Share The Grit and the Grind: Book Talk Featuring Dr. Joshua L. Glazer on LinkedIn
+Animals, Technology, & Law 2026 Conference
+Sat, Oct 24
+ Law School, 716 20th ST NW
+Lectures & Speakers
+More dates & times available
+              Register
+I'm Interested
+Share Animals, Technology, & Law 2026 Conference
+Share Animals, Technology, & Law 2026 Conference on Faceb

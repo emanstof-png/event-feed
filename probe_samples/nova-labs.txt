@@ -188,7 +188,7 @@ EL_O03: Robotics Group Meetup (Free, Public, Online)
 AC_S02: Industrial Sewing Machine Sign-Off
 TS_O: Open Studio Hours
 LC_O: Laser Cutter Practice & Project (OOH) - Thursday
-AC_P: Make Great Big Paper Wigs
+CANCELED AC_P: Make Great Big Paper Wigs
 GO: New Member Orientation
 BL_G: Blacksmithing Practice Session Wednesday (Members ONLY)
 EL_O: Electronics Open Office Hours: Project help & Practice
@@ -235,15 +235,15 @@ CS_S02: Intro to Wheel Throwing
 GO: New Member Orientation
 WW_S09: Festool Track Saw Signoff
 WW_O: Open Office Hours - Lathe Help and Practice
-MW_P01: Metal Lathe Threading
+CANCELED MW_P01: Metal Lathe Threading
 CS_O: Ceramic City: Free Community Clay Night
 EV_O01: NoVA TOOOL Locksport Meetup
 LC_O: Laser Cutter Practice & Project (OOH) - Thursday
 WW_P13: Hand Tool Sharpening
-TS_O: Open Studio Hours
+CANCELED TS_O: Open Studio Hours
 EL_O: Electronics Open Office Hours: Project help & Practice
 BL_G: Blacksmithing Practice Session Wednesday (Members ONLY)
 WW_S04: Bandsaw Sign-off
 MW_S07: Sheet Metal Tools Sign-off
 WW_O: Open Office Hours - Project Help and Practice
-MX_S01: Mixed Media Shop Basic - Woodshop Yellow To
+MX_S01: Mixed Media Shop

@@ -89,7 +89,6 @@ First
 Last
 Email
 Message
-This field is hidden when viewing the form
 Dance Contact
 Submit
 Δ
@@ -124,11 +123,24 @@ Select list(s) to subscribe to
 ED.org 2020
  Example: Yes, I would like to receive emails from Ecstatic Dance. (You can unsubscribe anytime)
 Constant Contact Use. Please leave this field blank.
-By submitting this form, you are consenting to receive marketing emails from: Ecstatic Dance, EcstaticDance.org, Oakland, CA, 94612, http://www.ecstaticdance.org. You can revoke your consent to receive emails at any time by using the SafeUnsubscribe® link, found at the bottom of every email. 
+By submitting this form, you are consenting to receive marketing emails from: Ecstatic Dance Community, EcstaticDance.org, Oakland, CA, 94612, http://www.ecstaticdance.org. You can revoke your consent to receive emails at any time by using the SafeUnsubscribe® link, found at the bottom of every email. 
 Emails are serviced by Constant Contact
 ©2026 ECSTATIC DANCE
 MADE WITH ❤ BY IRIS COCREATIVE
+Visual
+Code
 Support the Global Dance Movement!
 Your donations empower the Ecstatic Dance community worldwide—providing free open source dance technology, our website, guidelines, and free resources for Dance Facilitators & DJs everywhere. Let's keep the spirit dancing around the globe! 
 Donate Now
 Operating our free website costs around $4,000 a year. As a nonprofit, your contributions to EcstaticDance.org are tax-deductible and critical to our mission of nurturing free, conscious dance globally.
+Insert/edit link
+			Close		
+Enter the destination URL
+URL
+Link Text
+ Open link in a new tab
+Or link to existing content
+Search
+No search term specified. Showing recent items.
+							Search or use up and down arrow keys to select an item.						
+Cancel

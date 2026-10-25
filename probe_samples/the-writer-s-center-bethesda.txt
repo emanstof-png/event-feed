@@ -1,6 +1,6 @@
 The Writer's Center (Bethesda)
 https://writer.org/free-events-calendar/
-method: browser
+method: ical
 
 Skip To Main Content
 Member Log-in
@@ -174,7 +174,7 @@ Register Free
 Virtual Craft Chat w/ Author Amber Blaeser-Wardzala
 Register Free
 7:00 PM EDT
-Richard Hoffman Book Release
+***CANCELLED**Richard Hoffman Book Release
 Register Free
 0 events,
 30

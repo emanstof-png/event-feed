@@ -10,7 +10,7 @@ HacDC
 •
 794 ratings
 Washington, DC, US
-3,864 members
+3,866 members
 Share
 About
 Events
@@ -24,10 +24,10 @@ http://hacdc.org
 ![img](https://secure.meetupstatic.com/photos/event/4/b/5/5/event_18079285.jpeg)
 ![img](https://secure.meetupstatic.com/photos/event/4/c/b/d/event_18079645.jpeg)
 Upcoming events
-25
+22
 See all
 Open Hac
-Mon, Oct 19 · 7:00 PM EDT
+Mon, Oct 26 · 7:00 PM EDT
 HacDC, 3333 14th St NW, Suite M110, Washington, DC, US
 Welcome to our new home at the historic Tivoli Theater!
 Please check our details for access to the space on 
@@ -37,7 +37,7 @@ Join the discord for questions / help getting in (use channel #let-me-in)
 https://discord.gg/dNjuNhNmeT
 3 attendees
 Anime Movie Night
-Wed, Oct 21 · 7:00 PM EDT
+Wed, Oct 28 · 7:00 PM EDT
 HacDC, 3333 14th St NW, Suite M110, Washington, DC, US
 Members and visitors, come join us for some of the best classic anime! We will screen these masterpieces each week with the following tentative schedule:
 09/30 — Summer Wars (~114 min)
@@ -49,13 +49,13 @@ Members and visitors, come join us for some of the best classic anime! We will s
 Be advised, many of these movies are not suitable for children.
 1 attendee
 Hardware Hacking Night
-Thu, Oct 22 · 7:00 PM EDT
+Thu, Oct 29 · 7:00 PM EDT
 HacDC, 3333 14th St NW, Suite M110, Washington, DC, US
 Want to mess with some electronics? Or perhaps contribute to HacDC's main group project?
 HacDC's latest event brings hardware projects to the community. We will focus primarily on the main project (Space Blimp!) but please feel free to bring some of your own projects to show off and work on!
 1 attendee
 Open Hac
-Mon, Oct 26 · 7:00 PM EDT
+Mon, Nov 2 · 7:00 PM EST
 HacDC, 3333 14th St NW, Suite M110, Washington, DC, US
 Welcome to our new home at the historic Tivoli Theater!
 Please check our details for access to the space on 
@@ -65,14 +65,14 @@ Join the discord for questions / help getting in (use channel #let-me-in)
 https://discord.gg/dNjuNhNmeT
 3 attendees
 Past events
-2592
+2595
 See all
 Hardware Hacking Night
-Thu, Oct 15 · 7:00 PM EDT
+Thu, Oct 22 · 7:00 PM EDT
 HacDC, 3333 14th St NW, Suite M110, Washington, DC, US
-4 attendees
+1 attendee
 Anime Movie Night
-Wed, Oct 14 · 7:00 PM EDT
+Wed, Oct 21 · 7:00 PM EDT
 HacDC, 3333 14th St NW, Suite M110, Washington, DC, US
 1 attendee
 Group links
@@ -81,7 +81,7 @@ Julia Longtin
 and 8 others
 Message
 Members
-3,864
+3,866
 See all
 K
 M
@@ -122,7 +122,7 @@ Julia Longtin
 and 8 others
 Message
 Members
-3,864
+3,866
 See all
 K
 M

@@ -104,37 +104,37 @@ Friday October 30
 Saturday October 31
 Event Topics
 Arts, Entertainment and Culture
-125
-: 125 Events
+113
+: 113 Events
 Academics
-119
-: 119 Events
+111
+: 111 Events
 Community Engagement
-91
-: 91 Events
+75
+: 75 Events
 Student Life
-78
-: 78 Events
-Health and Wellness
-66
-: 66 Events
+73
+: 73 Events
+Research
+53
+: 53 Events
 Show More Items
 More
 Audience
 Graduate Students
-272
-: 272 Events
-Faculty
-268
-: 268 Events
+245
+: 245 Events
 Staff
-268
-: 268 Events
+232
+: 232 Events
+Faculty
+231
+: 231 Events
 Undergraduate Students
-234
-: 234 Events
+212
+: 212 Events
 Alumni
-159
-: 159 Events
+136
+: 136 Events
 Show More Items
 More

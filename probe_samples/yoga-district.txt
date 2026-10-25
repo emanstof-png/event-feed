@@ -1,6 +1,6 @@
 Yoga District
 https://www.yogadistrict.com/
-method: html
+method: none
 
 Yoga District | Home
  ﻿
@@ -12,39 +12,70 @@ Blog
 Classes
 Select Page
 FEEL GOOD, DO GOOD
-Get stronger, calmer, and more resilient with every Yoga District class you take. You’re also 
+Get stronger, calmer, and more resilient with every Yoga District class you take. You're also 
 doing
- good when you practice with us – your purchase of $14 or less per class directly supports our yoga outreach programs to those in need.
+ good when you practice with us - your purchase of $14 or less per class directly supports our yoga outreach programs to those in need.
 Get Started
 classes online
-Join our live-streaming, interactive classes. Over 20 classes daily, from beginner to advanced. Download the 
-Yoga District DC
- app for options.
+Join our live-streaming, interactive classes. Over 20 classes daily, from beginner to advanced.
 classes in DC
-Down-to-earth yoga and meditation classes across 6 DC studios. Featuring a wide variety of inspiring teachers & styles.
+With 
+seven 
+neighborhood 
+studios 
+and 
+hundreds 
+of 
+classes 
+each 
+week, 
+there's 
+a 
+welcoming 
+space 
+for 
+everyone 
+to 
+practice 
+yoga 
+in 
+DC.
 classes in durham
-If you’re looking to practice at our yoga spot in Durham NC, visit yogad.org or click here.
+Our 
+cozy 
+Durham 
+studio 
+brings 
+people 
+together 
+for 
+down-to-earth, 
+inclusive 
+yoga 
+in 
+a 
+welcoming 
+community.
 VIEW ALL CLASSES
 TEACHER TRAINING
-Our affordable, top-rated training focuses on a wide variety of yoga styles, inclusivity, and trauma sensitivity. Offered three times a year, our trainings are directed by founder of the George Washington University yoga teacher training program and Advisor to the Yoga Alliance Training Standards Committee, Jasmine Chehrazi. Learn why our graduates call the training “transformative.”
+Our affordable, top-rated training focuses on a wide variety of yoga styles, inclusivity, and trauma sensitivity. Offered three times a year, our trainings are directed by founder of the George Washington University yoga teacher training program and Advisor to the Yoga Alliance Training Standards Committee, Jasmine Chehrazi. Learn why our graduates call the training "transformative.”
 Train to be your best
 coming up
-We’ve donated thousands to NRDC, MSF, the Red Cross and other nonprofits to support aid to people, the planet, and more. We also act locally by offering free yoga programs across DC including at the DC prison, public schools, Christ House, trafficking survivor support orgs, public libraries, and more. To keep the goodness going, just keep practicing with us at the studios.
-Join NIkisha on Oct 17 at 1:15pm for a Building Strength for Headstand workshop. This is a headstand class focused on refining technique, building confidence, and exploring variations. Open to both first-timers and returning students looking to deepen their inversion practice. Participants are encouraged to bring a journal to reflect on growth and progress.
-In this Yoga Fundamentals Workshop on Oct 18 at 2pm, Tai will help you build mindful alignment through core flow postures. Discover how to cultivate strength and stability in every shape, and learn smart ways to use props like blocks and straps to support and modify your practice. 
-We’ll close the class with a short flow, putting it all into practice with your new awareness.
+We've fundraised thousands for NRDC, MSF, and the International Red Cross to support aid to people and the planet. We also act locally with free yoga programs across DC like at the DC prison, public schools, libraries, trafficking survivor groups, and more. To keep the goodness going, just keep practicing at our studios.
+It's the perfect time to go within and restore. Join Jennifer A. on Nov 7 from 1:30–3:30pm at Dupont Circle for Gratitude Soundbath & Stretch. Unwind with soothing live acoustic sound, gentle stretches, and restorative poses, supported by blankets and bolsters. All are welcome.
+Yoga can work wonders for kids too! That's why Jackie P. is offering two kids yoga workshops on Nov 7 at Bloomingdale. With meditation, play, and movement, the workshops are a great way for kids to reconnect with themselves now that the school year has set in.  
 Thanks for the love:
 More five star ratings on yelp than any other studio in DC.
 Voted best yoga studio in the Washington City Paper for over five years.
 Voted best yoga studio by readers of the Washington Post Express for years.
-“…Teachers as dedicated as any in Washington… [with] classes costing about half what many studios in the city charge.”
+"…Teachers as dedicated as any in Washington… [with] classes costing about half what many studios in the city charge.”
 The Washington Post
-“
-At Yoga District you won’t break the bank paying for classes… [There’s] a more relaxed and casual atmosphere at their studios, with students praising the positive environment. That is one of the many reasons Yoga District was voted the ‘Best Yoga Studio in D.C.'”
+"
+At Yoga District you won’t break the bank paying for classes... [There's] a more relaxed and casual atmosphere at their studios, with students praising the positive environment. That is one of the many reasons Yoga District was voted the 'Best Yoga Studio in D.C.'"
 CBS
-“
-Yoga District staff and instructors are incredibly welcoming and kind… I love their variety of classes and locations. Since the pandemic they have made the switch to virtual classes so well – I hardly feel the difference. And they are affordable! I love their mission to make yoga accessible to everyone
-.”
+"
+Yoga District staff and instructors are incredibly welcoming and kind... I love their variety of classes and locations. Since the pandemic they have made the switch to virtual classes so well - I hardly feel the difference. And they are affordable! I love their mission to make yoga accessible to everyone
+."
 Amanda Z.. Yoga Student
 Share your feedback
 community blog
@@ -94,7 +125,5 @@ Workplace
 Facebook
 X
 Instagram
-Designed by 
-Elegant Themes
- | Powered by 
-WordPress
+Design donated by 
+David Oñate

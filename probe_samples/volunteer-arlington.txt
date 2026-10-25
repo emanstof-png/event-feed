@@ -42,20 +42,22 @@ Zip Code to measure nonprofit distance from
 Search by Phrase
 Nonprofit
 -- Select Nonprofit --
-The Arlington Chorale
-Affordable Homes & Communities (AHC)
 Columbia Pike Library
-Ayuda
 KEEN Greater DC
-True Ground Housing Partners
+Comunidad
+Arlington Neighborhood Village
+The Arlington Chorale
+Cherrydale Library
+Affordable Homes & Communities (AHC)
+Ayuda
 Friends of Arlington's Planetarium
 Tiny Cat Animal Rescue
 Arlington Assembly of God
 Samaritan Ministry of Greater Washington
 BellRinger
-Glencarlyn Library
 We Are Artistic
-REACH for Uganda
+Glencarlyn Library
+True Ground Housing Partners
 Chrysalis Development Group
 Friends of the Mount Vernon Trail
 Arlington Friends of Urban Agriculture
@@ -70,7 +72,6 @@ Westover Library
 WelcomeNST, Inc.
 Project Knitwell
 Courthouse Library
-Volunteer Arlington
 Washington English Center
 Arlington Sister City Association
 Alzheimer's Association
@@ -86,7 +87,6 @@ Community of Hope
 Arlington Thrive
 Columbia Pike Thrift Shop
 Arlington Free Clinic
-Central Library - Collections, Access and Technology
 Aurora Hills Library
 Shirlington Library
 Arlington Outdoor Education Association
@@ -120,7 +120,6 @@ RISE Mentoring
 Wright to Read, Campagna Center
 Immigrant and Refugee Outreach Center
 Casa Chirilagua
-Arlington Neighborhood Village
 Wild Virginia
 Arlington Education and Employment Program (REEP)
 Arlington County Department of Human Services
@@ -131,6 +130,8 @@ Rock Recovery
 Goodwin Living
 Travelers Aid
 Every Neighbor United for Food
+Volunteer Arlington
+REACH for Uganda
 Cancel
 Show Opportunities
 Show Events
@@ -244,4 +245,4 @@ Rock Climbing Practices for Individuals with Different Abilities
 9:00am - 11:30am
                     14
 spots remaining
-                We're looking for volunteers with a heart for making a difference in the 
+                We're looking for volunteers with a heart for making a difference in the lives of individuals with intellectual and developmental disabili

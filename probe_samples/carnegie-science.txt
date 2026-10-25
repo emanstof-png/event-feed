@@ -227,6 +227,11 @@ Upcoming Events
 Events
 					Events
               Public Program
+The Carbon Connection:   From Stars to Life
+NPR Short Wave
+November 9
+6:30pm EST
+              Public Program
 Planet X, Killer Asteroids & Other Things Lurking in Space
 Scott Sheppard
 October 29
@@ -236,11 +241,6 @@ October 29
 Earth & Planets Laboratory
 October 24
 1:00pm EDT
-              Public Program
-Observatories Open House
-Carnegie Science Observatories
-October 11
-2:00pm PDT
 News
 Back
 News
@@ -269,14 +269,14 @@ expand_more
       Apply
 Read all News
 Breaking News
+October 22, 2026
+Object 27 | Album: The Human Side of Geophysics
+Breaking News
 October 16, 2026
 Object 26 | Sunspot Drawings
 Breaking News
 October 15, 2026
 Object 25 | The Plate Vault Door
-Breaking News
-October 07, 2026
-Meet Marion Le Voyer: EPL’s First Outreach and Education Specialist
 Resources
 Back
 Resources
@@ -409,35 +409,35 @@ Sort by
 Date Ascending
 Date Descending
  Filter results 
-                    12 results found for:
+                    11 results found for:
 share
 email
 Colloquium
-Dan Tamayo (Harvey Mudd)
-      How Chaos Drives Dynamical Instabilities in Compact Multiplanet Systems and Sculpts Exoplanet Demographics
+Jessie Christiansen (NExScI/Caltech)
+      From 10pc to 10,000pc: The Emerging Picture of Planet Populations
           Pasadena, CA
-20
+27
 October
                 11:00AM PDT
                   12:00PM PDT
 Learn More
 share
 email
-Seminar
-Lily Zhao (U of Chicago)
-      Advancing Precision Spectroscopy and Detecting Earth Analogs
-          Pasadena, CA
-23
+Public Program
+Planet X, Killer Asteroids & Other Things Lurking in Space
+      Scott Sheppard
+          New York, NY
+29
 October
-                12:15PM PDT
-                  1:15PM PDT
+                7:00PM EDT
+                  10:00PM EDT
 Learn More
 share
 email
-Public Program
- Earth & Planets Laboratory Open House
-      Earth & Planets Laboratory
-          Washington, DC
-24
+Seminar
+Zixuan Peng (UCSB)
+      Spatially Resolved Galactic Outflows in Local Star-Forming Dwarf Galaxies: Kinematics, Geometry, and Driving Mechanisms
+          Pasadena, CA
+30
 October
-                1:00PM 
+          

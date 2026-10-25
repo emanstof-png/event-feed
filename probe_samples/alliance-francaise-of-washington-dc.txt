@@ -1,6 +1,6 @@
 Alliance Francaise of Washington DC
 https://francedc.org/events
-method: html
+method: none
 
 Events | Alliance Française Washington DC (AFDC)
                             Login
@@ -127,23 +127,6 @@ Books & Literature
 Music
 Cinema
 Culture
-Young Professionals French Happy Hour (21-35) at Bonne Vie Café and Bistro - October 23,6:30pm
-This event is part of our Young Professionals series 
-This event is exclusively for young professionals between the ages of 21-35 
-This event will take place at Bonne Vie Café and Bistro located on 1604 U St NW, Washington, DC 20009 
-Looking to meet fellow Francophone young professionals who share your love for French? Join us on Friday, October 23 at 6:30 PM at Bonne Vie Café and Bistro for an evening of French conversation, new connections, good food, specially curated drinks, and great company.
-Whether you're a native francophone, learning French, a longtime Francophile, or simply curious about French culture, everyone is welcome between the ages of 21-35!
-What to expect: 
-· Meet and mingle with young professionals from the Washington DC Francophone & Francophile community
-· Enjoy a special French Happy Hour menu created for the evening
-· Delicious French classics in a laid back atmosphere
-· Connect over drinks, conversation, and all things French Bring a friend, practice your French, and come ready to mingle!
-About Bonne Vie Café and Bistro 
-Bonne Vie Café & Bistro opened in the fall of 2025 in the historic flatiron building at the intersection of 16th Street, U Street, and New Hampshire Avenue. The restaurant reunited owner Aziz Safi and French chef and concept designer Raphael François nearly a decade after they created Le DeSales, their contemporary French restaurant in downtown Washington.
-Conceived as a more relaxed and intimate neighborhood bistro, Bonne Vie draws inspiration from the timeless cafés of Paris while embracing the warmth and rhythm of its Washington, D.C. surroundings. Its rooms are layered with French and American cultural artifacts—from century-old Limoges plates and vintage Parisian engravings to jazz memorabilia, French literature, and images of Brigitte Bardot and the Kennedys in Paris.
-At the table, Bonne Vie celebrates the generous simplicity of French bistro dining through traditional dishes, approachable wines, and its signature three-course prix-fixe experience. Though Bonne Vie is young, it was designed to feel as though it has long belonged to the neighborhood—a welcoming place to gather, linger, and enjoy la bonne vie, the good life.
-Read More
-Buy Tickets
 SOLD OUT Screening of Award-Winning Documentary FABRIC and Q&A with the Film Team, moderated by Samira Atash
 About the Event:
 This event is part of our Cinema series.
@@ -160,4 +143,27 @@ Producer - Sanam Hasan, Tiny Circus Productions:
 Co-Producer & Editor - Sabrine Dahaut, Hemeroscope Studios:
  Sabrine Dahaut is a French writer and filmmaker. She founded Hemeroscope Studios, an independent audiovisual production company based in London and Paris, where she develops and crafts fiction and non-fiction impact stories. Alongside her creative work, Sabrine is a multilingual human rights lawyer, international security and peacebuilding specialist. Her career has taken her to work with and for international organizations and institutions, including the United Nations, USNATO, Search for Common Ground, GMFUS and the Africa Center for Strategy & Policy. Sabrine sits on the executive committee of Minorities in Peace & Security UK, is a Heinrich Böll Foundation 2022 Feminist Foreign Policy & Development Fellow and former WIIS Brussels and UK board member.
 Director - Anabelle Marshall: 
-Award-winning director and cinematographer Anabelle Marshall has been crafting premium documentaries for the BBC, Netflix, HBO, ITV and Channel 4 for over two decades. She’s drawn to multi-layered films and specialises in portraying sensitive, powerful themes and revealing human stories in a cinematic style. Her films on assisted dying, social housing, sexual orientation and space travel, bringing out the depth and complexity of characters in ex
+Award-winning director and cinematographer Anabelle Marshall has been crafting premium documentaries for the BBC, Netflix, HBO, ITV and Channel 4 for over two decades. She’s drawn to multi-layered films and specialises in portraying sensitive, powerful themes and revealing human stories in a cinematic style. Her films on assisted dying, social housing, sexual orientation and space travel, bringing out the depth and complexity of characters in extraordinary situations, have been critically acclaimed.
+Maya Persaud - Founder, Espero France:
+ Maya Persaud is a committed social cause entrepreneur. Following her undergrad from the University of Maryland where she studied Chemistry and French, Maya worked for non-profits involved in microfinance initiatives. After completing her Masters in Social Anthropology of Development at the School of Oriental and African Studies in London, Maya relocated to France and worked in supporting migrants in navigating societal administrative systems. In 2009, Maya established fashion brand Lotty Dotty and, after witnessing resource waste first hand compounded with the refugee crises, Maya established Espero in 2016. The mission of Espero is focused on engaging and developing the skills and talents of exiled people so that they are able to find their place in their new country.
+ About Moderator Samira Atash: 
+Samira Atash is an award-winning fashion designer, beauty entrepreneur, and cultural storyteller whose 25-plus-year career bridges fashion, beauty, heritage, and humanitarian purpose. Her work explores the intersection of design and identity, from her fashion label SAMIRA ATASH, inspired by Silk Road textiles and rooted in fair trade, to her ongoing storytelling about Afghan history, culture, textiles, and dress. She founded FLOW Blow Dry & Beauty Bar, the first blow dry bar in the DC area, Samira Brow Couture, an award-winning permanent makeup studio, and sbc COLOR STYLE, offering personal color analysis and styling services. Samira is also the founder of RUMI ROSE, an online fashion and beauty boutique supporting children’s education and women’s entrepreneurship programs in Afghanistan, and Creator and Executive Producer of Beauty and the East Media. Her work has been featured in The Washington Post, National Geographic TV, NBC, and other media outlets. A longtime supporter of AFDC’s cultural programming, she is honored to moderate this discussion with Maya Persaud and the FABRIC team.
+Learn more about her work at
+ www.samiraatash.com
+ and 
+rumirose.com
+Social media handles:
+Instagram:
+ @fabric_shortdoc @hemeroscope @tinycircusproductions @esperoatelier @analysishistory
+Websites
+: 
+tinycircusproductions.com
+. 
+esperofrance.org
+, 
+www.samiraatash.com
+,  
+rumirose.com
+Read More
+Buy Tickets
+A Tou

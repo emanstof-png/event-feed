@@ -12,6 +12,8 @@ Events - Fantom Comics
                                                     ALL PRODUCTS
                                                     SALE ITEMS
 X
+                                View cart
+X
 X
 Search option
 Search option
@@ -60,6 +62,7 @@ Search option
 												Novels (Hardcover)
 												Novelties 
 												Paperbacks
+												Paperbacks (Digest)
 												Picture Books (Hardcover)
 												Picture Books (Softcover)
 												Plushies
@@ -115,8 +118,8 @@ View more
 											Anti-Hero
 											Art - History - Medieval
 											Art - Individual Artists - Artists' Books
+											Art - Techniques - Cartooning
 											Art and Reference Books
-											Art Comics
 View more
 						Publishers
 											23rd St. Publishing
@@ -127,8 +130,8 @@ View more
 											Adhouse Books
 											Ahoy Comics
 											Aladdin Books
-											Aloha Comics
 											Alternative Comics
+											Amaze Ink (Slave Labor Graphic)
 View more
 X
 Advance Filter 

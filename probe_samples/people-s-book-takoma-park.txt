@@ -1,33 +1,8 @@
 People's Book (Takoma Park)
 https://peoplesbooktakoma.com/events/
-method: ical
+method: none
 
-Skip to content
-7014-A WESTMORELAND AVE
-TAKOMA PARK, MARYLAND
-20912
-Memberships
-Shop
-Collaborate
-Events
-About
-Pre-Orders
-$0.00
-0
-Facebook
- 
-Instagram
- 
-Spotify
- 
-
-[tribe_events]
-
-Copyright © 2026 People's Book
-7014-A WESTMORELAND AVE, TAKOMA PARK, MARYLAND 20912 info@peoplesbooktakoma.com
-0
-Your Cart
-Your cart is empty
-Return to Shop
-✕
-Become a member
+429 Too Many Requests
+429 Too Many Requests
+You have been rate-limited for making too many requests in a short time frame.
+Website owner? If you think you have reached this message in error, please contact support.

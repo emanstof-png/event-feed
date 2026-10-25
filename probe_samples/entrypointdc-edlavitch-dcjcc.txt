@@ -2,7 +2,7 @@ EntryPointDC (Edlavitch DCJCC)
 https://www.edcjcc.org/calendar/
 method: ical
 
-Events & Classes from October 17 – November 1 – EDCJCC
+Events & Classes from October 25 – November 4 – EDCJCC
 Edlavitch DCJCC
 JxJ
 Theater J
@@ -133,75 +133,10 @@ Select Categories
 					Now				
 					Now				
  - 
-					11/1/2026				
-					November 1				
+					11/4/2026				
+					November 4				
 		Select date.	
 		October 2026	
-JxJ
-The Shanghai Suite
-Date
- : Saturday, October 17, 2026
-Time
- : 7:00 PM
-View Details
-Social Responsibility
-Teen Volunteer Project: Rock Creek Park Clean Up
-Date
- : Sunday, October 18, 2026
-Time
- : 10:30 AM
-Location
- : Address provided after registration
-						RSVP											
-View Details
-Fitness
-FitLab @ the J
-Date
- : Monday, October 19, 2026
-Time
- : 10:15 AM
-Location
- : Edlavitch DCJCC
-						Register											
-View Details
-Fitness
-FitLab @ the J
-Date
- : Tuesday, October 20, 2026
-Time
- : 5:15 PM
-Location
- : Edlavitch DCJCC
-						Register											
-View Details
-Community
-October Mental Health Professionals Book Club
-Date
- : Wednesday, October 21, 2026
-Time
- : 6:30 PM
-Location
- : Edlavitch DCJCC
-						RSVP											
-View Details
-Capital J
-Capital J Hiking Discussion with Nechumah Getz
-Date
- : Thursday, October 22, 2026
-Time
- : 7:30 AM
-						Register											
-View Details
-Parenting Center
-Taming the Mental Load: Household Systems to Share the Burden
-Date
- : Thursday, October 22, 2026
-Time
- : 9:00 AM
-Location
- : Edlavitch DCJCC
-						Register											
-View Details
 Social Responsibility
 Handmade for the Homeless - October 2026
 Date
@@ -274,6 +209,76 @@ Time
 Location
  : Edlavitch DCJCC
 						Register											
+View Details
+Social Responsibility
+Teen Volunteer Project: Visiting Residents at Stoddard Baptist
+Date
+ : Sunday, November 1, 2026
+Time
+ : 2:00 PM
+Location
+ : Address provided after registration
+						RSVP											
+View Details
+School Age Programs
+Break Out Day Camp
+Date
+ : Monday, November 2, 2026
+Time
+ : 8:30 AM
+Location
+ : Edlavitch DCJCC
+						Register											
+View Details
+School Age Programs
+Break Out Day Camp
+Date
+ : Tuesday, November 3, 2026
+Time
+ : 8:30 AM
+Location
+ : Edlavitch DCJCC
+						Register											
+View Details
+Parenting Center
+Before Baby: A Series for Expecting Parents
+Date
+ : Tuesday, November 3, 2026
+Time
+ : 6:30 PM
+Location
+ : Edlavitch DCJCC
+						Register											
+View Details
+EntryPointDC
+Wexler Lecture on Jewish History: EntryPointDC Happy Hour
+Date
+ : Wednesday, November 4, 2026
+Time
+ : 7:00 PM
+Location
+ : Edlavitch DCJCC
+						Register											
+View Details
+Jewish Life & Learning
+Introduction to Judaism
+Date
+ : Wednesday, November 4, 2026
+Time
+ : 7:30 PM
+Location
+ : Edlavitch DCJCC
+						Register											
+View Details
+Jewish Life & Learning
+The Wexler Lecture on Jewish History: Jews and Christmas, the Untold Story
+Date
+ : Wednesday, November 4, 2026
+Time
+ : 7:30 PM
+Location
+ : Edlavitch DCJCC
+						RSVP											
 View Details
 			Previous 
 Events & Classes

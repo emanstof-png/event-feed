@@ -16,54 +16,6 @@ The Kolective
 Jewish Learning Collaborative
 News
 Impact
-About
-Identity Statements
-Mem Mindset
-Team and board
-Careers
-FAQs
-Programs
-Moishe House
-MOISHE HOUSE
-Find a Moishe House
-Become a Resident
-FAQs
-Grants
-Resources
-MHWOW
-MHWOW
-Capstone Programs
-FAQs
-Grants
-Resources
-Base
-BASE
-Find a Base
-FAQs
-Mem Global Retreats
-MEM GLOBAL RETREATS
-Calendar
-Jewish Learning Retreat FAQs
-Retreatology
-RETREATOLOGY
-North American
-International
-Find a Peer-Led Retreat
-FAQs
-Find an Educator
-Resources & Submission
-Camp Nai Nai Nai
-CAMP NAI NAI NAI
-Camp East
-Nai Cruise
-FAQs
-Embark
-EMBARK
-Find a Cohort
-FAQs
-Jewish Learning Collaborative
-News
-Impact
 Donate
 Moishe House
 Find a Moishe House
@@ -91,18 +43,18 @@ Contact Us
 Upcoming Events
 To attend an event, 
 contact us.
-Sunday
-October 18
-RAFI Dinner
-6:30 pm – 8:30 pm
 Thursday
 October 29
 Parsha, Pizza, and Prep
-7:00 pm – 9:00 pm
+7:00 pm – 9:00 pm
 Friday
 October 30
 20th Anniversary Shabbat Dinner
-7:30 pm – 10:00 pm
+7:30 pm – 10:00 pm
+Saturday
+October 31
+Halloween Party
+9:00 pm – 12:00 am
 Load More Events
 Our Residents
 								Mitchell Finkel							
@@ -135,7 +87,7 @@ Use Our Contact Form
 Generously Supported By
 Dottie Bennett, Carol and Gary Berman, Jane and Scott Brown, Laura and Mike Cutler, Shelley and Adam Ducker, Eve and David Farber,  Robin Hettleman and Matthew Weinberg, Jewish Federation of Greater Washington, Kay Klass and Mark Levitt, Liza Levy, The Morningstar Philanthropic Fund, Alison and Michael Nadel, Estee and Elliott Portnoy, Diane Lipson Schilit and Howard Schilit, Julie Wallick and David Selden, Deborah and David Yaffe, and young adult community builders giving back through our alumni Ambassador Circle and annual resident-driven WE ARE Campaign
 Contact Us
-Name
+Comments
 This field is for validation purposes and should be left unchanged.
 First Name
 (Required)
@@ -147,9 +99,7 @@ Subject
 (Required)
 Message
 (Required)
-This field is hidden when viewing the form
 House Admin Email
-This field is hidden when viewing the form
 House Manager Email
 Send Message
 Instagram

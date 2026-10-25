@@ -1,5 +1,80 @@
 DC Policy Events (aggregator)
 https://dcpolicyevents.com/
-method: xhr
+method: ical
 
-{"sourceCount":119,"events":[{"id":"AUTO-b33297ba","title":"International Buddhist Association of America Dharma Meeting","organizer":"George Washington University","date":"2026-10-17","time":"2:00–5:00 PM","format":"In person","venue":"University Student Center (USC) Room 405, University Student Center, 800 21st Street NW, Washington, DC 20052, United States","topics":"","speakers":"","cost":"Unclear","status":"needs_review","notes":"Automatically collected. Date and time checked against the official event page. Missing: cost, speakers.","url":"https://revconnect.gwu.edu/rsvp?id=378825"},{"id":"AUTO-907e4d11","title":"Prioritizing Free Expression in the United States","organizer":"American Enterprise Institute","date":"2026-10-19","time":"9:00–10:20 AM","format":"In person","venue":"Unclear","topics":"Society & Civil Rights","speakers":"","cost":"Unclear","status":"verified","notes":"Automatically collected. Date and time checked against the official event page. Missing: venue, cost, speakers.","url":"https://www.aei.org/events/prioritizing-free-expression-in-the-united-states/"},{"id":"AUTO-bd8f05eb","title":"Agentic Data Flows Privacy Data Minimization and Pets in Agentic Deployment","organizer":"Future of Privacy Forum","date":"2026-10-19","time":"9:30–11:00 AM","format":"Virtual","venue":"Unclear","topics":"AI & Technology","speakers":"","cost":"Unclear","status":"verified","notes":"Automatically collected. Date and time checked against the official event page. Missing: venue, cost, speakers.","url":"https://fpf.org/fpf-event/agentic-data-flows-privacy-data-minimization-and-pets-in-agentic-deployment/"},{"id":"AUTO-848352a4","title":"US-Taiwan Relations in the Trump Era","organizer":"Stimson Center","date":"2026-10-19","time":"10:00 AM","format":"Virtual","venue":"Unclear","topics":"Foreign Policy, Indo-Pacific","speakers":"","cost":"Unclear","status":"verified","notes":"Automatically collected. Date and time checked against the official event page. Missing: venue, cost, speakers.","url":"https://www.stimson.org/event/us-taiwan-relations-in-the-trump-era/"},{"id":"AUTO-758fc9ba","title":"Midterm elections and the future of congress and the presidency","organizer":"Brookings Institution","date":"2026-10-19","time":"10:30–11:30 AM","format":"Virtual","venue":"Unclear","topics":"Government & Politics","speakers":"","cost":"Unclear","status":"verified","notes":"Automatically collected. Date and time checked against the official event page. Missing: venue, cost, speakers.","url":"https://www.brookings.edu/events/midterm-elections-and-the-future-of-congress-and-the-presidency/"},{"id":"AUTO-7a19ebc5","title":"Brig. Gen. Todd Benson","organizer":"Air & Space Forces Association","date":"2026-10-19","time":"1:00 PM","format":"Virtual","venue":"Unclear","topics":"Defense & Security","speakers":"","cost":"Unclear","status":"verified","notes":"Automatically collected. Date and time checked against the official event page. Missing: venue, cost, speakers.","url":"https://www.mitchellaerospacepower.org/events/brig-gen-todd-benson/"},{"id":"AUTO-e2003350","title":"Russia’s bioweapons legacy and the plague scare","organizer":"Atlantic Council","date":"2026-10-19","time":"3:30 PM","format":"Virtual","venue":"Unclear","topics":"Foreign Policy, History & Culture, Russia & Eurasia","speakers":"","cost":"Unclear","status":"verified","notes":"Automatically collected. Date and time checked against the official event page. Missing: venue, cost, speakers.","url":"https://www.atlanticcouncil.org/event/russias-bioweapons-legacy-and-the-plague-scare/"},{"id":"AUTO-b22742ae","title":"How Local Agency Reshapes China’s Influence in Central Asia and Beyond","organizer":"Carnegie Endowment","date":"2026-10-20","time":"12:30–3:00 AM","format":"Unclear","venue":"Unclear","topics":"Foreign Policy, Indo-Pacific, Russia & Eurasia","speakers":"","cost":"Unclear","status":"verified","notes":"Automatically collected. Date and time checked against the official event page. Missing: venue, cost, speakers.","url":"https://carnegieendowment.org/events/2026/09/how-local-agency-reshapes-chinas-influence-in-central-asia-and-beyond"},{"id":"AUTO-2864abee","title":"Google Public Sector Summit","organizer":"Government Executive","date":"2026-10-20","time":"7:30 AM - 5:00 PM","format":"In person","venue":"Unclear","topics":"Government & Politics, AI & Technology","speakers":"","cost":"Unclear","status":"verified","notes":"Automatically collected. Date and time checked against the official event page. Missing: venue, cost, speakers. Start time entered by the site administrator during review.","url":"https://events.govexec.com/google-public-sector-summit/"},{"id":"AUTO-8da0fcec","title":"Korean Competition Policy and the Stakes for the US-Korea Relationship","organizer":"Information Technology and Innovation Foundation","date":"2026-10-20","time":"9:00–10:00 AM","format":"Virtual","venue":"https://itif.org/events/2026/10/20/korean-competition-policy-stakes-for-us-korea-relationship/; Virtual Only","topics":"Foreign Policy, AI & Technology, Indo-Pacific","speakers":"","cost":"Unclear","status":"verified","notes":"Automatically collected. Date and time checked against the official event page. Missing: venue, cost, speakers.","url":"https://itif.org/events/2026/10/20/korean-competition-policy-stakes-for-us-korea-relationship/"},{"id":"AUTO-bab544af","title":"Capturing National Security Benefits from Offshore Wind","organizer":"CSIS","date":"2026-10-20","time":"9:30 AM","format":"Unclear","venue":"Unclear","topics":"Defense & Security","speakers":"","cost":"Unclear","status":"verified","notes":"Automatically collected. Date and time checked against the official event page. Missing: venue, cost, speakers.","url":"https://www.csis.org/events/capturing-national-security-benefits-offshore-wind"},{"id":"AUTO-3db6d0d8","title":"Democracy and the Future of Transatlantic Relations After Trump","organizer":"Stimson Center","date":"2026-10-20","time":"10:00 AM","format":"Virtual","venue":"Unclear","topics":"Foreign Policy, Government & Politics, Europe","speakers":"","cost":"Unclear","status":"verified","notes":"Automatically collected. Date and time checked against the official event page. Missing: venue, cost, speakers.","url":"https://www.stimson.org/event/democracy-and-the-future-of-transatlantic-relations-after-trump/"},{"id":"AUTO-5b653cf3","title":"Collision Averted? The Brazilian Election and U.S.-Brazil Relations","organizer":"Quincy Institute","date":"2026-10-20","time":"10:30 AM","format":"Virtual","venue":"Unclear","topics":"Foreign Policy, Government & Politics, Latin America & Caribbean","speakers":"","cost":"Unclear","status":"verified","notes":"Automatically collected. Date and time checked against the official event page. Missing: venue, cost, speakers.","url":"https://quincyinst.org/events/collision-averted-the-brazilian-election-and-u-s-brazil-relations/"},{"id":"AUTO-63a76e40","title":"Tunisia’s Fractured Transition in Comparative Perspective","organizer":"Arab Center Washington DC","date":"2026-10-20","time":"11:30 AM–2:30 PM","format":"Hybrid","venue":"3700 O St. NW, CCAS Boardroom, ICC 241, Washington, DC, and Via Zoom","topics":"Foreign Policy, Middle East, Africa","speakers":"","cost":"Unclear","status":"verified","notes":"Automatically collected. Date and time checked against the official event page. Missing: venue, cost, speakers.","url":"https://arabcenterdc.org/event/tunisias-fractured-transition-in-comparative-perspective/"},{"id":"MAN-muyk6int-6a9ae40e","title":"Combatting Antisemitism with Coach Bruce Pearl","organizer":"Advancing American Freedom Foundation","date":"2026-10-20","time":"12:00 PM - 1:00 PM","format":"In person","venue":"Cannon House Office Building, 390","topics":"Foreign Policy, Society & Civil Rights, Middle East","speakers":"","cost":"Unclear","status":"verified","notes":"Manually added by the site administrator. Event date entered by the site administrator duri
+DC Policy Events | Washington, D.C. Policy Calendar
+DC
+Policy Calendar
+Explore events
+Public calendar
+WASHINGTON’S POLICY AGENDA, CURATED DAILY
+Find the conversations
+shaping policy.
+A single, curated calendar of public events from Washington’s leading think tanks, institutions, universities, and policy organizations.
+Explore upcoming events 
+↓
+Subscribe to calendar 
+＋
+Eastern Time · Official pages linked · 
+Checked daily
+0
+Upcoming events
+118
+Tracked organizations
+⌕
+All categories
+Defense & Security
+Foreign Policy
+Government & Politics
+Economy & Trade
+Business
+Energy & Climate
+AI & Technology
+Science & Research
+Health & Biosecurity
+Housing & Urban Policy
+Transportation & Infrastructure
+Education & Workforce
+Law & Justice
+Immigration
+Agriculture & Food
+Society & Civil Rights
+History & Culture
+Middle East
+Indo-Pacific
+Europe
+Russia & Eurasia
+Africa
+Latin America & Caribbean
+All formats
+In person
+Hybrid
+Virtual
+Clear
+When
+Any date
+Today
+Tomorrow
+This week
+Next week
+This month
+From
+To
+WHAT’S AHEAD
+0
+ upcoming policy events
+Washington, D.C. · Eastern Time
+No events match these filters.
+Try a broader search, another date, or reset the filters.
+Clear filters
+BUILT FOR TRUST
+Useful listings, checked before they reach you.
+We link to the official organizer, exclude private and non-policy programming, and withhold listings with conflicting dates, implausible times, or out-of-area venues. Organizer pages remain the final source of truth.
+DC
+Policy Calendar
+Created by
+Alba Kibar Andresen
+·
+LinkedIn ↗
+Owner sign in
+Official organizer pages remain the source of truth. Student- and staff-only university programming is excluded.

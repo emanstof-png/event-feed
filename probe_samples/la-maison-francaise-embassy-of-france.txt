@@ -147,7 +147,7 @@ Overview
 Services
 Take a tour
 Upcoming Events at La Maison Française
-		12 events found.	
+		10 events found.	
 Events
 		Events Search and Views Navigation	
 		Search	
@@ -157,31 +157,10 @@ Events
 				List			
 			List		
 	Today
-					Now				
-					Now				
- - 
-					12/4/2026				
-					December 4, 2026				
+					Upcoming				
+					Upcoming				
 		Select date.	
 			October 2026		
-			Wed		
-			21		
-Conference
-		The Role of the French Military in the American Revolution, 1777-1783	
-Oct. 21, 2026 – 7:30 pm to 8:30 pm
-	Step into the story of how France helped turn the tide of the American Revolution—and discover how Yorktown reshaped warfare and the balance of power.
-			Fri		
-			23		
-Gastronomy & Tasting
-		Alsace: Pinot Gris World Wine Tasting & Dinner	
-Oct. 23, 2026 – 6:30 pm to 10:00 pm
-	Is French Alsace Pinot Gris the best Pinot Gris in the world? Come taste and decide for yourself!
-			Sat		
-			24		
-Concert, Dance
-		CONNEXION	
-Oct. 24, 2026 – 7:30 pm to 9:00 pm
-	Join Villa Albertine for CONNEXION, a unique musical encounter between Réunion Island, New Orleans & Puerto Rico at La Maison Française.
 			Thu		
 			29		
 Ceremony, Cocktail
@@ -238,6 +217,12 @@ Concert, Reception
 		Great Masters: Georgy Sviridov & Dmitri Shostakovich	
 Dec. 4, 2026 – 7:30 pm to 9:30 pm
 	Discover the musical worlds of Sviridov and Shostakovich in an evening of Russian song, poetry, and chamber music.
+			Mon		
+			14		
+Concert
+		Formidable! Aznavour	
+Dec. 14, 2026 – 7:30 pm to 9:30 pm
+	A true emotional journey through the life and extraordinary career of Charles Aznavour.
 			Previous 
 Events
 		Today	
