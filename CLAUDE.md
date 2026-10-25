@@ -6,7 +6,13 @@ these wrong.
 
 ## Where things are
 
-- `SPEC_SPEED.md`: the approved speed/accuracy plan (Oct 24). Work it before anything else on scraping.
+- `SPEC_SPEED.md`: the approved speed/accuracy plan (Oct 24), executed Oct 24; results at its end.
+- `discover.py` + "Discover data calls" workflow: renders browser rows once and saves every JSON/ics/XML
+  call the widget makes to `discover/<slug>.json`, replayed without cookies. Scouts read them with
+  `briefs/SCOUT_DISCOVER.md`. To try a candidate feed before it goes in the sheet: add it to
+  `prove_sources.csv`, run "Feed test" with sources=prove_sources.csv, out=_prove, read `run_log_prove.csv`.
+  J for a replayed call is `URL#{json options}` (post, multipart, headers, filter, exclude, token_page);
+  see `readers/api.py::parse_feed`.
 - `RULES.md`: twelve operating rules. Read it second. `python check.py` enforces the mechanical ones
   and CI runs it on every push; run it before every commit.
 - `sources_methods.csv`: snapshot of the Sources tab (B, I, J, K, L, M, N). `PLAYBOOK.md` is
@@ -180,6 +186,12 @@ The manual run, step by step (first done Oct 18, 2:50am; 673 events with categor
 - Quoting a duration without saying who spends it. "15 minutes" of GitHub rendering costs no
   tokens; say so, or it reads as 15 minutes of Fable.
 - A browser render job with no per-source cap: 34 sources ran past 28 minutes. Cap each source.
+  (Fixed Oct 24: readers/browser.py is one shared session, 45s cap, no network-idle wait.)
+- Speeding the browser by waiting for "the first date on the page": half the widgets had not loaded
+  yet (Oct 24, 10 sources lost events). Compare a new render against the old one per source before
+  calling a speed-up done. The wait is now "text stopped growing", full HTML, lazy iframes opened.
+- A timeout that never fires: ThreadPoolExecutor's `with` waits for the hung thread. fetch.py now
+  shuts the executor down without waiting and exits with os._exit.
 - Announcing the feed without reading it. 166 of 673 rows had no link; Eric found it, not the
   agent. Why it slipped: the proof standard covered sources (date + title), not feed rows; check.py
   checked the source table, not the output; the ical reader was written against feeds the scouts
