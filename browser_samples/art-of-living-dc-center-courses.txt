@@ -1,8 +1,7 @@
 Art of Living DC Center (courses)
 https://members.us.artofliving.org/us-en/centers/courses/a054600000C7j5HAAR?timeZone=EST&viewMode=cards&embed=true
-rendered 2026-10-25 00:01Z  status=200 chars=2833 iframes=2 srcdoc=0 next=False error=
+rendered 2026-10-25 00:09Z  status=200 chars=2542 iframes=0 srcdoc=0 next=False error=
 
-Washington DC National - Course Dates and Registration
 All
 Courses
 Meetups
@@ -10,7 +9,6 @@ Events
 Cards
 List
 Calendar
-Save Changes
 Center
 Washington DC National
 Course Format
@@ -24,12 +22,10 @@ Time Zone
 Eastern
 Instructor
 Select...
-Filter
-1
 Eastern
 Course
 Art of Living Part 1
-Online
+ONLINE
 Archana Karne
 10/26 Monday
 , 7:30 AM - 9:30 AM ET
@@ -37,11 +33,9 @@ Archana Karne
 , 7:30 AM - 9:30 AM ET
 10/28 Wednesday
 , 7:30 AM - 9:30 AM ET
-Details
-Register
 Course
 Art of Living Part 1
-In-Person
+IN-PERSON
 Non-Residential
 8005 Gramercy blvd, Derwood, MD, 28005
 Jalpa Patel
@@ -51,11 +45,9 @@ Jalpa Patel
 , 10:00 AM - 12:30 PM ET
 10/28 Wednesday
 , 10:00 AM - 12:30 PM ET
-Details
-Register
 Course
 Art of Living Part 1
-In-Person
+IN-PERSON
 2401 15th Street Northwest, Washington, DC, 20009
 Shikha Arya, Yayati Thakur
 10/26 Monday
@@ -64,11 +56,9 @@ Shikha Arya, Yayati Thakur
 , 6:30 PM - 9:30 PM ET
 10/28 Wednesday
 , 6:30 PM - 9:30 PM ET
-Details
-Register
 Course
 Sahaj Samadhi Meditation
-Online
+ONLINE
 Madhushri Tejasvi, Apoorva Srivastava
 10/26 Monday
 , 7:00 PM - 9:00 PM ET
@@ -76,11 +66,9 @@ Madhushri Tejasvi, Apoorva Srivastava
 , 7:00 PM - 9:00 PM ET
 10/28 Wednesday
 , 7:00 PM - 9:00 PM ET
-Details
-Register
 Course
 Art of Living Part 1
-Online
+ONLINE
 Nisha Mehta
 10/27 Tuesday
 , 6:30 AM - 8:30 AM ET
@@ -88,11 +76,9 @@ Nisha Mehta
 , 6:30 AM - 8:30 AM ET
 10/29 Thursday
 , 6:30 AM - 8:30 AM ET
-Details
-Register
 Course
 Art of Living Part 1
-Online
+ONLINE
 Nisha Mehta
 10/30 Friday
 , 6:30 AM - 8:30 AM ET
@@ -100,11 +86,9 @@ Nisha Mehta
 , 6:30 AM - 8:30 AM ET
 11/1 Sunday
 , 6:30 AM - 8:30 AM ET
-Details
-Register
 Course
 Sahaj Samadhi Meditation
-Online
+ONLINE
 Archana Karne
 10/30 Friday
 , 7:00 AM - 9:00 AM ET
@@ -112,11 +96,9 @@ Archana Karne
 , 7:00 AM - 9:00 AM ET
 11/1 Sunday
 , 7:00 AM - 9:00 AM ET
-Details
-Register
 Course
 Art of Living Part 1
-In-Person
+IN-PERSON
 2401 15th Street NW, Washington, DC, 20009
 Catalina Lozano, Sreenivasa Radha Krishnan Rayaprolu
 10/30 Friday
@@ -125,11 +107,9 @@ Catalina Lozano, Sreenivasa Radha Krishnan Rayaprolu
 , 10:30 AM - 1:30 PM ET
 11/1 Sunday
 , 10:30 AM - 1:30 PM ET
-Details
-Register
 Course
 Art of Living Part 1
-In-Person
+IN-PERSON
 10701 Buckingham Rd, Fairfax, VA, 22032
 Muktesh Chhabra
 10/30 Friday
@@ -138,11 +118,9 @@ Muktesh Chhabra
 , 10:30 AM - 1:30 PM ET
 11/1 Sunday
 , 10:30 AM - 1:30 PM ET
-Details
-Register
 Course
 Art of Living Part 1
-In-Person
+IN-PERSON
 3921 Beeker Mill Place, Herndon, VA, 20151
 Ramesh Parajuli, Jaymin Mehta
 10/30 Friday
@@ -151,11 +129,9 @@ Ramesh Parajuli, Jaymin Mehta
 , 8:00 AM - 11:00 AM ET
 11/1 Sunday
 , 8:00 AM - 11:00 AM ET
-Details
-Register
 Course
 Art of Living Part 1
-Online
+ONLINE
 Non-Residential
 Jalpa Patel
 10/30 Friday
@@ -164,11 +140,9 @@ Jalpa Patel
 , 10:00 AM - 12:30 PM ET
 11/1 Sunday
 , 10:00 AM - 12:30 PM ET
-Details
-Register
 Course
 Sahaj Samadhi Meditation
-In-Person
+IN-PERSON
 22837 Queensbridge Dr, Ashburn, VA, 20148
 Dev Manghat
 10/30 Friday
@@ -177,9 +151,3 @@ Dev Manghat
 , 3:00 PM - 5:30 PM ET
 11/1 Sunday
 , 3:00 PM - 5:30 PM ET
-Details
-Register
-
-----
-
-ns

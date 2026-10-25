@@ -1,20 +1,9 @@
 Soul Fire Experiences / Ecstatic Dance Arlington
 https://theticketing.co/o/soul-fire-experiences-llc
-rendered 2026-10-24 23:39Z  status=200 chars=428 iframes=2 srcdoc=0 next=False error=
+rendered 2026-10-25 00:07Z  status=200 chars=98 iframes=0 srcdoc=0 next=False error=
 
-The Ticketing Co.
 Oops!
+
 The Organizer you are searching for could not be found.
+
 Click here to go to the Event list
-Oops!
-
-          Javascript is disabled in your web browser and it prevents The
-          Ticketing.Co from loading correctly.
-          
-
-          Please make sure you enable Javascript and then reload this page.
-        
-
-          If you are still having issues, please contact
-          
-info@theticketing.co

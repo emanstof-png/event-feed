@@ -1,305 +1,167 @@
 National Museum of Women in the Arts
 https://secure.nmwa.org/events
-rendered 2026-10-24 23:41Z  status=200 chars=4409 iframes=1 srcdoc=0 next=False error=
+rendered 2026-10-25 00:07Z  status=200 chars=2102 iframes=0 srcdoc=0 next=False error=
 
-Events | NMWA
-Please correct the following error(s):
-No matching events for {:SearchDate}
-Retrieving Events
-{:DateLoaded} events loaded
-Please wait while we retrieve your events.
-Navigate by Year
-Navigate by Month
-Navigate by Day
-Keyboard Shortcuts {:HelpKeyCommand}
-Cancel
 Skip to content
-
-                            Main Navigation
-                        
+Main Navigation
 Donate
 Join/Renew
 Gift Membership
-Calendar 
+Calendar
 Account
-
-            Login
-        
+Login
 Cart
-
-                Time remaining:
-            
-
-                00:00
-            
 Cart
 0
-Your cart has expired
-Your order contained expired items and all items have been removed.
-Close
-Enter Promo Code
-
-        Calendar
-    
-
-            Select a calendar item to register or buy tickets. Book now to reserve your spot.
-        
+Calendar
+Select a calendar item to register or buy tickets. Book now to reserve your spot.
 Change the way events are displayed
-
-            Calendar View
-        
-
-            List View
-        
+Calendar View
+List View
 Calendar View
 Display calendar by:
 Day
 Week
 Month
-Select Day
-October 24, 2026
-Previous day
-Next day
-
-        Please wait while we retrieve your events.
-        
-
-Select Week
-Oct 18 – 24, 2026
-Previous week
-Next week
-
-        Please wait while we retrieve your events.
-        
 
 Select Month
+
 October 2026
 Previous month
 Next month
 October 2026
-Sunday
-Monday
-Tuesday
-Wednesday
-Thursday
-Friday
-Saturday
+Sunday	Monday	Tuesday	Wednesday	Thursday	Friday	Saturday
 
-          27
-        
+27
 Sunday 27 September 2026
-
-          28
-        
+	
+28
 Monday 28 September 2026
-
-          29
-        
+	
+29
 Tuesday 29 September 2026
-
-          30
-        
+	
+30
 Wednesday 30 September 2026
-
-          1
-        
+	
+1
 Thursday 1 October 2026
-
-          2
-        
+	
+2
 Friday 2 October 2026
-
-          3
-        
+	
+3
 Saturday 3 October 2026
 
-          4
-        
+4
 Sunday 4 October 2026
-
-          5
-        
+	
+5
 Monday 5 October 2026
-
-          6
-        
+	
+6
 Tuesday 6 October 2026
-
-          7
-        
+	
+7
 Wednesday 7 October 2026
-
-          8
-        
+	
+8
 Thursday 8 October 2026
-
-          9
-        
+	
+9
 Friday 9 October 2026
-
-          10
-        
+	
+10
 Saturday 10 October 2026
 
-          11
-        
+11
 Sunday 11 October 2026
-
-          12
-        
+	
+12
 Monday 12 October 2026
-
-          13
-        
+	
+13
 Tuesday 13 October 2026
-
-          14
-        
+	
+14
 Wednesday 14 October 2026
-
-          15
-        
+	
+15
 Thursday 15 October 2026
-
-          16
-        
+	
+16
 Friday 16 October 2026
-
-          17
-        
+	
+17
 Saturday 17 October 2026
 
-          18
-        
+18
 Sunday 18 October 2026
-
-          19
-        
+	
+19
 Monday 19 October 2026
-
-          20
-        
+	
+20
 Tuesday 20 October 2026
-
-          21
-        
+	
+21
 Wednesday 21 October 2026
-
-          22
-        
+	
+22
 Thursday 22 October 2026
-
-          23
-        
+	
+23
 Friday 23 October 2026
-
-          24
-        
+	
+24
 Saturday 24 October 2026
 
-          25
-        
+25
 Sunday 25 October 2026
 Daily Admission
-, 
-
-          26
-        
+,
+	
+26
 Monday 26 October 2026
-
-          27
-        
+	
+27
 Tuesday 27 October 2026
 Daily Admission
-, 
-
-          28
-        
+,
+	
+28
 Wednesday 28 October 2026
 Daily Admission
-, 
-
-          29
-        
+,
+	
+29
 Thursday 29 October 2026
 Daily Admission
-, 
-
-          30
-        
+,
+	
+30
 Friday 30 October 2026
 Daily Admission
-, 
-
-          31
-        
+,
+	
+31
 Saturday 31 October 2026
 Daily Admission
-, 
-October 2026
-October 25, 2026
-Daily Admission
-, 
-October 27, 2026
-Daily Admission
-, 
-October 28, 2026
-Daily Admission
-, 
-October 29, 2026
-Daily Admission
-, 
-October 30, 2026
-Daily Admission
-, 
-October 31, 2026
-Daily Admission
-, 
-
-        Please wait while we retrieve your events.
-        
-
-
-        Please wait while we retrieve your events.
-        
-
-List View
-
-            Filter by Date Range
-        
-Select start date
-October 24, 2026
-
-                    to
-                
-Select end date
-April 24, 2027
-
-                    Reset Date Range
-                
-Oct 24, 2026 – Apr 24, 2027
+,
 Footer
 Find Us
 Physical Address
 National Museum of Women in the Arts
-
-                            1250 New York Ave. NW
-
-                            Washington, DC 20005
-                        
+1250 New York Ave. NW
+Washington, DC 20005
 Phone
 202-783-5000
 1-800-222-7270
 Museum Hours
 Museum Hours
-
-                            Tuesday to Sunday
-
-														10 am to 5 pm
-                        
-
-                            NMWA is closed on Thanksgiving, Christmas, and New Year's Day.
-                        
+Tuesday to Sunday
+10 am to 5 pm
+NMWA is closed on Thanksgiving, Christmas, and New Year's Day.
 Social Media
 Facebook
 , opens in new tab
@@ -311,16 +173,9 @@ TikTok
 , opens in new tab
 Youtube
 , opens in new tab
-© Copyright 
-2026
+© Copyright 2026 
 National Museum of Women in the Arts
 Legal And Technical Resources
-|
-Privacy Policy
-|
-Conditions of Use
+|Privacy Policy
+|Conditions of Use
 October 2026 events loaded
-
-----
-
-ns

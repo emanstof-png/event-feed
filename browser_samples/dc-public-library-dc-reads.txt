@@ -1,194 +1,42 @@
 DC Public Library: DC Reads
 https://dclibrary.libnet.info/events
-rendered 2026-10-24 23:50Z  status=200 chars=13088 iframes=0 srcdoc=0 next=False error=
+rendered 2026-10-25 00:07Z  status=200 chars=60000 iframes=0 srcdoc=0 next=True error=
 
-Events - DC Public Library
 Skip to main content
-Translate
-English
-አማርኛ
-Français
-한국어
-Español
-中文（简体）
-TIẾNG VIỆT
-Get a Card
-My Account
+TRANSLATE
+GET A CARD
+MY ACCOUNT
 SEARCH
-SEARCH
- Search 
-Menu
-home(hidden)
+
 Find & Borrow
 Research & Learn
 Attend an Event
 Reserve a Room
 Plan a Visit
-For general questions about reservations or event details, please contact the 
-DC Public Library location
- you are planning to visit.
-For those in need of disability services related to event registration or room reservation, please reach out to the 
-Center for Accessibility
- at 202-727-2142 or 
-DCPLaccess@dc.gov
-.
-Close accessibility options
-Reset to standard size
-Font size options
 
-										Increase or decrease the font size for this website by clicking on the 'A's.
-									
-Reset to default contrast
-Contrast options
-Choose a color combination to give the most comfortable contrast.
+	
+
+For general questions about reservations or event details, please contact the DC Public Library location you are planning to visit.
+
+For those in need of disability services related to event registration or room reservation, please reach out to the Center for Accessibility at 202-727-2142 or DCPLaccess@dc.gov.
+
+	
 Search events
-Filter by: 
-Location
-Age group
-event type
+Filter by: LocationAge GroupEvent Type
 Today
-events
-Clear filter
-Sunday
-Monday
-Tuesday
-Wednesday
-Thursday
-Friday
-Saturday
-Loading events...
 Calendar
 Date range
-Events calendar
-«
-October 2026
-»
-Su
-Mo
-Tu
-We
-Th
-Fr
-Sa
-27
-28
-29
-30
-1
-2
-3
-4
-5
-6
-7
-8
-9
-10
-11
-12
-13
-14
-15
-16
-17
-18
-19
-20
-21
-22
-23
-24
-25
-26
-27
-28
-29
-30
-31
-1
-2
-3
-4
-5
-6
-7
-Today
-Clear
-Events calendar
-«
-2026
-»
-Jan
-Feb
-Mar
-Apr
-May
-Jun
-Jul
-Aug
-Sep
-Oct
-Nov
-Dec
-Today
-Clear
-Events calendar
-«
-2020-2029
-»
-2019
-2020
-2021
-2022
-2023
-2024
-2025
-2026
-2027
-2028
-2029
-2030
-Today
-Clear
-Events calendar
-«
-2000-2090
-»
-1990
-2000
-2010
-2020
-2030
-2040
-2050
-2060
-2070
-2080
-2090
-2100
-Today
-Clear
-Events calendar
-«
-2000-2900
-»
-1900
-2000
-2100
-2200
-2300
-2400
-2500
-2600
-2700
-2800
-2900
-3000
-Today
-Clear
-Focused Saturday, October 24, 2026
-From
-To
+
+October 2026	»
+Su	Mo	Tu	We	Th	Fr	Sa
+27	28	29	30	1	2	3
+4	5	6	7	8	9	10
+11	12	13	14	15	16	17
+18	19	20	21	22	23	24
+25	26	27	28	29	30	31
+1	2	3	4	5	6	7
+
+Focused Sunday, October 25, 2026
 Today
 Tomorrow
 This week
@@ -197,387 +45,78 @@ This month
 Next month
  Create Brochure
  RSS
- Add to Calendar
-events
-October 24 2026
-October 24 2026 - October 24 2026
-Clear filter
+ Add To Calendar
+Events
+	October 25 2026	
 Pokemon Scavenger Hunt
-Saturday, October 24: All day
+Sunday, October 25: All Day
  Southwest Neighborhood Library
-Age group:  
- Birth - 5 
- 5 - 12 Years Old 
-event type:  
-Gaming, Family Program
+AGE GROUP:   BIRTH - 5  5 - 12 YEARS OLD
+EVENT TYPE:  GAMING, FAMILY PROGRAM
 Celebrate 30 Years of Pokemon!
-Capitol View Library Creative Art Contest 
- - THEME: SPOOKY HOUSE(S)
-Saturday, October 24: All day
- Capitol View Neighborhood Library
-Age group:  
- 13 - 19 Years Old (Teens) 
-event type:  
-Halloween, Family Program, Educational Program, Arts & Crafts
-Teens ages 13-19 are invited to participate in the annual creative art contest.
-THIS YEAR’S THEME: Spooky House(s)
 Pokémon Scavenger Hunt
-Saturday, October 24: All day
+Sunday, October 25: All Day
  Anacostia Neighborhood Library
-Age group:  
- Seniors 
- Birth - 5 
- Adults 
- 5 - 12 Years Old 
- 13 - 19 Years Old (Teens) 
-event type:  
-Gaming, Family Program
+AGE GROUP:   SENIORS  BIRTH - 5  ADULTS  5 - 12 YEARS OLD  13 - 19 YEARS OLD (TEENS)
+EVENT TYPE:  GAMING, FAMILY PROGRAM
 Celebrate Pokémon's 30th Anniversary with a DC-themed Pokémon Scavenger Hunt!
-DEA National Drug Take Back Day
-Saturday, October 24: 10:00am - 2:00pm
- Cleveland Park Neighborhood Library
-Age group:  
- Seniors 
- Adults 
-event type:  
-Health
-#TakeBackDay is a free event for communities nationwide to properly dispose of old and unneeded medications safely and anonymously.
-Fall Festival
- - Under the Loggia at MLK Library
-Saturday, October 24: 10:00am - 2:00pm
- Martin Luther King Jr. Memorial Library - Central Library
-Age group:  
- Birth - 5 
- 5 - 12 Years Old 
-event type:  
-Halloween, Family Program
-Fall fun is taking over the Loggia at the Martin Luther King Jr. Memorial Library!
-Registration is now closed
-Mask Making
-Saturday, October 24: 10:00am - 6:00pm
- Tenley-Friendship Neighborhood Library
-Age group:  
- Birth - 5 
- 5 - 12 Years Old 
-event type:  
-Halloween, Family Program, Arts & Crafts
-Color an animal mask.This is a drop-in craft. While supplies last.
-English Conversation Group
-Saturday, October 24: 10:00am - 12:00pm
- Tenley-Friendship Neighborhood Library - 
-Conference  Room 1 (5-15 Person Capacity)
-Age group:  
- Seniors 
- Adults 
-event type:  
-ESL / Bilingual Programs
-A weekly English as a second language (ESL) conversation circle
-DEA National  Drug Take Back Day!
-Saturday, October 24: 10:00am - 2:00pm
+Battle of the Branches Chess Tournament
+Sunday, October 25: 1:00pm - 4:00pm
+ Martin Luther King Jr. Memorial Library - Central Library - Event Space
+AGE GROUP:   SENIORS  ADULTS  5 - 12 YEARS OLD  13 - 19 YEARS OLD (TEENS)
+EVENT TYPE:  CHESS CLUB
+Join your neighborhood library team in a DCPL system-wide chess showdown for the chance to be crowned DCPL chess champion!
+Washington Commanders Football - NFL Football at Bellevue Library
+Sunday, October 25: 1:00pm - 4:00pm
+ Bellevue (William O. Lockridge) Neighborhood Library - Meeting Room (25-100 Person Capacity)
+AGE GROUP:   SENIORS  BIRTH - 5  ADULTS  5 - 12 YEARS OLD  13 - 19 YEARS OLD (TEENS)
+EVENT TYPE:  OUTREACH, KNOW YOUR NEIGHBORHOOD, FAMILY PROGRAM
+Come enjoy watching the Washington Commanders Football Team play.
+Sewing Machine Reservation - Use the sewing machine at the SOW STEAM Lab
+Sunday, October 25: 1:30pm - 3:30pm
  Southwest Neighborhood Library
-Age group:  
- Seniors 
- Adults 
- 13 - 19 Years Old (Teens) 
-event type:  
-Civic Engagement
-Turn in Old and Expired Prescription Medication.
-DEA National Drug Take Back Day
-Saturday, October 24: 10:00am - 2:00pm
- Mt. Pleasant Neighborhood Library
-Age group:  
- Seniors 
- Adults 
-event type:  
-Health
-#TakeBackDay is a free event for communities nationwide to properly dispose of old and unneeded medications safely and anonymously.
-Georgetown Library English Conversation Club
- - A weekly conversation circle for English-language learners
-Saturday, October 24: 10:00am - 11:30am
- Georgetown Neighborhood Library
-Age group:  
- Seniors 
- Adults 
- 13 - 19 Years Old (Teens) 
-event type:  
-ESL / Bilingual Programs, Educational Program
-Would you like to improve your English-language skills in a small and comfortable group?
-Would you like to know more about American culture and current events?
-Friends Book Sale
- - So Many Items for Sale: Books, CD's, Dvd's and More!
-Saturday, October 24: 10:00am - 2:00pm
- Palisades Neighborhood Library
-Age group:  
- Seniors 
- Birth - 5 
- Adults 
- 5 - 12 Years Old 
- 13 - 19 Years Old (Teens) 
-event type:  
-Friends of the Library
-This Book Sale is hosted by the Friends of Palisades Neighborhood Library. All proceeds benefit the library. They accept donations every Saturday with a maximum of two bags or boxes. 
-Reading All-Stars with Northstar
-Saturday, October 24: 10:30am - 12:00pm
- Mt. Pleasant Neighborhood Library
-Age group:  
- 5 - 12 Years Old 
- 13 - 19 Years Old (Teens) 
-event type:  
-Educational Program, Back to School
-Mt. Pleasant Library hosts Saturday literacy sessions with volunteers from Northstar Tutoring, a one-on-one volunteer literacy and mentorship program.
-Weekend Playdate
-Saturday, October 24: 10:30am - 11:00am
- Anacostia Neighborhood Library
-Age group:  
- Birth - 5 
-event type:  
-Family Program
-Connect with other parents while kids have fun!
-Certiport’s Compass Cloud Remote Certification Service
- - 2019 Outlook Associate Microsoft Office Specialist Exams
-Saturday, October 24: 10:30am - 12:00pm
- Martin Luther King Jr. Memorial Library - Central Library
-Age group:  
- Adults 
-event type:  
-Job Readiness Clinic, Computer Class
-Registration Required
-Must register three weekdays before the test date
-Maximum number of test-takers: 10
-
-Certiport’s Compass Cloud Remote Certification Service
- - Professional Communications Certification Exams
-Saturday, October 24: 10:30am - 12:00pm
- Martin Luther King Jr. Memorial Library - Central Library
-Age group:  
- Adults 
-event type:  
-Job Readiness Clinic, Computer Class
-Registration Required
-Must register three weekdays before the test date
-Maximum number of test-takers: 10
-
-Certiport’s Compass Cloud Remote Certification Service
- - IC3-GS6 Level Three Certification Exams
-Saturday, October 24: 10:30am - 12:00pm
- Martin Luther King Jr. Memorial Library - Central Library
-Age group:  
- Adults 
-event type:  
-Job Readiness Clinic, Computer Class
-Registration Required
-Must register three weekdays before the test date
-Maximum number of test-takers: 10
-
-Yoga With NZINGA
- - Chair Yoga for Seniors 
-Saturday, October 24: 10:45am - 1:00pm
- Francis A. Gregory Neighborhood Library - 
-Meeting Room 1 (11-50 Person Capacity)
-Age group:  
- Seniors 
- Adults 
- 5 - 12 Years Old 
- 13 - 19 Years Old (Teens) 
-event type:  
-Health
-Join Instructor Nzinga for rejuvenating Kemetic Yoga classes.
-Android Basics
-Saturday, October 24: 11:00am - 12:30pm
- Martin Luther King Jr. Memorial Library - Central Library - 
-202-O Computer Lab (16 Person Capacity)
-Age group:  
- Seniors 
- Adults 
-event type:  
-Computer Class
-Seats are limited to 16 participants and will be filled on a first-come, first-served basis. Please arrive a half-hour early to sign in for a seat at one of the 16 workstations.
-All-ages Lego Club
- - Lego lovers unite! Build your own fun brick by brick!
-Saturday, October 24: 11:00am - 2:00pm
- Bellevue (William O. Lockridge) Neighborhood Library - 
-Conference Room A (6-12 Person Capacity),Conference Room B (6-12 Person Capacity)
-Age group:  
- Seniors 
- Birth - 5 
- Adults 
- 5 - 12 Years Old 
- 13 - 19 Years Old (Teens) 
-event type:  
-Makers & DIY Program, Family Program, Arts & Crafts
-Find your Lego tribe at the Bellevue Neighborhood Library. You bring the inspiration! We'll bring the bricks! See what Lego magic we can make together!
-Friends of Tenley Library Book Sale
-Saturday, October 24: 1:30pm - 4:30pm
+AGE GROUP:   SENIORS  ADULTS  13 - 19 YEARS OLD (TEENS)
+EVENT TYPE:  STEM (SCIENCE, TECHNOLOGY, ENGINEERING & MATH), MAKERS & DIY PROGRAM, ARTS & CRAFTS
+Reserve a sewing machine for two hours to work on your own projects.
+Register
+Cricut Reservation - Use the Cricut at the SOW STEAM Lab
+Sunday, October 25: 1:30pm - 3:30pm
+ Southwest Neighborhood Library
+AGE GROUP:   SENIORS  ADULTS  13 - 19 YEARS OLD (TEENS)
+EVENT TYPE:  STEM (SCIENCE, TECHNOLOGY, ENGINEERING & MATH), MAKERS & DIY PROGRAM, ARTS & CRAFTS
+Reserve a Cricut for two hours to work on your own projects.
+Register
+Craftopia: Monster Madness
+Sunday, October 25: 2:00pm - 3:30pm
  Tenley-Friendship Neighborhood Library
-Age group:  
- Seniors 
- Adults 
-event type:  
-Friends of the Library
-Join the Friends of Tenley Library to shop a range of donated titles with proceeds supporting the library.
-Typing Practice
- - Improve Your Typing Skills 
-Saturday, October 24: 1:30pm - 3:00pm
- Martin Luther King Jr. Memorial Library - Central Library - 
-202-O Computer Lab (16 Person Capacity)
-Age group:  
- Seniors 
- Adults 
-event type:  
-Computer Class
-​In this 1.5-hour session, you will engage in self-paced, practice tutorials and custom lessons to improve your typing and keyboarding skills. 
-Football, Facts, and Feelings: Coffee Chat 
- - Football (College and NFL)
-Saturday, October 24: 2:00pm - 3:30pm
- Shepherd Park (Juanita E. Thornton) Neighborhood Library
-Age group:  
- Seniors 
- Adults 
-event type:  
-Conversation Circle
-A quick, friendly coffee meet-up to chat about college and NFL football.
-Georgetown Library Chess Club
-Saturday, October 24: 2:00pm - 3:30pm
- Georgetown Neighborhood Library
-Age group:  
- Seniors 
- Birth - 5 
- Adults 
- 5 - 12 Years Old 
- 13 - 19 Years Old (Teens) 
-event type:  
-Chess Club
-All ages and skill levels are welcome!
-Bellevue Saturday Cinema: Horror
-Saturday, October 24: 3:00pm - 5:00pm
- Bellevue (William O. Lockridge) Neighborhood Library - 
-Meeting Room (25-100 Person Capacity)
-Age group:  
- Adults 
-event type:  
-Film
-October we are showing horror flicks to get in the Halloween spirit. 
-Woodridge Still Life Drawing Group  
- - Still Life Drawing Sessions  
-Saturday, October 24: 3:00pm - 5:00pm
- Woodridge Neighborhood Library - 
-Meeting Room 1 (10-80 Person Capacity)
-Age group:  
- Seniors 
- Adults 
- 13 - 19 Years Old (Teens) 
-event type:  
-Arts & Crafts, Age-Friendly DC
-Practice drawing with friends and neighbors in a relaxing, creative, open environment.  
-close
-Location
-View events at all branches   
- Anacostia Neighborhood Library
- Bellevue (William O. Lockridge) Neighborhood Library
- Benning (Dorothy I. Height) Neighborhood Library
- Capitol View Neighborhood Library
- Chevy Chase Neighborhood Library
- Cleveland Park Neighborhood Library
- Deanwood Neighborhood Library
- Francis A. Gregory Neighborhood Library
- Georgetown Neighborhood Library
- Lamond-Riggs/Lillian J. Huff Neighborhood Library
- Martin Luther King Jr. Memorial Library - Central Library
- Mt. Pleasant Neighborhood Library
+AGE GROUP:   BIRTH - 5  5 - 12 YEARS OLD
+EVENT TYPE:  HALLOWEEN, FAMILY PROGRAM, ARTS & CRAFTS
+Create a paper roll monster. This is a drop-in craft. While supplies last.
+Northeast Library's Fall Garden Concert Series - Featuring Trio Nuevo
+Sunday, October 25: 2:00pm - 3:30pm
  Northeast Neighborhood Library
- Northwest One Neighborhood Library
- Palisades Neighborhood Library
- Parklands-Turner Neighborhood Library
- Petworth Neighborhood Library
- Rosedale Neighborhood Library
- Shaw (Watha T. Daniel) Neighborhood Library
- Shepherd Park (Juanita E. Thornton) Neighborhood Library
- Southeast Neighborhood Library
- Southwest Neighborhood Library
- Takoma Park Neighborhood Library
- Tenley-Friendship Neighborhood Library
- Virtual Program
+AGE GROUP:   ADULTS
+EVENT TYPE:  MUSICAL PERFORMANCE, EDUCATIONAL PROGRAM
+Music Builds Community
+Fall Fun Day!
+Sunday, October 25: 2:30pm - 5:00pm
  West End Neighborhood Library
- Woodridge Neighborhood Library
-close
-Age group
-View all age groups   
- Birth - 5
- 5 - 12 Years Old
- 13 - 19 Years Old (Teens)
- Adults
- Seniors
-close
-event type
-View all event types   
- 2020: Census
- A Right to the City
- Age-Friendly DC
- America 250
- American Sign Language (ASL) Class
- Arts & Crafts
- Asian/Pacific Islander Month
- Author Talk
- Back to School
- Banned Books Week
- Beyond the Book
- Black History Month
- Black Music Month
- Book Club
- Center for Accessibility
- Chess Club
- Civic Engagement
- College Information
- Computer Class
- Conversation Circle
- DC Reads
- Disability Pride Month
- Discover Summer
- Easter
- Educational Program
- El Dia de los Ninos
- Emancipation Day
- ESL / Bilingual Programs
- Exhibit
- Family Program
- Film
- Friends of the Library
- Gaming
- Halloween
- Health
- Hispanic Heritage Month
- Jazz Appreciation Month
- Job Readiness Clinic
- Juneteenth
- Kids Euro Festival
- Know Your Neighborhood
- Know Your Power
- Lecture
- Legal Clinic
- LGBTQ Pride
- Library Card Sign-Up Month
- Maker Month
- Makers & DIY Program
- MLK Week
- Musical Performance
- NaNoWriMo (National Novel Writing Month)
- National Bike Month
- National Library Week
- Native American Heritage Month
- Outreach
- Personal Archiving & Digitization
- Poetry Month
- Read Across America
- Science in the Summer
- Short Story Discussion Group
- Special Collections
- Spring Break
- STEM (Science, Technology, Engineering & Math)
- Story Time
- The Labs at DC Public Library
- Winter Challenge
- Women's History Month
- Writing
+AGE GROUP:   SENIORS  BIRTH - 5  ADULTS  5 - 12 YEARS OLD  13 - 19 YEARS OLD (TEENS)
+EVENT TYPE:  OUTREACH, FAMILY PROGRAM
+@ Mitchell Park
+Not-So-Lazy-Sunday Book Club - Non-fiction Reading group
+Sunday, October 25: 3:00pm - 4:30pm
+ Martin Luther King Jr. Memorial Library - Central Library - 401-D Conference Room (6-46 Person Capacity)
+AGE GROUP:   ADULTS
+EVENT TYPE:  BOOK CLUB
+Join us for a friendly book discussion
+Register
+Georgetown Library Sunday Book Club - A monthly book club
+Sunday, October 25: 3:00pm - 4:35pm
+ Georgetown Neighborhood Library
+AGE GROUP:   ADULTS
+EVENT TYPE:  BOOK CLUB
+In October we'll discuss the novel Orbital by Samantha Harvey
 ﻿
 Find & Borrow
 Research & Learn
@@ -591,20 +130,1140 @@ Policies
 Library News
 Careers
 Get Involved
-Facebook
-Twitter
-Instagram
-LinkedIn
-YouTube
-Pinterest
-Podcasts
+      
 Accessibility
 Terms & Conditions
 Privacy & Security
 Document finder
-Privacy and cookie policy
- | 
-Accessibility
- | 
-Communico
+
+Privacy and cookie policy | Accessibility | Communico
+
 Connected content from Communico. © 2026.
+
+----
+
+Skip to main content
+TRANSLATE
+GET A CARD
+MY ACCOUNT
+SEARCH
+
+Find & Borrow
+Research & Learn
+Attend an Event
+Reserve a Room
+Plan a Visit
+
+	
+
+For general questions about reservations or event details, please contact the DC Public Library location you are planning to visit.
+
+For those in need of disability services related to event registration or room reservation, please reach out to the Center for Accessibility at 202-727-2142 or DCPLaccess@dc.gov.
+
+	
+Search events
+Filter by: LocationAge GroupEvent Type
+Today
+Calendar
+Date range
+From
+To
+Today
+Tomorrow
+This week
+Next week
+This month
+Next month
+ Create Brochure
+ RSS
+ Add To Calendar
+Events
+November 1 2026 - November 7 2026
+STEM2Go - Anacostia Library Monthly Take Home S.T.E.M. Activity
+Sunday, November 01: All Day
+ Anacostia Neighborhood Library
+AGE GROUP:   5 - 12 YEARS OLD  13 - 19 YEARS OLD (TEENS)
+EVENT TYPE:  STEM (SCIENCE, TECHNOLOGY, ENGINEERING & MATH)
+STEM2Go is Anacostia's Library Monthly Take Home S.T.E.M. program where participants can complete guided science projects at home.
+Pokemon Scavenger Hunt
+Sunday, November 01: All Day
+ Southwest Neighborhood Library
+AGE GROUP:   BIRTH - 5  5 - 12 YEARS OLD
+EVENT TYPE:  GAMING, FAMILY PROGRAM
+Celebrate 30 Years of Pokemon!
+Pokémon Scavenger Hunt
+Sunday, November 01: All Day
+ Anacostia Neighborhood Library
+AGE GROUP:   SENIORS  BIRTH - 5  ADULTS  5 - 12 YEARS OLD  13 - 19 YEARS OLD (TEENS)
+EVENT TYPE:  GAMING, FAMILY PROGRAM
+Celebrate Pokémon's 30th Anniversary with a DC-themed Pokémon Scavenger Hunt!
+Shepherd Park Coat Drive - Friends of Shepherd Park Coat Drive
+Sunday, November 01: All Day
+ Shepherd Park (Juanita E. Thornton) Neighborhood Library
+AGE GROUP:   SENIORS  BIRTH - 5  ADULTS  5 - 12 YEARS OLD  13 - 19 YEARS OLD (TEENS)
+EVENT TYPE:  OUTREACH
+Collect new or gently used coats from the public to distribute to those in need, especially during the colder months.
+Page Turners & Touchdowns
+Sunday, November 01: 1:00pm - 4:30pm
+ Francis A. Gregory Neighborhood Library
+AGE GROUP:   ADULTS  13 - 19 YEARS OLD (TEENS)
+EVENT TYPE:  FAMILY PROGRAM
+The Francis Gregory library will be hosting live football watch parties every third Sunday starting September 20th 2026 from 1-4:30pm
+Washington Commanders Football - NFL Football at Bellevue Library
+Sunday, November 01: 1:00pm - 4:00pm
+ Bellevue (William O. Lockridge) Neighborhood Library - Meeting Room (25-100 Person Capacity)
+AGE GROUP:   SENIORS  BIRTH - 5  ADULTS  5 - 12 YEARS OLD  13 - 19 YEARS OLD (TEENS)
+EVENT TYPE:  OUTREACH, KNOW YOUR NEIGHBORHOOD, FAMILY PROGRAM
+Come enjoy watching the Washington Commanders Football Team play.
+CPR / AED Certification - FGR CPR Class
+Sunday, November 01: 1:00pm - 4:00pm
+ Francis A. Gregory Neighborhood Library
+AGE GROUP:   SENIORS  ADULTS
+EVENT TYPE:  HEALTH
+CPR / AED Certification provides participants with the essential skills and confidence needed to respond effectively in emergency situations.
+Noir-vember Matinees
+Sunday, November 01: 1:15pm - 3:00pm
+ Cleveland Park Neighborhood Library - Lower-Level Meeting Room (25-105 Person Capacity)
+AGE GROUP:   ADULTS
+EVENT TYPE:  FILM
+Celebrate film noir at the library this November with free screenings at 1:15 pm on the 1st, 15th, and 29th!
+Sewing Machine Reservation - Use the sewing machine at the SOW STEAM Lab
+Sunday, November 01: 1:30pm - 3:30pm
+ Southwest Neighborhood Library
+AGE GROUP:   SENIORS  ADULTS  13 - 19 YEARS OLD (TEENS)
+EVENT TYPE:  STEM (SCIENCE, TECHNOLOGY, ENGINEERING & MATH), MAKERS & DIY PROGRAM, ARTS & CRAFTS
+Reserve a sewing machine for two hours to work on your own projects.
+Register
+Cricut Reservation - Use the Cricut at the SOW STEAM Lab
+Sunday, November 01: 1:30pm - 3:30pm
+ Southwest Neighborhood Library
+AGE GROUP:   SENIORS  ADULTS  13 - 19 YEARS OLD (TEENS)
+EVENT TYPE:  STEM (SCIENCE, TECHNOLOGY, ENGINEERING & MATH), MAKERS & DIY PROGRAM, ARTS & CRAFTS
+Reserve a Cricut for two hours to work on your own projects.
+Register
+League of Women Voters Presentation
+Sunday, November 01: 2:00pm - 4:00pm
+ Chevy Chase Neighborhood Library - Meeting Room 1 (4-60 Person Capacity)
+AGE GROUP:   SENIORS  ADULTS
+EVENT TYPE:  LECTURE, CIVIC ENGAGEMENT
+Presentation about the history of the League of Women Voters and the work they do in D.C.
+Pokemon Scavenger Hunt
+Monday, November 02: All Day
+ Southwest Neighborhood Library
+AGE GROUP:   BIRTH - 5  5 - 12 YEARS OLD
+EVENT TYPE:  GAMING, FAMILY PROGRAM
+Celebrate 30 Years of Pokemon!
+Pokémon Scavenger Hunt
+Monday, November 02: All Day
+ Anacostia Neighborhood Library
+AGE GROUP:   SENIORS  BIRTH - 5  ADULTS  5 - 12 YEARS OLD  13 - 19 YEARS OLD (TEENS)
+EVENT TYPE:  GAMING, FAMILY PROGRAM
+Celebrate Pokémon's 30th Anniversary with a DC-themed Pokémon Scavenger Hunt!
+Shepherd Park Coat Drive - Friends of Shepherd Park Coat Drive
+Monday, November 02: All Day
+ Shepherd Park (Juanita E. Thornton) Neighborhood Library
+AGE GROUP:   SENIORS  BIRTH - 5  ADULTS  5 - 12 YEARS OLD  13 - 19 YEARS OLD (TEENS)
+EVENT TYPE:  OUTREACH
+Collect new or gently used coats from the public to distribute to those in need, especially during the colder months.
+We Care
+Monday, November 02: 9:00am - 5:45pm
+ Anacostia Neighborhood Library - Study Room 1 (2 Person Max Capacity)
+AGE GROUP:   SENIORS  ADULTS
+EVENT TYPE:  KNOW YOUR NEIGHBORHOOD
+Meet with a Peer Outreach Specialist
+Baby Lap Time
+Monday, November 02: 10:00am - 10:30am
+ Chevy Chase Neighborhood Library - Meeting Room 1 (4-60 Person Capacity)
+AGE GROUP:   BIRTH - 5
+EVENT TYPE:  STORY TIME
+These 30-minute story times are specially designed for infants from birth until they begin walking, along with their grown-ups!
+Zumba Gold - Led by Ruth
+Monday, November 02: 10:00am - 11:00am
+ Tenley-Friendship Neighborhood Library - Meeting Room 1 (20-100 Person Capacity)
+AGE GROUP:   SENIORS
+EVENT TYPE:  HEALTH, AGE-FRIENDLY DC
+Get healthy and feel great with Zumba Gold!
+Building Blocks
+Monday, November 02: 10:30am - 11:30am
+ Southwest Neighborhood Library
+AGE GROUP:   BIRTH - 5
+EVENT TYPE:  GAMING
+Enjoy constructive play!
+Baby and Toddler Story Time
+Monday, November 02: 10:30am - 11:00am
+ Capitol View Neighborhood Library
+AGE GROUP:   BIRTH - 5
+EVENT TYPE:  STORY TIME
+Books, songs, rhymes and finger play!
+Baby Lap Time - Story Time for the Youngest Listeners
+Monday, November 02: 11:00am - 11:45am
+ Woodridge Neighborhood Library - Meeting Room 1 (10-80 Person Capacity)
+AGE GROUP:   BIRTH - 5
+EVENT TYPE:  STORY TIME
+Literacy, Song, Movement, & Fun!
+ASL Story Time
+Monday, November 02: 11:00am - 11:30am
+ Martin Luther King Jr. Memorial Library - Central Library
+AGE GROUP:   BIRTH - 5
+EVENT TYPE:  STORY TIME, CENTER FOR ACCESSIBILITY
+Join us in the Children's Room for American Sign Language (ASL) Story Time!
+Toddler Explorations
+Monday, November 02: 11:00am - 12:00pm
+ Northeast Neighborhood Library - Meeting Room 1 (15-100 Person Capacity)
+AGE GROUP:   BIRTH - 5
+EVENT TYPE:  FAMILY PROGRAM
+Come and explore and play!
+Baby Lap Time - Story Time for the Youngest Listeners
+Monday, November 02: 11:00am - 12:00pm
+ Woodridge Neighborhood Library
+AGE GROUP:   BIRTH - 5
+EVENT TYPE:  STORY TIME
+Literacy, Song, Movement & Fun!
+Computer Basics & NorthStar
+Monday, November 02: 11:30am - 1:30pm
+ Martin Luther King Jr. Memorial Library - Central Library - 202-O Computer Lab (16 Person Capacity)
+AGE GROUP:   SENIORS  ADULTS
+EVENT TYPE:  COMPUTER CLASS
+In this 2-hour class, you will learn the parts and functions of the computer, the mouse, and the keyboard, as well as the features of the Desktop.
+Breaking up with Big Tech - A club to help you through it.
+Monday, November 02: 12:00pm - 1:00pm
+ Virtual
+AGE GROUP:   SENIORS  ADULTS  13 - 19 YEARS OLD (TEENS)
+EVENT TYPE:  STEM (SCIENCE, TECHNOLOGY, ENGINEERING & MATH), COMPUTER CLASS
+Concerned about how much of your life runs through a handful of tech companies, but not sure what to actually *do* about it? Let's figure it out together!
+Join The Wait List
+Windows 11 & NorthStar
+Monday, November 02: 2:30pm - 4:30pm
+ Martin Luther King Jr. Memorial Library - Central Library - 202-O Computer Lab (16 Person Capacity)
+AGE GROUP:   SENIORS  ADULTS
+EVENT TYPE:  COMPUTER CLASS
+In this 2-hour class, you will explore and navigate the Windows 11 operating system functions & features.
+Magnetic Tile Monday - Build and Play in the Library
+Monday, November 02: 3:00pm - 4:30pm
+ Northwest One Neighborhood Library
+AGE GROUP:   BIRTH - 5  5 - 12 YEARS OLD
+EVENT TYPE:  STEM (SCIENCE, TECHNOLOGY, ENGINEERING & MATH), GAMING, FAMILY PROGRAM
+Join us for Magnetic Tile Mondays! Kids ages 0–12 can drop in to build and create with Magna‑Tiles during open play time.
+Activist night Watch N Learn - ACTIVIST FILMS
+Monday, November 02: 3:00pm - 4:30pm
+ Bellevue (William O. Lockridge) Neighborhood Library - Meeting Room (25-100 Person Capacity)
+AGE GROUP:   SENIORS  ADULTS
+EVENT TYPE:  EDUCATIONAL PROGRAM
+Activist Night: Watch N Learn As we watch a movie/documentaries Let us remember them by watching and learning the different methods that they used to assure the validity of their message.
+Maker Lab
+Monday, November 02: 3:30pm - 4:30pm
+ Parklands-Turner Neighborhood Library
+AGE GROUP:   5 - 12 YEARS OLD
+EVENT TYPE:  MAKERS & DIY PROGRAM, FAMILY PROGRAM, ARTS & CRAFTS
+Discover, create, and play!
+Explore The World Through A Microscope
+Monday, November 02: 3:30pm - 4:30pm
+ Southwest Neighborhood Library - Conference Room 2 (8-20 Person Capacity)
+AGE GROUP:   5 - 12 YEARS OLD  13 - 19 YEARS OLD (TEENS)
+EVENT TYPE:  STEM (SCIENCE, TECHNOLOGY, ENGINEERING & MATH), EDUCATIONAL PROGRAM, AGE-FRIENDLY DC
+We will explore different sizes and shapes through the world of a MICROSCOPE for this fun 1 hour program event. 13 - 19 Years Old (Teens) | 5 - 12 Years Old (Kids/Tweens) Adults are all welcome.
+Anime Club
+Monday, November 02: 4:00pm - 5:00pm
+ Anacostia Neighborhood Library - Meeting Room 2 (8-16 Person Capacity)
+AGE GROUP:   ADULTS
+EVENT TYPE:  FILM
+Watch anime, Talk about manga & anime, Color some anime coloring sheets!
+Chess Club for Children - For children in grades 2-6.
+Monday, November 02: 4:00pm - 5:00pm
+ Cleveland Park Neighborhood Library - Lower-Level Meeting Room (25-105 Person Capacity)
+AGE GROUP:   5 - 12 YEARS OLD
+EVENT TYPE:  CHESS CLUB
+Learn to play chess or improve your skills with a chess instructor from the U.S. Chess Center.
+Register
+Stitch and Create - Fiber Art
+Monday, November 02: 4:00pm - 5:00pm
+ Parklands-Turner Neighborhood Library
+AGE GROUP:   SENIORS  ADULTS
+EVENT TYPE:  ARTS & CRAFTS
+Stitch and create In parklands-turner space.
+MLK Teen/Tween Book Club - Pumpkin Heads by Rainbow Rowell and Faith Erin Hicks
+Monday, November 02: 4:00pm - 5:00pm
+ Martin Luther King Jr. Memorial Library - Central Library
+AGE GROUP:   13 - 19 YEARS OLD (TEENS)
+EVENT TYPE:  HALLOWEEN, BOOK CLUB
+Graphic Novel Book Club
+Chess Club for Adults - For adults of all ages.
+Monday, November 02: 5:30pm - 6:30pm
+ Cleveland Park Neighborhood Library - Lower-Level Meeting Room (25-105 Person Capacity)
+AGE GROUP:   SENIORS  ADULTS
+EVENT TYPE:  CHESS CLUB
+Learn to play chess or improve your skills with a chess instructor from the U.S. Chess Center.
+Register
+Le Cercle Francophone de Georgetown - French Conversations and Culture at Georgetown Library
+Monday, November 02: 5:30pm - 6:30pm
+ Georgetown Neighborhood Library
+AGE GROUP:   ADULTS
+EVENT TYPE:  EDUCATIONAL PROGRAM, CONVERSATION CIRCLE
+These classes are designed for French learners at an intermediate to advanced level: students who already have a sound knowledge of French who want to expand their ability and speak with greater ease.
+Register
+Mahjong Mondays 麻将星期一 - at MLK Library
+Monday, November 02: 6:00pm - 8:00pm
+ Martin Luther King Jr. Memorial Library - Central Library - Great Hall
+AGE GROUP:   SENIORS  ADULTS  13 - 19 YEARS OLD (TEENS)
+EVENT TYPE:  GAMING
+Come play American, Hong Kong, or Japanese-style mahjong! Note: there are no instructors for this night. 快来体验美式或港式麻将吧 ! 请注意：当晚没有教练指导。
+Virtual ESL Conversation Circles
+Monday, November 02: 6:00pm - 8:00pm
+ Martin Luther King Jr. Memorial Library - Central Library
+AGE GROUP:   ADULTS
+EVENT TYPE:  ESL / BILINGUAL PROGRAMS
+Practice your English-speaking skills by joining the weekly virtual ESL Conversation Circles.
+Yarn Lovers
+Monday, November 02: 6:30pm - 7:30pm
+ Northeast Neighborhood Library - Meeting Room 2 - Mezzanine (5-25 Person Capacity)
+AGE GROUP:   SENIORS  ADULTS  13 - 19 YEARS OLD (TEENS)
+EVENT TYPE:  ARTS & CRAFTS
+You bring your needles, yarn, and mug. We'll supply the space, the tea, and the vibes! 
+Tutoring with Northstar
+Monday, November 02: 6:30pm - 7:45pm
+ Mt. Pleasant Neighborhood Library - Meeting Room 1 (10-100 Person Capacity)
+AGE GROUP:   5 - 12 YEARS OLD  13 - 19 YEARS OLD (TEENS)
+EVENT TYPE:  EDUCATIONAL PROGRAM, BACK TO SCHOOL
+Afterschool Tutoring is Monday and Wednesday from 6:30-7:30 pm
+Linda Leaks and the DC Limited Equity Cooperative Movement - A Teach-in
+Monday, November 02: 7:00pm - 8:30pm
+ Martin Luther King Jr. Memorial Library - Central Library - 401-A Conference Room (20-50 Person Capacity)
+AGE GROUP:   SENIORS  ADULTS  13 - 19 YEARS OLD (TEENS)
+EVENT TYPE:  SPECIAL COLLECTIONS, EDUCATIONAL PROGRAM, CIVIC ENGAGEMENT
+Learn about the ongoing movement led by Black women fighting for the right to live, gather, and belong in Washington, DC.
+Register
+A Puzzling Swap!
+Tuesday, November 03: All Day
+ Takoma Park Neighborhood Library
+AGE GROUP:   SENIORS  ADULTS
+EVENT TYPE:  GAMING
+Take a puzzle, leave a puzzle!
+Pokemon Scavenger Hunt
+Tuesday, November 03: All Day
+ Southwest Neighborhood Library
+AGE GROUP:   BIRTH - 5  5 - 12 YEARS OLD
+EVENT TYPE:  GAMING, FAMILY PROGRAM
+Celebrate 30 Years of Pokemon!
+Pokémon Scavenger Hunt
+Tuesday, November 03: All Day
+ Anacostia Neighborhood Library
+AGE GROUP:   SENIORS  BIRTH - 5  ADULTS  5 - 12 YEARS OLD  13 - 19 YEARS OLD (TEENS)
+EVENT TYPE:  GAMING, FAMILY PROGRAM
+Celebrate Pokémon's 30th Anniversary with a DC-themed Pokémon Scavenger Hunt!
+Shepherd Park Coat Drive - Friends of Shepherd Park Coat Drive
+Tuesday, November 03: All Day
+ Shepherd Park (Juanita E. Thornton) Neighborhood Library
+AGE GROUP:   SENIORS  BIRTH - 5  ADULTS  5 - 12 YEARS OLD  13 - 19 YEARS OLD (TEENS)
+EVENT TYPE:  OUTREACH
+Collect new or gently used coats from the public to distribute to those in need, especially during the colder months.
+Baby & Toddler Story Time
+Tuesday, November 03: 9:15am - 9:45am
+ Northeast Neighborhood Library - Meeting Room 1 (15-100 Person Capacity)
+AGE GROUP:   BIRTH - 5
+EVENT TYPE:  STORY TIME
+These 20-30 minute story times are full of books, songs, rhymes and fingerplays for children from birth to three years old.
+Tech Time
+Tuesday, November 03: 10:00am - 12:00pm
+ Takoma Park Neighborhood Library
+AGE GROUP:   SENIORS  ADULTS
+EVENT TYPE:  COMPUTER CLASS
+Need extra help with your phone or tablet? Need help with a job application? Need extra help with a computer? Come to Tech time where you can get extra help from a librarian.
+Toddler Explorations
+Tuesday, November 03: 10:00am - 11:00am
+ Southeast Neighborhood Library
+AGE GROUP:   BIRTH - 5
+EVENT TYPE:  FAMILY PROGRAM
+Join on the Children's Floor for a fun toddler play time!
+Toddler Story Time
+Tuesday, November 03: 10:00am - 11:00am
+ Woodridge Library - Children's Blacony
+AGE GROUP:   BIRTH - 5
+EVENT TYPE:  STORY TIME
+Let's Sing, Let's Dance, Let's Read and We are sure to Learn From each other. Our unique style of story time will sure get our super-readers enthusiastic about learning.
+Family Story Time at Goethe-Institut - for ages 0-5
+Tuesday, November 03: 10:30am - 11:00am
+ Shaw (Watha T. Daniel) Neighborhood Library
+AGE GROUP:   BIRTH - 5
+EVENT TYPE:  STORY TIME
+Space is limited; admission is first-come, first-served.
+Lego Hour - Join us to play with Duplos in the Children's Room!
+Tuesday, November 03: 10:30am - 11:30am
+ Cleveland Park Neighborhood Library
+AGE GROUP:   BIRTH - 5
+EVENT TYPE:  FAMILY PROGRAM
+Join us to play with Duplos in the Children's Room! If you have any questions or would like to request an accommodation, please contact dcplaccess@dc.gov at least one week before the program.
+PreSchool Story Time
+Tuesday, November 03: 10:30am - 11:00am
+ Parklands-Turner Neighborhood Library
+AGE GROUP:   BIRTH - 5  5 - 12 YEARS OLD
+EVENT TYPE:  STORY TIME, FAMILY PROGRAM
+Fall Session 2026
+Family Story Time
+Tuesday, November 03: 10:30am - 11:00am
+ Southwest Neighborhood Library - Large Meeting Room (20-75 Person Capacity)
+AGE GROUP:   BIRTH - 5
+EVENT TYPE:  STORY TIME
+Family Story Time is a great way to further your child’s lifelong love of reading and learning!
+Story Time Tuesday
+Tuesday, November 03: 10:30am - 11:15am
+ Benning (Dorothy I. Height) Neighborhood Library
+AGE GROUP:   BIRTH - 5
+EVENT TYPE:  STORY TIME, FAMILY PROGRAM
+Story Time Tuesday Fun
+Baby Lap Time - A Program for Pre-walkers!
+Tuesday, November 03: 10:30am - 12:00pm
+ Shepherd Park (Juanita E. Thornton) Neighborhood Library - Meeting Room 2 (10-65 Person Capacity)
+AGE GROUP:   BIRTH - 5
+EVENT TYPE:  STORY TIME
+Come sing, talk and read with your pre-walking babies!
+Family Story Time - at Francis A. Gregory Neighborhood Library
+Tuesday, November 03: 10:30am - 11:00am
+ Francis A. Gregory Neighborhood Library
+AGE GROUP:   BIRTH - 5  5 - 12 YEARS OLD
+EVENT TYPE:  FAMILY PROGRAM, DC READS
+Story time program for children ages 0 to 12. Held in the reading area on the 2nd floor of the Francis Gregory Neighborhood Library at 10:30 on Tuesdays and Wednesdays.
+Family Story Time
+Tuesday, November 03: 10:30am - 11:00am
+ Anacostia Neighborhood Library
+AGE GROUP:   BIRTH - 5
+EVENT TYPE:  STORY TIME, FAMILY PROGRAM
+Enjoy a story time for the whole family, with a playtime afterwards!
+Preschool Story Time
+Tuesday, November 03: 10:30am - 11:00am
+ Deanwood Neighborhood Library
+AGE GROUP:   BIRTH - 5
+EVENT TYPE:  STORY TIME
+Stories and songs for ages 3-5
+Strong Start Play Group
+Tuesday, November 03: 11:00am - 12:00pm
+ Northwest One Neighborhood Library
+AGE GROUP:   BIRTH - 5
+EVENT TYPE:  STORY TIME
+Join us as we build early literacy and fine motor skills sponsored by OSSE.
+Baby and Toddler Story Time
+Tuesday, November 03: 11:00am - 11:30am
+ Palisades Neighborhood Library - Meeting Room 1 (20-80 Person Capacity)
+AGE GROUP:   BIRTH - 5
+EVENT TYPE:  STORY TIME
+These 20-30 minute story times are full of books, songs, rhymes and fingerplays for children from birth to three years old.
+Toddler Story Time - For children aged 18-36 month
+Tuesday, November 03: 11:00am - 11:30am
+ Martin Luther King Jr. Memorial Library - Central Library - Children's Amphitheatre (5-75 Person Capacity)
+AGE GROUP:   BIRTH - 5
+EVENT TYPE:  STORY TIME, EDUCATIONAL PROGRAM
+Move, shake, play, and have fun! Space is limited; admission tickets are first-come, first-served, starting when the MLK Library opens on the day of the event.
+Tech Tuesdays - (Device Help)
+Tuesday, November 03: 12:00pm - 1:00pm
+ Northwest One Neighborhood Library
+AGE GROUP:   SENIORS  ADULTS
+EVENT TYPE:  COMPUTER CLASS
+Learn How To Use Your Devices
+Coffee and Conversation: Senior Edition
+Tuesday, November 03: 12:00pm - 1:00pm
+ Deanwood Neighborhood Library
+AGE GROUP:   SENIORS
+EVENT TYPE:  LECTURE, CONVERSATION CIRCLE, CIVIC ENGAGEMENT, AGE-FRIENDLY DC
+Join your neighbors to discuss topics relevant to your interests as a senior
+Coffee, Cinema, & Conversation - Coffee, Cinema, & Conversation
+Tuesday, November 03: 12:00pm - 2:00pm
+ Southwest Neighborhood Library
+AGE GROUP:   SENIORS  ADULTS
+EVENT TYPE:  FILM, CONVERSATION CIRCLE
+Join a friendly conversation circle prompted by a film. Chat & connect with others. Movies are not listed.
+Coffee, Cinema & Conversation
+Tuesday, November 03: 12:00pm - 2:00pm
+ Southwest Neighborhood Library - Large Meeting Room (20-75 Person Capacity)
+AGE GROUP:   SENIORS  ADULTS
+EVENT TYPE:  FILM, FAMILY PROGRAM, CONVERSATION CIRCLE, AGE-FRIENDLY DC
+Coffee, a short film and a conversation.
+Baby Lap Time - For pre-walkers!
+Tuesday, November 03: 1:00pm - 1:30pm
+ Mt. Pleasant Neighborhood Library
+AGE GROUP:   BIRTH - 5
+EVENT TYPE:  STORY TIME
+Songs, bounces, scarves, shaker eggs, and parachutes every Tuesday
+Tech Help Tuesdays
+Tuesday, November 03: 2:00pm - 3:00pm
+ Francis A. Gregory Neighborhood Library - Conference Room 1 (3-10 Person Capacity)
+AGE GROUP:   SENIORS  ADULTS
+EVENT TYPE:  COMPUTER CLASS
+Need extra help with a computer, laptop, phone or tablet? Come to Tech Help Tuesdays where you can get extra help from library staff.
+Coffee & Conversation - A Conversation Circle
+Tuesday, November 03: 2:00pm - 3:00pm
+ Georgetown Neighborhood Library
+AGE GROUP:   SENIORS  ADULTS
+EVENT TYPE:  CONVERSATION CIRCLE
+Customers are invited to join a casual conversation with other library customers and individuals from the neighborhood. Coffee and Tea provided.
+Techy Tuesdays
+Tuesday, November 03: 2:30pm - 4:30pm
+ Martin Luther King Jr. Memorial Library - Central Library - 202-O Computer Lab (16 Person Capacity)
+AGE GROUP:   SENIORS  ADULTS
+EVENT TYPE:  COMPUTER CLASS
+In this 2-hour clinic, you will be able to learn how to use the functionality of your devices, including Chromebooks, cellphones, tablets, laptops, Kindles, etc.  Bring your own devices.
+Coffee & Conversation - A Conversation Circle
+Tuesday, November 03: 3:00pm - 4:00pm
+ Anacostia Neighborhood Library - Ora Glover Meeting Room (25-100 Person Capacity)
+AGE GROUP:   ADULTS
+EVENT TYPE:  CONVERSATION CIRCLE
+Customers are invited to join a casual conversation with other library customers and individuals from the neighborhood. Coffee and Tea provided.
+Lego Challenge! - Drop-In
+Tuesday, November 03: 3:30pm - 5:00pm
+ Georgetown Neighborhood Library
+AGE GROUP:   5 - 12 YEARS OLD
+EVENT TYPE:  GAMING, FAMILY PROGRAM
+Calling all builders! Join us for some Lego fun each Tuesday!   
+RESCHEDULED
+Braille and Assistive Technology Study Hall
+Tuesday, November 03: 3:30pm - 5:30pm
+NEW DATE Wednesday, November 04: 3:30pm - 5:30pm
+ Martin Luther King Jr. Memorial Library - Central Library
+AGE GROUP:   5 - 12 YEARS OLD  13 - 19 YEARS OLD (TEENS)
+EVENT TYPE:  EDUCATIONAL PROGRAM, CENTER FOR ACCESSIBILITY
+Low vision and blind students in grades K-12 who use braille and assistive technology such as JAWS, Fusion, and ZoomText are invited to join the Center for Accessibility for Study Hall!
+Teen Scene @ Tenley - A weekly program for teen patrons
+Tuesday, November 03: 3:45pm - 5:30pm
+ Tenley-Friendship Neighborhood Library - Meeting Room 1 (20-100 Person Capacity)
+AGE GROUP:   13 - 19 YEARS OLD (TEENS)
+EVENT TYPE:  GAMING, FAMILY PROGRAM, ARTS & CRAFTS
+A weekly program for teen patrons with various activities on a rotating basis.
+Tabletop Tuesday: Pokémon Club
+Tuesday, November 03: 4:00pm - 5:00pm
+ Southeast Neighborhood Library - Meeting Room (10-48 Person Capacity)
+AGE GROUP:   5 - 12 YEARS OLD  13 - 19 YEARS OLD (TEENS)
+EVENT TYPE:  GAMING
+It's gamer time!
+Tech 101 - with DC's Office of the Chief Technology Officer
+Tuesday, November 03: 4:00pm - 6:00pm
+ Lamond-Riggs/Lillian J. Huff Neighborhood Library - Conference Room (6-12 Person Capacity)
+AGE GROUP:   SENIORS  ADULTS
+EVENT TYPE:  COMPUTER CLASS
+Join us to learn basic tech skills and get your questions about technology answered.
+Sunrise on the Reaping: Teen Hunger Games Party
+Tuesday, November 03: 4:00pm - 6:00pm
+ Martin Luther King Jr. Memorial Library - Central Library
+AGE GROUP:   13 - 19 YEARS OLD (TEENS)
+EVENT TYPE:  KNOW YOUR POWER
+Celebrate the upcoming movie adaption of Sunrise on the Reaping with a Hunger Games themed party just for teens.
+Tuesday Crafternoon
+Tuesday, November 03: 4:00pm - 5:00pm
+ Martin Luther King Jr. Memorial Library - Central Library
+AGE GROUP:   5 - 12 YEARS OLD
+EVENT TYPE:  FAMILY PROGRAM, ARTS & CRAFTS
+Children ages 5-12 and their caregivers are invited to get crafty with us in the Children's Room.
+Brick Squad: Anacostia Adult Lego Club - Building Gratitude and Good Vibes
+Tuesday, November 03: 5:30pm - 6:30pm
+ Anacostia Neighborhood Library - Meeting Room 2 (8-16 Person Capacity)
+AGE GROUP:   ADULTS
+EVENT TYPE:  STEM (SCIENCE, TECHNOLOGY, ENGINEERING & MATH), MAKERS & DIY PROGRAM, ARTS & CRAFTS
+Join us for Anacostia’s Library Adult Lego Club. Building Mindfulness, Confidence, find focus and meeting new friends.
+PJ Story Time - Wear Your Favorite PJs and Bring a Stuffie Pal!
+Tuesday, November 03: 6:30pm - 7:00pm
+ Woodridge Neighborhood Library
+AGE GROUP:   5 - 12 YEARS OLD
+EVENT TYPE:  STORY TIME
+Families will enjoy a simple themed story time including song.
+Pokemon Scavenger Hunt
+Wednesday, November 04: All Day
+ Southwest Neighborhood Library
+AGE GROUP:   BIRTH - 5  5 - 12 YEARS OLD
+EVENT TYPE:  GAMING, FAMILY PROGRAM
+Celebrate 30 Years of Pokemon!
+Pokémon Scavenger Hunt
+Wednesday, November 04: All Day
+ Anacostia Neighborhood Library
+AGE GROUP:   SENIORS  BIRTH - 5  ADULTS  5 - 12 YEARS OLD  13 - 19 YEARS OLD (TEENS)
+EVENT TYPE:  GAMING, FAMILY PROGRAM
+Celebrate Pokémon's 30th Anniversary with a DC-themed Pokémon Scavenger Hunt!
+Shepherd Park Coat Drive - Friends of Shepherd Park Coat Drive
+Wednesday, November 04: All Day
+ Shepherd Park (Juanita E. Thornton) Neighborhood Library
+AGE GROUP:   SENIORS  BIRTH - 5  ADULTS  5 - 12 YEARS OLD  13 - 19 YEARS OLD (TEENS)
+EVENT TYPE:  OUTREACH
+Collect new or gently used coats from the public to distribute to those in need, especially during the colder months.
+Stitching Circle - Come knit, crochet, chat and relax at the Bellevue Library!
+Wednesday, November 04: 10:00am - 11:00am
+ Bellevue (William O. Lockridge) Neighborhood Library - Meeting Room (25-100 Person Capacity)
+AGE GROUP:   SENIORS  ADULTS
+EVENT TYPE:  CONVERSATION CIRCLE, ARTS & CRAFTS
+Bring your own materials/project for an hour of camaraderie and crafting! And snacks!
+Baby and Toddler Story Time
+Wednesday, November 04: 10:00am - 10:30am
+ Southeast Neighborhood Library
+AGE GROUP:   BIRTH - 5
+EVENT TYPE:  STORY TIME
+Join us on the Children's Floor for stories, songs, rhymes, and fingerplays!
+Family Story Time
+Wednesday, November 04: 10:00am - 10:30am
+ Tenley-Friendship Neighborhood Library
+AGE GROUP:   BIRTH - 5
+EVENT TYPE:  STORY TIME, FAMILY PROGRAM
+Fun for the entire family. Space is limited. Pick up tickets at the Children's Desk.
+Family Story Time
+Wednesday, November 04: 10:00am - 10:30am
+ Takoma Park Neighborhood Library - Meeting Room (1-25 Person Capacity)
+AGE GROUP:   BIRTH - 5
+EVENT TYPE:  STORY TIME
+Fun for the entire family, these 30-40 minute story times are packed full of books and activities designed to be enjoyed by all ages.
+Family Story Time
+Wednesday, November 04: 10:30am - 11:00am
+ Chevy Chase Neighborhood Library - Meeting Room 1 (4-60 Person Capacity)
+AGE GROUP:   BIRTH - 5
+EVENT TYPE:  STORY TIME
+Fun for the entire family, these story times are packed full of books and activities designed to be enjoyed by all ages. Ticket required, on a first come first serve basis.
+Family Story Time
+Wednesday, November 04: 10:30am - 11:00am
+ West End Neighborhood Library
+AGE GROUP:   BIRTH - 5
+EVENT TYPE:  STORY TIME, FAMILY PROGRAM
+Sing, Talk, Read, and Move!
+Gentle Yoga with Beth Lawrence - Yoga for adults of all ages
+Wednesday, November 04: 10:30am - 11:30am
+ Tenley-Friendship Neighborhood Library - Meeting Room 1 (20-100 Person Capacity)
+AGE GROUP:   SENIORS  ADULTS
+EVENT TYPE:  HEALTH
+A gentle yoga practice designed to allow participants to stretch and relax
+Baby and Toddler Playdate
+Wednesday, November 04: 10:30am - 11:15am
+ Benning (Dorothy I. Height) Neighborhood Library
+AGE GROUP:   BIRTH - 5
+EVENT TYPE:  FAMILY PROGRAM
+For children ages 0-24 months.
+Family Story Time - Let's sing, talk and read together!
+Wednesday, November 04: 10:30am - 12:00pm
+ Shepherd Park (Juanita E. Thornton) Neighborhood Library - Meeting Room 2 (10-65 Person Capacity)
+AGE GROUP:   BIRTH - 5
+EVENT TYPE:  STORY TIME
+Enjoy a story time for the whole family, with a playtime hour afterwards!
+Family Story Time - at Francis A. Gregory Neighborhood Library
+Wednesday, November 04: 10:30am - 11:00am
+ Francis A. Gregory Neighborhood Library - Meeting Room 1 (11-50 Person Capacity)
+AGE GROUP:   BIRTH - 5  5 - 12 YEARS OLD
+EVENT TYPE:  FAMILY PROGRAM, DC READS
+Story time program for children ages 0 to 12. Held in the reading area on the 2nd floor of the Francis Gregory Neighborhood Library at 10:30 on Tuesdays and Wednesdays.
+Family Story Time
+Wednesday, November 04: 10:45am - 11:15am
+ Tenley-Friendship Neighborhood Library
+AGE GROUP:   BIRTH - 5
+EVENT TYPE:  STORY TIME, FAMILY PROGRAM
+Fun for the entire family. Space is limited. Pick up tickets at the Children's Desk.
+Family Story Time
+Wednesday, November 04: 10:45am - 11:15am
+ Takoma Park Neighborhood Library - Meeting Room (1-25 Person Capacity)
+AGE GROUP:   BIRTH - 5
+EVENT TYPE:  STORY TIME
+Fun for the entire family, these 30-40 minute story times are packed full of books and activities designed to be enjoyed by all ages.
+Coffee & Conversation - A Conversation Circle
+Wednesday, November 04: 11:00am - 12:00pm
+ Martin Luther King Jr. Memorial Library - Central Library - Great Hall East
+AGE GROUP:   ADULTS
+EVENT TYPE:  CONVERSATION CIRCLE
+Customers are invited to join a casual conversation with other library customers and individuals from the neighborhood. Coffee, tea, and snacks provided.
+Family Play Hour - at Francis A. Gregory Neighborhood Library
+Wednesday, November 04: 11:15am - 12:15pm
+ Francis A. Gregory Neighborhood Library - Meeting Room 1 (11-50 Person Capacity)
+AGE GROUP:   BIRTH - 5  5 - 12 YEARS OLD
+EVENT TYPE:  FAMILY PROGRAM
+A play hour following our Wednesday story time program for children to socialize and play with each other
+Family Story Time
+Wednesday, November 04: 11:30am - 12:00pm
+ Chevy Chase Neighborhood Library - Meeting Room 1 (4-60 Person Capacity)
+AGE GROUP:   BIRTH - 5
+EVENT TYPE:  STORY TIME
+Fun for the entire family, these story times are packed full of books and activities designed to be enjoyed by all ages. Ticket required, on a first come first serve basis.
+Strong Start Playgroup - DC Early Intervention Program
+Wednesday, November 04: 12:00pm - 1:00pm
+ Mt. Pleasant Neighborhood Library
+AGE GROUP:   BIRTH - 5
+EVENT TYPE:  STORY TIME, HEALTH, FAMILY PROGRAM, ESL / BILINGUAL PROGRAMS
+Strong Start, DC’s early intervention program, provides support and services to families with children, from birth through age 3, with developmental delays and disabilities.
+Register
+Mid-Day Games Galore
+Wednesday, November 04: 12:30pm - 2:30pm
+ Lamond-Riggs/Lillian J. Huff Neighborhood Library - Conference Room (6-12 Person Capacity)
+AGE GROUP:   13 - 19 YEARS OLD (TEENS)
+EVENT TYPE:  GAMING
+Board Games, Card Games and More!
+Mental Health Drop-In Hours
+Wednesday, November 04: 1:30pm - 5:00pm
+ Anacostia Neighborhood Library - Meeting Room 1 (2-6 Person Capacity)
+AGE GROUP:   SENIORS  ADULTS
+EVENT TYPE:  HEALTH
+Drop-in hours to meet with a licensed social worker for support and connection to community resources.
+Knit and Crochet Group - Meets Wednesdays from 2 PM to 4 PM
+Wednesday, November 04: 2:00pm - 4:00pm
+ Georgetown Neighborhood Library
+AGE GROUP:   ADULTS
+EVENT TYPE:  ARTS & CRAFTS
+Open to all levels
+Free Walk-In Legal Clinic
+Wednesday, November 04: 2:00pm - 4:00pm
+ Deanwood Neighborhood Library
+AGE GROUP:   SENIORS  ADULTS
+EVENT TYPE:  LEGAL CLINIC
+Meet with a Neighborhood Legal Services attorney. No appointment needed.
+Job Seekers Clinic - Resume and Career Skills Workshop
+Wednesday, November 04: 3:00pm - 4:00pm
+ Bellevue (William O. Lockridge) Neighborhood Library - Conference Room B (6-12 Person Capacity)
+AGE GROUP:   SENIORS  ADULTS
+EVENT TYPE:  JOB READINESS CLINIC
+DC Public Library has countless online resources to help you prepare for your next great career journey.
+Lego Club
+Wednesday, November 04: 3:00pm - 4:00pm
+ Martin Luther King Jr. Memorial Library - Central Library - Children's Amphitheatre (5-75 Person Capacity)
+AGE GROUP:   5 - 12 YEARS OLD
+EVENT TYPE:  STEM (SCIENCE, TECHNOLOGY, ENGINEERING & MATH), GAMING
+Join us for LEGO Club in the Children's room, where kids can explore their creativity and build amazing creations with LEGOs!
+Seed to Steward - Gardening Program
+Wednesday, November 04: 3:00pm - 5:00pm
+ Anacostia Neighborhood Library
+AGE GROUP:   SENIORS  BIRTH - 5  ADULTS  5 - 12 YEARS OLD  13 - 19 YEARS OLD (TEENS)
+EVENT TYPE:  FAMILY PROGRAM, EDUCATIONAL PROGRAM
+Join us for the Seed to Steward Program, a hands-on initiative designed to connect teens and families to gardening, sustainability, and community care.
+Mahjong
+Wednesday, November 04: 3:00pm - 4:30pm
+ Woodridge Neighborhood Library
+AGE GROUP:   SENIORS  ADULTS  5 - 12 YEARS OLD  13 - 19 YEARS OLD (TEENS)
+EVENT TYPE:  GAMING, FAMILY PROGRAM
+Play Mahjong with us!
+STEM Challenge
+Wednesday, November 04: 3:30pm - 4:30pm
+ Parklands-Turner Neighborhood Library
+AGE GROUP:   5 - 12 YEARS OLD
+EVENT TYPE:  MAKERS & DIY PROGRAM, FAMILY PROGRAM
+Explore and solve fun STEM challenges
+Braille and Assistive Technology Study Hall
+Wednesday, November 04: 3:30pm - 5:30pm
+ Martin Luther King Jr. Memorial Library - Central Library
+AGE GROUP:   5 - 12 YEARS OLD  13 - 19 YEARS OLD (TEENS)
+EVENT TYPE:  EDUCATIONAL PROGRAM, CENTER FOR ACCESSIBILITY
+Low vision and blind students in grades K-12 who use braille and assistive technology such as JAWS, Fusion, and ZoomText are invited to join the Center for Accessibility for Study Hall!
+LEGO GeoSMART Club: Kids/Tweens
+Wednesday, November 04: 3:30pm - 4:30pm
+ Southwest Neighborhood Library - Conference Room 2 (8-20 Person Capacity)
+AGE GROUP:   5 - 12 YEARS OLD
+EVENT TYPE:  STEM (SCIENCE, TECHNOLOGY, ENGINEERING & MATH), EDUCATIONAL PROGRAM, AGE-FRIENDLY DC
+Join us for a fun 1hr activity building LEGOS with the GeoSMART building sets for creative minds. For kids/tween ages 6 thru 12. Kids under 9 must be accompanied by a caregiver.
+LEGO at the Library
+Wednesday, November 04: 4:00pm - 4:50pm
+ Northeast Neighborhood Library - Meeting Room 1 (15-100 Person Capacity)
+AGE GROUP:   5 - 12 YEARS OLD
+EVENT TYPE:  STEM (SCIENCE, TECHNOLOGY, ENGINEERING & MATH), GAMING, FAMILY PROGRAM
+Love LEGO? Flex your creative muscles and join us for LEGO Club.
+STEAM at Southeast - LEGO Building Challenge
+Wednesday, November 04: 4:00pm - 5:00pm
+ Southeast Neighborhood Library - Meeting Room (10-48 Person Capacity)
+AGE GROUP:   5 - 12 YEARS OLD
+EVENT TYPE:  STEM (SCIENCE, TECHNOLOGY, ENGINEERING & MATH)
+Explore a variety of STEAM concepts through tech toys, activities, crafts, and play.
+Register
+Just Dance - Move with us on Wednesday afternoons!
+Wednesday, November 04: 4:00pm - 5:00pm
+ Mt. Pleasant Neighborhood Library
+AGE GROUP:   5 - 12 YEARS OLD
+EVENT TYPE:  HEALTH, GAMING, FAMILY PROGRAM
+We'll be projecting Just Dance songs & routines in the Children's Room on Wednesday afternoons. Great exercise for kids and adults alike!
+Sensory Friendly Study Lounge
+Wednesday, November 04: 4:00pm - 5:00pm
+ Tenley-Friendship Neighborhood Library
+AGE GROUP:   5 - 12 YEARS OLD
+EVENT TYPE:  EDUCATIONAL PROGRAM
+After school quiet space for more relaxed reading, studying, and coloring.
+Teen Time
+Wednesday, November 04: 4:30pm - 6:00pm
+ Bellevue (William O. Lockridge) Neighborhood Library
+AGE GROUP:   13 - 19 YEARS OLD (TEENS)
+EVENT TYPE:  GAMING, FILM, ARTS & CRAFTS
+Join us for Teen Time at the library. Weekly game night and social time with other teens of the library. Other activities vary. Snacks while supplies last.
+Petworth Movie Night
+Wednesday, November 04: 5:00pm - 7:30pm
+ Petworth Neighborhood Library - Meeting Room 1 (10-100 Person Capacity)
+AGE GROUP:   SENIORS  ADULTS  5 - 12 YEARS OLD  13 - 19 YEARS OLD (TEENS)
+EVENT TYPE:  FILM
+Enjoy and discuss a film with friends and neighbors.
+Register
+Sewing Machine Reservation - Use the sewing machine at the SOW STEAM Lab
+Wednesday, November 04: 5:30pm - 7:30pm
+ Southwest Neighborhood Library
+AGE GROUP:   SENIORS  ADULTS  13 - 19 YEARS OLD (TEENS)
+EVENT TYPE:  STEM (SCIENCE, TECHNOLOGY, ENGINEERING & MATH), MAKERS & DIY PROGRAM, ARTS & CRAFTS
+Reserve a sewing machine for two hours to work on your own projects.
+Register
+Cricut Reservation - Use the Cricut at the SOW STEAM Lab
+Wednesday, November 04: 5:30pm - 7:30pm
+ Southwest Neighborhood Library
+AGE GROUP:   SENIORS  ADULTS  13 - 19 YEARS OLD (TEENS)
+EVENT TYPE:  STEM (SCIENCE, TECHNOLOGY, ENGINEERING & MATH), MAKERS & DIY PROGRAM, ARTS & CRAFTS
+Reserve a Cricut for two hours to work on your own projects.
+Register
+Teen Talks
+Wednesday, November 04: 5:30pm - 6:30pm
+ Martin Luther King Jr. Memorial Library - Central Library
+AGE GROUP:   13 - 19 YEARS OLD (TEENS)
+EVENT TYPE:  CONVERSATION CIRCLE, CIVIC ENGAGEMENT
+Join us for casual conversation and snacks!
+Tea & Conversation - A Conversation Circle
+Wednesday, November 04: 6:00pm - 7:00pm
+ Francis A. Gregory Neighborhood Library - Conference Room 1 (3-10 Person Capacity)
+AGE GROUP:   ADULTS  13 - 19 YEARS OLD (TEENS)
+EVENT TYPE:  HEALTH, CONVERSATION CIRCLE, CIVIC ENGAGEMENT, BLACK HISTORY MONTH
+Join us for casual conversation with fellow library customers and neighbors in a welcoming, relaxed setting. Tea is provided, so come sip, share, and connect!
+Technology, Surveillance, and You - a talk with author Byron Tau
+Wednesday, November 04: 6:00pm - 8:30pm
+ Martin Luther King Jr. Memorial Library - Central Library - Event Space
+AGE GROUP:   SENIORS  ADULTS  13 - 19 YEARS OLD (TEENS)
+EVENT TYPE:  STEM (SCIENCE, TECHNOLOGY, ENGINEERING & MATH), AUTHOR TALK
+Join author and journalist Byron Tau for an interactive session on what happens with your data when you use everyday technologies, from your cell phone to your car's tires. 
+Register
+Chess Club
+Wednesday, November 04: 6:00pm - 7:00pm
+ Northeast Neighborhood Library - Meeting Room 1 (15-100 Person Capacity)
+AGE GROUP:   SENIORS  ADULTS  13 - 19 YEARS OLD (TEENS)
+EVENT TYPE:  CHESS CLUB
+Want to play some chess?
+Virtual ESL Conversation Circles
+Wednesday, November 04: 6:00pm - 8:00pm
+ Martin Luther King Jr. Memorial Library - Central Library
+AGE GROUP:   ADULTS
+EVENT TYPE:  ESL / BILINGUAL PROGRAMS
+Practice your English-speaking skills by joining the weekly virtual ESL Conversation Circles.
+Chess Club at Francis Gregory Library - Chess Club Wednesdays
+Wednesday, November 04: 6:30pm - 7:45pm
+ Francis A. Gregory Neighborhood Library
+AGE GROUP:   SENIORS  ADULTS  5 - 12 YEARS OLD  13 - 19 YEARS OLD (TEENS)
+EVENT TYPE:  CHESS CLUB
+Sharpen your strategy and challenge your mind at our Chess Club, led by Chess Master David Bennett!
+Chess Club Meet Up - Chess Club Wednesdays
+Wednesday, November 04: 6:30pm - 7:45pm
+ Francis A. Gregory Neighborhood Library - Conference Room 2 (3-10 Person Capacity)
+AGE GROUP:   SENIORS  ADULTS  5 - 12 YEARS OLD  13 - 19 YEARS OLD (TEENS)
+EVENT TYPE:  CHESS CLUB
+Join us every Wednesday from 6:30 PM to 7:35 PM at the FGR Library for an engaging chess class led by Chess Master David Bennett.
+Tutoring with Northstar
+Wednesday, November 04: 6:30pm - 7:45pm
+ Mt. Pleasant Neighborhood Library - Meeting Room 1 (10-100 Person Capacity)
+AGE GROUP:   5 - 12 YEARS OLD  13 - 19 YEARS OLD (TEENS)
+EVENT TYPE:  EDUCATIONAL PROGRAM, BACK TO SCHOOL
+Afterschool Tutoring is Monday and Wednesday from 6:30-7:30 pm
+Shepherd Park Friends’ Annual Public Meeting Guest Speaker - Guest Speaker Sarah Jane Schonfeld
+Wednesday, November 04: 6:30pm - 7:30pm
+ Shepherd Park (Juanita E. Thornton) Neighborhood Library - Conference Room 2 (2-12 Person Capacity)
+AGE GROUP:   SENIORS  ADULTS
+EVENT TYPE:  FRIENDS OF THE LIBRARY, AUTHOR TALK
+Shepherd Park Friends’ Annual Public Meeting Nov. 4 Featuring Guest Speaker Sarah Jane Schonfeld
+Love in Color Book Club
+Wednesday, November 04: 7:00pm - 8:00pm
+ Parklands-Turner Neighborhood Library
+AGE GROUP:   ADULTS
+EVENT TYPE:  BOOK CLUB
+It's the fifth (!) year of the Love in Color Book Club and we're back again with more amazing books to delve into from some of the romance genre's best authors of color.
+Pokemon Scavenger Hunt
+Thursday, November 05: All Day
+ Southwest Neighborhood Library
+AGE GROUP:   BIRTH - 5  5 - 12 YEARS OLD
+EVENT TYPE:  GAMING, FAMILY PROGRAM
+Celebrate 30 Years of Pokemon!
+Pokémon Scavenger Hunt
+Thursday, November 05: All Day
+ Anacostia Neighborhood Library
+AGE GROUP:   SENIORS  BIRTH - 5  ADULTS  5 - 12 YEARS OLD  13 - 19 YEARS OLD (TEENS)
+EVENT TYPE:  GAMING, FAMILY PROGRAM
+Celebrate Pokémon's 30th Anniversary with a DC-themed Pokémon Scavenger Hunt!
+Shepherd Park Coat Drive - Friends of Shepherd Park Coat Drive
+Thursday, November 05: All Day
+ Shepherd Park (Juanita E. Thornton) Neighborhood Library
+AGE GROUP:   SENIORS  BIRTH - 5  ADULTS  5 - 12 YEARS OLD  13 - 19 YEARS OLD (TEENS)
+EVENT TYPE:  OUTREACH
+Collect new or gently used coats from the public to distribute to those in need, especially during the colder months.
+Story Time - at La Cosecha
+Thursday, November 05: 10:30am - 11:00am
+ Northeast Neighborhood Library
+AGE GROUP:   BIRTH - 5
+EVENT TYPE:  STORY TIME, FAMILY PROGRAM
+Lots of fun for little ones!
+Toddler Story Time - For children aged 18-36 month
+Thursday, November 05: 11:00am - 11:30am
+ Martin Luther King Jr. Memorial Library - Central Library - Children's Amphitheatre (5-75 Person Capacity)
+AGE GROUP:   BIRTH - 5
+EVENT TYPE:  STORY TIME, EDUCATIONAL PROGRAM
+Move, shake, play, and have fun! Space is limited; admission tickets are first-come, first-served, starting when the MLK Library opens on the day of the event.
+DC Jail Video Visitation
+Thursday, November 05: 1:00pm - 5:00pm
+ Anacostia Neighborhood Library - Meeting Room 1 (2-6 Person Capacity)
+AGE GROUP:   ADULTS
+EVENT TYPE:  KNOW YOUR NEIGHBORHOOD
+DCPL partners with DC Department of Correction to bring a Video Visitation program.
+Baby Laptime
+Thursday, November 05: 1:00pm - 2:00pm
+ Southwest Neighborhood Library
+AGE GROUP:   BIRTH - 5
+EVENT TYPE:  STORY TIME
+These 20-30 minute story times are specially designed for infants from birth until they begin walking, along with their grown-ups!
+Coffee & Conversation - A Conversation Circle
+Thursday, November 05: 1:00pm - 2:00pm
+ Northeast Neighborhood Library - Meeting Room 2 - Mezzanine (5-25 Person Capacity)
+AGE GROUP:   SENIORS  ADULTS
+EVENT TYPE:  CONVERSATION CIRCLE
+Patrons are invited to join a casual conversation with other library patrons and individuals from the neighborhood. Coffee, Tea, and Snacks provided.
+Baby Lap Time - For Pre-Walking Babies
+Thursday, November 05: 1:00pm - 1:30pm
+ Martin Luther King Jr. Memorial Library - Central Library - Children's Amphitheatre (5-75 Person Capacity)
+AGE GROUP:   BIRTH - 5
+EVENT TYPE:  STORY TIME, EDUCATIONAL PROGRAM
+Move, shake, play, and have fun! Space is limited; admission tickets are first-come, first-served, starting when the MLK Library opens on the day of the event.
+Baby Lap Time - For Pre-walking Babies
+Thursday, November 05: 1:30pm - 2:00pm
+ Takoma Park Neighborhood Library - Meeting Room (1-25 Person Capacity)
+AGE GROUP:   BIRTH - 5
+EVENT TYPE:  STORY TIME
+For pre-walking babies. Stories, songs, and rhymes for babies and their caregivers!
+Coffee & Conversation - A Conversation Circle
+Thursday, November 05: 2:00pm - 3:00pm
+ Chevy Chase Neighborhood Library
+AGE GROUP:   ADULTS
+EVENT TYPE:  CONVERSATION CIRCLE
+Customers are invited to join a casual conversation with other library customers and individuals from the neighborhood. Coffee and Tea provided.
+Home-School Connection
+Thursday, November 05: 2:00pm - 3:30pm
+ Cleveland Park Neighborhood Library - Lower-Level Meeting Room (25-105 Person Capacity)
+AGE GROUP:   BIRTH - 5  5 - 12 YEARS OLD  13 - 19 YEARS OLD (TEENS)
+EVENT TYPE:  EDUCATIONAL PROGRAM
+Connect, learn, and create!
+Job Seekers Clinic
+Thursday, November 05: 2:00pm - 4:30pm
+ Martin Luther King Jr. Memorial Library - Central Library - 202-O Computer Lab (16 Person Capacity)
+AGE GROUP:   SENIORS  ADULTS
+EVENT TYPE:  JOB READINESS CLINIC, COMPUTER CLASS
+If you are a job seeker in need of assistance with your job search process, the Adult Learning Department at DC Public Library invites you to the Job Seekers Clinic!
+What's the Tea? - Tea Talk and Tasting!
+Thursday, November 05: 3:00pm - 4:00pm
+ Parklands-Turner Neighborhood Library
+AGE GROUP:   SENIORS  BIRTH - 5  ADULTS  5 - 12 YEARS OLD  13 - 19 YEARS OLD (TEENS)
+EVENT TYPE:  HEALTH, CONVERSATION CIRCLE
+Discover new flavors and fresh reads! Take a break, sip, and center yourself in a calm and welcoming space!
+Game Time
+Thursday, November 05: 4:00pm - 5:00pm
+ Southwest Neighborhood Library
+AGE GROUP:   5 - 12 YEARS OLD
+EVENT TYPE:  GAMING, FAMILY PROGRAM
+Let's Play! 
+Snacks at the Library - Free food after school for kids
+Thursday, November 05: 4:00pm - 5:00pm
+ Mt. Pleasant Neighborhood Library - Meeting Room 1 (10-100 Person Capacity)
+AGE GROUP:   5 - 12 YEARS OLD  13 - 19 YEARS OLD (TEENS)
+EVENT TYPE:  KNOW YOUR NEIGHBORHOOD, HEALTH, FRIENDS OF THE LIBRARY
+join, hang out, and have a tasty snack
+Crafternoon
+Thursday, November 05: 4:00pm - 5:00pm
+ Northeast Neighborhood Library
+AGE GROUP:   BIRTH - 5  5 - 12 YEARS OLD
+EVENT TYPE:  ARTS & CRAFTS
+Feeling a spark of creativity? Join us in the Children's Reading Room for a craft project!
+Teen Lounge
+Thursday, November 05: 4:00pm - 6:00pm
+ Southwest Neighborhood Library
+AGE GROUP:   13 - 19 YEARS OLD (TEENS)
+EVENT TYPE:  GAMING, ARTS & CRAFTS
+After school lounge for teens to meet and socialize.
+Teens Sip & Make - Drop-In Space for Teens
+Thursday, November 05: 4:00pm - 6:00pm
+ Martin Luther King Jr. Memorial Library - Central Library
+AGE GROUP:   13 - 19 YEARS OLD (TEENS)
+EVENT TYPE:  WRITING, STEM (SCIENCE, TECHNOLOGY, ENGINEERING & MATH), POETRY MONTH, NANOWRIMO (NATIONAL NOVEL WRITING MONTH), MAKERS & DIY PROGRAM, MAKER MONTH, CONVERSATION CIRCLE, ARTS & CRAFTS
+Teens do more than paint.
+Tech 101 - with DC's Office of the Chief Technology Officer
+Thursday, November 05: 4:00pm - 6:00pm
+ Capitol View Neighborhood Library
+AGE GROUP:   SENIORS  ADULTS
+EVENT TYPE:  COMPUTER CLASS
+Join us to learn basic tech skills and get your questions about technology answered.
+Chess For All Ages
+Thursday, November 05: 4:30pm - 6:00pm
+ Parklands-Turner Neighborhood Library
+AGE GROUP:   SENIORS  ADULTS  5 - 12 YEARS OLD  13 - 19 YEARS OLD (TEENS)
+EVENT TYPE:  CHESS CLUB
+Come play and learn from others in a friendly game of chess
+Baby Lap Time
+Thursday, November 05: 4:30pm - 5:30pm
+ Southeast Neighborhood Library - Meeting Room (10-48 Person Capacity)
+AGE GROUP:   BIRTH - 5
+EVENT TYPE:  STORY TIME
+Join us for stories, rhymes and songs for babies from birth until they begin walking!
+Messy Art - Exploring mark-making on recycled materials
+Thursday, November 05: 4:30pm - 5:30pm
+ Shepherd Park (Juanita E. Thornton) Neighborhood Library - Conference Room 2 (2-12 Person Capacity)
+AGE GROUP:   BIRTH - 5  5 - 12 YEARS OLD
+EVENT TYPE:  ARTS & CRAFTS
+Want to make some marks, learn how paint works, and have some fun? Come get messy with us, and help collaborate on recycled cardboard panels~!
+Yarnworks Meetup
+Thursday, November 05: 5:00pm - 6:00pm
+ Martin Luther King Jr. Memorial Library - Central Library
+AGE GROUP:   SENIORS  ADULTS  13 - 19 YEARS OLD (TEENS)
+EVENT TYPE:  MAKERS & DIY PROGRAM, ARTS & CRAFTS
+Join others at Marianne's Cafe at MLK to knit, crochet, chat it up, learn a new skill or all of the above.
+Mahjong Open Play - American and Hong Kong Styles (No Instructor)
+Thursday, November 05: 5:30pm - 7:45pm
+ Cleveland Park Neighborhood Library - Lower-Level Meeting Room (25-105 Person Capacity)
+AGE GROUP:   ADULTS
+EVENT TYPE:  GAMING, AGE-FRIENDLY DC
+Join us in community, for open mahjong play. There is no instructor but plenty of learning and fun. Bring a friend!
+Game ON: Adults & Seniors
+Thursday, November 05: 5:30pm - 7:30pm
+ Game ON: Adults & Seniors MONOPOLY - Meeting Room 2
+AGE GROUP:   SENIORS  ADULTS
+EVENT TYPE:  GAMING, AGE-FRIENDLY DC
+Play CLASSIC board and card games, checkers, spades. chess, UNO, mahjong, dominos, backgammon, SCRABBLE and many more during this fun 2 hour event.
+Pajama Movie Night @ Tenley - The Emperor's New Groove (2000)
+Thursday, November 05: 5:30pm - 7:00pm
+ Tenley-Friendship Neighborhood Library - Meeting Room 1 (20-100 Person Capacity)
+AGE GROUP:   5 - 12 YEARS OLD
+EVENT TYPE:  FILM
+Enjoy a family movie night at the library! Food, pillows, blankets, and PJs are welcome. Showing The Emperor's New Groove (2000), rated G. Event is for children and their accompanying adults.
+Aspiring Writer's Circle
+Thursday, November 05: 6:00pm - 7:00pm
+ Virtual Program
+AGE GROUP:   ADULTS
+EVENT TYPE:  WRITING
+Join a group of writers who meet twice a month to share, critique, learn, and write together.
+Aspiring Writers Circle
+Thursday, November 05: 6:00pm - 7:00pm
+ Virtual Program
+AGE GROUP:   ADULTS
+EVENT TYPE:  WRITING
+Come join a community of creative writers that meets twice a month to share, write, and learn together!
+Palisades Writers' Workshop
+Thursday, November 05: 6:00pm - 7:30pm
+ Palisades Neighborhood Library - Conference Room 1 (2-14 Person Capacity)
+AGE GROUP:   ADULTS
+EVENT TYPE:  WRITING
+A workshop for writers of fiction and nonfiction - writers at all levels of experience are welcome.
+Creatives Club - Create and Socialize Every Thursday
+Thursday, November 05: 6:00pm - 8:00pm
+ Martin Luther King Jr. Memorial Library - Central Library
+AGE GROUP:   ADULTS
+EVENT TYPE:  THE LABS AT DC PUBLIC LIBRARY, MAKERS & DIY PROGRAM, ARTS & CRAFTS
+Meet like-minded folks and socialize while working on your own creative projects.
+Record Pull & Listening Party
+Thursday, November 05: 6:00pm - 7:30pm
+ Woodridge Neighborhood Library - Conference Room B (8-20 Person Capacity)
+AGE GROUP:   ADULTS
+EVENT TYPE:  MUSICAL PERFORMANCE
+Sharing Our Favorite Music
+Record Pull & Listening Party
+Thursday, November 05: 6:00pm - 7:30pm
+ Woodridge Neighborhood Library
+AGE GROUP:   SENIORS  ADULTS  13 - 19 YEARS OLD (TEENS)
+EVENT TYPE:  CIVIC ENGAGEMENT
+We'll share our favorite music tracks with one another and have a good time talking about the music and why it inspires.
+Mabel Ping-Hua Lee & The Role of the 1882 Foundation
+Thursday, November 05: 6:00pm - 7:30pm
+ Takoma Park Neighborhood Library - Meeting Room (1-25 Person Capacity)
+AGE GROUP:   SENIORS  ADULTS
+EVENT TYPE:  CIVIC ENGAGEMENT, AMERICA 250
+A presentation about a forgotten Chinese-American woman who championed women's education and the right for women to vote
+Learning About AI - Learn more about AI
+Thursday, November 05: 6:00pm - 7:30pm
+ Palisades Neighborhood Library
+AGE GROUP:   SENIORS  ADULTS
+EVENT TYPE:  AGE-FRIENDLY DC
+Get more comfortable with AI.
+Register
+Literary Village - The Democracy We Must Keep - In Conversation with author David Stewart
+Thursday, November 05: 6:30pm - 7:45pm
+ Mt. Pleasant Neighborhood Library - Meeting Room 1 (10-100 Person Capacity)
+AGE GROUP:   SENIORS  ADULTS
+EVENT TYPE:  FRIENDS OF THE LIBRARY, EDUCATIONAL PROGRAM, AUTHOR TALK, AMERICA 250
+This program is a part of the Literary Village book talk series - a partnership between Mount Pleasant Village and the Friends of Mt. Pleasant Library.
+Register
+Historic Easements: What Homeowners Need to Know - Cleveland Park Historical Society
+Thursday, November 05: 6:30pm - 7:45pm
+ Cleveland Park Neighborhood Library - First Floor Meeting Room (50-125 Person Capacity)
+AGE GROUP:   SENIORS  ADULTS
+EVENT TYPE:  LECTURE
+Curious about historic preservation easements?
+Register
+Learn Chess at Bellevue
+Thursday, November 05: 6:30pm - 7:30pm
+ Bellevue (William O. Lockridge) Neighborhood Library - Meeting Room (25-100 Person Capacity)
+AGE GROUP:   SENIORS  ADULTS  5 - 12 YEARS OLD  13 - 19 YEARS OLD (TEENS)
+EVENT TYPE:  FAMILY PROGRAM, CHESS CLUB
+Fun for the whole family!
+Author Talk: The Flag Was Still There - A History of the American Experiment in Five Anniversaries
+Thursday, November 05: 7:00pm - 8:30pm
+ Martin Luther King Jr. Memorial Library - Central Library
+AGE GROUP:   ADULTS
+EVENT TYPE:  AUTHOR TALK, AMERICA 250
+America is the rare country that was founded on an idea, and it was a truly radical idea for its time: the belief that the people of a country could govern themselves.
+Register
+Pokemon Scavenger Hunt
+Friday, November 06: All Day
+ Southwest Neighborhood Library
+AGE GROUP:   BIRTH - 5  5 - 12 YEARS OLD
+EVENT TYPE:  GAMING, FAMILY PROGRAM
+Celebrate 30 Years of Pokemon!
+Pokémon Scavenger Hunt
+Friday, November 06: All Day
+ Anacostia Neighborhood Library
+AGE GROUP:   SENIORS  BIRTH - 5  ADULTS  5 - 12 YEARS OLD  13 - 19 YEARS OLD (TEENS)
+EVENT TYPE:  GAMING, FAMILY PROGRAM
+Celebrate Pokémon's 30th Anniversary with a DC-themed Pokémon Scavenger Hunt!
+Shepherd Park Coat Drive - Friends of Shepherd Park Coat Drive
+Friday, November 06: All Day
+ Shepherd Park (Juanita E. Thornton) Neighborhood Library
+AGE GROUP:   SENIORS  BIRTH - 5  ADULTS  5 - 12 YEARS OLD  13 - 19 YEARS OLD (TEENS)
+EVENT TYPE:  OUTREACH
+Collect new or gently used coats from the public to distribute to those in need, especially during the colder months.
+We Care Peer Support Specialist
+Friday, November 06: 10:00am - 5:00pm
+ Northeast Neighborhood Library
+AGE GROUP:   ADULTS
+EVENT TYPE:  JOB READINESS CLINIC, HEALTH
+A Peer support specialist from DCPL's We Care team will be at the Library on Fridays from 10 am to 5pm to offer emotional support and help accessing resources.
+Zumba Gold - Led by Ruth
+Friday, November 06: 10:15am - 11:15am
+ Tenley-Friendship Neighborhood Library - Meeting Room 1 (20-100 Person Capacity)
+AGE GROUP:   SENIORS
+EVENT TYPE:  HEALTH, AGE-FRIENDLY DC
+Get healthy and feel great with Zumba Gold!
+Family Story Time
+Friday, November 06: 10:30am - 11:00am
+ Cleveland Park Neighborhood Library - First Floor Meeting Room (50-125 Person Capacity)
+AGE GROUP:   BIRTH - 5
+EVENT TYPE:  STORY TIME
+These 30-minute story times are designed to be enjoyed by all ages.
+L'heure du conte - Bilingual fun in French and English
+Friday, November 06: 10:30am - 11:00am
+ Mt. Pleasant Neighborhood Library
+AGE GROUP:   BIRTH - 5
+EVENT TYPE:  STORY TIME, FAMILY PROGRAM, ESL / BILINGUAL PROGRAMS
+L'heure du conte bilingue en français/anglais. Durée: 20 min. French/English bilingual stories, songs and games. Length: 20 mins.
+Strong Start Playgroups
+Friday, November 06: 11:00am - 12:00pm
+ Deanwood Neighborhood Library
+AGE GROUP:   BIRTH - 5
+EVENT TYPE:  FAMILY PROGRAM, EDUCATIONAL PROGRAM
+Strong Start is DC’s Early Intervention Program
+We Can Grieve Together - A nurturing space for comfort and sharing
+Friday, November 06: 11:00am - 12:00pm
+ Bellevue (William O. Lockridge) Neighborhood Library - Conference Room A (6-12 Person Capacity)
+AGE GROUP:   ADULTS
+EVENT TYPE:  HEALTH
+Grief can be a lonely experience. Being around others who share the same feelings can give you comfort.
+DC Jail Video Visitation
+Friday, November 06: 1:00pm - 5:00pm
+ Anacostia Neighborhood Library - Meeting Room 1 (2-6 Person Capacity)
+AGE GROUP:   ADULTS
+EVENT TYPE:  KNOW YOUR NEIGHBORHOOD
+DCPL partners with DC Department of Correction to bring a Video Visitation program.
+Baby Lap Time
+Friday, November 06: 3:00pm - 4:00pm
+ Northeast Neighborhood Library - Meeting Room 1 (15-100 Person Capacity)
+AGE GROUP:   BIRTH - 5
+EVENT TYPE:  STORY TIME
+Join us for stories, rhymes and songs for babies from birth until they begin walking!
+Here's the Stitchuation! - Come stitch with us – one thread at a time!
+Friday, November 06: 3:00pm - 5:00pm
+ Lamond-Riggs/Lillian J. Huff Neighborhood Library - Meeting Room 1 (10-100 Person Capacity)
+AGE GROUP:   SENIORS  ADULTS  13 - 19 YEARS OLD (TEENS)
+EVENT TYPE:  KNOW YOUR NEIGHBORHOOD, FRIENDS OF THE LIBRARY, FAMILY PROGRAM
+Looking for a relaxing and creative way to spend your time? Whether you're a seasoned stitcher or just getting started, our Stitching Group is the perfect place to connect, create, and unwind.
+Teen Gaming Lounge - Game Night
