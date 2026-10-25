@@ -4,9 +4,9 @@
  "seed_url": "https://novachamber.org/events/",
  "programs": "Signature events",
  "access": "Public; separate members-only events",
- "found": "2026-10-25 02:00Z",
+ "found": "2026-10-25 02:06Z",
  "search_hits": [],
- "search_error": "",
+ "search_error": "html.duckduckgo.com 0 hits (202, 14305b); www.bing.com 0 hits (200, 130688b); lite.duckduckgo.com 0 hits (202, 14310b)",
  "probes": [
   {
    "url": "https://novachamber.org/wp-json/tribe/events/v1/events?per_page=10",

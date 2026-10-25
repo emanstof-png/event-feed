@@ -4,9 +4,9 @@
  "seed_url": "https://www.ishdc.org/events",
  "programs": "Gala; receptions; supporters",
  "access": "Public; board meetings are not attendable",
- "found": "2026-10-25 01:59Z",
+ "found": "2026-10-25 02:04Z",
  "search_hits": [],
- "search_error": "",
+ "search_error": "html.duckduckgo.com 0 hits (202, 14297b); www.bing.com 0 hits (200, 129360b); lite.duckduckgo.com 0 hits (202, 14303b)",
  "probes": [
   {
    "url": "https://ihousedc.org/wp-json/tribe/events/v1/events?per_page=10",

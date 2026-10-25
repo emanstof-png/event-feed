@@ -4,9 +4,9 @@
  "seed_url": "https://www.sacc-dc.org/",
  "programs": "Business and social events",
  "access": "Ask about nonmember admission",
- "found": "2026-10-25 01:59Z",
+ "found": "2026-10-25 02:05Z",
  "search_hits": [],
- "search_error": "",
+ "search_error": "html.duckduckgo.com 0 hits (202, 14315b); www.bing.com 0 hits (200, 131248b); lite.duckduckgo.com 0 hits (202, 14321b)",
  "probes": [
   {
    "url": "https://www.sacc-dc.org/wp-json/tribe/events/v1/events?per_page=10",

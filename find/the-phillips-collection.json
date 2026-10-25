@@ -4,9 +4,9 @@
  "seed_url": "https://www.phillipscollection.org/events",
  "programs": "Contemporaries (ages 21-44)",
  "access": "Public calendar plus member listings",
- "found": "2026-10-25 01:59Z",
+ "found": "2026-10-25 02:04Z",
  "search_hits": [],
- "search_error": "",
+ "search_error": "html.duckduckgo.com 0 hits (202, 14295b); www.bing.com 0 hits (200, 129142b); lite.duckduckgo.com 0 hits (202, 14283b)",
  "probes": [
   {
    "url": "https://www.phillipscollection.org/wp-json/tribe/events/v1/events?per_page=10",

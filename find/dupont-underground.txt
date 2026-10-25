@@ -1,6 +1,6 @@
 Dupont Underground
 best page: https://dupontunderground.org/fall-2025-events-archive (status 200, 181 date strings, 0 JSON-LD events)
-fetched 2026-10-25 02:00Z
+fetched 2026-10-25 02:06Z
 
 
 Archive Fall 2025 & Spring 2026 — Dupont Underground

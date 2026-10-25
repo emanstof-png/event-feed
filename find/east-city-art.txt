@@ -1,6 +1,6 @@
 East City Art
 best page: https://www.eastcityart.com/weekend-list/dcart101926/ (status 200, 85 date strings, 0 JSON-LD events)
-fetched 2026-10-25 02:01Z
+fetched 2026-10-25 02:09Z
 
 
 DC Art Gallery Openings and Exhibitions: October 19-25, 2026 - East City Art

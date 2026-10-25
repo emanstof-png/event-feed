@@ -4,14 +4,14 @@
  "seed_url": "https://www.nedsclub.com/",
  "programs": "Membership programming",
  "access": "Restricted: member calendar exists, no public listing verified; 'Meetings and Events' page is venue hire",
- "found": "2026-10-25 01:59Z",
+ "found": "2026-10-25 02:04Z",
  "search_hits": [
   "https://www.thened.com/dc/meetings-and-events",
   "https://www.thened.com/dc",
   "https://www.eventbrite.com/d/dc--washington/ned's-club/",
-  "https://www.businessinsider.com/neds-club-private-dc-members-only-etiquette-2025-7?op=1",
-  "https://www.washingtonian.com/2025/02/18/whats-the-deal-with-neds-club-and-other-new-private-spots/",
-  "https://www.washingtonsun.com/metro/neds-club-dc-exclusive-food-review"
+  "https://washington.org/meetings/find-dc-listings/neds-club",
+  "https://www.dailymail.com/news/article-15736699/Ned-club-Washington-DC-secrets-Trump-Bessent.html",
+  "https://www.theinteriorreview.com/story/2025/7/31/photos-step-inside-neds-club-washington-dc-where-formality-meets-serendipity-steps-from-the-white-house"
  ],
  "search_error": "",
  "probes": [
@@ -29,7 +29,7 @@
    "url": "https://www.thened.com/?ical=1",
    "status": 200,
    "events": 0,
-   "head": "\r\n\r\n<!DOCTYPE html>\r\n<html lang=\"en\">\r\n<head>\r\n    <link rel=\"stylesheet\" href=\"/Assets/Ned/bundle/app.css?v=22102026110446\">\r\n    <title>The Ned | A Hotel and Members&#39; Club in London, New York and Doha</title>\r\n<meta name=\"description\" content=\"A Hotel and Members&#39; Club with locations in th"
+   "head": "\r\n\r\n<!DOCTYPE html>\r\n<html lang=\"en\">\r\n<head>\r\n    <link rel=\"stylesheet\" href=\"/Assets/Ned/bundle/app.css?v=22102026110708\">\r\n    <title>The Ned | A Hotel and Members&#39; Club in London, New York and Doha</title>\r\n<meta name=\"description\" content=\"A Hotel and Members&#39; Club with locations in th"
   }
  ],
  "pages": [

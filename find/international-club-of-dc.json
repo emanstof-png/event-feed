@@ -4,9 +4,9 @@
  "seed_url": "https://www.internationalclubdc.com/",
  "programs": "Social events (skip dance-centered ones)",
  "access": "Public; check ticket eligibility",
- "found": "2026-10-25 02:00Z",
+ "found": "2026-10-25 02:05Z",
  "search_hits": [],
- "search_error": "",
+ "search_error": "html.duckduckgo.com 0 hits (202, 14279b); www.bing.com 0 hits (200, 129634b); lite.duckduckgo.com 0 hits (202, 14297b)",
  "probes": [
   {
    "url": "https://www.internationalclubdc.com/wp-json/tribe/events/v1/events?per_page=10",
@@ -38,7 +38,7 @@
    "hints": [],
    "iframes": [
     "https://player.vimeo.com/video/1019293975?badge=0&autopause=0&player_id=0&app_id=58479",
-    "https://player.vimeo.com/video/108515958"
+    "https://player.vimeo.com/video/46893742"
    ],
    "event_links": [
     {
@@ -47,11 +47,7 @@
     },
     {
      "text": "",
-     "url": "https://www.internationalclubdc.com/Events/EventDetails.aspx?EventID=D58C452F-64CA-46A8-9A98-F132F246DD6E"
-    },
-    {
-     "text": "",
-     "url": "https://www.internationalclubdc.com/Events/EventDetails.aspx?EventID=B4B71E2D-3199-42BE-B4F1-603EC2F8C74D"
+     "url": "https://www.internationalclubdc.com/Events/EventDetails.aspx?EventID=AE042422-4B81-4E63-8D0F-530008D180A0"
     },
     {
      "text": "",
@@ -59,27 +55,7 @@
     },
     {
      "text": "",
-     "url": "https://www.internationalclubdc.com/Events/EventDetails.aspx?EventID=AD9E083F-13A1-4479-B6C5-870E2564B401"
-    },
-    {
-     "text": "",
-     "url": "https://www.internationalclubdc.com/Events/EventDetails.aspx?EventID=2AB396F0-79C4-4254-87CD-8D967EE2A13E"
-    },
-    {
-     "text": "",
-     "url": "https://www.internationalclubdc.com/Events/EventDetails.aspx?EventID=F46F25B0-8E77-451F-8197-0F415C7C6962"
-    },
-    {
-     "text": "",
-     "url": "https://www.internationalclubdc.com/Events/EventDetails.aspx?EventID=AE042422-4B81-4E63-8D0F-530008D180A0"
-    },
-    {
-     "text": "",
-     "url": "https://www.internationalclubdc.com/Events/EventDetails.aspx?EventID=F97F8440-55E9-4654-A6C3-9C72356912B9"
-    },
-    {
-     "text": "",
-     "url": "https://www.internationalclubdc.com/Events/EventDetails.aspx?EventID=F6DDC0F5-2D74-4541-9A33-03FC2D9F84FD"
+     "url": "https://www.internationalclubdc.com/Events/EventDetails.aspx?EventID=2087C2FA-4B1A-4BF3-B7B5-434C0F1FAA7B"
     },
     {
      "text": "",
@@ -87,11 +63,35 @@
     },
     {
      "text": "",
+     "url": "https://www.internationalclubdc.com/Events/EventDetails.aspx?EventID=D58C452F-64CA-46A8-9A98-F132F246DD6E"
+    },
+    {
+     "text": "",
+     "url": "https://www.internationalclubdc.com/Events/EventDetails.aspx?EventID=F97F8440-55E9-4654-A6C3-9C72356912B9"
+    },
+    {
+     "text": "",
+     "url": "https://www.internationalclubdc.com/Events/EventDetails.aspx?EventID=AD9E083F-13A1-4479-B6C5-870E2564B401"
+    },
+    {
+     "text": "",
      "url": "https://www.internationalclubdc.com/Events/EventDetails.aspx?EventID=326AE6E7-DB44-4C07-ADA8-7887FA9B5B55"
     },
     {
      "text": "",
-     "url": "https://www.internationalclubdc.com/Events/EventDetails.aspx?EventID=2087C2FA-4B1A-4BF3-B7B5-434C0F1FAA7B"
+     "url": "https://www.internationalclubdc.com/Events/EventDetails.aspx?EventID=2AB396F0-79C4-4254-87CD-8D967EE2A13E"
+    },
+    {
+     "text": "",
+     "url": "https://www.internationalclubdc.com/Events/EventDetails.aspx?EventID=B4B71E2D-3199-42BE-B4F1-603EC2F8C74D"
+    },
+    {
+     "text": "",
+     "url": "https://www.internationalclubdc.com/Events/EventDetails.aspx?EventID=F46F25B0-8E77-451F-8197-0F415C7C6962"
+    },
+    {
+     "text": "",
+     "url": "https://www.internationalclubdc.com/Events/EventDetails.aspx?EventID=F6DDC0F5-2D74-4541-9A33-03FC2D9F84FD"
     },
     {
      "text": "Viennese Ball at the Embassy of Austria",
@@ -217,47 +217,9 @@
    "error": ""
   },
   {
-   "url": "https://www.internationalclubdc.com/Events/EventDetails.aspx?EventID=D58C452F-64CA-46A8-9A98-F132F246DD6E",
+   "url": "https://www.internationalclubdc.com/Events/EventDetails.aspx?EventID=AE042422-4B81-4E63-8D0F-530008D180A0",
    "status": 200,
-   "final_url": "https://www.internationalclubdc.com/Events/EventDetails.aspx?EventID=D58C452F-64CA-46A8-9A98-F132F246DD6E",
-   "title": "International Club of DC -",
-   "dates": 1,
-   "jsonld": 0,
-   "jsonld_samples": [],
-   "hints": [],
-   "iframes": [
-    "https://player.vimeo.com/video/875754016",
-    "https://www.google.com/maps/embed/v1/place?key=AIzaSyBWFaDEgrVqG3KBtglmaJOopO2IZS318N0            &zoom=16&q=2015 Massachusetts Avenue NW, Washington DC 20036 "
-   ],
-   "event_links": [
-    {
-     "text": "Events",
-     "url": "https://www.internationalclubdc.com/Events/Calendar"
-    },
-    {
-     "text": "Ticket Policy",
-     "url": "https://www.internationalclubdc.com/About/TicketSalesPolicy.aspx"
-    },
-    {
-     "text": "Calendar of Events",
-     "url": "https://www.internationalclubdc.com/Events/Calendar.aspx"
-    },
-    {
-     "text": "Photos of Past Events",
-     "url": "https://www.internationalclubdc.com/Photos/Default.aspx"
-    },
-    {
-     "text": "Videos of Past Events",
-     "url": "https://www.internationalclubdc.com/Videos.aspx"
-    }
-   ],
-   "platform": "eventbrite",
-   "error": ""
-  },
-  {
-   "url": "https://www.internationalclubdc.com/Events/EventDetails.aspx?EventID=B4B71E2D-3199-42BE-B4F1-603EC2F8C74D",
-   "status": 200,
-   "final_url": "https://www.internationalclubdc.com/Events/EventDetails.aspx?EventID=B4B71E2D-3199-42BE-B4F1-603EC2F8C74D",
+   "final_url": "https://www.internationalclubdc.com/Events/EventDetails.aspx?EventID=AE042422-4B81-4E63-8D0F-530008D180A0",
    "title": "International Club of DC -",
    "dates": 1,
    "jsonld": 0,
@@ -302,6 +264,43 @@
    "hints": [],
    "iframes": [
     "https://www.google.com/maps/embed/v1/place?key=AIzaSyBWFaDEgrVqG3KBtglmaJOopO2IZS318N0            &zoom=16&q=50 Massachusetts Avenue, N.E., Washington DC 20002 "
+   ],
+   "event_links": [
+    {
+     "text": "Events",
+     "url": "https://www.internationalclubdc.com/Events/Calendar"
+    },
+    {
+     "text": "Ticket Policy",
+     "url": "https://www.internationalclubdc.com/About/TicketSalesPolicy.aspx"
+    },
+    {
+     "text": "Calendar of Events",
+     "url": "https://www.internationalclubdc.com/Events/Calendar.aspx"
+    },
+    {
+     "text": "Photos of Past Events",
+     "url": "https://www.internationalclubdc.com/Photos/Default.aspx"
+    },
+    {
+     "text": "Videos of Past Events",
+     "url": "https://www.internationalclubdc.com/Videos.aspx"
+    }
+   ],
+   "platform": "eventbrite",
+   "error": ""
+  },
+  {
+   "url": "https://www.internationalclubdc.com/Events/EventDetails.aspx?EventID=2087C2FA-4B1A-4BF3-B7B5-434C0F1FAA7B",
+   "status": 200,
+   "final_url": "https://www.internationalclubdc.com/Events/EventDetails.aspx?EventID=2087C2FA-4B1A-4BF3-B7B5-434C0F1FAA7B",
+   "title": "International Club of DC -",
+   "dates": 1,
+   "jsonld": 0,
+   "jsonld_samples": [],
+   "hints": [],
+   "iframes": [
+    "https://www.google.com/maps/embed/v1/place?key=AIzaSyBWFaDEgrVqG3KBtglmaJOopO2IZS318N0            &zoom=16&q=1904 18th St NW, Washington DC 20009 "
    ],
    "event_links": [
     {

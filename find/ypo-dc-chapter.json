@@ -4,9 +4,9 @@
  "seed_url": "https://www.ypo.org/",
  "programs": "Chapter events",
  "access": "Restricted: members only; no public DC calendar",
- "found": "2026-10-25 02:00Z",
+ "found": "2026-10-25 02:05Z",
  "search_hits": [],
- "search_error": "",
+ "search_error": "html.duckduckgo.com 0 hits (202, 14243b); www.bing.com 0 hits (200, 120793b); lite.duckduckgo.com 0 hits (202, 14243b)",
  "probes": [
   {
    "url": "https://www.ypo.org/wp-json/tribe/events/v1/events?per_page=10",

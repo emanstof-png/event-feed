@@ -4,9 +4,9 @@
  "seed_url": "https://americanart.si.edu/events",
  "programs": "Featured events",
  "access": "Public",
- "found": "2026-10-25 02:00Z",
+ "found": "2026-10-25 02:07Z",
  "search_hits": [],
- "search_error": "",
+ "search_error": "html.duckduckgo.com 0 hits (202, 14319b); www.bing.com 0 hits (200, 128166b); lite.duckduckgo.com 0 hits (202, 14319b)",
  "probes": [
   {
    "url": "https://americanart.si.edu/wp-json/tribe/events/v1/events?per_page=10",

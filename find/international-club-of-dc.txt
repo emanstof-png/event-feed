@@ -1,6 +1,6 @@
 International Club of DC
 best page: https://www.internationalclubdc.com/ (status 200, 14 date strings, 0 JSON-LD events)
-fetched 2026-10-25 02:00Z
+fetched 2026-10-25 02:05Z
 
 
 	International Club of DC - International Club of DC Inc. Embassy Events, Wine Tastings, Galas, Concerts, and other Cultural Events in Washington DC
@@ -17,22 +17,22 @@ it takes just two minutes to establish your membership
 , and you will be keept informed of all our exciting events. If you are already a member, 
 please login
 . 
-              Austrian Embassy Annual Viennese Ball: A Night in Vienna and Magnificent Celebration of Austrian Music, the Viennese Waltz, Wine, and Desserts
-                  Friday, November 6, 2026 at 7:00 PM: You are cordially invited to experience a magical evening at the Austrian Embassy -- one of the grandest diplomatic venues in Washington DC for an unforgettable Viennese celebration of music, food, wine and dancing. Enjoy a night of dancing to our classical orchestra or watch the twirling silhouettes on the dance floor move to the sounds of the world’s most beloved waltzes, and other dance music from around the world. The Salon Orchestra of Washington will perform the world’s favorite Strauss waltzes, ballroom music from around the world and the famous Radetsky Grand March. You do not need a date to attend as we expect both singles and couples to join us. 
+              Library of Congress Guided Tour with Walking Tour from Union Station
+                  Saturday, December 5, 2026 at 1:30 PM: Explore the exterior architectural majesty of Union Station & the Supreme Court culminating in a Library of Congress tour. Attend on your own or with friends to discover a jewel of DC architecture & the world's largest library & the treasures that lie in archives of millions of books, films, & maps dating back to Aztecs. 
 Reserve your tickets now
 .
 Watch a video of our magical Viennese Ball at the Embassy of Austria, and join us for our next 
 Viennese Ball at the Embassy of Austria
  on Friday, November 6 with 
 Viennese waltz lessons at the Austrian Embassy the night before the ball.
-    I just wanted to thank you for a wonderful and well organised evening at the Gala Ball. We particularly liked the exhibition dancing and the Brazilian band, but to pick out these high points is not to lessen the fact that the whole evening was very enjoyable, thank you. Accordingly I have booked the Viennese ball and I am bringing someone else who I know will have a great time.
-    David W. Stebbings (Attendee of Masquerade Ball) 
-        French Embassy Dance Soiree
+    The International Club of DC can easily keep your social calendar brimming with activities, which also provide convenient opportunities to meld socializing with practicing a foreign language.
+    The Washington Post
+        The Great Gatsby Ball at the National Museum of Women in the Arts
 Name
 Index
-        Our dance soirees at the French Embassy provide a wonderful opportunity to meet other ICDC members while learning how to ballroom dance and enjoying French desserts and wine.  
-            Noche Ibero-Americana with 18 Embassies
-At the Mexican Cultural Institute of the Embassy of Mexico, one of DC's most magnificent diplomatic venues, ICDC members enjoyed a spectacular cultural celebration with 18 Ibero-American embassies including the embassies of Argentina, Brazil, Chile, Colombia, Costa Rica, Cuba, Ecuador, El Salvador, Guatemala, Honduras, Mexico, Paraguay, Peru, Portugal, Dominican Republic, Spain, Uruguay and Venezuela. 
+        F. Scott Fitzgerald’s novel “The Great Gatsby” characterized the glamor and decadence of the 1920s and out Great Gatsby Ball offered the perfect setting to experience the elegance, splendor, and extravagance of 1920s America.  
+            French Embassy Wine & Dance Soiree
+Members of the International Club of DC enjoyed an evening of French wine, French art, and dance in the ballroom of the Embassy of France. The evening started with a French wine reception as attendees enjoyed the artwork at the embassy and was followed by a dance lesson followed by dancing. We look forward to seeing you at our next dance soiree at the Embassy of France!
 Upcoming Events
               Halloween under the Stars at the Embassy Row Rooftop: Dance to Two Live Bands after Swing and Salsa Lessons - Saturday, October 31, 2026 at 6:30 PM
                   Celebrate Halloween with a Embassy Row Rooftop Dance Soiree under the stars featuring TWO live bands performing both swing and salsa music. The evening begins with swing and salsa dance lessons followed by a haunted battle of the bands as a swing and salsa band takes the stage to perform music for an unforgettable Halloween Soiree under the stars with spectacular views of the Washington DC skyline as a backdrop. Our previous rooftop soiree sold out, so please reserve your tickets now, as space is limited. 
@@ -47,4 +47,7 @@ Reserve your tickets now
 Reserve your tickets now
 .
               Tour of the US Capitol with Walking Tour from Union Station - Saturday, November 21, 2026 at 2:20 PM
-                  Explore the exterior architectural majesty of Union Station, Library of Congress, and the Supreme Court, culminating in a tour of the US Capitol. Join us for a special private tour of the exterior architecture of the eastern National Mall, culminating in a tour of t
+                  Explore the exterior architectural majesty of Union Station, Library of Congress, and the Supreme Court, culminating in a tour of the US Capitol. Join us for a special private tour of the exterior architecture of the eastern National Mall, culminating in a tour of the US Capitol interior. The tour starts at Union Station, where you will enjoy the breathtaking 96-foot coffered ceilings -- one of the finest examples of Beaux-Arts architecture. Also discover the awe-inspiring interior of the Capitol featuring a majestic mural depicting great heroes in American history. Our museum & gallery tours are some of our most popular events and frequently sell out well in advance. 
+Reserve your tickets now
+.
+              French Embassy Beaujolais Nouveau Wine Celebration: Evening of French Wine, Cuisine, Live Music, and Entertainment - Saturday, N

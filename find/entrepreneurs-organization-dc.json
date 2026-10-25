@@ -4,9 +4,9 @@
  "seed_url": "https://www.eodc.org/",
  "programs": "EO DC Accelerator",
  "access": "Membership and registration limits apply; listings are paginated",
- "found": "2026-10-25 02:00Z",
+ "found": "2026-10-25 02:05Z",
  "search_hits": [],
- "search_error": "",
+ "search_error": "html.duckduckgo.com 0 hits (202, 14305b); www.bing.com 0 hits (200, 130708b); lite.duckduckgo.com 0 hits (202, 14305b)",
  "probes": [
   {
    "url": "https://eodc.org/wp-json/tribe/events/v1/events?per_page=10",

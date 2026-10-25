@@ -4,9 +4,9 @@
  "seed_url": "https://www.swedenabroad.se/en/embassies/usa-washington/",
  "programs": "Embassy events",
  "access": "Check public vs invitation-only",
- "found": "2026-10-25 02:00Z",
+ "found": "2026-10-25 02:07Z",
  "search_hits": [],
- "search_error": "",
+ "search_error": "html.duckduckgo.com 0 hits (202, 14307b); www.bing.com 0 hits (200, 125865b); lite.duckduckgo.com 0 hits (202, 14352b)",
  "probes": [
   {
    "url": "https://www.swedenabroad.se/wp-json/tribe/events/v1/events?per_page=10",
@@ -20,9 +20,8 @@
   },
   {
    "url": "https://www.swedenabroad.se/?ical=1",
-   "status": 200,
-   "events": 0,
-   "head": "\r\n\r\n<!DOCTYPE html>\r\n<html lang=\"sv\" class=\"sv\">\r\n\r\n<head>\r\n    <meta charset=\"UTF-8\">\r\n    <title>Startsida - Sweden Abroad</title>\r\n\r\n    <link rel=\"icon\" href=\"/ClientResources/Favicons/favicon.ico\">\r\n\r\n    <link rel=\"apple-touch-icon-precomposed\" sizes=\"57x57\" href=\"/ClientResources/Favicons/app"
+   "status": "HTTPError",
+   "events": 0
   }
  ],
  "pages": [

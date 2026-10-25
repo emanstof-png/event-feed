@@ -4,9 +4,9 @@
  "seed_url": "https://www.israelbonds.com/events",
  "programs": "Investor briefings; community events",
  "access": "Embedded calendar",
- "found": "2026-10-25 02:00Z",
+ "found": "2026-10-25 02:07Z",
  "search_hits": [],
- "search_error": "",
+ "search_error": "html.duckduckgo.com 0 hits (202, 14252b); www.bing.com 0 hits (200, 128757b); lite.duckduckgo.com 0 hits (202, 14306b)",
  "probes": [
   {
    "url": "https://israelbonds.com/wp-json/tribe/events/v1/events?per_page=10",

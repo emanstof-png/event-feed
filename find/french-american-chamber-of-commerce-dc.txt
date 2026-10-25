@@ -1,6 +1,6 @@
 French-American Chamber of Commerce DC
 best page: https://www.faccwdc.org/ (status 200, 13 date strings, 0 JSON-LD events)
-fetched 2026-10-25 01:59Z
+fetched 2026-10-25 02:05Z
 
  
 Front page DC | FACC Washington D.C. Chapter

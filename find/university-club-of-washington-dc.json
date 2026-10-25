@@ -4,8 +4,11 @@
  "seed_url": "https://www.universityclubdc.com/",
  "programs": "Member social and intellectual programming",
  "access": "Restricted: no public dated calendar verified",
- "found": "2026-10-25 01:59Z",
- "search_hits": [],
+ "found": "2026-10-25 02:04Z",
+ "search_hits": [
+  "https://www.ceclients.com/sites/UniversityClubofWashingtonDC2023/",
+  "https://www.ceclients.com/sites/UniversityClubofWashingtonDC2023/guest-information/accommodations"
+ ],
  "search_error": "",
  "probes": [
   {

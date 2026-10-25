@@ -1,6 +1,6 @@
 MakomDC (Adas Israel)
 best page: https://www.adasisrael.org/daily-minyan-schedule (status 200, 15 date strings, 20 JSON-LD events)
-fetched 2026-10-25 02:01Z
+fetched 2026-10-25 02:09Z
 
 
 Events from January 17, 2027 – January 11, 2027 › Daily Minyan ›  – Adas Israel Congregation

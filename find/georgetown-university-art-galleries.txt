@@ -1,6 +1,6 @@
 Georgetown University Art Galleries
 best page: https://art.georgetown.edu/ (status 200, 5 date strings, 0 JSON-LD events)
-fetched 2026-10-25 02:00Z
+fetched 2026-10-25 02:06Z
 
 
 Department of Art and Art History |

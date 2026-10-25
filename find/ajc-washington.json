@@ -4,9 +4,9 @@
  "seed_url": "https://www.ajc.org/washington/events",
  "programs": "ACCESS DC",
  "access": "Public regional events; diplomatic invitations not always listed",
- "found": "2026-10-25 02:00Z",
+ "found": "2026-10-25 02:07Z",
  "search_hits": [],
- "search_error": "",
+ "search_error": "html.duckduckgo.com 0 hits (202, 14249b); www.bing.com 0 hits (200, 128405b); lite.duckduckgo.com 0 hits (202, 14310b)",
  "probes": [
   {
    "url": "https://www.ajc.org/wp-json/tribe/events/v1/events?per_page=10",

@@ -4,8 +4,15 @@
  "seed_url": "https://www.artsclubofwashington.org/events",
  "programs": "Exhibitions; receptions",
  "access": "Public; check which events admit nonmembers",
- "found": "2026-10-25 01:59Z",
- "search_hits": [],
+ "found": "2026-10-25 02:04Z",
+ "search_hits": [
+  "https://artsclubofwashington.org/events/",
+  "https://artsclubofwashington.org/",
+  "https://acw.wildapricot.org/events",
+  "https://venunite.com/dc/venues/arts-club-of-washington-dc",
+  "https://acw.wildapricot.org/events?EventViewMode=1&EventListViewMode=1",
+  "https://www.eventbrite.com/d/dc--washington/the-arts-club-of-washington/"
+ ],
  "search_error": "",
  "probes": [
   {

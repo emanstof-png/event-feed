@@ -1,6 +1,6 @@
 Capital Jewish Museum
 best page: https://capitaljewishmuseum.org/calendar/?all_events=1 (status 200, 33 date strings, 0 JSON-LD events)
-fetched 2026-10-25 02:00Z
+fetched 2026-10-25 02:08Z
 
 
 Special Exhibits & Programs DC | Capital Jewish Museum Calendar

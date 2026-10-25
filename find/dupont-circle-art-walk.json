@@ -4,9 +4,9 @@
  "seed_url": "https://www.dupontcircleartwalk.com/",
  "programs": "First Friday art walk",
  "access": "Recurring; receptions may duplicate gallery calendars",
- "found": "2026-10-25 02:00Z",
+ "found": "2026-10-25 02:06Z",
  "search_hits": [],
- "search_error": "",
+ "search_error": "html.duckduckgo.com 0 hits (202, 14287b); www.bing.com 0 hits (200, 127843b); lite.duckduckgo.com 0 hits (202, 14281b)",
  "probes": [
   {
    "url": "https://www.dupontcircleartwalk.com/wp-json/tribe/events/v1/events?per_page=10",

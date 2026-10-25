@@ -1,6 +1,6 @@
 University Club of Washington DC
 best page: https://www.universityclubdc.com/ (status 200, 0 date strings, 0 JSON-LD events)
-fetched 2026-10-25 01:59Z
+fetched 2026-10-25 02:04Z
 
 
 	A Tradition of Belonging - University Club of Washington, DC

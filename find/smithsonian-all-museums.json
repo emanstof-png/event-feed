@@ -4,9 +4,9 @@
  "seed_url": "https://www.si.edu/events",
  "programs": "Smithsonian-wide calendar",
  "access": "Aggregator: filter museum and type",
- "found": "2026-10-25 02:01Z",
+ "found": "2026-10-25 02:10Z",
  "search_hits": [],
- "search_error": "",
+ "search_error": "html.duckduckgo.com Timeout; www.bing.com 0 hits (200, 123868b); lite.duckduckgo.com Timeout",
  "probes": [
   {
    "url": "https://www.si.edu/wp-json/tribe/events/v1/events?per_page=10",
