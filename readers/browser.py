@@ -7,7 +7,7 @@ Speed rules (SPEC_SPEED Phase 2, Oct 24):
   bound to the thread that started it). Every caller, including fetch.py's fallbacks from the
   parallel fast readers, queues here and waits at most CAP seconds.
 - No network_idle. After load, wait until the text stops growing (1.5s steady, 2.5s to 12s).
-- solve_cloudflare only when the first render is a challenge page.
+- solve_cloudflare only when the first render is a challenge page; those pages get a second 45s.
 
 render_text(source) returns the text and a small report without calling Haiku, so a job
 with no API key can still prove what the browser sees (render_test.py)."""
@@ -125,6 +125,7 @@ def _render(session, source):
         texts = once(False)
         if _CHALLENGE.search(" ".join(texts)[:3000]):
             rep.update(cloudflare=True, iframes=0, srcdoc=0)
+            source["_challenge"] = True   # tells render_text to allow a second CAP for the solve
             texts = once(True)
     except Exception as e:
         texts = []
@@ -169,7 +170,12 @@ def render_text(source, cap=CAP):
     while not fut.running() and not fut.done() and time.time() - t0 < 600:
         time.sleep(0.2)
     try:
-        return fut.result(timeout=cap)
+        try:
+            return fut.result(timeout=cap)
+        except FutTimeout:
+            if not source.get("_challenge"):
+                raise
+            return fut.result(timeout=cap)   # Cloudflare challenge pages only: one more CAP (Art House 7 needs ~60s)
     except FutTimeout:
         fut.cancel()
         return "", {"status": None, "chars": 0, "iframes": 0, "srcdoc": 0, "clicked_next": False,
