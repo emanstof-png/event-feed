@@ -1,6 +1,6 @@
 Carnegie Science
 https://carnegiescience.edu/events
-rendered 2026-10-25 00:24Z  status=200 chars=35148 iframes=4 srcdoc=0 next=True error=
+rendered 2026-10-25 00:36Z  status=200 chars=35148 iframes=4 srcdoc=0 next=True error=
 
 
 

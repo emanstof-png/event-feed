@@ -1,6 +1,6 @@
 Insight Meditation Community of Washington (IMCW)
 https://imcw.org/events/
-rendered 2026-10-25 00:21Z  status=200 chars=6926 iframes=1 srcdoc=0 next=False error=
+rendered 2026-10-25 00:34Z  status=200 chars=6926 iframes=1 srcdoc=0 next=False error=
 
 
 
@@ -392,7 +392,7 @@ We'll send you practice opportunities with our community of teachers. Unsubscrib
 
 Payment options
 
-5 + 7 = 
+9 + 6 = 
 
 TAKE ME TO THE SERIES!
 

@@ -1,6 +1,6 @@
 WGIT DC
 https://wgitdc.com/events
-rendered 2026-10-25 00:26Z  status=200 chars=35804 iframes=1 srcdoc=0 next=False error=
+rendered 2026-10-25 00:38Z  status=200 chars=35060 iframes=1 srcdoc=0 next=False error=
 
 
 
@@ -276,30 +276,6 @@ Washington, DC
 Paris Paloma has partnered with PLUS1 so that $1 from every ticket sold goes to organizations protecting reproductive rights. www.plus1.org
  7:00 pm
 0.8 mi
-Washington Capitals vs. Buffalo Sabres
-Capital One Arena
- | 
-Washington, DC
- 7:00 pm
-0.7 mi
-Invisible Land  2026
-King Greenleaf Recreation Center
- | 
-Washington, DC
-HUE, a dynamic rock band hailing from Washington, D.C., emerged from the vibrant depths of the DMV (DC, Maryland, Northern Virginia) music scene. Drawing inspiration from the rich musical landscape of the area, which encompasses genres like gogo, pop punk, hardcore, djent, R&B, and trap production, HUE skillfully blends these influences into a meticulously crafted sound.
-
-The band's foundation was laid through the friendship of Alireza Rezghi and Nic Keene, both seasoned musicians who had previously explored the music scene in other projects. United by a shared vision, they set out to create a new musical endeavor that would seamlessly transcend various scenes. The addition of drummer Reginold “AreJay” James, who had previously collaborated with them in a different musical venture, solidified the lineup.
-
-Currently, HUE is on the brink of releasing their highly anticipated debut single, "Home." With a well-defined musical blueprint, the band is poised to make a lasting impact, gearing up to bring their electrifying sound to towns and cities near you. Stay tuned for an unforgettable musical journey as HUE prepares to captivate audiences with their distinctive fusion of genres.
- 7:00 pm
-2.4 mi
-Movie Night Under the Stars at The Stacks
-The Stacks
- | 
-Washington, DC
-Join The Stacks for a cozy fall movie night under the stars on Saturday, October 24 at 7 PM! Head to Dry Dock Park for a free outdoor screening of the Halloween classic Hocus Pocus, complete with complimentary popcorn and concessions while supplies last. Guests can relax in provided chairs and hammocks or bring their own lawn chairs and blankets to enjoy the movie. Drinks will also be available for purchase.
- 7:00 pm
-3.1 mi
 Q Da Fool w/ Shabazz PBG
 Union Stage
  | 
@@ -691,6 +667,39 @@ Washington, DC
 This is a general admission standing-room event.
  9:00 pm
 1.6 mi
+Coven: A Halloween Dance Party
+Black Cat DC
+ | 
+Washington, DC
+Join the Coven for a night of dancing, hexes and witchery!
+
+Conjure up your most bewitching costumes and strike a pose on our black cat runway
+
+Pole Dancing performances and demos by Yooji @itsyooj
+
+Haunted Dance Party with DJ Dianamatic @dianaholcomb and $et @setinator
+
+Tarot Readings with Skye Marinda Tarot @skye.marinda.tarot
+
+Plus a witchy photo-booth, spooky vendors and more!
+ 9:00 pm
+0.5 mi
+Aidan Leclaire & Blanket Approval
+Quarry House Tavern
+ | 
+Silver Spring, MD
+https://aidanleclaire.com/home
+
+Formed by passionate musicians from the Virginia and D.C. areas, the  Leclaires (The F.K.A. Leclaire Band) have quickly become a standout act in the local music scene. Known for their unique blend of indie-rock, folk, and pop, their music, characterized by playful yet heartfelt lyrics and captivating melodies, has resonated deeply with audiences across the East Coast and beyond.
+ 9:30 pm
+5.9 mi
+Meisha Herron
+Nanny O'Briens
+ | 
+Washington, DC
+Meisha Herron plays some popular soul, r&b, blues and classic songs from the 70's to more current.
+ 9:30 pm
+2.4 mi
  See More Events 
 
 Powered by
@@ -737,15 +746,15 @@ Contact
 
 © 2025 WGIT DC
 
+Oct 24 
+AFRO Informer High Tea
+The Press Club
 Oct 29 
 Dia De Los Muertos Dance with DJ Shango
 Edgewood Arts Center
 Oct 27 
 Urban Garden Tuesday Trivia
 Urban Garden Brewing
-Oct 24 
-AFRO Informer High Tea
-The Press Club
 0
 
 Selected Categories

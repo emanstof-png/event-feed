@@ -1,6 +1,6 @@
 2239 (Washington Hebrew Congregation)
 https://www.whctemple.org/events/
-rendered 2026-10-25 00:20Z  status=200 chars=36440 iframes=0 srcdoc=0 next=False error=
+rendered 2026-10-25 00:33Z  status=200 chars=36440 iframes=0 srcdoc=0 next=False error=
 
 
 

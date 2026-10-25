@@ -1,6 +1,6 @@
 Yoga District
 https://clients.mindbodyonline.com/classic/ws?studioid=2070&stype=-7&sView=week&sLoc=0
-rendered 2026-10-25 00:21Z  status=200 chars=32388 iframes=0 srcdoc=0 next=False error=
+rendered 2026-10-25 00:34Z  status=200 chars=32388 iframes=0 srcdoc=0 next=False error=
 
 
 
@@ -1787,7 +1787,7 @@ To finish connecting with Facebook, please enter the email and password you use 
 
 Create an Account
 
-10/24/2026 8:21:03 PM in District of Columbia
+10/24/2026 8:33:59 PM in District of Columbia
 
 Privacy Policy
 

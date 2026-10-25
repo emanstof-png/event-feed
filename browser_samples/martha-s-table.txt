@@ -1,6 +1,6 @@
 Martha's Table
 https://volunteer.marthastable.org/calendar/
-rendered 2026-10-25 00:22Z  status=200 chars=43877 iframes=0 srcdoc=0 next=False error=
+rendered 2026-10-25 00:35Z  status=200 chars=43276 iframes=0 srcdoc=0 next=False error=
 
 
 
@@ -1810,22 +1810,4 @@ Instagram
 Privacy Policy
 
 Contact Us
-
-×
-
-Our website uses cookies
-
-                                This site uses cookies to improve your experience and analyze site traffic. We do not use cookies for advertising or marketing purposes. Read more about how we use cookies in 
-Privacy Policy
-. By clicking accept, you consent to our use of cookies.
-
-Show Cookie Preferences
-
-Necessary (Always active)
-
-Analytics
-
-                                        Analytical cookies are used to understand how users interact with the website. They help provide information on metrics like number of visitors, bounce rate, traffic source, etc.
-
-Accept
 
