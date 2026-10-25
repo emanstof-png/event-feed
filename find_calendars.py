@@ -28,18 +28,31 @@ SKIP = re.compile(r"facebook|instagram|linkedin|twitter|x\.com|yelp|tripadvisor|
 
 def slug(n): return re.sub(r"[^a-z0-9]+", "-", n.lower()).strip("-")[:60]
 
+def _clean(hrefs):
+    out = []
+    for href in hrefs:
+        if "uddg=" in href:
+            href = unquote(parse_qs(urlparse(href).query).get("uddg", [href])[0])
+        if href.startswith("http") and not SKIP.search(href) and "bing.com" not in href and "duckduckgo" not in href and href not in out:
+            out.append(href)
+    return out[:6]
+
 def search(q):
-    try:
-        r = get("https://html.duckduckgo.com/html/?q=" + quote_plus(q), timeout=15)
-        out = []
-        for href in re.findall(r'class="result__a"[^>]*href="([^"]+)"', r.text):
-            if "uddg=" in href:
-                href = unquote(parse_qs(urlparse(href).query).get("uddg", [href])[0])
-            if href.startswith("http") and not SKIP.search(href) and href not in out:
-                out.append(href)
-        return out[:6], ""
-    except Exception as e:
-        return [], f"{type(e).__name__}: {e}"[:120]
+    """DuckDuckGo HTML, then Bing, then DuckDuckGo lite; 1.5s apart so one job does not get blocked."""
+    errs = []
+    for url, rx in [("https://html.duckduckgo.com/html/?q=", r'class="result__a"[^>]*href="([^"]+)"'),
+                    ("https://www.bing.com/search?q=", r'<h2[^>]*><a[^>]*href="(https?://[^"]+)"'),
+                    ("https://lite.duckduckgo.com/lite/?q=", r'class=.result-link.[^>]*href="([^"]+)"|<a rel="nofollow" href="([^"]+)"')]:
+        time.sleep(1.5)
+        try:
+            r = get(url + quote_plus(q), timeout=15)
+            hits = _clean([h if isinstance(h, str) else next((x for x in h if x), "") for h in re.findall(rx, r.text)])
+            if hits:
+                return hits, ""
+            errs.append(f"{url.split('/')[2]} 0 hits ({r.status_code}, {len(r.text)}b)")
+        except Exception as e:
+            errs.append(f"{url.split('/')[2]} {type(e).__name__}")
+    return [], "; ".join(errs)[:160]
 
 def soup_of(html):
     from bs4 import BeautifulSoup
@@ -87,9 +100,12 @@ def examine(url, deadline):
                       ("clubessential", "clubessential"), ("jonas", "jonasclub"), ("cvent", "cvent")] if k in low)
     if gen and gen.get("content"):
         rec["platform"] += f" [{gen['content'][:40]}]"
-    for t in s(["script", "style", "noscript"]):
-        if t.get("type") != "application/ld+json":
-            t.decompose()
+    for t in list(s(["script", "style", "noscript"])):
+        try:
+            if (t.attrs or {}).get("type") != "application/ld+json":
+                t.decompose()
+        except Exception:
+            pass
     ev = jsonld_events(soup_of(html))
     rec["jsonld"], rec["jsonld_samples"] = len(ev), ev[:5]
     text = re.sub(r"\n\s*\n+", "\n", s.get_text("\n"))
@@ -97,6 +113,8 @@ def examine(url, deadline):
     base = rec["final_url"] or url
     seen = set()
     for tag in s.find_all(["a", "link", "iframe"]):
+        if not getattr(tag, "attrs", None):
+            continue
         href = tag.get("href") or tag.get("src") or ""
         if not href or href.startswith(("mailto:", "tel:", "javascript:", "#")):
             continue
