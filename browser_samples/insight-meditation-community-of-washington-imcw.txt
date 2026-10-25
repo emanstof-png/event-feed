@@ -1,6 +1,6 @@
 Insight Meditation Community of Washington (IMCW)
 https://imcw.org/events/
-rendered 2026-10-18 05:31Z  status=200 chars=7067 iframes=1 srcdoc=0 next=False error=
+rendered 2026-10-24 23:45Z  status=200 chars=6789 iframes=1 srcdoc=0 next=False error=
 
 Event Search | IMCW
 DONATE NOW
@@ -60,9 +60,8 @@ Registration Open
 Deepening Concentration; Deepening Insight Retreat
 Stan Eisenstein
 Learn More
-Registration Open
-Awakening Is For Everyone
-Hugh Byrne
+The Freedom of Seeing Clearly
+Marjolein Janssen and Deborah Ratner-Helzer
 Learn More
 Search for Events
 Morning
@@ -112,6 +111,7 @@ Em Morrison
 Guest Teacher(s)
 Hugh Byrne
 Jane Jackson
+Jeani George
 Jeff Rosenberg
 Jen Jordan
 Jennifer Stanley
@@ -168,13 +168,6 @@ Retreats
 Retreats > Daylongs & Workshops
 Retreats > Multiday
 Secular Mindfulness
-Registration Open
-Awakening Is For Everyone
-Hugh Byrne
-Your Time
- Sunday, Oct 18, 04:00 PM - 06:00 PM (5 sessions)
-The Buddha’s central teaching of the Four Noble Truths points to awakening, or enlightenment, as the deepest freedom possible in this human life and the goal of our spiritual practice.
-More info
 Registration Open
 Dwelling in the Divine Abodes
 Shell Fischer
@@ -263,7 +256,7 @@ Close
 We’ll let you know of more opportunities to practice with Ofosu and our community of teachers. Unsubscribe at any time.
 We'll send you practice opportunities with our community of teachers. Unsubscribe any time.
 Payment options
-2 + 7 = 
+5 + 7 = 
 TAKE ME TO THE SERIES!
 
 ----

@@ -1,6 +1,6 @@
 DC Public Library: DC Reads
 https://dclibrary.libnet.info/events
-rendered 2026-10-18 05:36Z  status=200 chars=9185 iframes=0 srcdoc=0 next=False error=
+rendered 2026-10-24 23:50Z  status=200 chars=13088 iframes=0 srcdoc=0 next=False error=
 
 Events - DC Public Library
 Skip to main content
@@ -186,7 +186,7 @@ Events calendar
 3000
 Today
 Clear
-Focused Sunday, October 18, 2026
+Focused Saturday, October 24, 2026
 From
 To
 Today
@@ -199,25 +199,11 @@ Next month
  RSS
  Add to Calendar
 events
-October 18 2026
-October 18 2026 - October 18 2026
+October 24 2026
+October 24 2026 - October 24 2026
 Clear filter
-Evil Laugh 
- - Contest
-Sunday, October 18: All day
- Capitol View Neighborhood Library
-Age group:  
- Seniors 
- Birth - 5 
- Adults 
- 5 - 12 Years Old 
- 13 - 19 Years Old (Teens) 
-event type:  
-Library Card Sign-Up Month, Know Your Power, Know Your Neighborhood, Family Program
-Capitol View Library is hosting an Evil Laugh Contest!
-
 Pokemon Scavenger Hunt
-Sunday, October 18: All day
+Saturday, October 24: All day
  Southwest Neighborhood Library
 Age group:  
  Birth - 5 
@@ -225,141 +211,264 @@ Age group:  
 event type:  
 Gaming, Family Program
 Celebrate 30 Years of Pokemon!
-Peirce Mill Grain Fair
- - with the Book Bike
-Sunday, October 18: 10:00am - 4:00pm
+Capitol View Library Creative Art Contest 
+ - THEME: SPOOKY HOUSE(S)
+Saturday, October 24: All day
+ Capitol View Neighborhood Library
+Age group:  
+ 13 - 19 Years Old (Teens) 
+event type:  
+Halloween, Family Program, Educational Program, Arts & Crafts
+Teens ages 13-19 are invited to participate in the annual creative art contest.
+THIS YEAR’S THEME: Spooky House(s)
+Pokémon Scavenger Hunt
+Saturday, October 24: All day
+ Anacostia Neighborhood Library
+Age group:  
+ Seniors 
+ Birth - 5 
+ Adults 
+ 5 - 12 Years Old 
+ 13 - 19 Years Old (Teens) 
+event type:  
+Gaming, Family Program
+Celebrate Pokémon's 30th Anniversary with a DC-themed Pokémon Scavenger Hunt!
+DEA National Drug Take Back Day
+Saturday, October 24: 10:00am - 2:00pm
  Cleveland Park Neighborhood Library
 Age group:  
  Seniors 
+ Adults 
+event type:  
+Health
+#TakeBackDay is a free event for communities nationwide to properly dispose of old and unneeded medications safely and anonymously.
+Fall Festival
+ - Under the Loggia at MLK Library
+Saturday, October 24: 10:00am - 2:00pm
+ Martin Luther King Jr. Memorial Library - Central Library
+Age group:  
+ Birth - 5 
+ 5 - 12 Years Old 
+event type:  
+Halloween, Family Program
+Fall fun is taking over the Loggia at the Martin Luther King Jr. Memorial Library!
+Registration is now closed
+Mask Making
+Saturday, October 24: 10:00am - 6:00pm
+ Tenley-Friendship Neighborhood Library
+Age group:  
+ Birth - 5 
+ 5 - 12 Years Old 
+event type:  
+Halloween, Family Program, Arts & Crafts
+Color an animal mask.This is a drop-in craft. While supplies last.
+English Conversation Group
+Saturday, October 24: 10:00am - 12:00pm
+ Tenley-Friendship Neighborhood Library - 
+Conference  Room 1 (5-15 Person Capacity)
+Age group:  
+ Seniors 
+ Adults 
+event type:  
+ESL / Bilingual Programs
+A weekly English as a second language (ESL) conversation circle
+DEA National  Drug Take Back Day!
+Saturday, October 24: 10:00am - 2:00pm
+ Southwest Neighborhood Library
+Age group:  
+ Seniors 
+ Adults 
+ 13 - 19 Years Old (Teens) 
+event type:  
+Civic Engagement
+Turn in Old and Expired Prescription Medication.
+DEA National Drug Take Back Day
+Saturday, October 24: 10:00am - 2:00pm
+ Mt. Pleasant Neighborhood Library
+Age group:  
+ Seniors 
+ Adults 
+event type:  
+Health
+#TakeBackDay is a free event for communities nationwide to properly dispose of old and unneeded medications safely and anonymously.
+Georgetown Library English Conversation Club
+ - A weekly conversation circle for English-language learners
+Saturday, October 24: 10:00am - 11:30am
+ Georgetown Neighborhood Library
+Age group:  
+ Seniors 
+ Adults 
+ 13 - 19 Years Old (Teens) 
+event type:  
+ESL / Bilingual Programs, Educational Program
+Would you like to improve your English-language skills in a small and comfortable group?
+Would you like to know more about American culture and current events?
+Friends Book Sale
+ - So Many Items for Sale: Books, CD's, Dvd's and More!
+Saturday, October 24: 10:00am - 2:00pm
+ Palisades Neighborhood Library
+Age group:  
+ Seniors 
  Birth - 5 
  Adults 
  5 - 12 Years Old 
  13 - 19 Years Old (Teens) 
 event type:  
-Story Time, Outreach, Makers & DIY Program, Family Program
-@ Peirce Mill (in Rock Creek Park)
-MLK Creativebug Meetup
- - Shrink Art Keychain
-Sunday, October 18: 1:00pm - 2:30pm
- Martin Luther King Jr. Memorial Library - Central Library - 
-401-C Program Room (People's Archive)
-Age group:  
- Adults 
-event type:  
-Makers & DIY Program, Arts & Crafts
-Create custom ball chain charms using shrinkable plastic paper.
-This event is full
-Georgetown Library Friends Donated Book Sale
- - Used Book Sale
-Sunday, October 18: 1:00pm - 3:00pm
- Georgetown Neighborhood Library
-Age group:  
- Seniors 
- Adults 
-event type:  
 Friends of the Library
-Used Book Sale
-Donated Book Sale
- - Georgetown Friends Used Book Sale
-Sunday, October 18: 1:00pm - 3:00pm
- Georgetown Neighborhood Library
+This Book Sale is hosted by the Friends of Palisades Neighborhood Library. All proceeds benefit the library. They accept donations every Saturday with a maximum of two bags or boxes. 
+Reading All-Stars with Northstar
+Saturday, October 24: 10:30am - 12:00pm
+ Mt. Pleasant Neighborhood Library
 Age group:  
- Seniors 
- Adults 
-event type:  
-Friends of the Library
-Used book sale.
-
-Sit & Stitch
- - For the beginners and the experts
-Sunday, October 18: 1:00pm - 4:30pm
- Southwest Neighborhood Library - 
-Meeting Room 1 (20-40 Person Capacity)
-Age group:  
- Seniors 
- Adults 
+ 5 - 12 Years Old 
  13 - 19 Years Old (Teens) 
 event type:  
-Arts & Crafts
-Bring your own materials/project to join us in crafting, community, and skill-sharing. All skill levels welcome!
-Washington Commanders Football
- - NFL Football at Bellevue Library  
-Sunday, October 18: 1:00pm - 4:00pm
+Educational Program, Back to School
+Mt. Pleasant Library hosts Saturday literacy sessions with volunteers from Northstar Tutoring, a one-on-one volunteer literacy and mentorship program.
+Weekend Playdate
+Saturday, October 24: 10:30am - 11:00am
+ Anacostia Neighborhood Library
+Age group:  
+ Birth - 5 
+event type:  
+Family Program
+Connect with other parents while kids have fun!
+Certiport’s Compass Cloud Remote Certification Service
+ - 2019 Outlook Associate Microsoft Office Specialist Exams
+Saturday, October 24: 10:30am - 12:00pm
+ Martin Luther King Jr. Memorial Library - Central Library
+Age group:  
+ Adults 
+event type:  
+Job Readiness Clinic, Computer Class
+Registration Required
+Must register three weekdays before the test date
+Maximum number of test-takers: 10
+
+Certiport’s Compass Cloud Remote Certification Service
+ - Professional Communications Certification Exams
+Saturday, October 24: 10:30am - 12:00pm
+ Martin Luther King Jr. Memorial Library - Central Library
+Age group:  
+ Adults 
+event type:  
+Job Readiness Clinic, Computer Class
+Registration Required
+Must register three weekdays before the test date
+Maximum number of test-takers: 10
+
+Certiport’s Compass Cloud Remote Certification Service
+ - IC3-GS6 Level Three Certification Exams
+Saturday, October 24: 10:30am - 12:00pm
+ Martin Luther King Jr. Memorial Library - Central Library
+Age group:  
+ Adults 
+event type:  
+Job Readiness Clinic, Computer Class
+Registration Required
+Must register three weekdays before the test date
+Maximum number of test-takers: 10
+
+Yoga With NZINGA
+ - Chair Yoga for Seniors 
+Saturday, October 24: 10:45am - 1:00pm
+ Francis A. Gregory Neighborhood Library - 
+Meeting Room 1 (11-50 Person Capacity)
+Age group:  
+ Seniors 
+ Adults 
+ 5 - 12 Years Old 
+ 13 - 19 Years Old (Teens) 
+event type:  
+Health
+Join Instructor Nzinga for rejuvenating Kemetic Yoga classes.
+Android Basics
+Saturday, October 24: 11:00am - 12:30pm
+ Martin Luther King Jr. Memorial Library - Central Library - 
+202-O Computer Lab (16 Person Capacity)
+Age group:  
+ Seniors 
+ Adults 
+event type:  
+Computer Class
+Seats are limited to 16 participants and will be filled on a first-come, first-served basis. Please arrive a half-hour early to sign in for a seat at one of the 16 workstations.
+All-ages Lego Club
+ - Lego lovers unite! Build your own fun brick by brick!
+Saturday, October 24: 11:00am - 2:00pm
+ Bellevue (William O. Lockridge) Neighborhood Library - 
+Conference Room A (6-12 Person Capacity),Conference Room B (6-12 Person Capacity)
+Age group:  
+ Seniors 
+ Birth - 5 
+ Adults 
+ 5 - 12 Years Old 
+ 13 - 19 Years Old (Teens) 
+event type:  
+Makers & DIY Program, Family Program, Arts & Crafts
+Find your Lego tribe at the Bellevue Neighborhood Library. You bring the inspiration! We'll bring the bricks! See what Lego magic we can make together!
+Friends of Tenley Library Book Sale
+Saturday, October 24: 1:30pm - 4:30pm
+ Tenley-Friendship Neighborhood Library
+Age group:  
+ Seniors 
+ Adults 
+event type:  
+Friends of the Library
+Join the Friends of Tenley Library to shop a range of donated titles with proceeds supporting the library.
+Typing Practice
+ - Improve Your Typing Skills 
+Saturday, October 24: 1:30pm - 3:00pm
+ Martin Luther King Jr. Memorial Library - Central Library - 
+202-O Computer Lab (16 Person Capacity)
+Age group:  
+ Seniors 
+ Adults 
+event type:  
+Computer Class
+​In this 1.5-hour session, you will engage in self-paced, practice tutorials and custom lessons to improve your typing and keyboarding skills. 
+Football, Facts, and Feelings: Coffee Chat 
+ - Football (College and NFL)
+Saturday, October 24: 2:00pm - 3:30pm
+ Shepherd Park (Juanita E. Thornton) Neighborhood Library
+Age group:  
+ Seniors 
+ Adults 
+event type:  
+Conversation Circle
+A quick, friendly coffee meet-up to chat about college and NFL football.
+Georgetown Library Chess Club
+Saturday, October 24: 2:00pm - 3:30pm
+ Georgetown Neighborhood Library
+Age group:  
+ Seniors 
+ Birth - 5 
+ Adults 
+ 5 - 12 Years Old 
+ 13 - 19 Years Old (Teens) 
+event type:  
+Chess Club
+All ages and skill levels are welcome!
+Bellevue Saturday Cinema: Horror
+Saturday, October 24: 3:00pm - 5:00pm
  Bellevue (William O. Lockridge) Neighborhood Library - 
 Meeting Room (25-100 Person Capacity)
-Age group:  
- Seniors 
- Birth - 5 
- Adults 
- 5 - 12 Years Old 
- 13 - 19 Years Old (Teens) 
-event type:  
-Outreach, Know Your Neighborhood, Family Program
-Come enjoy watching the Washington Commanders Football Team play.   
-Silver Screening: The Mummy (1999)
-Sunday, October 18: 1:15pm - 3:30pm
- Cleveland Park Neighborhood Library - 
-Lower-Level Meeting Room (25-105 Person Capacity)
 Age group:  
  Adults 
 event type:  
 Film
-Drop in for a free Sunday afternoon screening of the The Mummy!  
-Sewing Machine Reservation
- - Use the sewing machine at the SOW STEAM Lab
-Sunday, October 18: 1:30pm - 3:30pm
- Southwest Neighborhood Library
+October we are showing horror flicks to get in the Halloween spirit. 
+Woodridge Still Life Drawing Group  
+ - Still Life Drawing Sessions  
+Saturday, October 24: 3:00pm - 5:00pm
+ Woodridge Neighborhood Library - 
+Meeting Room 1 (10-80 Person Capacity)
 Age group:  
  Seniors 
  Adults 
  13 - 19 Years Old (Teens) 
 event type:  
-STEM (Science, Technology, Engineering & Math), Makers & DIY Program, Arts & Crafts
-Reserve a sewing machine for two hours to work on your own projects. 
-Register
-Cricut Reservation 
- - Use the Cricut at the SOW STEAM Lab
-Sunday, October 18: 1:30pm - 3:30pm
- Southwest Neighborhood Library
-Age group:  
- Seniors 
- Adults 
- 13 - 19 Years Old (Teens) 
-event type:  
-STEM (Science, Technology, Engineering & Math), Makers & DIY Program, Arts & Crafts
-Reserve a Cricut for two hours to work on your own projects. 
-Register
-Raíces: A Writing Workshop Series on Resistance and Healing
- - What We Inherit: Writing Beyond Permission
-Sunday, October 18: 2:00pm - 4:00pm
- Mt. Pleasant Neighborhood Library - 
-Meeting Room 1 (10-100 Person Capacity)
-Age group:  
- Seniors 
- Adults 
-event type:  
-Writing, Poetry Month, ESL / Bilingual Programs
-A monthly community-based writing series that centers Latine, BIPOC, queer, and marginalized voices to explore personal and collective resistance and healing through storytelling. 
-
-Register
-Sunday Movie Matinee
-Sunday, October 18: 2:00pm - 4:00pm
- Woodridge Neighborhood Library
-Age group:  
- Seniors 
- Adults 
-event type:  
-Hispanic Heritage Month, Film
-Everyone loves the Sunday Movie Matinee, it's a chance for folks to relax, enjoy a movie together and participate in a brief post film discussion.
-MLK Open Mic
-Sunday, October 18: 3:30pm - 4:30pm
- Martin Luther King Jr. Memorial Library - Central Library - 
-East Storefront A & B
-Age group:  
- Adults 
-event type:  
-Musical Performance
-The MLK Open Mic Series invites you to be a part of an afternoon of poetry and music! 
+Arts & Crafts, Age-Friendly DC
+Practice drawing with friends and neighbors in a relaxing, creative, open environment.  
 close
 Location
 View events at all branches   

@@ -1,6 +1,6 @@
 Sixth & I
 https://www.sixthandi.org/events/
-rendered 2026-10-18 05:19Z  status=200 chars=16476 iframes=0 srcdoc=0 next=False error=
+rendered 2026-10-24 23:35Z  status=200 chars=15634 iframes=0 srcdoc=0 next=False error=
 
 Events for October 2026 – Sixth & I
 Home
@@ -87,7 +87,7 @@ Events
 
 	This Month
 
-				2026-10-17			
+				2026-10-24			
 
 				October 2026			
 
@@ -606,11 +606,11 @@ October 20 at 6:30 pm
 		How to be a Jewish Adult 	
 Do you ever feel like you could use a handbook for how to build a Jewish life? If you identify as Jewish or Jew-ish but aren’t sure how to incorporate Judaism into your day-to-day life, this 8-week series led by guest Rabbi Loren Berman offers equal parts community-building and deep-dive into core lessons from our tradition to help you feel more Jewishly connected. 
 
-			2 events		
+			1 event		
 
 			21		
 
-		2 events,
+		1 event,
 	
 
 				21			
@@ -623,30 +623,14 @@ October 21 at 6:30 pm
 		Basically Jewish	
 In this five-week course, Rabbi Jenna leads an experiential introduction to Judaism course designed for those looking to reconnect with Judaism, as well as non-Jews looking to discover. This course allows students to develop a deeper connection with the Jewish faith through a digestible, experiential introduction to Jewish traditions, customs, and rituals. 
 
-		7:00 pm	
-
-		Jewish Page Turners: A Book Club	
-October 21 at 7:00 pm
-
-		Jewish Page Turners: A Book Club	
-At our monthly book club, read a book recommended by our rabbis, share your takeaways, and reflect on how the book relates to your own experience of Judaism and spirituality.
-
-			2 events		
+			1 event		
 
 			22		
 
-		2 events,
+		1 event,
 	
 
 				22			
-
-		5:30 pm	
-
-		Museum Scavenger Hunt and Happy Hour	
-October 22 at 5:30 pm
-
-		Museum Scavenger Hunt and Happy Hour	
-Are you looking for a fun way to connect with fellow Sixth & I’ers or make a new friend? Come explore the National Portrait Gallery with us, where you’ll join a team on a scavenger hunt. Once you’ve won, come back to Sixth & I for a drink, a tour of our space, and a chance to connect with others in our community.  
 
 		7:00 pm	
 
@@ -957,14 +941,8 @@ October 20 at 6:30 pm
 October 21 at 6:30 pm
 
 		Basically Jewish	
-October 21 at 7:00 pm
-
-		Jewish Page Turners: A Book Club	
 
 		October 22	
-October 22 at 5:30 pm
-
-		Museum Scavenger Hunt and Happy Hour	
 October 22 at 7:00 pm
 
 		Sixth & I Queer Collective	

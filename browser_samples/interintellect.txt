@@ -1,6 +1,6 @@
 Interintellect
 https://interintellect.com/salons
-rendered 2026-10-18 05:36Z  status=200 chars=5611 iframes=0 srcdoc=0 next=False error=
+rendered 2026-10-24 23:49Z  status=200 chars=5166 iframes=0 srcdoc=0 next=False error=
 
 Salons | Interintellect
 Events
@@ -23,69 +23,6 @@ Series
 SuperSalons
 In Person
 October 2026
-Episode
-Part V: New Fields
-Hosted by:
-Erica Robles Anderson
-Sun, Oct 18
-•
-04:30 PM UTC
-Online
-Members Only
-SuperSalon
-Book Launch: The Tyranny of Thinness 
-Hosted by:
-Skye C. Cleary
-Sun, Oct 18
-•
-06:00 PM UTC
-Online
-$10
-SuperSalon
-The Trouble with History — A Conversation with Lea Ypi, Author of INDIGNITY: A LIFE REIMAGINED
-Hosted by:
-Irina Dumitrescu
-Sun, Oct 18
-•
-06:00 PM UTC
-Online
-$30
-Episode
-Murder in the Cathedral 
-Hosted by:
-Paul Franz
-Sun, Oct 18
-•
-11:00 PM UTC
-Online
-$20
-Salon
-(18+) Reading Georges Bataille's Story of the Eye
-Hosted by:
-Anna Gát
-Wed, Oct 21
-•
-02:00 AM UTC
-Online
-Members Only
-Episode
-Reading Economics Together: Beyond Markets and States with Elinor Ostrom
-Hosted by:
-Anna Gát
-Sat, Oct 24
-•
-04:30 PM UTC
-Online
-Members Only
-Episode
-The Arrested Eye: Simone Weil on Attention and the Arts (Episode 4)
-Hosted by:
-Liv Li
-Sat, Oct 24
-•
-08:00 PM UTC
-Online
-$10
 Salon
 Who Is It For? What Is For Me and What Is For Others
 Hosted by:
@@ -233,15 +170,6 @@ Wed, Dec 2
 01:00 AM UTC
 Online
 Members Only
-SuperSalon
-Worth the Risk: Allison Schrager on the Seven Myths That Keep Us from Taking Chances
-Hosted by:
-Alaka Halder
-Fri, Dec 4
-•
-12:30 AM UTC
-Online
-$30
 Episode
 America's Cinematic Conscience: 12 Angry Men
 Hosted by:
@@ -305,6 +233,15 @@ Mon, Dec 14
 09:00 PM UTC
 Online
 $5
+SuperSalon
+Worth the Risk: Allison Schrager on the Seven Myths That Keep Us from Taking Chances
+Hosted by:
+Alaka Halder
+Fri, Dec 18
+•
+12:30 AM UTC
+Online
+$30
 Episode
 Final Thoughts and Looking Ahead: The Path Keeps Going...
 Hosted by:
@@ -314,6 +251,15 @@ Sun, Dec 20
 05:30 PM UTC
 Online
 Members Only
+SuperSalon
+On Cocktails: Peter Suderman Explains the Rakish American Invention
+Hosted by:
+Megan Gafford
+Tue, Dec 29
+•
+09:30 PM UTC
+Online
+$20
 January 2027
 Episode
 It's the Crazy Who Are Sane: American Rebel Cinema
@@ -333,6 +279,15 @@ Fri, Jan 15
 12:30 AM UTC
 Online
 $10
+SuperSalon
+How to Save the Media: Hamish McKenzie on Rebuilding Trust in Journalism
+Hosted by:
+Alaka Halder
+Fri, Jan 15
+•
+09:00 PM UTC
+Online
+$35
 Episode
 4 Contemplation
 Hosted by:
@@ -342,6 +297,16 @@ Fri, Jan 29
 12:30 AM UTC
 Online
 $20
+February 2027
+Episode
+A Sense of Enduring Wonder --  E.T and the Cinema of the Unknown 
+Hosted by:
+Anna Gát
+Sat, Feb 6
+•
+06:00 PM UTC
+Online
+Members Only
 Members Attend for Free
 Join the Interintellect community!
 Our memberships provide free access to events, exclusive in-person gatherings, and a global chat forum

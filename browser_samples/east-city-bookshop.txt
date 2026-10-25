@@ -1,6 +1,6 @@
 East City Bookshop
 https://www.eastcitybookshop.com/events
-rendered 2026-10-18 05:36Z  status=200 chars=1430 iframes=0 srcdoc=0 next=False error=
+rendered 2026-10-24 23:50Z  status=200 chars=1457 iframes=0 srcdoc=0 next=False error=
 
  Events | 
 You need to enable JavaScript to run this website.
@@ -31,13 +31,6 @@ View our Terms & Conditions
 Prices in USD
  Powered by 
 Bookmanager
-✕
-
-								Become a
-								
-
-									member
-								
 Browse Books
 Browse Non-Book Items
 Gift Cards
@@ -82,6 +75,7 @@ Educators
 Teacher Wish Lists
 Community Partnerships
 School Visit Book Fund
+Maury Elementary Book Fair
 Our Story
 Our Values
 Our Space
@@ -89,3 +83,10 @@ Employment Opportunities
 Bulk Discount
 Consignment Sales
 Contact
+✕
+
+								Become a
+								
+
+									member
+								

@@ -1,6 +1,6 @@
 Art House 7
 https://hisawyer.com/art-house-seven/schedules?schedule_id=camps&widget_tags=workshop
-rendered 2026-10-18 05:43Z  status=200 chars=8230 iframes=3 srcdoc=0 next=False error=
+rendered 2026-10-24 23:56Z  status=200 chars=8262 iframes=3 srcdoc=0 next=False error=
 
 Art House Seven
 Log In
@@ -18,49 +18,7 @@ Age/Grade
 Time
 Date
 More Filters 
-STARTING SOON
-Event
-Arts and Coffee: Celebrate Autumn — Make a Pretty Ceramic Leaf-Shaped Plate!
-Arts and Coffee: Leaf-Shaped Plates
-Adults
-Wed
-9:30am - 12:30pm EDT
-Oct 21, 2026
-Art House 7, 5537 Langston Blvd.,  Arlington, VA 22207
-$90
-More Info
-Event
-Workshop: Make Ceramic Ornaments, Adults
-Workshop: Make Ceramic Ornaments
-Adults
-Thu
-1:00pm - 3:00pm EDT
-Oct 22, 2026
-Art House 7, 5537 Langston Blvd.,  Arlington, VA 22207
-$70
-More Info
-Event
-Art Night! Make Ceramic Ornaments, BYOB
-Art Night: Make Ceramic Ornaments
-Adults
-Fri
-6:30pm - 8:30pm EDT
-Oct 23, 2026
-Art House 7, 5537 Langston Blvd.,  Arlington, VA 22207
-$70
-More Info
-1 spot left!
-Event
-Art Night - Try the Pottery Wheel, BYOB
-Art Night: Try the Pottery Wheel
-Adults
-Fri
-7:00pm - 9:00pm EDT
-Oct 23, 2026
-Art House 7, 5537 Langston Blvd.,  Arlington, VA 22207
-1 spot left!
-$55
-More Info
+IN PROGRESS
 Event
 Painting a Child's Portrait in Oils with Teresa Oaxaca, 16yrs–adult
 Painting a Child in Oil with Teresa Oaxaca
@@ -69,9 +27,12 @@ Sat, Sun
 10:00am - 5:00pm EDT
 Oct 24, 2026 - Oct 25, 2026
 Art House 7, 5537 Langston Blvd.,  Arlington, VA 22207
-$250
+*Prorated
+$125
+*Prorated
 More Info
-Camp
+STARTING SOON
+Event
 Workshop: Still-Life in Oil (not a beginning class)
 Still-Life Workshop
 Adults
@@ -121,7 +82,7 @@ Nov 3, 2026
 Art House 7, 5537 Langston Blvd.,  Arlington, VA 22207
 $75
 More Info
-Camp
+Event
 2026 Voting Day - Mixed Media - Fungus Among Us Workshop, K-2
 2026 Voting Day, November 3rd
 Kindergarten – 2nd grade
@@ -141,7 +102,7 @@ Nov 4, 2026
 Art House 7, 5537 Langston Blvd.,  Arlington, VA 22207
 $55
 Join Waitlist
-Camp
+Event
 Workshop - Intaglio Printmaking: Drypoint on Plexiglass
 Workshop - Intaglio with Acrylic Plates
 Adults
@@ -272,6 +233,46 @@ Fri
 Dec 4, 2026
 Art House 7, 5537 Langston Blvd.,  Arlington, VA 22207
 $55
+More Info
+Event
+Winter Arts & Crafts Workshop, 3-5th
+Monday, Winter Arts & Crafts workshop
+3rd – 5th grade
+Mon
+4:30pm - 6:00pm EST
+Dec 21, 2026
+Art House 7, 5537 Langston Blvd.,  Arlington, VA 22207
+$50
+More Info
+Camp
+Winter Arts & Crafts Workshop, k-2nd
+Monday, Winter Arts & Crafts workshop
+Kindergarten – 2nd grade
+Mon
+4:30pm - 6:00pm EST
+Dec 21, 2026
+Art House 7, 5537 Langston Blvd.,  Arlington, VA 22207
+$50
+More Info
+Event
+Winter Arts & Crafts Workshop, 3-5th
+Tuesday, Winter Arts and Crafts Workshop
+3rd – 5th grade
+Tue
+4:30pm - 6:00pm EST
+Dec 22, 2026
+Art House 7, 5537 Langston Blvd.,  Arlington, VA 22207
+$50
+More Info
+Camp
+Winter Arts & Crafts Workshop, k-2nd
+Tuesday, Winter Arts and Crafts Workshop
+Kindergarten – 2nd grade
+Tue
+4:30pm - 6:00pm EST
+Dec 22, 2026
+Art House 7, 5537 Langston Blvd.,  Arlington, VA 22207
+$50
 More Info
 1
 2

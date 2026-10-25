@@ -1,6 +1,6 @@
 Labyrinth Games & Puzzles
 https://www.labyrinthdc.com/events/calendar/
-rendered 2026-10-18 05:39Z  status=200 chars=12182 iframes=2 srcdoc=0 next=False error=
+rendered 2026-10-24 23:52Z  status=200 chars=12294 iframes=2 srcdoc=0 next=False error=
 
 Event Calendar - Labyrinth Games & Puzzles
 DC's Friendly Game & Puzzle Shop – Free Shipping on Orders of $200 or More (no code necessary)!
@@ -546,148 +546,6 @@ Pinboard
 Agenda
 Monthly
 Subscribe
-MTG: Limited Regional Championship Qualifier
-
-            
-            Sun Oct 18th 10:00am - 7:00pm
-            
-
-            
-            
-          
-This is an event for the trading card game Magic: The Gathering. Suggested age for Magic: The Gathering events is 14+. If you do not yet have a Wizards Account, please sign up for one before…
-Magic
-Adult
-In Store
-Register | $60
-            
-CLOSED on Mondays
-
-            
-            Mon Oct 19th
-            
-
-            
-            
-          
-Closed All Mondays until Winter Hours.
-Closed
-MTG: Casual Commander
-
-            
-            Tue Oct 20th 6:00pm - 10:00pm
-            
-
-            
-            
-          
-This is an event for the trading card game Magic: The Gathering, suggested age for this event is 14+. If you do not yet have a Wizards Account, please sign up for one before registering for this…
-Magic
-Adult
-In Store
-Register | $10
-            
-Capitol Hill Village Mah Jong
-
-            
-            Wed Oct 21st 2:00pm - 4:00pm
-            
-
-            
-            
-          
-Come play Mah Jong with the Capitol Hill Village every other week at Labyrinth! This event is appropriate for all experience levels. This is a free evet with no registration required. We play Basic…
-Board Games
-Adult
-In Store
-D&D Learn-to-Play — One-Shot Wednesday
-
-            
-            Wed Oct 21st 6:00pm - 9:00pm
-            
-
-            
-            
-          
-Join us for an evening of story-telling and adventure! This event offers an introduction to the legendary fantasy role-playing game, Dungeons and Dragons (D&D). It's great for both beginners, even if…
-RPG
-D&D
-Adult
-In Store
-Register | $25
-            
-Star Wars: Unlimited Premier Tournament
-
-            
-            Wed Oct 21st 6:00pm - 9:00pm
-            
-
-            
-            
-          
-This is an event for the trading card game Star Wars: Unlimited, suggested age for this event is 12+. The format is Premier. Please see the following link for Deck Construction guidelines:…
-Star Wars: Unlimited
-Kid
-Adult
-In Store
-Register | $10
-            
-Capitol Hill Village Board Games
-
-            
-            Thu Oct 22nd 2:00pm - 4:00pm
-            
-
-            
-            
-          
-Games event in partnership with Capitol Hill Village, a neighborhood nonprofit which aims to give residents of Capitol Hill both the practical means and the confidence to live their lives to the…
-Board Games
-Adult
-In Store
-Board Game Night
-
-            
-            Thu Oct 22nd 6:00pm - 10:00pm
-            
-
-            
-            
-          
-Join us for a free board game night every Thursday at Labyrinth! Access our game library of nearly 600 games, and learn the rules from our board game professionals. No registration required.
-Board Games
-Adult
-In Store
-Friday Night Magic - Reality Fracture Booster Draft
-
-            
-            Fri Oct 23rd 6:30pm - 10:00pm
-            
-
-            
-            
-          
-This is an event for the trading card game Magic: The Gathering. Suggested age for Friday Night Magic is 14+. If you do not yet have a Wizards Account, please sign up for one before registering for…
-Magic
-Adult
-In Store
-Register | $22
-            
-Friday Night Magic: Modern Tournament
-
-            
-            Fri Oct 23rd 6:30pm - 10:00pm
-            
-
-            
-            
-          
-This is an event for the trading card game Magic: The Gathering, suggested age for this event is 14+. If you do not yet have a Wizards Account, please sign up for one before registering for this…
-Magic
-Adult
-In Store
-Register | $10
-            
 Level Up Game Club (Ages 5-7)
 
             
@@ -717,6 +575,152 @@ Pokémon
 Adult
 In Store
 Register | Free
+            
+Girls' Guild of Heroes (ages 8-12): Kids' Dungeons & Dragons
+
+            
+            Sat Oct 24th 1:00pm - 3:00pm
+            
+
+            
+            
+          
+This adventure is for ages 8-12. Labyrinth Games & Puzzles has been teaching children and adults how to play Dungeons and Dragons (D&D) since we first opened in 2010. The role playing game, which is…
+RPG
+D&D
+In Store
+Kid
+Register | $30
+            
+Guild of Heroes (ages 8-12): Kids' Dungeons & Dragons
+
+            
+            Sat Oct 24th 3:30pm - 5:30pm
+            
+
+            
+            
+          
+This adventure is for ages 8-12. Labyrinth Games & Puzzles has been teaching children and adults how to play Dungeons and Dragons (D&D) since we first opened in 2010. The role playing game, which is…
+RPG
+D&D
+In Store
+Kid
+Register | $30
+            
+Pokémon: Delta Reign AM Prerelease
+
+            
+            Sun Oct 25th 11:00am - 3:00pm
+            
+
+            
+            
+          
+The latest Pokémon set, Mega Evolution—Delta Reign, is almost here! Join us for prerelease where you can get the first look at these cards and play in a casual tournament. Pokémon Player ID numbers…
+Pokémon
+Adult
+In Store
+Register | $35
+            
+Pokémon: Delta Reign PM Prerelease
+
+            
+            Sun Oct 25th 3:00pm - 6:00pm
+            
+
+            
+            
+          
+The latest Pokémon set, Mega Evolution—Delta Reign, is almost here! Join us for prerelease where you can get the first look at these cards and play in a casual tournament. Pokémon Player ID numbers…
+Pokémon
+Adult
+In Store
+Register | $35
+            
+CLOSED on Mondays
+
+            
+            Mon Oct 26th
+            
+
+            
+            
+          
+Closed All Mondays until Winter Hours.
+Closed
+MTG: Casual Commander
+
+            
+            Tue Oct 27th 6:00pm - 10:00pm
+            
+
+            
+            
+          
+This is an event for the trading card game Magic: The Gathering, suggested age for this event is 14+. If you do not yet have a Wizards Account, please sign up for one before registering for this…
+Magic
+Adult
+In Store
+Register | $10
+            
+One-Shot Wednesday: Indie RPG (Mothership)
+
+            
+            Wed Oct 28th 6:00pm - 9:00pm
+            
+
+            
+            
+          
+While we love D&D here at Labyrinth, we're always excited to run different RPGs as well. October's Indie RPG will be Mothership with DM Marz. From the publisher: "You’ll excavate dangerous derelict…
+RPG
+Adult
+In Store
+Register | $20
+            
+Star Wars: Unlimited - Homeworlds Booster Draft
+
+            
+            Wed Oct 28th 6:00pm - 9:00pm
+            
+
+            
+            
+          
+The format for this event is a draft, more information on how to draft Star Wars: Unlimited can be found at this link. Draft is a great way for newer players to explore the game, but everyone should…
+Star Wars: Unlimited
+Adult
+In Store
+Register | $25
+            
+Board Game Night
+
+            
+            Thu Oct 29th 6:00pm - 10:00pm
+            
+
+            
+            
+          
+Join us for a free board game night every Thursday at Labyrinth! Access our game library of nearly 600 games, and learn the rules from our board game professionals. No registration required.
+Board Games
+Adult
+In Store
+Friday Night Magic - All Leylines' Eve Chaos Draft
+
+            
+            Fri Oct 30th 6:30pm - 10:00pm
+            
+
+            
+            
+          
+This is an event for the trading card game Magic: The Gathering. Suggested age for Friday Night Magic is 14+. If you do not yet have a Wizards Account, please sign up for one before registering for…
+Magic
+Adult
+In Store
+Register | $30
             
 load more events
 calendar by Tockify

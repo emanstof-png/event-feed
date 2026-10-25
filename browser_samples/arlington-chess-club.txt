@@ -1,6 +1,6 @@
 Arlington Chess Club
 https://www.arlingtonchessclub.com/Schedule.html
-rendered 2026-10-18 05:41Z  status=404 chars=183 iframes=0 srcdoc=0 next=False error=
+rendered 2026-10-24 23:55Z  status=404 chars=183 iframes=0 srcdoc=0 next=False error=
 
 404 Not Found
 Not Found

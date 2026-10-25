@@ -1,6 +1,6 @@
 2239 (Washington Hebrew Congregation)
 https://www.whctemple.org/events/
-rendered 2026-10-18 05:20Z  status=200 chars=36057 iframes=0 srcdoc=0 next=False error=
+rendered 2026-10-24 23:35Z  status=200 chars=36048 iframes=0 srcdoc=0 next=False error=
 
 Calendar – Washington Hebrew Congregation – Washington Hebrew Congregation
 Skip to content
@@ -61,7 +61,6 @@ Classes
 Torah & Text
 Camp Keetov – Maryland
 ECC Maryland
-ECC
 Beyond the Bimah
 Confirmation
 Next Phase
@@ -132,7 +131,6 @@ Torah & Text
 Early Childhood
 Camp Keetov – Maryland
 ECC Maryland
-ECC
 Religious School
 Beyond the Bimah
 Confirmation
@@ -266,6 +264,7 @@ Non-WHC Site & Livestream
 Non-WHC Site & Zoom
 Northwest DC Location TBA
 Online Only
+Potomac, MD Location TBA
 Temple
 Temple & JBSC
 Temple & Livestream
@@ -308,7 +307,7 @@ If you would like to inquire about ASL interpretation or closed captioning pleas
 Rich Gordon
  at least one week in advance of the service, program, or event.
 
-				10/18/2026			
+				10/24/2026			
 
 				October 2026			
 
@@ -390,7 +389,7 @@ September 28 @ 6:30 pm
 8:30 pm
 
 		Sips in the Sukkah with WWHC	
-The Women of WHC are once again organizing this fun-filled gathering at one of our rabbi's homes in Potomac. Small bites, desserts and festive drinks will be served. New and ...
+The Women of WHC are once again organizing this fun-filled gathering at one of our rabbi's homes in Potomac. Small bites, desserts and festive drinks will be served. New and prospective WWHC members are warmly welcome! The event is open to all, but registration is required. Questions? Contact Ellen Barth at ellenbarth63@gmail.com.
 Learn More
 
 			2 events		
@@ -600,7 +599,7 @@ October 4 @ 9:30 am
 12:00 pm
 
 		Brotherhood Bagel Blitz	
-Come to either the Temple OR JBSC as Brotherhood sponsors a free breakfast (bagels, spreads, and coffee, provided by our friends at Chutzpah Coffee), and football as we gather for the Commanders game, kicking off in London at 9:30 am. No cost to attend, but RSVP so we have plenty of bagels for everyone! Bagels ...
+Come to either the Temple OR JBSC as Brotherhood sponsors a free breakfast (bagels, spreads, and coffee, provided by our friends at Chutzpah Coffee), and football as we gather for ...
 Learn More
 
 		7:30 pm	
@@ -660,7 +659,7 @@ October 6 @ 7:00 pm
 8:00 pm
 
 		Community Issues/Social Action (CISA) Meeting	
-Whether you are looking for stimulating discussion or direct involvement in projects and activities, we hope you will join us. Members of the committee are the Temple’s liaisons with community religious and social service organizations.
+Whether you are looking for stimulating discussion or direct involvement in projects and activities, we hope you will join us. Members of the committee are the Temple’s liaisons with community ...
 Learn More
 
 			2 events		
@@ -883,7 +882,7 @@ October 13 @ 7:00 pm
 9:00 pm
 
 		Besterama Movie Night	
-RSVP A stolen masterpiece, an underdog lawyer, and a woman who refuses to lose! Join the Besters for a free film screening of "Woman in Gold," an extraordinary true story of one woman's fight to reclaim what the Nazis stole from her family — and to confront a nation that refused to give it back. ...
+RSVP A stolen masterpiece, an underdog lawyer, and a woman who refuses to lose! Join the Besters for a free film screening of "Woman in Gold," an extraordinary true story ...
 Learn More
 
 			1 event		
@@ -1101,7 +1100,7 @@ October 19 @ 6:45 pm
 9:00 pm
 
 		Washington Hebrew: The Place My Heart Loves	
-Washington Hebrew Congregation has grown alongside Washington, D.C., building a vibrant home for Jewish life through moments of profound change — in our world and in the Jewish community. As we approach our 175th anniversary, Washington Hebrew: The Place My Heart Loves will dive into our remarkable history, from our founding by an Act of ...
+Washington Hebrew Congregation has grown alongside Washington, D.C., building a vibrant home for Jewish life through moments of profound change — in our world and in the Jewish community. As ...
 Learn More
 
 		6:45 pm	
@@ -1115,7 +1114,7 @@ October 19 @ 6:45 pm
 9:00 pm
 
 		Adult B’nei Mitzvah Class	
-Become B’nei Mitzvah — At Any Age A nine-month journey of Torah, community, and personal transformation — designed for WHC adults ready to reach this milestone. REGISTER About the Program Whether you never had the opportunity growing up, are exploring Judaism later in life, or simply feel the time is finally right, Washington Hebrew Congregation’s ...
+Become B’nei Mitzvah — At Any Age A nine-month journey of Torah, community, and personal transformation — designed for WHC adults ready to reach this milestone. REGISTER About the Program ...
 Learn More
 
 			0 events		
@@ -1233,11 +1232,11 @@ October 24 @ 1:00 pm
 This informal, lay-led group gets together to discuss the Haftarah for that week. Starting with a read-through in English, the group shares questions, answers, and opinions.
 Learn More
 
-			2 events		
+			3 events		
 
 			25		
 
-		2 events,
+		3 events,
 	
 
 				25			
@@ -1254,6 +1253,20 @@ October 25 @ 12:30 pm
 
 		Pregnancy Group (Fall 2026)	
 Join us for conversations about the wonders, awe, frustrations, and ridiculousness of pregnancy. For our first sessions, we will gather over Zoom to get to know each other and share aspects of our journey, all within a Jewish lens. Later in the program, we will gather for dinner as a cohort, share Shabbat with partners and families, and experience a pregnancy mikvah—ritual bath—together. Begin to build your village with this meaningful and intentional cohort.
+Learn More
+
+		1:00 pm	
+ - 
+
+			6:00 pm		
+
+		2026 Unity Walk with the Interfaith Council of Metropolitan Washington	
+October 25 @ 1:00 pm
+ - 
+6:00 pm
+
+		2026 Unity Walk with the Interfaith Council of Metropolitan Washington	
+ONE AFTERNOON.  A WORLD OF EXPERIENCES. REGISTER Register now for the Interfaith Council of Metropolitan Washington's 21st annual Unity Walk, a public demonstration of love and support for all who live in the DMV. Walk with hundreds of people of different faiths, cultures, generations, and backgrounds to visit eight different houses of worship in upper ...
 Learn More
 
 		3:00 pm	
@@ -1308,7 +1321,7 @@ October 26 @ 6:45 pm
 9:00 pm
 
 		Washington Hebrew: The Place My Heart Loves	
-Washington Hebrew Congregation has grown alongside Washington, D.C., building a vibrant home for Jewish life through moments of profound change — in our world and in the Jewish community. As we approach our 175th anniversary, Washington Hebrew: The Place My Heart Loves will dive into our remarkable history, from our founding by an Act of ...
+Washington Hebrew Congregation has grown alongside Washington, D.C., building a vibrant home for Jewish life through moments of profound change — in our world and in the Jewish community. As ...
 Learn More
 
 		6:45 pm	
@@ -1322,7 +1335,7 @@ October 26 @ 6:45 pm
 9:00 pm
 
 		Adult B’nei Mitzvah Class	
-Become B’nei Mitzvah — At Any Age A nine-month journey of Torah, community, and personal transformation — designed for WHC adults ready to reach this milestone. REGISTER About the Program Whether you never had the opportunity growing up, are exploring Judaism later in life, or simply feel the time is finally right, Washington Hebrew Congregation’s ...
+Become B’nei Mitzvah — At Any Age A nine-month journey of Torah, community, and personal transformation — designed for WHC adults ready to reach this milestone. REGISTER About the Program ...
 Learn More
 
 			0 events		
@@ -1901,6 +1914,14 @@ October 25 @ 12:30 pm
 		Pregnancy Group (Fall 2026)	
 
 		        Temple        
+Find out more »
+October 25 @ 1:00 pm
+ - 
+6:00 pm
+
+		2026 Unity Walk with the Interfaith Council of Metropolitan Washington	
+
+		        Non-WHC Site        
 Find out more »
 October 25 @ 3:00 pm
  - 

@@ -1,6 +1,6 @@
 Rock Creek Conservancy
 https://www.rockcreekconservancy.org/calendar
-rendered 2026-10-18 05:37Z  status=200 chars=23257 iframes=3 srcdoc=0 next=False error=
+rendered 2026-10-24 23:51Z  status=200 chars=23084 iframes=3 srcdoc=0 next=False error=
 
 Calendar of Events — Rock Creek Conservancy
 0
@@ -304,15 +304,12 @@ Stay Connected
 
     Subscribe Now, Get More Rock Creek
   
-Join us to protect, restore, and celebrate the park!
-Tickets are on sale now for Party in the Park on October 22.
-Get tickets!
 
 ----
 
 The Rock Creek Calendar
  The Rock Creek Calendar 
- Sun, October 18 
+ Sat, October 24 
  Search 
  Add to calendar 
  Tile 
@@ -323,9 +320,9 @@ Venues
  Free-A-Tree Pledge 
  Thu, Jan 1 
  — Fri, Jan 1  
- Day 290 of 365 
+ Day 297 of 365 
  Oct 
- 17 
+ 24 
  Sat 
  Dec 
  31 
@@ -335,70 +332,14 @@ English ivy, and other invasive plants, are a major threat to the health of the 
  Individual Cleanup Registration Form 
  Thu, Jan 1 
  — Fri, Jan 1  
- Day 290 of 365 
+ Day 297 of 365 
  Oct 
- 17 
+ 24 
  Sat 
  Dec 
  31 
  Fri 
 Trash is a visible form of stormwater pollution, a major threat to water quality and park health. Litter removal makes the parklands cleaner, safer, and more beautiful for all. Make a difference for R…
- Invasive Removal at Little Forest 
- Sat, Oct 17 @ 9:00am 
- Oct 
- 17 
- Sat 
-Invasive Removal at Little Forest
-Saturday, October 17,  9:00 AM -  11:00 AM
-Join Rock Creek Conservancy, the National Park Service, and Weed Warrior Leaders, Bethann Siegel and John Burwell for this …
- Water Quality Monitoring Outreach Day at Meadowbrook Local Park 
- Sat, Oct 17 @ 11:00am 
- Oct 
- 17 
- Sat 
-Water Quality Monitoring Outreach Day at Meadowbrook Local Park
-Saturday, October 17,  11:00 AM -  1:00 PM
-Join Rock Creek Conservancy and Potomac Riverkeeper Network for a hands-on exploration of wat…
- Invasive Removal at Normanstone 
- Sat, Oct 17 @ 12:00pm 
- Oct 
- 17 
- Sat 
-Invasive Removal at Normanstone
-Saturday, October 17,  12:00 PM -  2:00 PM
-Join Rock Creek Conservancy and the National Park Service for this invasive plant removal restoration event in Rock Creek Par…
- Invasive Removal at Piney Branch 
- Sat, Oct 17 @ 12:00pm 
- Oct 
- 17 
- Sat 
-Invasive Removal at Piney Branch
-Saturday, October 17,  12:00 PM -  2:00 PM
-Join Rock Creek Conservancy and the National Park Service for this invasive plant removal restoration event in Rock Creek Pa…
- Invasive Removal at Reservation 630 West 
- Sun, Oct 18 @ 10:00am 
- Oct 
- 18 
- Sun 
-Invasive Removal at Reservation 630 West
-Sunday, October 18,  10:00 AM -  12:00 PM
-Join Rock Creek Conservancy, the National Park Service, and Weed Warrior Leader, Kathy Sykes for this invasive plant …
- Invasive Removal at Reservation 630 East 
- Sun, Oct 18 @ 10:00am 
- Oct 
- 18 
- Sun 
-Invasive Removal at Reservation 630 East
-Sunday, October 18,  10:00 AM -  12:00 PM
-Join Rock Creek Conservancy, the National Park Service, and Weed Warrior Leader, Rena Subotnik for this invasive plan…
- Invasive Removal at Trail 9 with NAISMA 
- Mon, Oct 19 @ 2:00pm 
- Oct 
- 19 
- Mon 
-Invasive Removal at Trail 9 with NAISMA
-Monday, October 19,  2:00 PM -  4:00 PM
-Join Rock Creek Conservancy, the National Park Service, and the North American Invasive Species Management Association f…
  Invasive Removal at Battery Kemble Park 
  Sat, Oct 24 @ 9:30am 
  Oct 
@@ -415,6 +356,15 @@ Join Rock Creek Conservancy, the National Park Service, and Weed Warrior Leader 
 Invasive Removal at North Chevy Chase Christian Church
 Saturday, October 24,  10:00 AM - 12:00 PM
 Join Rock Creek Conservancy and North Chevy Chase Christian Church for a volunteer event to help care …
+ Ramble with a Ranger 
+ Sat, Oct 24 @ 10:00am 
+ Oct 
+ 24 
+ Sat 
+Ramble with a Ranger
+Saturday, October 24,  10:00 AM - 11:30 PM
+Join the National Park Service for this community event:
+Join a ranger for a pleasant hike through the woods and along the creek. Ranger…
  Rock Creek Park Invasive Plant Removal at Picnic Grove 6 
  Sat, Oct 24 @ 10:30am 
  Oct 
@@ -455,14 +405,14 @@ Join Rock Creek Conservancy, the National Park Service, and Weed Warrior Leader,
 Litter Cleanup at Matthew Henson Trail with Potomac Conservancy
 Saturday, October 31,  9:00 AM -  11:00 AM
 Join Rock Creek Conservancy, Montgomery Parks, and Potomac Conservancy for a litter removal r…
- Litter Cleanup at Broad Branch 
+ Invasive Removal at Broad Branch 
  Sat, Oct 31 @ 10:00am 
  Oct 
  31 
  Sat 
-Litter Cleanup at Broad Branch
+Invasive Removal at Broad Branch 
 Saturday, October 31,  10:00 AM -  12:00 PM
-Join Rock Creek Conservancy, the National Park Service, and Stream Team Leader Kathy Sykes for a litter removal restoration e…
+Join Rock Creek Conservancy, the National Park Service, and Weed Warrior Leader, Kathy Sykes for this invasive plant remov…
  Invasive Removal at Normanstone 
  Sat, Oct 31 @ 10:00am 
  Oct 
@@ -471,6 +421,15 @@ Join Rock Creek Conservancy, the National Park Service, and Stream Team Leader K
 Invasive Removal at Normanstone
 Saturday, October 31,  10:00 AM -  12:00 PM
 Join Rock Creek Conservancy, the National Park Service, and Weed Warrior Leader, Ella Engstrom for this invasive plant remov…
+ B.A.R.K Ranger at Rock Creek Park 
+ Sat, Oct 31 @ 10:00am 
+ Oct 
+ 31 
+ Sat 
+B.A.R.K Ranger at Rock Creek Park
+Saturday, October 31,  10:00 AM - 12:00 PM
+Join the National Park Service for this community event:
+Calling all dog owners! If you enjoy adventuring in Rock Creek Par…
  Invasive Removal at Reservation 630 West 
  Sat, Oct 31 @ 12:00pm 
  Oct 
@@ -479,6 +438,22 @@ Join Rock Creek Conservancy, the National Park Service, and Weed Warrior Leader,
 Invasive Removal at Reservation 630 West
 Saturday, October 31,  12:00 PM -  2:00 PM
 Join Rock Creek Conservancy and the National Park Service for this invasive plant removal restoration event in Rock …
+ Invasive Removal at Reservation 630 West 
+ Sun, Nov 1 @ 10:00am 
+ Nov 
+ 1 
+ Sun 
+Invasive Removal at Reservation 630 West
+Sunday, November 1,  10:00 AM -  12:00 PM
+Join Rock Creek Conservancy, the National Park Service, and Weed Warrior Leader, Kathy Sykes for this invasive plant …
+ A Pathway to Forest Resilience Presentation and Panel Discussion 
+ Thu, Nov 5 @ 6:00pm 
+ Nov 
+ 4 
+ Thu 
+A Pathway to Forest Resilience Presentation and Panel Discussion
+Wednesday, November 4,  6:00 PM -  7:30 PM
+Rock Creek’s forests are the heart, lungs, and soul of the region, providing critical climat…
  Salt Watch Training 
  Fri, Nov 6 @ 6:00pm 
  Nov 
@@ -519,6 +494,14 @@ Join Rock Creek Conservancy and Interfaith Partners of the Chesapeake…
 Stream Team Leader Training (VIRTUAL)
 Tuesday, November 10,  6:00 PM - 7:00 PM
 Please join Rock Creek Conservancy for a virtual training for our Stream Team Leader program. Stream Team Leaders are ded…
+ Invasive Removal at Broad Branch 
+ Wed, Nov 11 @ 10:00am 
+ Nov 
+ 11 
+ Wed 
+Invasive Removal at Broad Branch
+Wednesday, November 11,  10:00 AM -  12:00 PM
+Join Rock Creek Conservancy, the National Park Service, and Weed Warrior Leader, Kathy Sykes for this invasive plant remo…
  Carter Barron Amphitheatre Cleanup 
  Sat, Nov 14 @ 10:00am 
  Nov 
@@ -567,14 +550,30 @@ Join Rock Creek Conservancy and the National Park Service for this invasive plan
 Invasive Removal at Normanstone
 Saturday, November 21,  10:00 AM -  12:00 PM
 Join Rock Creek Conservancy and the National Park Service for this invasive plant removal restoration event in Rock Creek P…
- v5.0.1 
+ Invasive Removal at Piney Branch 
+ Sat, Nov 28 @ 10:00am 
+ Nov 
+ 28 
+ Sat 
+Invasive Removal at Piney Branch
+Saturday, November 28,  10:00 AM -  12:00 PM
+Join Rock Creek Conservancy and the National Park Service for this invasive plant removal restoration event in Rock Creek …
+ Invasive Removal at the Nature Center 
+ Sat, Dec 5 @ 10:00am 
+ Dec 
+ 5 
+ Sat 
+Invasive Removal at the Nature Center 
+Saturday, December 5,  10:00 AM -  12:00 PM
+Join Rock Creek Conservancy and the National Park Service for this invasive plant removal restoration event in Rock C…
+ v5.1.0 
  Get a Timely Calendar 
 
 ----
 
 The Rock Creek Calendar
  The Rock Creek Calendar 
- Sun, October 18 
+ Sat, October 24 
  Search 
  Add to calendar 
  Tile 
@@ -585,9 +584,9 @@ Venues
  Free-A-Tree Pledge 
  Thu, Jan 1 
  — Fri, Jan 1  
- Day 290 of 365 
+ Day 297 of 365 
  Oct 
- 17 
+ 24 
  Sat 
  Dec 
  31 
@@ -597,70 +596,14 @@ English ivy, and other invasive plants, are a major threat to the health of the 
  Individual Cleanup Registration Form 
  Thu, Jan 1 
  — Fri, Jan 1  
- Day 290 of 365 
+ Day 297 of 365 
  Oct 
- 17 
+ 24 
  Sat 
  Dec 
  31 
  Fri 
 Trash is a visible form of stormwater pollution, a major threat to water quality and park health. Litter removal makes the parklands cleaner, safer, and more beautiful for all. Make a difference for R…
- Invasive Removal at Little Forest 
- Sat, Oct 17 @ 9:00am 
- Oct 
- 17 
- Sat 
-Invasive Removal at Little Forest
-Saturday, October 17,  9:00 AM -  11:00 AM
-Join Rock Creek Conservancy, the National Park Service, and Weed Warrior Leaders, Bethann Siegel and John Burwell for this …
- Water Quality Monitoring Outreach Day at Meadowbrook Local Park 
- Sat, Oct 17 @ 11:00am 
- Oct 
- 17 
- Sat 
-Water Quality Monitoring Outreach Day at Meadowbrook Local Park
-Saturday, October 17,  11:00 AM -  1:00 PM
-Join Rock Creek Conservancy and Potomac Riverkeeper Network for a hands-on exploration of wat…
- Invasive Removal at Normanstone 
- Sat, Oct 17 @ 12:00pm 
- Oct 
- 17 
- Sat 
-Invasive Removal at Normanstone
-Saturday, October 17,  12:00 PM -  2:00 PM
-Join Rock Creek Conservancy and the National Park Service for this invasive plant removal restoration event in Rock Creek Par…
- Invasive Removal at Piney Branch 
- Sat, Oct 17 @ 12:00pm 
- Oct 
- 17 
- Sat 
-Invasive Removal at Piney Branch
-Saturday, October 17,  12:00 PM -  2:00 PM
-Join Rock Creek Conservancy and the National Park Service for this invasive plant removal restoration event in Rock Creek Pa…
- Invasive Removal at Reservation 630 West 
- Sun, Oct 18 @ 10:00am 
- Oct 
- 18 
- Sun 
-Invasive Removal at Reservation 630 West
-Sunday, October 18,  10:00 AM -  12:00 PM
-Join Rock Creek Conservancy, the National Park Service, and Weed Warrior Leader, Kathy Sykes for this invasive plant …
- Invasive Removal at Reservation 630 East 
- Sun, Oct 18 @ 10:00am 
- Oct 
- 18 
- Sun 
-Invasive Removal at Reservation 630 East
-Sunday, October 18,  10:00 AM -  12:00 PM
-Join Rock Creek Conservancy, the National Park Service, and Weed Warrior Leader, Rena Subotnik for this invasive plan…
- Invasive Removal at Trail 9 with NAISMA 
- Mon, Oct 19 @ 2:00pm 
- Oct 
- 19 
- Mon 
-Invasive Removal at Trail 9 with NAISMA
-Monday, October 19,  2:00 PM -  4:00 PM
-Join Rock Creek Conservancy, the National Park Service, and the North American Invasive Species Management Association f…
  Invasive Removal at Battery Kemble Park 
  Sat, Oct 24 @ 9:30am 
  Oct 
@@ -677,6 +620,15 @@ Join Rock Creek Conservancy, the National Park Service, and Weed Warrior Leader 
 Invasive Removal at North Chevy Chase Christian Church
 Saturday, October 24,  10:00 AM - 12:00 PM
 Join Rock Creek Conservancy and North Chevy Chase Christian Church for a volunteer event to help care …
+ Ramble with a Ranger 
+ Sat, Oct 24 @ 10:00am 
+ Oct 
+ 24 
+ Sat 
+Ramble with a Ranger
+Saturday, October 24,  10:00 AM - 11:30 PM
+Join the National Park Service for this community event:
+Join a ranger for a pleasant hike through the woods and along the creek. Ranger…
  Rock Creek Park Invasive Plant Removal at Picnic Grove 6 
  Sat, Oct 24 @ 10:30am 
  Oct 
@@ -717,14 +669,14 @@ Join Rock Creek Conservancy, the National Park Service, and Weed Warrior Leader,
 Litter Cleanup at Matthew Henson Trail with Potomac Conservancy
 Saturday, October 31,  9:00 AM -  11:00 AM
 Join Rock Creek Conservancy, Montgomery Parks, and Potomac Conservancy for a litter removal r…
- Litter Cleanup at Broad Branch 
+ Invasive Removal at Broad Branch 
  Sat, Oct 31 @ 10:00am 
  Oct 
  31 
  Sat 
-Litter Cleanup at Broad Branch
+Invasive Removal at Broad Branch 
 Saturday, October 31,  10:00 AM -  12:00 PM
-Join Rock Creek Conservancy, the National Park Service, and Stream Team Leader Kathy Sykes for a litter removal restoration e…
+Join Rock Creek Conservancy, the National Park Service, and Weed Warrior Leader, Kathy Sykes for this invasive plant remov…
  Invasive Removal at Normanstone 
  Sat, Oct 31 @ 10:00am 
  Oct 
@@ -733,6 +685,15 @@ Join Rock Creek Conservancy, the National Park Service, and Stream Team Leader K
 Invasive Removal at Normanstone
 Saturday, October 31,  10:00 AM -  12:00 PM
 Join Rock Creek Conservancy, the National Park Service, and Weed Warrior Leader, Ella Engstrom for this invasive plant remov…
+ B.A.R.K Ranger at Rock Creek Park 
+ Sat, Oct 31 @ 10:00am 
+ Oct 
+ 31 
+ Sat 
+B.A.R.K Ranger at Rock Creek Park
+Saturday, October 31,  10:00 AM - 12:00 PM
+Join the National Park Service for this community event:
+Calling all dog owners! If you enjoy adventuring in Rock Creek Par…
  Invasive Removal at Reservation 630 West 
  Sat, Oct 31 @ 12:00pm 
  Oct 
@@ -741,6 +702,22 @@ Join Rock Creek Conservancy, the National Park Service, and Weed Warrior Leader,
 Invasive Removal at Reservation 630 West
 Saturday, October 31,  12:00 PM -  2:00 PM
 Join Rock Creek Conservancy and the National Park Service for this invasive plant removal restoration event in Rock …
+ Invasive Removal at Reservation 630 West 
+ Sun, Nov 1 @ 10:00am 
+ Nov 
+ 1 
+ Sun 
+Invasive Removal at Reservation 630 West
+Sunday, November 1,  10:00 AM -  12:00 PM
+Join Rock Creek Conservancy, the National Park Service, and Weed Warrior Leader, Kathy Sykes for this invasive plant …
+ A Pathway to Forest Resilience Presentation and Panel Discussion 
+ Thu, Nov 5 @ 6:00pm 
+ Nov 
+ 4 
+ Thu 
+A Pathway to Forest Resilience Presentation and Panel Discussion
+Wednesday, November 4,  6:00 PM -  7:30 PM
+Rock Creek’s forests are the heart, lungs, and soul of the region, providing critical climat…
  Salt Watch Training 
  Fri, Nov 6 @ 6:00pm 
  Nov 
@@ -781,6 +758,14 @@ Join Rock Creek Conservancy and Interfaith Partners of the Chesapeake…
 Stream Team Leader Training (VIRTUAL)
 Tuesday, November 10,  6:00 PM - 7:00 PM
 Please join Rock Creek Conservancy for a virtual training for our Stream Team Leader program. Stream Team Leaders are ded…
+ Invasive Removal at Broad Branch 
+ Wed, Nov 11 @ 10:00am 
+ Nov 
+ 11 
+ Wed 
+Invasive Removal at Broad Branch
+Wednesday, November 11,  10:00 AM -  12:00 PM
+Join Rock Creek Conservancy, the National Park Service, and Weed Warrior Leader, Kathy Sykes for this invasive plant remo…
  Carter Barron Amphitheatre Cleanup 
  Sat, Nov 14 @ 10:00am 
  Nov 
@@ -829,7 +814,23 @@ Join Rock Creek Conservancy and the National Park Service for this invasive plan
 Invasive Removal at Normanstone
 Saturday, November 21,  10:00 AM -  12:00 PM
 Join Rock Creek Conservancy and the National Park Service for this invasive plant removal restoration event in Rock Creek P…
- v5.0.1 
+ Invasive Removal at Piney Branch 
+ Sat, Nov 28 @ 10:00am 
+ Nov 
+ 28 
+ Sat 
+Invasive Removal at Piney Branch
+Saturday, November 28,  10:00 AM -  12:00 PM
+Join Rock Creek Conservancy and the National Park Service for this invasive plant removal restoration event in Rock Creek …
+ Invasive Removal at the Nature Center 
+ Sat, Dec 5 @ 10:00am 
+ Dec 
+ 5 
+ Sat 
+Invasive Removal at the Nature Center 
+Saturday, December 5,  10:00 AM -  12:00 PM
+Join Rock Creek Conservancy and the National Park Service for this invasive plant removal restoration event in Rock C…
+ v5.1.0 
  Get a Timely Calendar 
 
 ----

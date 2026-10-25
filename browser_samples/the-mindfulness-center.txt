@@ -1,6 +1,6 @@
 The Mindfulness Center
 https://www.themindfulnesscenter.org/classes/
-rendered 2026-10-18 05:35Z  status=200 chars=9680 iframes=4 srcdoc=0 next=False error=
+rendered 2026-10-24 23:49Z  status=200 chars=9691 iframes=4 srcdoc=0 next=False error=
 
 Classes - The Mindfulness Center
 Skip to the content
@@ -257,6 +257,7 @@ Testimonials
 160Hr. Meditation Teacher Training Application 
 Blog
 SERVICES  & Programs
+Apothecary
 Telehealth
 Workshops
 Programs For Schools & Students

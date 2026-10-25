@@ -1,6 +1,6 @@
 National Museum of Women in the Arts
 https://secure.nmwa.org/events
-rendered 2026-10-18 05:28Z  status=200 chars=4837 iframes=1 srcdoc=0 next=False error=
+rendered 2026-10-24 23:41Z  status=200 chars=4409 iframes=1 srcdoc=0 next=False error=
 
 Events | NMWA
 Please correct the following error(s):
@@ -57,7 +57,7 @@ Day
 Week
 Month
 Select Day
-October 18, 2026
+October 24, 2026
 Previous day
 Next day
 
@@ -172,8 +172,6 @@ Saturday 17 October 2026
           18
         
 Sunday 18 October 2026
-Daily Admission
-, 
 
           19
         
@@ -182,38 +180,22 @@ Monday 19 October 2026
           20
         
 Tuesday 20 October 2026
-Daily Admission
-, 
 
           21
         
 Wednesday 21 October 2026
-Daily Admission
-, 
-October NMWA Nights
-, 
-5:30PM
 
           22
         
 Thursday 22 October 2026
-Daily Admission
-, 
 
           23
         
 Friday 23 October 2026
-Daily Admission
-, 
-Art Chat
-, 
-5:00PM
 
           24
         
 Saturday 24 October 2026
-Daily Admission
-, 
 
           25
         
@@ -255,30 +237,6 @@ Saturday 31 October 2026
 Daily Admission
 , 
 October 2026
-October 18, 2026
-Daily Admission
-, 
-October 20, 2026
-Daily Admission
-, 
-October 21, 2026
-Daily Admission
-, 
-October NMWA Nights
-, 
-5:30PM
-October 22, 2026
-Daily Admission
-, 
-October 23, 2026
-Daily Admission
-, 
-Art Chat
-, 
-5:00PM
-October 24, 2026
-Daily Admission
-, 
 October 25, 2026
 Daily Admission
 , 
@@ -310,16 +268,16 @@ List View
             Filter by Date Range
         
 Select start date
-October 18, 2026
+October 24, 2026
 
                     to
                 
 Select end date
-April 18, 2027
+April 24, 2027
 
                     Reset Date Range
                 
-Oct 18, 2026 – Apr 18, 2027
+Oct 24, 2026 – Apr 24, 2027
 Footer
 Find Us
 Physical Address

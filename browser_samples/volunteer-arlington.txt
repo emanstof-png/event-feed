@@ -1,6 +1,6 @@
 Volunteer Arlington
 https://connect.volunteerarlington.org/calendar/
-rendered 2026-10-18 05:37Z  status=200 chars=60000 iframes=0 srcdoc=0 next=False error=
+rendered 2026-10-24 23:50Z  status=200 chars=60000 iframes=0 srcdoc=0 next=False error=
 
 Calendar | Volunteer Arlington
 Skip to main content
@@ -74,20 +74,22 @@ Search by Phrase
 Get Connected Icon
 Nonprofit
 -- Select Nonprofit --
-The Arlington Chorale
-Affordable Homes & Communities (AHC)
 Columbia Pike Library
-Ayuda
 KEEN Greater DC
-True Ground Housing Partners
+Comunidad
+Arlington Neighborhood Village
+The Arlington Chorale
+Cherrydale Library
+Affordable Homes & Communities (AHC)
+Ayuda
 Friends of Arlington's Planetarium
 Tiny Cat Animal Rescue
 Arlington Assembly of God
 Samaritan Ministry of Greater Washington
 BellRinger
-Glencarlyn Library
 We Are Artistic
-REACH for Uganda
+Glencarlyn Library
+True Ground Housing Partners
 Chrysalis Development Group
 Friends of the Mount Vernon Trail
 Arlington Friends of Urban Agriculture
@@ -102,7 +104,6 @@ Westover Library
 WelcomeNST, Inc.
 Project Knitwell
 Courthouse Library
-Volunteer Arlington
 Washington English Center
 Arlington Sister City Association
 Alzheimer's Association
@@ -118,7 +119,6 @@ Community of Hope
 Arlington Thrive
 Columbia Pike Thrift Shop
 Arlington Free Clinic
-Central Library - Collections, Access and Technology
 Aurora Hills Library
 Shirlington Library
 Arlington Outdoor Education Association
@@ -152,7 +152,6 @@ RISE Mentoring
 Wright to Read, Campagna Center
 Immigrant and Refugee Outreach Center
 Casa Chirilagua
-Arlington Neighborhood Village
 Wild Virginia
 Arlington Education and Employment Program (REEP)
 Arlington County Department of Human Services
@@ -163,6 +162,8 @@ Rock Recovery
 Goodwin Living
 Travelers Aid
 Every Neighbor United for Food
+Volunteer Arlington
+REACH for Uganda
 Cancel
 Show Opportunities
 Show Events
@@ -1042,6 +1043,20 @@ spots remaining
 Get Connected Icon
 Thrift Shop Volu...
 Thrift Shop Volunteer
+Book Club Leader: Cherrydale Book Club 
+
+            Cherrydale Library
+            
+2:00pm - 3:00pm
+
+                    1
+spots remaining
+
+                Location:Cherrydale Library 2190 N Military Road Arlington VA 22207  How to Apply: Review the description below to confirm you meet criteria and are available on the needed day/time. Click the pink "Sign Up" button above and complete the form t...
+            
+Get Connected Icon
+Book Club Leader...
+Book Club Leader: Cherrydale Book Club 
 SOUP KITCHEN AND FREE GROCERY DISTRIBUTION
 
             Arlington Assembly of God
@@ -1079,6 +1094,36 @@ SOUP KITCHEN AND FREE GROCERY DISTRIBUTION
 Get Connected Icon
 2nd Annual Mega ...
 2nd Annual Mega Trash Bash with the Friends of the Mount Vernon Trail
+English Conversation Leader 2
+
+            Cherrydale Library
+            
+10:30am - 11:30am
+
+                    2
+spots remaining
+
+                Location: 
+
+·        
+            Cherrydale Library 
+
+·        
+            2190 N. Military Road
+
+·        
+            Arlington, Virginia 22207
+
+ 
+
+How To Apply:
+
+·        
+            Review the description...
+            
+Get Connected Icon
+English Conversa...
+English Conversation Leader 2
 Drop-In Teen Toy Cleaner - Courthouse
 
             Courthouse Library
@@ -1112,7 +1157,9 @@ Children's Area Assistance - Teen Volunteer - Shirlington
                                     100+
                  More
             
-18
+
+                    18
+                    
 October 18, 2026  - October 18, 2026
 Calendar
 
@@ -1166,20 +1213,6 @@ spots remaining
 Get Connected Icon
 MoCA on the Move...
 MoCA on the Move: Fall Family Days!
-Volunteers are needed at REACH's Safari Nights Gala on the Evening of Sunday Oct 18th
-
-            REACH for Uganda
-            
-5:00pm - 10:00pm
-
-                    13
-spots remaining
-
-                Can we count on you to volunteer at REACH for Uganda's Safari Nights gala on Oct 18th? If so, wonderful!  Please review the available slots below and click on the button to sign up for a slot here. https://www.signupgenius.com/go/4090E49ADAC22A5F4...
-            
-Get Connected Icon
-Volunteers are n...
-Volunteers are needed at REACH's Safari Nights Gala on the Evening of Sunday Oct 18th
 
                 View
                                     100+
@@ -1248,7 +1281,7 @@ SOUP KITCHEN AND FREE GROCERY DISTRIBUTION
             
 2:00pm - 7:00pm
 
-                    7
+                    5
 spots remaining
 
                 Corrine’s Kitchen is a program that has met the needs of
@@ -1334,7 +1367,7 @@ CG Kid's Club
             
 3:45pm - 6:00pm
 
-                    4
+                    3
 spots remaining
 
                 Support Resident Services with our Afterschool Kids Club located in one of our properties near the Columbia Forest neighborhood in Arlington, VA. The Kid's Club is a weekly program that provides a fun environment for students in 3rd-5th grade to...
@@ -1348,7 +1381,7 @@ CH Afterschool Kids Club
             
 4:00pm - 4:30pm
 
-                    2
+                    1
 spots remaining
 
                 Support Resident Services with our Afterschool Kids Club located in one of our properties near the Columbia Forest neighborhood in Arlington, VA. Kids will be spending the first 45min of the program working on homework or an educational worksheet, ...
@@ -1362,7 +1395,7 @@ CH Afterschool Kids Club
             
 4:30pm - 6:00pm
 
-                    3
+                    2
 spots remaining
 
                 Support Resident Services with our Afterschool Kids Club located in one of our properties near the Columbia Forest neighborhood in Arlington, VA. Kids will be spending the first 45min of the program working on homework or an educational worksheet, ...
@@ -1412,7 +1445,7 @@ AVV Kid's Club
             
 4:00pm - 6:00pm
 
-                    3
+                    2
 spots remaining
 
                 Support Resident Services Team with our Kid's Club located in one of our properties near the Arna Valley neighborhood in Arlington, VA. The Kid's Club is a weekly program that provides a fun environment for students in 3rd-5th grade to enjoy cra...
@@ -1507,16 +1540,14 @@ SOUP KITCHEN AND FREE GROCERY DISTRIBUTION
                                     100+
                  More
             
-
-                    24
-                    
+24
 Concert Volunteers Needed
 
             The Arlington Chorale
             
 3:45pm - 6:30pm
 
-                    6
+                    4
 spots remaining
 
                 We are looking for volunteers to serve as Ticket Checkers and Ushers for our upcoming concert on Saturday, 10/24, at 5pm at Westover Baptist Church in Arlington, VA. Volunteers are needed at 3:45pm for a quick check-in orientation to the space. The c...
@@ -1555,7 +1586,7 @@ Run + Recline with Liberty
             
 7:30am-11:30am
 
-                    7
+                    6
 spots remaining
 
                 Support set-up, guest experience, event happening, and clean-up.
@@ -1563,20 +1594,36 @@ spots remaining
 Get Connected Icon
 Run + Recline wi...
 Run + Recline with Liberty
-Thrift Shop Volunteer
+English Conversation Leader 2
 
-            Columbia Pike Thrift Shop
+            Cherrydale Library
             
-1:30pm - 5:30pm
+10:30am - 11:30am
 
-                    1
+                    2
 spots remaining
 
-                Opportunities Include collecting and sorting donated materials, pricing, cleaning, organizing merchandise, and assisting cashiers with bagging. We ask volunteers to work a minimum of 4 hours per shift.  Both a morning and afternoon shift are availab...
+                Location: 
+
+·        
+            Cherrydale Library 
+
+·        
+            2190 N. Military Road
+
+·        
+            Arlington, Virginia 22207
+
+ 
+
+How To Apply:
+
+·        
+            Review the description...
             
 Get Connected Icon
-Thrift Shop Volu...
-Thrift Shop Volunteer
+English Conversa...
+English Conversation Leader 2
 
                 View
                                     100+
@@ -1591,7 +1638,7 @@ Rock Climbing Practices for Individuals with Different Abilities
             
 9:00am - 11:30am
 
-                    15
+                    13
 spots remaining
 
                 We're looking for volunteers with a heart for making a difference in the lives of individuals with intellectual and developmental disabilities.Join us at our weekly climbing practices and help create a welcoming, inclusive community where kids and ad...
@@ -1605,7 +1652,7 @@ MoCA on the Move: Fall Family Days!
             
 9:30am - 1:30pm
 
-                    3
+                    2
 spots remaining
 
                 Help set up, welcome guests and support the art making activities throughout the event, and assist with a bit of clean up at the end. It's always a beautiful day in the park with live music, games, and art making!NO EVENT on Oct 11
@@ -1627,7 +1674,7 @@ SOUP KITCHEN AND FREE GROCERY DISTRIBUTION
             
 2:00pm - 7:00pm
 
-                    7
+                    6
 spots remaining
 
                 Corrine’s Kitchen is a program that has met the needs of
@@ -1647,27 +1694,27 @@ SOUP KITCHEN AND FREE GROCERY DISTRIBUTION
 
                     27
                     
-Teen Volunteer- Toy Cleaner at Columbia Pike Library
+October 27, 2026  - October 27, 2026
+Calendar
 
-            Columbia Pike Library
+                    Fall Festival
+                    @ 5:00pm
+                
+ by 
+Affordable Homes & Communities (AHC)
+
+                AHC hosts fun and educational events every season to give residents a chance to learn, relax and have fun. These events help neighbors get to know each other & the on-site Resident Services staff.Join us for fall festivals with pumpkin and face painting, food & fun.Fall Festival - Tuesday, October 27, 5-7:30pm - Serrano, 5535 Columbia Pike in Arl...
             
-Between 5:00-7:00 P.M.
-
-                    1
-spots remaining
-
-                Looking for an easy way to earn volunteer hours while helping out your library? We're inviting teen volunteers (grades 7-12) to help us keep our kids' play materials clean. Volunteers will spend 1 hour wiping down and sanitizing the toys  used by Col...
-            
-Get Connected Icon
-Teen Volunteer- ...
-Teen Volunteer- Toy Cleaner at Columbia Pike Library
+Calendar
+Fall Festival
+Fall Festival
 SOUP KITCHEN AND FREE GROCERY DISTRIBUTION
 
             Arlington Assembly of God
             
 2:00pm - 7:00pm
 
-                    7
+                    5
 spots remaining
 
                 Corrine’s Kitchen is a program that has met the needs of
@@ -1685,7 +1732,7 @@ AFAC for Columbia Forest (Distribution Assistance)
             
 3:00pm - 5:15pm
 
-                    4
+                    3
 spots remaining
 
                 Support Resident Services with an AFAC (Arlington Food Assistance Center) grocery distribution located in one of our properties near the Columbia Forest neighborhood in Arlington, VA. Please note signing up on here is only to express your interest,...
@@ -1699,7 +1746,7 @@ TS Kid's Club
             
 3:30pm - 5:45pm
 
-                    3
+                    2
 spots remaining
 
                 Support Resident Services with our Afterschool Kids Club located in one of our properties near the Bluemont neighborhood in Arlington, VA. The Kid's Club is a weekly program that provides a fun environment for students in 3rd-5th grade to enjoy ...
@@ -1713,7 +1760,7 @@ Drop-In Teen Toy Cleaner - Courthouse
             
 6:15pm - 7:45pm
 
-                    1
+                    2
 spots remaining
 
                 Looking for an easy way to earn volunteer hours while helping out your library? We're inviting teen volunteers (ages 12-18) to help us keep the children's play area clean and welcoming! Volunteers will spend 1.5 hrs wiping down and sanitizing the to...
@@ -1729,13 +1776,27 @@ Drop-In Teen Toy Cleaner - Courthouse
 
                     28
                     
+October 28, 2026  - October 28, 2026
+Calendar
+
+                    Outdoor Fall Festival
+                    @ 3:30pm
+                
+ by 
+Affordable Homes & Communities (AHC)
+
+                AHC hosts fun and educational events every season to give residents a chance to learn, relax and have fun. These events help neighbors get to know each other & the on-site Resident Services staff.Join us for fall festivals with pumpkin and face painting, food & fun.Fall Festival - Tuesday, October 27, 5-7:30pm - Serrano, 5535 Columbia Pike in Arl...
+            
+Calendar
+Outdoor Fall Fes...
+Outdoor Fall Festival
 SOUP KITCHEN AND FREE GROCERY DISTRIBUTION
 
             Arlington Assembly of God
             
 2:00pm - 7:00pm
 
-                    7
+                    6
 spots remaining
 
                 Corrine’s Kitchen is a program that has met the needs of
@@ -1767,7 +1828,7 @@ CG Kid's Club
             
 3:45pm - 6:00pm
 
-                    4
+                    3
 spots remaining
 
                 Support Resident Services with our Afterschool Kids Club located in one of our properties near the Columbia Forest neighborhood in Arlington, VA. The Kid's Club is a weekly program that provides a fun environment for students in 3rd-5th grade to...
@@ -1782,20 +1843,6 @@ CH Afterschool Kids Club
 4:00pm - 4:30pm
 
                     2
-spots remaining
-
-                Support Resident Services with our Afterschool Kids Club located in one of our properties near the Columbia Forest neighborhood in Arlington, VA. Kids will be spending the first 45min of the program working on homework or an educational worksheet, ...
-            
-Get Connected Icon
-CH Afterschool K...
-CH Afterschool Kids Club
-CH Afterschool Kids Club
-
-            True Ground Housing Partners
-            
-4:30pm - 6:00pm
-
-                    3
 spots remaining
 
                 Support Resident Services with our Afterschool Kids Club located in one of our properties near the Columbia Forest neighborhood in Arlington, VA. Kids will be spending the first 45min of the program working on homework or an educational worksheet, ...
@@ -1859,7 +1906,7 @@ AVV Kid's Club
             
 4:00pm - 6:00pm
 
-                    3
+                    2
 spots remaining
 
                 Support Resident Services Team with our Kid's Club located in one of our properties near the Arna Valley neighborhood in Arlington, VA. The Kid's Club is a weekly program that provides a fun environment for students in 3rd-5th grade to enjoy cra...
@@ -1934,7 +1981,7 @@ SOUP KITCHEN AND FREE GROCERY DISTRIBUTION
             
 2:00pm - 7:00pm
 
-                    7
+                    6
 spots remaining
 
                 Corrine’s Kitchen is a program that has met the needs of
@@ -1953,18 +2000,4 @@ SOUP KITCHEN AND FREE GROCERY DISTRIBUTION
             
 
                     31
-                    
-Teen Volunteer - Drop In: Halloween Bark Party: For Dogs and Dog Lovers
-
-            Glencarlyn Library
-            
-1:00 - 5:00 p.m.
-
-                    1
-spots remaining
-
-                Teens will assist the library staff with setting up and  cleaning up the dog costume event, directing patrons inside the library for a Halloween storytime, and other activities inside and outside of the library where needed.
-            
-Get Connected Icon
-Teen Volunteer -...
-Teen Vo
+                 
