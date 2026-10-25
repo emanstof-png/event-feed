@@ -101,7 +101,9 @@ def _fill(x, lo, hi, month=None):
         return x
     x = (x.replace("{start}", lo.isoformat()).replace("{end}", hi.isoformat())
           .replace("{start8}", lo.strftime("%Y%m%d")).replace("{end8}", hi.strftime("%Y%m%d"))
-          .replace("{days}", str((hi - lo).days)))
+          .replace("{days}", str((hi - lo).days))
+          .replace("{gridstart}", (lo - timedelta(days=(lo.weekday() + 1) % 7)).isoformat())    # Sunday on/before start
+          .replace("{gridend}", (hi + timedelta(days=6 - (hi.weekday() + 1) % 7)).isoformat()))  # Saturday on/after end
     if month:
         x = x.replace("{year}", str(month[0])).replace("{month}", str(month[1]))
     return x
@@ -109,7 +111,8 @@ def _fill(x, lo, hi, month=None):
 def parse_feed(feed):
     """J may carry request options after '#' as JSON (SPEC_SPEED Phase 1, replayed widget calls):
     https://host/path#{"post": "a=1&from={start}", "headers": {...}, "filter": "regex"}
-    keys: post (form string), multipart (dict), headers (dict), filter (regex kept on title+venue).
+    keys: post (form string), multipart (dict), headers (dict), filter (regex kept on title+venue),
+    token_page + token_regex (plain-fetch that page, first regex group fills {token}: WordPress nonces).
     Placeholders: {start} {end} (ISO), {start8} {end8} (YYYYMMDD), {days}, {year} {month}
     (a {month} URL is fetched once per month the window touches)."""
     if "#{" in feed:
@@ -123,6 +126,12 @@ def read(source, window_days=21):
     months = [(lo.year, lo.month)]
     if "{month}" in url and (hi.year, hi.month) != months[0]:
         months.append((hi.year, hi.month))
+    if opts.get("token_page"):
+        m_ = re.search(opts["token_regex"], get(opts["token_page"]).text)
+        if not m_:
+            raise RuntimeError("token not found on " + opts["token_page"])
+        tok = m_.group(1)
+        opts = json.loads(json.dumps(opts).replace("{token}", tok))
     datas = []
     for m in months:
         u = _fill(url, lo, hi, m)
