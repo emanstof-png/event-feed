@@ -90,7 +90,7 @@ async def main():
     from playwright.async_api import async_playwright
     names = set(sys.argv[1:])
     rows = list(csv.DictReader(open(_L["csv"], newline="", encoding="utf-8")))
-    targets = [r for r in rows if (r["name"] in names) if names] or [r for r in rows if r["method"] in ("browser", "stealth")]
+    targets = [r for r in rows if (r["name"] in names) if names] or [r for r in rows if r["method"] in ("browser", "stealth") or (r["method"] == "none" and r["status"].startswith("UNTESTED"))]
     print(f"{len(targets)} sources, cap {CAP}s each", flush=True)
     log = []
     async with async_playwright() as p:
