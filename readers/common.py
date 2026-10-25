@@ -14,12 +14,21 @@ def window(days=21):
     return t, t + timedelta(days=days)
 
 def get(url, **kw):
-    """GET with a browser-like UA; retries twice on 429/5xx with a short backoff."""
+    """GET that looks like Chrome down to the TLS handshake (curl_cffi impersonation), so sites
+    that 403 plain Python requests answer normally (SPEC_SPEED Phase 2). Falls back to requests
+    if curl_cffi is missing. Retries twice on 429/5xx with a short backoff."""
     import time
-    headers = {**UA, **kw.pop("headers", {})}
     timeout = kw.pop("timeout", 30)
+    extra = kw.pop("headers", {})
+    try:
+        from curl_cffi import requests as creq
+        # no User-Agent override: the impersonated browser sends its own, matching its TLS fingerprint
+        do = lambda: creq.get(url, headers={"Accept-Language": UA["Accept-Language"], **extra},
+                              impersonate="chrome", timeout=timeout, **kw)
+    except ImportError:
+        do = lambda: requests.get(url, headers={**UA, **extra}, timeout=timeout, **kw)
     for attempt in range(3):
-        r = requests.get(url, headers=headers, timeout=timeout, **kw)
+        r = do()
         if r.status_code in (429, 500, 502, 503, 504) and attempt < 2:
             time.sleep(4 * (attempt + 1))
             continue

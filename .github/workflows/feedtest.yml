@@ -35,7 +35,7 @@ jobs:
           python-version: "3.12"
 
       - name: Install dependencies (no browser)
-        run: pip install requests beautifulsoup4 lxml icalendar recurring-ical-events feedparser anthropic tzdata
+        run: pip install requests curl_cffi beautifulsoup4 lxml icalendar recurring-ical-events feedparser anthropic tzdata
 
       - name: Run feed-based readers
         env:

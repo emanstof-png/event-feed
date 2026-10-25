@@ -22,7 +22,7 @@ jobs:
         with:
           python-version: "3.12"
       - name: Install dependencies
-        run: pip install requests beautifulsoup4 lxml icalendar recurring-ical-events feedparser anthropic tzdata
+        run: pip install requests curl_cffi beautifulsoup4 lxml icalendar recurring-ical-events feedparser anthropic tzdata
       - name: Fetch
         run: python raw_fetch.py
       - name: Commit samples

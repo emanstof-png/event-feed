@@ -27,7 +27,7 @@ from readers.common import TZ, dedupe
 
 SHEET_ID = os.environ.get("SHEET_ID", "1vDMP4n3bOBGGvwZ9PerbctPr4uGhiRvxu1cPv_QROYg")
 WINDOW_DAYS = 21
-PER_SOURCE_TIMEOUT = {"browser": 180, "stealth": 180}   # seconds; everything else 150 (leaves room for a browser fallback)
+PER_SOURCE_TIMEOUT = {"browser": 90, "stealth": 90}   # seconds; browser render itself is capped at 45s (readers/browser.CAP), the rest is Haiku; everything else 150 (room for a fallback)
 DEFAULT_TIMEOUT = 150
 FALLBACK_TO_BROWSER = {"html", "jsonld", "api", "xhr", "rss"}   # on error or 0 events, render with the stealth browser
 
@@ -171,6 +171,28 @@ def _browser_fallback(src, why):
     return [], "EMPTY", f"{why}; browser fallback also 0"
 
 
+def previous_counts(sh=None):
+    """{source name: (events, run at)} from the last run, for the zero-count alarm: Run_log tab on
+    a sheet run, else the committed run_log.csv."""
+    rows = []
+    try:
+        if sh is not None:
+            rows = sh.worksheet("Run_log").get_all_values()[1:]
+        else:
+            import csv
+            rows = list(csv.reader(open("run_log.csv", newline="", encoding="utf-8")))[1:]
+    except Exception:
+        return {}
+    out = {}
+    for r in rows:
+        try:
+            if int(r[3]) > 0:
+                out[r[0]] = (int(r[3]), r[7] if len(r) > 7 else "")
+        except Exception:
+            pass
+    return out
+
+
 def run_with_timeout(src):
     t0 = time.time()
     limit = PER_SOURCE_TIMEOUT.get(src["method"], DEFAULT_TIMEOUT)
@@ -252,9 +274,16 @@ def main():
     feed_rows = [[False, e["date"], e["time"], e["title"], e["venue"], e["source"], e["link"], cat.get(e["source"], ""), e.get("desc", "")]
                  for e in all_events]
 
+    prev = previous_counts(sh)
+    alarms = []
     log_rows = []
     for row in sorted(results):
         src, evs, status, err, secs = results[row]
+        was = prev.get(src["name"])
+        if not evs and was and status not in ("PAUSED", "SKIPPED"):   # SPEC_SPEED: zero-count alarm
+            err = f"ALARM: 0 events, had {was[0]} on {was[1]}" + (f"; {err}" if err else "")
+            results[row] = (src, evs, status, err, secs)
+            alarms.append(src["name"])
         sample = "; ".join(f"{e['date']} {e['title'][:40]}" for e in evs[:3])
         log_rows.append([src["name"], src["method"], status, len(evs), secs, err, sample, run_at])
 
@@ -262,6 +291,8 @@ def main():
     for _, _, status, _, _ in results.values():
         counts[status] = counts.get(status, 0) + 1
     print("\nSUMMARY", json.dumps(counts), f"events={len(feed_rows)}", flush=True)
+    if alarms:
+        print(f"ALARM: {len(alarms)} source(s) had events last run and 0 now: " + "; ".join(alarms), flush=True)
 
     if args.csv:
         import csv
