@@ -23,7 +23,7 @@ concurrency:
 
 jobs:
   render:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-24.04
     timeout-minutes: 45
     steps:
       - uses: actions/checkout@v4
@@ -35,7 +35,9 @@ jobs:
           pip install requests beautifulsoup4 lxml icalendar recurring-ical-events feedparser anthropic tzdata "scrapling[fetchers]==0.5"
           scrapling install
       - name: Render
-        run: python render_test.py
+        run: |
+          set -o pipefail
+          python render_test.py 2>&1 | tee render_out.txt || { echo "::error title=render::$(tail -c 900 render_out.txt | tr '\n' ' ')"; exit 1; }
       - name: Commit samples
         if: always()
         run: |
