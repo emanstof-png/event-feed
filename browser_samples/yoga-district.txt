@@ -1,6 +1,6 @@
 Yoga District
 https://clients.mindbodyonline.com/classic/ws?studioid=2070&stype=-7&sView=week&sLoc=0
-rendered 2026-10-25 00:34Z  status=200 chars=32388 iframes=0 srcdoc=0 next=False error=
+rendered 2026-11-15 00:34Z  status=200 chars=31353 iframes=0 srcdoc=0 next=False error=
 
 
 
@@ -19,6 +19,8 @@ www.yogadistrict.com
 classes
 
 events
+
+trainings
 
 my info
 
@@ -41,8 +43,6 @@ Week
 First filter by class format
 
 On Line Live Strea...
-
-Outdoor Classes
 
 Studio (In-Person)...
 
@@ -69,8 +69,6 @@ Durham NC
 Glover Park DC
 
 H St. DC
-
-Outside: Q St. Par...
 
 Yoga Outreach (sta...
 
@@ -102,6 +100,8 @@ Anna H.
 
 Anna K.
 
+Anna-Leigh
+
 Anu B.
 
 Ava W.
@@ -117,8 +117,6 @@ Carla C.
 Carter G.
 
 Chloe Di.
-
-Christa C
 
 Christina B.
 
@@ -199,8 +197,6 @@ Joya
 Kaila
 
 Kallie M.
-
-Kat A.
 
 Katya
 
@@ -294,15 +290,11 @@ Sarah K
 
 Sarah O.
 
-Saritha V.
-
 Sean O.
 
 Sharon C.
 
 Sheri B.
-
-Staff
 
 Stephanie L.
 
@@ -325,1405 +317,1370 @@ Room
 Duration
 
 Mon 
-October 19, 2026
-7:30 am  EDT
+November 9, 2026
+7:30 am  EST
 (Durham) FREE: Community Silent Sit @ 702 9th St. Durham
 Amanda L.
 702 9th St Durham NC
 30 minutes
-9:30 am  EDT
+9:30 am  EST
 (Bloomingdale) Flow 1.5-3 @ 1830 1st St NW
 Mana
 1830 1st St. NW 
 1 hour
-9:30 am  EDT
+9:30 am  EST
 (Online) Flow 1.5-3
 Mana
 Zoom 2
 1 hour
-10:00 am  EDT
+10:00 am  EST
 Outreach @ Dept of Corrections
 Christina B.
 Client Site
 45 minutes
-10:00 am  EDT
+10:00 am  EST
 Outreach @ Dept of Corrections
 Emily M.
 Client Site 
 45 minutes
-11:30 am  EDT
+11:30 am  EST
 (14th St.) Power Flow Express @ 1910 14th St NW, 3rd Flr
 Jamie W.
 1910 14th St NW, 3rd Floor
 50 minutes
-12:00 pm  EDT
+12:00 pm  EST
 (H St) Flow 1-1.5 @ 500 H St NE
 Amanda Me.
 500 H St. NE Top Floor
 1 hour
-12:00 pm  EDT
+12:00 pm  EST
 (Online) Flow 1-1.5
 Amanda Me.
 Zoom 2
 1 hour
-12:15 pm  EDT
-(Online) 50-Minute Ashtanga/Power Flow
-Mana
-Zoom 3
-50 minutes
-12:15 pm  EDT
-(Petworth) 50-Minute Ashtanga/Power Flow @  3905 Georgia Ave NW
-Mana
-3905 Georgia Ave NW, 3rd Floor
-50 minutes
-12:30 pm  EDT
+12:30 pm  EST
 (Bloomingdale) All Levels Flow @ 1830 1st St NW
 Andrea D.
 1830 1st St. NW Bloomingdale
 50 minutes
-12:30 pm  EDT
+12:30 pm  EST
 (Dupont) Gentle + Restorative Yoga @ 1605 Connecticut Ave NW
-Carla C.
+Sarah A.
 1605 Connecticut Ave NW 2nd Fl
 1 hour
-12:30 pm  EDT
+12:30 pm  EST
+(Online) 50-Minute Ashtanga/Power Flow
+Mana
+Zoom 3
+50 minutes
+12:30 pm  EST
 (Online) All Levels Flow 
 Andrea D.
 Zoom 4 
 50 minutes
-12:30 pm  EDT
+12:30 pm  EST
 (Online) Gentle Flow + Restorative (All Levels)
-Cancelled Today
+Sarah A.
+Zoom 1 
 1 hour
-5:00 pm  EDT
+12:30 pm  EST
+(Petworth) 50-Minute Ashtanga/Power Flow @  3905 Georgia Ave NW
+Mana
+3905 Georgia Ave NW, 3rd Floor
+50 minutes
+5:00 pm  EST
 (Glover) Gentle Flow w/ Restorative Yoga @ 2319 Wisconsin Ave NW
 Liz M.
 2319 Wisconsin Ave NW 
 1 hour
-5:15 pm  EDT
+5:15 pm  EST
 (14th St.) Core-Focused Flow @ 1910 14th St NW 3rd Flr
 Edgar
 1910 14th St NW, 3rd Floor
 1 hour
-5:15 pm  EDT
+5:15 pm  EST
 (Bloomingdale) Flow 1-1.5 @ 1830 1st St NW
 Emily M.
 1830 1st St. NW 
 1 hour
-5:15 pm  EDT
+5:15 pm  EST
 (H St.) Power Flow 1.5-3 @ 500 H St NE
 Morgan G.
 500 H St. NE Top Floor
 1 hour
-5:15 pm  EDT
+5:15 pm  EST
 (Online) Core-Focused Flow
 Edgar
 Zoom 3
 1 hour
-5:15 pm  EDT
+5:15 pm  EST
 (Union) Yoga for Runners @ 300 Morse St. NE
 Sean O.
 300 Morse St. NE DC
 1 hour
-5:25 pm  EDT
+5:25 pm  EST
 (Petworth) Flow + Yin @ 3905 Georgia Ave NW	
 Rashida E.
 3905 Georgia Ave NW, 3rd Floor
 1 hour
-5:30 pm  EDT
+5:30 pm  EST
 (Dupont) Core Flow 1-2 @ 1605 Connecticut Ave NW 
 Francesca
 1605 Connecticut Ave NW 2nd Fl
 55 minutes
-6:00 pm  EDT
+6:00 pm  EST
 (14th St.) All-Levels Alignment Flow @ 1910 14th St. NW 2nd Flr.
 Sarah O.
 1910 14th St., 2nd Flr
 1 hour
-6:15 pm  EDT
+6:15 pm  EST
 (Glover) Flow Yoga (Levels 1.5-3) @ 2319 Wisconsin Ave NW
 Carla C.
 2319 Wisconsin Ave NW 
 50 minutes
-6:30 pm  EDT
+6:30 pm  EST
 (Bloomingdale) Flow 1.5-3 @ 1830 1st St NW
 Tai P.
 1830 1st St. NW 
 1 hour
-6:30 pm  EDT
+6:30 pm  EST
 (Durham) Flow + Restorative @ 702 9th St Durham NC
-J
+Anna H.
 702 9th St Durham NC
 1 hour
-6:30 pm  EDT
+6:30 pm  EST
 (H St.) All Levels Flow @ 500 H St NE
 Monica A.
 500 H St. NE Top Floor
 1 hour
-6:30 pm  EDT
+6:30 pm  EST
 (Online) All Levels Flow 
 Tai P.
 Zoom 2
 1 hour
-6:30 pm  EDT
+6:30 pm  EST
 (Union) Feel Good Flow 1-2 @ 300 Morse St. NE
 Elizabeth T.
 300 Morse St. NE DC
 1 hour
-6:35 pm  EDT
+6:35 pm  EST
  (Dupont) Power Flow @ 1605 Connecticut Ave NW
 Sarah F.
 1605 Connecticut Ave NW 2nd Fl
 1 hour
-6:35 pm  EDT
+6:35 pm  EST
 (14th St.) All Levels Flow @ 1910 14th St NW
 Andrea D.
 1910 14th St. NW 3rd Floor
 1 hour
-6:35 pm  EDT
+6:35 pm  EST
 (Online) All Levels Flow 
 Andrea D.
 Zoom 3
 1 hour
-6:35 pm  EDT
+6:35 pm  EST
 (Petworth) Power Flow 1-2 @ 3905 Georgia Ave NW
-Mana
+Erik K.
 3905 Georgia Ave NW, 3rd Floor
 1 hour
-7:15 pm  EDT
+7:15 pm  EST
 (14th St.) Power Flow 2-3 @ 1910 14th St. NW 2nd Flr 
 Jamie W.
 1910 14th St., 2nd Flr
 1 hour &15 minutes
-7:45 pm  EDT
+7:45 pm  EST
 (Bloomingdale) Stretch and Restore @ 1830 1st St NW 
-Steve W.
+Cancelled Today
 1830 1st St. NW 
 1 hour &15 minutes
-7:45 pm  EDT
+7:45 pm  EST
 (Dupont) Basic Flow + Yin/Restorative @ 1605 Connecticut Ave NW 2nd Fl
 Nate S.
 1605 Connecticut Ave NW 2nd Fl
 1 hour
-7:45 pm  EDT
+7:45 pm  EST
 (H St.) Basic Slow Flow 1-2 @ 500 H St. NE
 Sara C.
 500 H St. NE Top Floor
 1 hour
-7:45 pm  EDT
+7:45 pm  EST
 (Petworth) Restorative & Yoga Nidra @ 3905 Georgia Ave NW
-Cancelled Today
+Caitlin V.
+3905 Georgia Ave NW, 3rd Floor
 1 hour
-7:45 pm  EDT
+7:45 pm  EST
 (Union) Flow + Restore @ 300 Morse St NE
-Carter G.
+Faye B.
 300 Morse St. NE DC
 1 hour &15 minutes
 Tue 
-October 20, 2026
-6:15 am  EDT
+November 10, 2026
+6:15 am  EST
 (H St.) Sunrise Flow  @ 500 H St NE Rear Entrance
 Andrea D.
 500 H St. NE Top Floor
 1 hour
-6:15 am  EDT
+6:15 am  EST
 (Online) Sunrise Flow 
 Andrea D.
 Zoom 1 
 1 hour
-6:45 am  EDT
+6:45 am  EST
 (Bloomingdale) Sunrise Flow 1-2 @ 1830 1st St NW
 Luci M.
 1830 1st St. NW 
 1 hour
-6:45 am  EDT
+6:45 am  EST
 (Online) Sunrise Flow 1-2
 Luci M.
 Zoom 3
 1 hour
-7:30 am  EDT
+7:30 am  EST
 (Dupont) Flow 1-2 @ 1605 Connecticut Ave NW 2nd Flr
 Jackie P.
 1605 Connecticut Ave NW 2nd Fl
 1 hour
-7:30 am  EDT
+7:30 am  EST
 (Online) Flow 1-2
 Jackie P.
 Zoom 2
 1 hour
-12:00 pm  EDT
+12:00 pm  EST
 (14th St.) Midday Flow 1-2 @ 1910 14th St NW 3rd Flr
 Francesca
 1910 14th St NW, 3rd Floor
 1 hour
-12:00 pm  EDT
+12:00 pm  EST
 (Dupont) Core-Focused Yoga  @ 1605 Connecticut Ave NW
 Edgar
 1605 Connecticut Ave NW 2nd Fl
 1 hour
-12:00 pm  EDT
+12:00 pm  EST
 (Online) Core-Focused Yoga
 Edgar
 Zoom 4 
 1 hour
-12:00 pm  EDT
+12:00 pm  EST
 (Online) Midday Flow 1-2
 Francesca
 Zoom 3
 1 hour
-12:00 pm  EDT
+12:00 pm  EST
 (Union) Energizing Flow @ 300 Morse St. NE
 Katya
 300 Morse St. NE DC
 50 minutes
-12:10 pm  EDT
+12:10 pm  EST
 (H St.) Flow 1-2 w/ Alignment Focus @ 500 H St NE
 Amanda Me.
 500 H St. NE Top Floor
 50 minutes
-12:10 pm  EDT
+12:10 pm  EST
 (Online) Flow 1-2 w/ Alignment Focus 
 Amanda Me.
 Zoom 1 
 50 minutes
-12:30 pm  EDT
+12:30 pm  EST
 (Bloomingdale) Express Lunchtime Flow  @ 1830 1st St NW
 Cancelled Today
 50 minutes
-12:30 pm  EDT
-(Online) Express Lunchtime Flow
-Cancelled Today
-50 minutes
-5:00 pm  EDT
+5:00 pm  EST
  (Durham) Express Flow @ 702 9th St Durham NC
 Krista B.
 702 9th St Durham NC
 50 minutes
-5:00 pm  EDT
+5:00 pm  EST
 (Union) Core-Focused Flow @ 300 Morse St. NE
 Francesca
 300 Morse St. NE DC
 45 minutes
-5:15 pm  EDT
+5:15 pm  EST
  (Online) Flow 2-3 
 Jess G.
 Zoom 1 
 1 hour
-5:15 pm  EDT
+5:15 pm  EST
 (14th St) Flow and Grow 2-3 @ 1910 14th St NW 3rd Flr
 Tai P.
 1910 14th St NW, 3rd Floor
 1 hour
-5:15 pm  EDT
+5:15 pm  EST
 (Bloomingdale) Power Flow 2-3 @ 1830 1st St NW
 Jess G.
 1830 1st St. NW 
 1 hour
-5:15 pm  EDT
+5:15 pm  EST
 (H St.) Beginner-Friendly Flow 1-1.5 @ 500 H St NE
 Jen D.
 500 H St. NE Top Floor
 1 hour
-5:15 pm  EDT
+5:15 pm  EST
 (Online) Flow 1-1.5
 Jen D.
 Zoom 3
 1 hour
-5:15 pm  EDT
+5:15 pm  EST
 (Petworth) All-Levels Strength & Mobility Focused Yoga @ 3905 Georgia Ave NW
-Nicole D.
+Andrea B.
 3905 Georgia Ave NW, 3rd Floor
 1 hour
-5:30 pm  EDT
+5:30 pm  EST
 (14th St.) All Levels Flow @ 1910 14th St NW
 Katya
 1910 14th St., 2nd Flr
 1 hour
-5:30 pm  EDT
+5:30 pm  EST
 (Dupont) Flow 1.5-2  @ 1605 Connecticut Ave NW
 Kevin L.
 1605 Connecticut Ave NW 2nd Fl
 55 minutes
-5:30 pm  EDT
+5:30 pm  EST
 (Glover) Power Flow 1.5-3 @ 2319 Wisconsin Ave NW	
 Nina R.
 2319 Wisconsin Ave NW 
 1 hour
-6:00 pm  EDT
+6:00 pm  EST
  (Durham) Yin + Restorative @ 702 9th St Durham NC
 Krista B.
 702 9th St Durham NC
 1 hour
-6:00 pm  EDT
+6:00 pm  EST
 (Union) Power 1.5-3 with Restorative @ 300 Morse St. NE
 Morgan G.
 300 Morse St. NE DC
 1 hour &15 minutes
-6:15 pm  EDT
+6:15 pm  EST
 (Online Only) Gentle Flow + Restorative (All Levels)
-Cancelled Today
+Deb
+Zoom 4 
 55 minutes
-6:30 pm  EDT
+6:30 pm  EST
  (Online) Flow 2-3 
 Nikisha G.
 Zoom 2
 1 hour
-6:30 pm  EDT
+6:30 pm  EST
 (14th St.) Strong & Slow Flow 1-2 @ 1910 14th St NW 3rd Flr
-Tatiana N.
+Nicole S.
 1910 14th St. NW 3rd Floor
 1 hour
-6:30 pm  EDT
+6:30 pm  EST
 (Bloomingdale) All Levels Flow @ 1830 1st St NW
 Francesca
 1830 1st St. NW 
 1 hour
-6:30 pm  EDT
+6:30 pm  EST
 (H St.) Flow 2-3 @ 500 H St NE Rear Entrance
 Nikisha G.
 500 H St. NE Top Floor
 1 hour
-6:30 pm  EDT
+6:30 pm  EST
 (Online) All Levels Flow
 Francesca
 Zoom 1 
 1 hour
-6:30 pm  EDT
+6:30 pm  EST
 (Petworth) All Levels Flow @ 3905 Georgia Ave NW
 Greta W.
 3905 Georgia Ave NW, 3rd Floor
 1 hour &15 minutes
-6:35 pm  EDT
+6:35 pm  EST
 (Dupont) All-Levels Flow @ 1605 Connecticut Ave NW
-Monica C.
+Kevin L.
 1605 Connecticut Ave NW 2nd Fl
 1 hour
-6:45 pm  EDT
+6:45 pm  EST
 (14th St.) Flow 1.5-3 @ 1910 14th St NW 2nd Flr
 Ava W.
 1910 14th St., 2nd Flr
 1 hour &15 minutes
-6:45 pm  EDT
+6:45 pm  EST
 (Glover) Flow 1-2 @ 2319 Wisconsin Ave NW
 Greg
 2319 Wisconsin Ave NW 
 1 hour
-6:45 pm  EDT
+6:45 pm  EST
 (Online) Flow Yoga 1.5-3 
 Ava W.
 Zoom 3
 1 hour &15 minutes
-7:30 pm  EDT
+7:30 pm  EST
 (Union) Yoga 1 + Restorative Rest @ 300 Morse St. NE
 Michelle T.
 300 Morse St. NE DC
 1 hour
-7:45 pm  EDT
+7:45 pm  EST
 (14th St.) Slow Flow + Restorative @ 1910 14th St NW
 Cancelled Today
 1 hour
-7:45 pm  EDT
+7:45 pm  EST
 (Dupont) Candlelit Restorative w/ Essential Oils @ 1605 Connecticut Ave NW
 Kallie M.
 1605 Connecticut Ave NW 2nd Fl
 1 hour
-7:45 pm  EDT
+7:45 pm  EST
 (H St.) Gentle Flow @ 500 H St NE
 Ellen L.
 500 H St. NE Top Floor
 1 hour
-8:00 pm  EDT
+8:00 pm  EST
 (Bloomingdale) Flow 1-2 w/ Soundbath @ 1830 1st St NW
 Joya
 1830 1st St. NW 
 1 hour
-9:30 pm  EDT
+9:30 pm  EST
 (Online Only) Yoga Nidra / Guided Savasana
-Cancelled Today
+Deb
+Zoom 4 
 1 hour
 Wed 
-October 21, 2026
-7:00 am  EDT
+November 11, 2026
+7:00 am  EST
 (Dupont) Sunrise Flow @ 1605 Connecticut Ave NW 2nd Floor
 Molly F.
 1605 Connecticut Ave NW 2nd Fl
 1 hour
-7:30 am  EDT
+7:30 am  EST
 (H St.) Flow Level 1.5-2 @  500 H St NE Rear Entrance
-Molly Rose K.
+Emily R.
 500 H St. NE Top Floor
 50 minutes
-7:30 am  EDT
+7:30 am  EST
 (Online) Flow 1.5-2 
-Molly Rose K.
-Zoom 4 
+Emily R.
+Zoom 1 
 50 minutes
-7:30 am  EDT
+7:30 am  EST
 (Union) All Levels Flow @ 300 Morse St. NE
 Nicole D.
 300 Morse St. NE DC
 1 hour
-12:00 pm  EDT
+12:00 pm  EST
 (14th St.) Flow 1.5-2, Ashtanga-Inspired @ 1910 14th St NW 3rd Flr
 Pratima
 1910 14th St NW, 3rd Floor
 1 hour
-12:00 pm  EDT
+12:00 pm  EST
 (H St.) Alignment-Focused Yoga @ 500 H St NE
 Amyre B.
 500 H St. NE Top Floor
 1 hour
-12:00 pm  EDT
+12:00 pm  EST
 (Online) Alignment-Focused Yoga 
 Amyre B.
 Zoom 4 
 1 hour
-12:00 pm  EDT
+12:00 pm  EST
 (Online) Modified Ashtanga Yoga 1.5-2
 Pratima
 Zoom 3
 1 hour
-12:15 pm  EDT
-(Online) 50-Minute Ashtanga/Power Flow
-Mana
-Zoom 1 
-50 minutes
-12:15 pm  EDT
-(Petworth) 50-Minute Ashtanga/Power Flow @  3905 Georgia Ave NW
-Mana
-3905 Georgia Ave NW, 3rd Floor
-50 minutes
-12:30 pm  EDT
+12:30 pm  EST
 (Bloomingdale) All Levels Flow @ 1830 1st St NW
 Jess G.
 1830 1st St. NW Bloomingdale
 50 minutes
-12:30 pm  EDT
+12:30 pm  EST
+(Online) 50-Minute Ashtanga/Power Flow
+Mana
+Zoom 1 
+50 minutes
+12:30 pm  EST
 (Online) All Levels Flow 
 Jess G.
 Zoom 2
 50 minutes
-5:00 pm  EDT
- (Durham) Express Flow @ 702 9th St Durham NC
-Cancelled Today
+12:30 pm  EST
+(Petworth) 50-Minute Ashtanga/Power Flow @  3905 Georgia Ave NW
+Mana
+3905 Georgia Ave NW, 3rd Floor
 50 minutes
-5:00 pm  EDT
+5:00 pm  EST
+ (Durham) Express Flow @ 702 9th St Durham NC
+Eesha S.
+702 9th St Durham NC
+50 minutes
+5:00 pm  EST
 (Union) All Levels Flow @ 300 Morse St. NE
 Amanda Me.
 300 Morse St. NE DC
 1 hour
-5:15 pm  EDT
+5:15 pm  EST
 (14th St.) Core Flow Alternating w/ Mobility Flow @ 1910 14th St NW 3rd Flr
 Andrea D.
 1910 14th St. NW 3rd Floor
 1 hour
-5:15 pm  EDT
+5:15 pm  EST
 (Bloomingdale) Flow 1-2 @ 1830 1st St NW
-Phoebe P.
+Runa
 1830 1st St. NW 
 1 hour
-5:15 pm  EDT
+5:15 pm  EST
 (Online) Core Flow Alternating w/ Mobility
 Andrea D.
 Zoom 2
 1 hour
-5:15 pm  EDT
+5:15 pm  EST
 (Online) Flow 1-2
 Cancelled Today
+Zoom 4 
 1 hour
-5:15 pm  EDT
+5:15 pm  EST
 (Petworth) Midweek Flow: Strength & Ease @ 3905 Georgia Ave NW 
 Adriana F.
 3905 Georgia Ave NW, 3rd Floor
 1 hour
-5:30 pm  EDT
+5:30 pm  EST
 (Dupont) Strength, Stretch + Form Yoga @ 1605 Connecticut Ave NW
 Maria Camila
 1605 Connecticut Ave NW 2nd Fl
 55 minutes
-5:30 pm  EDT
+5:30 pm  EST
 (H St.) Core Flow Express @ 500 H St. NE
 Morgan W.
 500 H St. NE Top Floor
 50 minutes
-6:00 pm  EDT
+6:00 pm  EST
 (14th St. ) Flow 2-3 @ 1910 14th St NW 2nd Flr
 Katya
 1910 14th St., 2nd Flr
 1 hour
-6:00 pm  EDT
+6:00 pm  EST
 (Durham) All-Levels Core Flow @ 702 9th St Durham
-Christa C
+Eesha S.
 702 9th St Durham NC
 1 hour
-6:00 pm  EDT
+6:00 pm  EST
 (Glover)  Gentle Flow and Restorative @ 2319 Wisconsin Ave NW
 Sarah K
 2319 Wisconsin Ave NW 
 1 hour
-6:15 pm  EDT
+6:15 pm  EST
 (Union) Flow 1.5-3 @ 300 Morse St. NE
-Amanda Me.
+Felix
 300 Morse St. NE DC
 1 hour
-6:30 pm  EDT
+6:30 pm  EST
 (14th St.) All Levels Flow @ 1910 14th St NW
-Laura D.
+Kayla S.
 1910 14th St NW, 3rd Floor
 1 hour
-6:30 pm  EDT
+6:30 pm  EST
 (Bloomingdale) All-Levels Meditative Flow @ 1830 1st St NW
 Emily M.
 1830 1st St. NW 
 1 hour
-6:30 pm  EDT
+6:30 pm  EST
 (H St.) All Levels Flow @ 500 H St NE 
-Dheeya R.
+Tai P.
 500 H St. NE Top Floor
 1 hour &15 minutes
-6:30 pm  EDT
+6:30 pm  EST
 (Online) All Levels Dharma Flow 
 Emily M.
 Zoom 3
 1 hour
-6:30 pm  EDT
+6:30 pm  EST
 (Online) All Levels Flow 
-Dheeya R.
+Tai P.
 Zoom 1 
 1 hour &15 minutes
-6:30 pm  EDT
+6:30 pm  EST
 (Online) Flow 1.5-3
-Kelsey D.
+Nicole D.
 Zoom 2
 1 hour
-6:30 pm  EDT
+6:30 pm  EST
 (Petworth) Flow Level 1.5-3 @ 3905 Georgia Ave NW
-Kelsey D.
+Nicole D.
 3905 Georgia Ave NW, 3rd Floor
 1 hour
-6:35 pm  EDT
+6:35 pm  EST
 (Dupont) All Levels Flow @ 1605 Connecticut Ave NW
-Carla C.
+Maria Camila
 1605 Connecticut Ave NW 2nd Fl
 1 hour
-7:15 pm  EDT
+7:15 pm  EST
 (14th St.) Slow Flow: unwind + reset @ 1910 14th St NW, 2nd Floor
 Molly F.
 1910 14th St., 2nd Flr
 1 hour
-7:30 pm  EDT
+7:30 pm  EST
 (Glover) Flow 1-2 @ 2319 Wisconsin Ave NW
 Greg
 2319 Wisconsin Ave NW 
 1 hour
-7:30 pm  EDT
+7:30 pm  EST
 (Union) Slow Flow + Restorative @ 300 Morse St. NE
-Carter G.
+Michelle T.
 300 Morse St. NE DC
 1 hour
-7:45 pm  EDT
+7:45 pm  EST
 (14th St.) Candlelight Yin Yoga @ 1910 14th St NW 3rd Flr
 Chuck
 1910 14th St NW, 3rd Floor
 1 hour &15 minutes
-7:45 pm  EDT
-(Bloomingdale) Slow Flow & Restore: Mobility & Prenatal Friendly @ 1830 1st St NW
-Monica A.
-1830 1st St. NW 
-1 hour
-7:45 pm  EDT
+7:45 pm  EST
 (Dupont) Slow Flow + Restore @ 1605 Connecticut Ave NW
 Noah C.
 1605 Connecticut Ave NW 2nd Fl
 1 hour
-7:45 pm  EDT
-(Online) Slow Flow & Restore: Mobility & Prenatal Friendly 
-Monica A.
-Zoom 4 
-1 hour
-7:45 pm  EDT
+7:45 pm  EST
 (Petworth) Flow + Restorative @ 3905 Georgia Ave NW
-Chloe Di.
+Fareed M.
 3905 Georgia Ave NW, 3rd Floor
 1 hour
-8:00 pm  EDT
+8:00 pm  EST
 (H St.) Yin Yoga @ 500 H St NE 
-Dheeya R.
+Deb
 500 H St. NE Top Floor
 1 hour &15 minutes
-8:00 pm  EDT
+8:00 pm  EST
 (Online) Yin Yoga
-Dheeya R.
+Deb
 Zoom 1 
 1 hour &15 minutes
 Thu 
-October 22, 2026
-6:15 am  EDT
+November 12, 2026
+6:15 am  EST
 (H St.) Sunrise Flow  @ 500 H St NE Rear Entrance
 Andrea D.
 500 H St. NE Top Floor
 1 hour
-6:15 am  EDT
+6:15 am  EST
 (Online) Sunrise Flow 
 Andrea D.
 Zoom 1 
 1 hour
-7:30 am  EDT
+7:30 am  EST
 (Union) Sunrise Power Flow @ 300 Morse St. NE
 Alanna F.
 300 Morse St. NE DC
 1 hour
-8:00 am  EDT
+8:00 am  EST
 (Dupont) Flow 1-2 @ 1605 Connecticut Ave NW 2nd Flr
-Emily R.
+Jackie P.
 1605 Connecticut Ave NW 2nd Fl
 1 hour
-8:00 am  EDT
+8:00 am  EST
 (Online Only) Flow Yoga (All Levels) 
-Cancelled Today
+Felix
+Zoom 3
 1 hour
-8:00 am  EDT
+8:00 am  EST
 (Online) Flow 1-2
-Emily R.
+Jackie P.
 Zoom 4 
 1 hour
-11:15 am  EDT
+11:15 am  EST
 (14th St.) Alignment-Focused Slow Flow 1-2 @ 1910 14th St NW 2nd Floor
-Steve W.
-1910 14th St NW 2nd Floor
+Cancelled Today
 1 hour
-12:00 pm  EDT
-(Dupont) All-Levels Flow @ 1605 Connecticut Ave NW
-Erik K.
-1605 Connecticut Ave NW 2nd Fl
-1 hour
-12:10 pm  EDT
+12:10 pm  EST
 (H St.) Core-Focused Yoga @ 500 H St NE Rear Entrance
 Edgar
 500 H St. NE Top Floor
 50 minutes
-12:10 pm  EDT
+12:10 pm  EST
 (Online) Core-Focused Yoga
 Edgar
 Zoom 3
 50 minutes
-12:10 pm  EDT
+12:10 pm  EST
 (Union) All Levels Flow @ 300 Morse St. NE
 Francesca
 300 Morse St. NE DC
 50 minutes
-12:30 pm  EDT
+12:30 pm  EST
 (Bloomingdale) Express Lunchtime Flow  @ 1830 1st St NW
 Andrea D.
 1830 1st St. NW 
 50 minutes
-12:30 pm  EDT
+12:30 pm  EST
 (Online) Express Lunchtime Flow
 Andrea D.
 Zoom 2
 50 minutes
-1:30 pm  EDT
+1:30 pm  EST
 Yoga @ Fair Girls Trafficking Survivors
 Mana
 1 hour
-5:15 pm  EDT
+5:15 pm  EST
 (14th St.) All Levels Flow @ 1910 14th St NW
 Adrianne D.
 1910 14th St NW, 3rd Floor
 1 hour
-5:15 pm  EDT
+5:15 pm  EST
 (Bloomingdale) All Levels Flow @ 1830 1st St NW
 Katya
 1830 1st St. NW 
 1 hour
-5:15 pm  EDT
+5:15 pm  EST
 (Glover) Gentle Yoga + Restorative @2319 Wisconsin Ave NW
 Anu B.
 2319 Wisconsin Ave NW 
 1 hour
-5:15 pm  EDT
+5:15 pm  EST
 (H St.) Core-Focused Flow Yoga @ 500 H St NE Top Flr
 Leon B.
 500 H St. NE Top Floor
 1 hour
-5:15 pm  EDT
+5:15 pm  EST
 (Union) Yin + Yang Yoga: Stretch and Flow @ 300 Morse St. NE
 Chuck
 300 Morse St. NE DC
 1 hour
-5:30 pm  EDT
-(Dupont) Core Flow Express @ 1605 Connecticut Ave NW
-Emily R.
+5:30 pm  EST
+(Dupont) All Levels Flow @ 1605 Connecticut Ave NW
+AJ C.
 1605 Connecticut Ave NW 2nd Fl
 55 minutes
-5:30 pm  EDT
+5:30 pm  EST
 (Online Only) Gentle Yoga for Abs, Back, and Legs
 Edgar
 Zoom 3
 50 minutes
-5:30 pm  EDT
+5:30 pm  EST
 (Petworth) Move & Meditate @ 3905 Georgia Ave NW
-Adriana F.
+Andrea B.
 3905 Georgia Ave NW, 3rd Floor
 45 minutes
-5:45 pm  EDT
-(Durham) Deep Rest, Reiki & Restorative Yoga @ 702 9th St
-Amanda L.
+5:45 pm  EST
+(Durham) Restorative Yoga @ 702 9th St Durham
+Victoria C.
 702 9th St Durham NC
 1 hour &15 minutes
-6:00 pm  EDT
+6:00 pm  EST
 (14th St.) Slow Flow Yoga @ 1910 14th St. NW 2nd Flr
-Tatiana N.
+Caitlin V.
 1910 14th St NW 2nd Floor
 1 hour
-6:00 pm  EDT
+6:00 pm  EST
 (Online) Slow Flow Yoga
-Tatiana N.
+Caitlin V.
 Zoom 4 
 1 hour
-6:30 pm  EDT
+6:30 pm  EST
 (14th St.) Flow 2-3  @ 1910 14th St NW 3rd Flr
 Andrea D.
 1910 14th St NW, 3rd Floor
 1 hour &15 minutes
-6:30 pm  EDT
+6:30 pm  EST
 (Bloomingdale) Flow 1-2 @ 1830 1st St NW
-Elizabeth Ha.
+Emmy G.
 1830 1st St. NW 
 1 hour
-6:30 pm  EDT
+6:30 pm  EST
 (Glovers) Flow Yoga (All Levels) for Strength & Balance @ 2319 Wisconsin Ave NW
-Carla C.
+Blerta P.
 2319 Wisconsin Ave NW 
 1 hour
-6:30 pm  EDT
+6:30 pm  EST
 (H St.) Flow 1.5-3 @ 500 H St NE Rear Entrance
-Amanda Me.
+Felix
 500 H St. NE Top Floor
 1 hour &15 minutes
-6:30 pm  EDT
+6:30 pm  EST
 (Online) Flow Yoga 1.5-3 
-Amanda Me.
+Felix
 Zoom 2
 1 hour &15 minutes
-6:30 pm  EDT
+6:30 pm  EST
 (Petworth) All-Levels Strength & Mobility Focused Yoga @ 3905 Georgia Ave NW
-Nicole D.
+Andrea B.
 3905 Georgia Ave NW, 3rd Floor
 1 hour
-6:30 pm  EDT
+6:30 pm  EST
 (Union) All Levels Flow @ 300 Morse St. NE
 Morgan W.
 300 Morse St. NE
 1 hour
-6:35 pm  EDT
+6:35 pm  EST
 (Dupont) Flow 1.5-3 @ 1605 Connecticut Ave NW
 Sarah F.
 1605 Connecticut Ave NW 2nd Fl
 1 hour
-7:10 pm  EDT
+7:10 pm  EST
 (14th St) Restorative Express @ 1910 14th St NW, 2nd Flr
-Michelle T.
+Caitlin V.
 1910 14th St NW 2nd Floor
 45 minutes
-7:45 pm  EDT
+7:45 pm  EST
 (Bloomingdale) Evening Myofascial Release & Yin Yoga @ 1830 1st St NW
 Chuck
 1830 1st St. NW 
 1 hour &15 minutes
-7:45 pm  EDT
+7:45 pm  EST
 (Dupont) Gentle Flow 1 + Restorative @ 1605 Connecticut Ave NW
 Hildy M.
 1605 Connecticut Ave NW 2nd Fl
 1 hour
-7:45 pm  EDT
+7:45 pm  EST
 (Online) Evening Myofascial Release & Yin Yoga 
 Chuck
 Zoom 1 
 1 hour &15 minutes
-8:00 pm  EDT
+8:00 pm  EST
 (H St) Slow Flow + Restorative @ 500 H St NE
 Amanda Me.
 500 H St. NE Top Floor
 1 hour &15 minutes
-8:00 pm  EDT
+8:00 pm  EST
 (Online) Slow Flow + Restorative
 Amanda Me.
 Zoom 4 
 1 hour &15 minutes
 Fri 
-October 23, 2026
-6:45 am  EDT
+November 13, 2026
+6:45 am  EST
 (Bloomingdale) Sunrise Flow 1.5 - 2 @ 1830 1st NW
 Steve W.
 1830 1st St. NW 
 1 hour
-6:45 am  EDT
+6:45 am  EST
 (Online) Sunrise Flow 1.5-2
 Steve W.
 Zoom 4 
 1 hour
-7:00 am  EDT
+7:00 am  EST
 (14th St.) Sunrise Flow 1-2 @ 1910 14th St NW 3rd Flr
 Lauren S.
 1910 14th St NW, 3rd Floor
 1 hour
-7:00 am  EDT
+7:00 am  EST
 (Dupont) Sunrise Flow @ 1605 Connecticut Ave NW 2nd Floor
 Emily R.
 1605 Connecticut Ave NW 2nd Fl
 1 hour
-7:00 am  EDT
-(H St.) Energizing Morning Flow @ 500 H St NE 
-Emmy G.
+7:30 am  EST
+(H St.) Flow 1.5-2 @ 500 H St NE
+Molly Rose K.
 500 H St. NE Top Floor
-1 hour
-7:00 am  EDT
-(Online)  Sunrise Flow 
-Emily R.
-Zoom 3
-1 hour
-7:00 am  EDT
-(Outdoor) FREE Friday Flow 1-2 @ Q St. Park (1999 Q St NW)
-Marissa A.
-1 hour
-8:00 am  EDT
+50 minutes
+7:30 am  EST
+(Online) Flow 1.5-2 
+Molly Rose K.
+Zoom 1 
+50 minutes
+8:00 am  EST
 (Union) Energizing Morning Flow @ 300 Morse St. NE
 Tai P.
 300 Morse St. NE DC
 1 hour
-9:30 am  EDT
+9:30 am  EST
 (H St.) Morning Flow Express @ 500 H St NE
 Camille C.
 500 H St. NE Top Floor
 50 minutes
-9:30 am  EDT
+9:30 am  EST
 (Online) Morning Express Flow
 Camille C.
 Zoom 3
 50 minutes
-10:10 am  EDT
+10:10 am  EST
 (Petworth) Energizing Flow @ 3905 Georgia Ave NW
-Kelsey C.
-3905 Georgia Ave NW, 3rd Floor
+Cancelled Today
 1 hour
-12:00 pm  EDT
+12:00 pm  EST
 (Dupont) Friday Flow 1.5-2 @ 1605 Connecticut Ave NW
-Monica C.
-1605 Connecticut Ave NW 2nd Fl
+Cancelled Today
 1 hour
-12:00 pm  EDT
+12:00 pm  EST
 (Union) All Levels Flow @ 300 Morse St. NE
 Amanda Me.
 300 Morse St. NE DC
 1 hour
-12:10 pm  EDT
+12:10 pm  EST
 (H St.) Yoga for Core, Balance, and Strength @ 500 H St NE
 Edgar
 500 H St. NE Top Floor
 1 hour
-12:10 pm  EDT
+12:10 pm  EST
 (Online) Yoga for Core, Balance, and Strength
 Edgar
 Zoom 4 
 1 hour
-12:15 pm  EDT
-(Online) 50-Minute Lunchtime Flow, All Levels
-Mana
-Zoom 1 
-50 minutes
-12:15 pm  EDT
-(Petworth) 50-Minute Lunchtime Flow - All Levels @ 3905 Georgia Ave NW
-Mana
-3905 Georgia Ave NW, 3rd Floor
-50 minutes
-12:30 pm  EDT
+12:30 pm  EST
 (Bloomingdale) Power Flow 2 @ 1830 1st St NW
 Andrea D.
 1830 1st St. NW Bloomingdale
 1 hour
-12:30 pm  EDT
+12:30 pm  EST
+(Online) 50-Minute Lunchtime Flow, All Levels
+Mana
+Zoom 1 
+50 minutes
+12:30 pm  EST
 (Online) Power Flow 2
 Andrea D.
 Zoom 3
 1 hour
-5:00 pm  EDT
+12:30 pm  EST
+(Petworth) 50-Minute Lunchtime Flow - All Levels @ 3905 Georgia Ave NW
+Mana
+3905 Georgia Ave NW, 3rd Floor
+50 minutes
+5:00 pm  EST
 (Union) Gentle Yoga + Soundbath @ 300 Morse St. NE
 Stephanie L.
 300 Morse St. NE DC
 1 hour
-5:15 pm  EDT
+5:15 pm  EST
 (14th St.) Meditative Flow, All Levels @ 1910 14th St NW 3rd Flr
-Francesca
+Carla C.
 1910 14th St NW, 3rd Floor
 1 hour
-5:15 pm  EDT
+5:15 pm  EST
 (Online) Meditative Flow, All Levels
-Francesca
+Carla C.
 Zoom 3
 1 hour
-5:30 pm  EDT
+5:30 pm  EST
 (Bloomingdale) Unwind Flow @ 1830 1st St NW 
-Noah C.
+Leon B.
 1830 1st St. NW 
 1 hour
-5:30 pm  EDT
+5:30 pm  EST
 (Dupont) Chill Flow 1-2 @ 1605 Connecticut Ave NW
 Maylin
 1605 Connecticut Ave NW 2nd Fl
 1 hour
-5:30 pm  EDT
+5:30 pm  EST
 (Durham) Candlelit Flow Yoga @ 702 9th St Durham
 Clare W.
 702 9th St Durham NC
 1 hour
-5:30 pm  EDT
+5:30 pm  EST
 (H St.) Upbeat Happy Hour Flow 2 @ 500 H St NE
 Anna K.
 500 H St. NE Top Floor
 1 hour
-5:30 pm  EDT
+5:30 pm  EST
 (Online) All Levels Flow 
-Kelsey D.
+Kelsey C.
 Zoom 1 
 1 hour
-5:30 pm  EDT
+5:30 pm  EST
 (Online) Chill Flow 1-2
 Maylin
 Zoom 4 
 1 hour
-5:30 pm  EDT
+5:30 pm  EST
 (Petworth) All Levels Flow @ 3905 Georgia Ave NW
-Kelsey D.
+Kelsey C.
 3905 Georgia Ave NW, 3rd Floor
 1 hour
-6:00 pm  EDT
+6:00 pm  EST
 (Glover) Gentle Flow + Relaxing Restorative @ 2319 Wisconsin Ave NW
 Anu B.
 2319 Wisconsin Ave NW 
 1 hour &15 minutes
-6:30 pm  EDT
+6:30 pm  EST
  (14th St.) Flow 2-3 w/ Breathwork @ 1910 14th St. NW 2nd Flr
-Francesca
+Marissa A.
 1910 14th St NW 2nd Floor
 1 hour
-6:35 pm  EDT
+6:35 pm  EST
 (14th St.) Yin Yoga @ 1910 14th St NW 3rd Flr
 Jannie K.
 1910 14th St NW, 3rd Floor
 1 hour
-6:45 pm  EDT
+6:45 pm  EST
 (Bloomingdale) Yin Yoga  for Deep Stretching + Relaxation @ 1830 1st St NW
-Noah C.
+Leon B.
 1830 1st St. NW 
 1 hour
-6:45 pm  EDT
+6:45 pm  EST
 (Dupont) Candlelight Yin/Restorative Yoga @ 1605 Connecticut Ave NW
 Maylin
 1605 Connecticut Ave NW 2nd Fl
 1 hour
-6:45 pm  EDT
+6:45 pm  EST
 (H St.) All Levels Flow @ 500 H St NE
 Maggie H.
 500 H St. NE Top Floor
 1 hour
-6:45 pm  EDT
+6:45 pm  EST
 (Online) Candlelight Yin/Restorative Yoga
 Maylin
 Zoom 4 
 1 hour
 Sat 
-October 24, 2026
-8:45 am  EDT
+November 14, 2026
+8:45 am  EST
 (Bloomingdale) Slow Flow 1-1.5 @ 1830 1st St NW
-Megan P.
+Erin H.
 1830 1st St. NW 
 1 hour
-8:45 am  EDT
+8:45 am  EST
 (Online Only) Meditative Flow (All levels)
 Erin H.
 Zoom 1 
 1 hour
-8:45 am  EDT
+8:45 am  EST
 (Union) Flow for Strength & Resilience @ 300 Morse St. NE
 Steve W.
 300 Morse St. NE DC
 1 hour
-9:00 am  EDT
+9:00 am  EST
 (Dupont) Flow 1-1.5 @ 1605 Connecticut Ave NW
 Denesia
 1605 Connecticut Ave NW 2nd Fl
 1 hour
-9:00 am  EDT
+9:00 am  EST
 (Glover) Flow 1-2 @ 2319 Wisconsin Ave NW
 Tatiana N.
 2319 Wisconsin Ave NW 
 1 hour
-9:00 am  EDT
+9:00 am  EST
 (H St.) Meditative Flow @ 500 H St NE, Rear Entrance
-Sharon C.
+Sheri B.
 500 H St. NE Top Floor
 1 hour &15 minutes
-9:00 am  EDT
+9:00 am  EST
 (Petworth) Morning Flow @ 3905 Georgia Ave NW
-Katya
+Caitlin V.
 3905 Georgia Ave NW, 3rd Floor
 1 hour
-9:00 am  EDT
+9:00 am  EST
 Workplace @ Sofitel
 Mana
 Client Site
 1 hour
-9:15 am  EDT
+9:15 am  EST
 (14th St.) Yoga 1-2 @ 1910 14th St NW
-Francesca
+Adrianne D.
 1910 14th St NW, 3rd Floor
 1 hour &15 minutes
-9:30 am  EDT
+9:30 am  EST
 (Durham) Weekend Reset: Gentle Yoga + Relaxation @ 702 9th St.
-Clare W.
+Krista B.
 702 9th St Durham NC
 1 hour
-10:00 am  EDT
+10:00 am  EST
 (Bloomingdale)  Powerful Flow 1.5-3  @ 1830 1st St NW
 Kendall V.
 1830 1st St. NW 
 1 hour
-10:00 am  EDT
+10:00 am  EST
 (Online) Powerful Flow Level 1.5-3 
 Kendall V.
 Zoom 4 
 1 hour
-10:15 am  EDT
+10:15 am  EST
 (Glover) Stretch and Flexibility - All Levels @ 2319 Wisconsin Ave NW
 Carla C.
 2319 Wisconsin Ave NW 
 45 minutes
-10:15 am  EDT
+10:15 am  EST
 (Petworth) Flow Level 1.5-3 @ 3905 Georgia Ave NW
-Laura D.
+Grace A
 3905 Georgia Ave NW, 3rd Floor
 1 hour &15 minutes
-10:15 am  EDT
+10:15 am  EST
 (Union) Yogalates @ 300 Morse St. NE
 Dawn E.
 300 Morse St. NE DC
 1 hour
-10:30 am  EDT
+10:30 am  EST
 (Dupont) All Levels Flow - Deep Vinyasa Style @ 1605 Connecticut Ave NW
 Erin H.
 1605 Connecticut Ave NW 2nd Fl
 1 hour &15 minutes
-10:30 am  EDT
+10:30 am  EST
 (H St.) Flow 1.5-3 @ 500 H  St NE
-Cancelled Today
+Sheri B.
+500 H St. NE Top Floor
 1 hour &15 minutes
-10:45 am  EDT
+10:45 am  EST
 (14th St.) All Levels Power Flow @ 1910 14th St NW 3rd Flr
 Tai P.
 1910 14th St NW, 3rd Floor
 1 hour
-11:00 am  EDT
+11:00 am  EST
 (SW Library) Free Chair Yoga @ 900 Wesley Pl SW DC
-Kaila
-SW Library (900 Wesley Pl SW)
+Cancelled Today
 30 minutes
-11:15 am  EDT
+11:15 am  EST
 (Bloomingdale) Prenatal Yoga @ 1830 1st St NW
 Denesia
 1830 1st St. NW 
 1 hour
-11:15 am  EDT
+11:15 am  EST
+(Glover) Core and Restore @ 2319 Wisconsin Ave NW
+Cancelled Today
+50 minutes
+11:15 am  EST
 (Online) Prenatal Yoga
 Denesia
 Zoom 1 
 1 hour
-11:45 am  EDT
+11:45 am  EST
 (SW Library) Free Beginner Yoga @  900 Wesley Pl SW DC
-Kaila
+Cancelled Today
 SW Library (900 Wesley Pl SW)
 45 minutes
-12:00 pm  EDT
-(14th St.) Flow 1-2 @ 1910 14th St NW
-Lauren S.
-1910 14th St NW, 3rd Floor
-50 minutes
-12:00 pm  EDT
+12:00 pm  EST
 (Dupont) Flow 1-2  @ 1605 Connecticut Ave NW 2nd Flr
-Sheri B.
+Mana
 1605 Connecticut Ave NW 2nd Fl
 1 hour
-12:00 pm  EDT
+12:00 pm  EST
 (H St.) All Levels Flow @ 500 H St NE
 Jeff
 500 H St. NE Top Floor
 1 hour
-12:00 pm  EDT
+12:00 pm  EST
 (Petworth) Flow + Restorative @ 3905 Georgia Ave NW
-Saritha V.
+Jason H.
 3905 Georgia Ave NW, 3rd Floor
 1 hour &15 minutes
-12:00 pm  EDT
+12:00 pm  EST
 (Union) All Levels Power Flow @ 300 Morse St. NE
-AJ C.
+Alanna F.
 300 Morse St. NE DC
 1 hour &5 minutes
-12:00 pm  EDT
+12:00 pm  EST
 FREE (Online Only) Chair Yoga 
 Edgar
 Zoom 2
 1 hour
-1:30 pm  EDT
+1:30 pm  EST
 (H St.)  Restorative Yoga @ 500 H St NE
 Deb
 500 H St. NE Top Floor
 1 hour
-1:30 pm  EDT
+1:30 pm  EST
 (Online) Restorative Yoga 
 Deb
 Zoom 3
 1 hour
-1:45 pm  EDT
-(14th St.) FREE: Yoga by Teacher-in-Training @ 1910 14th St NW 2nd Flr
-Staff
-1910 14th St NW, 2nd Floor
-1 hour
-2:45 pm  EDT
+2:45 pm  EST
 (H St - FREE) BlPOC Community Yoga @ 500 H St NE, Rear Entrance
 Amyre B.
 500 H St. NE Top Floor
 1 hour
-3:00 pm  EDT
-(14th St.) FREE: Yoga by Teacher-in-Training @ 1910 14th St NW 2nd Flr
-Staff
-1910 14th St NW 2nd Floor
-1 hour
-3:30 pm  EDT
+3:30 pm  EST
 (14th St.) Flow 2-3 @ 1910 14th St NW 3rd Flr
 Maeve W.
 1910 14th St NW, 3rd Floor
 1 hour &15 minutes
-4:00 pm  EDT
+4:00 pm  EST
 (H St.) Gentle Stress Relief Yoga @ 500 H St NE
 Edgar
 500 H St. NE Top Floor
 1 hour &15 minutes
-4:00 pm  EDT
+4:00 pm  EST
 (Online) Gentle Stress Relief Yoga
 Edgar
 Zoom 4 
 1 hour &15 minutes
-4:15 pm  EDT
-(14th St.) FREE: Yoga by Teacher-in-Training @ 1910 14th St NW 2nd Flr
-Staff
-1910 14th St., 2nd Flr
-1 hour
-5:00 pm  EDT
+5:00 pm  EST
 (14th St.) Serene Moon Flow + Restorative Soundbath @ 1910 14th St NW
-Jason H.
+Jennifer A.
 1910 14th St NW, 3rd Floor
 1 hour &15 minutes
-5:30 pm  EDT
-(14th St.) FREE: Yoga by Teacher-in-Training @ 1910 14th St NW 2nd Flr
-Cancelled Today
-1 hour
-5:30 pm  EDT
+5:30 pm  EST
 (H St.) FREE: LGBTQ+ Community All Levels Flow @ 500 H St. NE
-Maddie P.
+Emmy G.
 500 H St. NE Top Floor
 1 hour
 Sun 
-October 25, 2026
-8:30 am  EDT
+November 15, 2026
+8:30 am  EST
 (Bloomingdale) Flow 1-2 @ 1830 1st St NW
-Sharon C.
+Mana
 1830 1st St. NW 
 1 hour
-8:45 am  EDT
+8:45 am  EST
 (H St.) Meditative/Dharma Flow @ 500 H St NE Rear Entrance
 Emily M.
 500 H St. NE Top Floor
 1 hour &15 minutes
-8:45 am  EDT
+8:45 am  EST
 (Online) Meditative/Dharma Flow 
 Emily M.
 Zoom 1 
 1 hour &15 minutes
-9:00 am  EDT
+9:00 am  EST
 (Dupont) Gentle Yoga 1-1.5 @ 1605 Connecticut Ave NW
-Sabrina V.
+Sarah A.
 1605 Connecticut Ave NW 2nd Fl
 1 hour
-9:00 am  EDT
+9:00 am  EST
 (Glover) Flow 1-2 @ 2319 Wisconsin Ave NW
 Rashida E.
 2319 Wisconsin Ave NW 
 1 hour
-9:00 am  EDT
+9:00 am  EST
 (Online) Yoga 1.5-2 
-Andrea B.
-Zoom 3
+Cancelled Today
 1 hour &15 minutes
-9:00 am  EDT
+9:00 am  EST
+(Petworth) Meditative Slow Flow @ 3905 Georgia Ave NW
+Emmy G.
+3905 Georgia Ave NW, 3rd Floor
+1 hour
+9:00 am  EST
 (Union) Flow Yoga 1 @ 300 Morse St. NE
 Sheri B.
 300 Morse St. NE DC
 1 hour
-9:30 am  EDT
+9:30 am  EST
 (14th St.) Flow 1.5-2 @ 1910 14th St NW
 Monica A.
 1910 14th St NW, 3rd Floor
 1 hour
-9:30 am  EDT
+9:30 am  EST
 (Durham) Beginner Yoga & Meditation @ 702 9th St. Durham, NC
-Ellora
+Clare W.
 702 9th St Durham NC
 1 hour
-10:00 am  EDT
+10:00 am  EST
 (Bloomingdale) Core Flow, Levels 1.5-3 @ 1830 1st St NW
-Sarah F.
+Joya
 1830 1st St. NW 
 1 hour &15 minutes
-10:00 am  EDT
+10:00 am  EST
 (Online) All Levels Core Flow 
-Sarah F.
+Joya
 Zoom 2
 1 hour &15 minutes
-10:15 am  EDT
+10:15 am  EST
 (H St.) Flow 2,  Power or Rocket-Inspired  @ 500 H St NE
-Morgan W.
+Jonathan M.
 500 H St. NE Top Floor
 1 hour
-10:15 am  EDT
+10:15 am  EST
 (Petworth) All Levels Flow @ 3905 Georgia Ave NW
-Nana B.
+Sarah F.
 3905 Georgia Ave NW, 3rd Floor
 1 hour &15 minutes
-10:30 am  EDT
+10:30 am  EST
 (Dupont) All-Levels Flow @ 1605 Connecticut Ave NW
-Erin H.
+Kayla S.
 1605 Connecticut Ave NW 2nd Fl
 1 hour &15 minutes
-10:30 am  EDT
+10:30 am  EST
 (Glover) Gentle Flow w/ Restorative Yoga @ 2319 Wisconsin Ave NW
 Greg
 2319 Wisconsin Ave NW 
 1 hour
-10:30 am  EDT
+10:30 am  EST
 (Online) Gentle Flow with Restorative Yoga
-Greg
-Zoom 3
+Cancelled Today
 1 hour &15 minutes
-10:30 am  EDT
+10:30 am  EST
 (Union) Core-Focused Flow @ 300 Morse St. NE
 Edgar
 300 Morse St. NE DC
 1 hour &15 minutes
-10:45 am  EDT
+10:45 am  EST
 (14th St.) Flow 2-3 @ 1910 14th St NW 3rd Flr
-Michael K.
+Andrea D.
 1910 14th St NW, 3rd Floor
 1 hour &15 minutes
-11:30 am  EDT
+11:30 am  EST
 (Bloomingdale) Strong & Slow Flow 1-2 @ 1830 1st St NW
 Alanna F.
 1830 1st St. NW 
 1 hour
-11:30 am  EDT
+11:30 am  EST
 (H St.) All Levels Flow @ 500 H St NE
 Nikisha G.
 500 H St. NE (rear entrance)
 1 hour &5 minutes
-11:45 am  EDT
-(Petworth) Power Flow @ 3905 Georgia Ave NW
-Cancelled Today
+11:45 am  EST
+(Petworth) Yogalates  @ 3905 Georgia Ave NW
+Anna-Leigh
+3905 Georgia Ave NW, 3rd Floor
 1 hour
-12:00 pm  EDT
+12:00 pm  EST
 (Dupont) All Levels Alignment Focus Flow @ 1605 Connecticut Ave NW DC
 Grace A
 1605 Connecticut Ave NW 2nd Fl
 1 hour &15 minutes
-12:00 pm  EDT
+12:00 pm  EST
 (Union) All Levels Flow @ 300 Morse St. NE
 Steve W.
 300 Morse St. NE DC
 1 hour &15 minutes
-1:30 pm  EDT
+1:30 pm  EST
 (H St.) Restorative Yoga @ 500 H St. NE 
 Emily M.
 500 H St. NE Top Floor
 1 hour
-3:15 pm  EDT
+3:15 pm  EST
 (H St.) Beginner-Friendly Flow 1-1.5 @ 500 H St NE
 Margot V.
 500 H St. NE Top Floor
 1 hour
-4:00 pm  EDT
+4:00 pm  EST
 (Durham) Slow Flow Yoga @ 702 9th St. Durham, NC
 Clare W.
 702 9th St Durham NC
 1 hour
-4:45 pm  EDT
+4:45 pm  EST
 (Union) Weekend Yin'd Down: Stretch & Release @ 300 Morse St NE
 Chuck
 300 Morse St. NE DC
 1 hour &15 minutes
-5:00 pm  EDT
+5:00 pm  EST
 (14th St.) Flow 1-2 w/ Sound Bath @ 1910 14th St NW
-Nicole D.
+Jennifer A.
 1910 14th St NW, 3rd Floor
 1 hour &15 minutes
-5:00 pm  EDT
+5:00 pm  EST
 (Bloomingdale) All Levels Flow @ 1830 1st St NW
 Elizabeth Ha.
 1830 1st St. NW 
 1 hour
-5:00 pm  EDT
+5:00 pm  EST
 (Dupont) Mindful All-Levels Flow @ 1605 Connecticut Ave NW
 Maylin
 1605 Connecticut Ave NW 2nd Fl
 1 hour
-5:00 pm  EDT
+5:00 pm  EST
 (H St.) Power Flow @ 500 H St NE Rear Entrance
 Amanda Me.
 500 H St. NE Top Floor
 1 hour
-5:00 pm  EDT
+5:00 pm  EST
 (Online) All Levels Flow 
 Elizabeth Ha.
 Zoom 1 
 1 hour
-5:00 pm  EDT
+5:00 pm  EST
 (Online) Mindful All Levels Flow
 Maylin
 Zoom 2
 1 hour
-5:00 pm  EDT
+5:00 pm  EST
 (Petworth) Reset and Restore @ 3905 Georgia Ave NW
 Jason H.
 3905 Georgia Ave NW, 3rd Floor
 1 hour &10 minutes
-6:15 pm  EDT
+6:15 pm  EST
 (Dupont) Yin Yoga w/ Myofascial Release @ 1605 Connecticut Ave NW
 Maylin
 1605 Connecticut Ave NW 2nd Fl
 1 hour
-6:15 pm  EDT
+6:15 pm  EST
 (Online) Yin Yoga w/ Myofascial Release 
 Maylin
 Zoom 2
 1 hour
-6:45 pm  EDT
+6:45 pm  EST
 (Bloomingdale) Weekend Yin'd Down @ 1830 1st St NW
 Chuck
 1830 1st St. NW 
 1 hour &15 minutes
-6:45 pm  EDT
+6:45 pm  EST
 (Online) Weekend Yin'd Down 
 Chuck
 Zoom 3
 1 hour &15 minutes
-7:00 pm  EDT
+7:00 pm  EST
 FREE (14th St.) Insight Meditation @ 1910 14th St
 Volunteer
 1910 14th St NW, 3rd Floor
@@ -1787,7 +1744,7 @@ To finish connecting with Facebook, please enter the email and password you use 
 
 Create an Account
 
-10/24/2026 8:33:59 PM in District of Columbia
+11/14/2026 7:34:47 PM in District of Columbia
 
 Privacy Policy
 
@@ -1802,8 +1759,6 @@ Privacy Policy
 First filter by class format
 
 On Line Live Strea...
-
-Outdoor Classes
 
 Studio (In-Person)...
 
@@ -1828,8 +1783,6 @@ Durham NC
 Glover Park DC
 
 H St. DC
-
-Outside: Q St. Par...
 
 Yoga Outreach (sta...
 
@@ -1859,6 +1812,8 @@ Anna H.
 
 Anna K.
 
+Anna-Leigh
+
 Anu B.
 
 Ava W.
@@ -1874,8 +1829,6 @@ Carla C.
 Carter G.
 
 Chloe Di.
-
-Christa C
 
 Christina B.
 
@@ -1956,8 +1909,6 @@ Joya
 Kaila
 
 Kallie M.
-
-Kat A.
 
 Katya
 
@@ -2051,15 +2002,11 @@ Sarah K
 
 Sarah O.
 
-Saritha V.
-
 Sean O.
 
 Sharon C.
 
 Sheri B.
-
-Staff
 
 Stephanie L.
 

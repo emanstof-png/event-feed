@@ -1,6 +1,6 @@
 Labyrinth Games & Puzzles
 https://www.labyrinthdc.com/events/calendar/
-rendered 2026-10-25 00:36Z  status=200 chars=14243 iframes=4 srcdoc=0 next=False error=
+rendered 2026-11-15 00:37Z  status=200 chars=14385 iframes=4 srcdoc=0 next=False error=
 
 
 
@@ -70,6 +70,8 @@ Collectible Card Games
 
 Magic: The Gathering
 
+      Star Trek
+
       Reality Fracture
 
       Marvel Super Heroes
@@ -86,13 +88,11 @@ Magic: The Gathering
 
       Disney Lorcana
 
-Disney Lorcana
-
-      Hyperia City
-
       Star Wars: Unlimited
 
 Star Wars: Unlimited
+
+      Homeworlds
 
       Ashes of the Empire
 
@@ -109,8 +109,6 @@ Star Wars: Unlimited
       Twilight of the Republic
 
       Legends of the Force
-
-      Homeworlds
 
       Living Card Games (LCG)
 
@@ -300,6 +298,28 @@ Events
 
       Pokémon: Player IDs
 
+Holiday Gift Guide
+
+Holiday Gift Guide
+
+      Best Sellers
+
+      For the Game Guru
+
+      For the Party Planner
+
+      For the Solo Gamer
+
+      For the Kids
+
+      For the Holiday Obsessed
+
+      Stocking Stuffers
+
+      $10 & Under
+
+      Gameschooling
+
 MTG Portal
 
 MTG Portal
@@ -455,6 +475,8 @@ Preorders
 
 Events
 
+Holiday Gift Guide
+
 MTG Portal
 
 My account
@@ -571,21 +593,9 @@ Monthly
 
 Subscribe
 
-Level Up Game Club (Ages 5-7)
+Pokémon TCG Casual League
 
-            Sat Oct 24th 10:30am - 11:30am
-
-Level Up Game Club is a special class for kids ages 5 to 7 who love games and puzzles! It runs from 10:30am to 11:30am once per month. Kids will play all sorts of great games designed to help…
-
-Kid
-Board Games
-In Store
-
-Register | $20
-
-Pokémon TCG Casual League - Pokéween!
-
-            Sat Oct 24th 12:00pm - 4:00pm
+            Sat Nov 14th 1:00pm - 5:00pm
 
 Do you play the Pokémon TCG? Do you collect it? Come join us at Labyrinth Games & Puzzles for our Pokémon Trading Card League! This is a free, casual event for the trading card game Pokémon. This is…
 
@@ -595,59 +605,23 @@ In Store
 
 Register | Free
 
-Girls' Guild of Heroes (ages 8-12): Kids' Dungeons & Dragons
+Pokémon League Cup
 
-            Sat Oct 24th 1:00pm - 3:00pm
+            Sun Nov 15th 10:30am - 6:00pm
 
-This adventure is for ages 8-12. Labyrinth Games & Puzzles has been teaching children and adults how to play Dungeons and Dragons (D&D) since we first opened in 2010. The role playing game, which is…
-
-RPG
-D&D
-In Store
-Kid
-
-Register | $30
-
-Guild of Heroes (ages 8-12): Kids' Dungeons & Dragons
-
-            Sat Oct 24th 3:30pm - 5:30pm
-
-This adventure is for ages 8-12. Labyrinth Games & Puzzles has been teaching children and adults how to play Dungeons and Dragons (D&D) since we first opened in 2010. The role playing game, which is…
-
-RPG
-D&D
-In Store
-Kid
-
-Register | $30
-
-Pokémon: Delta Reign AM Prerelease
-
-            Sun Oct 25th 11:00am - 3:00pm
-
-The latest Pokémon set, Mega Evolution—Delta Reign, is almost here! Join us for prerelease where you can get the first look at these cards and play in a casual tournament. Pokémon Player ID numbers…
+Join us for a competitive Pokémon experience! Play against other experienced players and compete to earn coveted Championship points on your journey to the Pokémon World Championship as well as…
 
 Pokémon
 Adult
+Kid
 In Store
+Open
 
-Register | $35
-
-Pokémon: Delta Reign PM Prerelease
-
-            Sun Oct 25th 3:00pm - 6:00pm
-
-The latest Pokémon set, Mega Evolution—Delta Reign, is almost here! Join us for prerelease where you can get the first look at these cards and play in a casual tournament. Pokémon Player ID numbers…
-
-Pokémon
-Adult
-In Store
-
-Register | $35
+Register | $20
 
 CLOSED on Mondays
 
-            Mon Oct 26th
+            Mon Nov 16th
 
 Closed All Mondays until Winter Hours.
 
@@ -655,7 +629,7 @@ Closed
 
 MTG: Casual Commander
 
-            Tue Oct 27th 6:00pm - 10:00pm
+            Tue Nov 17th 6:00pm - 10:00pm
 
 This is an event for the trading card game Magic: The Gathering, suggested age for this event is 14+. If you do not yet have a Wizards Account, please sign up for one before registering for this…
 
@@ -665,21 +639,32 @@ In Store
 
 Register | $10
 
-One-Shot Wednesday: Indie RPG (Mothership)
+Capitol Hill Village Mah Jong
 
-            Wed Oct 28th 6:00pm - 9:00pm
+            Wed Nov 18th 2:00pm - 4:00pm
 
-While we love D&D here at Labyrinth, we're always excited to run different RPGs as well. October's Indie RPG will be Mothership with DM Marz. From the publisher: "You’ll excavate dangerous derelict…
+Come play Mah Jong with the Capitol Hill Village every other week at Labyrinth! This event is appropriate for all experience levels. This is a free evet with no registration required. We play Basic…
 
-RPG
+Board Games
 Adult
 In Store
 
-Register | $20
+D&D Learn-to-Play — One-Shot Wednesday
+
+            Wed Nov 18th 6:00pm - 9:00pm
+
+Join us for an evening of story-telling and adventure! This event offers an introduction to the legendary fantasy role-playing game, Dungeons and Dragons (D&D). It's great for both beginners, even if…
+
+RPG
+D&D
+Adult
+In Store
+
+Register | $25
 
 Star Wars: Unlimited - Homeworlds Booster Draft
 
-            Wed Oct 28th 6:00pm - 9:00pm
+            Wed Nov 18th 6:00pm - 9:00pm
 
 The format for this event is a draft, more information on how to draft Star Wars: Unlimited can be found at this link. Draft is a great way for newer players to explore the game, but everyone should…
 
@@ -691,7 +676,7 @@ Register | $25
 
 Board Game Night
 
-            Thu Oct 29th 6:00pm - 10:00pm
+            Thu Nov 19th 6:00pm - 10:00pm
 
 Join us for a free board game night every Thursday at Labyrinth! Access our game library of nearly 600 games, and learn the rules from our board game professionals. No registration required.
 
@@ -699,15 +684,52 @@ Board Games
 Adult
 In Store
 
-Friday Night Magic - All Leylines' Eve Chaos Draft
+Friday Night Magic - Star Trek Booster Draft
 
-            Fri Oct 30th 6:30pm - 10:00pm
+            Fri Nov 20th 6:30pm - 10:00pm
 
 This is an event for the trading card game Magic: The Gathering. Suggested age for Friday Night Magic is 14+. If you do not yet have a Wizards Account, please sign up for one before registering for…
 
 Magic
 Adult
 In Store
+
+Register | $30
+
+Friday Night Magic: Standard Tournament
+
+            Fri Nov 20th 6:30pm - 10:00pm
+
+This is an event for the trading card game Magic: The Gathering, suggested age for this event is 14+. If you do not yet have a Wizards Account, please sign up for one before registering for this…
+
+Magic
+Adult
+In Store
+
+Register | $10
+
+MTG: Standard Regional Championship Qualifier
+
+            Sat Nov 21st 10:00am - 6:00pm
+
+This is an event for the trading card game Magic: The Gathering. Suggested age for Magic: The Gathering events is 14+. If you do not yet have a Wizards Account, please sign up for one before…
+
+Magic
+Adult
+In Store
+
+Register | $45
+
+Guild of Heroes (ages 8-12): Kids' Dungeons & Dragons
+
+            Sun Nov 22nd 11:00am - 1:00pm
+
+This adventure is for ages 8-12. Labyrinth Games & Puzzles has been teaching children and adults how to play Dungeons and Dragons (D&D) since we first opened in 2010. The role playing game, which is…
+
+RPG
+D&D
+In Store
+Kid
 
 Register | $30
 
@@ -790,19 +812,9 @@ Pinboard
 Agenda
 Monthly
 Subscribe
-Level Up Game Club (Ages 5-7)
+Pokémon TCG Casual League
 
-            Sat Oct 24th 10:30am - 11:30am
-
-Level Up Game Club is a special class for kids ages 5 to 7 who love games and puzzles! It runs from 10:30am to 11:30am once per month. Kids will play all sorts of great games designed to help…
-Kid
-Board Games
-In Store
-Register | $20
-
-Pokémon TCG Casual League - Pokéween!
-
-            Sat Oct 24th 12:00pm - 4:00pm
+            Sat Nov 14th 1:00pm - 5:00pm
 
 Do you play the Pokémon TCG? Do you collect it? Come join us at Labyrinth Games & Puzzles for our Pokémon Trading Card League! This is a free, casual event for the trading card game Pokémon. This is…
 Pokémon
@@ -810,57 +822,27 @@ Adult
 In Store
 Register | Free
 
-Girls' Guild of Heroes (ages 8-12): Kids' Dungeons & Dragons
+Pokémon League Cup
 
-            Sat Oct 24th 1:00pm - 3:00pm
+            Sun Nov 15th 10:30am - 6:00pm
 
-This adventure is for ages 8-12. Labyrinth Games & Puzzles has been teaching children and adults how to play Dungeons and Dragons (D&D) since we first opened in 2010. The role playing game, which is…
-RPG
-D&D
-In Store
-Kid
-Register | $30
-
-Guild of Heroes (ages 8-12): Kids' Dungeons & Dragons
-
-            Sat Oct 24th 3:30pm - 5:30pm
-
-This adventure is for ages 8-12. Labyrinth Games & Puzzles has been teaching children and adults how to play Dungeons and Dragons (D&D) since we first opened in 2010. The role playing game, which is…
-RPG
-D&D
-In Store
-Kid
-Register | $30
-
-Pokémon: Delta Reign AM Prerelease
-
-            Sun Oct 25th 11:00am - 3:00pm
-
-The latest Pokémon set, Mega Evolution—Delta Reign, is almost here! Join us for prerelease where you can get the first look at these cards and play in a casual tournament. Pokémon Player ID numbers…
+Join us for a competitive Pokémon experience! Play against other experienced players and compete to earn coveted Championship points on your journey to the Pokémon World Championship as well as…
 Pokémon
 Adult
+Kid
 In Store
-Register | $35
-
-Pokémon: Delta Reign PM Prerelease
-
-            Sun Oct 25th 3:00pm - 6:00pm
-
-The latest Pokémon set, Mega Evolution—Delta Reign, is almost here! Join us for prerelease where you can get the first look at these cards and play in a casual tournament. Pokémon Player ID numbers…
-Pokémon
-Adult
-In Store
-Register | $35
+Open
+Register | $20
 
 CLOSED on Mondays
 
-            Mon Oct 26th
+            Mon Nov 16th
 
 Closed All Mondays until Winter Hours.
 Closed
 MTG: Casual Commander
 
-            Tue Oct 27th 6:00pm - 10:00pm
+            Tue Nov 17th 6:00pm - 10:00pm
 
 This is an event for the trading card game Magic: The Gathering, suggested age for this event is 14+. If you do not yet have a Wizards Account, please sign up for one before registering for this…
 Magic
@@ -868,19 +850,28 @@ Adult
 In Store
 Register | $10
 
-One-Shot Wednesday: Indie RPG (Mothership)
+Capitol Hill Village Mah Jong
 
-            Wed Oct 28th 6:00pm - 9:00pm
+            Wed Nov 18th 2:00pm - 4:00pm
 
-While we love D&D here at Labyrinth, we're always excited to run different RPGs as well. October's Indie RPG will be Mothership with DM Marz. From the publisher: "You’ll excavate dangerous derelict…
-RPG
+Come play Mah Jong with the Capitol Hill Village every other week at Labyrinth! This event is appropriate for all experience levels. This is a free evet with no registration required. We play Basic…
+Board Games
 Adult
 In Store
-Register | $20
+D&D Learn-to-Play — One-Shot Wednesday
+
+            Wed Nov 18th 6:00pm - 9:00pm
+
+Join us for an evening of story-telling and adventure! This event offers an introduction to the legendary fantasy role-playing game, Dungeons and Dragons (D&D). It's great for both beginners, even if…
+RPG
+D&D
+Adult
+In Store
+Register | $25
 
 Star Wars: Unlimited - Homeworlds Booster Draft
 
-            Wed Oct 28th 6:00pm - 9:00pm
+            Wed Nov 18th 6:00pm - 9:00pm
 
 The format for this event is a draft, more information on how to draft Star Wars: Unlimited can be found at this link. Draft is a great way for newer players to explore the game, but everyone should…
 Star Wars: Unlimited
@@ -890,20 +881,51 @@ Register | $25
 
 Board Game Night
 
-            Thu Oct 29th 6:00pm - 10:00pm
+            Thu Nov 19th 6:00pm - 10:00pm
 
 Join us for a free board game night every Thursday at Labyrinth! Access our game library of nearly 600 games, and learn the rules from our board game professionals. No registration required.
 Board Games
 Adult
 In Store
-Friday Night Magic - All Leylines' Eve Chaos Draft
+Friday Night Magic - Star Trek Booster Draft
 
-            Fri Oct 30th 6:30pm - 10:00pm
+            Fri Nov 20th 6:30pm - 10:00pm
 
 This is an event for the trading card game Magic: The Gathering. Suggested age for Friday Night Magic is 14+. If you do not yet have a Wizards Account, please sign up for one before registering for…
 Magic
 Adult
 In Store
+Register | $30
+
+Friday Night Magic: Standard Tournament
+
+            Fri Nov 20th 6:30pm - 10:00pm
+
+This is an event for the trading card game Magic: The Gathering, suggested age for this event is 14+. If you do not yet have a Wizards Account, please sign up for one before registering for this…
+Magic
+Adult
+In Store
+Register | $10
+
+MTG: Standard Regional Championship Qualifier
+
+            Sat Nov 21st 10:00am - 6:00pm
+
+This is an event for the trading card game Magic: The Gathering. Suggested age for Magic: The Gathering events is 14+. If you do not yet have a Wizards Account, please sign up for one before…
+Magic
+Adult
+In Store
+Register | $45
+
+Guild of Heroes (ages 8-12): Kids' Dungeons & Dragons
+
+            Sun Nov 22nd 11:00am - 1:00pm
+
+This adventure is for ages 8-12. Labyrinth Games & Puzzles has been teaching children and adults how to play Dungeons and Dragons (D&D) since we first opened in 2010. The role playing game, which is…
+RPG
+D&D
+In Store
+Kid
 Register | $30
 
 load more events

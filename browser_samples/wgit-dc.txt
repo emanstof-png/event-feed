@@ -1,6 +1,6 @@
 WGIT DC
 https://wgitdc.com/events
-rendered 2026-10-25 00:38Z  status=200 chars=35060 iframes=1 srcdoc=0 next=False error=
+rendered 2026-11-15 00:39Z  status=200 chars=42466 iframes=1 srcdoc=0 next=False error=
 
 
 
@@ -39,7 +39,7 @@ Events Calendar
 
 FEATURED EVENTS
  Advertise With Us
--15913.671875
+-15922.671875
 Markets
 Trivia
 Sports & Wellness
@@ -59,33 +59,78 @@ Straight from Off-Broadway comes a timely and important play — Eric Bentley's 
 Using only the original transcripts, the play features the words of artists like Arthur Miller, Jerome Robbins, Paul Robeson, Elia Kazan, Lillian Hellman, Abe Burrows, and Lionel Stander as they faced impossible choices: defend their integrity, protect their careers, or betray their peers. And yet the probing, chilling questions posed by the committee are as powerful as the testimonies themselves, revealing a climate of intimidation and moral conflict that resonates far beyond its time.
  12:00 am
 2.1 mi
-SALON SHENANIGANS 3 "THE COOKOUT"
-Miracle Theatre
+Paper Casting for Collage with Sharon Robinson and Nan Roche
+Pyramid Atlantic Art Center
  | 
-Washington, DC
-What happens when your favorite neighborhood salon is about to be evicted? You throw A COOKOUT!!
+Hyattsville, MD
+A 2-day Workshop:Class meets Sundays, November 8 and 15, 12-5pm 
+
+Take paper casting in a new direction and learn how to incorporate it into dimensional collage. Students will create small to medium size sheets of handmade paper from cotton linters and shape it using foam stamps and batik wood block stamps. See fine detail emerge as you form the sheets over the stamps. Further experimentation includes methods for enhancing molded sheets by adding color, metallic highlights and other features using dry brush techniques, stamp pads and bleeding art tissue. Then we will use the molded forms to create dynamic collage compositions while learning design principles and various collage techniques. 
+
+Day 1 – Paper forming, molding, beginning enhancement
+
+Day 2 – Further enhancement and collage
+
+Level: Beginner/Intermediate – Suitable for beginners and those more advanced. Basic experience in either papermaking or collage is helpful, but not required. 
+
+Registration closes November 1, 2026. Material fees are included with your registration to cover the supplies provided in class. Students may want to gather additional (optional) materials for class—see the materials list below. This list will also be provided with the registration confirmation email.  
+
+Sample images by Sharon Robinson and Nan Roche 
+
+WORKSHOP SUPPLIES: 
+
+Registration includes a $42 materials fee to cover consumable materials provided in class, including cotton paper pulp, inks, pigments, paints, access to tools and various stamps, and collage materials. Students will need to supply additional materials of their own, including: 
+
+(optional) Personal apron (we’ll have some on hand) – waterproof is recommended, but you can also substitute a heavy cooking apron
+
+(recommended) Rubber boots or comfortable shoes with good tread (you will be on your feet most of the day and the studio floor will get wet)
+
+(optional) Notebook and pen for taking notes if you like
+
+(optional) Gloves for those who may be sensitive – your hands will be in almost constant contact with water most of the day on day 1. We’ll have nitrile gloves available, but feel free to bring your own if preferred.
+
+MEET YOUR INSTRUCTORS: 
+
+Sharon Robinson is a mixed media, collage and assemblage artist residing in the Washington, D.C. area.  She earned a Master’s of City Planning degree from MIT and worked in the urban transit and development field for 20 years on the west coast prior to becoming a full-time artist in 1999. She has also been a muralist, instructor, gallery manager and arts program administrator. She has exhibited her work extensively on both coasts, and teaches mixed media classes at the Smithsonian, The Torpedo Factory in Alexandria, VA, Pyramid Atlantic Art Center. Her community activities include serving on the board of Pyramid Atlantic, the Mt. Rainier, MD Arts Commission and SCRAP-USA, a network of nonprofit creative reuse centers. Learn more about her work at www.therobinsonstudio.com.  
+
+Nan Roche is a retired scientist, poet, and artist who spends a lot of time at Pyramid and is currently creating work using watersoluble charcoal, collage, and monoprinting techniques. 
+
  12:00 pm
-2.5 mi
-JEAP PRESENTS: STRANGER DEMONS - BATTLE IN THE UPSIDE DOWN
-3301 Lowell St NW
+5.6 mi
+Tacos La Michoacana
+Streetcar 82 Brewing Co.
  | 
-Washington, DC
-JEAP’s Halloween Party returns! Enter the Upside Down for a student-powered haunted house, costumes, treats, music & spooky fun!
+Hyattsville, MD
  12:00 pm
-2.7 mi
-CRAFTOWEEN
-Merry Pin
+5.4 mi
+Movement Mondays with Body By Kai
+Restoration Station
  | 
 Washington, DC
- 12:00 pm
-5.0 mi
-The U Street Halloween Bar Crawl
-Cafe Saint Ex
+Move your body. Boost your energy. Start your week feeling great!
+ 12:30 pm
+4.4 mi
+The Mercado at La Cosecha
+La Cosecha, Latin Marketplace
  | 
 Washington, DC
-Celebrate Halloween on U Street with multiple bars, DJs, drink specials, costumes, and nonstop energy—all in one epic crawl!
+Experience The Mercado, a vibrant celebration of culture, live music, food, local vendors, and community, presented by Casta’s and ADOBO DMV
  2:00 pm
-0.6 mi
+1.5 mi
+CPT  SUNDAY BRUNCH & DAY PARTY
+Lydia on H
+ | 
+Washington, DC
+Good vibes, great food, strong drink!say less.$35 CPT BRUNCH SPECIAL (3–5PM): 1 Brunch Entrée + 1 Hour Bottomless Mimosa Or carafe
+ 3:00 pm
+2.4 mi
+After 5 Thursdays! Grown Folks R&B Happy Hour!
+Susheria
+ | 
+Washington, DC
+Kick back with R&B vibes, hookah, sushi, and chill grown folks energy for a Thursday night you won’t forget!
+ 4:00 pm
+1.8 mi
 Soulful Sundays: Where Movement, Breath & Music Meet
 Eaton Wellness in Eaton DC (2nd floor)
  | 
@@ -93,92 +138,109 @@ Washington, DC
 Join Vilmaris for a weekly all-levels yoga experience where breath, movement, and music come together.
  4:00 pm
 0.3 mi
-BLCC Night Market
-BLCC Night Market
+Tuna Carving Experience at UPSIDE on Moore
+UPSIDE on Moore
  | 
-Seat Pleasant, MD
-Celebrate the 1-year anniversary of the Blue Line Corridor Coalition. Family-friendly night of music, performances, art, & vendors.
+Arlington, VA
+Join us for an evening featuring live tuna carving and oyster shucking, fresh sushi tastings, and Japanese-inspired specialty cocktails.
+ 5:00 pm
+2.5 mi
+Boots on the Boardwalk at The Yards
+The Yards
+ | 
+Washington, DC
+Dust off your boots and head down to the Boardwalk — The Yards is going country!
 
-Save the Date! Shop and be entertained while learning what’s in store for the future of the Blue Line.
+For one night only, Boots on the Boardwalk is bringing the West to The Yards with live country music, line dancing, games, and plenty of ways to kick up your heels along the waterfront.
 
-Shop from your favorite local vendors, businesses, and artists
+A live country band will set the soundtrack for the night with country favorites made for singing 🎤— and dancing 💃🏻— along. New to the dance floor? No problem. Line dancing instruction will have you learning the steps before putting your new moves to the test.
 
-Enjoy performances from artists including spoken word, dance, and more
+Take a ride on the mechanical bull, customize your very own trucker hat with western patches (For Purchase), challenge your friends to classic carnival games, or strike a pose at the Western-themed photo booth. When you’re ready for a break from the action, grab a drink from the District Winery's onsite bar and enjoy the music.
 
-Music and live entertainment
+Come dressed in your Western best, grab your friends, and make a day of it with to-go food and onsite drinks from your favorite Yards restaurants before heading down to the festivities.
 
-Food and fun
+Whether you’re here to two-step, test your luck, take on the bull, or just enjoy some country music by the water, Boots on the Boardwalk has a little something for every cowboy and cowgirl.
 
-Activities for all ages
-
-Resources from local organizations
-
-Remarks from community and county partners
-
-This event is a part of the Blue Line Corridor Coalition’s BLCCs (Blocks) of Belonging initiative - a storytelling project designed to document, visualize, and activate the cultural identity of the Blue Line Corridor in Prince George’s County.
-
-Artist Lineup to be announced soon!
-
-The BLCC Night Market will take place at the Mini-Plaza campus at Yost Place. For mapping and event location purposes, please use 59 Yost Place, Seat Pleasant, MD 20743.
-
-For sponsorship inquiries, contact: Bryan Franklin, bfranklin@lisc.org.
-
-For artist, performer, and vendor inquiries, contact: Mazi Mutafa, mazi@wblinc.org
-
-For press and media inquiries, contact: Liz Klinkenberg, EKlinkenberg@lisc.org
-
-Brought to you by the Blue Line Corridor Coalition with support from Words Beats & Life, LISC DC, and The Capital Market.
-
-Sponsored by Wells Fargo
+So grab your boots, round up your crew, and meet us on the boardwalk. 🤠
+ 5:00 pm
+2.8 mi
+Havenstone Horse Rescue presents | The Golden Pastures Gala
+Columbia Country Club
+ | 
+Chevy Chase, MD
+Gather with family and friends for cocktails, a seated dinner, and live music and dancing with the Great Expectations Band.
  5:30 pm
-6.9 mi
-Spirits & Spice D.C. Tequila Thursdays
-Spirits & Spice Washington D.C
+6.3 mi
+Zumba in Prince George's County
+Closeknit Primary & Immediate Care
+ | 
+Capitol Heights, MD
+Get ready to dance and sweat at our exciting Zumba class!
+ 5:30 pm
+7.0 mi
+George Washington Womens Basketball vs. Long Island University Sharks Women's Basketball
+Charles E. Smith Center
  | 
 Washington, DC
-Learn about the regions and traditional distilling methods, and enjoy small samples of exquisite Tequila.
- 5:45 pm
-1.0 mi
-KranknPaint-HALLOWEEN!
-miXt Food Hall
- | 
-Brentwood, MD
-KranknPaint is back with SPOOKY-FUN HALLOWEEN VIBES! Let's SIP, PAINT, & PARTY TO SOME GO-GO KRANK! Win A Prize For BEST COSTUME!
- 6:00 pm
-4.5 mi
-7DrumCity's Halloween Headbang
-The Pocket
+The Charles E. Smith Center has implemented a no bags policy to enhance the safety of all guests and to better align GW events with venue management best practices.
+ 5:30 pm
+1.3 mi
+Recovery Room Saturdays
+700 Pennsylvania Ave. SE 2nd floor
  | 
 Washington, DC
-𝖄𝖔𝖚 𝖒𝖆𝔂 𝖍𝖆𝖛𝖊 𝖓𝖔𝖙𝖎𝖈𝖊𝖉 𝖆 𝖈𝖍𝖎𝖑𝖑 𝖎𝖓 𝖙𝖍𝖊 𝖆𝖎𝖗 𝖗𝖊𝖈𝖊𝖓𝖙𝖑𝔂
-
-Welcome, mere mortals, to 7DrumCity’s Halloween Headbang! On October 24th from 6pm - 11pm, the 7DC studio will transform into a haunted manor featuring 8 local bands from the DMV who will metamorphose into a band of their choice for one night only. Come dressed to impress, enchant, or terrify (costumes are highly encouraged) and one lucky winner will be crowned best costume… and maybe even win a prize!
-
-The studio will take on a life of its own. In between sets, wander the halls and encounter activities such as tarot readings and our scavenger hunt. Outside, hang out under the twilight sky and explore local wares at the cosmic vendor market.
-
-Happy Halloween & we hope to see you there!
-
-𝕱𝖊𝖆𝖙𝖚𝖗𝖎𝖓𝖌:
-
-Alex Alavi as The Beatles
-
-Honeybee Motel as Olivia Rodrigo
-
-Freddy Mac as Pink Floyd
-
-Josee Molavi as Stevie Wonder
-
-Not This Blue House as Paramore
-
-Kid Named Rhi as Remi Wolf
-
-Lobotomy Club LLC as Black Sabbath
-
-Shred Town as Pixies
-
-Tickets start at $25 | All Ages Welcome
+Safe spaces for Black men exist. Join us every 1st Saturday of the month for connection, introspection, and community.
+ 5:30 pm
+2.3 mi
+Fib & Omni
+Takoma Park Presbyterian Church
+ | 
+Takoma Park, MD
+The music of Atlanta trio Omni has always swung fast and hit hard. And Souvenir, their fourth album and second for Sub Pop, packs their biggest punch yet. Inactive during the majority of the pandemic–the longest downtime in their history–they approached this recording with lots of pent-up energy. Guitarist Frankie Broyles, singer/bassist Philip Frobos, and drummer Chris Yonker converted their creative fuel into sharp, driving songs that land immediately, sporting chopping riffs, staccato beats, and wiry melodies.
+ 5:30 pm
+4.9 mi
+SING STEPH
+National Portrait Gallery
+ | 
+Washington, DC
+SING STEPH live at the Downtown DC Holiday Market, Portrait Gallery, Washington, DC. Performance 6:00–8:00 PM.
  6:00 pm
-1.0 mi
+0.8 mi
+The Park On Saturday!
+The Park at Fourteenth
+ | 
+Washington, DC
+The Park On Saturday!
+ 6:00 pm
+0.5 mi
+HSC Season Opening Concert: Connecting the Dots…Telling Our Story
+First Congregational UCC
+ | 
+Washington, DC
+Join us for our exciting season opening concert of The Heritage Signature Chorale 2026-27 Season!
+ 6:00 pm
+0.6 mi
+FLO Night in Hyattsville with Marcus Johnson at Busboys & Poets
+Busboys and Poets- Hyattsville
+ | 
+Hyattsville, MD
+An evening of smooth jazz, soul, and connection with Marcus Johnson at Busboys & Poets Hyattsville. Come FLO with us.
+ 6:00 pm
+6.2 mi
+History Book Club
+People's Book
+ | 
+Takoma Park, MD
+The History book club is dedicated to learning about and discussing the history of the world at large. Each month we will talk about a book that informs us about a country’s politics, society, and culture over the last 250 years or more. Check out http://www.peoplesbooktakoma.com/book-clubs for the current selection!
+ 6:00 pm
+4.7 mi
+WDC BJJ - Adults Brazilian Jiu-Jitsu Classes
+WDC BJJ (GFTeam DC)
+ | 
+Takoma Park, MD
+Adults Brazilian jiu-jitsu classes at WDC BJJ (GFTeam DC) in Takoma Park, MD. Gi and no-gi training for all levels — beginners welcome. Morning classes 7:00 AM Tuesday, Wednesday and Thursday; evening classes 6:00 PM and 7:00 PM Monday–Thursday; 6:00 PM Friday; Saturday 10:00 AM open mat. Women's-Only BJJ also offered. First class is a free trial, and enrollment includes a free uniform. WDC BJJ (GFTeam DC), 720 Erie Ave, Takoma Park, MD 20912. (202) 636-3453 · wdcbjj.com
+ 6:00 pm
+5.8 mi
 Chakra Balancing Wednesday Evening Sound Bath
 Curanderas Heart Mindfulness and Wellness Center
  | 
@@ -186,169 +248,255 @@ Arlington, VA
 Unwind and recharge  with soothing sounds that’ll leave your chakras feeling  aligned.
  6:00 pm
 6.3 mi
-Let's Get MIXI!
-Spire
+The Art of Ukrainian Pysanka
+Del Ray Artisans Gallery
  | 
-Washington, DC
-An interactive mixology experience featuring cocktails, mocktails, games, prizes, and unforgettable vibes. Let’s Get MIXI!
+Alexandria, VA
+Instructor: Halla Jmourko
+
+Date/Time: Saturday, November 14, 6 – 8pm
+
+Cost: $40 Del Ray Artisans member / $50 Non-member, plus a $15 supply fee
+
+Class size: 4-12 participants
+
+(Register by November 10) 
+
+Learn about the Ukrainian tradition of pysanky and their symbols, and experience first-hand the process of writing pysanky using an ancient wax-dyeing technique on hollow chicken eggs. 
+
+The workshop will also include a presentation of the Ukrainian pysanka tradition, symbolism, and detailed steps of the pysanka process. 
+
+Participants will walk away with their own beautiful creation – a pysanka of autumn foliage. 
+
+All supplies for this workshop are included in the supplies fee. 
+
+Registration coming soon! 
+
+View other upcoming workshops, information about the facility, and policies on the Upcoming Workshops page.
  6:00 pm
-1.2 mi
-Tuesday Jazz Nights at Ciel Downtown
-Ciel Social Club
+5.6 mi
+Sammy Rae & The Friends
+9:30 Club
  | 
 Washington, DC
-Join us for smooth jazz tunes and rooftop views on select Tuesdays at our Downtown location!
+ 6:00 pm
+0.8 mi
+R&B & Gnocchi Nights: Rollin with the Classics
+Union Market
+ | 
+Washington, DC
  6:30 pm
-0.5 mi
-Wednesday Jazz Night at Ciel Capitol Hill
-Ciel Capitol Hill
+1.6 mi
+RED BRICK WEEKEND 2026
+Songbyrd
  | 
 Washington, DC
-Join us for an evening where live jazz, curated wine specials, and crave-worthy rooftop cuisine come together above the city!
+Red Brick Presents… Red Brick Weekend 2026 Celebrating 5 Years of Red Brick Presents  Friday Main Show with… Flowers For The Dead, Music Mouse & more 630PM  Saturday Main Show with… Omni, Fib, Saafewaay & more 530PM  Don Patti Memorial Gym @ Takoma Park Presbyterian Church (enter on Tulip Ave) RESPECT THE SPACE - NO DRUGS OR ALCOHOL Accessibility info: Don Patti Memorial Gym is accessible through the door on Tulip Ave See here for Friday Main Show only tix: See here for Saturday Main Show only tix
  6:30 pm
 1.3 mi
-Peni Candra Rini with Shahzad Ismaily & Andy McGraw / Alex Koi x Kirin McElwain
-Culture
- | 
-Washington, DC
-Saturday October 24  doors at 6:30, show at 7  $20-30   TICKETS  Peni Candra Rini (b. 1983) is a renowned Javanese singer, educator, and composer fusing Javanese sufi poetry with contemporary composition for Indonesian and Western instruments. She is a master of several traditional forms (primarily gamelan) and is regarded as one of Indonesia's most daring young composers, one of only a handful of female composers in the country. She has performed extensively internationally, including several world tours as the featured singer for Robert Wilson's I La Galigo. She is a recipient of grants from the Asian Cultural Council, is a two-time grantee of the US State Department's One Beat and Fulbright programs, and in 2022 was named an Aga Khan Foundation laureate of the arts. In 2023 she became the first woman to be commissioned to compose a work for the Mangkunegaran court of Central Java and in 2024 was bestowed the court name Raden Nganten Tumenggung, the highest honor offered by the Raja. In October 2026 Kronos will release an album of her string quartets on the Phenotypic label, some of which they have performed on NPR's Tiny Desk series.  Shahzad Ismaily is a Brooklyn-based musician, composer, engineer and founder of Figure 8 Recording. Born to Pakistani immigrant parents, he grew up in a wholly bicultural household. Exploring improvisation, tonal shifts and rhythmic movement, the Grammy nominated artist (Love In Exile, Best Alternative Jazz Album) is often referred to as the "Musician's favorite Musician". Over the last thirty years he has played electric bass, drums, percussion, guitar, synthesizers and all manner of sound-makers procured in life's travels. Ismaily has done work for dance and theater pieces, such as the film Frozen River (Oscar-nominated and Sundance award-winning) and Inkboat (a butoh crew from California/Switzerland).  Andy McGraw is Professor and Chair of Music at the University of Richmond in Virginia. He is the author of Radical Traditions: Reimagining Culture in Balinese Experimental Music (Oxford 2013) and Music as Ethics (Oxford 2023). He has co-edited two volumes on Indonesian music: Performing Indonesia, with Sumarsam (Smithsonian 2014) and Sounding Out the State of Indonesian Music, with Chris Miller (Cornell 2022). He has published numerous articles on music and ethics as well as analytical pieces on rhythm in Balinese, Javanese, and Cuban musics. In Richmond he facilitates community gamelan and stringband ensembles and runs a music program in the Virginia prison system.
- 6:30 pm
-2.4 mi
 Velvet Nights-For the true lovers of R&B
 Citizens & Culture
  | 
 Silver Spring, MD
-Velvet Nights: For the lovers of Real R&B
+Velvet Nights: For the lovers of Real R&B✨
  6:30 pm
 5.8 mi
-Phillip Phillips
-The Hamilton
- | 
-Washington, DC
- 6:30 pm
-0.7 mi
-Periphery - A Pale White Dot US Tour
-The Fillmore Silver Spring
- | 
-Silver Spring, MD
-This is a General Admission-Standing Room Only Event with Reserved Seating in the Balcony. This show is for All Ages. All support acts are subject to change without notice. Doors for this event open at 5:30PM. Show starts at 6:30PM. For Premium Seating information, please reach out to maryclairegriffin@livenation.com or call 202-626-8255 For ADA accommodations please purchase General Admission tickets and then call the Box Office at 301-960-9999. http://www.fillmoresilverspring.com
- 6:30 pm
-6.2 mi
-Cryptids of the DMV
-Potomac Overlook Regional Park
- | 
-Arlington, VA
- 7:00 pm
-4.3 mi
-The Silver Spring Zombie Walk
-Silver Spring, MD
-The undead return to downtown Silver Spring for the annual Silver Spring Zombie Walk! Join the fun with creative costumes, a zombie gathering at Quarry House Tavern, a costume contest and a dance party at Ellsworth Square. The night continues at AFI Silver Theatre with cult horror classics and Halloween favorites.
- 7:00 pm
-6.8 mi
-A Haunting of Third Hill Brewing Co. Halloween Party
-Silver Spring, MD
-Third Hill Brewing 8216 Georgia Ave
- 7:00 pm
-6.8 mi
-Rooftop Full Moon  Sound Bath
-The Aidan | Old Town
- | 
-Alexandria, VA
-Chill out under the full moon with soothing sounds and good vibes on the rooftop.
- 7:00 pm
-6.7 mi
-Count Gore De Vol presents THE EVIL DEAD - 45th Anniversary
-AFI Silver Theatre and Cultural Center
- | 
-Silver Spring, MD
-Count Gore De Vol presents THE EVIL DEAD (1981) – 45th Anniversary Join us for some creepy good fun when local TV legend Count Gore De Vol (Dick Dyszel) returns to present another cult favorite in the spirit of theoriginal CREATURE FEATURE broadcasts, including vintage clips from the Count’s vault and interactive fun and games. Sam Raimi’s original vision for this slasher horror film was an indie experiment that would inspire a genre; he used the low budget to his advantage and injected humor into the Satan-laden narrative. Five college students, including Ash Williams (Bruce Campbell), travel to a cabin in the Tennessee woods where they encounter evil spirits emanating from an audio tape and embodying the environment around them, resulting in increasingly gruesome and gory deaths. The film was a mild box-office success, but was lauded by critics, and even screened at the prestigious Cannes Film Festival in 1982. It would go on to spawn a franchise, including sequels, video games, a TV show and a big-budget remake. RATED NC-17 This restoration was scanned in 4K from the original camera negative.
- 7:00 pm
-6.1 mi
-Story Development Intensive
-Silver Spring, MD
-Docs in Progress 8560 Second Ave
- 7:00 pm
-6.8 mi
-Paris Paloma: The Fatal Flaw Tour
-9:30 Club
- | 
-Washington, DC
-Paris Paloma has partnered with PLUS1 so that $1 from every ticket sold goes to organizations protecting reproductive rights. www.plus1.org
- 7:00 pm
-0.8 mi
-Q Da Fool w/ Shabazz PBG
-Union Stage
- | 
-Washington, DC
- 7:00 pm
-2.0 mi
-Victor Oriza Presents: UNDENIABLE (21+)
-The Craft DC
- | 
-Washington, DC
-Join us at The Craft DC for an incredible evening of magic and mind-reading featuring Victor Oriza
- 7:00 pm
-0.7 mi
-Adam Ortiz | Ozzie Osbourne show
-Maryland Meadworks
- | 
-Hyattsville, MD
-RSVP / Details to come
- 7:00 pm
-5.2 mi
-Rav & Fatboi Sharif & Teller Bank$
-Pearl Street Warehouse
- | 
-Washington, DC
-Teller Bank$ is a magician and father of 3
- 7:00 pm
-2.0 mi
-Live Jazz
-THE URBAN WINERY
- | 
-Silver Spring, MD
-I'll be playing with the Gilly and Book Quintet at The Urban Winery.
- 7:00 pm
-6.7 mi
-Yousuke Yukimatsu
-Echostage
- | 
-Washington, DC
- 7:00 pm
-3.1 mi
-Sphinx Virtuosi with J'Nai Bridges
-Takoma Park Seventh-day Adventist Church
- | 
-Takoma Park, MD
-Under the banner America 250: Sounds of Unity, the Sphinx Virtuosi, the premier professional orchestra of Black and Latinx classical musicians, takes the stage alongside mezzo-soprano J’Nai Bridges for a landmark evening of artistry and advocacy that opens the 2026–2027 season with a powerful statement about the breadth, diversity, and future of classical music. Composer Damien Geter will be in attendance to lead the pre-concert talk. Co-presented with the Coalition for African Americans in the Performing Arts
- 7:00 pm
-4.7 mi
-Von Decarlo
-DC Improv
- | 
-Washington, DC
- 7:00 pm
-0.7 mi
-Maddy Smith
-DC Improv
- | 
-Washington, DC
- 7:00 pm
-0.7 mi
-Atsuko Okatsuka: The Big Bowl Tour
+Matteo Lane: We Gotta Catch Up
 Warner Theatre
  | 
 Washington, DC
-DOORS open at 6:00 PM. SHOW starts at 7:00 PM. For general ticketing and event questions, please contact the Warner Box Office at WarnerBoxOffice@LiveNation.com. For Premium Seating information, please reach out to Maryclaire Griffin at MaryclaireGriffin@LiveNation.com or call 202-626-8255.
- 7:00 pm
+DOORS open at 5:30 PM. SHOW starts at 6:30 PM. For general ticketing and event questions, please contact the Warner Box Office at WarnerBoxOffice@LiveNation.com. For Premium Seating information, please reach out to Maryclaire Griffin at MaryclaireGriffin@LiveNation.com or call 202-626-8255.
+ 6:30 pm
 0.8 mi
-Prince Caspian
-Museum of the Bible
+Beth Patterson Celtic
+Maryland Meadworks
+ | 
+Hyattsville, MD
+RSVP / Details
+ 7:00 pm
+5.2 mi
+Foodies + New Friends: D.C. (Friday Edition)
+Washington, DC
+It’s Friday! Don’t stay at home! Join us for dinner at a different restaurant. Build your community while supporting local businesses.
+ 7:00 pm
+1.6 mi
+Fave Finds Gift Exchange: Friendsgiving Edition
+District Alley
  | 
 Washington, DC
-Get your tickets for “Prince Caspian,” the beloved tale in a collection of stories called “The Chronicles of Narnia,” at the World Stage Theater! “Prince Caspian” continues the story of the four Pevensie children, who discovered the land of Narnia after walking through a magical wardrobe in the first book of the series, "The Lion, the Witch, and the Wardrobe," and now return to the land of Narnia to help the rightful king and heir, Prince Caspian, take the throne!
+Bring 10 of your favorite finds under $6  and leave with 10 new favorites! Join Brown Girls Meet for a Friendsgiving gift exchange.
+ 7:00 pm
+0.7 mi
+An Evening of Jazz
+DC Creative Institute
+ | 
+Washington, DC
+Join us for a live jazz performance on H Street featuring -  "Bryan Mills & Elyscia".     Cool People, Great Food / Drinks!!
+ 7:00 pm
+2.0 mi
+Jonathan Karrant
+Blues Alley
+ | 
+Washington, DC
+Singer Jonathan Karrant celebrates the release of his highly anticipated new album, Full Circle. The project is a special collaboration with legendary jazz artist Diane Schuur and features inspired interpretations of beloved classics from the Great American Songbook, including “What a Difference a Day Makes,” “New York State of Mind,” “A Sunday Kind of Love,” and more. With exciting and sophisticated arrangements written by acclaimed pianist and musical director Tamir Hendelman, Full Circle captures the spirit of connection, artistry, and timeless jazz storytelling. At its heart, the album is a celebration of love, friendship, and the enduring legacy of great music. Join Jonathan and his all-star band for an unforgettable evening as these vibrant new arrangements come to life on stage celebrating this exciting new release.
+
+Jonathan Karrant is an acclaimed jazz vocalist whose album On and On reached No. 4 on the Billboard Jazz Charts, while his live recording Live climbed to No. 2 on the iTunes Jazz Charts. Throughout his career, he has received numerous honors, including the New York City Jazz Honors, the Bravo California Award for Best Singer, and recognition by DownBeat as one of the Top 10 Rising Jazz Vocalists.
+
+His contributions to jazz have been further recognized through his induction into the Arkansas Jazz Heritage Hall of Fame and the presentation of the Limelight Award from the UNLV College of Fine Arts.
+
+Karrant has recorded and collaborated with celebrated artists including Diane Schuur, Jane Monheit, Houston Person, Tamir Hendelman, and Joe Alterman.
+
+With a repertoire that spans classic jazz standards and contemporary interpretations, Karrant brings a modern elegance to the timeless genre of jazz. He doesn’t cover song, he uncovers them. 
+
+“A voice, romantic without being cloying, warm but not forced, Jonathan carries songs with an emotional weight that reaches your soul. At the same time he can swing with the kind of jazz suave that was patented by Mel Torme.” - Jazz Corner 
+
+Jonathan or "Jonny," as I affectionately call him, has the rare gift of making every song unmistakably his own. He brings a depth and individuality to each of his performances. He's one cool cat! - Diane Schuur 
+
+Young male jazz singers who have a great sound and are truly gifted are a rare breed these days. Jonathan Karrant is one of the very best of them. He was born to sing and swing with style. - All About Jazz
+
+I'm just trying to keep it real and Jonathan Karrant is the real deal. - Les McCann
+ 7:00 pm
+1.9 mi
+Embassy of Malawi Reception - Safari and Rare Earth Minerals
+Embassy of Malawi
+ | 
+Washington, DC
+MALAWI  - "Warm Heart of Africa" is one of Africa's most loved travel destinations and lots of minerals including rare earth minerals
+ 7:00 pm
+1.4 mi
+Pop Vocals EDM & Mashups
+Crush Dance Bar
+ | 
+Washington, DC
+drew gilbert
+ 7:00 pm
+0.8 mi
+Forget Why Poetry Series - Edwin Torres, Cathy Eisenhower, Vivek Narayanan
+Rhizome DC
+ | 
+Washington, DC
+Saturday November 14  7pm  $10-20   TICKETS
+ 7:00 pm
+4.6 mi
+GGSS Presents: "Julius Caesar"
+Hart Auditorium, Georgetown University Law Center
+ | 
+Washington, DC
+Perhaps all will be revealed through the strike of a bloodied dagger...
+ 7:00 pm
+1.1 mi
+43rd Annual Choreographers' Showcase: Move Different
+Prince George's Publick Playhouse
+ | 
+Hyattsville, MD
+Experience the 43rd Annual Choreographers’ Showcase, featuring innovative contemporary and modern dance by local emerging and established choreographers, followed by an artist talkback exploring movement, creativity, and unique perspectives.
+ 7:00 pm
+5.9 mi
+Journey With God - Worship Night and Live Recording
+Metropolitan Seventh-day Adventist Church
+ | 
+Hyattsville, MD
+Walk with me as we capture songs that tell a story of my Journey With God. You’ll hear some new music you won’t forget & some familiar too!
+ 7:00 pm
+4.6 mi
+Amber Autry: Happy Holler Tour
+Lincoln Theatre
+ | 
+Washington, DC
+Amber Autry is a Nashville-based stand-up comedian known for her high-energy performances and sharp, relatable humor. An ancestor of iconic singing cowboy Gene Autry, Amber honed her comedic skills at Chicago’s renowned Second City before transitioning to stand-up. Now a headliner, her dynamic stage presence has led her to share the spotlight with comedy heavyweights such as Fortune Feimster, Whitney Cummings, and Tim Meadows. Autry's growing acclaim includes features on Peacock TV, Drybar Comedy, and Don’t Tell Comedy, as well as a recent appearance on Netflix’s "Introducing..."  In 2026, Autry sold out comedy clubs across the US, shot her first solo live special (release TBD) and is embarking on her first theater run called the Happy Holler Tour. Sale Dates and Times: Public Onsale : Fri, 15 May 2026 at 10:00 AM Artist Presale : Wed, 13 May 2026 at 10:00 AM Promoter Presale : Thu, 14 May 2026 at 10:00 AM I.M.P. Email Presale : Thu, 14 May 2026 at 10:00 AM Fan Club Presale : Tue, 12 May 2026 at 12:00 PM
+ 7:00 pm
+0.7 mi
+Tony Rock
+DC Improv
+ | 
+Washington, DC
+ 7:00 pm
+0.7 mi
+Schubert 200 Project: Chapter I: The Beginning
+Church of the Epiphany
+ | 
+Washington, DC
+Join Capital Keys Performing Arts Foundation for the opening concert of Schubert 200, a nine-concert project celebrating Franz Schubert's chamber music and vocal works leading up to the 200th anniversary of his death in 2028.
+
+The evening features five distinguished musicians performing three remarkable works by Schubert: the Violin Sonatina No. 2, Arpeggione Sonata in A minor, D. 821, and the beloved Trout Quintet, D. 667.
+
+Performers include Larissa Dedova (piano), James Stern (violin), Katherine Murdock (viola), Eric Kutz (cello), and Anthony Manzo (double bass).
+
+Presented by Capital Keys Performing Arts Foundation, a nonprofit dedicated to making classical music more accessible in the Washington, DC area through affordable concerts, educational partnerships, and community outreach.
+
+Tickets range from $18 to $36, with discounted admission for students, seniors, and veterans.
+
+Learn more at capitalkeys.org.
+ 7:00 pm
+0.6 mi
+2nd Annual Sparkle & Sip
+Dandelion Collective DC
+ | 
+Washington, DC
+An Art Soirée for Friends of Dorothy Cafe
  7:00 pm
 1.7 mi
+Washington National Opera presents Nixon in China
+DAR Constitution Hall
+ | 
+Washington, DC
+ 7:00 pm
+1.2 mi
+John-Robert & Ax and the Hatchetmen
+Howard Theatre
+ | 
+Washington, DC
+When John-Robert left his Edinburg, VA, hometown (pop. 1,070) for LA in 2019, he did so with
+
+starry-eyed ambition – bypassing a Berklee scholarship to chase his own musical manifest
+
+destiny. Grammy-nominated producer Ricky Reed (Leon Bridges, Lizzo) signed him at age 19 to
+
+Nice Life/Warner, helping integrate John-Robert’s lilting blend of traditional folk and Appalachian
+
+country into the modern pop landscape.
+
+His debut single, “Adeline,” has become an 11M streamer, and collaborations and co-signs from
+
+Alessia Cara and Camilla Cabello have cemented him as a deeply auspicious writer. Now, on
+
+Garden Snake, the artist hailed as “a small-town teen poised to become the next big
+
+singer-songwriter” explores the pull of his past, bursting with the grassroots musicality of his
+
+Shenandoah Valley birthplace and the homespun purity of his songwriting.
+
+Ruminating on friendship, loneliness and identity, the self-produced Garden Snake is the
+
+soundtrack to a coming-of-age epic. From the back-porch breeze of “Come Pick Me Up” and
+
+colorful “Sweet Child” to the West Coast bedroom pop “Road Trip,” wistful “Westward Bound”
+
+and red-clay shuffle “Good Days'll Come,” the EP radiates John-Robert’s spirit at the
+
+intersection of small-town USA and the internet age.
+
+“Garden Snake is a time capsule,” he says. “It was like trying to make a Virginia record in LA.
+
+I’m really proud of myself for seeing it through. It was character building, and it’s something no
+
+one can take away from me.”
+ 7:00 pm
+0.6 mi
+Margot MacDonald
+The Hamilton
+ | 
+Washington, DC
+Featured on NPR's Tiny Desk Concerts, Voice of America and TEDx; songwriter, vocalist and live looper, Margot MacDonald embodies a one-woman band. A long time guitarist and pianist, Margot’s instrumentation has expanded to include unconventional vocal accompaniments created and looped live on the spot through the use of a loop pedal. Haunting, powerful and indie-pop driven, Margot’s performances make you forget the technology she hones, as you lose yourself in layers of lush vocals and striking melodies.   Margot is Washington City Paper's "Best Singer" of 2014, a three-time winner of the Washington Area Music Association 'Artist of the Year' award, a recipient of DC’s Power 30 Under 30 award, and an Artist-in-Residence alumna at Iceland's Saga Fest and the Music Center at Strathmore.   :: New Album :: Bandcamp  http://bit.ly/1bjMwRv Spotify  http://spoti.fi/19jTxlv iTunes  http://bit.ly/1aDqJUS  :: Social Media :: www.twitter.com/margotmacdonald www.instagram.com/margotmacdonald www.facebook.com/margotmacdonaldmusic   :: Press ::  "Our Favorite Discoveries From The 2013 CMJ Music Festival" ● NPR All Songs Considered  "A very inventive, ingenious, ambitious young lady … certainly refreshing and a pleasure to have on the show." ● Voice of America  “Listen to her music, and you might get an idea why such a young woman is finding success as a full-time musician. It's her voice: a little Paula Cole, a little Dolores O'Riordan of the Cranberries...” ● The Washington Post  “Her original songwriting is moving rapidly in a direction that is unmistakably her own and that really highlights her unstoppably strong voice … a voice so refined, so bold, so versatile, and so fresh … Margot is definitely an artist to watch.” ● The Deli Magazine  "Watching singer and musician Margot MacDonald perform is like witnessing a summer storm rise ... it’s as riveting to watch as it is to hear." ● DC Modern Luxury Magazine  "... the vocals on offer here are technically flawless – her rich harmonies becoming a recurring motif that weave Canvas together into a cohesive showcase." ● Songwriting Magazine UK  “In a nutshell, she embodies what Simon Cowell will be spending months searching for — the elusive 'X Factor.'" ● The Vinyl District  "MacDonald created rich, haunting arrangements in a process that was mesmerizing to witness ... Cute, charming, multi-instrumental and boasting a voice that draws instant comparisons to Sarah McLachlan, MacDonald shames us all." ● Performer Magazine  "When Margot performs, everyone listens ... She has that extra unexplainable star quality and soulfulness that emanates from some place really deep and that allows her to connect wholly and intimately with an audience." ● Philippa Hughes, The Pink Line Project  More at www.margotmacdonald.com Looptastic album 'Canvas' is here! www.margotmacdonald.com  Bandcamp http://bit.ly/1bjMwRv Spotify http://spoti.fi/19jTxlv iTunes www.goo.gl/jlovfu
+ 7:00 pm
+0.7 mi
+THE WLDLFE
+Songbyrd
+ | 
+Washington, DC
+Indianapolis Alternative band The Wldlfe (vocalist Jansen Hogan, guitarist / vocalist Carson Hogan, and bassist Jack Crane) note a broad swath of influences; from classic ‘80s rock to top 40 pop to alternative and indie. Their eclecticism and instinctive, unforced approach to songwriting come together in a sound equally defined by buoyant hooks and emotional directness. A series of well-received EPs and a dynamic live performance aligned as the band built something increasingly rare: a fanbase grown show by show, city by city. By the release of the Heaven Is a Place (2024) LP, that slow-build momentum had become undeniable. Sold-out shows across North America (including dates with The Band Camino, Flor, Knox, Nightly, and COIN) and more than 90 million global streams painted a picture of a band that truly arrived. Yet, a band doing it all on their own gets pulled in a million directions. Some much-needed stability came in the form of a deal with Nashville's Riser House Records. For the first time in their career, The Wldlfe allowed themselves distance between release cycles. "Before, it was a consistent; write, record, tour, repeat. Now there's space" says Jansen. Even as they refine their recorded output, the band remains clear-eyed about where their most immediate connection happens; on stage. The idea that connection is something earned in real time, in shared physical space, offers a quiet counterpoint to an industry increasingly shaped by metrics. For The Wldlfe, the core of their success remains refreshingly analog: showing up, playing songs, and meeting people where they are.
+ 7:00 pm
+1.3 mi
 4th Saturdays Poetry Slam! | Anacostia| Hosted by Black Chakra
 Busboys and Poets- Brookland
  | 
@@ -356,350 +504,259 @@ Washington, DC
 Come compete in or witness our 4th Saturday's Poetry Slam!
  7:00 pm
 2.9 mi
-Isabel Hagen
-Arlington Cinema and Drafthouse
+Wednesday Salsa Lessons
+Bryant St Market
+ | 
+Washington, DC
+Want to try something new after work? Join us for a relaxed, beginner-friendly Salsa / Rueda class! ✨ No partner needed!
+ 7:30 pm
+2.0 mi
+"Fall" That Jazz Flashband Showcase
+The Pocket
+ | 
+Washington, DC
+The autumn leaves are here, the pumpkins are waltzing, and nothing says fall quite like jazz! On Nov. 14, all-new Flashbands will be grooving and swinging in The Pocket with their takes on your favorite jazz standards, jazz fusion, and everything in between. Get ready for an intimate night of cozy, soulful jazz to celebrate fall! Grab your tickets fast, this will sell out!
+ 7:30 pm
+1.0 mi
+FSGW presents Windborne
+Takoma Park Community Center
+ | 
+Takoma Park, MD
+Concert at 7:30pm
+ 7:30 pm
+5.2 mi
+Metamorphosis by Franz Kafka
+The DC Arts Center (DCAC)
+ | 
+Washington, DC
+"One morning, upon awakening from agitated dreams, Gregor Samsa found himself, in his bed, transformed into a monstrous vermin."
+
+Franz Kafka’s iconic masterpiece comes to life on stage in a hauntingly intimate adaptation. Step into the Samsa family apartment and witness the unraveling of a man trapped between his humanity and his grotesque new reality. As his family struggles to cope with the creature in their midst, the line between the monstrous and the human blurs. 
+
+This is not just a story of transformation, it is a profound, unsettling look at isolation, duty, and the fragility of identity.
+
+Adapted by Steven Berkoff and Directed by Robert McNamara
+ 7:30 pm
+1.3 mi
+2026 Sleepy Hollow - Thomas Jefferson Theater (Synetic Theater)
+Thomas Jefferson Community Theatre
  | 
 Arlington, VA
-Isabel Hagen is a stand-up comedian and classically trained violist who has been featured multiple times on The Tonight Show Starring Jimmy Fallon. She was a New Face of Comedy at the Just for Laughs festival in Montréal. Isabel started stand-up right after earning her Bachelors and Masters degrees in viola performance from the Juilliard School.
-
-As a violist, Isabel has played in the orchestra for several productions on Broadway including Les Miserables, Fiddler on the Roof, The Lion King and Rocktopia. She has performed and worked with numerous artists such as Björk, Ed Sheeran, Max Richter, The National, and Steve Reich.
-
-You might be wondering if Isabel ever combines viola and comedy. The answer: sometimes!
- 7:00 pm
+“The dominant spirit, that haunts this enchanted region…is the apparition of a figure on horseback, without a head.” Synetic Theater’s Artistic Director Paata Tsikurishvili applies his unique brand of storytelling to a wholly American tale for the first time with Sleepy Hollow, the classic story of the Headless Horseman, now open at Synetic Theater. This new adaptation of Sleepy Hollow pulls together all the elements that made Synetic famous: gothic horror, iconic characters and imagery, and an emphasis on the surreal. The production explores and deconstructs the ideas of legend and myth, illuminating the story of a terrifying and well-known villain in a way that only Synetic’s physical lexicon can. This production is recommended for ages 13+.
+ 7:30 pm
 4.5 mi
-Bell Wringer
-Gunston Arts Center, Theatre Two
- | 
-Arlington, VA
-A rollicking bluegrass musical about the legend of the Bell Witch. Best Musical Capital Fringe 2023. Your  spooky season plans: done!
- 7:30 pm
-4.7 mi
-Frida...A Self Portrait
-Michael R. Klein Theatre
+Derricks 15th Annual Sweatsuit Party
+Penn Social
  | 
 Washington, DC
- 7:30 pm
-0.9 mi
-Concert - Connexion
-La Maison Française
- | 
-Washington, DC
-Join Villa Albertine for CONNEXION, a unique musical encounter between Réunion Island, New Orleans & Puerto Rico at La Maison Française.
- 7:30 pm
-2.8 mi
-Night Hawk & Dogs on Shady Lane
-Pie Shop
- | 
-Washington, DC
-Night Hawk is an American indie rock band from Brunswick, Maine, now based in Washington, D.C. Originally a songwriting vehicle for Colter Adams and Peyton Semjen, the project has evolved into an acclaimed live act, earning a devoted following for its enchanting harmonies and clear-eyed lyricism.
-
-Night Hawk’s music is defined by stark geometry and bold imagery, underpinned by crackling warmth and simmering tension. Drawing on themes of urban isolation, self-discovery amidst challenging transitions, and the catalogue of 20th century painter Edward Hopper, the band blends mellifluous violin and delicate finger-style guitar with the raw energy of barnstorming alternative rock, creating a sonic palette that is as expansive as it is emotionally precise.
-
-The band has collaborated with the Whitney Museum of Art and the Edward Hopper House, shared the stage with Y La Bamba, Innlet, Sadurn, and Lady Lamb, and headlined sold-out shows throughout the East Coast. Their debut album, Before We Begin, produced by Adams and Colin Miller (Indigo de Souza, Wednesday, MJ Lenderman), is out on all platforms.
- 7:30 pm
-2.3 mi
-Movie Nite
-Del Ray Artisans Gallery
- | 
-Alexandria, VA
-Organizer: Tracy Wilkerson
-
-Date/Time: Saturday, October 24 starting at 7:30pm
-
-Cost: Free; donations appreciated
-
-Theatre Size: up to 30 movie-goers
-
-(Register to save a seat; walk-ins welcome, space permitting.) 
-
-More information and registration coming soon!
- 7:30 pm
-5.6 mi
-Mammoth  Performance
-Smithsonian American Art Museum
- | 
-Washington, DC
-Venue: American Art Museum Event Location: Smithsonian American Art Museum Cost: Free | Registration requiredSOLD OUT | Join the waitlist Get Tickets/Register: https://events.blackthorn.io/5f4ZMUx7/5a2bVR41PlF Categories: Performances Related Exhibition:  Nick Cave: Mammoth
-
-Join Nick Cave for a site-specific performance that transforms the museum's Kogod Courtyard into a living lands cape animated by memory and imagination. Inspired by the current exhibition at SAAM, Cave will bring his herd of mammoths to life through sound and movement. The work features an original score and live musical performance by Kahil El'Zabar, per formed alongside local musicians and collaborators.
-
-Presented for one day only, the performance will take place at 12:30 p.m. and 7:30 p.m., with a total run time of approximately 45 minutes. Registration is required. General seating will be available on a first-come , first-served basis. Mammoth is presented in c ollaboration with Woolly Mammoth Theatre Company.
-
-Nick Cave: Mammoth is organized by the Smithsonian American Art Museum. Major support is provided by Cindy and Mark Aron, Leslie Berriman and Nion McEvoy, the Elizab eth Broun Endowment, Carolyn and Maurice Cunniffe, the James Dicke Fam ily Endowment, Robert and Arlene Kogod, Nion McEvoy Publications Endow ment, Cindy Miscikowski, Jack and Marjorie Rachlin Curatorial Endowmen t, VIA Art Fund and anonymous donors.
-
-Generous support is provided by Michael Abrams and Sandra Stewart, Reuben and Kimberly Charles, Cristina Enriquez-Bocobo, Ferring Family Foundation, Flō Networks, Carl and Nancy Gewirz, Daniel W. Hamilton, Maureen and Gene Kim and the Norma Lee and Morton Funger Endowment in memory of William Scott Funger. This exhibition received support from the Fisher Arts Impact Fund.
-
-Image credit: Nick Cave, Roam , 2025, video, sound;11:27 min. Art director: Nick Cave. Creative dir ector: Bob Faust. Media production and projection design: Liviu Pasare. Courtesy the artist and Jack Shainman Gallery. Installation photography of Nick Cave: Mammoth, Smithsonian American Art Museum, 2026, ©Nick Cave; Photo by Ron Blunt
+Legendary. That’s it… that’s the summary!
  7:30 pm
 0.8 mi
-Nightmare ON St. Elmo: Flying Buddha Halloween Performance & Costume Party
-On St. Elmo
+Trey Anastasio Band
+The Anthem
  | 
-Bethesda, MD
-Grab your best costume and get ready for a night of dinner, drinks, and dark delights at ON St. Elmo. Watch our students and teachers take the stage with aerial performances that are spooky, seductive, playful, and everything in between.
-
-Sip signature Halloween cocktails, feast on American Coastal, Mediterranean-inspired cuisine, and dance until the witching hour with a live DJ.
-
-Expect wicked aerial tricks, wild energy, and more than a few treats.
-
-Reserve your table now!
+Washington, DC
  7:30 pm
-6.8 mi
-The Score (play)
-Sidney Harman Hall
+1.7 mi
+Mamma Mia!
+The National Theatre
  | 
 Washington, DC
  7:30 pm
 0.8 mi
-Stonewall's Bust
-The Writer's Center
- | 
-Bethesda, MD
-Lies!  Deceit!  And a possible ghost!  Best Medicine Rep kicks off its 10th Anniversary Season with a farce from Artistic Director John Morogiello.  When a man lies about breaking a priceless statue in the private museum owned by his fiancee's mother, it sets off an ever escalating series of lies involving ghosts, the Civil War, and an exorcism on live television. Directed by Evan Morogiello.
- 7:30 pm
-6.0 mi
-Niladri Kumaar presented by Washington Performing Arts
+Monsoon Sohn, Pianist presented by Washington Performing Arts
 Sixth & I
  | 
 Washington, DC
-Celebrated sitar maestro Niladri Kumaar is a compelling force in Indian classical music and an innovator who carries centuries of tradition in every note. This evening is both a forward-looking showcase and a tribute to an irreplaceable musical bond: curated selections from Space Between the Notes, the only recorded live performance between Kumaar and the late, legendary Zakir Hussain. Their singular partnership resounds once more—a gift, before the album's release later this year. Featuring sitar, zitar, and an ensemble of Indian and American musicians with jazz influences, this is Indian music at its most expansive, where centuries of classical tradition meet improvisational spirit.
+Pianist Minsoo Sohn debuts with Washington Performing Arts for a program exhibiting his undeniable musical intelligence and masterful virtuosity. Studied by the likes of Beethoven and Mozart, Bach’s The Well-Tempered Clavier, Book I, is frequently regarded as one of the most significant works in the history of classical music. Sohn brings his own poetic interpretation to this storied collection of 24 prelude and fugue pairs, creating an unforgettable evening with one of the most audacious and influential works for piano as the centerpiece. Known for his career as a devoted pedagogue, Sohn is also recognized as the teacher of Yunchan Lim, the youngest first-prize winner in the history of the Van Cliburn International Piano Competition.
  7:30 pm
 0.6 mi
-Josh Ritter - A Book Of Gold Thrown Open
+Cam Bertrand
+Bier Baron Tavern Comedy Loft
+ | 
+Washington, DC
+Cam Bertrand from Season 16 of 'America's Got Talent' will be performing for Two Nights at The DC Comedy Loft In Washington DC !
+
+Two Shows Friday ! 7:30pm & 9:45pm.
+
+Two Shows Saturday ! 7:30pm & 9:45pm.
+
+Cam recently appeared on Season 16 of ‘America’s Got Talent’ receiving a “Yes” from
+
+all 4 celebrity judges, Simon Cowell, Heidi Klum, Sophia Vergara, and Howie Mandel.
+
+In 2019, Cam Bertrand became the youngest comic to win the 'Florida's
+
+Funniest' competition, beating out over 300 comics, previous winners include
+
+Daniel Tosh, Bert Kreischer, and JB Ball.
+
+In that same year, Cam also became the youngest comedian to record his own half hour
+
+comedy special with DryBar comedy, his special 'Sophisticated Ignorance' which has
+
+garnered over 130 million total views since its release.
+
+Cam has built up a social media following of nearly 1 Million Followers on
+
+TikTok, 187k on Instagram, 287k on Facebook, and 47k on Youtube.
+
+He has also worked with some of the biggest names in comedy today
+
+including: Joe Rogan, Andrew Schulz, Matt Rife, Bert Kreischer, Pete
+
+Davidson, Hannibal Buress, Michael Che, Josh Blue, and Mike Epps.
+ 7:30 pm
+1.1 mi
+Austin Giorgio
+DC9
+ | 
+Washington, DC
+Austin Giorgio entrances audiences with a velvety vocal prowess, crafting a tapestry of dark, cinematic melodies that evoke the grandeur of a blockbuster soundtrack. His electrifying stage presence is magnetic, exuding a larger-than-life persona that commands the spotlight with enigmatic allure. From viral sensations to sold-out shows nationwide, Austin Giorgio ignites stages with an intensity that leaves fans spellbound
+ 7:30 pm
+0.7 mi
+Chanté Moore
 The Birchmere
  | 
 Alexandria, VA
  7:30 pm
 5.0 mi
-Polite Society Salon at L'Enfant Gallery
-Washington, DC
-After a sold-out smash earlier this year, New York’s premier artist salon, POLITE SOCIETY, returns to Georgetown! International burlesque star and host extraordinaire TANSY gathers a lineup of brilliant artists for a glamorous evening at L’Enfant Gallery. They dazzle at a moment’s notice. Every moment is curated with care. Immersive. Unpredictable. Unforgettable. Join us for an intimate evening celebrating beauty, art and community.Image of TANSY at L'Enfant Gallery by @schiavetto_photography
- 7:30 pm
-2.0 mi
-Lilyisthatyou - The Flowers Have Feelings Tour
+Bedouine
 The Atlantis
  | 
 Washington, DC
  7:30 pm
 0.8 mi
-D.C. United vs FC Cincinnati
-Audi Field
+Kathleen Parks & Arthur Terembula
+DC Square Dance Collective
  | 
 Washington, DC
-Please Note: Audi Field is a mobile-only venue. Children 2 and under do not need a ticket if they are sitting on a parent/guardian's lap.
- 7:30 pm
-2.8 mi
-Washington Improv Theater: Fraudway! Presents
-Studio Theatre
- | 
-Washington, DC
-A musical show by WIT.
- 8:00 pm
-0.3 mi
-5th Thursdays Open Mic Night | Hyattsville |Hosted by Backpack Jeff
-Busboys and Poets
- | 
-McLean, VA
-THURSDAYS NIGHT OPEN MIC!!
- 8:00 pm
-5.8 mi
-Public Secret - LIMA Saturdays Fine Dining & Late Night Party!
-Lima Twist
- | 
-Washington, DC
-Each & Every Saturday, 7pm - 3am Meet us at LIMA TWIST in DC for Food, Drinks, TVs , Bottle service & More! Available ALL NIGHT!
- 8:00 pm
-0.4 mi
-The Harpsichord's Golden Age: Music by Couperin, Rameau, & Duphly
-Live! At 10th & G
- | 
-Washington, DC
-Join us for a night of pure magic with Grammy nominated harpsichordist Jory Vinikour playing music of the French Baroque.
- 8:00 pm
-0.6 mi
-Daniel Donato's Cosmic Country
-Lincoln Theatre
- | 
-Washington, DC
-Sale Dates and Times: Public Onsale : Fri, 5 Jun 2026 at 10:00 AM I.M.P. Email Presale : Thu, 4 Jun 2026 at 10:00 AM All Good Presale : Wed, 3 Jun 2026 at 10:00 AM Artist Presale : Tue, 2 Jun 2026 at 02:00 PM
- 8:00 pm
-0.7 mi
-DC Square Dance Party
-St. Stephens
- | 
-Washington, DC
-Join us for an epic dance with one of our all-time favorite callers, Beth Molaro, with all-star twin fiddle band Laura and the Lava Lamps! All are welcome, no experience, partner, or fancy outfit needed. Just walk on in and dance.
+We’ll be back at St. Stephens for a very special dance that grew out of the African American Dance Caller Pathways Project.
 
-Saturday, October 24, 2026, doors at 7:30 pm, dancing from 8:00 to 11:00 pm
+We are SO excited to have Audra Scott and Becky Hill calling the dances, with live music from the Green Mountain Hot Club (Kathleen Parks, Arthur Terembula, and B.E. Farrow). This one is not to be missed!
 
-St. Stephen's Church, 1525 Newton St. NW, Washington, DC
+Read more about the AADCP!
 
-$10 at the door. Cash or venmo; sorry, no credit cards
+All are welcome! No experience, partner, or fancy outfit needed. Just walk on in and dance!
+
+Time: Doors at 7:30 pm; dancing from 8:00 to 11:00 pm
+
+Admission: $10 cash or Venmo at the door (sorry, no credit cards!)
+
+Address: 1525 Newton St. NW, Washington DC
+
+RSVP (optional): on Facebook
+
+Directions: We recommend walking, biking, or taking the bus/metro! St. Stephen’s is a 10 min walk from the Columbia Heights metro on the green/yellow line. There is some street parking and a garage below the shopping mall on Park Rd. at 14th Street. Please do not park in the church lot.
  8:00 pm
 1.8 mi
-Palmyra The Band
-DC9
+Celebration Summer & Burn Barrel & Bitter Branches
+The Fridge
  | 
 Washington, DC
-Established in Virginia’s Shenandoah Valley, Palmyra explores the fusion of traditional folk string instruments, lush harmony, and earnest songwriting. The trio, now based in Richmond, captures the collective spirit of three Virginia natives: Teddy Chipouras, Mānoa Bell, and Sasha Landon.
+$15 8pm All Ages
  8:00 pm
-0.7 mi
-Jerry Seinfeld
-The Anthem
- | 
-Washington, DC
- 8:00 pm
-1.7 mi
-Shoes Off + Broken Bones + Fraudway! Presents
-Washington Improv Theater
- | 
-Washington, DC
-Prepare to see a brand new, improvised version of your favorite musical… where the lead performer has never seen the original!
- 8:00 pm
-0.3 mi
-Flying V Presents: THE ROYALE by Marco Ramirez
-Silver Spring Black Box Theatre
- | 
-Silver Spring, MD
-The Royale by Marco Ramirez Directed by Raven Lorraine
-
-Jay “The Sport” Jackson dreams of being the undisputed heavyweight champion of the world. But it’s 1905, and in the racially segregated world of boxing, his chances are as good as knocked out. When a crooked boxing promoter hatches a plan for “the fight of the century,” “The Sport” just might land a place in the ring with the reigning white heavyweight champion.
-
-This fall, Flying V brings a theatrical exploration of the rise — and the cost —  of a sports legend with The Royale by Marco Ramirez! After winning Obie, Outer Critics Circle, and Drama Desk Awards off-Broadway, The Royale will bring Flying V audiences some intense theatricality – with stylized combat reflecting its fighters’ internal journeys – as well as historical drama that packs an all-too-relevant punch.
- 8:00 pm
-6.2 mi
-The American Pops Orchestra: I Will Always Love You
-Atlas Performing Arts Center
- | 
-Washington, DC
-We are so excited to invite you to an intimate evening celebrating the extraordinary life, music, and legacy of Dolly Parton. I Will Always Love You brings Dolly's unmistakable songbook to the Sprenger Theater at The Atlas Performing Arts Center for a one-night-only concert honoring an artist whose music, generosity, and unmistakable spirit have touched millions around the world. Featuring guest vocalists Andrew Keenan-Bolger (Broadway's Newsies, Tuck Everlasting), Brandon Ratcliff and Suzanne Cox (Grammy Winners, Grand Ole Opry), Sarah Gross (Zach Bryan, The Tonight Show Starring Jimmy Fallon), and Hilary Morrow (Birdland Jazz Club, The Second City), the evening brings together an incredible group of artists to celebrate the songs and stories that made Dolly Parton an American icon. From "Jolene" and "9 to 5" to "Coat of Many Colors," "Islands in the Stream," and, of course, "I Will Always Love You," we'll revisit the songs that made us laugh, broke our hearts, and had us singing along for decades. Along the way, we'll also explore a few lesser-known gems that showcase the remarkable range of Dolly's songwriting and the stories behind the music. This concert is especially meaningful because proceeds from the evening will benefit The American Pops Orchestra's free national children's programming. Dolly's lifelong commitment to young people, including the extraordinary impact of her Imagination Library, has shown what is possible when we invest in children and give them opportunities to learn, dream, and discover. APO is proud to celebrate Dolly's spirit by helping ensure children across the country can experience the joy and power of the arts at absolutely no cost to them. Join us for a night of incredible music, unforgettable stories, and a whole lot of Dolly! Run Time: 1 hour and 20 minutes All Ages
- 8:00 pm
-2.2 mi
-3rd Place and Real Women House present COFLO
-Kaldis Rooftop
- | 
-Silver Spring, MD
-Coflo Comes to Kaldi’s Rooftop! 
-
-3rd Place and Real Women House are excited to welcome DJ, dancer, and producer Coflo to Kaldi’s Rooftop!
-
-We’re thrilled to share the talents of this dynamic artist, whose passion, creativity, and unmistakable energy will come alive through the sound of music. Get ready for an unforgettable night of deep grooves, movement, and house music!
-
-Kicking things off, 3rd Place Resident DJ, Tommy Wickens will set the tone and get the night moving.
-
-This is an event you don’t want to miss!
-
-Come experience the music, the energy, and the community on the rooftop.
-
-See you on the dance floor!
- 8:00 pm
-5.8 mi
-Smut Slam DC: Scream, Queen!
-Pubkey DC
- | 
-Washington, DC
-Play sexy games, win sexy prizes at this inclusive real-life storytelling open mic-- a rowdy, warm, welcoming pub night out!
-
-How it works:
-
-This is a storytelling OPEN MIC– that means you’re the show!
-
-Audience members can sign up to tell a 5 minute story about something real AND CONSENSUAL that happened to them in their sx lives.
-
-A panel of local celebrity judges scores each teller, and the top 3 tellers go home with a prize– spicy toys, books, event memberships, safer sx supplies.
-
-There’s also the F-ckbucket, where audience members can write down anonymous questions (about sx ed, relationships, resources, etc) or spicy confessions, and your femme-cee Diva Darling will read them aloud between stories. At the end of the night, all Fckbucket entries are put into a raffle for a prize from our sponsor Uberlube!
-
-This month in honor of Spooky Season, our theme is "Scream, Queen!" (Our themes are always just a prompt-- not a requirement!) There's a reason horror movies are always so horny-- eros and thanatos have always been the original enemies-to-lovers trope. And we all know that Halloween's debauchery is the perfect excuse to unleash our inner sx monsters! Stick that fleshlight under your chin and tell us spine-tingling stories of costumed carnality, tricks that turned into treats, and what sexy shenanigans you got up to for your own personal Mischief Night.
-
-Because it's almost Halloween, you're also invited to dress for the occasion, if you like! Show off being a big-booty goth joyfriend, wear your "It's the Great Blumpkin, Charlie Brown" t-shirt, or come in full-on costume (you won't be alone, Diva will be costumed for sure). We'll have a few extra treats in store for the night, and if you come up with the most absurd take on a "sexy" costume (can you beat "Sexy Bacon"? Or "Sexy Trash Can"?), there might just be an equally absurd sexy prize in it for ya!
- 8:00 pm
-0.9 mi
-All The World's a Stage
-Signature Theatre
- | 
-Arlington, VA
- 8:00 pm
-5.7 mi
-Measure for Measure
-Folger Shakespeare Library
- | 
-Washington, DC
-Shakespeare’s rarely staged comedy, where human nature collides with the letter of the law, comes to life under the direction of Psalmayene 24, Helen Hayes Award winner for Folger Theatre’s production of Metamorphoses.
-
-Newly enforced regulations penalize the everyday citizens of Vienna, but don’t stop the hijinks of a rambunctious crew of bawdy residents. In this morally lax city, a corrupt official tries to coerce novice nun Isabella to submit to his desires. Can Isabella maintain her vow of chastity and save her incarcerated brother’s life?
-
-Measure for Measure offers considerations into societal upheaval and asks whose voices are silenced and whose voices break through.
- 8:00 pm
-1.8 mi
-Pretty Boi Drag Presents: Murder in the Stacks
-Solid State Books
- | 
-Washington, DC
-An Interactive Murder-Mystery Drag Show
- 8:30 pm
-1.7 mi
-4th Saturdys Open Mic
-Busboys and Poets- 14th & V
- | 
-Washington, DC
-4th Saturdays Open Mic is a Genesis Poets Music collaboration with ANLOH a local DC arts group. It is a gathering that celebrates poetry, spoken word, music, and the power of community.Held on the 4th Saturday of each month, it brings poets, artists, and audiences together to share stories, discover voices, and connect through creative expression.Hosted by 44Nige a local DC artist focused on creating honest music rooted in personal experience. His sound blends emotional storytelling, reflection, and raw perspective into music and poetry. He connects through authenticity rather than perfection, this Open Mic experience is honest.
- 9:00 pm
-1.7 mi
-YAMZ  Presents : DRAAAKKE?! Drake Night at THROW Social DC
+2.5 mi
+Raga boys
 THRōW Social DC
  | 
 Washington, DC
-Drake hits all night + hip hop & R&B anthems. Free entry before 11PM with RSVP.
- 9:00 pm
+ 8:00 pm
 2.4 mi
+Sawdust Charlie
+The Dagsby
+ | 
+Washington, DC
+DC band with both kinds: country and western
+ 8:00 pm
+2.6 mi
+Charged Particles with Tod Dickow play funky Latin Jazz
+Green Island Cafe
+ | 
+Washington, DC
+Tod Dickow is “one of the best saxophonists in the world” according to Jazz Life Magazine, and his playing has been recognized by outstanding soloist awards at the Pacific Coast Jazz Festival and the Outstanding Soloist award from Down Beat Magazine.  He has appeared with numerous celebrated artists, including Ella Fitzgerald, Nancy Wilson, Joe Henderson, Bobby Hutcherson, Jackie & Roy, Harry Connick Jr, Steve Allen, Terry Gibbs, Frank Sinatra Jr., Dave Brubeck, and many more.
+
+Reviewers have called Charged Particles “a tight and enormously talented trio.” (Jazz Times Magazine) that is “definitely dazzling” (Jazz and Blues Report) and plays “fresh, energized jazz that showcases the trio’s individual technical mastery.” (Jazz News Magazine) with “tight interplay, spark, and personal flair.” (Los Angeles Times).  Downbeat Magazine called their performance at the famed club Birdland “something special: inventive, invigorating, mesmerizing, and virtuosic.”
+ 8:00 pm
+1.2 mi
+National Symphony Orchestra: Serenades & Simple Songs
+Lisner Auditorium
+ | 
+Washington, DC
+Grammy Award winner and Musical America 2022 Conductor of the Year Teddy Abrams brings together works by Stravinsky, Tchaikovsky, Sarah Kirkland Snider, and Kennedy Center Honoree Michael Tilson Thomas. Called a voice for this historic moment (The Washington Post), bass-baritone Will Liverman joins the orchestra for the world premiere of Sniders Urge, an NSO co-commission setting texts by poet Tracy K. Smith. Stravinskys Symphonies of Wind Instruments distills music to spare, haunting phrases, while Thomas Street Song draws on the rhythms and sounds of the city. Tchaikovskys Serenade for Strings brings the evening to a warm and celebratory close.
+ 8:00 pm
+1.2 mi
+Herb Scott
+Mr. Henry's Restaurant
+ | 
+Washington, DC
+“Herb Scott is a young, soulful powerhouse on alto saxophone. As a bandleader, his style often veers into the over-sweetened terrain of smooth jazz, but no matter what he plays, his fleetness and conviction are undeniable.” – Capitol Bop 
+
+D.C. Native and saxophonist Herb Scott is a star on the Washington, D.C. Jazz scene. While studying at the Duke Ellington School of the Arts under the award-winning educator Davey Yarborough, he performed with renowned trumpeter Wynton Marsalis and Jazz pianist Herbie Hancock. Herb studied Jazz Studies at Michigan State University under Jazz legend Rodney Whitaker and Professor Diego Rivera, and toured with the MSU Jazz Band. His career includes performances at the White House, Dizzy’s Coca Cola-Club in New York, the Lincoln Center, the world famous Baker’s Keyboard Lounge in Detroit, the Kennedy Center for the Performing Arts, Universal Studios Orlando, Constitution Hall, the Library of Congress, the Detroit Jazz Fest, the East Lansing Jazz Fest, the DC Jazz Fest. 
+
+Herb’s first album as a band leader, “Introducing Herb Scott on Alto Saxophone, a NU-Jazz Collective”, was released in 2011. In 2015, Herb started the weekly Capitol Hill Jazz Jam session at Mr. Henry’s Restaurant, where Grammy winner Roberta Flack once held her residency. Herb completed his first International Residency at the St. Regis Hotel in Doha, Qatar before returning to the U.S. and headlining at the Legendary Blues Alley Jazz and Supper Club in the fall of 2016. 
+
+Herb released his new single “The Jazz Show” on January 9, 2019 for sale and streaming on all major platforms. And in 2020, Herb  stepped up his jazz/rap fusion style with more tracks including “At the Jazz Show Original”, Private Concert”, and “Baila”.In July, 2020 Herb was named a DC Star by the  DC Government’s Office of Cable Television, Film, Music and Entertainment Agency
+ 8:00 pm
+2.1 mi
+DC Square Dance Party!
+St. Stephens Church
+ | 
+Washington, DC
+We are SO excited to have Audra Scott and Becky Hill calling for a very special dance that grew out of the African American Dance Caller Pathways Project. With live music from the Green Mountain Hot Club (Kathleen Parks, Arthur Terembula, and B.E. Farrow), this one is not to be missed!
+
+Saturday, November 14, 2026
+
+Doors at 7:30 pm; dancing from 8:00 to 11:00 pm
+
+St. Stephen's Church, 1525 Newton St. NW, Washington, DC
+
+$10 at the door. Cash or venmo; sorry, no credit cards.
+
+All are welcome! No experience, partner, or fancy outfit needed. Just walk on in and dance.
+ 8:00 pm
+1.8 mi
+WAR
+Bethesda Theater
+ | 
+Bethesda, MD
+ 8:00 pm
+6.6 mi
+Danzas al Compás de la Hojarasca (Dances in Step with the Fallen Leaves)
+GUNSTON ARTS CENTER THEATRE ONE
+ | 
+Arlington, VA
+Prepárate para una noche llena de música y movimiento que te hará sentir el alma de las hojas de otoño que caen al son de nuestras danzas.
+ 8:00 pm
+4.7 mi
+2nd Mondays Open Mic Night | Shirlington | Hosted by 13 of Nazareth
+Busboys and Poets- Shirlington
+ | 
+Arlington, VA
+Monday Night Open Mic!A Busboys andPoetry Event!
+ 8:00 pm
+4.9 mi
+Pregame Comedy DC | Free Saturday Stand-Up Comedy Show at Aura Bar & Lounge
+Aura Bar & Lounge
+ | 
+Washington, DC
+Free Wednesday stand-up and happy hour in Friendship Heights, 2 min from the Red Line. Free RSVP enters you in a $50 tab giveaway.
+ 8:00 pm
+4.5 mi
+The Last Waltz
+The Hamilton
+ | 
+Washington, DC
+DOORS OPEN AT 6:30 PM | SHOW BEGINS AT 8:00 PM Sign up for our weekly newsletter to receive pre-sale promo codes! [https://app.hive.co/l/3p38kz] Newmyer Flyer Presents: THE LAST WALTZ TRIBUTE    Performances By; Big Joe Maher, Tommy Lepson, Jonathan Sloane, Ruthie Logsdon, Margot MacDonald, Bill Starks, Pete Ragusa, Ricky Wise, Bill Williams, Billy Coulter, Bill Baker, Kirk Philips, 40 Dollar Fine, Steve Wolf, Bronson Hoover, Tom Fridrich, Andy Rutherford, Ronnie Smith, Trevor Specht, Justine Miller, Cheryl Terwilliger, Craig Considine, Wayne Sulc & Ronnie Newmyer   The Band’s historic farewell concert in 1976 is honored in grand style, as some of the DC area’s finest performers join together to play the iconic songs performed by The Band, and their guests, Van Morrison, Neil Young, Emmylou Harris, Dr. John, Muddy Waters, Bob Dylan, Eric Clapton, Joni Mitchell, & Ronnie Hawkins. The Last Waltz was performed at San Francisco’s Winterland Ballroom on Thanksgiving night.   Newmyer Flyers Last Waltz Tribute was one of the first in the nation to tribute this historic event and and since its debut in 2012, it has been performed to sold out audiences each November at The Hamilton. Featuring renowned performers with a full band and horn section, the Last Waltz tribute is a tribute show like no other. It features  beloved Band songs including Up On Cripple Creek, Ophelia. Don’t Do it, It Makes No Difference, I Shall Be Released, Rag Mama Rag, The Night They Drove Old Dixie Down and The Shape Im In as well as those performed by Clapton, Van Morrison, Dr John, Neil Young etc including Caravan, Coyote, Further on Up the Road, Helpless & Such a Night.  For any wheelchair or ADA needs, please contact the Box Office in advance of the performance at (202)-787-1000. All tickets are general admission (GA). Seats cannot be reserved in advance. We recommend that you arrive early to secure your favorite seats within your section. You may hold one (1) seat for a friend arriving later. Every guest requires a ticket.
+ 8:00 pm
+0.7 mi
 1st Friday Open Mic | Brookland | Hosted by Malachi Byrd
 Busboys & Poets
  | 
 Washington, DC
-5th Friday Open Mic!A Busboys and Poetry EventEvery Friday.
- 9:00 pm
+WEDNESDAY NIGHT OPEN MIC!!
+ 8:00 pm
 0.7 mi
-AYYBO [GLOW OFF:SITE]
-Dock5
- | 
-Washington, DC
-This is a general admission standing-room event.
- 9:00 pm
-1.6 mi
-Coven: A Halloween Dance Party
-Black Cat DC
- | 
-Washington, DC
-Join the Coven for a night of dancing, hexes and witchery!
-
-Conjure up your most bewitching costumes and strike a pose on our black cat runway
-
-Pole Dancing performances and demos by Yooji @itsyooj
-
-Haunted Dance Party with DJ Dianamatic @dianaholcomb and $et @setinator
-
-Tarot Readings with Skye Marinda Tarot @skye.marinda.tarot
-
-Plus a witchy photo-booth, spooky vendors and more!
- 9:00 pm
-0.5 mi
-Aidan Leclaire & Blanket Approval
-Quarry House Tavern
- | 
-Silver Spring, MD
-https://aidanleclaire.com/home
-
-Formed by passionate musicians from the Virginia and D.C. areas, the  Leclaires (The F.K.A. Leclaire Band) have quickly become a standout act in the local music scene. Known for their unique blend of indie-rock, folk, and pop, their music, characterized by playful yet heartfelt lyrics and captivating melodies, has resonated deeply with audiences across the East Coast and beyond.
- 9:30 pm
-5.9 mi
-Meisha Herron
-Nanny O'Briens
- | 
-Washington, DC
-Meisha Herron plays some popular soul, r&b, blues and classic songs from the 70's to more current.
- 9:30 pm
-2.4 mi
  See More Events 
 
 Powered by
@@ -746,18 +803,21 @@ Contact
 
 © 2025 WGIT DC
 
-Oct 24 
-AFRO Informer High Tea
-The Press Club
-Oct 29 
-Dia De Los Muertos Dance with DJ Shango
+Nov 14 
+Reggaeton Baddie Brunch - OPEN HOUSE
+Wunder Garten
+Nov 19 
+Ecstatic Dance with Unfolding
 Edgewood Arts Center
-Oct 27 
-Urban Garden Tuesday Trivia
-Urban Garden Brewing
+Nov 22 
+Jim Hensons Labyrinth in Concert
+The Lincoln Theatre
+Open search
+Close search
 0
 
 Selected Categories
+Clear search and selected categories
 |
 All Events
 Loading...
@@ -765,14 +825,20 @@ Enter Search Term Above or Select Category Below
 Time
 Loading...
 List View
+List View
+Paragraph View
 Paragraph View
 Tile View
+Tile View
 Map View
+Map View
+Open profile menu
  My Account
  Log In
  Log Out
  Add Event
-Saturday, Oct 24
+Saturday, Nov 14
+Previous month
 January
 February
 March
@@ -785,6 +851,7 @@ September
 October
 November
 December
+Next month
 
         Sun
 Mon
@@ -794,10 +861,6 @@ Thu
 Fri
 Sat
 
-27
-28
-29
-30
 1
 2
 3
@@ -828,7 +891,6 @@ Sat
 28
 29
 30
-31
 1
 2
 3
@@ -836,7 +898,13 @@ Sat
 5
 6
 7
+8
+9
+10
+11
+12
 Location
+Clear location
 Within 
 7 
 mi

@@ -1,6 +1,6 @@
 Interintellect
 https://interintellect.com/salons
-rendered 2026-10-25 00:35Z  status=200 chars=5166 iframes=0 srcdoc=0 next=False error=
+rendered 2026-11-15 00:35Z  status=200 chars=4602 iframes=0 srcdoc=0 next=False error=
 
 Salons | Interintellect
 Events
@@ -22,90 +22,7 @@ Salons
 Series
 SuperSalons
 In Person
-October 2026
-Salon
-Who Is It For? What Is For Me and What Is For Others
-Hosted by:
-Dale Yuzuki
-Sun, Oct 25
-•
-07:00 PM UTC
-Online
-$10
-SuperSalon
-Ada Palmer: Inventing the Renaissance, Terra Ignota ... and Loki
-Hosted by:
-Jon Evans
-Tue, Oct 27
-•
-05:00 PM UTC
-Online
-$40
 November 2026
-Salon
-Play-Reading: The Cocktail Party by TS ELiot (Members Only)
-Hosted by:
-Anna Gát
-Sun, Nov 1
-•
-06:00 PM UTC
-Online
-Members Only
-Episode
-In My End Is My Beginning: Four Quartets
-Hosted by:
-Paul Franz
-Mon, Nov 2
-•
-12:00 AM UTC
-Online
-$20
-Episode
-Casablanca: The First Modern American Movie
-Hosted by:
-Anna Gát
-Sat, Nov 7
-•
-06:00 PM UTC
-Online
-Members Only
-Episode
-Part 3: East of Eden book club
-Hosted by:
-Megan Gafford
-Sun, Nov 8
-•
-05:00 PM UTC
-Online
-$30
-SuperSalon
-A World We Share | Roger Berkowitz on Hannah Arendt and the Power of Friendship in a Broken World, with Erica Robles Anderson
-Hosted by:
-Erica Robles Anderson
-Tue, Nov 10
-•
-01:00 AM UTC
-Online
-$20
-SuperSalon
-The Next Generation — Economics and Culture of GenZ — An Evening of Discussion in Manhattan
-Hosted by:
-Anna Gát
-Tue, Nov 10
-•
-11:00 PM UTC
-In Person
-New York, NY
-Free
-Episode
-1 A Summons: Write Like a Nun
-Hosted by:
-Jose Francisco Moreno
-Fri, Nov 13
-•
-12:30 AM UTC
-Online
-$10
 Episode
 Part VI Defeat
 Hosted by:
@@ -116,14 +33,14 @@ Sun, Nov 15
 Online
 Members Only
 Salon
-DH Lawrence's Women in Love -- Online Book Club with Anna Gát
+Stoner: The Perfect American Novel?
 Hosted by:
 Anna Gát
 Fri, Nov 20
 •
 01:00 AM UTC
 Online
-$30
+$36
 SuperSalon
 Waiting for What We'll Be Waiting for: A Conversation with Steven Seidenberg, Author of Coda
 Hosted by:
@@ -133,6 +50,15 @@ Sat, Nov 21
 05:00 PM UTC
 Online
 $15
+Salon
+How Chokepoints Shaped Our World: Live with Norm Coady
+Hosted by:
+Norman Coady
+Sun, Nov 22
+•
+08:00 PM UTC
+Online
+$10
 SuperSalon
 The Complications of Wanting: Sarah Hepola on Love, Feminism, and Desire
 Hosted by:
@@ -169,6 +95,16 @@ Wed, Dec 2
 •
 01:00 AM UTC
 Online
+Members Only
+Salon
+Find Love in NYC: Singles Museum Visit at the Met
+Hosted by:
+Anna Gát
+Fri, Dec 4
+•
+11:30 PM UTC
+In Person
+New York, NY
 Members Only
 Episode
 America's Cinematic Conscience: 12 Angry Men
@@ -242,6 +178,15 @@ Fri, Dec 18
 12:30 AM UTC
 Online
 $30
+SuperSalon
+The Power of Questions -- With Philosopher Lani Watson
+Hosted by:
+Taylor Zapolsky
+Sat, Dec 19
+•
+06:00 PM UTC
+Online
+$25
 Episode
 Final Thoughts and Looking Ahead: The Path Keeps Going...
 Hosted by:
@@ -249,6 +194,15 @@ Erica Robles Anderson
 Sun, Dec 20
 •
 05:30 PM UTC
+Online
+Members Only
+Salon
+Play-Reading: The Bald Soprano by Ionesco -- Absurdist Fun, Members-Only!
+Hosted by:
+Anna Gát
+Sun, Dec 27
+•
+07:30 PM UTC
 Online
 Members Only
 SuperSalon
@@ -279,6 +233,15 @@ Fri, Jan 15
 12:30 AM UTC
 Online
 $10
+SuperSalon
+Human Writing and Creativity in the Time of AI -- With Nina Beguš
+Hosted by:
+Houda Nait El Barj
+Fri, Jan 15
+•
+01:30 AM UTC
+Online
+$35
 SuperSalon
 How to Save the Media: Hamish McKenzie on Rebuilding Trust in Journalism
 Hosted by:

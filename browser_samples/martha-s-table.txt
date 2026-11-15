@@ -1,6 +1,6 @@
 Martha's Table
 https://volunteer.marthastable.org/calendar/
-rendered 2026-10-25 00:35Z  status=200 chars=43276 iframes=0 srcdoc=0 next=False error=
+rendered 2026-11-15 00:36Z  status=200 chars=28199 iframes=0 srcdoc=0 next=False error=
 
 
 
@@ -122,9 +122,9 @@ Program
 
 -- Select Program --
 
-Joyful Food Markets
-
 Special Community Events
+
+Joyful Food Markets
 
 McKenna's Wagon
 
@@ -140,7 +140,7 @@ Show Events
 
 Show Both
 
-October 2026
+November 2026
 
 Sun
 Mon
@@ -152,29 +152,13 @@ Sat
 
                     1
 
+                    2
+
 Maycroft AM - Martha's Table Market Assistant (NW)
 
             Healthy Markets
 
 9:30am - 1:00pm 
-ET
-
-                    2
-spots remaining
-
-                ¡En Martha’s Table damos la bienvenida a nuestros vecinos bilingües a que se unan como voluntarios en nuestros Mercados Saludables! Su apoyo es esencial para crear un ambiente acogedor y accesible para todas las familias, ayudando a distribuir al...
-
-Get Connected Icon
-
-Maycroft AM - Ma...
-
-Maycroft AM - Martha's Table Market Assistant (NW)
-
-Martha's Outfitters Assistant AM
-
-            Martha's Outfitters
-
-9:30am - 12:30pm 
 ET
 
                     1
@@ -184,9 +168,9 @@ spots remaining
 
 Get Connected Icon
 
-Martha's Outfitt...
+Maycroft AM - Ma...
 
-Martha's Outfitters Assistant AM
+Maycroft AM - Martha's Table Market Assistant (NW)
 
 Martha's Outfitters Assistant PM
 
@@ -206,48 +190,33 @@ Martha's Outfitt...
 
 Martha's Outfitters Assistant PM
 
-Commons PM - Martha's Table Market Assistant (SE)
+                View
+                 More
 
-            Healthy Markets
+                    3
 
-1:00pm - 4:15pm 
+Martha's Outfitters Assistant PM
+
+            Martha's Outfitters
+
+12:30pm - 3:30pm 
 ET
 
-                    6
+                    2
 spots remaining
 
                 ¡En Martha’s Table damos la bienvenida a nuestros vecinos bilingües a que se unan como voluntarios en nuestros Mercados Saludables! Su apoyo es esencial para crear un ambiente acogedor y accesible para todas las familias, ayudando a distribuir al...
 
 Get Connected Icon
 
-Commons PM - Mar...
+Martha's Outfitt...
 
-Commons PM - Martha's Table Market Assistant (SE)
-
-AppleTree Oklahoma - Joyful Food Market
-
-            Joyful Food Markets
-
-2:00pm - 4:30pm 
-ET
-
-                    4
-spots remaining
-
-                Position Overview:   Our Joyful Food Markets provide access to healthy and nutritious food through monthly pop-up events at more than 50 elementary schools in Wards 7 and 8. Families can shop at no cost for high-quality produce and pantry staples. T...
-
-Get Connected Icon
-
-AppleTree Oklaho...
-
-AppleTree Oklahoma - Joyful Food Market
+Martha's Outfitters Assistant PM
 
                 View
-
-                    1
                  More
 
-                    2
+                    4
 
 Maycroft AM - Martha's Table Market Assistant (NW)
 
@@ -256,7 +225,7 @@ Maycroft AM - Martha's Table Market Assistant (NW)
 9:30am - 1:00pm 
 ET
 
-                    2
+                    1
 spots remaining
 
                 ¡En Martha’s Table damos la bienvenida a nuestros vecinos bilingües a que se unan como voluntarios en nuestros Mercados Saludables! Su apoyo es esencial para crear un ambiente acogedor y accesible para todas las familias, ayudando a distribuir al...
@@ -267,146 +236,11 @@ Maycroft AM - Ma...
 
 Maycroft AM - Martha's Table Market Assistant (NW)
 
-DC Scholars PCS - Joyful Food Market
-
-            Joyful Food Markets
-
-11:30am - 2:00pm 
-ET
-
-                    12
-spots remaining
-
-                Position Overview:   Our Joyful Food Markets provide access to healthy and nutritious food through monthly pop-up events at more than 50 elementary schools in Wards 7 and 8. Families can shop at no cost for high-quality produce and pantry staples. T...
-
-Get Connected Icon
-
-DC Scholars PCS ...
-
-DC Scholars PCS - Joyful Food Market
-
-Maycroft PM - Martha's Table Market Assistant (NW)
-
-            Healthy Markets
-
-12:30pm - 4:15pm 
-ET
-
-                    3
-spots remaining
-
-                ¡En Martha’s Table damos la bienvenida a nuestros vecinos bilingües a que se unan como voluntarios en nuestros Mercados Saludables! Su apoyo es esencial para crear un ambiente acogedor y accesible para todas las familias, ayudando a distribuir al...
-
-Get Connected Icon
-
-Maycroft PM - Ma...
-
-Maycroft PM - Martha's Table Market Assistant (NW)
-
-Commons PM - Martha's Table Market Assistant (SE)
-
-            Healthy Markets
-
-1:00pm - 4:15pm 
-ET
-
-                    4
-spots remaining
-
-                ¡En Martha’s Table damos la bienvenida a nuestros vecinos bilingües a que se unan como voluntarios en nuestros Mercados Saludables! Su apoyo es esencial para crear un ambiente acogedor y accesible para todas las familias, ayudando a distribuir al...
-
-Get Connected Icon
-
-Commons PM - Mar...
-
-Commons PM - Martha's Table Market Assistant (SE)
-
-Smothers ES - Joyful Food Market 
-
-            Joyful Food Markets
-
-2:00pm - 4:30pm 
-ET
-
-                    9
-spots remaining
-
-                Position Overview:   Our Joyful Food Markets provide access to healthy and nutritious food through monthly pop-up events at more than 50 elementary schools in Wards 7 and 8. Families can shop at no cost for high-quality produce and pantry staples. T...
-
-Get Connected Icon
-
-Smothers ES - Jo...
-
-Smothers ES - Joyful Food Market 
-
-                View
-
-                    1
-                 More
-
-                    3
-
-Food Preparation Assistant - Weekend (NW)
-
-            McKenna's Wagon
-
-11:00am - 2:00pm 
-ET
-
-                    3
-spots remaining
-
-                Position Overview:  The Food Preparation shift supports students and community members with access to freshly prepared food samples and meals. The Food Prep Volunteer shift directly supports our Joyful Food Markets by preparing and packaging food sa...
-
-Get Connected Icon
-
-Food Preparation...
-
-Food Preparation Assistant - Weekend (NW)
-
-McKenna's Wagon Helper
-
-            McKenna's Wagon
-
-4:30pm - 7:00pm 
-ET
-
-                    1
-spots remaining
-
-                NOTE: There is a strict age requirement of 15 years old to participate in this event. Registrations will be cancelled if an underage volunteer is signed up for this event. No exceptions.¡En Martha’s Table damos la bienvenida a nuestros vecinos bi...
-
-Get Connected Icon
-
-McKenna's Wagon ...
-
-McKenna's Wagon Helper
-
                 View
                  More
-
-                    4
 
                     5
 
-Joyful Grocery Bagging
-
-            Joyful Food Markets
-
-9:00am - 12:00pm 
-ET
-
-                    3
-spots remaining
-
-                Position Overview:   Our Joyful Food Markets provide access to healthy and nutritious food through monthly pop-up events at more than 50 elementary schools in Wards 7 and 8. Families can shop at no cost for high-quality produce and pantry staples. T...
-
-Get Connected Icon
-
-Joyful Grocery B...
-
-Joyful Grocery Bagging
-
 Maycroft AM - Martha's Table Market Assistant (NW)
 
             Healthy Markets
@@ -414,7 +248,7 @@ Maycroft AM - Martha's Table Market Assistant (NW)
 9:30am - 1:00pm 
 ET
 
-                    3
+                    2
 spots remaining
 
                 ¡En Martha’s Table damos la bienvenida a nuestros vecinos bilingües a que se unan como voluntarios en nuestros Mercados Saludables! Su apoyo es esencial para crear un ambiente acogedor y accesible para todas las familias, ayudando a distribuir al...
@@ -433,949 +267,6 @@ Martha's Outfitters Assistant AM
 ET
 
                     1
-spots remaining
-
-                ¡En Martha’s Table damos la bienvenida a nuestros vecinos bilingües a que se unan como voluntarios en nuestros Mercados Saludables! Su apoyo es esencial para crear un ambiente acogedor y accesible para todas las familias, ayudando a distribuir al...
-
-Get Connected Icon
-
-Martha's Outfitt...
-
-Martha's Outfitters Assistant AM
-
-Maycroft PM - Martha's Table Market Assistant (NW)
-
-            Healthy Markets
-
-12:30pm - 4:15pm 
-ET
-
-                    2
-spots remaining
-
-                ¡En Martha’s Table damos la bienvenida a nuestros vecinos bilingües a que se unan como voluntarios en nuestros Mercados Saludables! Su apoyo es esencial para crear un ambiente acogedor y accesible para todas las familias, ayudando a distribuir al...
-
-Get Connected Icon
-
-Maycroft PM - Ma...
-
-Maycroft PM - Martha's Table Market Assistant (NW)
-
-Martha's Outfitters Assistant PM
-
-            Martha's Outfitters
-
-12:30pm - 3:30pm 
-ET
-
-                    1
-spots remaining
-
-                ¡En Martha’s Table damos la bienvenida a nuestros vecinos bilingües a que se unan como voluntarios en nuestros Mercados Saludables! Su apoyo es esencial para crear un ambiente acogedor y accesible para todas las familias, ayudando a distribuir al...
-
-Get Connected Icon
-
-Martha's Outfitt...
-
-Martha's Outfitters Assistant PM
-
-                View
-
-                    2
-                 More
-
-                    6
-
-Maycroft AM - Martha's Table Market Assistant (NW)
-
-            Healthy Markets
-
-9:30am - 1:00pm 
-ET
-
-                    1
-spots remaining
-
-                ¡En Martha’s Table damos la bienvenida a nuestros vecinos bilingües a que se unan como voluntarios en nuestros Mercados Saludables! Su apoyo es esencial para crear un ambiente acogedor y accesible para todas las familias, ayudando a distribuir al...
-
-Get Connected Icon
-
-Maycroft AM - Ma...
-
-Maycroft AM - Martha's Table Market Assistant (NW)
-
-Maycroft PM - Martha's Table Market Assistant (NW)
-
-            Healthy Markets
-
-12:30pm - 4:15pm 
-ET
-
-                    3
-spots remaining
-
-                ¡En Martha’s Table damos la bienvenida a nuestros vecinos bilingües a que se unan como voluntarios en nuestros Mercados Saludables! Su apoyo es esencial para crear un ambiente acogedor y accesible para todas las familias, ayudando a distribuir al...
-
-Get Connected Icon
-
-Maycroft PM - Ma...
-
-Maycroft PM - Martha's Table Market Assistant (NW)
-
-Martha's Outfitters Assistant PM
-
-            Martha's Outfitters
-
-12:30pm - 3:30pm 
-ET
-
-                    1
-spots remaining
-
-                ¡En Martha’s Table damos la bienvenida a nuestros vecinos bilingües a que se unan como voluntarios en nuestros Mercados Saludables! Su apoyo es esencial para crear un ambiente acogedor y accesible para todas las familias, ayudando a distribuir al...
-
-Get Connected Icon
-
-Martha's Outfitt...
-
-Martha's Outfitters Assistant PM
-
-Commons PM - Martha's Table Market Assistant (SE)
-
-            Healthy Markets
-
-1:00pm - 4:15pm 
-ET
-
-                    4
-spots remaining
-
-                ¡En Martha’s Table damos la bienvenida a nuestros vecinos bilingües a que se unan como voluntarios en nuestros Mercados Saludables! Su apoyo es esencial para crear un ambiente acogedor y accesible para todas las familias, ayudando a distribuir al...
-
-Get Connected Icon
-
-Commons PM - Mar...
-
-Commons PM - Martha's Table Market Assistant (SE)
-
-Blue Montessori - Joyful Food Market
-
-            Joyful Food Markets
-
-2:00pm - 4:30pm 
-ET
-
-                    3
-spots remaining
-
-                Position Overview:   Our Joyful Food Markets provide access to healthy and nutritious food through monthly pop-up events at more than 50 elementary schools in Wards 7 and 8. Families can shop at no cost for high-quality produce and pantry staples. T...
-
-Get Connected Icon
-
-Blue Montessori ...
-
-Blue Montessori - Joyful Food Market
-
-                View
-
-                    3
-                 More
-
-                    7
-
-Maycroft PM - Martha's Table Market Assistant (NW)
-
-            Healthy Markets
-
-12:30pm - 4:15pm 
-ET
-
-                    1
-spots remaining
-
-                ¡En Martha’s Table damos la bienvenida a nuestros vecinos bilingües a que se unan como voluntarios en nuestros Mercados Saludables! Su apoyo es esencial para crear un ambiente acogedor y accesible para todas las familias, ayudando a distribuir al...
-
-Get Connected Icon
-
-Maycroft PM - Ma...
-
-Maycroft PM - Martha's Table Market Assistant (NW)
-
-DC Prep Benning - Joyful Food Market
-
-            Joyful Food Markets
-
-1:00pm - 3:30pm 
-ET
-
-                    14
-spots remaining
-
-                Position Overview:   Our Joyful Food Markets provide access to healthy and nutritious food through monthly pop-up events at more than 50 elementary schools in Wards 7 and 8. Families can shop at no cost for high-quality produce and pantry staples. T...
-
-Get Connected Icon
-
-DC Prep Benning ...
-
-DC Prep Benning - Joyful Food Market
-
-McKenna's Wagon Helper
-
-            McKenna's Wagon
-
-4:30pm - 7:00pm 
-ET
-
-                    2
-spots remaining
-
-                NOTE: There is a strict age requirement of 15 years old to participate in this event. Registrations will be cancelled if an underage volunteer is signed up for this event. No exceptions.¡En Martha’s Table damos la bienvenida a nuestros vecinos bi...
-
-Get Connected Icon
-
-McKenna's Wagon ...
-
-McKenna's Wagon Helper
-
-                View
-                 More
-
-                    8
-
-Maycroft AM - Martha's Table Market Assistant (NW)
-
-            Healthy Markets
-
-9:30am - 1:00pm 
-ET
-
-                    2
-spots remaining
-
-                ¡En Martha’s Table damos la bienvenida a nuestros vecinos bilingües a que se unan como voluntarios en nuestros Mercados Saludables! Su apoyo es esencial para crear un ambiente acogedor y accesible para todas las familias, ayudando a distribuir al...
-
-Get Connected Icon
-
-Maycroft AM - Ma...
-
-Maycroft AM - Martha's Table Market Assistant (NW)
-
-Commons PM - Martha's Table Market Assistant (SE)
-
-            Healthy Markets
-
-1:00pm - 4:15pm 
-ET
-
-                    3
-spots remaining
-
-                ¡En Martha’s Table damos la bienvenida a nuestros vecinos bilingües a que se unan como voluntarios en nuestros Mercados Saludables! Su apoyo es esencial para crear un ambiente acogedor y accesible para todas las familias, ayudando a distribuir al...
-
-Get Connected Icon
-
-Commons PM - Mar...
-
-Commons PM - Martha's Table Market Assistant (SE)
-
-KIPP Smillow - Joyful Food Market 
-
-            Joyful Food Markets
-
-2:00pm - 4:30pm 
-ET
-
-                    9
-spots remaining
-
-                Position Overview:   Our Joyful Food Markets provide access to healthy and nutritious food through monthly pop-up events at more than 50 elementary schools in Wards 7 and 8. Families can shop at no cost for high-quality produce and pantry staples. T...
-
-Get Connected Icon
-
-KIPP Smillow - J...
-
-KIPP Smillow - Joyful Food Market 
-
-Whitlock ES - Joyful Food Market
-
-            Joyful Food Markets
-
-2:00pm - 4:30pm 
-ET
-
-                    10
-spots remaining
-
-                Position Overview:   Our Joyful Food Markets provide access to healthy and nutritious food through monthly pop-up events at more than 50 elementary schools in Wards 7 and 8. Families can shop at no cost for high-quality produce and pantry staples. T...
-
-Get Connected Icon
-
-Whitlock ES - Jo...
-
-Whitlock ES - Joyful Food Market
-
-McKenna's Wagon Helper
-
-            McKenna's Wagon
-
-4:30pm - 7:00pm 
-ET
-
-                    1
-spots remaining
-
-                NOTE: There is a strict age requirement of 15 years old to participate in this event. Registrations will be cancelled if an underage volunteer is signed up for this event. No exceptions.¡En Martha’s Table damos la bienvenida a nuestros vecinos bi...
-
-Get Connected Icon
-
-McKenna's Wagon ...
-
-McKenna's Wagon Helper
-
-                View
-                 More
-
-                    9
-
-Maycroft AM - Martha's Table Market Assistant (NW)
-
-            Healthy Markets
-
-9:30am - 1:00pm 
-ET
-
-                    1
-spots remaining
-
-                ¡En Martha’s Table damos la bienvenida a nuestros vecinos bilingües a que se unan como voluntarios en nuestros Mercados Saludables! Su apoyo es esencial para crear un ambiente acogedor y accesible para todas las familias, ayudando a distribuir al...
-
-Get Connected Icon
-
-Maycroft AM - Ma...
-
-Maycroft AM - Martha's Table Market Assistant (NW)
-
-Maycroft PM - Martha's Table Market Assistant (NW)
-
-            Healthy Markets
-
-12:30pm - 4:15pm 
-ET
-
-                    1
-spots remaining
-
-                ¡En Martha’s Table damos la bienvenida a nuestros vecinos bilingües a que se unan como voluntarios en nuestros Mercados Saludables! Su apoyo es esencial para crear un ambiente acogedor y accesible para todas las familias, ayudando a distribuir al...
-
-Get Connected Icon
-
-Maycroft PM - Ma...
-
-Maycroft PM - Martha's Table Market Assistant (NW)
-
-CW Harris - Joyful Food Market 
-
-            Joyful Food Markets
-
-2:00pm - 4:30pm 
-ET
-
-                    2
-spots remaining
-
-                Position Overview:   Our Joyful Food Markets provide access to healthy and nutritious food through monthly pop-up events at more than 50 elementary schools in Wards 7 and 8. Families can shop at no cost for high-quality produce and pantry staples. T...
-
-Get Connected Icon
-
-CW Harris - Joyf...
-
-CW Harris - Joyful Food Market 
-
-E.W. Stokes PCS - Joyful Food Market
-
-            Joyful Food Markets
-
-2:00pm - 4:30pm 
-ET
-
-                    16
-spots remaining
-
-                Position Overview:   Our Joyful Food Markets provide access to healthy and nutritious food through monthly pop-up events at more than 50 elementary schools in Wards 7 and 8. Families can shop at no cost for high-quality produce and pantry staples. T...
-
-Get Connected Icon
-
-E.W. Stokes PCS ...
-
-E.W. Stokes PCS - Joyful Food Market
-
-McKenna's Wagon Helper
-
-            McKenna's Wagon
-
-4:30pm - 7:00pm 
-ET
-
-                    2
-spots remaining
-
-                NOTE: There is a strict age requirement of 15 years old to participate in this event. Registrations will be cancelled if an underage volunteer is signed up for this event. No exceptions.¡En Martha’s Table damos la bienvenida a nuestros vecinos bi...
-
-Get Connected Icon
-
-McKenna's Wagon ...
-
-McKenna's Wagon Helper
-
-                View
-                 More
-
-                    10
-
-Food Preparation Assistant - Weekend (NW)
-
-            McKenna's Wagon
-
-11:00am - 2:00pm 
-ET
-
-                    4
-spots remaining
-
-                Position Overview:  The Food Preparation shift supports students and community members with access to freshly prepared food samples and meals. The Food Prep Volunteer shift directly supports our Joyful Food Markets by preparing and packaging food sa...
-
-Get Connected Icon
-
-Food Preparation...
-
-Food Preparation Assistant - Weekend (NW)
-
-McKenna's Wagon Helper
-
-            McKenna's Wagon
-
-4:30pm - 7:00pm 
-ET
-
-                    1
-spots remaining
-
-                NOTE: There is a strict age requirement of 15 years old to participate in this event. Registrations will be cancelled if an underage volunteer is signed up for this event. No exceptions.¡En Martha’s Table damos la bienvenida a nuestros vecinos bi...
-
-Get Connected Icon
-
-McKenna's Wagon ...
-
-McKenna's Wagon Helper
-
-                View
-                 More
-
-                    11
-
-McKenna's Wagon Helper
-
-            McKenna's Wagon
-
-4:30pm - 7:00pm 
-ET
-
-                    3
-spots remaining
-
-                NOTE: There is a strict age requirement of 15 years old to participate in this event. Registrations will be cancelled if an underage volunteer is signed up for this event. No exceptions.¡En Martha’s Table damos la bienvenida a nuestros vecinos bi...
-
-Get Connected Icon
-
-McKenna's Wagon ...
-
-McKenna's Wagon Helper
-
-                View
-                 More
-
-                    12
-
-                    13
-
-Maycroft AM - Martha's Table Market Assistant (NW)
-
-            Healthy Markets
-
-9:30am - 1:00pm 
-ET
-
-                    1
-spots remaining
-
-                ¡En Martha’s Table damos la bienvenida a nuestros vecinos bilingües a que se unan como voluntarios en nuestros Mercados Saludables! Su apoyo es esencial para crear un ambiente acogedor y accesible para todas las familias, ayudando a distribuir al...
-
-Get Connected Icon
-
-Maycroft AM - Ma...
-
-Maycroft AM - Martha's Table Market Assistant (NW)
-
-Martha's Outfitters Assistant AM
-
-            Martha's Outfitters
-
-9:30am - 12:30pm 
-ET
-
-                    1
-spots remaining
-
-                ¡En Martha’s Table damos la bienvenida a nuestros vecinos bilingües a que se unan como voluntarios en nuestros Mercados Saludables! Su apoyo es esencial para crear un ambiente acogedor y accesible para todas las familias, ayudando a distribuir al...
-
-Get Connected Icon
-
-Martha's Outfitt...
-
-Martha's Outfitters Assistant AM
-
-Maycroft PM - Martha's Table Market Assistant (NW)
-
-            Healthy Markets
-
-12:30pm - 4:15pm 
-ET
-
-                    2
-spots remaining
-
-                ¡En Martha’s Table damos la bienvenida a nuestros vecinos bilingües a que se unan como voluntarios en nuestros Mercados Saludables! Su apoyo es esencial para crear un ambiente acogedor y accesible para todas las familias, ayudando a distribuir al...
-
-Get Connected Icon
-
-Maycroft PM - Ma...
-
-Maycroft PM - Martha's Table Market Assistant (NW)
-
-McKenna's Wagon Helper
-
-            McKenna's Wagon
-
-4:30pm - 7:00pm 
-ET
-
-                    4
-spots remaining
-
-                NOTE: There is a strict age requirement of 15 years old to participate in this event. Registrations will be cancelled if an underage volunteer is signed up for this event. No exceptions.¡En Martha’s Table damos la bienvenida a nuestros vecinos bi...
-
-Get Connected Icon
-
-McKenna's Wagon ...
-
-McKenna's Wagon Helper
-
-                View
-                 More
-
-                    14
-
-Martha's Outfitters Assistant AM
-
-            Martha's Outfitters
-
-9:30am - 12:30pm 
-ET
-
-                    1
-spots remaining
-
-                ¡En Martha’s Table damos la bienvenida a nuestros vecinos bilingües a que se unan como voluntarios en nuestros Mercados Saludables! Su apoyo es esencial para crear un ambiente acogedor y accesible para todas las familias, ayudando a distribuir al...
-
-Get Connected Icon
-
-Martha's Outfitt...
-
-Martha's Outfitters Assistant AM
-
-Martha's Outfitters Assistant PM
-
-            Martha's Outfitters
-
-12:30pm - 3:30pm 
-ET
-
-                    1
-spots remaining
-
-                ¡En Martha’s Table damos la bienvenida a nuestros vecinos bilingües a que se unan como voluntarios en nuestros Mercados Saludables! Su apoyo es esencial para crear un ambiente acogedor y accesible para todas las familias, ayudando a distribuir al...
-
-Get Connected Icon
-
-Martha's Outfitt...
-
-Martha's Outfitters Assistant PM
-
-DC Prep Anacostia- Joyful Food Market 
-
-            Joyful Food Markets
-
-1:00pm - 3:30pm 
-ET
-
-                    7
-spots remaining
-
-                Position Overview:   Our Joyful Food Markets provide access to healthy and nutritious food through monthly pop-up events at more than 50 elementary schools in Wards 7 and 8. Families can shop at no cost for high-quality produce and pantry staples. T...
-
-Get Connected Icon
-
-DC Prep Anacosti...
-
-DC Prep Anacostia- Joyful Food Market 
-
-Commons PM - Martha's Table Market Assistant (SE)
-
-            Healthy Markets
-
-1:00pm - 4:15pm 
-ET
-
-                    3
-spots remaining
-
-                ¡En Martha’s Table damos la bienvenida a nuestros vecinos bilingües a que se unan como voluntarios en nuestros Mercados Saludables! Su apoyo es esencial para crear un ambiente acogedor y accesible para todas las familias, ayudando a distribuir al...
-
-Get Connected Icon
-
-Commons PM - Mar...
-
-Commons PM - Martha's Table Market Assistant (SE)
-
-                View
-                 More
-
-                    15
-
-Maycroft AM - Martha's Table Market Assistant (NW)
-
-            Healthy Markets
-
-9:30am - 1:00pm 
-ET
-
-                    1
-spots remaining
-
-                ¡En Martha’s Table damos la bienvenida a nuestros vecinos bilingües a que se unan como voluntarios en nuestros Mercados Saludables! Su apoyo es esencial para crear un ambiente acogedor y accesible para todas las familias, ayudando a distribuir al...
-
-Get Connected Icon
-
-Maycroft AM - Ma...
-
-Maycroft AM - Martha's Table Market Assistant (NW)
-
-Maycroft PM - Martha's Table Market Assistant (NW)
-
-            Healthy Markets
-
-12:30pm - 4:15pm 
-ET
-
-                    2
-spots remaining
-
-                ¡En Martha’s Table damos la bienvenida a nuestros vecinos bilingües a que se unan como voluntarios en nuestros Mercados Saludables! Su apoyo es esencial para crear un ambiente acogedor y accesible para todas las familias, ayudando a distribuir al...
-
-Get Connected Icon
-
-Maycroft PM - Ma...
-
-Maycroft PM - Martha's Table Market Assistant (NW)
-
-Martha's Outfitters Assistant PM
-
-            Martha's Outfitters
-
-12:30pm - 3:30pm 
-ET
-
-                    1
-spots remaining
-
-                ¡En Martha’s Table damos la bienvenida a nuestros vecinos bilingües a que se unan como voluntarios en nuestros Mercados Saludables! Su apoyo es esencial para crear un ambiente acogedor y accesible para todas las familias, ayudando a distribuir al...
-
-Get Connected Icon
-
-Martha's Outfitt...
-
-Martha's Outfitters Assistant PM
-
-Johnson MS - Joyful Food Market  
-
-            Joyful Food Markets
-
-2:00pm - 4:30pm 
-ET
-
-                    13
-spots remaining
-
-                Position Overview:   Our Joyful Food Markets provide access to healthy and nutritious food through monthly pop-up events at more than 50 elementary schools in Wards 7 and 8. Families can shop at no cost for high-quality produce and pantry staples. T...
-
-Get Connected Icon
-
-Johnson MS - Joy...
-
-Johnson MS - Joyful Food Market  
-
-AppleTree Parklands ES - Joyful Food Market
-
-            Joyful Food Markets
-
-2:00pm - 4:30pm 
-ET
-
-                    9
-spots remaining
-
-                Position Overview:   Our Joyful Food Markets provide access to healthy and nutritious food through monthly pop-up events at more than 50 elementary schools in Wards 7 and 8. Families can shop at no cost for high-quality produce and pantry staples. T...
-
-Get Connected Icon
-
-AppleTree Parkla...
-
-AppleTree Parklands ES - Joyful Food Market
-
-                View
-
-                    1
-                 More
-
-                    16
-
-Maycroft AM - Martha's Table Market Assistant (NW)
-
-            Healthy Markets
-
-9:30am - 1:00pm 
-ET
-
-                    2
-spots remaining
-
-                ¡En Martha’s Table damos la bienvenida a nuestros vecinos bilingües a que se unan como voluntarios en nuestros Mercados Saludables! Su apoyo es esencial para crear un ambiente acogedor y accesible para todas las familias, ayudando a distribuir al...
-
-Get Connected Icon
-
-Maycroft AM - Ma...
-
-Maycroft AM - Martha's Table Market Assistant (NW)
-
-Leckie ES - Joyful Food Market
-
-            Joyful Food Markets
-
-12:00pm - 4:30pm 
-ET
-
-                    10
-spots remaining
-
-                Position Overview:   Our Joyful Food Markets provide access to healthy and nutritious food through monthly pop-up events at more than 50 elementary schools in Wards 7 and 8. Families can shop at no cost for high-quality produce and pantry staples. T...
-
-Get Connected Icon
-
-Leckie ES - Joyf...
-
-Leckie ES - Joyful Food Market
-
-Martha's Outfitters Assistant PM
-
-            Martha's Outfitters
-
-12:30pm - 3:30pm 
-ET
-
-                    1
-spots remaining
-
-                ¡En Martha’s Table damos la bienvenida a nuestros vecinos bilingües a que se unan como voluntarios en nuestros Mercados Saludables! Su apoyo es esencial para crear un ambiente acogedor y accesible para todas las familias, ayudando a distribuir al...
-
-Get Connected Icon
-
-Martha's Outfitt...
-
-Martha's Outfitters Assistant PM
-
-KIPP Douglass - Joyful Food Market
-
-            Joyful Food Markets
-
-2:00pm - 4:30pm 
-ET
-
-                    1
-spots remaining
-
-                Position Overview:   Our Joyful Food Markets provide access to healthy and nutritious food through monthly pop-up events at more than 50 elementary schools in Wards 7 and 8. Families can shop at no cost for high-quality produce and pantry staples. T...
-
-Get Connected Icon
-
-KIPP Douglass - ...
-
-KIPP Douglass - Joyful Food Market
-
-Garfield ES - Joyful Food Market
-
-            Joyful Food Markets
-
-2:30pm - 5:00pm 
-ET
-
-                    7
-spots remaining
-
-                Position Overview:   Our Joyful Food Markets provide access to healthy and nutritious food through monthly pop-up events at more than 50 elementary schools in Wards 7 and 8. Families can shop at no cost for high-quality produce and pantry staples. T...
-
-Get Connected Icon
-
-Garfield ES - Jo...
-
-Garfield ES - Joyful Food Market
-
-                View
-
-                    2
-                 More
-
-                    17
-
-McKenna's Wagon Helper
-
-            McKenna's Wagon
-
-4:30pm - 7:00pm 
-ET
-
-                    1
-spots remaining
-
-                NOTE: There is a strict age requirement of 15 years old to participate in this event. Registrations will be cancelled if an underage volunteer is signed up for this event. No exceptions.¡En Martha’s Table damos la bienvenida a nuestros vecinos bi...
-
-Get Connected Icon
-
-McKenna's Wagon ...
-
-McKenna's Wagon Helper
-
-                View
-                 More
-
-                    18
-
-                    19
-
-Maycroft AM - Martha's Table Market Assistant (NW)
-
-            Healthy Markets
-
-9:30am - 1:00pm 
-ET
-
-                    3
-spots remaining
-
-                ¡En Martha’s Table damos la bienvenida a nuestros vecinos bilingües a que se unan como voluntarios en nuestros Mercados Saludables! Su apoyo es esencial para crear un ambiente acogedor y accesible para todas las familias, ayudando a distribuir al...
-
-Get Connected Icon
-
-Maycroft AM - Ma...
-
-Maycroft AM - Martha's Table Market Assistant (NW)
-
-Martha's Outfitters Assistant AM
-
-            Martha's Outfitters
-
-9:30am - 12:30pm 
-ET
-
-                    1
-spots remaining
-
-                ¡En Martha’s Table damos la bienvenida a nuestros vecinos bilingües a que se unan como voluntarios en nuestros Mercados Saludables! Su apoyo es esencial para crear un ambiente acogedor y accesible para todas las familias, ayudando a distribuir al...
-
-Get Connected Icon
-
-Martha's Outfitt...
-
-Martha's Outfitters Assistant AM
-
-Maycroft PM - Martha's Table Market Assistant (NW)
-
-            Healthy Markets
-
-12:30pm - 4:15pm 
-ET
-
-                    1
-spots remaining
-
-                ¡En Martha’s Table damos la bienvenida a nuestros vecinos bilingües a que se unan como voluntarios en nuestros Mercados Saludables! Su apoyo es esencial para crear un ambiente acogedor y accesible para todas las familias, ayudando a distribuir al...
-
-Get Connected Icon
-
-Maycroft PM - Ma...
-
-Maycroft PM - Martha's Table Market Assistant (NW)
-
-Martha's Outfitters Assistant PM
-
-            Martha's Outfitters
-
-12:30pm - 3:30pm 
-ET
-
-                    1
-spots remaining
-
-                ¡En Martha’s Table damos la bienvenida a nuestros vecinos bilingües a que se unan como voluntarios en nuestros Mercados Saludables! Su apoyo es esencial para crear un ambiente acogedor y accesible para todas las familias, ayudando a distribuir al...
-
-Get Connected Icon
-
-Martha's Outfitt...
-
-Martha's Outfitters Assistant PM
-
-Commons PM - Martha's Table Market Assistant (SE)
-
-            Healthy Markets
-
-1:00pm - 4:15pm 
-ET
-
-                    5
-spots remaining
-
-                ¡En Martha’s Table damos la bienvenida a nuestros vecinos bilingües a que se unan como voluntarios en nuestros Mercados Saludables! Su apoyo es esencial para crear un ambiente acogedor y accesible para todas las familias, ayudando a distribuir al...
-
-Get Connected Icon
-
-Commons PM - Mar...
-
-Commons PM - Martha's Table Market Assistant (SE)
-
-                View
-
-                    1
-                 More
-
-                    20
-
-Martha's Outfitters Assistant AM
-
-            Martha's Outfitters
-
-9:30am - 12:30pm 
-ET
-
-                    2
 spots remaining
 
                 ¡En Martha’s Table damos la bienvenida a nuestros vecinos bilingües a que se unan como voluntarios en nuestros Mercados Saludables! Su apoyo es esencial para crear un ambiente acogedor y accesible para todas las familias, ayudando a distribuir al...
@@ -1393,7 +284,7 @@ Commons AM - Martha's Table Market Assistant (SE)
 10:30am - 1:30pm 
 ET
 
-                    7
+                    1
 spots remaining
 
                 ¡En Martha’s Table damos la bienvenida a nuestros vecinos bilingües a que se unan como voluntarios en nuestros Mercados Saludables! Su apoyo es esencial para crear un ambiente acogedor y accesible para todas las familias, ayudando a distribuir al...
@@ -1404,11 +295,54 @@ Commons AM - Mar...
 
 Commons AM - Martha's Table Market Assistant (SE)
 
-Martha's Outfitters Assistant PM
+Commons PM - Martha's Table Market Assistant (SE)
+
+            Healthy Markets
+
+1:00pm - 4:15pm 
+ET
+
+                    1
+spots remaining
+
+                ¡En Martha’s Table damos la bienvenida a nuestros vecinos bilingües a que se unan como voluntarios en nuestros Mercados Saludables! Su apoyo es esencial para crear un ambiente acogedor y accesible para todas las familias, ayudando a distribuir al...
+
+Get Connected Icon
+
+Commons PM - Mar...
+
+Commons PM - Martha's Table Market Assistant (SE)
+
+AppleTree Oklahoma - Joyful Food Market
+
+            Joyful Food Markets
+
+2:00pm - 4:30pm 
+ET
+
+                    1
+spots remaining
+
+                Position Overview:   Our Joyful Food Markets provide access to healthy and nutritious food through monthly pop-up events at more than 50 elementary schools in Wards 7 and 8. Families can shop at no cost for high-quality produce and pantry staples. T...
+
+Get Connected Icon
+
+AppleTree Oklaho...
+
+AppleTree Oklahoma - Joyful Food Market
+
+                View
+
+                    1
+                 More
+
+                    6
+
+Martha's Outfitters Assistant AM
 
             Martha's Outfitters
 
-12:30pm - 3:30pm 
+9:30am - 12:30pm 
 ET
 
                     1
@@ -1420,7 +354,375 @@ Get Connected Icon
 
 Martha's Outfitt...
 
-Martha's Outfitters Assistant PM
+Martha's Outfitters Assistant AM
+
+DC Scholars PCS - Joyful Food Market
+
+            Joyful Food Markets
+
+11:30am - 2:00pm 
+ET
+
+                    1
+spots remaining
+
+                Position Overview:   Our Joyful Food Markets provide access to healthy and nutritious food through monthly pop-up events at more than 50 elementary schools in Wards 7 and 8. Families can shop at no cost for high-quality produce and pantry staples. T...
+
+Get Connected Icon
+
+DC Scholars PCS ...
+
+DC Scholars PCS - Joyful Food Market
+
+Commons PM - Martha's Table Market Assistant (SE)
+
+            Healthy Markets
+
+1:00pm - 4:15pm 
+ET
+
+                    7
+spots remaining
+
+                ¡En Martha’s Table damos la bienvenida a nuestros vecinos bilingües a que se unan como voluntarios en nuestros Mercados Saludables! Su apoyo es esencial para crear un ambiente acogedor y accesible para todas las familias, ayudando a distribuir al...
+
+Get Connected Icon
+
+Commons PM - Mar...
+
+Commons PM - Martha's Table Market Assistant (SE)
+
+                View
+                 More
+
+                    7
+
+                    8
+
+                    9
+
+Commons PM - Martha's Table Market Assistant (SE)
+
+            Healthy Markets
+
+1:00pm - 4:15pm 
+ET
+
+                    1
+spots remaining
+
+                ¡En Martha’s Table damos la bienvenida a nuestros vecinos bilingües a que se unan como voluntarios en nuestros Mercados Saludables! Su apoyo es esencial para crear un ambiente acogedor y accesible para todas las familias, ayudando a distribuir al...
+
+Get Connected Icon
+
+Commons PM - Mar...
+
+Commons PM - Martha's Table Market Assistant (SE)
+
+                View
+                 More
+
+                    10
+
+Martha's Outfitters Assistant AM
+
+            Martha's Outfitters
+
+9:30am - 12:30pm 
+ET
+
+                    1
+spots remaining
+
+                ¡En Martha’s Table damos la bienvenida a nuestros vecinos bilingües a que se unan como voluntarios en nuestros Mercados Saludables! Su apoyo es esencial para crear un ambiente acogedor y accesible para todas las familias, ayudando a distribuir al...
+
+Get Connected Icon
+
+Martha's Outfitt...
+
+Martha's Outfitters Assistant AM
+
+Maycroft PM - Martha's Table Market Assistant (NW)
+
+            Healthy Markets
+
+12:30pm - 4:15pm 
+ET
+
+                    1
+spots remaining
+
+                ¡En Martha’s Table damos la bienvenida a nuestros vecinos bilingües a que se unan como voluntarios en nuestros Mercados Saludables! Su apoyo es esencial para crear un ambiente acogedor y accesible para todas las familias, ayudando a distribuir al...
+
+Get Connected Icon
+
+Maycroft PM - Ma...
+
+Maycroft PM - Martha's Table Market Assistant (NW)
+
+Commons PM - Martha's Table Market Assistant (SE)
+
+            Healthy Markets
+
+1:00pm - 4:15pm 
+ET
+
+                    2
+spots remaining
+
+                ¡En Martha’s Table damos la bienvenida a nuestros vecinos bilingües a que se unan como voluntarios en nuestros Mercados Saludables! Su apoyo es esencial para crear un ambiente acogedor y accesible para todas las familias, ayudando a distribuir al...
+
+Get Connected Icon
+
+Commons PM - Mar...
+
+Commons PM - Martha's Table Market Assistant (SE)
+
+Patterson ES - Joyful Food Market
+
+            Joyful Food Markets
+
+2:00pm - 4:30pm 
+ET
+
+                    3
+spots remaining
+
+                Position Overview:   Our Joyful Food Markets provide access to healthy and nutritious food through monthly pop-up events at more than 50 elementary schools in Wards 7 and 8. Families can shop at no cost for high-quality produce and pantry staples. T...
+
+Get Connected Icon
+
+Patterson ES - J...
+
+Patterson ES - Joyful Food Market
+
+                View
+                 More
+
+                    11
+
+                    12
+
+Martha's Outfitters Assistant AM
+
+            Martha's Outfitters
+
+9:30am - 12:30pm 
+ET
+
+                    2
+spots remaining
+
+                ¡En Martha’s Table damos la bienvenida a nuestros vecinos bilingües a que se unan como voluntarios en nuestros Mercados Saludables! Su apoyo es esencial para crear un ambiente acogedor y accesible para todas las familias, ayudando a distribuir al...
+
+Get Connected Icon
+
+Martha's Outfitt...
+
+Martha's Outfitters Assistant AM
+
+Achievement Prep - Joyful Food Market
+
+            Joyful Food Markets
+
+2:00pm - 4:30pm 
+ET
+
+                    6
+spots remaining
+
+                Position Overview:   Our Joyful Food Markets provide access to healthy and nutritious food through monthly pop-up events at more than 50 elementary schools in Wards 7 and 8. Families can shop at no cost for high-quality produce and pantry staples. T...
+
+Get Connected Icon
+
+Achievement Prep...
+
+Achievement Prep - Joyful Food Market
+
+                View
+                 More
+
+                    13
+
+Martha's Outfitters Assistant AM
+
+            Martha's Outfitters
+
+9:30am - 12:30pm 
+ET
+
+                    1
+spots remaining
+
+                ¡En Martha’s Table damos la bienvenida a nuestros vecinos bilingües a que se unan como voluntarios en nuestros Mercados Saludables! Su apoyo es esencial para crear un ambiente acogedor y accesible para todas las familias, ayudando a distribuir al...
+
+Get Connected Icon
+
+Martha's Outfitt...
+
+Martha's Outfitters Assistant AM
+
+CW Harris - Joyful Food Market 
+
+            Joyful Food Markets
+
+2:00pm - 4:30pm 
+ET
+
+                    3
+spots remaining
+
+                Position Overview:   Our Joyful Food Markets provide access to healthy and nutritious food through monthly pop-up events at more than 50 elementary schools in Wards 7 and 8. Families can shop at no cost for high-quality produce and pantry staples. T...
+
+Get Connected Icon
+
+CW Harris - Joyf...
+
+CW Harris - Joyful Food Market 
+
+                View
+                 More
+
+14
+
+                    15
+
+                    16
+
+Horton's Kids - Joyful Food Market
+
+            Joyful Food Markets
+
+2:00pm - 4:30pm 
+ET
+
+                    8
+spots remaining
+
+                Position Overview:   Our Joyful Food Markets provide access to healthy and nutritious food through monthly pop-up events at more than 50 elementary schools in Wards 7 and 8. Families can shop at no cost for high-quality produce and pantry staples. T...
+
+Get Connected Icon
+
+Horton's Kids - ...
+
+Horton's Kids - Joyful Food Market
+
+King ES - Joyful Food Market
+
+            Joyful Food Markets
+
+2:00pm - 4:30pm 
+ET
+
+                    12
+spots remaining
+
+                Position Overview:   Our Joyful Food Markets provide access to healthy and nutritious food through monthly pop-up events at more than 50 elementary schools in Wards 7 and 8. Families can shop at no cost for high-quality produce and pantry staples. T...
+
+Get Connected Icon
+
+King ES - Joyful...
+
+King ES - Joyful Food Market
+
+                View
+                 More
+
+                    17
+
+Commons PM - Martha's Table Market Assistant (SE)
+
+            Healthy Markets
+
+1:00pm - 4:15pm 
+ET
+
+                    2
+spots remaining
+
+                ¡En Martha’s Table damos la bienvenida a nuestros vecinos bilingües a que se unan como voluntarios en nuestros Mercados Saludables! Su apoyo es esencial para crear un ambiente acogedor y accesible para todas las familias, ayudando a distribuir al...
+
+Get Connected Icon
+
+Commons PM - Mar...
+
+Commons PM - Martha's Table Market Assistant (SE)
+
+Malcom X Elementary School - Joyful Food Market
+
+            Joyful Food Markets
+
+2:00pm - 4:30pm 
+ET
+
+                    11
+spots remaining
+
+                Position Overview:   Our Joyful Food Markets provide access to healthy and nutritious food through monthly pop-up events at more than 50 elementary schools in Wards 7 and 8. Families can shop at no cost for high-quality produce and pantry staples. T...
+
+Get Connected Icon
+
+Malcom X Element...
+
+Malcom X Elementary School - Joyful Food Market
+
+Randle Highlands ES - Joyful Food Market
+
+            Joyful Food Markets
+
+2:00pm - 4:30pm 
+ET
+
+                    7
+spots remaining
+
+                Position Overview:   Our Joyful Food Markets provide access to healthy and nutritious food through monthly pop-up events at more than 50 elementary schools in Wards 7 and 8. Families can shop at no cost for high-quality produce and pantry staples. T...
+
+Get Connected Icon
+
+Randle Highlands...
+
+Randle Highlands ES - Joyful Food Market
+
+Kelly Miller MS - Joyful Food Market
+
+            Joyful Food Markets
+
+2:15pm - 5:00pm 
+ET
+
+                    14
+spots remaining
+
+                Position Overview:   Our Joyful Food Markets provide access to healthy and nutritious food through monthly pop-up events at more than 50 elementary schools in Wards 7 and 8. Families can shop at no cost for high-quality produce and pantry staples. T...
+
+Get Connected Icon
+
+Kelly Miller MS ...
+
+Kelly Miller MS - Joyful Food Market
+
+Martha's Table ECE - Joyful Food Market 
+
+            Special Community Events
+
+3:00pm - 6:30pm
+
+                    3
+spots remaining
+
+                Position Overview:   Our Joyful Food Markets provide access to healthy and nutritious food through monthly pop-up events at more than 50 elementary schools in Wards 7 and 8. Families can shop at no cost for high-quality produce and pantry staples. T...
+
+Get Connected Icon
+
+Martha's Table E...
+
+Martha's Table ECE - Joyful Food Market 
+
+                View
+                 More
+
+                    18
 
 Commons PM - Martha's Table Market Assistant (SE)
 
@@ -1440,103 +742,6 @@ Commons PM - Mar...
 
 Commons PM - Martha's Table Market Assistant (SE)
 
-Malcom X Elementary School - Joyful Food Market
-
-            Joyful Food Markets
-
-2:00pm - 4:30pm 
-ET
-
-                    12
-spots remaining
-
-                Position Overview:   Our Joyful Food Markets provide access to healthy and nutritious food through monthly pop-up events at more than 50 elementary schools in Wards 7 and 8. Families can shop at no cost for high-quality produce and pantry staples. T...
-
-Get Connected Icon
-
-Malcom X Element...
-
-Malcom X Elementary School - Joyful Food Market
-
-                View
-
-                    2
-                 More
-
-                    21
-
-Martha's Outfitters Assistant AM
-
-            Martha's Outfitters
-
-9:30am - 12:30pm 
-ET
-
-                    3
-spots remaining
-
-                ¡En Martha’s Table damos la bienvenida a nuestros vecinos bilingües a que se unan como voluntarios en nuestros Mercados Saludables! Su apoyo es esencial para crear un ambiente acogedor y accesible para todas las familias, ayudando a distribuir al...
-
-Get Connected Icon
-
-Martha's Outfitt...
-
-Martha's Outfitters Assistant AM
-
-Martha's Outfitters Assistant PM
-
-            Martha's Outfitters
-
-12:30pm - 3:30pm 
-ET
-
-                    1
-spots remaining
-
-                ¡En Martha’s Table damos la bienvenida a nuestros vecinos bilingües a que se unan como voluntarios en nuestros Mercados Saludables! Su apoyo es esencial para crear un ambiente acogedor y accesible para todas las familias, ayudando a distribuir al...
-
-Get Connected Icon
-
-Martha's Outfitt...
-
-Martha's Outfitters Assistant PM
-
-Commons PM - Martha's Table Market Assistant (SE)
-
-            Healthy Markets
-
-1:00pm - 4:15pm 
-ET
-
-                    4
-spots remaining
-
-                ¡En Martha’s Table damos la bienvenida a nuestros vecinos bilingües a que se unan como voluntarios en nuestros Mercados Saludables! Su apoyo es esencial para crear un ambiente acogedor y accesible para todas las familias, ayudando a distribuir al...
-
-Get Connected Icon
-
-Commons PM - Mar...
-
-Commons PM - Martha's Table Market Assistant (SE)
-
-Ketcham - Joyful Food Market
-
-            Joyful Food Markets
-
-2:00pm - 4:30pm 
-ET
-
-                    10
-spots remaining
-
-                Position Overview:   Our Joyful Food Markets provide access to healthy and nutritious food through monthly pop-up events at more than 50 elementary schools in Wards 7 and 8. Families can shop at no cost for high-quality produce and pantry staples. T...
-
-Get Connected Icon
-
-Ketcham - Joyful...
-
-Ketcham - Joyful Food Market
-
 Stanton ES - Joyful Food Market
 
             Joyful Food Markets
@@ -1544,7 +749,7 @@ Stanton ES - Joyful Food Market
 2:00pm - 4:30pm 
 ET
 
-                    10
+                    9
 spots remaining
 
                 Position Overview:   Our Joyful Food Markets provide access to healthy and nutritious food through monthly pop-up events at more than 50 elementary schools in Wards 7 and 8. Families can shop at no cost for high-quality produce and pantry staples. T...
@@ -1556,141 +761,244 @@ Stanton ES - Joy...
 Stanton ES - Joyful Food Market
 
                 View
-
-                    2
                  More
 
-                    22
+                    19
 
-Martha's Outfitters Assistant PM
+Harvest Dinner 2026
 
-            Martha's Outfitters
+            Special Community Events
 
-12:30pm - 3:30pm 
+11:00am - 2:00pm 
 ET
 
-                    1
+                    7
+spots remaining
+
+                Position Overview:Join us for our Community Harvest Dinner, a community-wide dinner to celebrate this holiday season with our neighbors and friends. During our Harvest Dinner, we serve over 3,000 hot meals from a specially selected menu. Our H...
+
+Get Connected Icon
+
+Harvest Dinner 2...
+
+Harvest Dinner 2026
+
+Commons PM - Martha's Table Market Assistant (SE)
+
+            Healthy Markets
+
+1:00pm - 4:15pm 
+ET
+
+                    5
 spots remaining
 
                 ¡En Martha’s Table damos la bienvenida a nuestros vecinos bilingües a que se unan como voluntarios en nuestros Mercados Saludables! Su apoyo es esencial para crear un ambiente acogedor y accesible para todas las familias, ayudando a distribuir al...
 
 Get Connected Icon
 
-Martha's Outfitt...
+Commons PM - Mar...
 
-Martha's Outfitters Assistant PM
+Commons PM - Martha's Table Market Assistant (SE)
 
-King ES - Joyful Food Market
+Johnson MS - Joyful Food Market  
 
             Joyful Food Markets
 
 2:00pm - 4:30pm 
 ET
 
-                    3
+                    11
 spots remaining
 
                 Position Overview:   Our Joyful Food Markets provide access to healthy and nutritious food through monthly pop-up events at more than 50 elementary schools in Wards 7 and 8. Families can shop at no cost for high-quality produce and pantry staples. T...
 
 Get Connected Icon
 
-King ES - Joyful...
+Johnson MS - Joy...
 
-King ES - Joyful Food Market
+Johnson MS - Joyful Food Market  
 
-McKenna's Wagon Helper
+AppleTree Douglass Knoll - Joyful Food Market
 
-            McKenna's Wagon
+            Joyful Food Markets
 
-4:30pm - 7:00pm 
+2:00pm - 4:30pm 
+ET
+
+                    5
+spots remaining
+
+                Position Overview:   Our Joyful Food Markets provide access to healthy and nutritious food through monthly pop-up events at more than 50 elementary schools in Wards 7 and 8. Families can shop at no cost for high-quality produce and pantry staples. T...
+
+Get Connected Icon
+
+AppleTree Dougla...
+
+AppleTree Douglass Knoll - Joyful Food Market
+
+AppleTree Parklands ES - Joyful Food Market
+
+            Joyful Food Markets
+
+2:00pm - 4:30pm 
+ET
+
+                    11
+spots remaining
+
+                Position Overview:   Our Joyful Food Markets provide access to healthy and nutritious food through monthly pop-up events at more than 50 elementary schools in Wards 7 and 8. Families can shop at no cost for high-quality produce and pantry staples. T...
+
+Get Connected Icon
+
+AppleTree Parkla...
+
+AppleTree Parklands ES - Joyful Food Market
+
+                View
+                 More
+
+                    20
+
+Commons AM - Martha's Table Market Assistant (SE)
+
+            Healthy Markets
+
+10:30am - 1:30pm 
 ET
 
                     1
 spots remaining
 
-                NOTE: There is a strict age requirement of 15 years old to participate in this event. Registrations will be cancelled if an underage volunteer is signed up for this event. No exceptions.¡En Martha’s Table damos la bienvenida a nuestros vecinos bi...
+                ¡En Martha’s Table damos la bienvenida a nuestros vecinos bilingües a que se unan como voluntarios en nuestros Mercados Saludables! Su apoyo es esencial para crear un ambiente acogedor y accesible para todas las familias, ayudando a distribuir al...
 
 Get Connected Icon
 
-McKenna's Wagon ...
+Commons AM - Mar...
 
-McKenna's Wagon Helper
+Commons AM - Martha's Table Market Assistant (SE)
+
+Maycroft PM - Martha's Table Market Assistant (NW)
+
+            Healthy Markets
+
+12:30pm - 4:15pm 
+ET
+
+                    1
+spots remaining
+
+                ¡En Martha’s Table damos la bienvenida a nuestros vecinos bilingües a que se unan como voluntarios en nuestros Mercados Saludables! Su apoyo es esencial para crear un ambiente acogedor y accesible para todas las familias, ayudando a distribuir al...
+
+Get Connected Icon
+
+Maycroft PM - Ma...
+
+Maycroft PM - Martha's Table Market Assistant (NW)
+
+Harvest Dinner 2026
+
+            Special Community Events
+
+1:00pm - 4:00pm 
+ET
+
+                    8
+spots remaining
+
+                Position Overview:Join us for our Community Harvest Dinner, a community-wide dinner to celebrate this holiday season with our neighbors and friends. During our Harvest Dinner, we serve over 3,000 hot meals from a specially selected menu. Our H...
+
+Get Connected Icon
+
+Harvest Dinner 2...
+
+Harvest Dinner 2026
+
+Commons PM - Martha's Table Market Assistant (SE)
+
+            Healthy Markets
+
+1:00pm - 4:15pm 
+ET
+
+                    3
+spots remaining
+
+                ¡En Martha’s Table damos la bienvenida a nuestros vecinos bilingües a que se unan como voluntarios en nuestros Mercados Saludables! Su apoyo es esencial para crear un ambiente acogedor y accesible para todas las familias, ayudando a distribuir al...
+
+Get Connected Icon
+
+Commons PM - Mar...
+
+Commons PM - Martha's Table Market Assistant (SE)
 
                 View
                  More
+
+                    21
+
+                    22
 
                     23
 
-Maycroft PM - Martha's Table Market Assistant (NW)
+Neval Thomas ES - Joyful Food Market
+
+            Joyful Food Markets
+
+2:00pm - 4:30pm 
+ET
+
+                    8
+spots remaining
+
+                Position Overview:   Our Joyful Food Markets provide access to healthy and nutritious food through monthly pop-up events at more than 50 elementary schools in Wards 7 and 8. Families can shop at no cost for high-quality produce and pantry staples. T...
+
+Get Connected Icon
+
+Neval Thomas ES ...
+
+Neval Thomas ES - Joyful Food Market
+
+Garfield ES - Joyful Food Market
+
+            Joyful Food Markets
+
+2:30pm - 5:00pm 
+ET
+
+                    10
+spots remaining
+
+                Position Overview:   Our Joyful Food Markets provide access to healthy and nutritious food through monthly pop-up events at more than 50 elementary schools in Wards 7 and 8. Families can shop at no cost for high-quality produce and pantry staples. T...
+
+Get Connected Icon
+
+Garfield ES - Jo...
+
+Garfield ES - Joyful Food Market
+
+                View
+                 More
+
+                    24
+
+Commons PM - Martha's Table Market Assistant (SE)
 
             Healthy Markets
 
-12:30pm - 4:15pm 
+1:00pm - 4:15pm 
 ET
 
-                    1
+                    2
 spots remaining
 
                 ¡En Martha’s Table damos la bienvenida a nuestros vecinos bilingües a que se unan como voluntarios en nuestros Mercados Saludables! Su apoyo es esencial para crear un ambiente acogedor y accesible para todas las familias, ayudando a distribuir al...
 
 Get Connected Icon
 
-Maycroft PM - Ma...
+Commons PM - Mar...
 
-Maycroft PM - Martha's Table Market Assistant (NW)
-
-                View
-                 More
-
-24
-
-McKenna's Wagon Helper
-
-            McKenna's Wagon
-
-4:30pm - 7:00pm 
-ET
-
-                    1
-spots remaining
-
-                NOTE: There is a strict age requirement of 15 years old to participate in this event. Registrations will be cancelled if an underage volunteer is signed up for this event. No exceptions.¡En Martha’s Table damos la bienvenida a nuestros vecinos bi...
-
-Get Connected Icon
-
-McKenna's Wagon ...
-
-McKenna's Wagon Helper
-
-                View
-                 More
-
-                    25
-
-                    26
-
-Maycroft PM - Martha's Table Market Assistant (NW)
-
-            Healthy Markets
-
-12:30pm - 4:15pm 
-ET
-
-                    1
-spots remaining
-
-                ¡En Martha’s Table damos la bienvenida a nuestros vecinos bilingües a que se unan como voluntarios en nuestros Mercados Saludables! Su apoyo es esencial para crear un ambiente acogedor y accesible para todas las familias, ayudando a distribuir al...
-
-Get Connected Icon
-
-Maycroft PM - Ma...
-
-Maycroft PM - Martha's Table Market Assistant (NW)
-
-                View
-                 More
-
-                    27
+Commons PM - Martha's Table Market Assistant (SE)
 
 Plummer ES - Joyful Food Market
 
@@ -1699,7 +1007,7 @@ Plummer ES - Joyful Food Market
 2:00pm - 4:30pm 
 ET
 
-                    12
+                    2
 spots remaining
 
                 Position Overview:   Our Joyful Food Markets provide access to healthy and nutritious food through monthly pop-up events at more than 50 elementary schools in Wards 7 and 8. Families can shop at no cost for high-quality produce and pantry staples. T...
@@ -1717,7 +1025,7 @@ JC Nalle ES - Joyful Food Market
 2:00pm - 4:30pm 
 ET
 
-                    4
+                    9
 spots remaining
 
                 Position Overview:   Our Joyful Food Markets provide access to healthy and nutritious food through monthly pop-up events at more than 50 elementary schools in Wards 7 and 8. Families can shop at no cost for high-quality produce and pantry staples. T...
@@ -1731,25 +1039,127 @@ JC Nalle ES - Joyful Food Market
                 View
                  More
 
-                    28
+                    25
 
-Academy of Hope - Joyful Food Market
+Martha's Outfitters Assistant AM
 
-            Joyful Food Markets
+            Martha's Outfitters
 
-11:00am - 1:30pm 
+9:30am - 12:30pm 
 ET
 
                     1
 spots remaining
 
-                Position Overview:   Our Joyful Food Markets provide access to healthy and nutritious food through monthly pop-up events at more than 50 elementary schools in Wards 7 and 8. Families can shop at no cost for high-quality produce and pantry staples. T...
+                ¡En Martha’s Table damos la bienvenida a nuestros vecinos bilingües a que se unan como voluntarios en nuestros Mercados Saludables! Su apoyo es esencial para crear un ambiente acogedor y accesible para todas las familias, ayudando a distribuir al...
 
 Get Connected Icon
 
-Academy of Hope ...
+Martha's Outfitt...
 
-Academy of Hope - Joyful Food Market
+Martha's Outfitters Assistant AM
+
+Commons AM - Martha's Table Market Assistant (SE)
+
+            Healthy Markets
+
+10:30am - 1:30pm 
+ET
+
+                    3
+spots remaining
+
+                ¡En Martha’s Table damos la bienvenida a nuestros vecinos bilingües a que se unan como voluntarios en nuestros Mercados Saludables! Su apoyo es esencial para crear un ambiente acogedor y accesible para todas las familias, ayudando a distribuir al...
+
+Get Connected Icon
+
+Commons AM - Mar...
+
+Commons AM - Martha's Table Market Assistant (SE)
+
+Commons PM - Martha's Table Market Assistant (SE)
+
+            Healthy Markets
+
+1:00pm - 4:15pm 
+ET
+
+                    5
+spots remaining
+
+                ¡En Martha’s Table damos la bienvenida a nuestros vecinos bilingües a que se unan como voluntarios en nuestros Mercados Saludables! Su apoyo es esencial para crear un ambiente acogedor y accesible para todas las familias, ayudando a distribuir al...
+
+Get Connected Icon
+
+Commons PM - Mar...
+
+Commons PM - Martha's Table Market Assistant (SE)
+
+                View
+                 More
+
+                    26
+
+                    27
+
+                    28
+
+                    29
+
+                    30
+
+Martha's Outfitters Assistant AM
+
+            Martha's Outfitters
+
+9:30am - 12:30pm 
+ET
+
+                    2
+spots remaining
+
+                ¡En Martha’s Table damos la bienvenida a nuestros vecinos bilingües a que se unan como voluntarios en nuestros Mercados Saludables! Su apoyo es esencial para crear un ambiente acogedor y accesible para todas las familias, ayudando a distribuir al...
+
+Get Connected Icon
+
+Martha's Outfitt...
+
+Martha's Outfitters Assistant AM
+
+Food Preparation Assistant AM
+
+            McKenna's Wagon
+
+11:00am - 2:00pm
+
+                    1
+spots remaining
+
+                Position Overview:   The Food Prep Volunteer shift at Maycroft directly supports McKenna's Wagon program by preparing and packing hot meals and sandwich bags for evening meal distribution. Position Duties and Responsibilities: Follow recipe directio...
+
+Get Connected Icon
+
+Food Preparation...
+
+Food Preparation Assistant AM
+
+Commons PM - Martha's Table Market Assistant (SE)
+
+            Healthy Markets
+
+1:00pm - 4:15pm 
+ET
+
+                    9
+spots remaining
+
+                ¡En Martha’s Table damos la bienvenida a nuestros vecinos bilingües a que se unan como voluntarios en nuestros Mercados Saludables! Su apoyo es esencial para crear un ambiente acogedor y accesible para todas las familias, ayudando a distribuir al...
+
+Get Connected Icon
+
+Commons PM - Mar...
+
+Commons PM - Martha's Table Market Assistant (SE)
 
 Hendley ES - Joyful Food Market
 
@@ -1758,7 +1168,7 @@ Hendley ES - Joyful Food Market
 2:00pm - 4:30pm 
 ET
 
-                    1
+                    4
 spots remaining
 
                 Position Overview:   Our Joyful Food Markets provide access to healthy and nutritious food through monthly pop-up events at more than 50 elementary schools in Wards 7 and 8. Families can shop at no cost for high-quality produce and pantry staples. T...
@@ -1772,33 +1182,6 @@ Hendley ES - Joyful Food Market
                 View
                  More
 
-                    29
-
-Anne Beers ES - Joyful Food Market
-
-            Joyful Food Markets
-
-2:00pm - 4:30pm 
-ET
-
-                    11
-spots remaining
-
-                Position Overview:   Our Joyful Food Markets provide access to healthy and nutritious food through monthly pop-up events at more than 50 elementary schools in Wards 7 and 8. Families can shop at no cost for high-quality produce and pantry staples. T...
-
-Get Connected Icon
-
-Anne Beers ES - ...
-
-Anne Beers ES - Joyful Food Market
-
-                View
-                 More
-
-                    30
-
-                    31
-
 Facebook
 
 X/Twitter
@@ -1810,4 +1193,22 @@ Instagram
 Privacy Policy
 
 Contact Us
+
+×
+
+Our website uses cookies
+
+                                This site uses cookies to improve your experience and analyze site traffic. We do not use cookies for advertising or marketing purposes. Read more about how we use cookies in 
+Privacy Policy
+. By clicking accept, you consent to our use of cookies.
+
+Show Cookie Preferences
+
+Necessary (Always active)
+
+Analytics
+
+                                        Analytical cookies are used to understand how users interact with the website. They help provide information on metrics like number of visitors, bounce rate, traffic source, etc.
+
+Accept
 

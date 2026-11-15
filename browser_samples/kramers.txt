@@ -1,6 +1,6 @@
 Kramers
 https://kramers.com/events?field_event_category_tid=All
-rendered 2026-10-25 00:35Z  status=200 chars=18516 iframes=0 srcdoc=0 next=False error=
+rendered 2026-11-15 00:36Z  status=200 chars=18177 iframes=0 srcdoc=0 next=False error=
 
 Events
 Skip to main content
@@ -26,7 +26,7 @@ If you would like your order shipped, please visit our affiliate
 Bookshop.org
 .
 
-October 2026
+November 2026
 SU
 MO
 TU
@@ -41,58 +41,50 @@ We
 Th
 Fr
 Sa
-27
-28
-29
-30
 1
-Book Club
 2
-Author Talk
+Classic Trivia
 3
+Author Talk
 4
 5
-Classic Trivia
+Book Club
 6
 7
-Author Talk
 8
-Book Club
 9
-Poetry Reading
+Literary Trivia
 10
 11
+Author Talk
 12
-Literary Trivia
-13
-Author Talk
-14
-Author Talk
-15
 Book Club
+13
+14
+15
 16
-17
-18
-19
-Writing Workshop
+Author Talk
 Classic Trivia
-20
+17
 Writing Workshop
+Wine Tasting & Author Talk
+18
+Author Talk
+19
+Book Club
+20
 21
 22
 23
+Literary Trivia
 24
-Kramers 50th Birthday Party!
 25
 26
-Literary Trivia
-Sarah J. Maas Midnight Release
 27
 28
-Author Talk
 29
 30
-31
+Classic Trivia
 1
 2
 3
@@ -100,83 +92,32 @@ Author Talk
 5
 6
 7
-OCT
-24
+8
+9
+10
+11
+12
+NOV
+16
 2026
-Kramers 50th Birthday Party!
-Oct, 24th 2026
-7:00 PM
--
-12:00 AM
-Kramers 50th Birthday Party!
- Kramers
-We turned 50, and we want to celebrate with you!
-We’ll be hosting our 50th birthday party open to everyone on Saturday, October 24th from 7pm-midnight. 
-Read More...
-OCT
-26
-2026
-Kramers Literary Trivia
-Oct, 26th 2026
-7:30 PM
--
-8:30 PM
-Literary Trivia
- Kramers
-Are you ready to put your literary knowledge to the test? Put on your thinking caps for a night of quizzy competition hosted by Sprk Trivia (@sprk_trivia) biweekly in the Kramers lounge.
-
-Teams are registered first come, first served on the night of trivia. We recommend arriving early to get a drink at the bar and secure your spot!
-OCT
-26
-2026
-SOLD OUT! Sarah J. Maas Midnight Release (ACOTAR #6)
-Oct, 26th 2026
-10:00 PM
--
-12:00 AM
-Sarah J. Maas Midnight Release
- Kramers
-Join us for the release of the next ACOTAR book from Sarah J. Maas, 
-A Court of Forgotten Melody
-!
-Read More...
-VIEW ALL EVENTS
-Kramers Literary Trivia
-Monday Oct 26th, 2026
-7:30 PM
--
-8:30 PM
-Literary Trivia
- Kramers
-Are you ready to put your literary knowledge to the test? Put on your thinking caps for a night of quizzy competition hosted by Sprk Trivia (@sprk_trivia) biweekly in the Kramers lounge.
-
-Teams are registered first come, first served on the night of trivia. We recommend arriving early to get a drink at the bar and secure your spot!
-SOLD OUT! Sarah J. Maas Midnight Release (ACOTAR #6)
-Monday Oct 26th, 2026
-10:00 PM
--
-12:00 AM
-Sarah J. Maas Midnight Release
- Kramers
-Join us for the release of the next ACOTAR book from Sarah J. Maas, 
-A Court of Forgotten Melody
-!
-Read More...
-Buy Tickets
-Author Talk: Christina Tudor
-Wednesday Oct 28th, 2026
+Author Talk: Tom Ellison
+Nov, 16th 2026
 7:00 PM
 -
 8:00 PM
 Author Talk
  Kramers
-Christina Tudor, debut author of the collection 
-Call My Body a Cautionary Tale
-, will be in conversation with Hannah Grieco and Kristen Zory King.
+Join us for the launch of humorist Tom Ellison's new satirical book, 
+Chud Buffly’s MANTHOLOGY: 365 Alpha Maxims Guaranteed to Help You Know Everything, Feel Nothing, Get Jacked, and Never Die
+, in conversation with 
+The Atlantic
+'s Alexandra Petri!
 Read More...
-RSVP
+NOV
+16
+2026
 Kramers Classic Trivia
-Monday Nov 2nd, 2026
+Nov, 16th 2026
 7:30 PM
 -
 8:30 PM
@@ -185,55 +126,19 @@ Classic Trivia
 Are you ready to put your classic knowledge to the test? Put on your thinking caps for a night of quizzy competition hosted by Sprk Trivia (@sprk_trivia) biweekly in the Kramers lounge.
 
 Teams are registered first come, first served on the night of trivia. We recommend arriving early to get a drink at the bar and secure your spot!
-Author Talk: Joel Nelson
-Tuesday Nov 3rd, 2026
-7:00 PM
+NOV
+17
+2026
+Written in the Cards: Fiction Writing Workshop
+Nov, 17th 2026
+6:00 PM
 -
 8:00 PM
-Author Talk
+Writing Workshop
  Kramers
-Join author Joel Nelson to discuss his new book 
-Kennedy's Only Hero. 
+Join us for a generative workshop focusing on genre writing, run by writer Nikoletta Gjoni.
 Read More...
-Buy Books
-RSVP
-Kramers Literary Trivia
-Monday Nov 9th, 2026
-7:30 PM
--
-8:30 PM
-Literary Trivia
- Kramers
-Are you ready to put your literary knowledge to the test? Put on your thinking caps for a night of quizzy competition hosted by Sprk Trivia (@sprk_trivia) biweekly in the Kramers lounge.
-
-Teams are registered first come, first served on the night of trivia. We recommend arriving early to get a drink at the bar and secure your spot!
-Hope & Humanity with The Inner Loop
-Wednesday Nov 11th, 2026
-7:00 PM
--
-8:00 PM
-Author Talk
- Kramers
-Join us with The Inner Loop to explore the dark side of humanity with some hope with writers Stephanie Dupal and Shelagh Powers Johnson and moderator Rion Amilcar Scott.
-Read More...
-RSVP
-Whodunit Book Club: How To Get Away With Murder
-Thursday Nov 12th, 2026
-7:00 PM
--
-8:00 PM
-Book Club
- Kramers
-"If you picked up this book because you truly want to get away with murder, you will not be disappointed. Simply turn the page and we'll get started."
-
-Samantha Hansen has been on leave for six months, recovering from a breakdown she suffered at work, but when a fourteen-year-old girl is murdered in a local park, Sam jumps at the chance to return to the job. One of the case's only leads is a copy of a self-help book found in the victim's backpack called How To Get Away With Murder by a man named Denver Brady.
-
-Brady claims to be the most successful serial killer of our time, which is why no one's ever heard of him. 
-About the Club
-We'll be reading and discussing edge-of-your-seat thrillers each month! Feel free to grab a drink at the bar to enjoy during our book club discussion.
-Read More...
-Buy Books
-RSVP
+VIEW ALL EVENTS
 Author Talk: Tom Ellison
 Monday Nov 16th, 2026
 7:00 PM
@@ -259,6 +164,27 @@ Classic Trivia
 Are you ready to put your classic knowledge to the test? Put on your thinking caps for a night of quizzy competition hosted by Sprk Trivia (@sprk_trivia) biweekly in the Kramers lounge.
 
 Teams are registered first come, first served on the night of trivia. We recommend arriving early to get a drink at the bar and secure your spot!
+Written in the Cards: Fiction Writing Workshop
+Tuesday Nov 17th, 2026
+6:00 PM
+-
+8:00 PM
+Writing Workshop
+ Kramers
+Join us for a generative workshop focusing on genre writing, run by writer Nikoletta Gjoni.
+Read More...
+Buy Tickets
+A Blind Wine Tasting & Somm Killer Author Evening
+Tuesday Nov 17th, 2026
+6:00 PM
+-
+8:00 PM
+Wine Tasting & Author Talk
+ Kramers
+Three wines. Hidden labels. A few delicious clues.
+Ever wondered how a sommelier can taste a wine and start unraveling where it came from? Join us at Kramers to learn how it’s done, then put your own senses to the test.
+Read More...
+Buy Tickets
 Author Talk: Craig Thomas
 Wednesday Nov 18th, 2026
 7:00 PM
@@ -271,6 +197,17 @@ How I Met Your Mother
 , for a discussion about his first novel, 
 That's Not How It Happened, 
 to celebrate the book's paperback release!
+Read More...
+Buy Books
+RSVP
+Fresh Fiction Book Club: Nice Places by Vincent Chu
+Thursday Nov 19th, 2026
+7:00 PM
+-
+8:00 PM
+Book Club
+ Kramers
+Welcome to the Fresh Fiction Book Club! This month's pick is Nice Places by Vincent Chu. 
 Read More...
 Buy Books
 RSVP
@@ -354,6 +291,17 @@ Classic Trivia
 Are you ready to put your classic knowledge to the test? Put on your thinking caps for a night of quizzy competition hosted by Sprk Trivia (@sprk_trivia) biweekly in the Kramers lounge.
 
 Teams are registered first come, first served on the night of trivia. We recommend arriving early to get a drink at the bar and secure your spot!
+Whodunit Book Club: Please Enjoy Your Stay
+Thursday Jan 14th, 2027
+7:00 PM
+-
+8:00 PM
+Book Club
+ Kramers
+We'll be reading and discussing edge-of-your-seat thrillers each month! Feel free to grab a drink at the bar to enjoy during our book club discussion. This month's pick is Please Enjoy Your Stay by Tara Goedjen!
+Read More...
+Buy Books
+RSVP
 Kramers Literary Trivia
 Monday Jan 18th, 2027
 7:30 PM
@@ -556,6 +504,46 @@ Are you ready to put your classic knowledge to the test? Put on your thinking ca
 Teams are registered first come, first served on the night of trivia. We recommend arriving early to get a drink at the bar and secure your spot!
 Kramers Literary Trivia
 Monday Jun 7th, 2027
+7:30 PM
+-
+8:30 PM
+Literary Trivia
+ Kramers
+Are you ready to put your literary knowledge to the test? Put on your thinking caps for a night of quizzy competition hosted by Sprk Trivia (@sprk_trivia) biweekly in the Kramers lounge.
+
+Teams are registered first come, first served on the night of trivia. We recommend arriving early to get a drink at the bar and secure your spot!
+Kramers Classic Trivia
+Monday Jun 14th, 2027
+7:30 PM
+-
+8:30 PM
+Classic Trivia
+ Kramers
+Are you ready to put your classic knowledge to the test? Put on your thinking caps for a night of quizzy competition hosted by Sprk Trivia (@sprk_trivia) biweekly in the Kramers lounge.
+
+Teams are registered first come, first served on the night of trivia. We recommend arriving early to get a drink at the bar and secure your spot!
+Kramers Literary Trivia
+Monday Jun 21st, 2027
+7:30 PM
+-
+8:30 PM
+Literary Trivia
+ Kramers
+Are you ready to put your literary knowledge to the test? Put on your thinking caps for a night of quizzy competition hosted by Sprk Trivia (@sprk_trivia) biweekly in the Kramers lounge.
+
+Teams are registered first come, first served on the night of trivia. We recommend arriving early to get a drink at the bar and secure your spot!
+Kramers Classic Trivia
+Monday Jun 28th, 2027
+7:30 PM
+-
+8:30 PM
+Classic Trivia
+ Kramers
+Are you ready to put your classic knowledge to the test? Put on your thinking caps for a night of quizzy competition hosted by Sprk Trivia (@sprk_trivia) biweekly in the Kramers lounge.
+
+Teams are registered first come, first served on the night of trivia. We recommend arriving early to get a drink at the bar and secure your spot!
+Kramers Literary Trivia
+Monday Jul 5th, 2027
 7:30 PM
 -
 8:30 PM

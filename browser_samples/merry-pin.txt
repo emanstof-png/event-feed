@@ -1,6 +1,6 @@
 Merry Pin
 https://www.merrypindc.com/events
-rendered 2026-10-25 00:36Z  status=200 chars=5567 iframes=1 srcdoc=0 next=False error=
+rendered 2026-11-15 00:37Z  status=200 chars=4990 iframes=1 srcdoc=0 next=False error=
 
 
 
@@ -104,107 +104,27 @@ Want to see a narrowed down list of workshops and classes for kids?
 Click here.
 If an event no longer appears on the website, it does not mean it's canceled—events that are sold out no longer appear here.
 
-	Wed, Oct 21
+	Tue, Nov 10
 
-	3:30 PM
+	7:00 PM
 
-		Wednesday Open Craft Studio for Kids & Families
+		Trivia with Geeks Who Drink (11/10)
 
 		Learn More
 
-	Thu, Oct 22
+	Wed, Nov 11
 
 	6:30 PM
 
-		Crafted Dialogues: Wearing Our Masks All Year
+		Craft Witchery: New Moon Gathering (Nov)
 
 		Learn More
 
-	Fri, Oct 23
-
-	6:00 PM
-
-		Queer Crafting Night - Oct
-
-		Learn More
-
-	Sat, Oct 24
-
-	10:00 AM
-
-		Crafty Tales: The Little Ghost Who Was a Quilt
-
-		Learn More
-
-	Sat, Oct 24
-
-	10:00 AM
-
-		CRAFTOWEEN 2026
-
-		Learn More
-
-	Sat, Oct 24
+	Thu, Nov 12
 
 	6:30 PM
 
-		Practical Magic Screening - Part of CRAFTOWEEN 2026
-
-		Learn More
-
-	Sun, Oct 25
-
-	1:00 PM
-
-		Poisoned Printmaking
-
-		Learn More
-
-	Wed, Oct 28
-
-	6:30 PM
-
-		Witches Cauldron Candlemaking Workshop
-
-		Learn More
-
-	Thu, Oct 29
-
-	6:30 PM
-
-		Hand-Bound Hearth Brooms
-
-		Learn More
-
-	Sat, Oct 31
-
-	10:00 AM
-
-		Crafty Tales: Halloween
-
-		Learn More
-
-	Sun, Nov 1
-
-	10:00 AM
-
-		Shop the Halls - Early Holiday Mega Shopping Event
-
-		Learn More
-
-	Fri, Nov 6
-
-	6:30 PM
-
-		Nature Figure Drawing with Anna Beucler (Nov)
-
-		Learn More
-
-	Sat, Nov 7
-
-	10:00 AM
-
-		Crafty Tales: The Pot That Juan Built
+		Neuro Night - November
 
 		Learn More
 
@@ -216,17 +136,13 @@ If an event no longer appears on the website, it does not mean it's canceled—e
 
 		Learn More
 
-Further Ahead
-
-Want to go ahead and reserve your seat for a future workshop? Check out these upcoming workshops!
-
 	Sat, Nov 14
 
 	5:00 PM
 
 		Boozy Book Fair: 90s Edition
 
-		Get tickets
+		Learn More
 
 	Sun, Nov 15
 
@@ -234,7 +150,15 @@ Want to go ahead and reserve your seat for a future workshop? Check out these up
 
 		Make Your Own Fall Garland
 
-		Get tickets
+		Learn More
+
+	Tue, Nov 17
+
+	7:00 PM
+
+		Trivia with Geeks Who Drink (11/17)
+
+		Learn More
 
 	Wed, Nov 18
 
@@ -242,7 +166,7 @@ Want to go ahead and reserve your seat for a future workshop? Check out these up
 
 		Miniature Rustic Wooden Wall Shelf (1:12 Scale)
 
-		Get tickets
+		Learn More
 
 	Sat, Nov 21
 
@@ -250,7 +174,7 @@ Want to go ahead and reserve your seat for a future workshop? Check out these up
 
 		Crafty Tales: The Life of a Crayon
 
-		Get tickets
+		Learn More
 
 	Nov 22 - Dec 6
 
@@ -258,7 +182,7 @@ Want to go ahead and reserve your seat for a future workshop? Check out these up
 
 		Learn to Knit 101 (Nov-Dec)
 
-		Get tickets
+		Learn More
 
 	Sun, Nov 22
 
@@ -266,13 +190,25 @@ Want to go ahead and reserve your seat for a future workshop? Check out these up
 
 		Hemming and Mending by Hand (November)
 
-		Get tickets
+		Learn More
 
 	Sat, Nov 28
 
 	10:00 AM
 
 		Crafty Tales: Andy Warhol
+
+		Learn More
+
+Further Ahead
+
+Want to go ahead and reserve your seat for a future workshop? Check out these upcoming workshops!
+
+	Tue, Dec 1
+
+	7:00 PM
+
+		Trivia with Geeks Who Drink (12/1)
 
 		Get tickets
 
@@ -284,11 +220,35 @@ Want to go ahead and reserve your seat for a future workshop? Check out these up
 
 		Get tickets
 
+	Tue, Dec 8
+
+	7:00 PM
+
+		Trivia with Geeks Who Drink (12/8)
+
+		Get tickets
+
+	Thu, Dec 10
+
+	6:30 PM
+
+		Neuro Night - December
+
+		Get tickets
+
 	Sat, Dec 12
 
 	10:00 AM
 
 		Crafty Tales: Sky Color
+
+		Get tickets
+
+	Tue, Dec 15
+
+	7:00 PM
+
+		Trivia with Geeks Who Drink (12/15)
 
 		Get tickets
 
@@ -329,18 +289,6 @@ Get ready to roll with us!
 Merry Pin on the Move
  is your new opportunity to experience the accessibility, inclusivity, sustainability, and fun you love about Merry Pin, but out in the world!
 These carefully curated experiences are small groups of 15-20, allowing us a chance to build community, discover new places, and get crafty.
-
-		Beyond The Skein: A Fiber Retreat
-
-	Nov 6 - Nov 8
-
-	2:00 PM
-
-Farm in Maryland (Full address provided upon registration)
-
-	Low stock
-
-		Get tickets
 
 Frequently Asked Questions
 

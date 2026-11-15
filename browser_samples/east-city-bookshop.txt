@@ -1,6 +1,6 @@
 East City Bookshop
 https://www.eastcitybookshop.com/events
-rendered 2026-10-25 00:35Z  status=200 chars=1399 iframes=0 srcdoc=0 next=False error=
+rendered 2026-11-15 00:36Z  status=200 chars=1549 iframes=0 srcdoc=0 next=False error=
 
  Events | 
 
@@ -38,6 +38,12 @@ Prices in USD
  Powered by 
 Bookmanager
 
+✕
+
+								Become a
+
+									member
+
 Browse Books
 Browse Non-Book Items
 Gift Cards
@@ -53,7 +59,11 @@ Simone Soltani, Crash into You
 Christine Cowan, Love, Witches, and Wahala
 Nalini Singh, Cold Redemption
 Afua Bruce, Bessie the Inventor
+J M Voris, Into the Burning Deep
+Mia Sosa, The Girl from Ipanema
 Isabelle Engel, Still Falling for You
+Betty Chang, Frankie Lu's Summer of No Regrets
+B.K. Borison, Longtime Listener
 Events
 Event Queries
 Past Events
@@ -82,7 +92,7 @@ Educators
 Teacher Wish Lists
 Community Partnerships
 School Visit Book Fund
-Maury Elementary Book Fair
+Eliot-Hine Middle School Book Fair
 Our Story
 Our Values
 Our Space
@@ -90,10 +100,3 @@ Employment Opportunities
 Bulk Discount
 Consignment Sales
 Contact
-
-✕
-
-								Become a
-
-									member
-
