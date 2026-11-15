@@ -44,11 +44,23 @@ rows = [r for r in rows if start <= r["Date"] <= end]
 
 agg = {n for n, m in meta.items() if m["category"] in ("Discovery",) or "aggregator" in n.lower()}
 key = lambda r: (r["Date"], re.sub(r"\W+", "", html.unescape(r["Title"]).lower())[:40])
-best = {}
-for r in rows:
-    k = key(r)
-    if k not in best or (best[k]["Source"] in agg and r["Source"] not in agg):
-        best[k] = r
+ART = re.compile(r"art|galler|exhibit|opening|first friday|museum|reception|underground", re.I)
+NOW = sys.argv[0] and __import__("os").environ.get("NOT_BEFORE", "")   # e.g. "2026-11-14 18:00": drop what already ended
+
+def keep(r):
+    if r["Source"] == "Dupont Circle Art Walk" and not ART.search(r["Title"] + " " + r["Venue"]):
+        return False   # the BID calendar is the whole neighborhood; keep the art
+    if NOW and r["Time"] and f"{r['Date']} {r['Time']}" < NOW:
+        return False
+    return True
+
+def dedupe(rs):
+    best = {}
+    for r in rs:
+        k = key(r)
+        if k not in best or (best[k]["Source"] in agg and r["Source"] not in agg):
+            best[k] = r
+    return list(best.values())
 
 def blurb(r):
     t = re.sub(r"\s+", " ", re.sub(r"<[^>]+>", " ", html.unescape(r["raw"] or ""))).strip()
@@ -58,7 +70,7 @@ def blurb(r):
     return f"{meta.get(r['Source'], {}).get('category', 'Event')} at {r['Source']}"
 
 for lst, out in (("main", "weekend_feed.csv"), ("elite", "weekend_feed_elite.csv")):
-    sel = sorted([r for r in best.values() if lst in meta.get(r["Source"], {"lists": {"main"}})["lists"]],
+    sel = sorted(dedupe([r for r in rows if keep(r) and lst in meta.get(r["Source"], {"lists": {"main"}})["lists"]]),
                  key=lambda r: (r["Date"], r["Time"] or "99:99", r["Source"]))
     with open(out, "w", newline="", encoding="utf-8") as f:
         w = csv.writer(f)
