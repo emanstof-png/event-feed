@@ -1,8 +1,9 @@
 The Washington Ballet
 https://www.washingtonballet.org/events/
-fetched 2026-10-25 02:36Z  status=200 chars=4258 error=
+fetched 2026-11-15 00:19Z  status=200 chars=4208 error=
 
 Events | The Washington Ballet
+			Due to the Microsoft outage, our email is temporarily down. We’ll reply to messages as soon as service is restored. Thank you for your patience.		
 Home
 Calendar
 Donate
@@ -149,14 +150,6 @@ Season:
  All
  Class
  Event
-            Go-Go 50          
-October 30–November 1, 2026
-Buy Tickets
-Learn More
-            Trainee Program Fall Showcase 2026          
-Friday, November 6-Sunday, November 8
-Buy Tickets
-Learn More
             The Nutcracker          
 Saturday, November 28 – December 27, 2026
 Buy Tickets

@@ -1,6 +1,6 @@
 The Phillips Collection
 https://www.phillipscollection.org/events
-fetched 2026-10-25 02:36Z  status=200 chars=4749 error=
+fetched 2026-11-15 00:19Z  status=200 chars=4583 error=
 
 Events | The Phillips Collection
         Skip to main content
@@ -51,7 +51,7 @@ Community Exhibitions
 Library & Archives
 Toggle Menu
 Archives
-Watch & Listen
+Watch, Listen, Read
 Support Us
 Toggle Menu
 Membership
@@ -63,7 +63,6 @@ Annual Gala
 Ways to Give
 Donate Now
 About
-Blog
 Phillips@THEARC
 Shop
 Toggle Site Search
@@ -93,66 +92,66 @@ Phillips after 5
 Wellness
 From Date:
 To Date
+Drop-in Family Program
+                    November 14, 2026, 10 am-1 pm
+The Phillips Plays
+        Registration Open
+        /        In-Person
 Sunday Concert
-                    October 25, 2026, 4-6 PM
-Radu Ratoi & Benett Tsai 
+                    November 15, 2026, 4-6 PM
+Henry Kramer
         Rush and standby tickets
         /        In-Person
+Performances
+                    November 19, 2026, 6:30-7:30 pm
+Alchemy Ballet: Avery, Gottlieb & Rothko: By the Sea
+        Sold Out
+        /        In-Person
+Extended Hours
+                    November 19, 2026, 5-8 pm
+Third Thursday
+        Registration Open
+        /        Free / In-Person
+Sunday Concert
+                    November 22, 2026, 4-6 PM
+Catalyst Quartet 
+        Sold Out
+        /        In-Person
 Art & Wellness
-                    October 26, 2026, 1-3 pm
+                    November 23, 2026, 1-3 pm
 Reframing Care
         Registration Open
         /        Free / In-Person
-5-Week Educator Course
-                    Wednesdays, October 28-December 9, 2026, 5-7 pm
-Powered by Artists: Art and Storytelling
-        Waitlist
-        /        Free / Online
-Living Room
-                    October 30, 2026, 12-1 pm
-Duncan Phillips’s Support of Avery, Gottlieb & Rothko
-        Sold Out
-        /        In-Person
-Sunday Concert
-                    November 1, 2026, 4-6 PM
-Nikolaj Hess Trio
-        Sold Out
-        /        In-Person
-Teacher Program
-                    November 3, 2026, 5-7:30 pm
-Evening for Educators: Your Voice, Your Vote
-        Registration Open
-        /        Free / In-Person
 Phillips after 5
-                    November 5, 2026, 5-8:30 pm
-Deep Sea Disco
+                    December 3, 2026, 5-8:30 pm
+Holiday Nordic Nights
         Registration Open
         /        In-Person
 Phillips@THEARC Workshop
-                    November 7, 2026, 1-3 pm
-Studio Saturday with Aliana Grace Bailey
+                    December 5, 2026, 1-3 pm
+Studio Saturday with Imani Gonzalez 
         Registration Open
         /        Free / In-Person
-Member Tour
-                    November 8, 2026, 10-11 am
-Avery, Gottlieb & Rothko: By the Sea Members-Only Tour
-        Registration Open
-        /        Free / Members
 Sunday Concert
-                    November 8, 2026, 4-6 PM
-Prism Piano Trio
+                    December 6, 2026, 4-6 PM
+Martin Labazevitch & Stanislav Khristenko 
         Sold Out
         /        In-Person
 Phillips@THEARC
-                    November 11, 2026, 6:30-8:30 pm
+                    December 9, 2026, 6:30-8:30 pm
 Crochet Circle
         Registration Open
         /        Free / In-Person
 Wellness
-                    November 11, 2026, 12-12:30 pm
+                    December 9, 2026, 12-12:30 pm
 Body Scan Meditations with Megan Twining
         Registration Open
         /        Free / Online
+Living Room
+                    December 11, 2026, 12-1 pm
+Conservation Insights on Avery, Gottlieb & Rothko
+        Registration Open
+        /        In-Person
 Pagination
               Current page
 1
@@ -162,8 +161,6 @@ Pagination
 3
               Page
 4
-              Page
-5
             Next 
 Page
 Spotlight Talks
@@ -171,8 +168,6 @@ Thursday-Sunday, 1 & 1:30 pm
 Join a Phillips educator for a 15-minute Spotlight Talk on a work in the permanent collection or special exhibition. 
 No reservations required
 Plan Your Visit
-Help us continue to serve our community by providing free virtual events.
-Make a donation
 Missed an event?
 Visit our YouTube page to catch up!
 See videos

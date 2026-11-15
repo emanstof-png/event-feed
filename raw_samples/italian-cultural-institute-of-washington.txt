@@ -1,6 +1,6 @@
 Italian Cultural Institute of Washington
 https://iicwashington.esteri.it/en/eventi/
-fetched 2026-10-25 02:36Z  status=200 chars=3870 error=
+fetched 2026-11-15 00:19Z  status=200 chars=3958 error=
 
 Events – Istituto Italiano di Cultura di Washington
 This site uses technical (necessary) and analytics cookies. 
@@ -45,13 +45,13 @@ Reset
 Show results
 On going
  Thu Oct 08 2026
-Thu Jan 28 2027                                    
+Fri Jan 22 2027                                    
 exhibition > Art and Life in Imperial Rome. Trajan and His Time
-On view until January 28, 2027 The Embassy of Italy and the Italian Cultural Institute of Washington present “Art and Life in Imperial Rome. Trajan and His Time”—an exhibition showcasing the Roman Empire’s golden age. Step into the world of Trajan, when Rome’s reach and influence extended across three continents, through the art, artifacts, and […]
+On view until January 22, 2027 The Embassy of Italy and the Italian Cultural Institute of Washington present “Art and Life in Imperial Rome. Trajan and His Time”—an exhibition showcasing the Roman Empire’s golden age. Step into the world of Trajan, when Rome’s reach and influence extended across three continents, through the art, artifacts, and […]
 Read more
- Mon Oct 26 2026                                    
-cinema> School of Life
-Join us for a screening of the documentary School of Life, followed by a conversation with its protagonist, Nicolò Govoni. About the film In many places, school is where children grow. In others, it can save their lives. This documentary takes you into the Still I Rise schools, founded to bring excellent, free education to […]
+ Wed Dec 09 2026                                    
+book > Enterprise & Vision: The Story of Adriano Olivetti
+Discover Adriano Olivetti, the visionary who helped shape the future of computing while redefining the role of business in society.Edited by Prof. Luigi Troiani, this book celebrates Olivetti’s extraordinary legacy of innovation, design, and human dignity. Prof. Troiani will be joined for the presentation by Marco Zeppieri, Vice President of the Fondazione Buozzi. This event […]
 Read more
 Pagination
 NAVIGATE IN THE SECTION

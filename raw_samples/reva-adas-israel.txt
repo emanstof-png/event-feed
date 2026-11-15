@@ -1,6 +1,6 @@
 Reva (Adas Israel)
 https://www.adasisrael.org/reva
-fetched 2026-10-25 02:36Z  status=200 chars=13658 error=
+fetched 2026-11-15 00:20Z  status=200 chars=14011 error=
 
 Reva - 20s, 30s, early 40s - Adas Israel Congregation
                              I need human help to enter verification code (office hours only)
@@ -38,6 +38,7 @@ Learn
                     B'nai Mitzvah @ Adas                                
                     Tricks of the Trope                                
                     Israel Engagement                                
+                    Voices of Adas Podcast                                
                     Garden Of The Righteous                                
                     The Library                                
                     Awake Podcast                                
@@ -98,14 +99,19 @@ Dates: August 14, October 30, February 26, April 30
 The evening unfolds in three parts: an elevated happy hour, a spirited Kabbalat Shabbat service, and a shared dinner. Come as you are and bring your whole self as we welcome Shabbat together, taking time to care for ourselves, build community, and connect with something larger than ourselves. Whether Shabbat is already part of your rhythm or this is your very first experience, you'll find a place here.
 Please register in advance: 
 • 
-Friday, October 30, 2026: 
-Register Here
-• 
 Friday, February 26, 2027: 
-Register Here
+Register Here for Dinner
+; 
+Register Here for Happy Hour
 • 
 Friday, April 30, 2027: 
-Register Here
+Register Here for Dinner
+; 
+Register Here for Happy Hour
+• 
+Friday, August 14, 2026:  Registration has closed
+• 
+Friday, October 30, 2026:  Registration has closed
 Love to sing or new to the melodies?  
 Join Rabbi Anina Dassa and our Adas musicians for an "open rehearsal" on 
 Wednesday, October 28th
@@ -122,9 +128,11 @@ Dates:
 • 
 Elul Nature Walk: August 22, 2026 - 
 Register Here
+ (Registration has closed) 
 • 
 Fall Nature Walk: November 7, 2026 - 
 Register Here
+ (Registration has closed) 
 • 
 Tu B’Shevat Nature Walk: January 23, 2027 - 
 Register Here
@@ -136,6 +144,7 @@ Sukkot & Succulents: Paint, Plant, & Connect
 September 30, 2026 at 7:30pm 
 - 
 Register Here
+ (Registration has closed) 
 Brunch & Learn with Rabbi Anina Dassa
 			Gather and learn with Rabbi Dassa. Topics vary; click the registration links to learn more about each session's topic! 
 Space is limited, so please register in advance
@@ -145,6 +154,7 @@ Dates:
 Sunday, November 8, 2026, 1:00pm-2:30pm - "
 The Value-Driven Life" - 
 Register Here
+ (Registration has closed) 
 • 
 Sunday, December 13, 2026, 10:30am-12pm - "Rooted, Anywhere" - 
 Register Here
@@ -155,13 +165,13 @@ Sunday, June 6, 2027, 10:30am-12pm - Topic & Registration coming soon! 
 Reva Cooks with Hesed @ Adas 
 			Join Reva and the 
 Adas Israel Hesed Committee
- to prepare food for those in need. Led by Chef Dan Traster and Bonnie Benwick, co-chairs of the Hesed Cooking Team, we will work together to make something delicious! 
+ to prepare food for those in need. Led by Chef Dan Traster and Bonnie Benwick, co-chairs of the Hesed Cooking Team, we will work together to make something delicious! 
+Space is limited, so please register in advance
+. 
 Dates:
 • 
 Sunday, November 15, 2026, at 1:00pm - 
 Register Here
- (s
-pots are limited)
 • 
 Wednesday, April 7, 2026, at 6:30pm - Registration link coming soon! 
 Hanukkah, Havdalah, and Zoolights
@@ -210,7 +220,7 @@ membership page
  and/or reach out to 
 Emma Fensterheim
 !
-            Sat, October 24, 2026 13 Cheshvan 5787        
+            Sat, November 14, 2026 4 Kislev 5787        
 Reach Out
 Adas Israel Congregation
 			2850 Quebec St. NW
@@ -231,4 +241,3 @@ Privacy Policy
                     Website Terms                
 ©2026 All rights reserved. Find out more about 
 Shulcloud
-  |  v8.1

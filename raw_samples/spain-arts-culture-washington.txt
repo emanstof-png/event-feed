@@ -1,6 +1,41 @@
 SPAIN arts & culture (Washington)
 https://www.spainculture.us/city/washington-dc/feed/
-fetched 2026-10-25 02:36Z  status=25 items chars=16945 error=
+fetched 2026-11-15 00:19Z  status=25 items chars=16669 error=
+
+Spanish Dance Workshop by Cristina Cazorla
+Fri, 20 Nov 2026 11:30:00 -0500
+<p><img alt="Spanish Dance Workshop by Cristina Cazorla" src="https://www.spainculture.us/site/assets/files/9547/cristina-cazorla-orimel-grupo-scaled-2159192665.-grande.jpg" /></p><p><strong>Date:</strong> Nov 20, 2026</p><p><strong>Address:</strong> Spanish Cultural Center, 2801 16th St NW, Washington, DC 20009</p><p>Spanish dancer Cristina Cazorla presents a workshop in which the audience will be able to discover the many types of Spanish dances, including flamenco, in a hands on experience.</p>
+https://www.spainculture.us/city/washington-dc/spanish-dance-workshop-by-cristina-cazorla/
+
+Spanish Stories Take the Stage
+Thu, 19 Nov 2026 18:30:00 -0500
+<p><img alt="Spanish Stories Take the Stage" src="https://www.spainculture.us/site/assets/files/9540/portadas_web_4.-grande.jpg" /></p><p><strong>Date:</strong> Nov 19, 2026</p><p><strong>Address:</strong> Spanish Cultural Center, 2801 16th St NW, Washington, DC 20009</p><p>Two remarkable encounters between Spain and the United States take center stage in this new presentation of Microtheater 250, featuring contemporary Spanish plays performed in English.</p>
+https://www.spainculture.us/city/washington-dc/microtheater-250-across-the-atlantic-from-the-page-to-the-stage/
+
+Spanish Young Music Talents: Amarilis Dueñas in Washington, DC
+Wed, 18 Nov 2026 18:30:00 -0500
+<p><img alt="Spanish Young Music Talents: Amarilis Dueñas in Washington, DC" src="https://www.spainculture.us/site/assets/files/9546/670859594_18115905883689911_2976271345057332570_n.-grande.jpg" /></p><p><strong>Date:</strong> Nov 18 &ndash; Nov 19, 2026</p><p><strong>Address:</strong> Multiple locations, Washington, DC</p><p>Spanish Viola da Gamba player and cellist Amarilis Dueñas presents an artistic journey through the evocative world of the viola da gamba, exploring the rich connections between historical instruments and early music.</p>
+https://www.spainculture.us/city/washington-dc/amarilis-duenas-in-washington-dc/
+
+From Salamanca to Philadelphia
+Thu, 12 Nov 2026 18:00:00 -0500
+<p><img alt="From Salamanca to Philadelphia" src="https://www.spainculture.us/site/assets/files/9549/ngb_page-0001.-grande.jpg" /></p><p><strong>Date:</strong> Nov 12, 2026</p><p><strong>Address:</strong> Spanish Cultural Center, 2801 16th Street NW Washington, DC 20009</p><p>This event explores the historical contributions of Spain and the Hispanic world to the founding of the United States, highlighting the intellectual, cultural, and political connections between Salamanca and Philadelphia.</p>
+https://www.spainculture.us/city/washington-dc/from-salamanca-to-filadelfia/
+
+The Ambassador Who Changed History
+Tue, 10 Nov 2026 18:30:00 -0500
+<p><img alt="The Ambassador Who Changed History" src="https://www.spainculture.us/site/assets/files/9530/2.-grande.jpeg" /></p><p><strong>Date:</strong> Nov 10, 2026</p><p><strong>Address:</strong> Spanish Cultural Center, 2801 16th St NW, Washington, DC 20009.</p><p>The documentary “The Ambassador Who Changed History” explores the life and legacy of the 10th Count of Aranda and Spain’s key diplomatic role in supporting American independence during the Revolutionary War.</p>
+https://www.spainculture.us/city/washington-dc/the-ambassador-who-changed-history/
+
+Las Migas 2026 US Tour in Washington, DC
+Sun, 08 Nov 2026 19:00:00 -0500
+<p><img alt="Las Migas 2026 US Tour in Washington, DC" src="https://www.spainculture.us/site/assets/files/9535/las-migas.-grande.jpg" /></p><p><strong>Date:</strong> Nov 8, 2026</p><p><strong>Address:</strong> The Music Center at Strathmore, 5301 Tuckerman Ln, North Bethesda, MD 20852</p><p>In this concert, Las Migas will showcase their distinctive fusion of traditional flamenco and contemporary influences, highlighting the diversity and international reach of Spain’s music scene.</p>
+https://www.spainculture.us/city/washington-dc/las-migas-2026-us-tour-in-washington-dc/
+
+DC Jazz Festival Fishman Embassy Series featuring Andrea Motis
+Fri, 06 Nov 2026 18:30:00 -0500
+<p><img alt="DC Jazz Festival Fishman Embassy Series featuring Andrea Motis" src="https://www.spainculture.us/site/assets/files/9532/image00003_copia_1.-grande.jpg" /></p><p><strong>Date:</strong> Nov 6, 2026</p><p><strong>Address:</strong> Spanish Cultural Center, 2801 16th Street NW Washington, DC 20009</p><p>This concert features trumpeter and singer Andrea Motis and guitarist Josep Traver, who perform a duo concert blending jazz, country, blues, singer-songwriter music, and Brazilian sounds.</p>
+https://www.spainculture.us/city/washington-dc/dc-jazz-festival-fishman-embassy-series-featuring-andrea-motis/
 
 Edgar P. Richardson Symposium 2026
 Fri, 06 Nov 2026 09:30:00 -0500
@@ -9,18 +44,23 @@ https://www.spainculture.us/city/washington-dc/edgar-p-richardson-symposium/
 
 Science Over Coffee: Cancer Treatment Innovations
 Fri, 06 Nov 2026 09:00:00 -0500
-<p><img alt="Science Over Coffee: Cancer Treatment Innovations" src="https://www.spainculture.us/site/assets/files/9513/cwpf6.-grande.jpg" /></p><p><strong>Date:</strong> Nov 6, 2026</p><p><strong>Address:</strong> Spanish Cultural Center, 2801 16th St NW, Washington, DC 20009</p><p>Spanish medicinal chemist Laia Josa-Culleré and NIH chemist Dr. Daniel Appella discuss precision chemotherapy and novel molecular strategies for targeted cancer treatment.</p>
+<p><img alt="Science Over Coffee: Cancer Treatment Innovations" src="https://www.spainculture.us/site/assets/files/9513/cwpf6.-grande.jpg" /></p><p><strong>Date:</strong> Nov 6, 2026</p><p><strong>Address:</strong> Spanish Cultural Center, 2801 16th St NW, Washington, DC 20009</p><p>Spanish medicinal chemist Dr. Laia Josa-Culleré and NIH chemist Dr. Daniel Appella discuss precision chemotherapy and novel molecular strategies for targeted cancer treatment.</p>
 https://www.spainculture.us/city/washington-dc/science-over-coffee-cancer-treatment-innovations/
 
-XXI Fuego Flamenco Festival
-Thu, 05 Nov 2026 00:00:00 -0500
-<p><img alt="XXI Fuego Flamenco Festival" src="https://www.spainculture.us/site/assets/files/9514/danzas_solemnes_premieres_at_gala_in_november__photo_courtesy_cristina_cazorla.-grande.jpg" /></p><p><strong>Date:</strong> Nov 5 &ndash; Nov 22, 2026</p><p><strong>Address:</strong> GALA Hispanic Theatre, 3333 14th St NW, Washington, DC 20010</p><p>Celebrating its 22th edition, &quot;Fuego Flamenco Festival&quot; highlights the leading flamenco artists from Spain and the U.S. in an extended two-week festival to promote the art of flamenco.</p>
-https://www.spainculture.us/city/washington-dc/festival-fuego-flamenco-xxii/
+La Bola Negra at AFI
+Fri, 06 Nov 2026 00:00:00 -0500
+<p><img alt="La Bola Negra at AFI" src="https://www.spainculture.us/site/assets/files/9529/la-bola-negra_1.-grande.jpg" /></p><p><strong>Date:</strong> Nov 6 &ndash; Nov 12, 2026</p><p><strong>Address:</strong> AFI Silver Theatre and Cultural Center, 8633 Colesville Rd, Silver Spring, MD 20910</p><p>La Bola Negra, Spain’s 2027 Oscar Selection, directed by Javier Calvo and Javier Ambrossi, explores queer identity, memory, and the legacy of Federico García Lorca across three generations.</p>
+https://www.spainculture.us/city/washington-dc/la-bola-negra-at-afi/
 
 SPAIN Dances: Fonsi López and The Washington School of Ballet Trainees
 Thu, 05 Nov 2026 00:00:00 -0500
 <p><img alt="SPAIN Dances: Fonsi López and The Washington School of Ballet Trainees" src="https://www.spainculture.us/site/assets/files/9517/img_0491.-grande.jpeg" /></p><p><strong>Date:</strong> Nov 5 &ndash; Nov 8, 2026</p><p><strong>Address:</strong> Spanish Cultural Center and The Washington Ballet, Washington, DC</p><p>This immersive dance performance by choreographer Fonsi Lopez has been created for the Washington Ballet Trainees, inspired by the collection and themes of desire, value, and necessity.</p>
 https://www.spainculture.us/city/washington-dc/spain-dances-fonsi-lopez-and-the-washington-ballet-trainees/
+
+XXII Fuego Flamenco Festival
+Thu, 05 Nov 2026 00:00:00 -0500
+<p><img alt="XXII Fuego Flamenco Festival" src="https://www.spainculture.us/site/assets/files/9514/danzas_solemnes_premieres_at_gala_in_november__photo_courtesy_cristina_cazorla.-grande.jpg" /></p><p><strong>Date:</strong> Nov 5 &ndash; Nov 22, 2026</p><p><strong>Address:</strong> GALA Hispanic Theatre, 3333 14th St NW, Washington, DC 20010</p><p>Celebrating its 22th edition, &quot;Fuego Flamenco Festival&quot; highlights the leading flamenco artists from Spain and the U.S. in an extended two-week festival to promote the art of flamenco.</p>
+https://www.spainculture.us/city/washington-dc/festival-fuego-flamenco-xxii/
 
 Frank Maza 2026 US Tour in Washington, DC
 Mon, 02 Nov 2026 19:30:00 -0500
@@ -32,9 +72,9 @@ Fri, 30 Oct 2026 17:30:00 -0400
 <p><img alt="Lara Moreno at the Ibero-American Literature Festival 2026" src="https://www.spainculture.us/site/assets/files/9515/portadas_web_3.-grande.jpg" /></p><p><strong>Date:</strong> Oct 30, 2026</p><p><strong>Address:</strong> Dupont Underground, 19 Dupont Cir NW, Washington, DC 20036</p><p>Spanish writer Lara Moreno joins the fourth annual &quot;Ibero-American Literature Festival&quot; in Washington, D.C., for a conversation on literary creativity and the challenges artificial intelligence poses to writing and authorship.</p>
 https://www.spainculture.us/city/washington-dc/lara-moreno-at-the-ibero-american-literature-festival-2026/
 
-Lara Moreno at Casa Hispánica
+Lara Moreno in Washington, DC
 Tue, 27 Oct 2026 18:00:00 -0400
-<p><img alt="Lara Moreno at Casa Hispánica" src="https://www.spainculture.us/site/assets/files/9523/copy_jairo_vargas_2.-grande.jpg" /></p><p><strong>Date:</strong> Oct 27, 2026</p><p><strong>Address:</strong> Casa Hispánica, 612 W 116th St, New York, NY 10027</p><p>Spanish writer Lara Moreno explores the intersections of intimacy, literature, and politics in a conversation spanning fiction, poetry, and essay, moderated by Jana Soler Libran.</p>
+<p><img alt="Lara Moreno in Washington, DC" src="https://www.spainculture.us/site/assets/files/9523/copy_jairo_vargas_2.-grande.jpg" /></p><p><strong>Date:</strong> Oct 27, 2026</p><p><strong>Address:</strong> Casa Hispánica, 612 W 116th St, New York, NY 10027</p><p>Spanish writer Lara Moreno explores the intersections of intimacy, literature, and politics in a conversation spanning fiction, poetry, and essay, moderated by Jana Soler Libran.</p>
 https://www.spainculture.us/city/washington-dc/lara-moreno-at-casa-hispanica/
 
 TorcuArt Flamenco Gala 2026
@@ -86,43 +126,3 @@ Science Over Coffee: Wildlife Conservation
 Fri, 02 Oct 2026 09:00:00 -0400
 <p><img alt="Science Over Coffee: Wildlife Conservation" src="https://www.spainculture.us/site/assets/files/9458/chasing_monarchs_photo_3_3.-grande.jpg" /></p><p><strong>Date:</strong> Oct 2, 2026</p><p><strong>Address:</strong> Spanish Cultural Center, 2801 16th St NW, Washington, DC 20009</p><p>Spanish scientist, photographer, and National Geographic Explorer Jaime Rojo and NOAA environmental policy specialist Dr. Seth Sykora-Bodie discuss wilderness conservation, large-landscape connectivity, presented with National Geographic.</p>
 https://www.spainculture.us/city/washington-dc/science-over-coffee-wildlife-conservation/
-
-Cheuse Center Writer-in-Residence Marina Perezagua in the DMV Area
-Mon, 28 Sep 2026 00:00:00 -0400
-<p><img alt="Cheuse Center Writer-in-Residence Marina Perezagua in the DMV Area" src="https://www.spainculture.us/site/assets/files/9456/3.-grande.jpg" /></p><p><strong>Date:</strong> Sep 28 &ndash; Sep 29, 2026</p><p><strong>Address:</strong> Busboys and Poets, 2021 14th St NW, Washington, DC 20009</p><p>Marina Perezagua joins the Alan Cheuse International Writers Center’s 2026 International Writers Festival, bringing her distinctive perspective on the United States to a program devoted to literature, translation, and cross-cultural exchange.</p>
-https://www.spainculture.us/city/washington-dc/cheuse-center-writer-in-residence-marina-perezagua-in-the-dmv-area/
-
-Trencadís: A Little of Gaudí
-Sun, 27 Sep 2026 11:00:00 -0400
-<p><img alt="Trencadís: A Little of Gaudí" src="https://www.spainculture.us/site/assets/files/9470/parc-gueell-barcelona-dragon-by-antoni-gaudi-ca-1914-9a9499c2-9774-4d50-8828-62b9b1c8fe7f-3062043548.-grande.jpg" /></p><p><strong>Date:</strong> Sep 27, 2026</p><p><strong>Address:</strong> The Plaza at National Children&apos;s Museum, Woodrow Wilson Plaza, 1300 Pennsylvania Ave NW, Washington, DC 20004</p><p>Step into the colorful world of Gaudí for a day of creativity, imagination, and hands-on fun inspired by Spain’s architect.</p>
-https://www.spainculture.us/city/washington-dc/trencadis-a-little-of-gaudi/
-
-Pulse by Company E
-Sat, 26 Sep 2026 11:30:00 -0400
-<p><img alt="Pulse by Company E" src="https://www.spainculture.us/site/assets/files/9466/spacecraft-astronauts-apollo-17-image-earth-moon-1972-3727435691.-grande.jpg" /></p><p><strong>Date:</strong> Sep 26, 2026</p><p><strong>Address:</strong> The Grove (in front of the Pendry Hotel), The Wharf DC, 101 District Square SW, Washington, DC 20024</p><p>Company E present their new work &quot;PULSE&quot;, a chase to find the pulse of the earth, featuring original music by Spanish composer and pianist Laura Ballestrino.</p>
-https://www.spainculture.us/city/washington-dc/pulse-by-company-e/
-
-From the Louvre: Masterpieces of Islamic Art
-Sat, 26 Sep 2026 00:00:00 -0400
-<p><img alt="From the Louvre: Masterpieces of Islamic Art" src="https://www.spainculture.us/site/assets/files/9501/from-the-louvre_exh-page-hero_2086x1066px-1632x834.-grande.jpg" /></p><p><strong>Date:</strong> Sep 26 &ndash; Jan 18, 2027</p><p><strong>Address:</strong> National Museum of Asian Art, 1050 Independence Ave SW, Washington, DC 20004</p><p>The exhibition explores Islamic Spain’s artistic and cultural heritage in the broader history of Islamic art, featuring an Andalusian bronze lion.</p>
-https://www.spainculture.us/city/washington-dc/from-the-louvre-masterpieces-of-islamic-art-at-the-national-museum-of-asian-art/
-
-The Song Is You: Classic American Popular Song and Its Sources
-Wed, 23 Sep 2026 19:30:00 -0400
-<p><img alt="The Song Is You: Classic American Popular Song and Its Sources" src="https://www.spainculture.us/site/assets/files/9440/songisyou.-grande.jpg" /></p><p><strong>Date:</strong> Sep 23, 2026</p><p><strong>Address:</strong> Shakespeare Theatre Company, Klein Theatre, 450 7th St NW, Washington, DC 20004</p><p>Spanish conductor Ángel Gil-Ordóñez leads the PostClassical Ensemble in &quot;The Song Is You,&quot; a journey through classic American popular song and its sources, exploring its roots and musical evolution.</p>
-https://www.spainculture.us/city/washington-dc/the-song-is-you-classic-american-popular-song-and-its-sources/
-
-Spain and the American Revolution with Smithsonian Associates
-Thu, 17 Sep 2026 18:00:00 -0400
-<p><img alt="Spain and the American Revolution with Smithsonian Associates" src="https://www.spainculture.us/site/assets/files/9427/bernardo-de-galvez-escalera.-grande.jpg" /></p><p><strong>Date:</strong> Sep 17, 2026</p><p><strong>Address:</strong> Spanish Cultural Center, 2801 16th St NW, Washington, DC 20009</p><p>Historian Larrie D. Ferreiro examines Spain’s support for American independence and the military leadership of Bernardo de Gálvez.</p>
-https://www.spainculture.us/city/washington-dc/spain-and-the-american-revolution-with-smithsonian-associates/
-
-Spain and the U.S.: Past, Present and Future
-Thu, 17 Sep 2026 12:00:00 -0400
-<p><img alt="Spain and the U.S.: Past, Present and Future" src="https://www.spainculture.us/site/assets/files/9441/presentacion_revista_occidente_-_170926.-grande.jpg" /></p><p><strong>Date:</strong> Sep 17, 2026</p><p><strong>Address:</strong> Intercultural Center (ICC), McGhee Library, ICC 301, Georgetown University, 1501 Tondorf Rd, Washington, DC 20057</p><p>This presentation features the special issue of &quot;Revista de Occidente&quot; marking the 250th anniversary of U.S. independence and exploring U.S.-Spain relations, with contributions from Federico Steinberg, Fernando Vallespín, and Roger Senserrich.</p>
-https://www.spainculture.us/city/washington-dc/spain-and-the-us-past-present-and-future/
-
-Hidden Allies: Spain's Missing Chapter in American Independence
-Wed, 16 Sep 2026 17:30:00 -0400
-<p><img alt="Hidden Allies: Spain&apos;s Missing Chapter in American Independence" src="https://www.spainculture.us/site/assets/files/9455/hidden-allies.-grande.jpg" /></p><p><strong>Date:</strong> Sep 16, 2026</p><p><strong>Address:</strong> US Navy Memorial Plaza, 701 Pennsylvania Ave NW, Washington, DC 20004</p><p>This documentary explores a lesser-known chapter of the shared history between Spain and the United States.</p>
-https://www.spainculture.us/city/washington-dc/hidden-allies/

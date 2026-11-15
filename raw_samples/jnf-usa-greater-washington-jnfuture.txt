@@ -1,6 +1,6 @@
 JNF-USA Greater Washington (JNFuture)
 https://www.jnf.org/jnf-in-your-area/midatlantic
-fetched 2026-10-25 02:36Z  status=200 chars=5436 error=
+fetched 2026-11-15 00:19Z  status=200 chars=5784 error=
 
 Find Out About Upcoming Events in MidAtlantic | JNF
 Skip to Main Content
@@ -140,11 +140,11 @@ Shari Kalish
 Event Strategist, Northeast
 + View All Professionals
 UPCOMING EVENTS
-Thursday
-NOV
-12
-9:00 AM
-Global Conference for Israel 2026
+Wednesday
+JAN
+13
+12:00 PM
+Exclusive Sapphire Society Insider Briefing
 REGISTER
 Monday
 FEB
@@ -163,13 +163,15 @@ First Name
 Last Name
 Email
 Mobile Phone
+Select a choice
+                I agree to receive text messages
 New code
 Please type the code above
 Submit
-By providing a telephone number and submitting this form, you are consenting to be contacted by SMS/MMS text message (our message frequency may vary). Message & data rates may apply. Reply Stop2End. See our 
-Terms of Service
- and 
+By entering your phone number and selecting to opt in, you consent to join a recurring SMS/MMS text messaging program that will provide alerts, donation requests, updates, and other important information. By participating, you agree to the terms & privacy policy for auto dialed messages to the phone number you provide. Msg & data rates may apply. Msg frequency varies. Reply HELP for help or STOP to opt-out at any time. SMS information is not rented, sold, or shared. View 
 Privacy Policy
+ and 
+Terms & Conditions
 .
 Phone:
 800.JNF.0099
