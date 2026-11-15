@@ -30,7 +30,7 @@ Space
 Arts & Culture
 show submenu for Arts & Culture
 Irene and Richard Frary Gallery
-Sam Gilliam Lecture Series
+Sam Gilliam Lecture
 Stories That Matter Film Series
 Peabody Performance series
 Permanent Art Installations
@@ -55,132 +55,34 @@ Filters
 Filter by Category
 Category
 All
-Arts + Culture
-Fun Stuff
-Social Events
-Faculty + Staff Honors
-Government + Policy
-International Relations + Foreign Policy
-Speakers
 Business
-Conferences
-Arts + Humanities
-Health + Medicine
-Lectures + Symposiums
+Film + Media
+Information Sessions
 Science + Technology
+Conferences
 Social Sciences
+Government + Policy
+Health + Medicine
+Arts + Culture
+Arts + Humanities
+Lectures + Symposiums
+Arts + STEM
 Music
 Dance
 Theater + Performance
-Careers + Networking
-Arts + STEM
 Filter by School
 School
 All
-SAIS
 Carey Business School
-Peabody Institute
 School of Public Health
 School of Arts and Sciences
 School of Medicine
+Peabody Institute
 Jump to Month
 Jump to Month
 All
-October
 November
 December
-October 26, 2026
-8 a.m. - 6 p.m. EDT
-
-                International Conference on Organoid Intelligence            
-The inaugural International Conference on Organoid Intelligence will bring together researchers working at the intersection of brain organoids, neuroscience, bioengineering, AI, biocomputing, and ethics.
-
-            Read More
-        
-October 28, 2026
-8:30 a.m. - 3:30 p.m. EDT
-Carey Business School
-
-                Johns Hopkins Alternative Real Estate Conference: Healthcare Real Estate            
-Johns Hopkins Carey Business School’s Alternative Real Estate Asset Series will explore the growing demand, trends, and opportunities in outpatient healthcare real estate. Demand is still outpacing supply in this sector due to long-term trends, including the aging U.S. population, a broad societal focus on wellness and preventive medicine, and an ongoing shift from inpatient care to outpatient care. Free for Johns Hopkins faculty, students, and alumni.
-
-            Read More
-        
-October 29, 2026
-8:30 a.m. - 7 p.m. EDT
-
-                Johns Hopkins Sesquicentennial Symposium on The Future of Technology Transfer and Academic Innovation            
-This one-day symposium brings together nationally recognized scholars, policymakers, and practitioners in technology transfer and academic entrepreneurship to evaluate the latest policy advancements, explore their implications, and outline a future research agenda.
-
-            Read More
-        
-October 30, 2026
-8:30 a.m. - 4:30 p.m. EDT
-School of Public Health
-Free
-
-                Envisioning the Future of National Security: Healthcare Resilience and Predictive Innovation in an Era of Hybrid Warfare            
-The conference will examine how military conflict has shaped biomedical innovation, how pharmaceutical supply chain vulnerabilities affect civilian care and military readiness, and how artificial intelligence can help anticipate disruptions and strengthen preparedness.
-
-            Read More
-        
-October 30, 2026
-12:30 - 1:30 p.m. EDT
-Peabody Institute
-Free
-
-                Graduate Jazz Ensemble            
-The Graduate Jazz Ensemble, created and led by the Richard and Elizabeth Case Chair of Jazz Studies Sean Jones to cultivate community-engaged artistry, performs original works at the Hopkins Bloomberg Center.
-
-            Read More
-        
-November 2, 2026
-5:15 - 7:15 p.m. EST
-Carey Business School
-Free
-
-                The Mission Generation: Reclaiming Purpose and Building What's Next            
-Join bestselling author and NobleReach Foundation CEO Arun Gupta and Carey Business School Dean Alex Triantis for a candid conversation on what’s next in career management.
-
-            Read More
-        
-November 10, 2026
-9 a.m. - 6 p.m. EST
-Free
-
-                The Future of Next            
-A free, full-day event celebrating 150 years of innovation and discovery. From health to technology to civic life, attendees will ask: What does change mean for you?
-
-            Read More
-        
-November 11, 2026
-10:30 - 11:30 a.m. EST
-SAIS
-Free
-
-                The Bitter Struggle: Superintelligence, Superpowers, and the Fate of the World            
-AI is becoming the decisive strategic technology of this century. Built by the private sector, it has profound implications for governments—and for all of us. Join Johns Hopkins’ Ben Buchanan for a discussion on his new book related to this topic, The Bitter Struggle: Superintelligence, Superpowers, and the Fate of the World.
-
-            Read More
-        
-November 12, 2026
-5 - 7 p.m. EST
-Free
-
-                Sam Gilliam Lecture Series: Jeffrey Gibson            
-This lecture series welcomes prominent artists and thinkers to reflect on the intersections between art, academia, and public policy.
-
-            Read More
-        
-November 14, 2026
-8:30 a.m. - 5:30 p.m. EST
-Free
-
-                AstraZeneca National Healthcare Case Competition            
-Showcase your talent, build your network, and develop critical business skills. This premier graduate-level national competition presents a unique opportunity to analyze a real-world healthcare business challenge and work alongside diverse and interdisciplinary peers to generate ideas and insights for AstraZeneca. The application deadline is Oct. 9.
-
-            Read More
-        
 November 17, 2026
 6:30 - 8:30 p.m. EST
 School of Arts and Sciences
@@ -191,12 +93,30 @@ Come explore how music shapes the brain, with works by Bach, Beethoven, and more
 
             Read More
         
-December 3, 2026
-6:30 - 8 p.m. EST
+November 18, 2026
+9 - 11 a.m. EST
+School of Public Health
+
+                Medicaid Work Requirements and Behavioral Health: Implementation and State Approaches            
+Explore diverse perspectives and state approaches to Medicaid work requirements for populations with behavioral health challenges. Registration deadline: Nov. 17.
+
+            Read More
+        
+November 30, 2026
+6 - 8:30 p.m. EST
 Free
 
-                Winter Community Celebration Market            
-All Johns Hopkins affiliates are welcome and encouraged to kick off the holiday season shopping at the Community Celebration Market. Support locally owned businesses by purchasing one-of-a-kind gifts.
+                Stories That Matter Presents "The Cycle of Love"            
+Free screening and discussion of the acclaimed documentary The Cycle of Love, with Oscar-winning filmmaker Orlando von Einsiedel.
+
+            Read More
+        
+December 1, 2026
+9 - 11 a.m. EST
+Carey Business School
+
+                The Healthy, Human Workplace: Teaming HI and AI            
+The Human Capital Development Lab at Johns Hopkins hosts the Society for Human Resource Management Washington, DC, Chapter for a morning of exploring, learning, and sharing on key topics facing HR leaders.
 
             Read More
         
@@ -219,6 +139,15 @@ Conductor Michael Chrsitie, Peabody’s Ruth Blaustein Rosenberg Artistic Direct
 
             Read More
         
+December 15, 2026
+6 - 8:30 p.m. EST
+Free
+
+                The Discovery Series with Kara Swisher featuring Kate Crawford            
+Johns Hopkins University and Vox Media invite you to join a discussion and live podcast recording of On with Kara Swisher.
+
+            Read More
+        
 There are currently no events matching this criteria. Please adjust the filters above.
 Load More Events
 Series and Forums
@@ -228,7 +157,7 @@ sign up for our newsletter
 Get relevant programming, research, and expert insights sent straight to your inbox.
 Please enable JavaScript in your browser to complete this form.
 Please enable JavaScript in your browser to complete this form.
-Email * Email
+Email
 Email 
 *
 Submit
@@ -248,3 +177,7 @@ Close
 Search for:
 Search
 Quick Links:
+Stay Connected
+Events
+News & Updates
+Close
