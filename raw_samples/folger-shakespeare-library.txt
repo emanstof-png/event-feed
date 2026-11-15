@@ -1,6 +1,6 @@
 Folger Shakespeare Library
 https://www.folger.edu/whats-on/
-fetched 2026-10-25 00:09Z  status=200 chars=20023 error=
+fetched 2026-11-15 00:22Z  status=200 chars=21326 error=
 
 What's on | Folger Shakespeare Library
 Skip to main content
@@ -161,34 +161,83 @@ Relaxed Performance
  Clear
             Calendar
 Upcoming events
-Measure for Measure
-Measure for Measure
-                Shakespeare’s dark comedy, where human nature collides with the letter of the law, comes to life under the direction of Psalmayene 24, Helen Hayes Award winner for Folger Theatre’s production of 
-Metamorphoses
-.            
-                Sep 22 – Nov 01, 2026            
+An English Christmas for the Ages
+An English Christmas for the Ages
+                Celebrate the holidays with a centuries-spanning program of medieval Yuletide songs, English Christmas carols, and festive works from the royal courts of both King Henry VIII and Queen Elizabeth I.            
+                Fri, Dec 11 – Sun, Dec 20, 2026            
                             Dates & Tickets 
 Folger Theatre
-Folger Book Club: 'Mona Acts Out' by Mischa Berlinski
-Folger Book Club: 'Mona Acts Out' by Mischa Berlinski
-                In our November selection, a Shakespearean actor looks back on her life in the theater as she traverses present-day New York City one Thanksgiving morning.            
-                Thu, Nov 5, 2026, 6:30pm            
+Opera Lafayette: Rameau’s "Les Surprises de l’Amour"
+Rameau’s "Les Surprises de l’Amour"
+                The Folger is proud to partner with Opera Lafayette to host its modern world premiere of a French opera from 1748.            
+                Fri, Nov 13 – Sun, Nov 15, 2026            
+                            Dates & Tickets 
+Theatre
+Printing Press Demonstrations
+Printing Press Demonstrations
+                To learn more about our replica 17th-century printing press and to see it in action, join us for demonstrations during Frost Fair.            
+                Fri, Nov 27 — Sat, Dec 26, 2026            
                             Learn More 
-Virtual - on Zoom
-Family Workshop: Collecting Your Story
-Family Workshop: Collecting Your Story
-                In this free workshop, families will learn about the importance of collecting to telling their story.            
-                Sat, Nov 7, 2026 at 11:30am & 1pm            
+Shakespeare Exhibition Hall
+Translating Shakespeare in Sign Language
+Translating Shakespeare in Sign Language
+                Scholar Jill Marie Bradbury delivers a public lecture about how Deaf actors negotiate Shakespeare translation.            
+                Thu, Dec 3, 2026, 4pm            
                             Learn More 
-Learning Lab
-To Hear Her Speak: Curator's Talk
-To Hear Her Speak: Curator's Talk
-                Join us for a special Curator’s Talk, where we'll pull back the curtain on our newest exhibition, 
-To Hear Her Speak: Black Women and Shakespeare
+Folger Theatre
+Virtual Folger Salon with Mathieu Bouchard, Lee Cotman, and Julia Skinner
+Virtual Folger Salon with Mathieu Bouchard, Lee Cotman, and Julia Skinner
+                Learn about research happening at the Folger in real time! Each month, Folger Institute scholar and artist fellows will share their most exciting finds and thought-provoking challenges, followed by casual open conversation.            
+                Fri, Dec 4, 2026, at 12pm ET            
+                            Learn More 
+Virtual
+Reading Rhythms - December 2026
+Reading Rhythms
+                The Folger is partnering with Reading Rhythms for a reading party in the Great Hall. Grab a book and get cozy! Enjoy silent reading periods, as well as 1-on-1 breakouts and group discussions.            
+                Fri, Dec 4, 2026, 6:30pm            
+                            Learn More 
+The Great Hall
+Family Workshop: To Be a Shakespearean Actor
+Family Workshop: To Be a Shakespearean Actor
+                In this free workshop, families will try out Elizabethan acting styles and learn about the power of Shakespeare’s words to inspire actors, trends, and riots.            
+                Sat, Dec 5, 2026 at 11:30am & 1pm            
+                            Learn More 
+Multiple venues
+Folger Book Club: 'The Beheading Game' by Rebecca Lehmann
+Folger Book Club: 'The Beheading Game' by Rebecca Lehmann
+                In our first ever in-person session, Folger Book Club discusses Rebecca Lehmann’s exciting debut novel about Anne Boleyn.            
+                Tue, Dec 8, 2026, 6pm            
+                            Learn More 
+Reading Room
+Limited Tickets
+The 2027 Emily Dickinson Birthday Tribute: Rebecca Lehmann
+Emily Dickinson Birthday Tribute: Rebecca Lehmann
+                The Folger invites poet, essayist, and debut novelist Rebecca Lehmann for this annual event celebrating the legacy of one of America’s most beloved poets, Emily Dickinson.             
+                Tue, Dec 8, 2026 at 7:30pm            
+                            Learn More 
+Folger Theatre
+Early Music Seminar: An English Christmas for the Ages
+Early Music Seminar: An English Christmas for the Ages
+                Folger Consort Artistic Director Robert Eisenstein leads a lively virtual seminar that offers a sneak peek at the music performed in the Folger Consort’s upcoming concert 
+An English Christmas for the Ages
+.            
+                Wed, Dec 9, 2026 at 6pm ET            
+                            Learn More 
+Folger Virtual
+Shakespeare’s Midsummer in December
+Shakespeare’s Midsummer in December
+                This free professional development session for teachers focuses on 
+A Midsummer Night's Dream
 .             
-                Sat, Nov 7, 2026, at 7pm            
+                Wed, Dec 9, 2026, 8pm ET            
                             Learn More 
-Folger Library
+Virtual
+Folger Frost Fair
+Folger Frost Fair
+Celebrate the season at the Folger! Enjoy festive decorations, holiday music, free activities, and more from Friday, November 27, 2026 – Sunday, January 3, 2027.
+The Reading Room Festival V
+The Reading Room Festival
+Join us for staged readings and panel discussions at the fifth annual Reading Room Festival, January 28–30, 2027. All-Access Passes on sale now!
 Season subscriptions
 Explore the 2026-27 seasons for Folger Theatre, Folger Consort, and the O.B. Hardison Poetry Series.
 Folger Theatre subscriptions
@@ -197,14 +246,6 @@ Folger Consort subscriptions
 Folger Consort
 O.B. Hardison Poetry Series subscriptions
 O.B. Hardison Poetry Series
-Folger Theatre
-Measure for Measure
-Measure for Measure
-                Shakespeare’s dark comedy, where human nature collides with the letter of the law, comes to life under the direction of Psalmayene 24, Helen Hayes Award winner for Folger Theatre’s production of 
-Metamorphoses
-.            
-                Sep 22 – Nov 01, 2026            
-                            Dates & Tickets 
 Folger Theatre
 Hamlet
 Hamlet
@@ -284,38 +325,27 @@ Our Shakespeare Exhibition
 Shakespeare Exhibition Hall
 What’s next for Book Club
 Our virtual, monthly Book Club is free and open to all.
-Folger Book Club: 'Mona Acts Out' by Mischa Berlinski
-Folger Book Club: 'Mona Acts Out' by Mischa Berlinski
-                In our November selection, a Shakespearean actor looks back on her life in the theater as she traverses present-day New York City one Thanksgiving morning.            
-                Thu, Nov 5, 2026, 6:30pm            
-                            Learn More 
-Virtual - on Zoom
 Folger Book Club: 'The Beheading Game' by Rebecca Lehmann
 Folger Book Club: 'The Beheading Game' by Rebecca Lehmann
                 In our first ever in-person session, Folger Book Club discusses Rebecca Lehmann’s exciting debut novel about Anne Boleyn.            
                 Tue, Dec 8, 2026, 6pm            
                             Learn More 
 Reading Room
+Limited Tickets
 For families
 Register for our free family workshops, once a month on Saturdays, with options for ages 5-7 and 8-11.
-Family Workshop: Collecting Your Story
-Family Workshop: Collecting Your Story
-                In this free workshop, families will learn about the importance of collecting to telling their story.            
-                Sat, Nov 7, 2026 at 11:30am & 1pm            
-                            Learn More 
-Learning Lab
 Family Workshop: To Be a Shakespearean Actor
 Family Workshop: To Be a Shakespearean Actor
                 In this free workshop, families will try out Elizabethan acting styles and learn about the power of Shakespeare’s words to inspire actors, trends, and riots.            
                 Sat, Dec 5, 2026 at 11:30am & 1pm            
                             Learn More 
-Learning Lab
+Multiple venues
 Family Workshop: The Fantastical World of Shakespeare
 Family Workshop: The Fantastical World of Shakespeare
                 In this free workshop, families will explore the world of fairies and wizards seen in Shakespeare’s plays.            
                 Sat, Jan 2, 2027 at 11:30am & 1pm            
                             Learn More 
-Learning Lab
+Multiple venues
 Family Workshop: My Shakespearean Monologue
 Family Workshop: My Shakespearean Monologue
                 In this free workshop, families will use words and phrases from Shakespeare’s plays to create personal monologues about who they are, with a chance to proudly perform it for everyone to hear.            
@@ -348,20 +378,6 @@ Family Workshop: Shakespeare Out Loud
 Learning Lab
 For teachers
 We offer professional development for teaching Shakespeare, with online and in-person options.
-Reading Like Writers: The Folger Method and Student Writing
-Reading Like Writers: The Folger Method and Student Writing
-                Teachers, join us for a free, one-hour professional development session on the Folger Method and student writing.             
-                Wed, Nov 4, 2026, 8pm ET            
-                            Learn More 
-Virtual
-Teaching Macbeth with the Folger Guide
-Teaching Macbeth with the Folger Guide
-                This two-hour professional development session for teachers focuses on teaching 
-Macbeth
- using the Folger Guide.            
-                Sat, Nov 14, 2026, 10am ET            
-                            Learn More 
-Virtual
 Shakespeare’s Midsummer in December
 Shakespeare’s Midsummer in December
                 This free professional development session for teachers focuses on 
@@ -379,12 +395,8 @@ Romeo and Juliet
                             Learn More 
 Virtual
 Shake Up Your Classroom with the Folger Method
-Shake Up Your Classroom with the Folger Method
-                This free professional development session for teachers focuses on the Folger Method, using 
-Richard III
-, 
-The Merchant of Venice
-, and a Robert Hayden poem to explore flexible strategies.            
+CANCELED: Shake Up Your Classroom with the Folger Method
+                This professional development session for teachers has been canceled.            
                 Wed, Jan 20, 2027, 8pm ET            
                             Learn More 
 Virtual

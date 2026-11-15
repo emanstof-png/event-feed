@@ -1,6 +1,6 @@
 CNAS
 https://www.cnas.org/events
-fetched 2026-10-25 00:09Z  status=200 chars=9513 error=
+fetched 2026-11-15 00:22Z  status=200 chars=9581 error=
 
 Events at CNAS | CNAS
 Center for a New American Security
@@ -54,7 +54,6 @@ Sanctions by the Numbers
 Economic Statecraft
 Energy & Geopolitics
 Technology & National Security
-America’s AI Leadership
 Biopower
 Quantum Leap
 Countering the Digital Silk Road
@@ -62,6 +61,7 @@ National Security Law
 Federalism, Domestic Deployment & National Guard
 Congress, Bipartisanship & National Security
 DHS Oversight & Accountability
+AI Policy Lab
 Global Swing States
 Close
 Resident Experts
@@ -137,7 +137,6 @@ Hamzeh Hadad
 Dr. Jeannette Gaudry
 Derek Grossman
 Scott Hembrough
-Jennifer Hendrixson White
 Michelle Holko, PhD, PMP
 John Hughes
 Dr. Kyleanne Hunter
@@ -146,7 +145,6 @@ Elsa B. Kania
 Robert D. Kaplan
 Daisuke Kawai
 Chris Kennedy
-Dr. Duyeon Kim
 Christopher D. Kolenda
 Margarita "Rita" Konaev
 Steven Kosiak
@@ -244,14 +242,16 @@ Subscribe
 Upcoming Events
 Event
 Next Up
-                                                Indo-Pacific Security
-Digital Lifelines
-Oct 21, 2026
-11:30a.m. ET
+                                                Transatlantic Security
+The Next Phase of the Axis of Upheaval
+Nov 17, 2026
+2:00p.m. ET
             Read More
-                Technology & National Security              
-Fireside Chat with Ben Buchanan
-        Nov 12, 2026
+                Defense /               
+                Transatlantic Security /               
+                Middle East Security              
+Partners in Proliferation: Mapping a Decade of Iranian-Russian Military Cooperation
+        Nov 18, 2026
 Recent Events
 Filter by research area:
 More Areas
@@ -263,8 +263,19 @@ More Areas
                                             Energy, Economics & Security
                                             Technology & National Security
                                             National Security Law
+                                            AI Policy Lab
                                             Global Swing States
 Filter by keyword:
+Event
+Technology & National Security
+Fireside Chat with Ben Buchanan
+                                          Paul Scharre                                      
+        Nov 12, 2026
+Event
+Indo-Pacific Security
+Digital Lifelines
+                                          Ryan Claffey,                                          Richard Fontaine                                      
+        Oct 21, 2026
 Event
 National Security Human Capital
 Redrawing the Map:  Assessing the Military- and Veteran-Serving Nonprofit Sector
@@ -334,16 +345,6 @@ Technology & National Security
 U.S.-China AI Competition:  A Fireside Chat with Chairman Brian Mast
                                           Daniel Remler                                      
         May 19, 2026
-Event
-Transatlantic Security
-Beyond the Sahel: Russia’s Toolbox for Influence in Africa
-                                          Kate Johnston,                                          David McKenzie                                      
-        May 18, 2026
-Event
-Indo-Pacific Security
-U.S.-Japan-Philippines Trilateral Cooperation
-                                          Lisa Curtis,                                          Ryan Claffey                                      
-        May 6, 2026
 Previous Page
       Previous
  of 39

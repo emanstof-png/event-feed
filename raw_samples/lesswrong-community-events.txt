@@ -1,6 +1,6 @@
 LessWrong community events
 https://www.lesswrong.com/community?filters=SSC
-fetched 2026-10-25 00:09Z  status=200 chars=1040 error=
+fetched 2026-11-15 00:22Z  status=200 chars=1124 error=
 
 Community — LessWrong
 x
@@ -16,24 +16,6 @@ Nearby Events
 Online Groups
 Local Groups
 Resources
-ACX Everywhere: Fall 2026
-Vilnius
-Oct 25th
-0
-Bologna – ACX Meetups Everywhere Fall 2026
-V. Augusto Righi, 32e, Bologna
-Oct 25th
-0
-The Takeoff - A Conference in Washington, DC
-Washington
-5
-3
-Nov 13th
-1
-Gunma 2027! (Tokyo Rationality Salon Annual Retreat)
-Tsumagoi, 万座温泉
-2027 Jan 9th
-0
 Hyderabad ACX meetup
 LW
 SSC
@@ -54,7 +36,7 @@ Taymon Beal
 8y
 Q
 19
-291
+292
 Alignment Research Field Guide
 Ω
 abramdemski
@@ -71,3 +53,25 @@ The Craft and the Community
 Eliezer Yudkowsky
 18y
 11
+The Takeoff - A Conference in Washington, DC
+Washington
+5
+3
+Nov 13th
+1
+Lean In
+Holland V, Singapore
+Nov 15th
+0
+March Against AI Extinction
+All Souls' Place, London
+Nov 21st
+0
+2026 NYC Secular Solstice & East Coast Rationalist Megameetup
+891 Amsterdam Ave, New York
+Dec 18th
+0
+2-nights Gunma 2027! (Tokyo Rationality Salon Annual Retreat)
+Tsumagoi, 万座温泉
+2027 Jan 9th
+0

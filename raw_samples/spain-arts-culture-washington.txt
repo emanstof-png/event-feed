@@ -1,6 +1,6 @@
 SPAIN arts & culture (Washington)
 https://www.spainculture.us/city/washington-dc/feed/
-fetched 2026-11-15 00:19Z  status=25 items chars=16669 error=
+fetched 2026-11-15 00:22Z  status=25 items chars=16669 error=
 
 Spanish Dance Workshop by Cristina Cazorla
 Fri, 20 Nov 2026 11:30:00 -0500

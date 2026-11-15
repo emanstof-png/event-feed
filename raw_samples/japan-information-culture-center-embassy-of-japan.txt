@@ -1,6 +1,6 @@
 Japan Information & Culture Center (Embassy of Japan)
 https://www.us.emb-japan.go.jp/jicc/events.html
-fetched 2026-10-25 00:09Z  status=200 chars=7597 error=
+fetched 2026-11-15 00:22Z  status=200 chars=8094 error=
 
 JICC | Events
       Your browser does not support the video tag. 
@@ -41,6 +41,24 @@ Thursday, November 5th
 6:30PM EDT
 In-person at the JICC
 LEARN MORE
+CONTEST | JICC 16th Annual Nengajo Contest 
+Year of the Sheep
+Opens Thursday, November 5th
+Closes January 6th, 2027
+Enter Now!
+LEARN MORE
+ARTIST TALK | A Dialogue with Local Printmakers 
+With Lucy Ralph and Mary Ellen Carsley
+Tuesday, November 10th
+6:30PM EDT
+In-person at the JICC
+LEARN MORE
+LECTURE | Modern Japanese Design in Zuanshū Publishing 
+With Dr. Naoko Adachi
+Thursday, November 19th
+6:30PM EDT
+In-person at the JICC
+LEARN MORE
 PAST EVENTS
 2026
 Lecture | Manga as a Global Form with Kofi M. Bazzell-Smith
@@ -77,6 +95,7 @@ Lecture | Towards a Nude Architecture with Yuval Zohar
  (February 6, 2026)
 Lecture | Chefs to the Rescue! with Dr. C. Anne Claus
  (January 22, 2026)
+2026 Nengajo Contest Winners
 2025
 Contest | JICC Nengajo Contest 2026
  (Deadline: December 17, 2025)
@@ -116,6 +135,7 @@ Lecture | Picture This: Modern Japanese Literature and the Visual Imagination wi
  (February 6, 2025)
 Contest | Sakura & Friendship Cherry Blossom Photography Contest
  (Deadline: January 26, 2025)
+2025 Nengajo Contest Winners
 2024
 Contest | JICC Nengajo Contest 2025
  (Deadline: December 13, 2025)

@@ -1,6 +1,6 @@
 New America
 https://www.newamerica.org/events/
-fetched 2026-10-25 00:09Z  status=200 chars=7267 error=
+fetched 2026-11-15 00:22Z  status=200 chars=6454 error=
 
 Events - New America
 New America
@@ -68,18 +68,18 @@ Events
  [5]
 New America hosts various in-person, virtual, and hybrid events. Join the conversation.
 See Our Events
-October 26, 2026
-Ten Lives
-Ten Lives
-October 28, 2026
-Amy J. Nelson’s The Arms Control Paradox
-Amy J. Nelson’s The Arms Control Paradox
-October 30, 2026
-Community Colleges as Cultivators of Civic Life
-Community Colleges as Cultivators of Civic Life
-November 2, 2026
-Assembling in the Age of AI
-Assembling in the Age of AI
+November 17, 2026
+What is the Science of Dad Brain?
+What is the Science of Dad Brain?
+December 2, 2026
+The Best Kind of American
+The Best Kind of American
+December 3, 2026
+The Better Animal: A Hopeful Tale of a Future America
+The Better Animal: A Hopeful Tale of a Future America
+December 15, 2026
+American Pogroms
+American Pogroms
 About
  [6]
 Generating big ideas and bold solutions for a new America. 
@@ -101,34 +101,25 @@ New America is proud to serve as a gathering place for events—both online and 
 Upcoming
 Past
 Issue
-Democratic Futures
 Global Security
 Thriving Families
 Program
-Future of Land & Housing
+Better Life Lab
 Future Security
-Political Reform
 More Filters
 Close
 Filter by
 Issue
-Democratic Futures
 Global Security
 Thriving Families
 Program
-Future of Land & Housing
+Better Life Lab
 Future Security
-Political Reform
 Topic
-Civic Engagement
-Housing
-Project/Initiative
-Future Security Scenarios Lab
+Care
 Location
 Hybrid
 Virtual
-Fellowships
-New America Fellows
 Dates
 All
 Past 30 Days
@@ -224,62 +215,42 @@ Sort by
 Newest
 Newest
 Oldest
-Ten Lives
-October 26, 2026
-Ten Lives
-For five years, Mona Chalabi followed ten people with ten different incomes, documenting how wealth shaped their choices, identities, and insecurities—and asking how much wealth it takes to be safe in the United States.
-Virtual
-12PM – 1PM EDT
-Amy J. Nelson’s The Arms Control Paradox
-October 28, 2026
-Amy J. Nelson’s The Arms Control Paradox
-Join Amy J. Nelson as she discusses her book 
-The Arms Control Paradox
-—and why rising global uncertainty makes arms control more urgent and harder to achieve.
+What is the Science of Dad Brain?
+November 17, 2026
+What is the Science of Dad Brain?
+Are great Dads born? Or are they made? How does the experience of caring for others change the brain? Learn more from new research discussed during this hybrid event.
 Hybrid
-12PM – 1PM EDT
-Community Colleges as Cultivators of Civic Life
-October 30, 2026
-Community Colleges as Cultivators of Civic Life
-Listen to a discussion exploring how community colleges are charting the future of American civic engagement.
+12PM – 1PM EST
+The Best Kind of American
+December 2, 2026
+The Best Kind of American
+What does the 1984 murder of  a Middle East scholar  in war torn Beirut tell us about what went wrong for America in the Middle East?  Tune in to hear author and journalist, Kim Ghattas’s answer.
 Virtual
-12PM – 1PM EDT
-Assembling in the Age of AI
-November 2, 2026
-Assembling in the Age of AI
-Learn how one local government took up the question of how they should use AI, and invited residents to help shape the answer.
-Virtual
-3PM – 4PM EDT
-Small Loans, Big Barriers
-November 4, 2026
-Small Loans, Big Barriers
-Explore the implications of the 21st Century ROAD to Housing Act for small-dollar homeownership.
-Virtual
-12PM – 1PM EDT
-The East Wing
-November 10, 2026
-The East Wing
-Step inside the fascinating and high stakes world of the First Lady’s office like never before with author Azadeh Moaveni.
-Virtual
-12PM – 1PM EDT
+12PM – 1PM EST
 The Better Animal: A Hopeful Tale of a Future America
 December 3, 2026
 The Better Animal: A Hopeful Tale of a Future America
 Learn more about this allegorical take on the state of our current political climate and technological advances.
 Virtual
-12PM – 1PM EDT
+12PM – 1PM EST
 American Pogroms
 December 15, 2026
 American Pogroms
 Author and terrorism expert Daniel Byman chronicles two centuries of mob violence in American history.
 Virtual
-12PM – 1PM EDT
+12PM – 1PM EST
+POSTPONED | The East Wing
+January 13, 2027
+POSTPONED | The East Wing
+Step inside the fascinating and high stakes world of the First Lady’s office like never before with author Azadeh Moaveni.
+Virtual
+12PM – 1PM EST
 Bad Guys: How the FBI Created the Enemy Within
 February 11, 2027
 Bad Guys: How the FBI Created the Enemy Within
 Learn how the FBI built the most powerful—and least accountable—domestic intelligence operation to hunt enemies of the state.
 Virtual
-12PM – 1PM EDT
+12PM – 1PM EST
 Get the Latest from New America
 Subscribe
 Issues

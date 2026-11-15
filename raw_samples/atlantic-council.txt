@@ -1,6 +1,6 @@
 Atlantic Council
 https://www.atlanticcouncil.org/events/
-fetched 2026-10-25 00:09Z  status=200 chars=15894 error=
+fetched 2026-11-15 00:22Z  status=200 chars=15910 error=
 
 Register to attend free Atlantic Council events
 Share
@@ -216,7 +216,7 @@ GeoEconomics Center
 GeoTech Center
 Global China Hub
 Global Energy Center
-Millennium Leadership Program
+Global Leadership Center
 Rafik Hariri Center & Middle East programs
 Scowcroft Center for Strategy and Security
 Visit or contact us
@@ -527,7 +527,7 @@ GeoEconomics Center
 GeoTech Center
 Global China Hub
 Global Energy Center
-Millennium Leadership Program
+Global Leadership Center
 Rafik Hariri Center & Middle East programs
 Scowcroft Center for Strategy and Security
 Visit or contact us
@@ -660,30 +660,30 @@ Upcoming events
 We convene in Washington DC, internationally, and virtually to inspire global engagement and to shape solutions to the defining challenges of our times. Through small, focused events and larger public gatherings, we inform and build connections. Register for upcoming events or subscribe to watch live on YouTube.
 Upcoming
 Past
-Online Event
-Mon, October 26, 2026 • 1:30 pm ET
-What to expect for Brazil after its runoff presidential election
-Americas
-Brazil
-Democracy
-Elections
 Public Event
-Tue, October 27, 2026 • 12:00 pm ET
-Delivering on greater US financing in Latin America and the Caribbean
-Americas
+Mon, November 16, 2026 • 9:30 am ET
+Unlocking the African diaspora’s financial capital for economic growth
+Africa
+Digital Currencies
 Economy & Business
+Resilience & Society
 Online Event
-Wed, October 28, 2026 • 3:45 pm ET
-Power and platforms: Nick Clegg on leadership in a digital world
+Mon, November 16, 2026 • 2:30 pm ET
+Ambassador Vinay Kwatra on US-India cooperation in the Indian Ocean region
 Politics & Diplomacy
-Technology & Innovation
-Online Event
-Thu, October 29, 2026 • 8:00 am ET
-Building collective cognitive resilience: A cross-strait and beyond seminar
-Artificial Intelligence
-Disinformation
-Indo-Pacific
-Japan
+Public Event
+Wed, November 18, 2026 • 3:00 am EST
+Seventh Partnership for Transatlantic Energy Cooperation (P-TEC)
+Central Europe
+Energy & Environment
+Europe & Eurasia
+Public Event
+Wed, November 18, 2026 • 9:00 am ET
+The risk of ignoring the Horn of Africa’s humanitarian crises
+Africa
+Civil Society
+Crisis Management
+Human Rights
 Load More
 #ACFrontPage
  harnesses the convening power and expertise of the Council’s sixteen programs and centers to spotlight the world’s most prominent leaders and the most compelling ideas across sectors. The virtual platform engages new audiences eager for nonpartisan and constructive solutions to current global challenges. This widely promoted forty-five-minute program features the Council’s most important guests and content serving as the highlight of our programming each week.
