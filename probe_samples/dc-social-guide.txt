@@ -1,5 +1,113 @@
 DC Social Guide
 https://www.dcsocialguide.com/
-method: xhr
+method: ical
 
-{"rawEvents":[{"title":"F1ght Club Pro Wrestling Presents: 7 Deadly Sine","category_ids":[30],"root_category_ids":[28],"summary":"DC's own F1ght Club Pro Wrestling is celebrating its 7 year anniversary as the premier wrestling company in the Grapitol Region and we're inviting you! ","description_html":null,"hashtag":"","images":[{"id":3525805,"original":{"url":"https://cdn.prod.discovery.evvnt.com/uploads/event_image/3525805/event_image/1000019371.jpg","width":1920,"height":1080},"featured":{"url":"https://cdn.prod.discovery.evvnt.com/uploads/event_image/3525805/event_image/featured_1000019371.jpg"},"list_thumb":{"url":"https://cdn.prod.discovery.evvnt.com/uploads/event_image/3525805/event_image/list_thumb_1000019371.jpg"},"hero":{"url":"https://cdn.prod.discovery.evvnt.com/uploads/event_image/3525805/event_image/hero_1000019371.jpg"},"featured_webp":{"url":"https://cdn.prod.discovery.evvnt.com/uploads/event_image/3525805/event_image/featured_1000019371.webp"},"list_thumb_webp":{"url":"https://cdn.prod.discovery.evvnt.com/uploads/event_image/3525805/event_image/list_thumb_1000019371.webp"},"hero_webp":{"url":"https://cdn.prod.discovery.evvnt.com/uploads/event_image/3525805/event_image/hero_1000019371.webp"}},{"id":3525806,"original":{"url":"https://cdn.prod.discovery.evvnt.com/uploads/event_image/3525806/event_image/1000019370.jpg","width":1920,"height":1080},"featured":{"url":"https://cdn.prod.discovery.evvnt.com/uploads/event_image/3525806/event_image/featured_1000019370.jpg"},"list_thumb":{"url":"https://cdn.prod.discovery.evvnt.com/uploads/event_image/3525806/event_image/list_thumb_1000019370.jpg"},"hero":{"url":"https://cdn.prod.discovery.evvnt.com/uploads/event_image/3525806/event_image/hero_1000019370.jpg"},"featured_webp":{"url":"https://cdn.prod.discovery.evvnt.com/uploads/event_image/3525806/event_image/featured_1000019370.webp"},"list_thumb_webp":{"url":"https://cdn.prod.discovery.evvnt.com/uploads/event_image/3525806/event_image/list_thumb_1000019370.webp"},"hero_webp":{"url":"https://cdn.prod.discovery.evvnt.com/uploads/event_image/3525806/event_image/hero_1000019370.webp"}},{"id":3525807,"original":{"url":"https://cdn.prod.discovery.evvnt.com/uploads/event_image/3525807/event_image/1000019368.jpg","width":1920,"height":1080},"featured":{"url":"https://cdn.prod.discovery.evvnt.com/uploads/event_image/3525807/event_image/featured_1000019368.jpg"},"list_thumb":{"url":"https://cdn.prod.discovery.evvnt.com/uploads/event_image/3525807/event_image/list_thumb_1000019368.jpg"},"hero":{"url":"https://cdn.prod.discovery.evvnt.com/uploads/event_image/3525807/event_image/hero_1000019368.jpg"},"featured_webp":{"url":"https://cdn.prod.discovery.evvnt.com/uploads/event_image/3525807/event_image/featured_1000019368.webp"},"list_thumb_webp":{"url":"https://cdn.prod.discovery.evvnt.com/uploads/event_image/3525807/event_image/list_thumb_1000019368.webp"},"hero_webp":{"url":"https://cdn.prod.discovery.evvnt.com/uploads/event_image/3525807/event_image/hero_1000019368.webp"}},{"id":3525808,"original":{"url":"https://cdn.prod.discovery.evvnt.com/uploads/event_image/3525808/event_image/1000019372.jpg","width":1920,"height":1080},"featured":{"url":"https://cdn.prod.discovery.evvnt.com/uploads/event_image/3525808/event_image/featured_1000019372.jpg"},"list_thumb":{"url":"https://cdn.prod.discovery.evvnt.com/uploads/event_image/3525808/event_image/list_thumb_1000019372.jpg"},"hero":{"url":"https://cdn.prod.discovery.evvnt.com/uploads/event_image/3525808/event_image/hero_1000019372.jpg"},"featured_webp":{"url":"https://cdn.prod.discovery.evvnt.com/uploads/event_image/3525808/event_image/featured_1000019372.webp"},"list_thumb_webp":{"url":"https://cdn.prod.discovery.evvnt.com/uploads/event_image/3525808/event_image/list_thumb_1000019372.webp"},"hero_webp":{"url":"https://cdn.prod.discovery.evvnt.com/uploads/event_image/3525808/event_image/hero_1000019372.webp"}},{"id":3525809,"original":{"url":"https://cdn.prod.discovery.evvnt.com/uploads/event_image/3525809/event_image/1000019453.png","width":856,"height":1080},"featured":{"url":"https://cdn.prod.discovery.evvnt.com/uploads/event_image/3525809/event_image/featured_1000019453.png"},"list_thumb":{"url":"https://cdn.prod.discovery.evvnt.com/uploads/event_image/3525809/event_image/list_thumb_1000019453.png"},"hero":{"url":"https://cdn.prod.discovery.evvnt.com/uploads/event_image/3525809/event_image/hero_1000019453.png"},"featured_webp":{"url":"https://cdn.prod.discovery.evvnt.com/uploads/event_image/3525809/event_image/featured_1000019453.webp"},"list_thumb_webp":{"url":"https://cdn.prod.discovery.evvnt.com/uploads/event_image/3525809/event_image/list_thumb_1000019453.webp"},"hero_webp":{"url":"https://cdn.prod.discovery.evvnt.com/uploads/event_image/3525809/event_image/hero_1000019453.webp"}}],"links":{"Tickets":"https://go.evvnt.com/3869650-0","Facebook":"https://go.evvnt.com/3869650-2"},"artists":"","keywords":"weekend, wrestling, fun, family, halloween","prices":{"General Admission":"USD 25.0"},"local_publisher_ids":null,"country":{"iso_code":"US","name":"United States","region":"Americas","subregion":"Northern America"},"contact":{"name":"Christian Harris","email":"pawd.dubc@gmail.com","tel":"7252253306"},"ugc_publisher_ids":[6609],"publisher_ids":[6609],"featured_publisher_ids":[],"sources":["evvnt"],"eventbrite_id":null,"organiser_name":"F1ght Club Pro Wrestling","category_name":"Performing Arts","source_id_s":"3869650","publisher_editable":true,"publishing_times":{"6609":1791828106},"publisher_flags":{},"sources_with_ugc_publishers":[6609,"evvnt"],"ownerships":["other_editable","user_656967","account_657884"],"user_id":656967,"account_id":657884,"editorial_tools_publisher_ids_filter":[6609,"non_backfill"],"editorial_tools_category_ids_filter":[30,"non_backfill"],"online_only":false,"evvnt_ticketing_portal_id":null,"premium":false,"sub_brand":null,"print_eligible":true,"weighted_start_time_i":1792962000,"category_names_with_ids":["30|Performing Arts"],"has_evvnt_ticketing?":false,"event_parent_id":2898392,"source_broadcast_url":"https://www.dcsocialguide.com/events/?_evDiscoveryPath=/event/3869650-f1ght-club-pro-wrestling-presents-7-deadly-sine","core_metadata":{},"source_id":3869650,"blacklisted_publisher_ids":[],"editorial_pick_publisher_ids":[],"editorial_publisher_ids":[],"description":"F1ght Club Pro Wrestling hosts it's 7th Anniversary Show LIVE in Cheverly, MD, just a few moments away from the Metro Station!\n\nFeaturing\n3 Championship Matches\nA Ladder Match\nThe implosion of the longest tenured faction in DMV Wrestling History\nKids and Adults Costume Contests\nAND MORE!\n\nKIDS 10 and UNDER GET IN FREE WITH ADULT TICKET PURCHASE\n\nIf you've never been to a pro wrestling show, you're going to have more fun than you can imagine!","main_category_path":[28,30],"category_path_ids":[28,30],"city_country":"Cheverly, United States","start_date":"2026-10-25","start_time":"2026-10-25T17:00:00-04:00","end_time":"2026-10-25T20:00:00-04:00","door_time":"2026-10-25T16:30:00-04:00","last_entry_time":null,"source_status":null,"open_house":{},"original_links":{"Tickets":"https://www.eventbrite.com/e/f1ght-club-pro-wrestling-presents-7-deadly-sins-years-tickets-1992312147264?aff=aff0evvnt","Facebook":"https://www.facebook.com/share/18S2S4cQYr/"},"venue":{"name":"3608 Legion Dr","address_1":"3608 Legion Drive","address_2":null,"town":"Cheverly","country":"United States","post_code":"20785","latitude":38.9325827,"longitude":-76.9138794},"_geoloc":{"lat":38.9325827,"lng":-76.9138794},"start_time_i":1792962000,"end_time_i":1792972800,"created_time_i":1791828106,"last_indexed_i":1792371432,"score":200,"tags":["this_weekend"],"objectID":"44829578"},{"title":"Controversies in Dialysis Access (CiDA) Symposium - October 29-31, 2026, The Capital Hilton, DC","category_ids":[86,355,168],"root_category_ids":[4,151],"summary":"The Controversies in Dialysis Access (CiDA) meeting is the leading educational forum for surgeons, radio
+DC Social Guide - DC Event Calendar
+Skip to content
+			No results		
+News
+Concerts
+Venues
+Account
+More
+Fever Candlelight Concerts in Washington DC
+Contact Us
+Event Promotion
+DC Social Guide, Photos and Music News
+Home
+News
+Concert Calendar
+Venue Guide
+More
+Fever Candlelight Concerts
+More Events
+Add An Event
+Contact Us
+My Account
+Search
+DC Social Guide, Photos and Music News
+Menu
+Home
+News
+Concerts
+Venues
+Account
+			No results		
+Alex Warren Brings Finding (More) Family On The Road Tour to CFG Bank Arena 5/7/27
+News
+Alex Warren brings his Finding (More) Family On The Road World Tour to CFG Bank Arena in Baltimore, MD, on Friday, May 7, 2027, with Faouzia as support.
+The Editor
+November 14, 2026
+Radio Free Alice Bring Their What’s In Between Tour to DC9 Nightclub 3/12/27
+News
+Melbourne post-punk band Radio Free Alice bring their debut album, What’s In Between, to DC9 Nightclub in Washington, DC on March 12, 2027.
+The Editor
+November 12, 2026
+Emma Ogier Releases Debut Album Fly 1111, Plays The Anthem with Remi Wolf 2/23/27
+News
+Emma Ogier releases her debut album Fly 1111 via Lost Highway Records and plays The Anthem in Washington, DC, on Tuesday, February 23, 2027, supporting Remi Wolf on the opening night of The Mud Tour.
+The Editor
+November 11, 2026
+Nick Cave Brings Conversations With Nick Cave to Lincoln Theatre 5/11/27
+News
+Nick Cave brings Conversations With Nick Cave: An Evening of Talk and Music to Lincoln Theatre in Washington, DC, on Tuesday, May 11, 2027. Presale begins November 11; general on sale is November 13.
+The Editor
+November 11, 2026
+Feid Brings FERXXO – The Green Star Tour to Capital One Arena 2/25/27
+News
+Feid brings FERXXO – The Green Star Tour to Capital One Arena in Washington, DC, February 25, 2027. See presale and ticket details.
+The Editor
+November 11, 2026
+Kings of Leon with Band of Horses at Jiffy Lube Live 5/8/27
+News
+Kings of Leon launch their 2027 North American tour at Jiffy Lube Live in Bristow, VA, on May 8 with Band of Horses. Get show and ticket details.
+The Editor
+November 10, 2026
+Stray Kids Bring ‘RUN IT’ World Tour to M&T Bank Stadium 6/22/27
+News
+Stray Kids bring their 2027 World Tour ‘RUN IT’ to M&T Bank Stadium in Baltimore on Tuesday, June 22, 2027. Presales begin Wednesday, November 18; the general on sale is Thursday, November 19 at 3 p.m. local time.
+The Editor
+November 10, 2026
+Fall Out Boy Announces Twilight of the Punks Tour Stop at Nationals Park 7/18/27
+News
+Fall Out Boy brings the Twilight of the Punks Tour to Nationals Park in Washington, DC on Sunday, July 18, 2027, with special guests The Offspring, Good Charlotte and The Story So Far. Presales start Wednesday, November 11; general on sale is Thursday, November 12 at 10 a.m.
+The Editor
+November 10, 2026
+Latest Events Added
+Low Gap + Jack Barksdale + Tori Miller
+Feb 24, 2027 · 
+The Pocket
+Drumming Bird + Wheelwright
+Feb 18, 2027 · 
+The Pocket
+Lemonboy + Murray WOW
+Jan 8, 2027 · 
+The Pocket
+The Dellas w/ Look Busy
+Dec 10, 2026 · 
+The Pocket
+In Search of Groove
+Dec 6, 2026 · 
+The Pocket
+Bitter Stems w/ The Mermaids + HSK Theory
+Dec 5, 2026 · 
+The Pocket
+roomonfire w/ Ethan Barr + Vel Creaux
+Dec 4, 2026 · 
+The Pocket
+Andrew Hagen w/ Duke Walker
+Dec 2, 2026 · 
+The Pocket
+Emmett & the Dead Ends w/ Phrases
+Nov 28, 2026 · 
+The Pocket
+Sirintip + Gracie Jay
+Nov 19, 2026 · 
+The Pocket
+Browse the full concert calendar →
+Spotify Playlist
+DSG is curated by 
+The Sorted Group
+Copyright © 2026 - DC Social Guide 
+Privacy Policy
+New Years Eve in DC

@@ -202,16 +202,16 @@ Biosphere Science & Engineering People
 Earth & Planets Laboratory People
 Observatories People
 Observatory Staff
-Dr. Peter Gao
-Staff Scientist
+Dr. Mohamed Y. El-Naggar
+Biosphere Sciences & Engineering Director
 Featured Staff Member
-Dr. Peter Gao
-Staff Scientist
+Dr. Mohamed Y. El-Naggar
+Biosphere Sciences & Engineering Director
 Learn More
 Observatory Staff
-Dr. Peter Gao
-Staff Scientist
-Peter Gao focuses on the physics and chemistry of planetary atmospheres within and beyond the Solar System and what they can tell us about planetary origins and habitability. 
+Dr. Mohamed Y. El-Naggar
+Biosphere Sciences & Engineering Director
+Biophysicist and microbiologist Mohamed El-Naggar—who investigates how microbes exchange energy and electrons with their environments—leads Carnegie Science’s Biosphere Sciences and Engineering division.
 Search For
 Search All Staff
 Events
@@ -227,20 +227,20 @@ Upcoming Events
 Events
 					Events
               Public Program
-The Carbon Connection:   From Stars to Life
+The Carbon Connection:  From Stars to Life
 NPR Short Wave
 November 9
 6:30pm EST
+              Public Program
+The Moon’s Water Cycle 
+Alexander Kling, APL
+November 7
+7:00pm EST
               Public Program
 Planet X, Killer Asteroids & Other Things Lurking in Space
 Scott Sheppard
 October 29
 7:00pm EDT
-              Public Program
- Earth & Planets Laboratory Open House
-Earth & Planets Laboratory
-October 24
-1:00pm EDT
 News
 Back
 News
@@ -269,14 +269,14 @@ expand_more
       Apply
 Read all News
 Breaking News
-October 22, 2026
-Object 27 | Album: The Human Side of Geophysics
+November 10, 2026
+End of an Era: Carnegie's Goodbye Stanford Symposium
 Breaking News
-October 16, 2026
-Object 26 | Sunspot Drawings
+November 10, 2026
+Homegrown Excellence
 Breaking News
-October 15, 2026
-Object 25 | The Plate Vault Door
+November 05, 2026
+What Star Trek Got Right, and Wrong, About Strange New Worlds
 Resources
 Back
 Resources
@@ -409,35 +409,36 @@ Sort by
 Date Ascending
 Date Descending
  Filter results 
-                    11 results found for:
+                    4 results found for:
 share
 email
 Colloquium
-Jessie Christiansen (NExScI/Caltech)
-      From 10pc to 10,000pc: The Emerging Picture of Planet Populations
+Paola Domínguez Fernández (Harvard/UNAM)
+      Radio Whispers of Galaxy Clusters: Bfields, CRs & AGN
           Pasadena, CA
-27
-October
-                11:00AM PDT
-                  12:00PM PDT
+17
+November
+                11:00AM PST
+                  12:00PM PST
 Learn More
-share
-email
-Public Program
-Planet X, Killer Asteroids & Other Things Lurking in Space
-      Scott Sheppard
-          New York, NY
-29
-October
-                7:00PM EDT
-                  10:00PM EDT
-Learn More
+Image credit: NASA/CXC/SAO
 share
 email
 Seminar
-Zixuan Peng (UCSB)
-      Spatially Resolved Galactic Outflows in Local Star-Forming Dwarf Galaxies: Kinematics, Geometry, and Driving Mechanisms
+Abby Mintz (Princeton)
+      TBA
           Pasadena, CA
-30
-October
+20
+November
+                12:15PM PST
+                  1:15PM PST
+Learn More
+share
+email
+Colloquium
+Jason Rhodes (JPL)
+      TBA
+          Pasadena, CA
+01
+December
           

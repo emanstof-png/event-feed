@@ -5,13 +5,13 @@ method: ical
 DC Python Meetup | Meetup
 Skip to content
 Homepage
-Part of Python Software Foundation Meetup Pro Network - 126 groups
+Part of Python Software Foundation Meetup Pro Network - 127 groups
 DC Python Meetup
 4.6
 •
 1315 ratings
 Bethesda, MD, US
-9,617 members
+9,616 members
 Share
 About
 Events
@@ -24,6 +24,28 @@ DC Python
 . Our 
 Code of Conduct is here
 .
+Upcoming events
+1
+See all
+An Evening of Python Coding
+Tue, Nov 17 · 8:00 PM EST
+·
+Online
+Online
+• What we'll do
+Learners and complete Python novices are welcome as well as experts. If you want to start something new, please see this as an opportunity to jump start the project. If you need help with an existing coding project, bring it with you and we will have a look at it. If you want to show your complete code to someone else to test it, or if you just want to consult with python experts you are welcome.
+The format will be different than regular since this joins the Austin and DC python communities:
+6:30 CST = 7:30 EST we will start the meeting. Join the meetup to view the link.
+This link may change, so please check this link again before the meeting.
+7 CST = 8 EST: Announcement + Demo
+Around 7:30 CST = 8:30 EST continue discussions or break into smaller groups.
+Although this online meeting is different, for those new to this meetup, please check out previous meetups we had to get an idea of what to expect. Here is a link to previous meetups:
+https://github.com/Jacob-Barhak/EveningOfPythonCoding
+You will find there demo code and the folk who presented them. Feel free to clone and star demos that were useful to you.
+• Important to know
+Our focus for this month will be: pyubx2
+https://github.com/semuconsulting/pyubx2
+12 attendees
 Past events
 483
 See all
@@ -32,32 +54,20 @@ Tue, Oct 20 · 8:00 PM EDT
 ·
 Online
 Online
-30 attendees
+28 attendees
 An Evening of Python Coding
 Tue, Sep 15 · 8:00 PM EDT
 ·
 Online
 Online
 41 attendees
-An Evening of Python Coding
-Tue, Aug 18 · 8:00 PM EDT
-·
-Online
-Online
-27 attendees
-An Evening of Python Coding
-Tue, Jul 21 · 8:00 PM EDT
-·
-Online
-Online
-12 attendees
 Group links
 Organizers
 Alex
 and 3 others
 Message
 Members
-9,617
+9,616
 See all
 J
 M
@@ -85,7 +95,7 @@ Alex
 and 3 others
 Message
 Members
-9,617
+9,616
 See all
 J
 M

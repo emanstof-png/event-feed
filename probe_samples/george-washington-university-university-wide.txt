@@ -1,6 +1,6 @@
 George Washington University (university-wide)
 https://calendar.gwu.edu/
-method: api
+method: ical
 
 Events Calendar - GW Calendar
 GW Homepage
@@ -16,13 +16,22 @@ Sign up
 Featured Events
 Homepage - Featured Events
 Skip Homepage - Featured Events Carousel
-2026 Columbian College Graduate Programs Virtual Open House 
-Monday, October 26, 2026
+Interfaith Week
+Saturday, November 14, 2026
+I'm Interested
+Share Interfaith Week
+Share Interfaith Week on Facebook
+Share Interfaith Week on X
+Share Interfaith Week on LinkedIn
+2026 Fall Dance Concert
+Saturday, November 14, 2026 2:00pm EST
+University Student Center, Dorothy Betts Marvin Theatre
                           Register
-Share 2026 Columbian College Graduate Programs Virtual Open House 
-Share 2026 Columbian College Graduate Programs Virtual Open House  on Facebook
-Share 2026 Columbian College Graduate Programs Virtual Open House  on X
-Share 2026 Columbian College Graduate Programs Virtual Open House  on LinkedIn
+I'm Interested
+Share 2026 Fall Dance Concert
+Share 2026 Fall Dance Concert on Facebook
+Share 2026 Fall Dance Concert on X
+Share 2026 Fall Dance Concert on LinkedIn
 Doggie Destress at VSTC
 Monday, November 30, 2026 11:00am to 1:00pm EST
 Innovation Hall, Lobby
@@ -59,43 +68,43 @@ All Experiences
 In-Person
 Virtual
 Event Types
-Student Life (909)
-Arts & Culture (280)
-Exhibition (230)
-Athletics (151)
-Info Session (147)
-Admissions (104)
-Lectures & Speakers (92)
-Academic (47)
-Performance (38)
-General (24)
-Alumni (22)
-Student Organizations (21)
-Conference (17)
-Diversity (17)
-Career & Professional Development (16)
-Free Food (16)
-Research (15)
-International (11)
-Just for Fun (11)
-Politics & Policy (11)
-Health & Wellness (9)
-Science & Technology (8)
-Community Service (4)
+Student Life (702)
+Arts & Culture (166)
+Exhibition (133)
+Athletics (114)
+Info Session (101)
+Admissions (72)
+Lectures & Speakers (42)
+Performance (35)
+Academic (23)
+Just for Fun (23)
+Research (23)
+Alumni (14)
+Conference (8)
+Politics & Policy (8)
+Free Food (7)
+Student Organizations (7)
+General (6)
+Science & Technology (5)
+Career & Professional Development (4)
+Diversity (4)
+Health & Wellness (4)
+International (4)
+Community Service (3)
 Faculty Affairs (1)
-Safety & Security (1)
+Safety & Security (0)
 Audiences
-GW Community (336)
-Prospective Students (172)
-Undergraduate Students (135)
-Graduate Students (122)
-Staff (91)
-General Public (82)
-Faculty (79)
-Alumni (38)
-Postdocs (34)
-Visiting Scholars (32)
-Families (5)
+GW Community (191)
+Prospective Students (115)
+Undergraduate Students (77)
+Graduate Students (67)
+General Public (64)
+Staff (55)
+Faculty (50)
+Alumni (22)
+Postdocs (19)
+Visiting Scholars (18)
+Families (3)
 Subscribe to Displayed Results
 Save to Google Calendar
 Save to iCal
@@ -119,133 +128,103 @@ Digest emailer
                   All Upcoming Events
                   Trending Events
                   #GWToDo
-Animals, Technology, & Law 2026 Conference
-Sat, Oct 24
- Law School, 716 20th ST NW
-Lectures & Speakers
+Interfaith Week
+Sat, Nov 14
+Diversity
+I'm Interested
+Share Interfaith Week
+Share Interfaith Week on Facebook
+Share Interfaith Week on X
+Share Interfaith Week on LinkedIn
+Give Thanks, Give a Turkey Food Drive
+Sat, Nov 14 12am to 1am EST
+ TBD
+New
+Student Life
+More dates & times available
+I'm Interested
+Share Give Thanks, Give a Turkey Food Drive
+Share Give Thanks, Give a Turkey Food Drive on Facebook
+Share Give Thanks, Give a Turkey Food Drive on X
+Share Give Thanks, Give a Turkey Food Drive on LinkedIn
+Interfaith Week 2026
+Sat, Nov 14 12am to 11:55pm EST
+ Sign in to download the location
+New
+Student Life
+More dates & times available
+I'm Interested
+Share Interfaith Week 2026
+Share Interfaith Week 2026 on Facebook
+Share Interfaith Week 2026 on X
+Share Interfaith Week 2026 on LinkedIn
+Common Ground Micro-Grant Application
+Sat, Nov 14 8am to 11:55pm EST
+ Online Event
+New
+Student Life
+More dates & times available
+I'm Interested
+Share Common Ground Micro-Grant Application
+Share Common Ground Micro-Grant Application on Facebook
+Share Common Ground Micro-Grant Application on X
+Share Common Ground Micro-Grant Application on LinkedIn
+H4H Saturday Maryland Screening 11/14
+Sat, Nov 14 8:30am to 12:30pm EST
+ Sign in to download the location
+New
+Student Life
+I'm Interested
+Share H4H Saturday Maryland Screening 11/14
+Share H4H Saturday Maryland Screening 11/14 on Facebook
+Share H4H Saturday Maryland Screening 11/14 on X
+Share H4H Saturday Maryland Screening 11/14 on LinkedIn
+Black Women’s Forum and Ward 8 Woods Shepard Parkway Clean-Up Community Service
+Sat, Nov 14 9:30am to 1pm EST
+ Sign in to download the location
+New
+Student Life
+I'm Interested
+Share Black Women’s Forum and Ward 8 Woods Shepard Parkway Clean-Up Community Service
+Share Black Women’s Forum and Ward 8 Woods Shepard Parkway Clean-Up Community Service on Facebook
+Share Black Women’s Forum and Ward 8 Woods Shepard Parkway Clean-Up Community Service on X
+Share Black Women’s Forum and Ward 8 Woods Shepard Parkway Clean-Up Community Service on LinkedIn
+ADPi Officer Transition Workshop
+Sat, Nov 14 10am to 4pm EST
+ Sign in to download the location
+Student Life
+I'm Interested
+Share ADPi Officer Transition Workshop
+Share ADPi Officer Transition Workshop on Facebook
+Share ADPi Officer Transition Workshop on X
+Share ADPi Officer Transition Workshop on LinkedIn
+Research & Enrichment! Science with Your Dog
+Sat, Nov 14 10am to 6pm EST
+ Hortense Amsterdam House
+New
+Research
+0
 More dates & times available
               Register
 I'm Interested
-Share Animals, Technology, & Law 2026 Conference
-Share Animals, Technology, & Law 2026 Conference on Facebook
-Share Animals, Technology, & Law 2026 Conference on X
-Share Animals, Technology, & Law 2026 Conference on LinkedIn
-George Washington University Women's Rowing  Head of the Schuylkill
-Sat, Oct 24
- Philadelphia, PA
-Athletics
-I'm Interested
-Share George Washington University Women's Rowing  Head of the Schuylkill
-Share George Washington University Women's Rowing  Head of the Schuylkill on Facebook
-Share George Washington University Women's Rowing  Head of the Schuylkill on X
-Share George Washington University Women's Rowing  Head of the Schuylkill on LinkedIn
-George Washington University Women's Tennis at CNU Fall Invitational
-Sat, Oct 24
- Newport News, VA
-Athletics
-I'm Interested
-Share George Washington University Women's Tennis at CNU Fall Invitational
-Share George Washington University Women's Tennis at CNU Fall Invitational on Facebook
-Share George Washington University Women's Tennis at CNU Fall Invitational on X
-Share George Washington University Women's Tennis at CNU Fall Invitational on LinkedIn
-Trick or Treat-ment
-Sat, Oct 24 12am to 11:59pm EDT
-New
-General
+Share Research & Enrichment! Science with Your Dog
+Share Research & Enrichment! Science with Your Dog on Facebook
+Share Research & Enrichment! Science with Your Dog on X
+Share Research & Enrichment! Science with Your Dog on LinkedIn
+Org Help Office Hours
+Sat, Nov 14 11am to 6pm EST
+ USC 433A, University Student Center, Suite 433A,
+Student Life
 More dates & times available
 I'm Interested
-Share Trick or Treat-ment
-Share Trick or Treat-ment on Facebook
-Share Trick or Treat-ment on X
-Share Trick or Treat-ment on LinkedIn
-Trip to York, PA (PA-10)
-Sat, Oct 24 8:30am to 7:30pm EDT
- Sign in to download the location
-New
-Student Life
-I'm Interested
-Share Trip to York, PA (PA-10)
-Share Trip to York, PA (PA-10) on Facebook
-Share Trip to York, PA (PA-10) on X
-Share Trip to York, PA (PA-10) on LinkedIn
-H4H Saturday Maryland Screening 10/24
-Sat, Oct 24 9am to 12pm EDT
- Sign in to download the location
-New
-Student Life
-I'm Interested
-Share H4H Saturday Maryland Screening 10/24
-Share H4H Saturday Maryland Screening 10/24 on Facebook
-Share H4H Saturday Maryland Screening 10/24 on X
-Share H4H Saturday Maryland Screening 10/24 on LinkedIn
-Poodles Go Pink: Breast Cancer Awareness Walk/Run
-Sat, Oct 24 9am to 10am EDT
- Sign in to download the location
-New
-Student Life
-I'm Interested
-Share Poodles Go Pink: Breast Cancer Awareness Walk/Run
-Share Poodles Go Pink: Breast Cancer Awareness Walk/Run on Facebook
-Share Poodles Go Pink: Breast Cancer Awareness Walk/Run on X
-Share Poodles Go Pink: Breast Cancer Awareness Walk/Run on LinkedIn
-Catalyst: Presented By Leadershape
-Sat, Oct 24 10am to 3pm EDT
- Sign in to download the location
-Student Life
-I'm Interested
-Share Catalyst: Presented By Leadershape
-Share Catalyst: Presented By Leadershape on Facebook
-Share Catalyst: Presented By Leadershape on X
-Share Catalyst: Presented By Leadershape on LinkedIn
-Off-Campus Sisterhood Retreat
-Sat, Oct 24 10am to 8pm EDT
- Sign in to download the location
-New
-Student Life
-I'm Interested
-Share Off-Campus Sisterhood Retreat
-Share Off-Campus Sisterhood Retreat on Facebook
-Share Off-Campus Sisterhood Retreat on X
-Share Off-Campus Sisterhood Retreat on LinkedIn
+Share Org Help Office Hours
+Share Org Help Office Hours on Facebook
+Share Org Help Office Hours on X
+Share Org Help Office Hours on LinkedIn
 Show all events
-Fall Degree Conferral
-Fri, Jan 8, 2027
-I'm Interested
-Share Fall Degree Conferral
-Share Fall Degree Conferral on Facebook
-Share Fall Degree Conferral on X
-Share Fall Degree Conferral on LinkedIn
-Pursuing a Career in International Law
-Mon, Oct 26 12pm to 1pm EDT
- Law School, Burns Moot Courtroom
-Career & Professional Development
-I'm Interested
-Share Pursuing a Career in International Law
-Share Pursuing a Career in International Law on Facebook
-Share Pursuing a Career in International Law on X
-Share Pursuing a Career in International Law on LinkedIn
-A Conversation with Lech Walesa: Elliott School Dean’s Global Perspective Series
-Tue, Oct 27 5pm to 7:30pm EDT
-Alumni
-I'm Interested
-Share A Conversation with Lech Walesa: Elliott School Dean’s Global Perspective Series
-Share A Conversation with Lech Walesa: Elliott School Dean’s Global Perspective Series on Facebook
-Share A Conversation with Lech Walesa: Elliott School Dean’s Global Perspective Series on X
-Share A Conversation with Lech Walesa: Elliott School Dean’s Global Perspective Series on LinkedIn
-Philosophy Griffith Lecture: "How Can We Build Human Morality into AI?" with Dr. Walter Sinnott-Armstrong
-Fri, Oct 30 4pm EDT
- Duques Hall, 152
-New
-Lectures & Speakers
-I'm Interested
-Share Philosophy Griffith Lecture: "How Can We Build Human Morality into AI?" with Dr. Walter Sinnott-Armstrong
-Share Philosophy Griffith Lecture: "How Can We Build Human Morality into AI?" with Dr. Walter Sinnott-Armstrong on Facebook
-Share Philosophy Griffith Lecture: "How Can We Build Human Morality into AI?" with Dr. Walter Sinnott-Armstrong on X
-Share Philosophy Griffith Lecture: "How Can We Build Human Morality into AI?" with Dr. Walter Sinnott-Armstrong on LinkedIn
 The Grit and the Grind: Book Talk Featuring Dr. Joshua L. Glazer
 Wed, Dec 2 5:30pm to 7pm EST
  University Student Center, 404
-New
 Lectures & Speakers
               Register
 I'm Interested
@@ -253,12 +232,52 @@ Share The Grit and the Grind: Book Talk Featuring Dr. Joshua L. Glazer
 Share The Grit and the Grind: Book Talk Featuring Dr. Joshua L. Glazer on Facebook
 Share The Grit and the Grind: Book Talk Featuring Dr. Joshua L. Glazer on X
 Share The Grit and the Grind: Book Talk Featuring Dr. Joshua L. Glazer on LinkedIn
-Animals, Technology, & Law 2026 Conference
-Sat, Oct 24
- Law School, 716 20th ST NW
-Lectures & Speakers
-More dates & times available
-              Register
+Fall Degree Conferral
+Fri, Jan 8, 2027
 I'm Interested
-Share Animals, Technology, & Law 2026 Conference
-Share Animals, Technology, & Law 2026 Conference on Faceb
+Share Fall Degree Conferral
+Share Fall Degree Conferral on Facebook
+Share Fall Degree Conferral on X
+Share Fall Degree Conferral on LinkedIn
+National Symphony Orchestra: Serenades & Simple Songs
+Sat, Nov 14 8pm EST
+ Lisner Auditorium
+Arts & Culture
+31.35+
+              Buy Tickets
+I'm Interested
+Share National Symphony Orchestra: Serenades & Simple Songs
+Share National Symphony Orchestra: Serenades & Simple Songs on Facebook
+Share National Symphony Orchestra: Serenades & Simple Songs on X
+Share National Symphony Orchestra: Serenades & Simple Songs on LinkedIn
+National Symphony Orchestra: The Nutcracker & Cinderella
+Sat, Nov 21 8pm EST
+ Lisner Auditorium
+Arts & Culture
+31.35+
+              Buy Tickets
+I'm Interested
+Share National Symphony Orchestra: The Nutcracker & Cinderella
+Share National Symphony Orchestra: The Nutcracker & Cinderella on Facebook
+Share National Symphony Orchestra: The Nutcracker & Cinderella on X
+Share National Symphony Orchestra: The Nutcracker & Cinderella on LinkedIn
+Global Perspectives on COP-31
+Wed, Dec 2 10am to 11:15am EST
+ 1957 E Street NW, Lindner Family Commons, 6th Floor
+Academic
+I'm Interested
+Share Global Perspectives on COP-31
+Share Global Perspectives on COP-31 on Facebook
+Share Global Perspectives on COP-31 on X
+Share Global Perspectives on COP-31 on LinkedIn
+HYBRID LECTURE: From a City to a Kingdom: The Forces That Shaped Jerusalem During the First Millennium BCE
+Mon, Nov 16 6pm EST
+ Funger Hall, 103
+ Stream Available
+Academic
+I'm Interested
+Share HYBRID LECTURE: From a City to a Kingdom: The Forces That Shaped Jerusalem During the First Millennium BCE
+Share HYBRID LECTURE: From a City to a Kingdom: The Forces That Shaped Jerusalem During the First Millennium BCE on Facebook
+Share HYBRID LECTURE: From a City to a Kingdom: The Forces That Shaped Jerusalem During the First Millennium BCE on X
+Share HYBRID LECTURE: From a City to a Kingdom: The Forces That Shaped Jerusalem During the First Millennium BCE on LinkedIn
+Macroecono

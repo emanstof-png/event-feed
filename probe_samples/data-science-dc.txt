@@ -11,7 +11,7 @@ Data Science DC
 •
 2105 ratings
 Washington, DC, US
-17,285 members
+17,298 members
 Share
 About
 Events
@@ -36,8 +36,12 @@ Live Stream Sponsor
 Inbox America
 Normal Sponsor!
 Past events
-180
+181
 See all
+Decision Models & You May Not Be Stable But Your Algorithms Should Be
+Tue, Nov 10 · 5:30 PM EST
+Prefect, 2112 Pennsylvania Ave NW, Washington, DC, US
+4 attendees
 ⚡️ Side Projects and Networking: DSDC Meetup
 Thu, Oct 15 · 6:00 PM EDT
 Prefect, 2112 Pennsylvania Ave NW, Washington, DC, US
@@ -50,17 +54,13 @@ Prefect, 2112 Pennsylvania Ave NW, Washington, DC, US
 Tue, Aug 11 · 6:00 PM EDT
 Prefect, 2112 Pennsylvania Ave NW, Washington, DC, US
 5 attendees
-Don't Let the AI Companies Think for You
-Tue, Jul 28 · 6:00 PM EDT
-Prefect, 2112 Pennsylvania Ave NW, Washington, DC, US
-5 attendees
 Group links
 Organizers
 Data Community DC (DC2)
 and 6 others
 Message
 Members
-17,285
+17,298
 See all
 H
 M
@@ -104,7 +104,7 @@ Data Community DC (DC2)
 and 6 others
 Message
 Members
-17,285
+17,298
 See all
 H
 M

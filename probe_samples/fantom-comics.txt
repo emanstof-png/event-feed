@@ -33,13 +33,12 @@ Search option
 												Books
 												Books (Hardcover)
 												Boxed Sets
-												Boxed Sets (Hardcover)
 												Calendars
 												Coloring, Sticker, & Activity Books
-												Comic Supplies
 												Comic Supplies (Comic Boxes)
 												Comics
 												Cookbooks and Cocktails
+												Event Entry Fee
 												Games
 												Graphic Novels
 												Graphic Novels (Hardcover Library Binding)
@@ -47,10 +46,10 @@ Search option
 												Light Novel Hardcover
 												Light Novels
 												Magazines
-												Manager Charge
 												Manga
 												Manga (Hardcover)
 												Manhua  
+												Manhua Hardcover 
 												Manhwa 
 												Manhwa Hardcover 
 												Mass Max Paperbacks
@@ -66,6 +65,7 @@ Search option
 												Picture Books (Hardcover)
 												Picture Books (Softcover)
 												Plushies
+												Prints & Posters
 												Reference Book
 												Reference Book (Hardcover)
 												Role Playing Games
@@ -93,9 +93,9 @@ View more
 											A. J. Lieberman
 											A.C. Medina
 											A.G. Slatter
-											A.j. Locascio
 											Aaron Alexovich
 											Aaron Losty
+											Aaron Reese
 View more
 						Brands
 											100 Bullets
@@ -116,10 +116,10 @@ View more
 											Anthology
 											Anthropomorphic
 											Anti-Hero
+											Antiques & Collectibles - Posters
+											Art - Collections, Catalogs, Exhibitions - General
 											Art - History - Medieval
 											Art - Individual Artists - Artists' Books
-											Art - Techniques - Cartooning
-											Art and Reference Books
 View more
 						Publishers
 											23rd St. Publishing
@@ -193,3 +193,7 @@ CANCEL
                             ** Shipping costs not included in the required spend. 
                             ** Offer expires at midnight .
 OK
+                ×
+!
+                    Purchase Limit Reached
+Maximum quantity:
