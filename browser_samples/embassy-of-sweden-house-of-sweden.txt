@@ -1,6 +1,6 @@
 Embassy of Sweden / House of Sweden
 https://www.swedenabroad.se/en/embassies/usa-washington/
-rendered 2026-10-25 02:37Z  status=200 chars=26389 iframes=0 srcdoc=0 next=False error=
+rendered 2026-11-15 00:36Z  status=200 chars=26579 iframes=0 srcdoc=0 next=False error=
 
 
 
@@ -12,6 +12,7 @@ Details
 About
 This website uses cookies
 We use cookies to personalise content and ads, to provide social media features and to analyse our traffic. We also share information about your use of our site with our social media, advertising and analytics partners who may combine it with other information that you’ve provided to them or that they’ve collected from your use of their services. 
+Show more
 [#GPC_BANNER_ICON#]
 [#GPC_TOAST_TEXT#]
 Consent Selection
@@ -152,7 +153,7 @@ Preference cookies enable a website to remember information that changes the way
 We do not use cookies of this type.
 Statistics 
 
-8
+9
 
 Statistic cookies help website owners to understand how visitors interact with websites by collecting and reporting information anonymously.
 Azure
@@ -175,7 +176,7 @@ Maximum Storage Duration
 Type
 : HTTP Cookie
 Microsoft
-4
+5
 Learn more about this provider
 c.gif
 Collects data on the user’s navigation and behavior on the website. This is used to compile statistical reports and heatmaps for the website owner.
@@ -195,7 +196,7 @@ Maximum Storage Duration
 : 1 year
 Type
 : HTTP Cookie
-_clsk
+_clsk [x2]
 Registers statistical data on users' behaviour on the website. Used for internal analytics by the website operator. 
 Maximum Storage Duration
 : 1 day
@@ -356,12 +357,6 @@ Maximum Storage Duration
 : Persistent
 Type
 : IndexedDB
-__Secure-BUCKET
-Pending
-Maximum Storage Duration
-: 180 days
-Type
-: HTTP Cookie
 __Secure-ROLLOUT_TOKEN
 Used for A/B testing of new features to selected users.
 Maximum Storage Duration
@@ -382,6 +377,12 @@ Type
 : HTTP Cookie
 LogsDatabaseV2:V#||LogsRequestsStore
 Used to track user’s interaction with embedded content.
+Maximum Storage Duration
+: Persistent
+Type
+: IndexedDB
+ServiceWorkerLogsDatabase#SWHealthLog
+Necessary for the implementation and functionality of YouTube video-content on the website.  
 Maximum Storage Duration
 : Persistent
 Type
@@ -407,7 +408,7 @@ Cross-domain consent
 [#BULK_CONSENT_TITLE#]
 List of domains your consent applies to:
  [#BULK_CONSENT_DOMAINS#]
-Cookie declaration last updated on 10/3/26 by 
+Cookie declaration last updated on 11/2/26 by 
 Cookiebot
 [#IABV2_TITLE#]
 [#IABV2_BODY_INTRO#]
@@ -460,6 +461,8 @@ Data protection policy
 About cookies
 
 Tillgänglighetsredogörelse
+
+Submenu
 
 For Swedes
 
@@ -659,6 +662,8 @@ Contact
 
 About us
 
+Open positions
+
 Data protection policy
 
 Så stöttar vi svenska företag
@@ -677,6 +682,8 @@ Calendar
 
 Search
 
+Search
+
 Svenska
 
 English
@@ -687,11 +694,13 @@ English
 
 Local time
 
-10:37 PM
+7:36 PM
 
 Embassies
 
 USA, Washington
+
+Submenu
 
 USA, Washington
 
@@ -1143,13 +1152,13 @@ Cyprus, Nicosia
 Czech Republic, Prague
 D.R. Kongo, Kinshasa
 Denmark, Copenhagen
-Dialogue institute
+Dialogue Institute
 Dominica, Stockholm
 Egypt, Cairo
 Eritrea, Stockholm
 Estonia, Tallinn
 Ethiopia, Addis Ababa
-EU-representation, Brussels
+EU representation, Brussels
 Finland, Helsingfors
 Frankrike, Paris
 Gambia, Stockholm
@@ -1164,7 +1173,7 @@ Haiti, Stockholm
 Holy See, Stockholm
 Hong Kong
 Hungary, Budapest
-Iceland, Reykjavik
+Iceland, Reykjavík
 India, Mumbai
 India, New Delhi
 Indonesia, Jakarta
@@ -1183,7 +1192,7 @@ Kosovo, Pristina
 Kyrgyzstan, Stockholm
 Latvia, Riga
 Lebanon, Beirut
-Liberia, Monrovia
+Liberia, Stockholm
 Lithuania, Vilnius
 Malta, Stockholm
 Mexiko, Mexico City
@@ -1213,6 +1222,7 @@ Saint Vincent and the Grenadines, Stockholm
 Saudi Arabia, Riyadh
 Sénégal, Dakar
 Serbia, Belgrade
+Sierra Leone, Stockholm
 Singapore, Singapore
 South Africa, Pretoria
 South Korea, Seoul
@@ -1232,7 +1242,7 @@ Türkiye, Istanbul
 Turkmenistan, Stockholm
 Uganda, Kampala
 Ukraine, Kyiv
-UN Geneva
+UN, Geneva
 UN, New York
 United Arab Emirates, Abu Dhabi
 United Kingdom, London

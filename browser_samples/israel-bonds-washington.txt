@@ -1,16 +1,12 @@
 Israel Bonds (Washington)
 https://israelbonds.com/community/events/
-rendered 2026-10-25 02:37Z  status=200 chars=5775 iframes=2 srcdoc=0 next=False error=
+rendered 2026-11-15 00:36Z  status=200 chars=5639 iframes=2 srcdoc=0 next=False error=
 
 
 
 Israel Bonds Events Near You
 
 		Skip to content
-
-Three Years Since Oct 7. Our Support Must Continue. 
-INVEST NOW
- →
 
 NEW: Now Offering More Flexibility. 
 Invest
@@ -112,10 +108,6 @@ Knowledge Base Center
 Forms
 
 Invest Now
-
-Three Years Since Oct 7. Our Support Must Continue. 
-INVEST NOW
- →
 
 NEW: Now Offering More Flexibility. 
 Invest

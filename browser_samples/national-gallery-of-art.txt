@@ -1,18 +1,16 @@
 National Gallery of Art
 https://www.nga.gov/calendar
-rendered 2026-10-25 02:35Z  status=200 chars=15562 iframes=3 srcdoc=0 next=True error=
+rendered 2026-11-15 00:34Z  status=200 chars=15736 iframes=3 srcdoc=0 next=True error=
 
 
 
 Calendar | National Gallery of Art
 
-      Skip to main content
+Skip to main content
 
 National Gallery of Art
 
 National Gallery of Art
-
-Directions
 
 Open 10:00 a.m.–5:00 p.m.
 
@@ -24,7 +22,7 @@ On
 
 Off
 
-          Close
+            Close
 
 Open Global Search
 
@@ -49,15 +47,16 @@ Tours and Guides
 Explore the Campus
 
 Admission is always free
-
 6th and Constitution Ave NW 
 Washington, DC 20565
 
-  Must-Sees at the National Gallery
+Must-Sees at the National Gallery
 
-  Make the most of your visit
+Make the most of your visit
 
       Learn more
+
+Callout Link
 
 Exhibitions & Events
 
@@ -71,9 +70,11 @@ Calendar
 
 Kid-Friendly Events
 
-  America’s 250th
+America’s 250th
 
       Celebrating American art and artists
+
+Callout Link
 
 Art & Artists
 
@@ -93,13 +94,13 @@ Educational Resources
 
 Research
 
-  Open Call
+West to East
 
-  Artists Reimagining the Collection
+Discover how artists across America have been inspired by the places they call home.
 
-      Meet the 50 makers selected from more than 1,600 submissions
+      Start the series
 
-Utility
+Callout Link
 
 Support
 
@@ -132,15 +133,16 @@ Tours and Guides
 Explore the Campus
 
 Admission is always free
-
 6th and Constitution Ave NW 
 Washington, DC 20565
 
-  Must-Sees at the National Gallery
+Must-Sees at the National Gallery
 
-  Make the most of your visit
+Make the most of your visit
 
       Learn more
+
+Callout Link
 
 Exhibitions & Events
 
@@ -154,9 +156,11 @@ Calendar
 
 Kid-Friendly Events
 
-  America’s 250th
+America’s 250th
 
       Celebrating American art and artists
+
+Callout Link
 
 Art & Artists
 
@@ -176,13 +180,13 @@ Educational Resources
 
 Research
 
-  Open Call
+West to East
 
-  Artists Reimagining the Collection
+Discover how artists across America have been inspired by the places they call home.
 
-      Meet the 50 makers selected from more than 1,600 submissions
+      Start the series
 
-Utility
+Callout Link
 
 Support
 
@@ -197,12 +201,14 @@ Menu
 Calendar
 
 Events
+
 Exhibitions
+
 Guided Tours
 
 Filter Results
 
-          Pick a Date
+              Pick a Date
 
 Event Calendar Date Filter
 
@@ -218,7 +224,7 @@ End Date
 
 mm/dd/yy
 
-October
+November
 January
 February
 March
@@ -282,9 +288,8 @@ Sa
 28
 29
 30
-31
 
-October
+November
 January
 February
 March
@@ -348,15 +353,14 @@ Sa
 28
 29
 30
-31
 
-  Clear
+    Clear      
 
-  Apply
+    Apply      
 
-  Apply
+    Apply      
 
-            What kind of event?
+              What kind of event?
 
 Talks & Conversations
 
@@ -368,7 +372,7 @@ Guided Tours
 
 Hands-On Activities
 
-            Who's going?
+              Who's going?
 
 Kid Friendly
 
@@ -376,7 +380,7 @@ Teens
 
 Adults
 
-            Where is it?
+              Where is it?
 
 Virtual
 
@@ -384,7 +388,7 @@ In-person
 
 Hybrid
 
-            What language?
+              What language?
 
 English
 
@@ -396,38 +400,36 @@ Begin Visit
 
 End Visit
 
+Calendar view
+
 Events
-
 Exhibitions
-
 Guided Tours
 
 Pick a Date
 
-							Pick a Date
+    Pick a Date      
 
 Filter Results
 
-								Filters
+    Filters      
 
 Upcoming Events
 
-					See All
+    See All
 
 Results
 
-Films
+Talks & Conversations
 
-Films: 
+Talks & Conversations: 
 
-Eyes on the Prize: The Promised Land (1967–1968)
- and 
-On the Case
+Finding Awe: Guadalupe Maravilla’s Retablos
 
-Saturday, Oct 24, 2026 | 2:00 p.m.
+Friday, Nov 13, 2026 | 2:00 p.m.
 
  – 
-4:00 p.m.
+3:30 p.m.
 
 Registration Required
 
@@ -435,24 +437,37 @@ Talks & Conversations
 
 Talks & Conversations: 
 
-  Book Talk:
- Art & Water
+Book Talk: 
+Vital Signs: The Visual Culture of Maya Writing
 
-Saturday, Oct 24, 2026 | 3:00 p.m.
+Friday, Nov 13, 2026 | 3:00 p.m.
 
  – 
-4:00 p.m.
+4:30 p.m.
+
+Registration Required
+
+Hands-On Activities
+
+Hands-On Activities: 
+
+Open Studio  
+
+Saturday, Nov 14, 2026 | 10:00 a.m.
+
+ – 
+5:00 p.m.
 
 Films
 
 Films: 
 
-TCB - The Toni Cade Bambara School of Organizing
+Pan Tadeusz: The Last Foray in Lithuania
 
-Sunday, Oct 25, 2026 | 2:00 p.m.
+Saturday, Nov 14, 2026 | 2:00 p.m.
 
  – 
-4:00 p.m.
+4:15 p.m.
 
 Registration Required
 
@@ -460,56 +475,37 @@ Hands-On Activities
 
 Hands-On Activities: 
 
-  Playtime 
+Open Studio  
 
-Tuesday, Oct 27, 2026 | 10:00 a.m.
-
- – 
-1:00 p.m.
-
-virtual
-
-Hands-On Activities
-
-Hands-On Activities: 
-
-  Sketchbook Club: Cecilia Beaux’s 
-Sita and Sarita
-
-Tuesday, Oct 27, 2026 | 5:30 p.m.
+Sunday, Nov 15, 2026 | 10:00 a.m.
 
  – 
-6:00 p.m.
+5:00 p.m.
+
+Talks & Conversations
+
+Talks & Conversations: 
+
+Finding Awe: Guadalupe Maravilla’s Retablos
+
+Sunday, Nov 15, 2026 | 11:00 a.m.
+
+ – 
+12:30 p.m.
 
 Registration Required
 
-virtual
-
-Hands-On Activities
-
-Hands-On Activities: 
-
-  Sketchbook Club: Cecilia Beaux’s 
-Sita and Sarita
-
-Wednesday, Oct 28, 2026 | 7:00 p.m.
-
- – 
-7:30 p.m.
-
-Registration Required
+Results
 
 Exhibitions
 
-        See All
-
-Results
+    See All
 
 Exhibition
 
 Exhibition: 
 
-  Back and Forth
+Back and Forth
 
 Saturday, April 26, 2025
 
@@ -520,57 +516,57 @@ Exhibition
 
 Exhibition: 
 
-  Celebrating American Art
+Nocturnes 
 
-  Ongoing from March 1, 2026
-
-Exhibition
-
-Exhibition: 
-
-  Nocturnes 
-
-  July 23, 2026 - January 31, 2027
+        July 23, 2026 - January 31, 2027
 
 Exhibition
 
 Exhibition: 
 
-  Alexander Calder
+Alexander Calder
 
-  Ongoing
-
-Exhibition
-
-Exhibition: 
-
-  Barnett Newman
-
-  Ongoing
+        Ongoing
 
 Exhibition
 
 Exhibition: 
 
-  Amedeo Modigliani
+Masterpieces of American Furniture from the Kaufman Collection, 1700–1830
 
-  Ongoing
+        Ongoing
+
+Exhibition
+
+Exhibition: 
+
+Marc Chagall
+
+        Ongoing
+
+Exhibition
+
+Exhibition: 
+
+Thomas Cole
+
+        Ongoing
 
 1 of 6
-
-Guided Tours
-
-          See All
 
 Results
 
 Guided Tours
 
+    See All
+
+Guided Tours
+
 Guided Tours: 
 
-  The Collection, Up Close
+The Collection, Up Close
 
-Friday, Oct 23, 2026 | 11:00 a.m.
+Friday, Nov 13, 2026 | 11:00 a.m.
 
  – 
 12:00 p.m.
@@ -579,9 +575,9 @@ Guided Tours
 
 Guided Tours: 
 
-  Italian Renaissance
+Italian Renaissance
 
-Friday, Oct 23, 2026 | 12:00 p.m.
+Friday, Nov 13, 2026 | 12:00 p.m.
 
  – 
 1:00 p.m.
@@ -590,9 +586,9 @@ Guided Tours
 
 Guided Tours: 
 
-  Glimpses of Life in 17th Century Dutch Art
+Glimpses of Life in 17th Century Dutch Art
 
-Friday, Oct 23, 2026 | 1:00 p.m.
+Friday, Nov 13, 2026 | 1:00 p.m.
 
  – 
 2:00 p.m.
@@ -601,10 +597,10 @@ Guided Tours
 
 Guided Tours: 
 
-  Exhibition Tour—
+Exhibition Tour—
 Back and Forth: Rozeal., Titian, Cezanne
 
-Friday, Oct 23, 2026 | 2:00 p.m.
+Friday, Nov 13, 2026 | 2:00 p.m.
 
  – 
 2:45 p.m.
@@ -613,9 +609,9 @@ Guided Tours
 
 Guided Tours: 
 
-  Understanding Modern and Contemporary Art
+Understanding Modern and Contemporary Art
 
-Friday, Oct 23, 2026 | 2:00 p.m.
+Friday, Nov 13, 2026 | 2:00 p.m.
 
  – 
 3:00 p.m.
@@ -624,34 +620,30 @@ Guided Tours
 
 Guided Tours: 
 
-  Sculpture Garden Tours 
+Impressionism and 19th-Century France  
 
-Friday, Oct 23, 2026 | 2:00 p.m.
+Friday, Nov 13, 2026 | 3:00 p.m.
 
  – 
-3:00 p.m.
+4:00 p.m.
 
 1 of 6
-
-Event Series
 
 Results
 
-              First Saturday Festivals
+Event Series
 
-              Finding Awe
+          First Saturday Festivals
 
-              Sketchbook Club
+          Finding Awe
 
-              National Gallery Nights
+          Sketchbook Club
 
-              A Camera That Goes Anywhere: American Cinema Verité
+          Wajda at 100: Literary Adaptations on Film
 
-              Remembering American Icons
+          From the Vaults: Recent Film Restorations
 
-1 of 6
-
-Pagination
+1 of 5
 
                 Current page
 
@@ -668,24 +660,20 @@ Pagination
                 Page
 
 4
-
 …
-
 Last page
-
-86
-
+78
 Next page
 
-Loading Results
+Calendar
 
-                  Filters
+                        Filters
 
-  Clear
+    Clear      
 
-  Apply
+    Apply      
 
-                  Select Dates
+                        Select Dates
 
 Site Footer
 
@@ -693,7 +681,7 @@ National Gallery of Art
 
 Hours
 
-  Admission is always free.
+Admission is always free.
 
 Open 10:00 a.m.–5:00 p.m.
 
@@ -704,25 +692,25 @@ West Building
           6th St and Constitution Ave NW 
 
             Washington,
-           DC 20565 
+          DC 20565 
 
 East Building
 
           4th St and Constitution Ave NW 
 
             Washington,
-           DC 20565 
+          DC 20565 
 
 Sculpture Garden
 
           7th St and Constitution Ave NW 
 
             Washington,
-           DC 20565 
+          DC 20565 
 
 Newsletter Sign Up Form
 
-						  Art news every week
+							Art news every week
 
 Subscribe
 
@@ -732,9 +720,7 @@ Subscribe
 Email Address 
 *
 
-  Follow us
-
-Social Media
+Follow us
 
 Facebook
 
@@ -745,8 +731,6 @@ Pinterest
 Twitter
 
 YouTube
-
-Footer Primary Menu
 
 About
 
@@ -792,9 +776,7 @@ Past Exhibitions
 
 Publications
 
-				  © 2026 National Gallery of Art
-
-Legal Links
+					© 2026 National Gallery of Art
 
 Notices
 
@@ -819,15 +801,16 @@ Tours and Guides
 Explore the Campus
 
 Admission is always free
-
 6th and Constitution Ave NW 
 Washington, DC 20565
 
-  Must-Sees at the National Gallery
+Must-Sees at the National Gallery
 
-  Make the most of your visit
+Make the most of your visit
 
       Learn more
+
+Callout Link
 
 Exhibitions & Events
 
@@ -841,9 +824,11 @@ Calendar
 
 Kid-Friendly Events
 
-  America’s 250th
+America’s 250th
 
       Celebrating American art and artists
+
+Callout Link
 
 Art & Artists
 
@@ -863,13 +848,13 @@ Educational Resources
 
 Research
 
-  Open Call
+West to East
 
-  Artists Reimagining the Collection
+Discover how artists across America have been inspired by the places they call home.
 
-      Meet the 50 makers selected from more than 1,600 submissions
+      Start the series
 
-Utility
+Callout Link
 
 Support
 
@@ -878,8 +863,6 @@ Shop
 Become a Member
 
 Open Global Search
-
-Directions
 
 Open 10:00 a.m.–5:00 p.m.
 
@@ -901,11 +884,13 @@ Search nga.gov
 
 Autocomplete Suggestions
 
-                    Keep typing to get suggestions
+        Keep typing to get suggestions
 
-                    No Results
+        No Results
 
-                    Keep typing to get suggestions
+        Keep typing to get suggestions
+
+        No results with current filter settings. Change search term or reconfigure other filters.
 
 Loading Results
 
@@ -921,19 +906,17 @@ National Gallery Nights
 
 Matisse
 
-  Advanced Artwork Search
+      Advanced Artwork Search
 
 ----
 
 Calendar | National Gallery of Art
 
-      Skip to main content
+Skip to main content
 
 National Gallery of Art
 
 National Gallery of Art
-
-Directions
 
 Open 10:00 a.m.–5:00 p.m.
 
@@ -945,7 +928,7 @@ On
 
 Off
 
-          Close
+            Close
 
 Open Global Search
 
@@ -970,15 +953,16 @@ Tours and Guides
 Explore the Campus
 
 Admission is always free
-
 6th and Constitution Ave NW 
 Washington, DC 20565
 
-  Must-Sees at the National Gallery
+Must-Sees at the National Gallery
 
-  Make the most of your visit
+Make the most of your visit
 
       Learn more
+
+Callout Link
 
 Exhibitions & Events
 
@@ -992,9 +976,11 @@ Calendar
 
 Kid-Friendly Events
 
-  America’s 250th
+America’s 250th
 
       Celebrating American art and artists
+
+Callout Link
 
 Art & Artists
 
@@ -1014,13 +1000,13 @@ Educational Resources
 
 Research
 
-  Open Call
+West to East
 
-  Artists Reimagining the Collection
+Discover how artists across America have been inspired by the places they call home.
 
-      Meet the 50 makers selected from more than 1,600 submissions
+      Start the series
 
-Utility
+Callout Link
 
 Support
 
@@ -1053,15 +1039,16 @@ Tours and Guides
 Explore the Campus
 
 Admission is always free
-
 6th and Constitution Ave NW 
 Washington, DC 20565
 
-  Must-Sees at the National Gallery
+Must-Sees at the National Gallery
 
-  Make the most of your visit
+Make the most of your visit
 
       Learn more
+
+Callout Link
 
 Exhibitions & Events
 
@@ -1075,9 +1062,11 @@ Calendar
 
 Kid-Friendly Events
 
-  America’s 250th
+America’s 250th
 
       Celebrating American art and artists
+
+Callout Link
 
 Art & Artists
 
@@ -1097,13 +1086,13 @@ Educational Resources
 
 Research
 
-  Open Call
+West to East
 
-  Artists Reimagining the Collection
+Discover how artists across America have been inspired by the places they call home.
 
-      Meet the 50 makers selected from more than 1,600 submissions
+      Start the series
 
-Utility
+Callout Link
 
 Support
 
@@ -1118,12 +1107,14 @@ Menu
 Calendar
 
 Events
+
 Exhibitions
+
 Guided Tours
 
 Filter Results
 
-          Pick a Date
+              Pick a Date
 
 Event Calendar Date Filter
 
@@ -1139,7 +1130,7 @@ End Date
 
 mm/dd/yy
 
-October
+November
 January
 February
 March
@@ -1203,9 +1194,8 @@ Sa
 28
 29
 30
-31
 
-October
+November
 January
 February
 March
@@ -1269,15 +1259,14 @@ Sa
 28
 29
 30
-31
 
-  Clear
+    Clear      
 
-  Apply
+    Apply      
 
-  Apply
+    Apply      
 
-            What kind of event?
+              What kind of event?
 
 Talks & Conversations
 
@@ -1289,7 +1278,7 @@ Guided Tours
 
 Hands-On Activities
 
-            Who's going?
+              Who's going?
 
 Kid Friendly
 
@@ -1297,7 +1286,7 @@ Teens
 
 Adults
 
-            Where is it?
+              Where is it?
 
 Virtual
 
@@ -1305,7 +1294,7 @@ In-person
 
 Hybrid
 
-            What language?
+              What language?
 
 English
 
@@ -1317,38 +1306,36 @@ Begin Visit
 
 End Visit
 
+Calendar view
+
 Events
-
 Exhibitions
-
 Guided Tours
 
 Pick a Date
 
-							Pick a Date
+    Pick a Date      
 
 Filter Results
 
-								Filters
+    Filters      
 
 Upcoming Events
 
-					See All
+    See All
 
 Results
 
-Films
+Talks & Conversations
 
-Films: 
+Talks & Conversations: 
 
-Eyes on the Prize: The Promised Land (1967–1968)
- and 
-On the Case
+Finding Awe: Guadalupe Maravilla’s Retablos
 
-Saturday, Oct 24, 2026 | 2:00 p.m.
+Friday, Nov 13, 2026 | 2:00 p.m.
 
  – 
-4:00 p.m.
+3:30 p.m.
 
 Registration Required
 
@@ -1356,24 +1343,37 @@ Talks & Conversations
 
 Talks & Conversations: 
 
-  Book Talk:
- Art & Water
+Book Talk: 
+Vital Signs: The Visual Culture of Maya Writing
 
-Saturday, Oct 24, 2026 | 3:00 p.m.
+Friday, Nov 13, 2026 | 3:00 p.m.
 
  – 
-4:00 p.m.
+4:30 p.m.
+
+Registration Required
+
+Hands-On Activities
+
+Hands-On Activities: 
+
+Open Studio  
+
+Saturday, Nov 14, 2026 | 10:00 a.m.
+
+ – 
+5:00 p.m.
 
 Films
 
 Films: 
 
-TCB - The Toni Cade Bambara School of Organizing
+Pan Tadeusz: The Last Foray in Lithuania
 
-Sunday, Oct 25, 2026 | 2:00 p.m.
+Saturday, Nov 14, 2026 | 2:00 p.m.
 
  – 
-4:00 p.m.
+4:15 p.m.
 
 Registration Required
 
@@ -1381,56 +1381,37 @@ Hands-On Activities
 
 Hands-On Activities: 
 
-  Playtime 
+Open Studio  
 
-Tuesday, Oct 27, 2026 | 10:00 a.m.
-
- – 
-1:00 p.m.
-
-virtual
-
-Hands-On Activities
-
-Hands-On Activities: 
-
-  Sketchbook Club: Cecilia Beaux’s 
-Sita and Sarita
-
-Tuesday, Oct 27, 2026 | 5:30 p.m.
+Sunday, Nov 15, 2026 | 10:00 a.m.
 
  – 
-6:00 p.m.
+5:00 p.m.
+
+Talks & Conversations
+
+Talks & Conversations: 
+
+Finding Awe: Guadalupe Maravilla’s Retablos
+
+Sunday, Nov 15, 2026 | 11:00 a.m.
+
+ – 
+12:30 p.m.
 
 Registration Required
 
-virtual
-
-Hands-On Activities
-
-Hands-On Activities: 
-
-  Sketchbook Club: Cecilia Beaux’s 
-Sita and Sarita
-
-Wednesday, Oct 28, 2026 | 7:00 p.m.
-
- – 
-7:30 p.m.
-
-Registration Required
+Results
 
 Exhibitions
 
-        See All
-
-Results
+    See All
 
 Exhibition
 
 Exhibition: 
 
-  Back and Forth
+Back and Forth
 
 Saturday, April 26, 2025
 
@@ -1441,57 +1422,57 @@ Exhibition
 
 Exhibition: 
 
-  Celebrating American Art
+Nocturnes 
 
-  Ongoing from March 1, 2026
-
-Exhibition
-
-Exhibition: 
-
-  Nocturnes 
-
-  July 23, 2026 - January 31, 2027
+        July 23, 2026 - January 31, 2027
 
 Exhibition
 
 Exhibition: 
 
-  Alexander Calder
+Alexander Calder
 
-  Ongoing
-
-Exhibition
-
-Exhibition: 
-
-  Barnett Newman
-
-  Ongoing
+        Ongoing
 
 Exhibition
 
 Exhibition: 
 
-  Amedeo Modigliani
+Masterpieces of American Furniture from the Kaufman Collection, 1700–1830
 
-  Ongoing
+        Ongoing
+
+Exhibition
+
+Exhibition: 
+
+Marc Chagall
+
+        Ongoing
+
+Exhibition
+
+Exhibition: 
+
+Thomas Cole
+
+        Ongoing
 
 2 of 6
-
-Guided Tours
-
-          See All
 
 Results
 
 Guided Tours
 
+    See All
+
+Guided Tours
+
 Guided Tours: 
 
-  The Collection, Up Close
+The Collection, Up Close
 
-Friday, Oct 23, 2026 | 11:00 a.m.
+Friday, Nov 13, 2026 | 11:00 a.m.
 
  – 
 12:00 p.m.
@@ -1500,9 +1481,9 @@ Guided Tours
 
 Guided Tours: 
 
-  Italian Renaissance
+Italian Renaissance
 
-Friday, Oct 23, 2026 | 12:00 p.m.
+Friday, Nov 13, 2026 | 12:00 p.m.
 
  – 
 1:00 p.m.
@@ -1511,9 +1492,9 @@ Guided Tours
 
 Guided Tours: 
 
-  Glimpses of Life in 17th Century Dutch Art
+Glimpses of Life in 17th Century Dutch Art
 
-Friday, Oct 23, 2026 | 1:00 p.m.
+Friday, Nov 13, 2026 | 1:00 p.m.
 
  – 
 2:00 p.m.
@@ -1522,10 +1503,10 @@ Guided Tours
 
 Guided Tours: 
 
-  Exhibition Tour—
+Exhibition Tour—
 Back and Forth: Rozeal., Titian, Cezanne
 
-Friday, Oct 23, 2026 | 2:00 p.m.
+Friday, Nov 13, 2026 | 2:00 p.m.
 
  – 
 2:45 p.m.
@@ -1534,9 +1515,9 @@ Guided Tours
 
 Guided Tours: 
 
-  Understanding Modern and Contemporary Art
+Understanding Modern and Contemporary Art
 
-Friday, Oct 23, 2026 | 2:00 p.m.
+Friday, Nov 13, 2026 | 2:00 p.m.
 
  – 
 3:00 p.m.
@@ -1545,34 +1526,30 @@ Guided Tours
 
 Guided Tours: 
 
-  Sculpture Garden Tours 
+Impressionism and 19th-Century France  
 
-Friday, Oct 23, 2026 | 2:00 p.m.
+Friday, Nov 13, 2026 | 3:00 p.m.
 
  – 
-3:00 p.m.
+4:00 p.m.
 
 1 of 6
-
-Event Series
 
 Results
 
-              First Saturday Festivals
+Event Series
 
-              Finding Awe
+          First Saturday Festivals
 
-              Sketchbook Club
+          Finding Awe
 
-              National Gallery Nights
+          Sketchbook Club
 
-              A Camera That Goes Anywhere: American Cinema Verité
+          Wajda at 100: Literary Adaptations on Film
 
-              Remembering American Icons
+          From the Vaults: Recent Film Restorations
 
-1 of 6
-
-Pagination
+1 of 5
 
                 Current page
 
@@ -1589,24 +1566,20 @@ Pagination
                 Page
 
 4
-
 …
-
 Last page
-
-86
-
+78
 Next page
 
-Loading Results
+Calendar
 
-                  Filters
+                        Filters
 
-  Clear
+    Clear      
 
-  Apply
+    Apply      
 
-                  Select Dates
+                        Select Dates
 
 Site Footer
 
@@ -1614,7 +1587,7 @@ National Gallery of Art
 
 Hours
 
-  Admission is always free.
+Admission is always free.
 
 Open 10:00 a.m.–5:00 p.m.
 
@@ -1625,25 +1598,25 @@ West Building
           6th St and Constitution Ave NW 
 
             Washington,
-           DC 20565 
+          DC 20565 
 
 East Building
 
           4th St and Constitution Ave NW 
 
             Washington,
-           DC 20565 
+          DC 20565 
 
 Sculpture Garden
 
           7th St and Constitution Ave NW 
 
             Washington,
-           DC 20565 
+          DC 20565 
 
 Newsletter Sign Up Form
 
-						  Art news every week
+							Art news every week
 
 Subscribe
 
@@ -1653,9 +1626,7 @@ Subscribe
 Email Address 
 *
 
-  Follow us
-
-Social Media
+Follow us
 
 Facebook
 
@@ -1666,8 +1637,6 @@ Pinterest
 Twitter
 
 YouTube
-
-Footer Primary Menu
 
 About
 
@@ -1713,9 +1682,7 @@ Past Exhibitions
 
 Publications
 
-				  © 2026 National Gallery of Art
-
-Legal Links
+					© 2026 National Gallery of Art
 
 Notices
 
@@ -1740,15 +1707,16 @@ Tours and Guides
 Explore the Campus
 
 Admission is always free
-
 6th and Constitution Ave NW 
 Washington, DC 20565
 
-  Must-Sees at the National Gallery
+Must-Sees at the National Gallery
 
-  Make the most of your visit
+Make the most of your visit
 
       Learn more
+
+Callout Link
 
 Exhibitions & Events
 
@@ -1762,9 +1730,11 @@ Calendar
 
 Kid-Friendly Events
 
-  America’s 250th
+America’s 250th
 
       Celebrating American art and artists
+
+Callout Link
 
 Art & Artists
 
@@ -1784,13 +1754,13 @@ Educational Resources
 
 Research
 
-  Open Call
+West to East
 
-  Artists Reimagining the Collection
+Discover how artists across America have been inspired by the places they call home.
 
-      Meet the 50 makers selected from more than 1,600 submissions
+      Start the series
 
-Utility
+Callout Link
 
 Support
 
@@ -1799,8 +1769,6 @@ Shop
 Become a Member
 
 Open Global Search
-
-Directions
 
 Open 10:00 a.m.–5:00 p.m.
 
@@ -1822,11 +1790,13 @@ Search nga.gov
 
 Autocomplete Suggestions
 
-                    Keep typing to get suggestions
+        Keep typing to get suggestions
 
-                    No Results
+        No Results
 
-                    Keep typing to get suggestions
+        Keep typing to get suggestions
+
+        No results with current filter settings. Change search term or reconfigure other filters.
 
 Loading Results
 
@@ -1842,7 +1812,7 @@ National Gallery Nights
 
 Matisse
 
-  Advanced Artwork Search
+      Advanced Artwork Search
 
 ----
 

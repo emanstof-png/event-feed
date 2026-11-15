@@ -1,6 +1,6 @@
 International Student House DC (I-House)
 https://ihousedc.org/events/
-rendered 2026-10-25 02:34Z  status=200 chars=4968 iframes=1 srcdoc=0 next=False error=
+rendered 2026-11-15 00:33Z  status=200 chars=4831 iframes=1 srcdoc=0 next=False error=
 
 
 
@@ -146,7 +146,7 @@ Search
 
 Menu
 
-October 2026
+November 2026
 M
 T
 W
@@ -154,9 +154,12 @@ T
 F
 S
 S
+26
+27
 28
 29
 30
+31
 1
 2
 3
@@ -187,15 +190,12 @@ S
 28
 29
 30
-31
 1
 2
 3
 4
 5
 6
-7
-8
 Today
 Clear
 2026
@@ -309,35 +309,13 @@ Apply
 
 List
 
-Thu
+								Sat							
 
-22
+								21							
 
-Global Leadership Awards Gala
+International Expo
 
-October 22, 2026
-
-at
-
-6:00 pm
- - 
-11:00 pm
-
-								https://ishdc.salsalabs.org/2026Gala							
-
-Wed
-
-04
-
-Executive Committee Meeting
-
-November 4, 2026
-
-at
-
-2:00 pm
- - 
-4:00 pm
+November 21, 2026
 
 Wed
 

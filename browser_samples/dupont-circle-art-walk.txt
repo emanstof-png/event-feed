@@ -1,6 +1,6 @@
 Dupont Circle Art Walk
 https://dupontcirclebid.org/events/calendar
-rendered 2026-10-25 02:34Z  status=200 chars=7179 iframes=0 srcdoc=0 next=True error=
+rendered 2026-11-15 00:34Z  status=200 chars=6772 iframes=0 srcdoc=0 next=True error=
 
 
 
@@ -36,7 +36,7 @@ Office
 
 Residential
 
-Event Venues
+Event Guide
 
 News
 
@@ -72,26 +72,24 @@ here
 Click here to list your event
 . 
 
-Oct 24 – Oct 30, 2026	
+Nov 14 – Nov 20, 2026	
 
-Oct
-24
+Nov
+14
 Saturday
-Music in the Circle: Fall 2026 Concert Series
-12-3 pm each Saturday 
-/
- Dupont Circle park
 El Marsam: Modern and Contemporary Art from Egypt
 Middle East Institute
 Brunch at Syn
 10am - 3pm 
 /
  Syn
-Chamber Music Concert - DCCM 2026–27 Season Opener
-3pm - 5pm
+Opening: The Trumpeter: an immersive war-zone experience
+8pm - 10pm Some matinees available 
+/
+ Dupont Underground
 
-Oct
-25
+Nov
+15
 Sunday
 El Marsam: Modern and Contemporary Art from Egypt
 Middle East Institute
@@ -111,25 +109,27 @@ Tea Tasting
 10:30am - 11:30am 
 /
  Valley Brook Tea
-How on Earth? LIVE! Climate Action Takes the Stage
-2pm - 3:30pm
+Lez Zeppelin Acoustic Live!
+3pm - 5pm 
+/
+ Mansion on O
+WSS Presents: Diana Orduna's "Collapse to Belong" Film Screening & Discussion
+3pm - 4pm 
+/
+ Washington Studio School
 
-Oct
-26
+Nov
+16
 Monday
 El Marsam: Modern and Contemporary Art from Egypt
 Middle East Institute
-Ethiopian Coffee & Tea Ceremony at Bon Beke’s
-4pm - 4pm 
-/
- Bon Beke's Bakehouse & Grill
 Monday Happy Hour at Mission
 4pm - 10pm 
 /
  Mission Dupont
 
-Oct
-27
+Nov
+17
 Tuesday
 El Marsam: Modern and Contemporary Art from Egypt
 Middle East Institute
@@ -142,8 +142,8 @@ Alfreda Happy Hour
 /
  Alfreda
 
-Oct
-28
+Nov
+18
 Wednesday
 El Marsam: Modern and Contemporary Art from Egypt
 Middle East Institute
@@ -151,26 +151,34 @@ Wednesday Happy Hour at Admiral All Night
 5pm - 10pm 
 /
  The Admiral
+ANC2B Meeting
+6pm - 9pm 
+/
+ Stead Park
 
-Oct
-29
+Nov
+19
 Thursday
+Holiday Sip & Shop
+5pm - 7pm 
+/
+ Copenhaver
 El Marsam: Modern and Contemporary Art from Egypt
 Middle East Institute
+Third Thursday
+5pm - 8pm 
+/
+ The Phillips Collection
 Comedy Every Thursday
 10pm - 11pm 
 /
  The Golden Age
 
-Oct
-30
+Nov
+20
 Friday
 El Marsam: Modern and Contemporary Art from Egypt
 Middle East Institute
-Closing: WSS Presents: Barbara Sobol's Graduate Exhibition "Drawing the Dark"
-6pm 
-/
- Washington Studio School
 Yoga in Triangle Park
 7am - 7:50am 
 /
@@ -179,18 +187,14 @@ Steak Night at Syn
 5pm - 9pm 
 /
  Syn
-October Open Art Critiques
-6pm - 8pm 
-/
- Washington Studio School
 
 Ongoing
-Howl at The Moon Experience
-through 11/1/2026 
+DC Holiday Market in Dupont Circle
+through 11/29/2026 
 /
- Mansion on O
+ Women's National Democratic Club
 
-October 2026
+November 2026
 
 S
 M
@@ -200,10 +204,6 @@ T
 F
 S
 
-27
-28
-29
-30
 1
 2
 3
@@ -234,7 +234,11 @@ S
 28
 29
 30
-31
+1
+2
+3
+4
+5
 Day View
  | 
 Week View
@@ -280,7 +284,7 @@ Office
 
 Residential
 
-Event Venues
+Event Guide
 
 News
 Events
@@ -342,7 +346,7 @@ Office
 
 Residential
 
-Event Venues
+Event Guide
 
 News
 
@@ -378,19 +382,11 @@ here
 Click here to list your event
 . 
 
-Oct 31 – Nov 6, 2026	
+Nov 21 – Nov 27, 2026	
 
-Oct
-31
+Nov
+21
 Saturday
-Music in the Circle: Fall 2026 Concert Series
-12-3 pm each Saturday 
-/
- Dupont Circle park
-Fall Festival, Pumpkin Patch, and Bluegrass Jamboree
-1pm - 3pm 
-/
- Dupont Circle park
 El Marsam: Modern and Contemporary Art from Egypt
 Middle East Institute
 Brunch at Syn
@@ -399,14 +395,14 @@ Brunch at Syn
  Syn
 
 Nov
-1
+22
 Sunday
 El Marsam: Modern and Contemporary Art from Egypt
 Middle East Institute
-Closing: Howl at The Moon Experience
-9am - 6pm 
+Closing: The Trumpeter: an immersive war-zone experience
+8pm - 10pm Some matinees available 
 /
- Mansion on O
+ Dupont Underground
 Dupont Circle Farmers Market
 8:30am - 1:30pm 
 /
@@ -425,21 +421,17 @@ Tea Tasting
  Valley Brook Tea
 
 Nov
-2
+23
 Monday
 El Marsam: Modern and Contemporary Art from Egypt
 Middle East Institute
-Ethiopian Coffee & Tea Ceremony at Bon Beke’s
-4pm - 4pm 
-/
- Bon Beke's Bakehouse & Grill
 Monday Happy Hour at Mission
 4pm - 10pm 
 /
  Mission Dupont
 
 Nov
-3
+24
 Tuesday
 El Marsam: Modern and Contemporary Art from Egypt
 Middle East Institute
@@ -453,7 +445,7 @@ Alfreda Happy Hour
  Alfreda
 
 Nov
-4
+25
 Wednesday
 El Marsam: Modern and Contemporary Art from Egypt
 Middle East Institute
@@ -461,13 +453,9 @@ Wednesday Happy Hour at Admiral All Night
 5pm - 10pm 
 /
  The Admiral
-Opening: The Trumpeter: an immersive war-zone experience
-8pm - 10pm 
-/
- Dupont Underground
 
 Nov
-5
+26
 Thursday
 El Marsam: Modern and Contemporary Art from Egypt
 Middle East Institute
@@ -477,7 +465,7 @@ Comedy Every Thursday
  The Golden Age
 
 Nov
-6
+27
 Friday
 El Marsam: Modern and Contemporary Art from Egypt
 Middle East Institute
@@ -489,16 +477,14 @@ Steak Night at Syn
 5pm - 9pm 
 /
  Syn
-First Friday: Art Walk
-6pm - 8pm 
-/
- Studio Gallery
-WSS Presents: Milena Spasic's Prototypes and Simulacra Exhibition Opening
-6pm - 8pm 
-/
- Washington Studio School
 
-October 2026
+Ongoing
+DC Holiday Market in Dupont Circle
+through 11/29/2026 
+/
+ Women's National Democratic Club
+
+November 2026
 
 S
 M
@@ -508,10 +494,6 @@ T
 F
 S
 
-27
-28
-29
-30
 1
 2
 3
@@ -542,7 +524,11 @@ S
 28
 29
 30
-31
+1
+2
+3
+4
+5
 Day View
  | 
 Week View
@@ -588,7 +574,7 @@ Office
 
 Residential
 
-Event Venues
+Event Guide
 
 News
 Events
