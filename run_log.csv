@@ -1,51 +1,51 @@
 Source,Method,Status,Events,Seconds,Error,Sample,Run at
-GatherDC,api,LIVE,46,1.2,,2026-11-21 Fall Fest 2026 with Moishe House Arlingt; 2026-11-22 Everything But The Turkey: Young Profess; 2026-11-22 Gelt Drop and Chanukah Funday with Chaba,2026-11-21 19:20
-EntryPointDC (Edlavitch DCJCC),ical,LIVE,24,1.8,,2026-11-22 Everything But The Turkey: Young Familie; 2026-11-22 Everything But The Turkey: Young Profess; 2026-11-22 Everything But The Turkey,2026-11-21 19:20
-Sixth & I,api,LIVE,14,1.5,,"2026-11-23 Small Groups, Big Questions; 2026-11-26 Office Closed; 2026-11-30 Small Groups, Big Questions",2026-11-21 19:20
-2239 (Washington Hebrew Congregation),api,EMPTY,0,3.1,,,2026-11-21 19:20
-Next Gen (Jewish Federation of Greater Washington),ical,LIVE,29,1.4,,"2026-11-21 Tot Shabbat Storytime; 2026-11-21 ""Heist"" Film Screening With Panelist Q& ; 2026-11-21 REYNHARTSIK: Yiddish Indie Folk Music Co",2026-11-21 19:20
-Bhakti Yoga DC,recurring,RECURRING,3,0.0,,2026-11-26 Satsang; 2026-12-03 Satsang; 2026-12-10 Satsang,2026-11-21 19:20
-Ecstatic Dance DC,recurring,RECURRING,3,0.0,,2026-11-26 Ecstatic Dance DC; 2026-12-03 Ecstatic Dance DC; 2026-12-10 Ecstatic Dance DC,2026-11-21 19:20
-Eaton Wellness,xhr,LIVE,27,0.6,,"2026-11-23 A Tibetan Bowl Sound Bath for Mental Hea; 2026-11-24 Yoga: Move, breathe, and reconnect, en e; 2026-11-24 Yogalates with Kaya: The mindfulness of ",2026-11-21 19:20
-Authentic Relating DC,ical,LIVE but thin,1,0.3,,2026-11-28 Authentic Relating: A Journey into Heart,2026-11-21 19:20
-DC Contact Improv,recurring,RECURRING,3,0.0,,2026-11-22 Sunday Jam (1st Sunday = Underscore); 2026-11-29 Sunday Jam (1st Sunday = Underscore); 2026-12-06 Sunday Jam (1st Sunday = Underscore),2026-11-21 19:20
-Blueberry Gardens Healing Center,ical,LIVE but thin,2,0.2,,2026-11-23 All-Levels Yoga; 2026-11-30 All-Levels Yoga,2026-11-21 19:20
-The Center for Mindful Living,recurring,RECURRING,4,0.0,,2026-11-21 In-Person Living Dharma Circle; 2026-11-28 In-Person Living Dharma Circle; 2026-12-05 In-Person Living Dharma Circle,2026-11-21 19:20
-Satchidananda Ashram-Yogaville,ical,LIVE,3,0.9,,2026-11-21 Satsang with Siva Fiske; 2026-11-26 Thanksgiving Worship Service; 2026-12-04 Hanukkah Program,2026-11-21 19:20
-Georgetown University (university-wide),api,LIVE,98,0.7,,2026-11-23 MSFS Virtual Student Panel; 2026-11-23 AMUN Chicago; 2026-11-23 Sheer Will: Learning to Lead When There ,2026-11-21 19:20
-Georgetown School of Foreign Service,api,LIVE,9,0.3,,2026-12-01 Sixth Annual AI in Action Conference: Wh; 2026-12-01 Policies to Put Workers First in the AI ; 2026-12-02 The Quest for Democracy in Saudi Arabia:,2026-11-21 19:20
-Georgetown Institute of Politics and Public Service,ical,EMPTY,0,0.4,"ALARM: 0 events, had 2 on 2026-11-14 19:22",,2026-11-21 19:20
-Georgetown Department of Government,api,LIVE but thin,2,0.2,,2026-12-02 Government MA Programs Information Sessi; 2026-12-11 M.A. in Democracy & Governance Virtual I,2026-11-21 19:20
-George Washington University (university-wide),api,LIVE,92,4.4,,2026-11-21 George Washington University Men's Swimm; 2026-11-21 George Washington University Women's Swi; 2026-11-21 Common Ground Micro-Grant Application,2026-11-21 19:20
-GW Elliott School of International Affairs,ical,LIVE,7,2.1,,"2026-12-01 Fireside Chat with Hon. John Jovanovic, ; 2026-12-02 Global Perspectives on COP-31; 2026-12-02 Pivot to Asia 3.0? Navigating Future All",2026-11-21 19:20
-Mexican Cultural Institute,xhr,LIVE but thin,1,1.7,,2026-11-21 Lele Doll Workshop: Create Your Own Mexi,2026-11-21 19:20
-La Maison Francaise (Embassy of France),ical,LIVE,4,0.6,,"2026-11-21 Beaujolais and Beyond Celebration 2026; 2026-12-02 ""The American Dream"" by Anthony Marciano; 2026-12-04 Great Masters: Georgy Sviridov & Dmitri ",2026-11-21 19:20
-Socrates Cafe Rockville,ical,LIVE,3,0.4,,2026-11-21 Socrates Café Rockville Meetup; 2026-11-29 Aristotle's Café; 2026-12-05 Socrates Café Rockville Meetup,2026-11-21 19:20
-Practical Philosophy Club (Washington DC),ical,LIVE,3,1.1,,2026-11-25 WASHINGTON 🇺🇸 Practical Philosophy Meetu; 2026-12-02 WASHINGTON 🇺🇸 Practical Philosophy Meetu; 2026-12-09 WASHINGTON 🇺🇸 Practical Philosophy Meetu,2026-11-21 19:20
-Effective Altruism DC,ical,LIVE but thin,1,0.2,,"2026-12-01 Your Next Act, Your Highest Impact: EA D",2026-11-21 19:20
-Interintellect,xhr,ERROR,0,14.6,HTTPError: HTTP Error 500: ,,2026-11-21 19:20
-Braver Angels DC Alliance,ical,EMPTY,0,0.2,"ALARM: 0 events, had 1 on 2026-11-14 19:22",,2026-11-21 19:20
-Profs and Pints (Washington DC),ical,LIVE,5,0.6,,2026-12-02 Profs & Pints DC: How Ancient Athens Res; 2026-12-06 Profs & Pints Northern Virginia: You Bet; 2026-12-06 Profs & Pints Northern Virginia: Managin,2026-11-21 19:20
-DC Policy Events (aggregator),api,LIVE,94,0.9,,2026-11-21 Views Navigation; 2026-11-23 Restoring State Sovereignty in Lebanon: ; 2026-11-23 What Washington’s peace push means for U,2026-11-21 19:20
-People's Book (Takoma Park),api,EMPTY,0,2.1,,,2026-11-21 19:20
-DC Public Library: DC Reads,xhr,LIVE,29,1.1,,2026-11-21 Friends Book Sale; 2026-11-21 Books and Boxing; 2026-11-21 Reading All-Stars with Northstar,2026-11-21 19:20
-Rock Creek Conservancy,xhr,ERROR,0,0.7,HTTPError: HTTP Error 403: ,,2026-11-21 19:20
-Casey Trees,ical,LIVE but thin,1,0.3,,2026-12-08 The Historic Elms of Mount Pleasant (Res,2026-11-21 19:20
-Anacostia Watershed Society,api,ERROR,0,0.5,HTTPError: HTTP Error 403: ,,2026-11-21 19:20
-Capital Area Food Bank,xhr,LIVE,58,0.4,,2026-11-21 Arlington Community Marketplace; 2026-11-21 Prince George&#39;s Community Marketplac; 2026-11-21 DC: Saturday Morning,2026-11-21 19:20
-HacDC,ical,LIVE,6,0.5,,2026-11-23 Open Hac; 2026-11-26 Hardware Hacking Night; 2026-11-30 Open Hac,2026-11-21 19:20
-Data Science DC,ical,EMPTY,0,0.2,,,2026-11-21 19:20
-Data Community DC,ical,LIVE,3,0.3,,2026-12-01 AI Agents at Work | Editing Media and Le; 2026-12-02 AI Health Tech Happy Hour - Sponsored by; 2026-12-08 Data Viz DC: Mapping Knowledge Across Ti,2026-11-21 19:20
-DC Python,ical,EMPTY,0,0.2,"ALARM: 0 events, had 1 on 2026-11-14 19:22",,2026-11-21 19:20
-PSW Science,ical,LIVE but thin,1,0.3,,2026-12-04 PSW SCIENCE,2026-11-21 19:20
-Game Kastle (College Park),ical,LIVE,77,3.3,,2026-11-25 Warhammer Free Play (MIN); 2026-12-02 Warhammer Free Play (MIN); 2026-12-09 Warhammer Free Play (MIN),2026-11-21 19:20
-Victory Comics,ical,LIVE,45,2.4,,2026-12-01 Nexus Night at Victory Comics; 2026-12-08 Nexus Night at Victory Comics; 2026-11-24 Star Wars Unlimited Weekly Play,2026-11-21 19:20
-Games & Comics Pair O' Dice (Fairfax),ical,LIVE,51,0.5,,2026-11-27 MTG Modern; 2026-12-04 MTG Modern; 2026-12-11 MTG Modern,2026-11-21 19:20
-Break My Game,recurring,RECURRING,0,0.0,,,2026-11-21 19:20
-Beer & Board Games,ical,LIVE,9,0.6,,2026-11-22 High Interaction Board Games at Western ; 2026-11-23 Bring Your Own Game Night in DC at Nanny; 2026-11-25 Board Game Night @ Ballston Quarter Food,2026-11-21 19:20
-The DC Area Board Game Club,ical,EMPTY,0,0.3,,,2026-11-21 19:20
-Hollywood Ballroom,xhr,LIVE,16,0.8,,2026-11-22 SUNDAY SOCIAL BALLROOM DANCE; 2026-11-25 AMERICAN STYLE LESSONS; 2026-11-25 Mr. Mambo's,2026-11-21 19:20
-Baila DC (socials),recurring,RECURRING,1,0.0,,2026-12-03 Baila Thursdays Salsa Social,2026-11-21 19:20
-Carpe Diem Arts,ical,LIVE,27,0.3,,2026-12-10 Contra Dance Silver Spring; 2026-12-04 Solidarity Sing @ Church of the Ascensio; 2026-12-10 Dance Lessons for Contra Dance Beginners,2026-11-21 19:20
-District Clay Center (One Shot classes),recurring,RECURRING,10,0.0,,2026-11-27 One Shot wheel class; 2026-12-04 One Shot wheel class; 2026-12-11 One Shot wheel class,2026-11-21 19:20
-DC Social Guide,xhr,EMPTY,0,0.6,,,2026-11-21 19:20
+GatherDC,api,LIVE,46,1.3,,2026-11-21 Fall Fest 2026 with Moishe House Arlingt; 2026-11-22 Everything But The Turkey: Young Profess; 2026-11-22 Gelt Drop and Chanukah Funday with Chaba,2026-11-21 21:28
+EntryPointDC (Edlavitch DCJCC),ical,LIVE,24,1.7,,2026-11-22 Everything But The Turkey: Young Familie; 2026-11-22 Everything But The Turkey: Young Profess; 2026-11-22 Everything But The Turkey,2026-11-21 21:28
+Sixth & I,api,LIVE,14,1.7,,"2026-11-23 Small Groups, Big Questions; 2026-11-26 Office Closed; 2026-11-30 Small Groups, Big Questions",2026-11-21 21:28
+2239 (Washington Hebrew Congregation),api,EMPTY,0,2.4,,,2026-11-21 21:28
+Next Gen (Jewish Federation of Greater Washington),ical,LIVE,29,1.1,,"2026-11-21 Tot Shabbat Storytime; 2026-11-21 Theater J's The Flying Lovers of Vitebsk; 2026-11-21 Shlemiel, Shlemazel Comedy Show",2026-11-21 21:28
+Bhakti Yoga DC,recurring,RECURRING,3,0.0,,2026-11-26 Satsang; 2026-12-03 Satsang; 2026-12-10 Satsang,2026-11-21 21:28
+Ecstatic Dance DC,recurring,RECURRING,3,0.0,,2026-11-26 Ecstatic Dance DC; 2026-12-03 Ecstatic Dance DC; 2026-12-10 Ecstatic Dance DC,2026-11-21 21:28
+Eaton Wellness,xhr,LIVE,27,1.0,,"2026-11-23 A Tibetan Bowl Sound Bath for Mental Hea; 2026-11-24 Yoga: Move, breathe, and reconnect, en e; 2026-11-24 Yogalates with Kaya: The mindfulness of ",2026-11-21 21:28
+Authentic Relating DC,ical,LIVE but thin,1,0.4,,2026-11-28 Authentic Relating: A Journey into Heart,2026-11-21 21:28
+DC Contact Improv,recurring,RECURRING,3,0.0,,2026-11-22 Sunday Jam (1st Sunday = Underscore); 2026-11-29 Sunday Jam (1st Sunday = Underscore); 2026-12-06 Sunday Jam (1st Sunday = Underscore),2026-11-21 21:28
+Blueberry Gardens Healing Center,ical,LIVE but thin,2,0.2,,2026-11-23 All-Levels Yoga; 2026-11-30 All-Levels Yoga,2026-11-21 21:28
+The Center for Mindful Living,recurring,RECURRING,4,0.0,,2026-11-21 In-Person Living Dharma Circle; 2026-11-28 In-Person Living Dharma Circle; 2026-12-05 In-Person Living Dharma Circle,2026-11-21 21:28
+Satchidananda Ashram-Yogaville,ical,LIVE,3,0.2,,2026-11-21 Satsang with Siva Fiske; 2026-11-26 Thanksgiving Worship Service; 2026-12-04 Hanukkah Program,2026-11-21 21:28
+Georgetown University (university-wide),api,LIVE,98,0.8,,2026-11-23 MSFS Virtual Student Panel; 2026-11-23 AMUN Chicago; 2026-11-23 Sheer Will: Learning to Lead When There ,2026-11-21 21:28
+Georgetown School of Foreign Service,api,LIVE,9,0.5,,2026-12-01 Sixth Annual AI in Action Conference: Wh; 2026-12-01 Policies to Put Workers First in the AI ; 2026-12-02 The Quest for Democracy in Saudi Arabia:,2026-11-21 21:28
+Georgetown Institute of Politics and Public Service,ical,EMPTY,0,0.7,,,2026-11-21 21:28
+Georgetown Department of Government,api,LIVE but thin,2,0.3,,2026-12-02 Government MA Programs Information Sessi; 2026-12-11 M.A. in Democracy & Governance Virtual I,2026-11-21 21:28
+George Washington University (university-wide),api,LIVE,92,4.1,,2026-11-21 George Washington University Men's Swimm; 2026-11-21 George Washington University Women's Swi; 2026-11-21 Common Ground Micro-Grant Application,2026-11-21 21:28
+GW Elliott School of International Affairs,ical,LIVE,7,14.6,,"2026-12-01 Fireside Chat with Hon. John Jovanovic, ; 2026-12-02 Global Perspectives on COP-31; 2026-12-02 Pivot to Asia 3.0? Navigating Future All",2026-11-21 21:28
+Mexican Cultural Institute,xhr,LIVE but thin,1,0.9,,2026-11-21 Lele Doll Workshop: Create Your Own Mexi,2026-11-21 21:28
+La Maison Francaise (Embassy of France),ical,LIVE,4,0.8,,"2026-11-21 Beaujolais and Beyond Celebration 2026; 2026-12-02 ""The American Dream"" by Anthony Marciano; 2026-12-04 Great Masters: Georgy Sviridov & Dmitri ",2026-11-21 21:28
+Socrates Cafe Rockville,ical,LIVE but thin,2,0.2,,2026-11-29 Aristotle's Café; 2026-12-05 Socrates Café Rockville Meetup,2026-11-21 21:28
+Practical Philosophy Club (Washington DC),ical,LIVE,3,1.0,,2026-11-25 WASHINGTON 🇺🇸 Practical Philosophy Meetu; 2026-12-02 WASHINGTON 🇺🇸 Practical Philosophy Meetu; 2026-12-09 WASHINGTON 🇺🇸 Practical Philosophy Meetu,2026-11-21 21:28
+Effective Altruism DC,ical,LIVE but thin,1,0.1,,"2026-12-01 Your Next Act, Your Highest Impact: EA D",2026-11-21 21:28
+Interintellect,xhr,ERROR,0,16.2,HTTPError: HTTP Error 500: ,,2026-11-21 21:28
+Braver Angels DC Alliance,ical,EMPTY,0,0.3,,,2026-11-21 21:28
+Profs and Pints (Washington DC),ical,LIVE,5,0.5,,2026-12-02 Profs & Pints DC: How Ancient Athens Res; 2026-12-06 Profs & Pints Northern Virginia: You Bet; 2026-12-06 Profs & Pints Northern Virginia: Managin,2026-11-21 21:28
+DC Policy Events (aggregator),api,LIVE,94,1.5,,2026-11-21 Views Navigation; 2026-11-23 Restoring State Sovereignty in Lebanon: ; 2026-11-23 What Washington’s peace push means for U,2026-11-21 21:28
+People's Book (Takoma Park),api,EMPTY,0,2.5,,,2026-11-21 21:28
+DC Public Library: DC Reads,xhr,LIVE,29,1.3,,2026-11-21 Friends Book Sale; 2026-11-21 Books and Boxing; 2026-11-21 Reading All-Stars with Northstar,2026-11-21 21:28
+Rock Creek Conservancy,xhr,ERROR,0,0.5,HTTPError: HTTP Error 403: ,,2026-11-21 21:28
+Casey Trees,ical,LIVE but thin,1,0.3,,2026-12-08 The Historic Elms of Mount Pleasant (Res,2026-11-21 21:28
+Anacostia Watershed Society,api,ERROR,0,0.4,HTTPError: HTTP Error 403: ,,2026-11-21 21:28
+Capital Area Food Bank,xhr,LIVE,58,0.5,,2026-11-21 Arlington Community Marketplace; 2026-11-21 Prince George&#39;s Community Marketplac; 2026-11-21 DC: Saturday Morning,2026-11-21 21:28
+HacDC,ical,LIVE,6,0.4,,2026-11-23 Open Hac; 2026-11-26 Hardware Hacking Night; 2026-11-30 Open Hac,2026-11-21 21:28
+Data Science DC,ical,EMPTY,0,0.2,,,2026-11-21 21:28
+Data Community DC,ical,LIVE,3,0.4,,2026-12-01 AI Agents at Work | Editing Media and Le; 2026-12-02 AI Health Tech Happy Hour - Sponsored by; 2026-12-08 Data Viz DC: Mapping Knowledge Across Ti,2026-11-21 21:28
+DC Python,ical,EMPTY,0,0.2,,,2026-11-21 21:28
+PSW Science,ical,LIVE but thin,1,0.2,,2026-12-04 PSW SCIENCE,2026-11-21 21:28
+Game Kastle (College Park),ical,LIVE,77,2.2,,2026-12-02 Battletech Demo - Classic and Alpha Stri; 2026-12-01 Flesh & Blood Armory - Silver Age (TCG); 2026-11-24 Tuesday Night TTRPG Pathfinder 2nd Editi,2026-11-21 21:28
+Victory Comics,ical,LIVE,45,3.1,,2026-11-21 Pokemon League Open Play; 2026-12-05 Pokemon League Open Play; 2026-11-24 LGBTQIA+ Comic Night,2026-11-21 21:28
+Games & Comics Pair O' Dice (Fairfax),ical,LIVE,51,0.4,,2026-11-25 Riftbound Nexus Night; 2026-12-02 Riftbound Nexus Night; 2026-12-09 Riftbound Nexus Night,2026-11-21 21:28
+Break My Game,recurring,RECURRING,0,0.0,,,2026-11-21 21:28
+Beer & Board Games,ical,LIVE,9,0.4,,2026-11-22 High Interaction Board Games at Western ; 2026-11-23 Bring Your Own Game Night in DC at Nanny; 2026-11-25 Board Game Night @ Ballston Quarter Food,2026-11-21 21:28
+The DC Area Board Game Club,ical,EMPTY,0,0.3,,,2026-11-21 21:28
+Hollywood Ballroom,xhr,LIVE,16,2.2,,2026-11-22 SUNDAY SOCIAL BALLROOM DANCE; 2026-11-25 AMERICAN STYLE LESSONS; 2026-11-25 Mr. Mambo's,2026-11-21 21:28
+Baila DC (socials),recurring,RECURRING,1,0.0,,2026-12-03 Baila Thursdays Salsa Social,2026-11-21 21:28
+Carpe Diem Arts,ical,LIVE,27,0.3,,2026-11-21 Daily Antidote of Song; 2026-11-22 Daily Antidote of Song; 2026-11-23 Daily Antidote of Song,2026-11-21 21:28
+District Clay Center (One Shot classes),recurring,RECURRING,10,0.0,,2026-11-27 One Shot wheel class; 2026-12-04 One Shot wheel class; 2026-12-11 One Shot wheel class,2026-11-21 21:28
+DC Social Guide,xhr,EMPTY,0,0.9,,,2026-11-21 21:28
