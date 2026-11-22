@@ -1,6 +1,6 @@
 MoCA Arlington
 https://mocaarlington.org/events/
-fetched 2026-11-15 00:19Z  status=200 chars=3105 error=
+fetched 2026-11-22 00:20Z  status=200 chars=3286 error=
 
 Public Programs – Museum of Contemporary Art Arlington
 Gala
@@ -41,7 +41,7 @@ Visit
 More 
 Public Programs
 Yoga in the Galleries: Saturday Mornings
-Saturdays / 9:30am - 10:30am & 11am - 12pm
+Saturdays / 11am - 12pm
 Join us in the Tiffany Gallery for an inspiring yoga flow session.
 Teen Art Prize
 Submission Deadline: Friday, January 8, 11:59 PM
@@ -55,7 +55,7 @@ For young children and their caretakers, Young Explorers is a drop-in program he
 MoCA on the Move: Handcrafted Holidays
 Thursdays / Nov 5 - Dec 17 / 5pm - 7pm / Innovation Studio + Store
 Feeling festive? Join us for holiday crafting fun, from making giant paper snowflakes to painting candlesticks. Free!
-Friday Tours: Assembly 2026
+Curator-Led Friday Tours: Assembly 2026
 Select Fridays / 12pm
 Learn more about the exhibitions in Assembly 2026 with MoCA Arlington Senior Curator Blair Murphy. In a series of Friday tours, she will discuss the exhibitions and the overall vision for Assembly 2026.
 Sound Bath in the Tiffany Gallery
@@ -67,6 +67,9 @@ Catch the vibe of wellness. Every 1st Wednesday is intuitive art-making. Explore
 Yogalates + Matcha
 Sunday / December 6 / 3PM - 4:30PM
 Join yoga and pilates instructor, Chelsea Estevez, for an afternoon yogalates session followed by Matcha tasting! Register to attend.
+Sagittarius Party!
+Sunday / December 13 / 4pm - 7pm
+Celebrate MoCA Arlington’s birthday! Planetarium shows, tarot, aura photos, costume contest, art making + more. All star signs welcome.
 Meditation in the Galleries
 3rd Sundays (Starting in December) / 12:30pm - 1pm
 Invite mindfulness practices into your experience with art. A free program hosted the 3rd Sunday of each month.

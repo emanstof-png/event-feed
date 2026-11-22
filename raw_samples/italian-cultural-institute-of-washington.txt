@@ -1,6 +1,6 @@
 Italian Cultural Institute of Washington
 https://iicwashington.esteri.it/en/eventi/
-fetched 2026-11-15 00:22Z  status=200 chars=3958 error=
+fetched 2026-11-22 00:20Z  status=200 chars=4983 error=
 
 Events – Istituto Italiano di Cultura di Washington
 This site uses technical (necessary) and analytics cookies. 
@@ -49,9 +49,17 @@ Fri Jan 22 2027
 exhibition > Art and Life in Imperial Rome. Trajan and His Time
 On view until January 22, 2027 The Embassy of Italy and the Italian Cultural Institute of Washington present “Art and Life in Imperial Rome. Trajan and His Time”—an exhibition showcasing the Roman Empire’s golden age. Step into the world of Trajan, when Rome’s reach and influence extended across three continents, through the art, artifacts, and […]
 Read more
+ Fri Dec 04 2026                                    
+architecture > Aalto: Architect of Emotions at the National Geographic Museum of Exploration
+The National Geographic Society, the Embassy of Finland, and the Italian Cultural Institute present a special screening of Aalto: Architect of Emotions (2020) at the National Geographic Museum of Exploration in Washington, D.C. Discover the life and visionary work of Alvar Aalto and his collaborators, Aino and Elissa Aalto. Before the screening, a panel of […]
+Read more
  Wed Dec 09 2026                                    
 book > Enterprise & Vision: The Story of Adriano Olivetti
 Discover Adriano Olivetti, the visionary who helped shape the future of computing while redefining the role of business in society.Edited by Prof. Luigi Troiani, this book celebrates Olivetti’s extraordinary legacy of innovation, design, and human dignity. Prof. Troiani will be joined for the presentation by Marco Zeppieri, Vice President of the Fondazione Buozzi. This event […]
+Read more
+ Wed Dec 16 2026                                    
+music > Duo Noble: Serenata Italiana
+The Italian Cultural Institute of Washington presents Serenata Italiana, a concert featuring Duo Noble—Michael Noble, piano, and Mounir Mahmalat, cello—at the Embassy of Italy. The program brings together sonatas by Francesco Cilea and Claude Debussy, the Serenata from Igor Stravinsky’s Pulcinella Suite, Ottorino Respighi’s Adagio con variazioni, and Robert Schumann’s Fantasiestücke. Join us for an […]
 Read more
 Pagination
 NAVIGATE IN THE SECTION

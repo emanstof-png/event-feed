@@ -1,9 +1,8 @@
 The Washington Ballet
 https://www.washingtonballet.org/events/
-fetched 2026-11-15 00:19Z  status=200 chars=4208 error=
+fetched 2026-11-22 00:20Z  status=200 chars=4058 error=
 
 Events | The Washington Ballet
-			Due to the Microsoft outage, our email is temporarily down. We’ll reply to messages as soon as service is restored. Thank you for your patience.		
 Home
 Calendar
 Donate

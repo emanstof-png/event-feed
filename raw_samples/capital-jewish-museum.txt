@@ -1,6 +1,6 @@
 Capital Jewish Museum
 https://capitaljewishmuseum.org/calendar/?all_events=1
-fetched 2026-11-15 00:19Z  status=200 chars=6151 error=
+fetched 2026-11-22 00:20Z  status=200 chars=6111 error=
 
 Special Exhibits & Programs DC | Capital Jewish Museum Calendar
 Skip to content
@@ -15,36 +15,30 @@ Menu
 Close
 Visit
 Plan Your Visit
-Accessibility
-Tour the Museum
+Group Tours
 Security Procedures
+Accessibility
 Programs
 Exhibitions
-Learn
-Community Action Lab
-Educator Resources
+Education
 School Group Visits
-Family Events
+Educator Resources
 Collections
-Donate to the Collection
-Explore the Collections
-Collection Highlights
+Explore the Collection
+Donate Items to the Collection
 Support
 Membership
 Ways to Give
-Volunteer
-Member Events
 2026 Gala
 Our Supporters
 About
-Mission and Values
-Leadership & Staff
-Opportunities
-Press
-The Whole Spiel Blog
-Annual Reports
+Mission & Values
 Our History
-FAQ
+Leadership & Staff
+Press
+Annual Reports
+Volunteer
+Opportunities
 Contact Us
 Rentals
 Shop
@@ -88,17 +82,20 @@ Wednesday, December 9, 2026 5–7 pm
 Halfway Through Hanukkah Market
 Wednesday, December 9, 2026 12–7 pm
       Family      Program
+Community Days: Esther Bubley
+Wednesday, December 9, 2026 10am–5 pm
+      Educator      Program
+Teaching Judaism Today: Content, Culture, and Connection
+Wednesday, December 9, 2026 4–6 pm
+      Family      Program
 Story Time @ CJM
-Thursday, November 12, 2026, 10-11am
+Thursday, December 12, 2026, 10-11am
       Public      Program
 Author Talk with James Loeffler: Exceptional Hatred: Antisemitism and the Fight over Free Speech in Modern America
 Wednesday, December 16, 2026 6:30pm–8 pm
-      Public      Program
+      Family      Program
 December 25 @ CJM: Wrapped in Tradition
 Friday, December 25, 2026 10am–2 pm
-      Family      Program
-Community Days: Esther Bubley
-Wednesday, December 9, 2026 10am–5 pm
 Past Programs
 Mahjong in the Museum, Fall 2024
       Drop-In      Program
@@ -188,20 +185,23 @@ E-Newsletter
 Stay informed by signing up for our E-Newsletters!
 Sign Up Here
 Additional Links (A)
-Contact Us
 Members Portal
-The Whole Spiel Blog
+Blog
+Shop
 Rentals
 Press
+Contact Us
 Privacy Policy
 Address
+Open Wednesday - Sunday
+10 am - 5 pm
 Lillian and Albert Small
 Capital Jewish Museum
 575 3rd Street, NW
 Washington, DC 20001
 202.789.0900
 Metro to Judiciary Square
-© 2023–2025
+© 2023–2026
 All rights reserved.
 Social Media Links
 Facebook
@@ -209,36 +209,30 @@ Facebook
  YouTube
 Visit
 Plan Your Visit
-Accessibility
-Tour the Museum
+Group Tours
 Security Procedures
+Accessibility
 Programs
 Exhibitions
-Learn
-Community Action Lab
-Educator Resources
+Education
 School Group Visits
-Family Events
+Educator Resources
 Collections
-Donate to the Collection
-Explore the Collections
-Collection Highlights
+Explore the Collection
+Donate Items to the Collection
 Support
 Membership
 Ways to Give
-Volunteer
-Member Events
 2026 Gala
 Our Supporters
 About
-Mission and Values
-Leadership & Staff
-Opportunities
-Press
-The Whole Spiel Blog
-Annual Reports
+Mission & Values
 Our History
-FAQ
+Leadership & Staff
+Press
+Annual Reports
+Volunteer
+Opportunities
 Contact Us
 Rentals
 Shop

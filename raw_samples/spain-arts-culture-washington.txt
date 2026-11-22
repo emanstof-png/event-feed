@@ -1,6 +1,21 @@
 SPAIN arts & culture (Washington)
 https://www.spainculture.us/city/washington-dc/feed/
-fetched 2026-11-15 00:22Z  status=25 items chars=16669 error=
+fetched 2026-11-22 00:20Z  status=25 items chars=16507 error=
+
+Winter Soirée: Cubas Hondal Duo
+Thu, 10 Dec 2026 18:30:00 -0500
+<p><img alt="Winter Soirée: Cubas Hondal Duo" src="https://www.spainculture.us/site/assets/files/9555/crisymarrta_portada_grande_vinculo_original.-grande.jpg" /></p><p><strong>Date:</strong> Dec 10, 2026</p><p><strong>Address:</strong> Spanish Cultural Center, 2801 16th St NW, Washington, DC 20009</p><p>This event will feature an evening of music and cultural exchange with Spanish sisters Marta and Cristina Cubas Hondal, blending classical sounds with the vibrant musical traditions of Spain and Latin America.</p>
+https://www.spainculture.us/city/washington-dc/winter-soiree-cubas-hondal-duo/
+
+Spanish Young Music Talents: Cubas Hondal Duo in Washington, DC
+Wed, 09 Dec 2026 18:00:00 -0500
+<p><img alt="Spanish Young Music Talents: Cubas Hondal Duo in Washington, DC" src="https://www.spainculture.us/site/assets/files/9565/mg_8835-scaled-e1637569293627.-grande.jpg" /></p><p><strong>Date:</strong> Dec 9, 2026</p><p><strong>Address:</strong> Arts Club of Washington, 2017 I St NW, Washington, DC 20006</p><p>This event will feature an evening of music and cultural exchange with Spanish sisters Marta and Cristina Cubas Hondal, blending classical sounds with the vibrant musical traditions of Spain and Latin America.</p>
+https://www.spainculture.us/city/washington-dc/cubas-hondal-duo-in-washington-dc/
+
+2026 AFI European Union Film Showcase
+Fri, 04 Dec 2026 00:00:00 -0500
+<p><img alt="2026 AFI European Union Film Showcase" src="https://www.spainculture.us/site/assets/files/9556/chang-la-bola-negra.-grande.jpg" /></p><p><strong>Date:</strong> Dec 4 &ndash; Dec 16, 2026</p><p><strong>Address:</strong> AFI Silver Theatre and Cultural Center, 8633 Colesville Road, Silver Spring, MD 20910</p><p>The 39th edition of the &quot;AFI European Union Film Showcase&quot; celebrates the best of European cinema, bringing together award-winning films and talent, including the screening of four acclaimed Spanish films.</p>
+https://www.spainculture.us/city/washington-dc/2026-afi-european-union-film-showcase/
 
 Spanish Dance Workshop by Cristina Cazorla
 Fri, 20 Nov 2026 11:30:00 -0500
@@ -9,7 +24,7 @@ https://www.spainculture.us/city/washington-dc/spanish-dance-workshop-by-cristin
 
 Spanish Stories Take the Stage
 Thu, 19 Nov 2026 18:30:00 -0500
-<p><img alt="Spanish Stories Take the Stage" src="https://www.spainculture.us/site/assets/files/9540/portadas_web_4.-grande.jpg" /></p><p><strong>Date:</strong> Nov 19, 2026</p><p><strong>Address:</strong> Spanish Cultural Center, 2801 16th St NW, Washington, DC 20009</p><p>Two remarkable encounters between Spain and the United States take center stage in this new presentation of Microtheater 250, featuring contemporary Spanish plays performed in English.</p>
+<p><img alt="Spanish Stories Take the Stage" src="https://www.spainculture.us/site/assets/files/9540/portadas_web_4.-grande.jpg" /></p><p><strong>Date:</strong> Nov 19, 2026</p><p><strong>Address:</strong> Spanish Cultural Center, 2801 16th St NW, Washington, DC 20009</p><p>Two remarkable encounters between Spain and the United States take center stage in this new presentation of &quot;Microtheater 250,&quot; featuring contemporary Spanish plays performed in English.</p>
 https://www.spainculture.us/city/washington-dc/microtheater-250-across-the-atlantic-from-the-page-to-the-stage/
 
 Spanish Young Music Talents: Amarilis Dueñas in Washington, DC
@@ -111,18 +126,3 @@ Spanish Young Music Talents: Javier Lucío in Washington, DC
 Tue, 13 Oct 2026 18:30:00 -0400
 <p><img alt="Spanish Young Music Talents: Javier Lucío in Washington, DC" src="https://www.spainculture.us/site/assets/files/9490/javier_vertical.-grande.jpg" /></p><p><strong>Date:</strong> Oct 13, 2026</p><p><strong>Address:</strong> Spanish Cultural Center, 2801 16th St NW, Washington, DC 20009</p><p>Spanish guitarist Javier Lucío visits Washington, DC, as this month’s guest of &quot;Spanish Young Music Talents,&quot; presenting a solo guitar recital.</p>
 https://www.spainculture.us/city/washington-dc/spanish-young-music-talents-javier-lucio-in-washington-dc/
-
-National Museum of Women in the Arts Spanish Tour
-Sat, 10 Oct 2026 12:00:00 -0400
-<p><img alt="National Museum of Women in the Arts Spanish Tour" src="https://www.spainculture.us/site/assets/files/9496/nmwa_evergreen-46_f7fa29f0-5c72-4508-9cb5f3ad0ea4f14b_e6f19121-8305-430e-ba5c9e8bfe5064e4_1.-grande.jpg" /></p><p><strong>Date:</strong> Oct 10, 2026</p><p><strong>Address:</strong> National Museum of Women in the Arts, 1250 New York Ave NW, Washington, DC 20005</p><p>NMWA presents an interactive Spanish-language tour that features four to six works on view celebrating artists from around the world who found inspiration at home and abroad including works by Spanish artist Remedios Varo.</p>
-https://www.spainculture.us/city/washington-dc/tour-nmwa-en-espanol-at-the-national-museum-of-women-in-the-arts/
-
-Spanish Young Music Talents: Javier Lucío at National Geographic
-Fri, 09 Oct 2026 17:30:00 -0400
-<p><img alt="Spanish Young Music Talents: Javier Lucío at National Geographic" src="https://www.spainculture.us/site/assets/files/9489/javier_lucio.-grande.jpg" /></p><p><strong>Date:</strong> Oct 9, 2026</p><p><strong>Address:</strong> The Courtyard at National Geographic Museum of Exploration, 1600 M St NW, Washington, DC 20036</p><p>Spanish guitar player Javier Lucío, guest of &quot;Spanish Young Music Talents,&quot; presents a solo recital at National Geographic&apos;s &quot;Concerts in the Courtyard&quot;.</p>
-https://www.spainculture.us/city/washington-dc/spanish-young-music-talents-javier-lucio-at-national-geographic/
-
-Science Over Coffee: Wildlife Conservation
-Fri, 02 Oct 2026 09:00:00 -0400
-<p><img alt="Science Over Coffee: Wildlife Conservation" src="https://www.spainculture.us/site/assets/files/9458/chasing_monarchs_photo_3_3.-grande.jpg" /></p><p><strong>Date:</strong> Oct 2, 2026</p><p><strong>Address:</strong> Spanish Cultural Center, 2801 16th St NW, Washington, DC 20009</p><p>Spanish scientist, photographer, and National Geographic Explorer Jaime Rojo and NOAA environmental policy specialist Dr. Seth Sykora-Bodie discuss wilderness conservation, large-landscape connectivity, presented with National Geographic.</p>
-https://www.spainculture.us/city/washington-dc/science-over-coffee-wildlife-conservation/

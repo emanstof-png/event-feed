@@ -1,6 +1,6 @@
 Goethe-Institut Washington
 https://www.goethe.de/ins/us/en/rss/was/ver.rss
-fetched 2026-11-15 00:22Z  status=10 items chars=9612 error=
+fetched 2026-11-22 00:20Z  status=10 items chars=9612 error=
 
 Story Time : 03.11.2026, Family Story Time
 Tue, 03 Nov 2026 00:00:00 +0200

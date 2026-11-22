@@ -1,11 +1,12 @@
 The Phillips Collection
 https://www.phillipscollection.org/events
-fetched 2026-11-15 00:19Z  status=200 chars=4583 error=
+fetched 2026-11-22 00:20Z  status=200 chars=4674 error=
 
 Events | The Phillips Collection
         Skip to main content
 The Phillips Collection is open Tuesday-Sunday, 10 am-5 pm (Sunday, 10-11 am members only, shop and cafe open to the public). Members always admitted free. 
 Plan your visit
+The museum will be closed on Thanksgiving Day, Thursday, November 26.
 Close
 Toggle Site Navigation
 Search
@@ -92,30 +93,10 @@ Phillips after 5
 Wellness
 From Date:
 To Date
-Drop-in Family Program
-                    November 14, 2026, 10 am-1 pm
-The Phillips Plays
-        Registration Open
-        /        In-Person
-Sunday Concert
-                    November 15, 2026, 4-6 PM
-Henry Kramer
-        Rush and standby tickets
-        /        In-Person
-Performances
-                    November 19, 2026, 6:30-7:30 pm
-Alchemy Ballet: Avery, Gottlieb & Rothko: By the Sea
-        Sold Out
-        /        In-Person
-Extended Hours
-                    November 19, 2026, 5-8 pm
-Third Thursday
-        Registration Open
-        /        Free / In-Person
 Sunday Concert
                     November 22, 2026, 4-6 PM
 Catalyst Quartet 
-        Sold Out
+        Rush and standby tickets
         /        In-Person
 Art & Wellness
                     November 23, 2026, 1-3 pm
@@ -152,6 +133,25 @@ Living Room
 Conservation Insights on Avery, Gottlieb & Rothko
         Registration Open
         /        In-Person
+Gallery Talk
+                    December 11, 2026, 4-4:30 pm
+Hear from the Artist: Kaitlyn Segreti
+                Free / In-Person
+Drop-in Family Program
+                    December 12, 2026, 10 am-1 pm
+The Phillips Plays
+        Registration Open
+        /        In-Person
+Sunday Concert
+                    December 13, 2026, 4-6 PM
+Lorelei Ensemble
+        Sold Out
+        /        In-Person
+Member Morning
+                    December 15, 2026, 10-11 am
+Avery, Gottlieb & Rothko: By the Sea Member Morning
+        Registration Open
+        /        Free / Online / Members
 Pagination
               Current page
 1

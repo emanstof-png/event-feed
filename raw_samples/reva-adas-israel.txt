@@ -1,6 +1,6 @@
 Reva (Adas Israel)
 https://www.adasisrael.org/reva
-fetched 2026-11-15 00:22Z  status=200 chars=14011 error=
+fetched 2026-11-22 00:21Z  status=200 chars=14012 error=
 
 Reva - 20s, 30s, early 40s - Adas Israel Congregation
                              I need human help to enter verification code (office hours only)
@@ -220,7 +220,7 @@ membership page
  and/or reach out to 
 Emma Fensterheim
 !
-            Sat, November 14, 2026 4 Kislev 5787        
+            Sat, November 21, 2026 11 Kislev 5787        
 Reach Out
 Adas Israel Congregation
 			2850 Quebec St. NW

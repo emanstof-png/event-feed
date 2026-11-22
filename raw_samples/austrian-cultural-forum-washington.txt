@@ -1,6 +1,6 @@
 Austrian Cultural Forum Washington
 https://www.acfdc.org/events
-fetched 2026-11-15 00:22Z  status=200 chars=18741 error=
+fetched 2026-11-22 00:20Z  status=200 chars=18368 error=
 
 Events — Austrian Cultural Forum Washington DC
 0
@@ -53,20 +53,6 @@ Back
 Archive
                 sign up for our newsletter
 events
-Nov
-17
-LUCID DUO | Tradition & Innovation
-Tuesday, November 17, 2026
-7:00 PM
-9:00 PM
-                  Embassy of Austria
-(map)
-Google Calendar
-ICS
-Discover the marimba’s expressive range in a captivating concert with the Vienna-based 
-Lucid Duo
-. Marimbists Irena Manolova and Tomasz Goliński celebrate 15 years of artistic collaboration and a shared passion for their remarkable instrument.
-            View Event →
 Dec
 2
 ALPINE AMBITIONS & ALPENLAND | Exhibition & Film Screening 
@@ -81,6 +67,22 @@ Stretching across eight European countries and home to more than 13 million peop
 Join the ACF DC for a special evening celebrating the beauty, people, and cultural heritage of the Alps, as well as Austria's lasting influence on skiing culture in the United States.
             View Event →
 Dec
+2
+to Dec 20
+AFI EUROPEAN UNION FILM SHOWCASE | Film Festival 
+Wed, Dec 2, 2026
+8:00 PM
+Sun, Dec 20, 2026
+9:00 PM
+                  AFI Silver Theatre and Cultural Center
+(map)
+Google Calendar
+ICS
+As a proud supporter of this festival, we invite you to discover the 39th annual 
+AFI European Union Film Showcase
+, featuring 57 films from all 27 EU member states, including 25 Oscar submissions for Best International Feature Film!
+            View Event →
+Dec
 10
 A CHRISTMAS JOURNEY | Jakob Steinkellner & Tomas Novak 
 Thursday, December 10, 2026
@@ -93,6 +95,20 @@ ICS
 Join us for a special Christmas concert featuring Austrian musicians 
 Jakob Steinkellner
  and Tomáš Novák. Combining the Styrian accordion, violin, and vocals, Jakob and Tomáš blend Alpine traditions with classical music, pop, and Christmas melodies.
+            View Event →
+Nov
+17
+LUCID DUO | Tradition & Innovation
+Tuesday, November 17, 2026
+7:00 PM
+9:00 PM
+                  Embassy of Austria
+(map)
+Google Calendar
+ICS
+Discover the marimba’s expressive range in a captivating concert with the Vienna-based 
+Lucid Duo
+. Marimbists Irena Manolova and Tomasz Goliński celebrate 15 years of artistic collaboration and a shared passion for their remarkable instrument.
             View Event →
 Nov
 10
@@ -631,21 +647,6 @@ Yvonne Moriel
  and her 
 sweetlife 
 quartet present their debut album.
-            View Event →
-Oct
-27
-Zeitgeist 2025 | Literature Festival | Book Talk
-Monday, October 27, 2025
-7:00 PM
-8:00 PM
-                  Kramers
-(map)
-Google Calendar
-ICS
-As part of the 
-Zeitgeist Literature Festival
-, we are delighted to invite you to our second event at Kramers Bookstore.
-At this evening,  Alois Hotschnig (Austria) and Khuê Phạm (Germany) will read from their recent work and discuss how they use literature to disrupt conventional notions of the familiar and the strange, of self and other, of identity, intimacy, belonging and estrangement. Identity is pressure-tested to surprising and unexpected effect in these engaging and thought-provoking stories. The following Q&A session offers you the chance to engage more directly with the authors and their work. The evening will conclude with a book signing.
             View Event →
 CULTURE@AUSTRIA.ORG
 Austrian Cultural Forum Washington / 
