@@ -9,7 +9,7 @@ on:
       list:
         description: "Which source list: main (Sources tab) or elite (Elite Sources tab)"
         type: choice
-        options: [main, elite]
+        options: [main, elite, nightlife]
         default: main
       names:
         description: "Optional: source names, separated by |"

@@ -8,7 +8,7 @@ on:
       list:
         description: "Which source list: main (Sources tab) or elite (Elite Sources tab)"
         type: choice
-        options: [main, elite]
+        options: [main, elite, nightlife]
         default: main
 
 env:
@@ -40,7 +40,7 @@ jobs:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
         run: |
           START=$(date +%s)
-          SUF=_full; [ "$FEED_LIST" = elite ] && SUF=_elite_full
+          SUF=_full; [ "$FEED_LIST" != main ] && SUF=_${FEED_LIST}_full
           python fetch.py --csv --out $SUF --workers 6 || true
           END=$(date +%s)
           KEY=no; [ -n "$ANTHROPIC_API_KEY" ] && KEY=yes
