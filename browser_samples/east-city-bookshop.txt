@@ -1,6 +1,6 @@
 East City Bookshop
 https://www.eastcitybookshop.com/events
-rendered 2026-11-15 00:36Z  status=200 chars=1549 iframes=0 srcdoc=0 next=False error=
+rendered 2026-11-22 00:23Z  status=200 chars=1745 iframes=0 srcdoc=0 next=False error=
 
  Events | 
 
@@ -20,6 +20,13 @@ Schools and Community Outreach 
 About 
 More Menus
  Events
+Holiday hours
+: 
+Wednesday, November 25th: Open 11am-3pm
+Thursday, November 26th: 
+Closed
+We will reopen for regular hours on Friday, November 27th. 
+Join us for Small Business Saturday on November 28th!
 
 Find us at
 East City Bookshop
@@ -92,7 +99,7 @@ Educators
 Teacher Wish Lists
 Community Partnerships
 School Visit Book Fund
-Eliot-Hine Middle School Book Fair
+St. Peter School Book Fair
 Our Story
 Our Values
 Our Space

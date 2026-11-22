@@ -1,6 +1,6 @@
 Sixth & I
 https://www.sixthandi.org/events/
-rendered 2026-11-15 00:34Z  status=200 chars=29960 iframes=0 srcdoc=0 next=True error=
+rendered 2026-11-22 00:21Z  status=200 chars=32155 iframes=0 srcdoc=0 next=True error=
 
 
 
@@ -148,7 +148,7 @@ Events
 
 	This Month
 
-				2026-11-14			
+				2026-11-21			
 
 				November 2026			
 
@@ -679,21 +679,39 @@ This five-week meetup offers a space to think through life’s big questions usi
 
 					25			
 
-			0 events		
+			1 event		
 
 			26		
 
-		0 events,
+		1 event,
 
-					26			
+				26			
 
-			0 events		
+	2026-11-26
+
+	Office Closed
+
+	Office Closed
+
+November 26
+ - 
+November 27
+
+		Office Closed	
+
+Sixth & I is closed Thursday, November 26 and Friday, November 27 for Thanksgiving. We will re-open Monday, November 30 at 9:00 am. 
+
+			1 event		
 
 			27		
 
-		0 events,
+		1 event,
 
-					27			
+				27			
+
+	2026-11-26
+
+	Office Closed
 
 			0 events		
 
@@ -777,19 +795,29 @@ December 2 at 6:30 pm
 
 With 32 franchises internationally and countless spinoffs and recap podcasts devoted to it, "The Real Housewives" offer some deep lessons about being human that map onto Jewish values. With Rabbi Jenna, explore the most iconic Housewives moments in conversation with Jewish texts, offering lessons from our tradition on friendship, conflict, betrayal, gossip, and forgiveness.
 
-			0 events		
+			1 event		
 
 			3		
 
-		0 events,
+		1 event,
 
-					3			
+				3			
 
-			1 event		
+		6:30 pm	
+
+		Creativity Studio	
+
+December 3 at 6:30 pm
+
+		Creativity Studio	
+
+Brush up on your connection to Jewish spirituality in a creative and experimental environment. So you’re not drawing a blank, Rabbi Jenna will facilitate a text study diving into the themes of Chanukah designed to ignite your creative spark. Then, spend some time exploring what comes up for you through the medium of your choosing. 
+
+			2 events		
 
 			4		
 
-		1 event,
+		2 events,
 
 				4			
 
@@ -804,6 +832,16 @@ December 4
 December 12
 
 		Chanukah	
+
+		7:00 pm	
+
+		Community-Led Chanukah Shabbat Dinner	
+
+December 4 at 7:00 pm
+
+		Community-Led Chanukah Shabbat Dinner	
+
+To celebrate the first night of Chanukah, bring some light into your day at this potluck Shabbat dinner led by Sixth & I'er Noah at his home in Penn Quarter. 
 
 			2 events		
 
@@ -1003,13 +1041,17 @@ November 23 at 7:00 pm
 
 					There are no events on this day.				
 
-	Notice
+		November 26	
 
-					There are no events on this day.				
+			All day		
 
-	Notice
+		Office Closed	
 
-					There are no events on this day.				
+		November 26	
+
+			All day		
+
+		Office Closed	
 
 	Notice
 
@@ -1041,15 +1083,21 @@ December 2 at 6:30 pm
 
 		The Torah of the Real Housewives	
 
-	Notice
+		December 3	
 
-					There are no events on this day.				
+December 3 at 6:30 pm
+
+		Creativity Studio	
 
 		December 4	
 
 			All day		
 
 		Chanukah	
+
+December 4 at 7:00 pm
+
+		Community-Led Chanukah Shabbat Dinner	
 
 		December 4	
 
@@ -1384,19 +1432,29 @@ December 2 at 6:30 pm
 
 With 32 franchises internationally and countless spinoffs and recap podcasts devoted to it, "The Real Housewives" offer some deep lessons about being human that map onto Jewish values. With Rabbi Jenna, explore the most iconic Housewives moments in conversation with Jewish texts, offering lessons from our tradition on friendship, conflict, betrayal, gossip, and forgiveness.
 
-			0 events		
+			1 event		
 
 			3		
 
-		0 events,
+		1 event,
 
-					3			
+				3			
 
-			1 event		
+		6:30 pm	
+
+		Creativity Studio	
+
+December 3 at 6:30 pm
+
+		Creativity Studio	
+
+Brush up on your connection to Jewish spirituality in a creative and experimental environment. So you’re not drawing a blank, Rabbi Jenna will facilitate a text study diving into the themes of Chanukah designed to ignite your creative spark. Then, spend some time exploring what comes up for you through the medium of your choosing. 
+
+			2 events		
 
 			4		
 
-		1 event,
+		2 events,
 
 				4			
 
@@ -1411,6 +1469,16 @@ December 4
 December 12
 
 		Chanukah	
+
+		7:00 pm	
+
+		Community-Led Chanukah Shabbat Dinner	
+
+December 4 at 7:00 pm
+
+		Community-Led Chanukah Shabbat Dinner	
+
+To celebrate the first night of Chanukah, bring some light into your day at this potluck Shabbat dinner led by Sixth & I'er Noah at his home in Penn Quarter. 
 
 			2 events		
 
@@ -1450,11 +1518,11 @@ Take a trip to Woolly Mammoth Theatre Company and sit with other Sixth & I’ers
 
 		6:00 pm	
 
-		Rebekah Lowin: Talk & Workshop	
+		CANCELED: Rebekah Lowin: Talk & Workshop	
 
 December 6 at 6:00 pm
 
-		Rebekah Lowin: Talk & Workshop	
+		CANCELED: Rebekah Lowin: Talk & Workshop	
 
 In 
 A Year Of Jewish Joy,
@@ -1570,13 +1638,25 @@ The entire Sixth & I community is invited to celebrate a decade of CEO Heather M
 
 					13			
 
-			0 events		
+			1 event		
 
 			14		
 
-		0 events,
+		1 event,
 
-					14			
+				14			
+
+		7:00 pm	
+
+		“Bad Jews” Book Club	
+
+December 14 at 7:00 pm
+
+		“Bad Jews” Book Club	
+
+Join Emily Tamkin, author of 
+Bad Jews,
+ and Rabbi Jenna for a conversation about the complicated, fun, and anxiety-filled things that make us Jewish. Explore Jewish imposter syndrome, why the language of “bad Jews” can be so harmful, and why, despite that, so many of us find ourselves using it.
 
 			2 events		
 
@@ -1807,15 +1887,21 @@ December 2 at 6:30 pm
 
 		The Torah of the Real Housewives	
 
-	Notice
+		December 3	
 
-					There are no events on this day.				
+December 3 at 6:30 pm
+
+		Creativity Studio	
 
 		December 4	
 
 			All day		
 
 		Chanukah	
+
+December 4 at 7:00 pm
+
+		Community-Led Chanukah Shabbat Dinner	
 
 		December 4	
 
@@ -1835,7 +1921,7 @@ December 5 at 2:00 pm
 
 December 6 at 6:00 pm
 
-		Rebekah Lowin: Talk & Workshop	
+		CANCELED: Rebekah Lowin: Talk & Workshop	
 
 		December 4	
 
@@ -1889,9 +1975,11 @@ December 11 at 6:30 pm
 
 					There are no events on this day.				
 
-	Notice
+		December 14	
 
-					There are no events on this day.				
+December 14 at 7:00 pm
+
+		“Bad Jews” Book Club	
 
 		December 15	
 

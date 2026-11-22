@@ -1,6 +1,6 @@
 Interintellect
 https://interintellect.com/salons
-rendered 2026-11-15 00:35Z  status=200 chars=4602 iframes=0 srcdoc=0 next=False error=
+rendered 2026-11-22 00:23Z  status=200 chars=4962 iframes=0 srcdoc=0 next=False error=
 
 Salons | Interintellect
 Events
@@ -23,33 +23,6 @@ Series
 SuperSalons
 In Person
 November 2026
-Episode
-Part VI Defeat
-Hosted by:
-Erica Robles Anderson
-Sun, Nov 15
-•
-05:30 PM UTC
-Online
-Members Only
-Salon
-Stoner: The Perfect American Novel?
-Hosted by:
-Anna Gát
-Fri, Nov 20
-•
-01:00 AM UTC
-Online
-$36
-SuperSalon
-Waiting for What We'll Be Waiting for: A Conversation with Steven Seidenberg, Author of Coda
-Hosted by:
-Andrea Hiott
-Sat, Nov 21
-•
-05:00 PM UTC
-Online
-$15
 Salon
 How Chokepoints Shaped Our World: Live with Norm Coady
 Hosted by:
@@ -96,6 +69,15 @@ Wed, Dec 2
 01:00 AM UTC
 Online
 Members Only
+Episode
+¿Qué significa vivir una buena vida?
+Hosted by:
+Zahira López Cámara
+Thu, Dec 3
+•
+05:00 PM UTC
+Online
+$10
 Salon
 Find Love in NYC: Singles Museum Visit at the Met
 Hosted by:
@@ -142,15 +124,6 @@ Wed, Dec 9
 08:00 PM UTC
 Online
 $40
-Salon
-"Obedience to the Unenforceable": What Holds a Society Together When No One Is Watching
-Hosted by:
-Jon Schneider
-Fri, Dec 11
-•
-12:00 AM UTC
-Online
-$20
 Episode
 2 First Drafts
 Hosted by:
@@ -169,6 +142,15 @@ Mon, Dec 14
 09:00 PM UTC
 Online
 $5
+Episode
+La belleza y el arte de vivir
+Hosted by:
+Zahira López Cámara
+Thu, Dec 17
+•
+05:00 PM UTC
+Online
+$10
 SuperSalon
 Worth the Risk: Allison Schrager on the Seven Myths That Keep Us from Taking Chances
 Hosted by:
@@ -205,6 +187,15 @@ Sun, Dec 27
 07:30 PM UTC
 Online
 Members Only
+Episode
+El deseo de pertenecer
+Hosted by:
+Zahira López Cámara
+Mon, Dec 28
+•
+05:00 PM UTC
+Online
+$10
 SuperSalon
 On Cocktails: Peter Suderman Explains the Rakish American Invention
 Hosted by:
@@ -251,6 +242,24 @@ Fri, Jan 15
 09:00 PM UTC
 Online
 $35
+Salon
+Haunting Love: Reading 'The Lover' by Marguerite Duras -- With Anna Gát
+Hosted by:
+Anna Gát
+Sun, Jan 17
+•
+01:30 AM UTC
+Online
+$30
+SuperSalon
+What Is It Like to Be an AI? Anil Seth and Rohit Krishnan on AI Consciousness
+Hosted by:
+Rohit Krishnan
+Sat, Jan 23
+•
+06:00 PM UTC
+Online
+$50
 Episode
 4 Contemplation
 Hosted by:
@@ -270,6 +279,24 @@ Sat, Feb 6
 06:00 PM UTC
 Online
 Members Only
+Salon
+The Way We Were: Reading 'Revolutionary Road' by Richard Yates
+Hosted by:
+Anna Gát
+Sat, Feb 13
+•
+06:30 PM UTC
+Online
+$30
+SuperSalon
+The Bitch Bites Back: Eleanor Johnson on 4,000 Years of Terrifying Women
+Hosted by:
+Irina Dumitrescu
+Sun, Feb 14
+•
+07:00 PM UTC
+Online
+$20
 Members Attend for Free
 Join the Interintellect community!
 Our memberships provide free access to events, exclusive in-person gatherings, and a global chat forum

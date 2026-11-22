@@ -1,6 +1,6 @@
 Labyrinth Games & Puzzles
 https://www.labyrinthdc.com/events/calendar/
-rendered 2026-11-15 00:37Z  status=200 chars=14385 iframes=4 srcdoc=0 next=False error=
+rendered 2026-11-22 00:25Z  status=200 chars=13846 iframes=4 srcdoc=0 next=False error=
 
 
 
@@ -443,7 +443,7 @@ Sunday:
 
 Monday:
 
-CLOSED
+12pm - 7pm
 
 Tuesday:
 
@@ -514,6 +514,8 @@ Join Labyrinth Loyalty! Subscribe to our newsletter!
 
 Labyrinth Games & Puzzles
 
+Skip to events
+
 Toggle navigation
 
       Agenda 
@@ -541,21 +543,6 @@ Any
 With
 
 Without
-
-RPG
-Star Wars: Unlimited
-Magic
-Disney Lorcana
-Pokémon
-D&D
-Board Games
-Adult
-Kid
-In Store
-Off Site
-Closed
-Open
-Camp
 
 Normal (pick tags)
 
@@ -593,121 +580,6 @@ Monthly
 
 Subscribe
 
-Pokémon TCG Casual League
-
-            Sat Nov 14th 1:00pm - 5:00pm
-
-Do you play the Pokémon TCG? Do you collect it? Come join us at Labyrinth Games & Puzzles for our Pokémon Trading Card League! This is a free, casual event for the trading card game Pokémon. This is…
-
-Pokémon
-Adult
-In Store
-
-Register | Free
-
-Pokémon League Cup
-
-            Sun Nov 15th 10:30am - 6:00pm
-
-Join us for a competitive Pokémon experience! Play against other experienced players and compete to earn coveted Championship points on your journey to the Pokémon World Championship as well as…
-
-Pokémon
-Adult
-Kid
-In Store
-Open
-
-Register | $20
-
-CLOSED on Mondays
-
-            Mon Nov 16th
-
-Closed All Mondays until Winter Hours.
-
-Closed
-
-MTG: Casual Commander
-
-            Tue Nov 17th 6:00pm - 10:00pm
-
-This is an event for the trading card game Magic: The Gathering, suggested age for this event is 14+. If you do not yet have a Wizards Account, please sign up for one before registering for this…
-
-Magic
-Adult
-In Store
-
-Register | $10
-
-Capitol Hill Village Mah Jong
-
-            Wed Nov 18th 2:00pm - 4:00pm
-
-Come play Mah Jong with the Capitol Hill Village every other week at Labyrinth! This event is appropriate for all experience levels. This is a free evet with no registration required. We play Basic…
-
-Board Games
-Adult
-In Store
-
-D&D Learn-to-Play — One-Shot Wednesday
-
-            Wed Nov 18th 6:00pm - 9:00pm
-
-Join us for an evening of story-telling and adventure! This event offers an introduction to the legendary fantasy role-playing game, Dungeons and Dragons (D&D). It's great for both beginners, even if…
-
-RPG
-D&D
-Adult
-In Store
-
-Register | $25
-
-Star Wars: Unlimited - Homeworlds Booster Draft
-
-            Wed Nov 18th 6:00pm - 9:00pm
-
-The format for this event is a draft, more information on how to draft Star Wars: Unlimited can be found at this link. Draft is a great way for newer players to explore the game, but everyone should…
-
-Star Wars: Unlimited
-Adult
-In Store
-
-Register | $25
-
-Board Game Night
-
-            Thu Nov 19th 6:00pm - 10:00pm
-
-Join us for a free board game night every Thursday at Labyrinth! Access our game library of nearly 600 games, and learn the rules from our board game professionals. No registration required.
-
-Board Games
-Adult
-In Store
-
-Friday Night Magic - Star Trek Booster Draft
-
-            Fri Nov 20th 6:30pm - 10:00pm
-
-This is an event for the trading card game Magic: The Gathering. Suggested age for Friday Night Magic is 14+. If you do not yet have a Wizards Account, please sign up for one before registering for…
-
-Magic
-Adult
-In Store
-
-Register | $30
-
-Friday Night Magic: Standard Tournament
-
-            Fri Nov 20th 6:30pm - 10:00pm
-
-This is an event for the trading card game Magic: The Gathering, suggested age for this event is 14+. If you do not yet have a Wizards Account, please sign up for one before registering for this…
-
-Magic
-Adult
-In Store
-
-Register | $10
-
 MTG: Standard Regional Championship Qualifier
 
             Sat Nov 21st 10:00am - 6:00pm
@@ -732,6 +604,115 @@ In Store
 Kid
 
 Register | $30
+
+Pokémon League Challenge
+
+            Sun Nov 22nd 1:00pm - 6:00pm
+
+Join us for a competitive Pokémon experience! Play against other experienced players and compete to earn coveted Championship points on your journey to the Pokémon World Championship as well as…
+
+Pokémon
+Adult
+Kid
+In Store
+
+Register | $15
+
+Guild of Heroes: Teens' Dungeons and Dragons
+
+            Sun Nov 22nd 3:00pm - 5:00pm
+
+This adventure is for ages 13-17. Labyrinth Games & Puzzles has been teaching children and adults how to play Dungeons and Dragons (D&D) since we first opened in 2010. The role playing game, which is…
+
+RPG
+D&D
+In Store
+Kid
+
+Register | $20
+
+Open for Special Holiday Hours
+
+            Mon Nov 23rd
+
+Labyrinth will be open 12-7pm on Monday's from November 23rd through December 28th.
+
+Open
+
+MTG: Casual Commander
+
+            Tue Nov 24th 6:00pm - 10:00pm
+
+This is an event for the trading card game Magic: The Gathering, suggested age for this event is 14+. If you do not yet have a Wizards Account, please sign up for one before registering for this…
+
+Magic
+Adult
+In Store
+
+Register | $10
+
+One-Shot Wednesday: Indie RPG (Orbital Blues)
+
+            Wed Nov 25th 6:00pm - 9:00pm
+
+While we love D&D here at Labyrinth, we're always excited to run different RPGs as well. November's Indie RPG will be Orbital Blues with DM River. From the publisher: "ORBITAL BLUES is a lo-fi space…
+
+RPG
+Adult
+In Store
+
+Register | $20
+
+Star Wars: Unlimited Casual Play
+
+            Wed Nov 25th 6:00pm - 9:00pm
+
+Unleash your inner Jedi or Sith as you battle! This is a casual event where players are encouraged to test new decks, trade cards and teach other players. Prize packs will be given based on…
+
+Star Wars: Unlimited
+Adult
+In Store
+Kid
+
+Register | $5
+
+Closed for Thanksgiving
+
+            Thu Nov 26th
+
+Labyrinth will be closed for Thanksgiving.
+
+Closed
+
+Friday Night Magic - Star Trek Booster Draft
+
+            Fri Nov 27th 6:30pm - 10:00pm
+
+This is an event for the trading card game Magic: The Gathering. Suggested age for Friday Night Magic is 14+. If you do not yet have a Wizards Account, please sign up for one before registering for…
+
+Magic
+Adult
+In Store
+
+Register | $30
+
+Friday Night Magic: Modern Tournament
+
+            Fri Nov 27th 6:30pm - 10:00pm
+
+This is an event for the trading card game Magic: The Gathering, suggested age for this event is 14+. If you do not yet have a Wizards Account, please sign up for one before registering for this…
+
+Magic
+Adult
+In Store
+
+Register | $10
+
+Annual Staff Cookie Battle
+
+            Sat Nov 28th
+
+Let the battle for the Cookie Crown begin! Every year on Small Business Saturday the Labyrinth staff competes to see who can make the tastiest cookies, decided by YOU! Whoever's cookies get the most…
 
 load more events
 
@@ -763,6 +744,7 @@ More
 ----
 
 Labyrinth Games & Puzzles
+Skip to events
 Labyrinth Games & Puzzles
 visit our website
 Toggle navigation
@@ -780,20 +762,6 @@ All
 Any
 With
 Without
-RPG
-Star Wars: Unlimited
-Magic
-Disney Lorcana
-Pokémon
-D&D
-Board Games
-Adult
-Kid
-In Store
-Off Site
-Closed
-Open
-Camp
 Normal (pick tags)
 Has any tag
 Has no tags
@@ -812,101 +780,6 @@ Pinboard
 Agenda
 Monthly
 Subscribe
-Pokémon TCG Casual League
-
-            Sat Nov 14th 1:00pm - 5:00pm
-
-Do you play the Pokémon TCG? Do you collect it? Come join us at Labyrinth Games & Puzzles for our Pokémon Trading Card League! This is a free, casual event for the trading card game Pokémon. This is…
-Pokémon
-Adult
-In Store
-Register | Free
-
-Pokémon League Cup
-
-            Sun Nov 15th 10:30am - 6:00pm
-
-Join us for a competitive Pokémon experience! Play against other experienced players and compete to earn coveted Championship points on your journey to the Pokémon World Championship as well as…
-Pokémon
-Adult
-Kid
-In Store
-Open
-Register | $20
-
-CLOSED on Mondays
-
-            Mon Nov 16th
-
-Closed All Mondays until Winter Hours.
-Closed
-MTG: Casual Commander
-
-            Tue Nov 17th 6:00pm - 10:00pm
-
-This is an event for the trading card game Magic: The Gathering, suggested age for this event is 14+. If you do not yet have a Wizards Account, please sign up for one before registering for this…
-Magic
-Adult
-In Store
-Register | $10
-
-Capitol Hill Village Mah Jong
-
-            Wed Nov 18th 2:00pm - 4:00pm
-
-Come play Mah Jong with the Capitol Hill Village every other week at Labyrinth! This event is appropriate for all experience levels. This is a free evet with no registration required. We play Basic…
-Board Games
-Adult
-In Store
-D&D Learn-to-Play — One-Shot Wednesday
-
-            Wed Nov 18th 6:00pm - 9:00pm
-
-Join us for an evening of story-telling and adventure! This event offers an introduction to the legendary fantasy role-playing game, Dungeons and Dragons (D&D). It's great for both beginners, even if…
-RPG
-D&D
-Adult
-In Store
-Register | $25
-
-Star Wars: Unlimited - Homeworlds Booster Draft
-
-            Wed Nov 18th 6:00pm - 9:00pm
-
-The format for this event is a draft, more information on how to draft Star Wars: Unlimited can be found at this link. Draft is a great way for newer players to explore the game, but everyone should…
-Star Wars: Unlimited
-Adult
-In Store
-Register | $25
-
-Board Game Night
-
-            Thu Nov 19th 6:00pm - 10:00pm
-
-Join us for a free board game night every Thursday at Labyrinth! Access our game library of nearly 600 games, and learn the rules from our board game professionals. No registration required.
-Board Games
-Adult
-In Store
-Friday Night Magic - Star Trek Booster Draft
-
-            Fri Nov 20th 6:30pm - 10:00pm
-
-This is an event for the trading card game Magic: The Gathering. Suggested age for Friday Night Magic is 14+. If you do not yet have a Wizards Account, please sign up for one before registering for…
-Magic
-Adult
-In Store
-Register | $30
-
-Friday Night Magic: Standard Tournament
-
-            Fri Nov 20th 6:30pm - 10:00pm
-
-This is an event for the trading card game Magic: The Gathering, suggested age for this event is 14+. If you do not yet have a Wizards Account, please sign up for one before registering for this…
-Magic
-Adult
-In Store
-Register | $10
-
 MTG: Standard Regional Championship Qualifier
 
             Sat Nov 21st 10:00am - 6:00pm
@@ -928,6 +801,96 @@ In Store
 Kid
 Register | $30
 
+Pokémon League Challenge
+
+            Sun Nov 22nd 1:00pm - 6:00pm
+
+Join us for a competitive Pokémon experience! Play against other experienced players and compete to earn coveted Championship points on your journey to the Pokémon World Championship as well as…
+Pokémon
+Adult
+Kid
+In Store
+Register | $15
+
+Guild of Heroes: Teens' Dungeons and Dragons
+
+            Sun Nov 22nd 3:00pm - 5:00pm
+
+This adventure is for ages 13-17. Labyrinth Games & Puzzles has been teaching children and adults how to play Dungeons and Dragons (D&D) since we first opened in 2010. The role playing game, which is…
+RPG
+D&D
+In Store
+Kid
+Register | $20
+
+Open for Special Holiday Hours
+
+            Mon Nov 23rd
+
+Labyrinth will be open 12-7pm on Monday's from November 23rd through December 28th.
+Open
+MTG: Casual Commander
+
+            Tue Nov 24th 6:00pm - 10:00pm
+
+This is an event for the trading card game Magic: The Gathering, suggested age for this event is 14+. If you do not yet have a Wizards Account, please sign up for one before registering for this…
+Magic
+Adult
+In Store
+Register | $10
+
+One-Shot Wednesday: Indie RPG (Orbital Blues)
+
+            Wed Nov 25th 6:00pm - 9:00pm
+
+While we love D&D here at Labyrinth, we're always excited to run different RPGs as well. November's Indie RPG will be Orbital Blues with DM River. From the publisher: "ORBITAL BLUES is a lo-fi space…
+RPG
+Adult
+In Store
+Register | $20
+
+Star Wars: Unlimited Casual Play
+
+            Wed Nov 25th 6:00pm - 9:00pm
+
+Unleash your inner Jedi or Sith as you battle! This is a casual event where players are encouraged to test new decks, trade cards and teach other players. Prize packs will be given based on…
+Star Wars: Unlimited
+Adult
+In Store
+Kid
+Register | $5
+
+Closed for Thanksgiving
+
+            Thu Nov 26th
+
+Labyrinth will be closed for Thanksgiving.
+Closed
+Friday Night Magic - Star Trek Booster Draft
+
+            Fri Nov 27th 6:30pm - 10:00pm
+
+This is an event for the trading card game Magic: The Gathering. Suggested age for Friday Night Magic is 14+. If you do not yet have a Wizards Account, please sign up for one before registering for…
+Magic
+Adult
+In Store
+Register | $30
+
+Friday Night Magic: Modern Tournament
+
+            Fri Nov 27th 6:30pm - 10:00pm
+
+This is an event for the trading card game Magic: The Gathering, suggested age for this event is 14+. If you do not yet have a Wizards Account, please sign up for one before registering for this…
+Magic
+Adult
+In Store
+Register | $10
+
+Annual Staff Cookie Battle
+
+            Sat Nov 28th
+
+Let the battle for the Cookie Crown begin! Every year on Small Business Saturday the Labyrinth staff competes to see who can make the tastiest cookies, decided by YOU! Whoever's cookies get the most…
 load more events
 calendar by Tockify
 

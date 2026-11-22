@@ -1,6 +1,6 @@
 Art of Living DC Center (courses)
 https://members.us.artofliving.org/us-en/centers/courses/a054600000C7j5HAAR?timeZone=EST&viewMode=cards&embed=true
-rendered 2026-11-15 00:39Z  status=200 chars=5399 iframes=2 srcdoc=0 next=False error=
+rendered 2026-11-22 00:27Z  status=200 chars=5612 iframes=2 srcdoc=0 next=False error=
 
 Washington DC National - Course Dates and Registration
 All
@@ -31,11 +31,11 @@ Course
 SKY Breath Meditation
 Online
 Archana Karne
-11/16 Monday
+11/23 Monday
 , 7:30 AM - 9:30 AM ET
-11/17 Tuesday
+11/24 Tuesday
 , 7:30 AM - 9:30 AM ET
-11/18 Wednesday
+11/25 Wednesday
 , 7:30 AM - 9:30 AM ET
 Details
 Register
@@ -45,140 +45,24 @@ In-Person
 Non-Residential
 8005 Gramercy blvd, Derwood, MD, 28005
 Jalpa Patel
-11/16 Monday
+11/23 Monday
 , 10:00 AM - 12:30 PM ET
-11/17 Tuesday
+11/24 Tuesday
 , 10:00 AM - 12:30 PM ET
-11/18 Wednesday
+11/25 Wednesday
 , 10:00 AM - 12:30 PM ET
-Details
-Register
-Course
-SKY Breath Meditation
-In-Person
-2401 15th Street Northwest, Washington, DC, 20009
-Shikha Arya, Yayati Thakur
-11/16 Monday
-, 6:30 PM - 9:30 PM ET
-11/17 Tuesday
-, 6:30 PM - 9:30 PM ET
-11/18 Wednesday
-, 6:30 PM - 9:30 PM ET
-Details
-Register
-Course
-SKY Breath Meditation
-Online
-Non-Residential
-Werner Pfleger
-11/17 Tuesday
-, 10:00 AM - 12:30 PM ET
-11/18 Wednesday
-, 10:00 AM - 12:30 PM ET
-11/19 Thursday
-, 10:00 AM - 12:30 PM ET
-Details
-Register
-Course
-Mantra Meditation
-In-Person
-2401 15th Street Northwest, Washington, DC, 20009
-Archana Karne
-11/18 Wednesday
-, 6:30 PM - 8:30 PM ET
-11/19 Thursday
-, 6:30 PM - 8:30 PM ET
-11/20 Friday
-, 6:30 PM - 8:30 PM ET
 Details
 Register
 Course
 SKY Breath Meditation
 Online
 Sangeetha Pridhu Dev, Dev Manghat
-11/20 Friday
-, 7:00 AM - 9:15 AM ET
-11/21 Saturday
-, 7:00 AM - 9:15 AM ET
-11/22 Sunday
-, 7:00 AM - 9:15 AM ET
-Details
-Register
-Course
-Mantra Meditation
-Online
-Archana Karne
-11/20 Friday
-, 7:00 AM - 9:00 AM ET
-11/21 Saturday
-, 7:00 AM - 9:00 AM ET
-11/22 Sunday
-, 7:00 AM - 9:00 AM ET
-Details
-Register
-Course
-SKY Breath Meditation
-In-Person
-2401 15th Street NW, Washington, DC, 20009
-Rochi Khemka, Archana Karne
-11/20 Friday
-, 6:00 PM - 9:00 PM ET
-11/21 Saturday
-, 9:30 AM - 12:30 PM ET
-11/22 Sunday
-, 9:30 AM - 12:30 PM ET
-Details
-Register
-Course
-SKY Breath Meditation
-Online
-Non-Residential
-Jalpa Patel
-11/20 Friday
-, 6:00 PM - 8:30 PM ET
-11/21 Saturday
-, 6:00 PM - 8:30 PM ET
-11/22 Sunday
-, 6:00 PM - 8:30 PM ET
-Details
-Register
-Course
-SKY Breath Meditation
-In-Person
-10701 Buckingham Rd, Fairfax, VA, 22032
-Muktesh Chhabra
-11/20 Friday
-, 6:30 PM - 9:00 PM ET
-11/21 Saturday
-, 10:30 AM - 1:30 PM ET
-11/22 Sunday
-, 10:30 AM - 1:30 PM ET
-Details
-Register
-Course
-SKY Breath Meditation
-Online
-Archana Karne
-11/23 Monday
-, 7:30 AM - 9:30 AM ET
 11/24 Tuesday
-, 7:30 AM - 9:30 AM ET
+, 7:00 AM - 9:15 AM ET
 11/25 Wednesday
-, 7:30 AM - 9:30 AM ET
-Details
-Register
-Course
-SKY Breath Meditation
-In-Person
-Non-Residential
-8005 Gramercy blvd, Derwood, MD, 28005
-Jalpa Patel
-11/23 Monday
-, 10:00 AM - 12:30 PM ET
-11/24 Tuesday
-, 10:00 AM - 12:30 PM ET
-11/25 Wednesday
-, 10:00 AM - 12:30 PM ET
+, 7:00 AM - 9:15 AM ET
+11/26 Thursday
+, 7:00 AM - 9:15 AM ET
 Details
 Register
 Course
@@ -227,6 +111,32 @@ Register
 Course
 SKY Breath Meditation
 In-Person
+2401 15th Street NW, Washington, DC, 20009
+Archana Karne, Rochi Khemka
+11/27 Friday
+, 6:00 PM - 9:00 PM ET
+11/28 Saturday
+, 9:30 AM - 12:30 PM ET
+11/29 Sunday
+, 9:30 AM - 12:30 PM ET
+Details
+Register
+Course
+SKY Breath Meditation
+In-Person
+10701 Buckingham Rd, Fairfax, VA, 22032
+Muktesh Chhabra
+11/27 Friday
+, 6:30 PM - 9:00 PM ET
+11/28 Saturday
+, 10:30 AM - 1:30 PM ET
+11/29 Sunday
+, 10:30 AM - 1:30 PM ET
+Details
+Register
+Course
+SKY Breath Meditation
+In-Person
 Non-Residential
 8005 Gramercy blvd, Derwood, MD, 28005
 Jalpa Patel
@@ -240,14 +150,16 @@ Details
 Register
 Course
 SKY Breath Meditation
-Online
-Sangeetha Pridhu Dev, Dev Manghat
-12/4 Friday
-, 7:00 AM - 9:15 AM ET
-12/5 Saturday
-, 7:00 AM - 9:15 AM ET
-12/6 Sunday
-, 7:00 AM - 9:15 AM ET
+In-Person
+737 SWANN AVE
+APT 405, Alexandria, VA, 22301
+Apoorva Srivastava
+11/30 Monday
+, 6:30 PM - 9:30 PM ET
+12/1 Tuesday
+, 6:30 PM - 9:30 PM ET
+12/2 Wednesday
+, 6:30 PM - 9:30 PM ET
 Details
 Register
 Course
@@ -264,19 +176,6 @@ Details
 Register
 Course
 SKY Breath Meditation
-In-Person
-2401 15th Street NW, Washington, DC, 20009
-Marlene Sandhu, Apoorva Srivastava
-12/4 Friday
-, 6:30 PM - 9:30 PM ET
-12/5 Saturday
-, 10:30 AM - 1:30 PM ET
-12/6 Sunday
-, 10:30 AM - 1:30 PM ET
-Details
-Register
-Course
-SKY Breath Meditation
 Online
 Sudha Peri
 12/4 Friday
@@ -285,6 +184,19 @@ Sudha Peri
 , 9:30 AM - 11:30 AM ET
 12/6 Sunday
 , 9:30 AM - 11:30 AM ET
+Details
+Register
+Course
+Mantra Meditation
+In-Person
+22837 Queensbridge Dr, Ashburn, VA, 20148
+Sangeetha Pridhu Dev, Dev Manghat
+12/4 Friday
+, 6:30 PM - 8:00 PM ET
+12/5 Saturday
+, 2:00 PM - 4:00 PM ET
+12/6 Sunday
+, 2:00 PM - 4:00 PM ET
 Details
 Register
 Course
@@ -337,6 +249,102 @@ Zafar Ullah Khan
 , 10:30 AM - 1:30 PM ET
 12/13 Sunday
 , 10:30 AM - 1:30 PM ET
+Details
+Register
+Course
+SKY Breath Meditation
+In-Person
+Non-Residential
+8005 Gramercy blvd, Derwood, MD, 28005
+Jalpa Patel
+12/14 Monday
+, 10:00 AM - 12:30 PM ET
+12/15 Tuesday
+, 10:00 AM - 12:30 PM ET
+12/16 Wednesday
+, 10:00 AM - 12:30 PM ET
+Details
+Register
+Course
+SKY Breath Meditation
+In-Person
+2401 15th Street Northwest, Washington, DC, 20009
+Yayati Thakur, Shikha Arya
+12/14 Monday
+, 6:30 PM - 9:30 PM ET
+12/15 Tuesday
+, 6:30 PM - 9:30 PM ET
+12/16 Wednesday
+, 6:30 PM - 9:30 PM ET
+Details
+Register
+Course
+Mantra Meditation
+In-Person
+2401 15th Street NW, Columbia Heights, DC, 20009
+Reshma Thawani
+12/16 Wednesday
+, 6:30 PM - 8:30 PM ET
+12/17 Thursday
+, 6:30 PM - 8:30 PM ET
+12/18 Friday
+, 6:30 PM - 8:30 PM ET
+Details
+Register
+Course
+SKY Breath Meditation
+In-Person
+737 SWANN AVE
+APT 405, Washington, VA, 22301
+Apoorva Srivastava
+12/18 Friday
+, 6:30 PM - 9:30 PM ET
+12/19 Saturday
+, 10:00 AM - 1:00 PM ET
+12/20 Sunday
+, 10:00 AM - 1:00 PM ET
+Details
+Register
+Course
+Sanyam 2
+In-Person
+Residential
+Sanyam 2
+2401 15th Street Northwest, Washington, DC, 20009
+Bhushan Deodhar
+12/31 Thursday
+, 7:00 AM - 9:00 PM ET
+1/1 Friday
+, 7:00 AM - 9:00 PM ET
+1/2 Saturday
+, 7:00 AM - 9:00 PM ET
+1/3 Sunday
+, 7:00 AM - 4:00 PM ET
+Details
+Register
+Course
+SKY Breath Meditation
+In-Person
+2401 15th Street NW, Washington, DC, 20009
+Christopher Smythe-Macaualy, Fehmida Virji
+1/8 Friday
+, 6:30 PM - 9:30 PM ET
+1/9 Saturday
+, 10:30 AM - 1:30 PM ET
+1/10 Sunday
+, 10:30 AM - 1:30 PM ET
+Details
+Register
+Course
+SKY Breath Meditation
+Online
+Marlene Sandhu
+1/8 Friday
+, 6:30 PM - 9:00 PM ET
+1/9 Saturday
+, 10:30 AM - 1:00 PM ET
+1/10 Sunday
+, 10:30 AM - 1:00 PM ET
 Details
 Register
 

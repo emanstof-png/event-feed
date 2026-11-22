@@ -1,6 +1,6 @@
 Volunteer Arlington
 https://connect.volunteerarlington.org/calendar/
-rendered 2026-11-15 00:36Z  status=200 chars=60000 iframes=0 srcdoc=0 next=True error=
+rendered 2026-11-22 00:24Z  status=200 chars=60000 iframes=0 srcdoc=0 next=True error=
 
 
 
@@ -47,6 +47,10 @@ Get Connected Icon
 Get Connected Icon
 
 				Nonprofits
+
+Get Connected Icon
+
+            						MLK Day of Service
 
 Collapse Menu
 
@@ -106,7 +110,29 @@ Nonprofit
 
 -- Select Nonprofit --
 
+Cherrydale Library
+
+Washington English Center
+
+The Holiday Project
+
+Rock Recovery
+
+We Are Artistic
+
 Ayuda
+
+Aspire Afterschool Learning
+
+Latinas Leading Tomorrow
+
+The Clothesline for Arlington Kids
+
+OAR of Arlington, Alexandria and Falls Church
+
+PROJECT BLACKBIRD Inc.
+
+Tiny Cat Animal Rescue
 
 Columbia Pike Partnership
 
@@ -116,11 +142,7 @@ CRi - Choice. Respect. independence.
 
 Arlington Free Clinic
 
-Aspire Afterschool Learning
-
 True Ground Housing Partners
-
-Rock Recovery
 
 Affordable Homes & Communities (AHC)
 
@@ -129,8 +151,6 @@ AFAC
 Dr. Charles R. Drew Elementary
 
 CARE, Inc.
-
-Columbia Pike Library
 
 United Way of the National Capital Area
 
@@ -152,8 +172,6 @@ The Arlington Turkey Trot
 
 Friends of Arlington's Planetarium
 
-Tiny Cat Animal Rescue
-
 Arlington Assembly of God
 
 Girls on the Run of Northern Virginia
@@ -161,8 +179,6 @@ Girls on the Run of Northern Virginia
 Samaritan Ministry of Greater Washington
 
 Arlington Friends of Urban Agriculture
-
-703 Warriors
 
 Arlington Public Schools
 
@@ -176,11 +192,7 @@ WelcomeNST, Inc.
 
 Project Knitwell
 
-Washington English Center
-
 Arlington Sister City Association
-
-We Are Artistic
 
 Arlington Employment Center
 
@@ -235,8 +247,6 @@ Lutheran Social Services National Capital Area
 Fairfax County Dept. of Family Services - Volunteer Solutions
 
 Second Story
-
-The Clothesline for Arlington Kids
 
 Chrysalis Development Group
 
@@ -1188,22 +1198,22 @@ The People's Pan...
 
 The People's Pantry (Weekday Mornings)
 
-Yoga & Smoothies
+Thrift Shop Volunteer
 
-            True Ground Housing Partners
+            Columbia Pike Thrift Shop
 
-10:00am - 11:00am
+1:30pm - 5:30pm
 
-                    2
+                    1
 spots remaining
 
-                Support Resident Services with our Yoga & Smoothies event located in one of our properties near the Rosslyn neighborhood in Arlington, VA. Please note signing up on here is only to express your interest, one of our staff members will reach out with...
+                Opportunities Include collecting and sorting donated materials, pricing, cleaning, organizing merchandise, and assisting cashiers with bagging. We ask volunteers to work a minimum of 4 hours per shift.  Both a morning and afternoon shift are availab...
 
 Get Connected Icon
 
-Yoga & Smoothies...
+Thrift Shop Volu...
 
-Yoga & Smoothies
+Thrift Shop Volunteer
 
                 View
                                     100+
@@ -1253,7 +1263,7 @@ SOUP KITCHEN AND FREE GROCERY DISTRIBUTION
                                     100+
                  More
 
-14
+                    14
 
 November 14, 2026  - November 14, 2026
 
@@ -1336,57 +1346,6 @@ The People's Pan...
 
 The People's Pantry (Weekday Mornings)
 
-Celebrate Life Holiday Candle Making
-
-            True Ground Housing Partners
-
-12:00pm - 3:00pm
-
-                    3
-spots remaining
-
-                Support Resident Services with our Celebrate Life Holiday Candle Making event located in one of our properties near the Rosslyn neighborhood in Arlington, VA. The Celebrate Life Holiday Candle Making event will be a community engagement event fo...
-
-Get Connected Icon
-
-Celebrate Life H...
-
-Celebrate Life Holiday Candle Making
-
-Celebrate Life Holiday Candle Making
-
-            True Ground Housing Partners
-
-12:55pm - 2:25pm
-
-                    2
-spots remaining
-
-                Support Resident Services with our Celebrate Life Holiday Candle Making event located in one of our properties near the Rosslyn neighborhood in Arlington, VA. The Celebrate Life Holiday Candle Making event will be a community engagement event fo...
-
-Get Connected Icon
-
-Celebrate Life H...
-
-Celebrate Life Holiday Candle Making
-
-Celebrate Life Holiday Candle Making
-
-            True Ground Housing Partners
-
-1:00pm - 2:30pm
-
-                    3
-spots remaining
-
-                Support Resident Services with our Celebrate Life Holiday Candle Making event located in one of our properties near the Rosslyn neighborhood in Arlington, VA. The Celebrate Life Holiday Candle Making event will be a community engagement event fo...
-
-Get Connected Icon
-
-Celebrate Life H...
-
-Celebrate Life Holiday Candle Making
-
 SOUP KITCHEN AND FREE GROCERY DISTRIBUTION
 
             Arlington Assembly of God
@@ -1407,6 +1366,23 @@ Get Connected Icon
 SOUP KITCHEN AND...
 
 SOUP KITCHEN AND FREE GROCERY DISTRIBUTION
+
+The People's Pantry (Weekday Afternoons)
+
+            True Ground Housing Partners
+
+2:45pm - 6:15pm
+
+                    1
+spots remaining
+
+                Support the Resident Services with our food pantry located in one of our properties near the Bluemont neighborhood in Arlington, VA. Please note signing up on here is only to express your interest, one of our staff members will reach out with confirm...
+
+Get Connected Icon
+
+The People's Pan...
+
+The People's Pantry (Weekday Afternoons)
 
                 View
                                     100+
@@ -1430,23 +1406,6 @@ Get Connected Icon
 Family Game Nigh...
 
 Family Game Night
-
-Teen Volunteer- Toy Cleaner at Columbia Pike Library
-
-            Columbia Pike Library
-
-Between 5:00-7:00 P.M.
-
-                    1
-spots remaining
-
-                Looking for an easy way to earn volunteer hours while helping out your library? We're inviting teen volunteers (grades 7-12) to help us keep our kids' play materials clean. Volunteers will spend 1 hour wiping down and sanitizing the toys  used by Col...
-
-Get Connected Icon
-
-Teen Volunteer- ...
-
-Teen Volunteer- Toy Cleaner at Columbia Pike Library
 
 The People's Pantry (Weekday Mornings)
 
@@ -1502,6 +1461,23 @@ Get Connected Icon
 The People's Pan...
 
 The People's Pantry (Weekday Afternoons)
+
+TS Kid's Club
+
+            True Ground Housing Partners
+
+3:30pm - 5:45pm
+
+                    2
+spots remaining
+
+                Support Resident Services with our Afterschool Kids Club located in one of our properties near the Bluemont neighborhood in Arlington, VA. The Kid's Club is a weekly program that provides a fun environment for students in 3rd-5th grade to enjoy ...
+
+Get Connected Icon
+
+TS Kid's Club
+
+TS Kid's Club
 
                 View
                                     100+
@@ -1674,22 +1650,22 @@ The People's Pan...
 
 The People's Pantry (Weekday Mornings)
 
-Yoga & Smoothies
+Thrift Shop Volunteer
 
-            True Ground Housing Partners
+            Columbia Pike Thrift Shop
 
-10:00am - 11:00am
+1:30pm - 5:30pm
 
-                    2
+                    1
 spots remaining
 
-                Support Resident Services with our Yoga & Smoothies event located in one of our properties near the Rosslyn neighborhood in Arlington, VA. Please note signing up on here is only to express your interest, one of our staff members will reach out with...
+                Opportunities Include collecting and sorting donated materials, pricing, cleaning, organizing merchandise, and assisting cashiers with bagging. We ask volunteers to work a minimum of 4 hours per shift.  Both a morning and afternoon shift are availab...
 
 Get Connected Icon
 
-Yoga & Smoothies...
+Thrift Shop Volu...
 
-Yoga & Smoothies
+Thrift Shop Volunteer
 
                 View
                                     100+
@@ -1773,7 +1749,7 @@ SOUP KITCHEN AND FREE GROCERY DISTRIBUTION
                                     100+
                  More
 
-                    21
+21
 
 November 21, 2026  - November 21, 2026
 
@@ -1827,23 +1803,6 @@ Thrift Shop Volu...
 
 Thrift Shop Volunteer
 
-The People's Pantry (Saturday Mornings)
-
-            True Ground Housing Partners
-
-8:45am - 12:15pm
-
-                    1
-spots remaining
-
-                Support the Resident Services with our food pantry located in one of our properties near the Bluemont neighborhood in Arlington, VA. Please note signing up on here is only to express your interest, one of our staff members will reach out with confirm...
-
-Get Connected Icon
-
-The People's Pan...
-
-The People's Pantry (Saturday Mornings)
-
 Thrift Shop Volunteer
 
             Columbia Pike Thrift Shop
@@ -1866,6 +1825,23 @@ Thrift Shop Volunteer
                  More
 
                     22
+
+The Holiday Project   -- Thanksgiving Visit
+
+            The Holiday Project
+
+2:00 - 4:00 pm
+
+                    30
+spots remaining
+
+                SHARE THE SPIRIT OF THE SEASON  -- Join The Holiday Project in a visit to a local nursing home.  Visit with seniors and distribute cards and gifts. Spread cheer!\
+
+Get Connected Icon
+
+The Holiday Proj...
+
+The Holiday Project   -- Thanksgiving Visit
 
 Hot Cocoa! + Fruit Orchard Mulching, Native Flower Planting, and Invasive Removal
 
@@ -1890,7 +1866,7 @@ Girls on Run of NOVA - Fall 5K Celebration Volunteers Needed - November 22, 2026
 
 6:00 a.m. - 10:00 a.m.
 
-                    147
+                    146
 spots remaining
 
                 The Girls on the Run 5K is a unique, end-of-season event that brings together thousands of NOVA girls, their families, and community members for a celebratory 5K run. To be a success, each 5K event needs over 150 total volunteers in a variety of role...
@@ -1907,7 +1883,7 @@ Rock Climbing Practices for Individuals with Different Abilities
 
 9:00am - 11:30am
 
-                    14
+                    10
 spots remaining
 
                 We're looking for volunteers with a heart for making a difference in the lives of individuals with intellectual and developmental disabilities.Join us at our weekly climbing practices and help create a welcoming, inclusive community where kids and ad...
@@ -2073,7 +2049,7 @@ The People's Pantry (Weekday Mornings)
 
 9:45am - 1:15pm
 
-                    3
+                    2
 spots remaining
 
                 Support the Resident Services with our food pantry located in one of our properties near the Bluemont neighborhood in Arlington, VA. Please note signing up on here is only to express your interest, one of our staff members will reach out with confirm...
@@ -2089,23 +2065,6 @@ The People's Pantry (Weekday Mornings)
                  More
 
                     25
-
-Safeway's Feast of Sharing 
-
-            United Way of the National Capital Area
-
-9-5pm
-
-                    595
-spots remaining
-
-                United Way of the National Capital Area and Safeway are proud to partner for the 27th Annual Feast of Sharing. We are thrilled to come together in support of our local neighbors and help make the Thanksgiving holiday season a little brighter for memb...
-
-Get Connected Icon
-
-Safeway's Feast ...
-
-Safeway's Feast of Sharing 
 
 Packet Pickup Volunteers
 
@@ -2174,6 +2133,23 @@ Get Connected Icon
 The People's Pan...
 
 The People's Pantry (Weekday Mornings)
+
+The People's Pantry (Weekday Afternoons)
+
+            True Ground Housing Partners
+
+12:45pm - 4:15pm
+
+                    3
+spots remaining
+
+                Support the Resident Services with our food pantry located in one of our properties near the Bluemont neighborhood in Arlington, VA. Please note signing up on here is only to express your interest, one of our staff members will reach out with confirm...
+
+Get Connected Icon
+
+The People's Pan...
+
+The People's Pantry (Weekday Afternoons)
 
                 View
                                     100+
@@ -2272,23 +2248,6 @@ Lyon Park Set Up Crew
 
                     27
 
-Thrift Shop Volunteer
-
-            Columbia Pike Thrift Shop
-
-1:30pm - 5:30pm
-
-                    1
-spots remaining
-
-                Opportunities Include collecting and sorting donated materials, pricing, cleaning, organizing merchandise, and assisting cashiers with bagging. We ask volunteers to work a minimum of 4 hours per shift.  Both a morning and afternoon shift are availab...
-
-Get Connected Icon
-
-Thrift Shop Volu...
-
-Thrift Shop Volunteer
-
 SOUP KITCHEN AND FREE GROCERY DISTRIBUTION
 
             Arlington Assembly of God
@@ -2340,7 +2299,7 @@ The People's Pantry (Saturday Mornings)
 
 8:45am - 12:15pm
 
-                    3
+                    2
 spots remaining
 
                 Support the Resident Services with our food pantry located in one of our properties near the Bluemont neighborhood in Arlington, VA. Please note signing up on here is only to express your interest, one of our staff members will reach out with confirm...
@@ -2350,23 +2309,6 @@ Get Connected Icon
 The People's Pan...
 
 The People's Pantry (Saturday Mornings)
-
-Thrift Shop Volunteer
-
-            Columbia Pike Thrift Shop
-
-1:30pm - 5:30pm
-
-                    1
-spots remaining
-
-                Opportunities Include collecting and sorting donated materials, pricing, cleaning, organizing merchandise, and assisting cashiers with bagging. We ask volunteers to work a minimum of 4 hours per shift.  Both a morning and afternoon shift are availab...
-
-Get Connected Icon
-
-Thrift Shop Volu...
-
-Thrift Shop Volunteer
 
 Children's Area Assistance - Teen Volunteer - Shirlington
 
@@ -2459,4 +2401,128 @@ The People's Pantry (Weekday Afternoons)
 2:45pm - 6:15pm
 
                     3
-sp
+spots remaining
+
+                Support the Resident Services with our food pantry located in one of our properties near the Bluemont neighborhood in Arlington, VA. Please note signing up on here is only to express your interest, one of our staff members will reach out with confirm...
+
+Get Connected Icon
+
+The People's Pan...
+
+The People's Pantry (Weekday Afternoons)
+
+                View
+                                    100+
+                 More
+
+Facebook
+
+X/Twitter
+
+YouTube
+
+LinkedIn
+
+Instagram
+
+Privacy Policy
+
+Contact Us
+
+×
+
+Our website uses cookies
+
+                                This site uses cookies to improve your experience and analyze site traffic. We do not use cookies for advertising or marketing purposes. Read more about how we use cookies in 
+Privacy Policy
+. By clicking accept, you consent to our use of cookies.
+
+Show Cookie Preferences
+
+Necessary (Always active)
+
+Analytics
+
+                                        Analytical cookies are used to understand how users interact with the website. They help provide information on metrics like number of visitors, bounce rate, traffic source, etc.
+
+Accept
+
+----
+
+Calendar | Volunteer Arlington
+
+Skip to main content
+
+Open side bar.
+
+            Return to our Website
+
+Sign Up
+
+Login
+
+        Help
+
+                Calendar
+
+Open top navigation menu.
+
+            Return to our Website
+
+Sign Up
+
+Login
+
+        Help
+
+                Calendar
+
+Home
+
+                            Dashboard
+
+Get Connected Icon
+
+				Opportunities
+
+Get Connected Icon
+
+                                    Events
+
+Get Connected Icon
+
+				Nonprofits
+
+Get Connected Icon
+
+            						MLK Day of Service
+
+Collapse Menu
+
+Collapse Menu
+
+Home
+Dashboard
+
+Calendar
+
+Calendar
+
+Tools
+
+Tools 
+2
+
+Filter
+
+-- SELECT A FILTER --
+
+Nonprofit
+
+Distance
+
+Phrase
+
+Get Connected Icon
+
+Miles to Nonprofit

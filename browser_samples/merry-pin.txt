@@ -1,6 +1,6 @@
 Merry Pin
 https://www.merrypindc.com/events
-rendered 2026-11-15 00:37Z  status=200 chars=4990 iframes=1 srcdoc=0 next=False error=
+rendered 2026-11-22 00:25Z  status=200 chars=4739 iframes=1 srcdoc=0 next=False error=
 
 
 
@@ -104,54 +104,6 @@ Want to see a narrowed down list of workshops and classes for kids?
 Click here.
 If an event no longer appears on the website, it does not mean it's canceled—events that are sold out no longer appear here.
 
-	Tue, Nov 10
-
-	7:00 PM
-
-		Trivia with Geeks Who Drink (11/10)
-
-		Learn More
-
-	Wed, Nov 11
-
-	6:30 PM
-
-		Craft Witchery: New Moon Gathering (Nov)
-
-		Learn More
-
-	Thu, Nov 12
-
-	6:30 PM
-
-		Neuro Night - November
-
-		Learn More
-
-	Sat, Nov 14
-
-	10:00 AM
-
-		Crafty Tales: Augusta Savage
-
-		Learn More
-
-	Sat, Nov 14
-
-	5:00 PM
-
-		Boozy Book Fair: 90s Edition
-
-		Learn More
-
-	Sun, Nov 15
-
-	2:00 PM
-
-		Make Your Own Fall Garland
-
-		Learn More
-
 	Tue, Nov 17
 
 	7:00 PM
@@ -162,9 +114,25 @@ If an event no longer appears on the website, it does not mean it's canceled—e
 
 	Wed, Nov 18
 
-	6:30 PM
+	2:00 PM
 
-		Miniature Rustic Wooden Wall Shelf (1:12 Scale)
+		November Sidewalk Sale
+
+		Learn More
+
+	Thu, Nov 19
+
+	5:30 PM
+
+		Sip & Stitch Happy Hour (Nov)
+
+		Learn More
+
+	Fri, Nov 20
+
+	6:00 PM
+
+		Queer Crafting Night - Nov
 
 		Learn More
 
@@ -181,6 +149,14 @@ If an event no longer appears on the website, it does not mean it's canceled—e
 	11:00 AM
 
 		Learn to Knit 101 (Nov-Dec)
+
+		Learn More
+
+	Nov 24 - Nov 25
+
+	9:00 AM
+
+		Autumnal Make & Takes
 
 		Learn More
 

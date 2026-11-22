@@ -1,6 +1,6 @@
 Carnegie Science
 https://carnegiescience.edu/events
-rendered 2026-11-15 00:37Z  status=200 chars=17242 iframes=4 srcdoc=0 next=False error=
+rendered 2026-11-22 00:24Z  status=200 chars=16877 iframes=4 srcdoc=0 next=False error=
 
 
 
@@ -536,6 +536,12 @@ Read all News
 
 Breaking News
 
+November 17, 2026
+
+Geochemists Dionysis Foustoukos and George Cody Receive 2026 Carnegie Science Venture Grant
+
+Breaking News
+
 November 10, 2026
 
 End of an Era: Carnegie's Goodbye Stanford Symposium
@@ -823,65 +829,7 @@ Date Descending
 
  Filter results 
 
-                    4 results found for:
-
-share
-
-Facebook
-
-Twitter
-
-LinkedIn
-
-email
-
-Colloquium
-
-Paola Domínguez Fernández (Harvard/UNAM)
-
-      Radio Whispers of Galaxy Clusters: Bfields, CRs & AGN
-
-          Pasadena, CA
-
-17
-
-November
-
-                11:00AM PST
-
-                  12:00PM PST
-
-Learn More
-
-Image credit: NASA/CXC/SAO
-
-share
-
-Facebook
-
-Twitter
-
-LinkedIn
-
-email
-
-Seminar
-
-Abby Mintz (Princeton)
-
-      TBA
-
-          Pasadena, CA
-
-20
-
-November
-
-                12:15PM PST
-
-                  1:15PM PST
-
-Learn More
+                    2 results found for:
 
 share
 
