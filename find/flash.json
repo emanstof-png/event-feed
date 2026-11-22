@@ -1,0 +1,309 @@
+{
+ "row": "4",
+ "name": "Flash",
+ "seed_url": "https://www.flashdc.com",
+ "programs": "Late-night programming",
+ "access": "",
+ "found": "2026-11-22 02:28Z",
+ "search_hits": [],
+ "search_error": "html.duckduckgo.com 0 hits (202, 15128b); www.bing.com 0 hits (200, 134487b); lite.duckduckgo.com 0 hits (202, 15128b)",
+ "probes": [
+  {
+   "url": "https://www.flashdc.com/wp-json/tribe/events/v1/events?per_page=10",
+   "status": "HTTPError",
+   "events": 0
+  },
+  {
+   "url": "https://www.flashdc.com/events/?ical=1",
+   "status": "HTTPError",
+   "events": 0
+  },
+  {
+   "url": "https://www.flashdc.com/?ical=1",
+   "status": 200,
+   "events": 0,
+   "head": "<!DOCTYPE html><html><head><meta charSet=\"utf-8\" data-next-head=\"\"/><meta name=\"viewport\" content=\"width=device-width\" data-next-head=\"\"/><title data-next-head=\"\">Flash: Nightclub and Bar - Washington DC</title><meta name=\"description\" content=\"Flash is an intimate nightclub and bar created for musi"
+  }
+ ],
+ "pages": [
+  {
+   "url": "https://www.flashdc.com",
+   "status": 200,
+   "final_url": "https://www.flashdc.com/",
+   "title": "Flash: Nightclub and Bar - Washington DC",
+   "dates": 0,
+   "jsonld": 18,
+   "jsonld_samples": [
+    {
+     "name": "Dubfire presents Dubfire20 [open-to-close]",
+     "start": "2027-02-13T22:00:00Z",
+     "url": null
+    },
+    {
+     "name": "Roman Fl\u00fcgel",
+     "start": "2027-01-02T22:00:00Z",
+     "url": null
+    },
+    {
+     "name": "Brand New Day X",
+     "start": "2026-12-31T22:00:00Z",
+     "url": null
+    },
+    {
+     "name": "FOCUS: Aurora Halal - Decoder",
+     "start": "2026-12-26T22:00:00Z",
+     "url": null
+    },
+    {
+     "name": "YokoO",
+     "start": "2026-12-19T22:00:00Z",
+     "url": null
+    }
+   ],
+   "hints": [],
+   "iframes": [],
+   "event_links": [
+    {
+     "text": "Schedule",
+     "url": "https://www.flashdc.com/schedule"
+    },
+    {
+     "text": "Calendar",
+     "url": "https://www.flashdc.com/calendar"
+    },
+    {
+     "text": "Private Event",
+     "url": "https://www.flashdc.com/inquiry"
+    },
+    {
+     "text": "Get Tickets \u00bb",
+     "url": "https://shotgun.live/events/ogazon-verraco"
+    },
+    {
+     "text": "Get Tickets \u00bb",
+     "url": "https://shotgun.live/events/stevebug"
+    },
+    {
+     "text": "Get Tickets \u00bb",
+     "url": "https://shotgun.live/events/amapianodmv"
+    },
+    {
+     "text": "Get Tickets \u00bb",
+     "url": "https://shotgun.live/events/para-presents-viiibrations-label-showcase"
+    },
+    {
+     "text": "Get Tickets \u00bb",
+     "url": "https://shotgun.live/events/janina-clovis"
+    },
+    {
+     "text": "Get Tickets \u00bb",
+     "url": "https://shotgun.live/events/matisa-maximedb"
+    },
+    {
+     "text": "Get Tickets \u00bb",
+     "url": "https://shotgun.live/events/takuya-nakamura-flash"
+    },
+    {
+     "text": "Get Tickets \u00bb",
+     "url": "https://shotgun.live/events/cadence-presents-lsb-technimatic"
+    },
+    {
+     "text": "Get Tickets \u00bb",
+     "url": "https://shotgun.live/events/para-sessions-present-vincent-antone"
+    },
+    {
+     "text": "Get Tickets \u00bb",
+     "url": "https://shotgun.live/events/boston168"
+    },
+    {
+     "text": "Get Tickets \u00bb",
+     "url": "https://shotgun.live/events/antal"
+    },
+    {
+     "text": "Get Tickets \u00bb",
+     "url": "https://shotgun.live/events/freddyk"
+    },
+    {
+     "text": "Get Tickets \u00bb",
+     "url": "https://shotgun.live/events/para-x-sessions-parkbreezy"
+    },
+    {
+     "text": "Get Tickets \u00bb",
+     "url": "https://shotgun.live/events/yokoo"
+    },
+    {
+     "text": "Get Tickets \u00bb",
+     "url": "https://shotgun.live/events/aurorahalal-decoder"
+    },
+    {
+     "text": "Get Tickets \u00bb",
+     "url": "https://shotgun.live/events/brand-new-day-x"
+    },
+    {
+     "text": "Get Tickets \u00bb",
+     "url": "https://shotgun.live/events/romanflugel"
+    },
+    {
+     "text": "Get Tickets \u00bb",
+     "url": "https://shotgun.live/events/dubfire20"
+    }
+   ],
+   "platform": "",
+   "error": ""
+  },
+  {
+   "url": "https://www.flashdc.com/schedule",
+   "status": 200,
+   "final_url": "https://www.flashdc.com/schedule",
+   "title": "Flash: Nightclub and Bar - Washington DC",
+   "dates": 0,
+   "jsonld": 0,
+   "jsonld_samples": [],
+   "hints": [],
+   "iframes": [],
+   "event_links": [
+    {
+     "text": "Schedule",
+     "url": "https://www.flashdc.com/schedule"
+    },
+    {
+     "text": "Calendar",
+     "url": "https://www.flashdc.com/calendar"
+    },
+    {
+     "text": "Private Event",
+     "url": "https://www.flashdc.com/inquiry"
+    },
+    {
+     "text": "Get Tickets \u00bb",
+     "url": "https://shotgun.live/events/ogazon-verraco"
+    },
+    {
+     "text": "Get Tickets \u00bb",
+     "url": "https://shotgun.live/events/stevebug"
+    },
+    {
+     "text": "Get Tickets \u00bb",
+     "url": "https://shotgun.live/events/amapianodmv"
+    },
+    {
+     "text": "Get Tickets \u00bb",
+     "url": "https://shotgun.live/events/para-presents-viiibrations-label-showcase"
+    },
+    {
+     "text": "Get Tickets \u00bb",
+     "url": "https://shotgun.live/events/janina-clovis"
+    },
+    {
+     "text": "Get Tickets \u00bb",
+     "url": "https://shotgun.live/events/matisa-maximedb"
+    },
+    {
+     "text": "Get Tickets \u00bb",
+     "url": "https://shotgun.live/events/takuya-nakamura-flash"
+    },
+    {
+     "text": "Get Tickets \u00bb",
+     "url": "https://shotgun.live/events/cadence-presents-lsb-technimatic"
+    },
+    {
+     "text": "Get Tickets \u00bb",
+     "url": "https://shotgun.live/events/para-sessions-present-vincent-antone"
+    },
+    {
+     "text": "Get Tickets \u00bb",
+     "url": "https://shotgun.live/events/boston168"
+    },
+    {
+     "text": "Get Tickets \u00bb",
+     "url": "https://shotgun.live/events/antal"
+    },
+    {
+     "text": "Get Tickets \u00bb",
+     "url": "https://shotgun.live/events/freddyk"
+    },
+    {
+     "text": "Get Tickets \u00bb",
+     "url": "https://shotgun.live/events/para-x-sessions-parkbreezy"
+    },
+    {
+     "text": "Get Tickets \u00bb",
+     "url": "https://shotgun.live/events/yokoo"
+    },
+    {
+     "text": "Get Tickets \u00bb",
+     "url": "https://shotgun.live/events/aurorahalal-decoder"
+    },
+    {
+     "text": "Get Tickets \u00bb",
+     "url": "https://shotgun.live/events/brand-new-day-x"
+    },
+    {
+     "text": "Get Tickets \u00bb",
+     "url": "https://shotgun.live/events/romanflugel"
+    },
+    {
+     "text": "Get Tickets \u00bb",
+     "url": "https://shotgun.live/events/dubfire20"
+    }
+   ],
+   "platform": "",
+   "error": ""
+  },
+  {
+   "url": "https://www.flashdc.com/calendar",
+   "status": 200,
+   "final_url": "https://www.flashdc.com/calendar",
+   "title": "Calendar",
+   "dates": 0,
+   "jsonld": 0,
+   "jsonld_samples": [],
+   "hints": [],
+   "iframes": [],
+   "event_links": [
+    {
+     "text": "Schedule",
+     "url": "https://www.flashdc.com/schedule"
+    },
+    {
+     "text": "Calendar",
+     "url": "https://www.flashdc.com/calendar"
+    },
+    {
+     "text": "Private Event",
+     "url": "https://www.flashdc.com/inquiry"
+    }
+   ],
+   "platform": "",
+   "error": ""
+  },
+  {
+   "url": "https://www.flashdc.com/inquiry",
+   "status": 200,
+   "final_url": "https://www.flashdc.com/inquiry",
+   "title": "VIP and Special Requests",
+   "dates": 0,
+   "jsonld": 0,
+   "jsonld_samples": [],
+   "hints": [],
+   "iframes": [],
+   "event_links": [
+    {
+     "text": "Schedule",
+     "url": "https://www.flashdc.com/schedule"
+    },
+    {
+     "text": "Calendar",
+     "url": "https://www.flashdc.com/calendar"
+    },
+    {
+     "text": "Private Event",
+     "url": "https://www.flashdc.com/inquiry"
+    }
+   ],
+   "platform": "",
+   "error": ""
+  }
+ ],
+ "best_page": "https://www.flashdc.com"
+}

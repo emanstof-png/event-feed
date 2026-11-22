@@ -1,0 +1,331 @@
+{
+ "row": "15",
+ "name": "Eighteenth Street Lounge",
+ "seed_url": "https://www.18thstlounge.com/schedule",
+ "programs": "Late-night programming",
+ "access": "",
+ "found": "2026-11-22 02:30Z",
+ "search_hits": [],
+ "search_error": "html.duckduckgo.com 0 hits (202, 15166b); www.bing.com 0 hits (200, 132310b); lite.duckduckgo.com 0 hits (202, 15166b)",
+ "probes": [
+  {
+   "url": "https://www.18thstlounge.com/wp-json/tribe/events/v1/events?per_page=10",
+   "status": "HTTPError",
+   "events": 0
+  },
+  {
+   "url": "https://www.18thstlounge.com/events/?ical=1",
+   "status": 200,
+   "events": 0,
+   "head": "<!doctype html>\n<html xmlns:og=\"http://opengraphprotocol.org/schema/\" xmlns:fb=\"http://www.facebook.com/2008/fbml\" lang=\"en-US\"  >\n  <head>\n    <meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge,chrome=1\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">\n    <!-- This is Squ"
+  },
+  {
+   "url": "https://www.18thstlounge.com/?ical=1",
+   "status": 200,
+   "events": 0,
+   "head": "<!doctype html>\n<html xmlns:og=\"http://opengraphprotocol.org/schema/\" xmlns:fb=\"http://www.facebook.com/2008/fbml\" lang=\"en-US\"  >\n  <head>\n    <meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge,chrome=1\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">\n    <!-- This is Squ"
+  }
+ ],
+ "pages": [
+  {
+   "url": "https://www.18thstlounge.com/schedule",
+   "status": 200,
+   "final_url": "https://www.18thstlounge.com/schedule",
+   "title": "Schedule \u2014 ESL Shaw",
+   "dates": 37,
+   "jsonld": 0,
+   "jsonld_samples": [],
+   "hints": [
+    "https://www.18thstlounge.com/schedule/haffi-martin-mella-guests-9pm-2am?format=ical",
+    "https://www.18thstlounge.com/schedule/champ-lifestyle-9pm-3am?format=ical",
+    "https://www.18thstlounge.com/schedule/soundroom-party-like-we-used-to-9pm-3am?format=ical",
+    "https://www.18thstlounge.com/schedule/sayless-9pm-3am?format=ical",
+    "https://www.18thstlounge.com/schedule/bivpdaftk4nsszyhstd641m24axj2d-zr6s4-r9ycg-bz3lm-y7xrc-6s8w9-3endm-7belj-w767x-6g2yk?format=ical",
+    "https://www.18thstlounge.com/schedule/house-live-art?format=ical",
+    "https://www.18thstlounge.com/schedule/get-together-salsa-bachata-dance-social-x5td6-eg4a8-d7rpr-ns68a-fg939-r7hy9-m55kl?format=ical",
+    "https://www.18thstlounge.com/schedule/bad-decisions-open-decks-zhrht-7kr4b-r4dwb-7azcg-cw69l-zwca8-fr3df-4lsxj?format=ical",
+    "https://www.18thstlounge.com/schedule/get-together-salsa-bachata-dance-social-x5td6-eg4a8-d7rpr-ns68a-fg939-r7hy9-k659n?format=ical",
+    "https://www.18thstlounge.com/schedule/house-live-art-yg9js?format=ical",
+    "https://www.18thstlounge.com/schedule/bad-decisions-onrica-9pm-2am?format=ical",
+    "https://www.18thstlounge.com/schedule/bivpdaftk4nsszyhstd641m24axj2d-zr6s4-r9ycg-bz3lm-y7xrc-6s8w9-3endm-7belj-w767x?format=ical",
+    "https://www.18thstlounge.com/schedule/bad-decisions-open-decks-zhrht-7kr4b-r4dwb-7azcg-cw69l-zwca8-fr3df?format=ical",
+    "https://www.18thstlounge.com/schedule/get-together-salsa-bachata-dance-social-x5td6-eg4a8-d7rpr-ns68a-fg939-r7hy9?format=ical",
+    "https://www.18thstlounge.com/schedule/halloween?format=ical",
+    "https://www.18thstlounge.com/schedule/jamal-harris-darling-nikki-9pm-3am-1-p8yaj?format=ical",
+    "https://www.18thstlounge.com/schedule/bad-decisions-open-decks-zhrht-7kr4b-r4dwb-7azcg-cw69l-xpx3e?format=ical",
+    "https://www.18thstlounge.com/schedule/bivpdaftk4nsszyhstd641m24axj2d-zr6s4-r9ycg-bz3lm-y7xrc-6s8w9-3endm-7belj?format=ical",
+    "https://www.18thstlounge.com/schedule/iilooc8lms3z3a4z0kt6pjoonjf7v0-adwr8?format=ical",
+    "https://www.18thstlounge.com/schedule/rainier-martin-mella-soul-service-9pm-3am-a6729?format=ical",
+    "https://www.18thstlounge.com/schedule/jamal-harris-darling-nikki-9pm-3am-1-pkkgb?format=ical",
+    "https://www.18thstlounge.com/schedule/bad-decisions-open-decks-zhrht-7kr4b-r4dwb-7azcg-cw69l-zwca8?format=ical",
+    "https://www.18thstlounge.com/schedule/yz6rgrydr5oiiecdwpz8sc8ic9pp2z-3zsyh-pxfrz-t78zs-5g2x6-syl8m-sawdy?format=ical",
+    "https://www.18thstlounge.com/schedule/rainier-martin-mella-soul-service-9pm-3am-48hjf?format=ical",
+    "https://www.18thstlounge.com/schedule/soul-service-9pm-3am-fmtkj?format=ical"
+   ],
+   "iframes": [],
+   "event_links": [
+    {
+     "text": "Events",
+     "url": "https://www.18thstlounge.com/events"
+    },
+    {
+     "text": "",
+     "url": "https://www.18thstlounge.com/schedule/haffi-martin-mella-guests-9pm-2am"
+    },
+    {
+     "text": "Google Calendar",
+     "url": "http://www.google.com/calendar/event?action=TEMPLATE&text=HAFFI%20%2B%20MARTIN%20MELLA%20%2B%20GUESTS%209pm-2am&dates=20261120T013000Z/20261120T023000Z"
+    },
+    {
+     "text": "ICS",
+     "url": "https://www.18thstlounge.com/schedule/haffi-martin-mella-guests-9pm-2am?format=ical"
+    },
+    {
+     "text": "",
+     "url": "https://www.18thstlounge.com/schedule/champ-lifestyle-9pm-3am"
+    },
+    {
+     "text": "Google Calendar",
+     "url": "http://www.google.com/calendar/event?action=TEMPLATE&text=Champ%20Lifestyle%209pm-3am&dates=20261121T020000Z/20261121T030000Z"
+    },
+    {
+     "text": "ICS",
+     "url": "https://www.18thstlounge.com/schedule/champ-lifestyle-9pm-3am?format=ical"
+    },
+    {
+     "text": "",
+     "url": "https://www.18thstlounge.com/schedule/soundroom-party-like-we-used-to-9pm-3am"
+    },
+    {
+     "text": "Google Calendar",
+     "url": "http://www.google.com/calendar/event?action=TEMPLATE&text=Marvin%20Rooftop%20Reunion%2B%20Soundroom%2B%20Party%20Like%20We%20Used%20To%209pm-3am&dates=20261122T020000Z/20261122T030000Z"
+    },
+    {
+     "text": "ICS",
+     "url": "https://www.18thstlounge.com/schedule/soundroom-party-like-we-used-to-9pm-3am?format=ical"
+    },
+    {
+     "text": "",
+     "url": "https://www.18thstlounge.com/schedule/sayless-9pm-3am"
+    },
+    {
+     "text": "Google Calendar",
+     "url": "http://www.google.com/calendar/event?action=TEMPLATE&text=Sayless%209pm-3am&dates=20261123T020000Z/20261123T030000Z"
+    },
+    {
+     "text": "ICS",
+     "url": "https://www.18thstlounge.com/schedule/sayless-9pm-3am?format=ical"
+    },
+    {
+     "text": "",
+     "url": "https://www.18thstlounge.com/schedule/bivpdaftk4nsszyhstd641m24axj2d-zr6s4-r9ycg-bz3lm-y7xrc-6s8w9-3endm-7belj-w767x-6g2yk"
+    },
+    {
+     "text": "Google Calendar",
+     "url": "http://www.google.com/calendar/event?action=TEMPLATE&text=Open%20Mic%20Night%20%2B%20Salsa%20dance%20Social&dates=20261125T020000Z/20261125T030000Z"
+    },
+    {
+     "text": "ICS",
+     "url": "https://www.18thstlounge.com/schedule/bivpdaftk4nsszyhstd641m24axj2d-zr6s4-r9ycg-bz3lm-y7xrc-6s8w9-3endm-7belj-w767x-6g2yk?format=ical"
+    },
+    {
+     "text": "",
+     "url": "https://www.18thstlounge.com/schedule/house-live-art"
+    },
+    {
+     "text": "Google Calendar",
+     "url": "http://www.google.com/calendar/event?action=TEMPLATE&text=HOUSE%20%2B%20LIVE%20ART%209pm-2am&dates=20261127T020000Z/20261127T030000Z"
+    },
+    {
+     "text": "ICS",
+     "url": "https://www.18thstlounge.com/schedule/house-live-art?format=ical"
+    },
+    {
+     "text": "",
+     "url": "https://www.18thstlounge.com/schedule/get-together-salsa-bachata-dance-social-x5td6-eg4a8-d7rpr-ns68a-fg939-r7hy9-m55kl"
+    },
+    {
+     "text": "Google Calendar",
+     "url": "http://www.google.com/calendar/event?action=TEMPLATE&text=Salsa%20%26amp%3B%20Bachata%20Dance%20Social%20&dates=20261202T020000Z/20261202T030000Z"
+    },
+    {
+     "text": "ICS",
+     "url": "https://www.18thstlounge.com/schedule/get-together-salsa-bachata-dance-social-x5td6-eg4a8-d7rpr-ns68a-fg939-r7hy9-m55kl?format=ical"
+    },
+    {
+     "text": "",
+     "url": "https://www.18thstlounge.com/schedule/bad-decisions-open-decks-zhrht-7kr4b-r4dwb-7azcg-cw69l-zwca8-fr3df-4lsxj"
+    },
+    {
+     "text": "Google Calendar",
+     "url": "http://www.google.com/calendar/event?action=TEMPLATE&text=Bad%20Decisions%20by%20Maximiliano%209pm-2am%20&dates=20261119T020000Z/20261119T030000Z"
+    },
+    {
+     "text": "ICS",
+     "url": "https://www.18thstlounge.com/schedule/bad-decisions-open-decks-zhrht-7kr4b-r4dwb-7azcg-cw69l-zwca8-fr3df-4lsxj?format=ical"
+    }
+   ],
+   "platform": "squarespace",
+   "error": ""
+  },
+  {
+   "url": "https://www.18thstlounge.com/",
+   "status": 200,
+   "final_url": "https://www.18thstlounge.com/",
+   "title": "ESL Shaw",
+   "dates": 0,
+   "jsonld": 0,
+   "jsonld_samples": [],
+   "hints": [],
+   "iframes": [],
+   "event_links": [
+    {
+     "text": "Events",
+     "url": "https://www.18thstlounge.com/events"
+    },
+    {
+     "text": "Schedule",
+     "url": "https://www.18thstlounge.com/schedule"
+    }
+   ],
+   "platform": "squarespace",
+   "error": ""
+  },
+  {
+   "url": "https://www.18thstlounge.com/events",
+   "status": 200,
+   "final_url": "https://www.18thstlounge.com/events",
+   "title": "Events \u2014 ESL Shaw",
+   "dates": 0,
+   "jsonld": 0,
+   "jsonld_samples": [],
+   "hints": [],
+   "iframes": [],
+   "event_links": [
+    {
+     "text": "Schedule",
+     "url": "https://www.18thstlounge.com/schedule"
+    },
+    {
+     "text": "Book An Event",
+     "url": "https://bagpipe-arugula-c244.squarespace.com/events/#book-an-event"
+    },
+    {
+     "text": "Book an event",
+     "url": "https://www.18thstlounge.com/events/#book-an-event"
+    }
+   ],
+   "platform": "squarespace",
+   "error": ""
+  },
+  {
+   "url": "https://www.18thstlounge.com/schedule/haffi-martin-mella-guests-9pm-2am",
+   "status": 200,
+   "final_url": "https://www.18thstlounge.com/schedule/haffi-martin-mella-guests-9pm-2am",
+   "title": "HAFFI + MARTIN MELLA + GUESTS 9pm-2am \u2014 ESL Shaw",
+   "dates": 3,
+   "jsonld": 1,
+   "jsonld_samples": [
+    {
+     "name": "HAFFI + MARTIN MELLA + GUESTS 9pm-2am \u2014 ESL Shaw",
+     "start": "2026-11-19T20:30:00-0500",
+     "url": null
+    }
+   ],
+   "hints": [
+    "https://www.18thstlounge.com/schedule/haffi-martin-mella-guests-9pm-2am?format=ical"
+   ],
+   "iframes": [],
+   "event_links": [
+    {
+     "text": "Events",
+     "url": "https://www.18thstlounge.com/events"
+    },
+    {
+     "text": "Schedule",
+     "url": "https://www.18thstlounge.com/schedule"
+    },
+    {
+     "text": "Google Calendar",
+     "url": "http://www.google.com/calendar/event?action=TEMPLATE&text=HAFFI%20%2B%20MARTIN%20MELLA%20%2B%20GUESTS%209pm-2am&dates=20261120T013000Z/20261120T023000Z"
+    },
+    {
+     "text": "ICS",
+     "url": "https://www.18thstlounge.com/schedule/haffi-martin-mella-guests-9pm-2am?format=ical"
+    },
+    {
+     "text": "Previous \n Previous \n November 18 \n Bad Decisions by Maximil",
+     "url": "https://www.18thstlounge.com/schedule/bad-decisions-open-decks-zhrht-7kr4b-r4dwb-7azcg-cw69l-zwca8-fr3df-4lsxj"
+    },
+    {
+     "text": "Next \n Next \n November 20 \n Champ Lifestyle 9pm-3am",
+     "url": "https://www.18thstlounge.com/schedule/champ-lifestyle-9pm-3am"
+    }
+   ],
+   "platform": "squarespace",
+   "error": ""
+  },
+  {
+   "url": "https://www.18thstlounge.com/schedule/haffi-martin-mella-guests-9pm-2am?format=ical",
+   "status": 200,
+   "final_url": "https://www.18thstlounge.com/schedule/haffi-martin-mella-guests-9pm-2am?format=ical",
+   "title": "",
+   "dates": 0,
+   "jsonld": 0,
+   "jsonld_samples": [],
+   "hints": [],
+   "iframes": [],
+   "event_links": [],
+   "platform": "squarespace",
+   "error": ""
+  },
+  {
+   "url": "https://www.18thstlounge.com/schedule/champ-lifestyle-9pm-3am",
+   "status": 200,
+   "final_url": "https://www.18thstlounge.com/schedule/champ-lifestyle-9pm-3am",
+   "title": "Champ Lifestyle 9pm-3am \u2014 ESL Shaw",
+   "dates": 3,
+   "jsonld": 1,
+   "jsonld_samples": [
+    {
+     "name": "Champ Lifestyle 9pm-3am \u2014 ESL Shaw",
+     "start": "2026-11-20T21:00:00-0500",
+     "url": null
+    }
+   ],
+   "hints": [
+    "https://www.18thstlounge.com/schedule/champ-lifestyle-9pm-3am?format=ical"
+   ],
+   "iframes": [],
+   "event_links": [
+    {
+     "text": "Events",
+     "url": "https://www.18thstlounge.com/events"
+    },
+    {
+     "text": "Schedule",
+     "url": "https://www.18thstlounge.com/schedule"
+    },
+    {
+     "text": "Google Calendar",
+     "url": "http://www.google.com/calendar/event?action=TEMPLATE&text=Champ%20Lifestyle%209pm-3am&dates=20261121T020000Z/20261121T030000Z"
+    },
+    {
+     "text": "ICS",
+     "url": "https://www.18thstlounge.com/schedule/champ-lifestyle-9pm-3am?format=ical"
+    },
+    {
+     "text": "Previous \n Previous \n November 19 \n HAFFI + MARTIN MELLA + G",
+     "url": "https://www.18thstlounge.com/schedule/haffi-martin-mella-guests-9pm-2am"
+    },
+    {
+     "text": "Next \n Next \n November 21 \n Marvin Rooftop Reunion+ Soundroo",
+     "url": "https://www.18thstlounge.com/schedule/soundroom-party-like-we-used-to-9pm-3am"
+    }
+   ],
+   "platform": "squarespace",
+   "error": ""
+  }
+ ],
+ "best_page": "https://www.18thstlounge.com/schedule"
+}

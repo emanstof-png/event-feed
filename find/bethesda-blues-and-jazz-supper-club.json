@@ -1,0 +1,44 @@
+{
+ "row": "7",
+ "name": "Bethesda Blues and Jazz Supper Club",
+ "seed_url": "https://seed-unknown.invalid/",
+ "programs": "Late-night programming",
+ "access": "",
+ "found": "2026-11-22 02:29Z",
+ "search_hits": [],
+ "search_error": "html.duckduckgo.com 0 hits (202, 15200b); www.bing.com 0 hits (200, 120724b); lite.duckduckgo.com 0 hits (202, 15181b)",
+ "probes": [
+  {
+   "url": "https://seed-unknown.invalid/wp-json/tribe/events/v1/events?per_page=10",
+   "status": "DNSError",
+   "events": 0
+  },
+  {
+   "url": "https://seed-unknown.invalid/events/?ical=1",
+   "status": "DNSError",
+   "events": 0
+  },
+  {
+   "url": "https://seed-unknown.invalid/?ical=1",
+   "status": "DNSError",
+   "events": 0
+  }
+ ],
+ "pages": [
+  {
+   "url": "https://seed-unknown.invalid/",
+   "status": null,
+   "final_url": "",
+   "title": "",
+   "dates": 0,
+   "jsonld": 0,
+   "jsonld_samples": [],
+   "hints": [],
+   "iframes": [],
+   "event_links": [],
+   "platform": "",
+   "error": "DNSError: Failed to perform, curl: (6) Could not resolve host: seed-unknown.invalid (Domain name not found). See https://curl.se/libcurl/c/libcurl-errors.html f"
+  }
+ ],
+ "best_page": "https://seed-unknown.invalid/"
+}

@@ -1,0 +1,625 @@
+{
+ "row": "11",
+ "name": "DC Tango Calendar (milongas)",
+ "seed_url": "https://www.sites.google.com/site/dctangocalendar/future-events",
+ "programs": "Late-night programming",
+ "access": "",
+ "found": "2026-11-22 02:29Z",
+ "search_hits": [],
+ "search_error": "html.duckduckgo.com 0 hits (202, 15164b); www.bing.com 0 hits (200, 123077b); lite.duckduckgo.com 0 hits (202, 15182b)",
+ "probes": [
+  {
+   "url": "https://sites.google.com/wp-json/tribe/events/v1/events?per_page=10",
+   "status": 200,
+   "events": 0,
+   "head": "<!doctype html><html lang=\"en-US\" dir=\"ltr\"><head><base href=\"https://accounts.google.com/v3/signin/\"><link rel=\"preconnect\" href=\"//www.gstatic.com\"><meta name=\"referrer\" content=\"origin\"><script data-id=\"_gd\" nonce=\"xIkdG-B6VuRYbsPtG2Ob0w\">window.WIZ_global_data = {\"AfY8Hf\":false,\"DndLYb\":\"\",\"Dpim"
+  },
+  {
+   "url": "https://sites.google.com/events/?ical=1",
+   "status": "HTTPError",
+   "events": 0
+  },
+  {
+   "url": "https://sites.google.com/?ical=1",
+   "status": 200,
+   "events": 0,
+   "head": "<!doctype html><html lang=\"en-US\" dir=\"ltr\"><head><base href=\"https://accounts.google.com/v3/signin/\"><link rel=\"preconnect\" href=\"//www.gstatic.com\"><meta name=\"referrer\" content=\"origin\"><script data-id=\"_gd\" nonce=\"frD-p1oo-wyv691nWw6t3w\">window.WIZ_global_data = {\"AfY8Hf\":false,\"DndLYb\":\"\",\"Dpim"
+  }
+ ],
+ "pages": [
+  {
+   "url": "https://www.sites.google.com/site/dctangocalendar/future-events",
+   "status": 200,
+   "final_url": "https://sites.google.com/site/dctangocalendar/future-events",
+   "title": "Capital Tangueros Calendar - *Future Events*",
+   "dates": 11,
+   "jsonld": 0,
+   "jsonld_samples": [],
+   "hints": [],
+   "iframes": [],
+   "event_links": [
+    {
+     "text": "",
+     "url": "https://sites.google.com/site/dctangocalendar/Home"
+    },
+    {
+     "text": "*Future Events*",
+     "url": "https://sites.google.com/site/dctangocalendar/future-events"
+    },
+    {
+     "text": "About us",
+     "url": "https://sites.google.com/site/dctangocalendar/about-us"
+    },
+    {
+     "text": "Argentine Tango Society of Greater Washington",
+     "url": "https://sites.google.com/site/dctangocalendar/argentine-tango-society-of-greater-washington"
+    },
+    {
+     "text": "Argentine Tango Space Project",
+     "url": "https://sites.google.com/site/dctangocalendar/argentine-tango-space-project"
+    },
+    {
+     "text": "ArTS of Greater Washington",
+     "url": "https://sites.google.com/site/dctangocalendar/artsofgreaterwashington"
+    },
+    {
+     "text": "Bienvenido al Tango Radio Show",
+     "url": "https://sites.google.com/site/dctangocalendar/takoma-radio"
+    },
+    {
+     "text": "Bienvenido Studio/Tango Dynamic",
+     "url": "https://sites.google.com/site/dctangocalendar/bienvenido-studio-dynamic-tango"
+    },
+    {
+     "text": "City Dock Tango",
+     "url": "https://sites.google.com/site/dctangocalendar/city-dock-tango"
+    },
+    {
+     "text": "Colvin Run Blue Moon",
+     "url": "https://sites.google.com/site/dctangocalendar/colvin-run-5th-saturday"
+    },
+    {
+     "text": "DC Queer Tango Collective",
+     "url": "https://sites.google.com/site/dctangocalendar/dc-queer-tango-collective"
+    },
+    {
+     "text": "DC Tango Orchestra",
+     "url": "https://sites.google.com/site/dctangocalendar/dc-tango-orchestra"
+    },
+    {
+     "text": "DSL Tango",
+     "url": "https://sites.google.com/site/dctangocalendar/dsl-tango"
+    },
+    {
+     "text": "Elegant Dancing",
+     "url": "https://sites.google.com/site/dctangocalendar/elegant-dancing"
+    },
+    {
+     "text": "F\u00e1brica Tango DC",
+     "url": "https://sites.google.com/site/dctangocalendar/fabrica-tango-dc"
+    },
+    {
+     "text": "F\u00e1brica Tango Severna Park",
+     "url": "https://sites.google.com/site/dctangocalendar/fabrica-tango-severna-park"
+    },
+    {
+     "text": "Festival Argentino USA",
+     "url": "https://sites.google.com/site/dctangocalendar/festival-argentina-usa"
+    },
+    {
+     "text": "Forever Dancing Ballroom",
+     "url": "https://sites.google.com/site/dctangocalendar/forever-dancing-ballroom"
+    },
+    {
+     "text": "Freedom Plaza",
+     "url": "https://sites.google.com/site/dctangocalendar/freedom-plaza"
+    },
+    {
+     "text": "GW Argentine Tango",
+     "url": "https://sites.google.com/site/dctangocalendar/gw-argentine-tango"
+    },
+    {
+     "text": "GW Saturday Tango Practica",
+     "url": "https://sites.google.com/site/dctangocalendar/saturday-tango-practica"
+    },
+    {
+     "text": "How to List an Event",
+     "url": "https://sites.google.com/site/dctangocalendar/how-to-list-an-event"
+    },
+    {
+     "text": "Inner Space Tango",
+     "url": "https://sites.google.com/site/dctangocalendar/inner-space-tango"
+    },
+    {
+     "text": "In Step Dance Studio",
+     "url": "https://sites.google.com/site/dctangocalendar/in-step-dance-studio"
+    },
+    {
+     "text": "La Casa de Baile",
+     "url": "https://sites.google.com/site/dctangocalendar/la-casa-de-baile"
+    }
+   ],
+   "platform": "",
+   "error": ""
+  },
+  {
+   "url": "https://sites.google.com/",
+   "status": 200,
+   "final_url": "https://accounts.google.com/v3/signin/identifier?continue=https://sites.google.com/&followup=https://sites.google.com/&osid=1&passive=1209600&service=wise&flowName=GlifWebSignIn&flowEntry=ServiceLogin&dsh=S-385839620:1795314576634172",
+   "title": "Google Drive: Sign-in",
+   "dates": 0,
+   "jsonld": 0,
+   "jsonld_samples": [],
+   "hints": [],
+   "iframes": [],
+   "event_links": [],
+   "platform": "",
+   "error": ""
+  },
+  {
+   "url": "https://sites.google.com/site/dctangocalendar/Home",
+   "status": 200,
+   "final_url": "https://sites.google.com/site/dctangocalendar/Home",
+   "title": "Capital Tangueros Calendar",
+   "dates": 0,
+   "jsonld": 0,
+   "jsonld_samples": [],
+   "hints": [
+    "https://calendar.google.com/calendar/embed?src=4vt5bq8tisa5vka79l0f6v5av4%40group.calendar.google.com&ctz=America%2FNew_York"
+   ],
+   "iframes": [
+    "https://www.google.com/calendar/embed?color=%234986e7&embed_style=WyJhdDplbWI6c3QiLCIjZTBlMGUwIiwiI2VkZWRlZCIsIiM0MTg0ZjMiLCJyb2JvdG8iLCIjNjM2MzYzIiw1MDAsIiNmZmYiXQo&eopt=0&mode=agenda&showCalendars=1&showPrint=0&showTz=1&src=4vt5bq8tisa5vka79l0f6v5av4@group.calendar.google.com"
+   ],
+   "event_links": [
+    {
+     "text": "",
+     "url": "https://sites.google.com/site/dctangocalendar/Home"
+    },
+    {
+     "text": "*Future Events*",
+     "url": "https://sites.google.com/site/dctangocalendar/future-events"
+    },
+    {
+     "text": "About us",
+     "url": "https://sites.google.com/site/dctangocalendar/about-us"
+    },
+    {
+     "text": "Argentine Tango Society of Greater Washington",
+     "url": "https://sites.google.com/site/dctangocalendar/argentine-tango-society-of-greater-washington"
+    },
+    {
+     "text": "Argentine Tango Space Project",
+     "url": "https://sites.google.com/site/dctangocalendar/argentine-tango-space-project"
+    },
+    {
+     "text": "ArTS of Greater Washington",
+     "url": "https://sites.google.com/site/dctangocalendar/artsofgreaterwashington"
+    },
+    {
+     "text": "Bienvenido al Tango Radio Show",
+     "url": "https://sites.google.com/site/dctangocalendar/takoma-radio"
+    },
+    {
+     "text": "Bienvenido Studio/Tango Dynamic",
+     "url": "https://sites.google.com/site/dctangocalendar/bienvenido-studio-dynamic-tango"
+    },
+    {
+     "text": "City Dock Tango",
+     "url": "https://sites.google.com/site/dctangocalendar/city-dock-tango"
+    },
+    {
+     "text": "Colvin Run Blue Moon",
+     "url": "https://sites.google.com/site/dctangocalendar/colvin-run-5th-saturday"
+    },
+    {
+     "text": "DC Queer Tango Collective",
+     "url": "https://sites.google.com/site/dctangocalendar/dc-queer-tango-collective"
+    },
+    {
+     "text": "DC Tango Orchestra",
+     "url": "https://sites.google.com/site/dctangocalendar/dc-tango-orchestra"
+    },
+    {
+     "text": "DSL Tango",
+     "url": "https://sites.google.com/site/dctangocalendar/dsl-tango"
+    },
+    {
+     "text": "Elegant Dancing",
+     "url": "https://sites.google.com/site/dctangocalendar/elegant-dancing"
+    },
+    {
+     "text": "F\u00e1brica Tango DC",
+     "url": "https://sites.google.com/site/dctangocalendar/fabrica-tango-dc"
+    },
+    {
+     "text": "F\u00e1brica Tango Severna Park",
+     "url": "https://sites.google.com/site/dctangocalendar/fabrica-tango-severna-park"
+    },
+    {
+     "text": "Festival Argentino USA",
+     "url": "https://sites.google.com/site/dctangocalendar/festival-argentina-usa"
+    },
+    {
+     "text": "Forever Dancing Ballroom",
+     "url": "https://sites.google.com/site/dctangocalendar/forever-dancing-ballroom"
+    },
+    {
+     "text": "Freedom Plaza",
+     "url": "https://sites.google.com/site/dctangocalendar/freedom-plaza"
+    },
+    {
+     "text": "GW Argentine Tango",
+     "url": "https://sites.google.com/site/dctangocalendar/gw-argentine-tango"
+    },
+    {
+     "text": "GW Saturday Tango Practica",
+     "url": "https://sites.google.com/site/dctangocalendar/saturday-tango-practica"
+    },
+    {
+     "text": "How to List an Event",
+     "url": "https://sites.google.com/site/dctangocalendar/how-to-list-an-event"
+    },
+    {
+     "text": "Inner Space Tango",
+     "url": "https://sites.google.com/site/dctangocalendar/inner-space-tango"
+    },
+    {
+     "text": "In Step Dance Studio",
+     "url": "https://sites.google.com/site/dctangocalendar/in-step-dance-studio"
+    },
+    {
+     "text": "La Casa de Baile",
+     "url": "https://sites.google.com/site/dctangocalendar/la-casa-de-baile"
+    }
+   ],
+   "platform": "",
+   "error": ""
+  },
+  {
+   "url": "https://sites.google.com/site/dctangocalendar/future-events",
+   "status": 200,
+   "final_url": "https://sites.google.com/site/dctangocalendar/future-events",
+   "title": "Capital Tangueros Calendar - *Future Events*",
+   "dates": 11,
+   "jsonld": 0,
+   "jsonld_samples": [],
+   "hints": [],
+   "iframes": [],
+   "event_links": [
+    {
+     "text": "",
+     "url": "https://sites.google.com/site/dctangocalendar/Home"
+    },
+    {
+     "text": "*Future Events*",
+     "url": "https://sites.google.com/site/dctangocalendar/future-events"
+    },
+    {
+     "text": "About us",
+     "url": "https://sites.google.com/site/dctangocalendar/about-us"
+    },
+    {
+     "text": "Argentine Tango Society of Greater Washington",
+     "url": "https://sites.google.com/site/dctangocalendar/argentine-tango-society-of-greater-washington"
+    },
+    {
+     "text": "Argentine Tango Space Project",
+     "url": "https://sites.google.com/site/dctangocalendar/argentine-tango-space-project"
+    },
+    {
+     "text": "ArTS of Greater Washington",
+     "url": "https://sites.google.com/site/dctangocalendar/artsofgreaterwashington"
+    },
+    {
+     "text": "Bienvenido al Tango Radio Show",
+     "url": "https://sites.google.com/site/dctangocalendar/takoma-radio"
+    },
+    {
+     "text": "Bienvenido Studio/Tango Dynamic",
+     "url": "https://sites.google.com/site/dctangocalendar/bienvenido-studio-dynamic-tango"
+    },
+    {
+     "text": "City Dock Tango",
+     "url": "https://sites.google.com/site/dctangocalendar/city-dock-tango"
+    },
+    {
+     "text": "Colvin Run Blue Moon",
+     "url": "https://sites.google.com/site/dctangocalendar/colvin-run-5th-saturday"
+    },
+    {
+     "text": "DC Queer Tango Collective",
+     "url": "https://sites.google.com/site/dctangocalendar/dc-queer-tango-collective"
+    },
+    {
+     "text": "DC Tango Orchestra",
+     "url": "https://sites.google.com/site/dctangocalendar/dc-tango-orchestra"
+    },
+    {
+     "text": "DSL Tango",
+     "url": "https://sites.google.com/site/dctangocalendar/dsl-tango"
+    },
+    {
+     "text": "Elegant Dancing",
+     "url": "https://sites.google.com/site/dctangocalendar/elegant-dancing"
+    },
+    {
+     "text": "F\u00e1brica Tango DC",
+     "url": "https://sites.google.com/site/dctangocalendar/fabrica-tango-dc"
+    },
+    {
+     "text": "F\u00e1brica Tango Severna Park",
+     "url": "https://sites.google.com/site/dctangocalendar/fabrica-tango-severna-park"
+    },
+    {
+     "text": "Festival Argentino USA",
+     "url": "https://sites.google.com/site/dctangocalendar/festival-argentina-usa"
+    },
+    {
+     "text": "Forever Dancing Ballroom",
+     "url": "https://sites.google.com/site/dctangocalendar/forever-dancing-ballroom"
+    },
+    {
+     "text": "Freedom Plaza",
+     "url": "https://sites.google.com/site/dctangocalendar/freedom-plaza"
+    },
+    {
+     "text": "GW Argentine Tango",
+     "url": "https://sites.google.com/site/dctangocalendar/gw-argentine-tango"
+    },
+    {
+     "text": "GW Saturday Tango Practica",
+     "url": "https://sites.google.com/site/dctangocalendar/saturday-tango-practica"
+    },
+    {
+     "text": "How to List an Event",
+     "url": "https://sites.google.com/site/dctangocalendar/how-to-list-an-event"
+    },
+    {
+     "text": "Inner Space Tango",
+     "url": "https://sites.google.com/site/dctangocalendar/inner-space-tango"
+    },
+    {
+     "text": "In Step Dance Studio",
+     "url": "https://sites.google.com/site/dctangocalendar/in-step-dance-studio"
+    },
+    {
+     "text": "La Casa de Baile",
+     "url": "https://sites.google.com/site/dctangocalendar/la-casa-de-baile"
+    }
+   ],
+   "platform": "",
+   "error": ""
+  },
+  {
+   "url": "https://sites.google.com/site/dctangocalendar/about-us",
+   "status": 200,
+   "final_url": "https://sites.google.com/site/dctangocalendar/about-us",
+   "title": "Capital Tangueros Calendar - About us",
+   "dates": 1,
+   "jsonld": 0,
+   "jsonld_samples": [],
+   "hints": [],
+   "iframes": [],
+   "event_links": [
+    {
+     "text": "",
+     "url": "https://sites.google.com/site/dctangocalendar/Home"
+    },
+    {
+     "text": "*Future Events*",
+     "url": "https://sites.google.com/site/dctangocalendar/future-events"
+    },
+    {
+     "text": "About us",
+     "url": "https://sites.google.com/site/dctangocalendar/about-us"
+    },
+    {
+     "text": "Argentine Tango Society of Greater Washington",
+     "url": "https://sites.google.com/site/dctangocalendar/argentine-tango-society-of-greater-washington"
+    },
+    {
+     "text": "Argentine Tango Space Project",
+     "url": "https://sites.google.com/site/dctangocalendar/argentine-tango-space-project"
+    },
+    {
+     "text": "ArTS of Greater Washington",
+     "url": "https://sites.google.com/site/dctangocalendar/artsofgreaterwashington"
+    },
+    {
+     "text": "Bienvenido al Tango Radio Show",
+     "url": "https://sites.google.com/site/dctangocalendar/takoma-radio"
+    },
+    {
+     "text": "Bienvenido Studio/Tango Dynamic",
+     "url": "https://sites.google.com/site/dctangocalendar/bienvenido-studio-dynamic-tango"
+    },
+    {
+     "text": "City Dock Tango",
+     "url": "https://sites.google.com/site/dctangocalendar/city-dock-tango"
+    },
+    {
+     "text": "Colvin Run Blue Moon",
+     "url": "https://sites.google.com/site/dctangocalendar/colvin-run-5th-saturday"
+    },
+    {
+     "text": "DC Queer Tango Collective",
+     "url": "https://sites.google.com/site/dctangocalendar/dc-queer-tango-collective"
+    },
+    {
+     "text": "DC Tango Orchestra",
+     "url": "https://sites.google.com/site/dctangocalendar/dc-tango-orchestra"
+    },
+    {
+     "text": "DSL Tango",
+     "url": "https://sites.google.com/site/dctangocalendar/dsl-tango"
+    },
+    {
+     "text": "Elegant Dancing",
+     "url": "https://sites.google.com/site/dctangocalendar/elegant-dancing"
+    },
+    {
+     "text": "F\u00e1brica Tango DC",
+     "url": "https://sites.google.com/site/dctangocalendar/fabrica-tango-dc"
+    },
+    {
+     "text": "F\u00e1brica Tango Severna Park",
+     "url": "https://sites.google.com/site/dctangocalendar/fabrica-tango-severna-park"
+    },
+    {
+     "text": "Festival Argentino USA",
+     "url": "https://sites.google.com/site/dctangocalendar/festival-argentina-usa"
+    },
+    {
+     "text": "Forever Dancing Ballroom",
+     "url": "https://sites.google.com/site/dctangocalendar/forever-dancing-ballroom"
+    },
+    {
+     "text": "Freedom Plaza",
+     "url": "https://sites.google.com/site/dctangocalendar/freedom-plaza"
+    },
+    {
+     "text": "GW Argentine Tango",
+     "url": "https://sites.google.com/site/dctangocalendar/gw-argentine-tango"
+    },
+    {
+     "text": "GW Saturday Tango Practica",
+     "url": "https://sites.google.com/site/dctangocalendar/saturday-tango-practica"
+    },
+    {
+     "text": "How to List an Event",
+     "url": "https://sites.google.com/site/dctangocalendar/how-to-list-an-event"
+    },
+    {
+     "text": "Inner Space Tango",
+     "url": "https://sites.google.com/site/dctangocalendar/inner-space-tango"
+    },
+    {
+     "text": "In Step Dance Studio",
+     "url": "https://sites.google.com/site/dctangocalendar/in-step-dance-studio"
+    },
+    {
+     "text": "La Casa de Baile",
+     "url": "https://sites.google.com/site/dctangocalendar/la-casa-de-baile"
+    }
+   ],
+   "platform": "",
+   "error": ""
+  },
+  {
+   "url": "https://sites.google.com/site/dctangocalendar/argentine-tango-society-of-greater-washington",
+   "status": 200,
+   "final_url": "https://sites.google.com/site/dctangocalendar/argentine-tango-society-of-greater-washington",
+   "title": "Capital Tangueros Calendar - Argentine Tango Society of Greater Washington",
+   "dates": 1,
+   "jsonld": 0,
+   "jsonld_samples": [],
+   "hints": [],
+   "iframes": [],
+   "event_links": [
+    {
+     "text": "",
+     "url": "https://sites.google.com/site/dctangocalendar/Home"
+    },
+    {
+     "text": "*Future Events*",
+     "url": "https://sites.google.com/site/dctangocalendar/future-events"
+    },
+    {
+     "text": "About us",
+     "url": "https://sites.google.com/site/dctangocalendar/about-us"
+    },
+    {
+     "text": "Argentine Tango Society of Greater Washington",
+     "url": "https://sites.google.com/site/dctangocalendar/argentine-tango-society-of-greater-washington"
+    },
+    {
+     "text": "Argentine Tango Space Project",
+     "url": "https://sites.google.com/site/dctangocalendar/argentine-tango-space-project"
+    },
+    {
+     "text": "ArTS of Greater Washington",
+     "url": "https://sites.google.com/site/dctangocalendar/artsofgreaterwashington"
+    },
+    {
+     "text": "Bienvenido al Tango Radio Show",
+     "url": "https://sites.google.com/site/dctangocalendar/takoma-radio"
+    },
+    {
+     "text": "Bienvenido Studio/Tango Dynamic",
+     "url": "https://sites.google.com/site/dctangocalendar/bienvenido-studio-dynamic-tango"
+    },
+    {
+     "text": "City Dock Tango",
+     "url": "https://sites.google.com/site/dctangocalendar/city-dock-tango"
+    },
+    {
+     "text": "Colvin Run Blue Moon",
+     "url": "https://sites.google.com/site/dctangocalendar/colvin-run-5th-saturday"
+    },
+    {
+     "text": "DC Queer Tango Collective",
+     "url": "https://sites.google.com/site/dctangocalendar/dc-queer-tango-collective"
+    },
+    {
+     "text": "DC Tango Orchestra",
+     "url": "https://sites.google.com/site/dctangocalendar/dc-tango-orchestra"
+    },
+    {
+     "text": "DSL Tango",
+     "url": "https://sites.google.com/site/dctangocalendar/dsl-tango"
+    },
+    {
+     "text": "Elegant Dancing",
+     "url": "https://sites.google.com/site/dctangocalendar/elegant-dancing"
+    },
+    {
+     "text": "F\u00e1brica Tango DC",
+     "url": "https://sites.google.com/site/dctangocalendar/fabrica-tango-dc"
+    },
+    {
+     "text": "F\u00e1brica Tango Severna Park",
+     "url": "https://sites.google.com/site/dctangocalendar/fabrica-tango-severna-park"
+    },
+    {
+     "text": "Festival Argentino USA",
+     "url": "https://sites.google.com/site/dctangocalendar/festival-argentina-usa"
+    },
+    {
+     "text": "Forever Dancing Ballroom",
+     "url": "https://sites.google.com/site/dctangocalendar/forever-dancing-ballroom"
+    },
+    {
+     "text": "Freedom Plaza",
+     "url": "https://sites.google.com/site/dctangocalendar/freedom-plaza"
+    },
+    {
+     "text": "GW Argentine Tango",
+     "url": "https://sites.google.com/site/dctangocalendar/gw-argentine-tango"
+    },
+    {
+     "text": "GW Saturday Tango Practica",
+     "url": "https://sites.google.com/site/dctangocalendar/saturday-tango-practica"
+    },
+    {
+     "text": "How to List an Event",
+     "url": "https://sites.google.com/site/dctangocalendar/how-to-list-an-event"
+    },
+    {
+     "text": "Inner Space Tango",
+     "url": "https://sites.google.com/site/dctangocalendar/inner-space-tango"
+    },
+    {
+     "text": "In Step Dance Studio",
+     "url": "https://sites.google.com/site/dctangocalendar/in-step-dance-studio"
+    },
+    {
+     "text": "La Casa de Baile",
+     "url": "https://sites.google.com/site/dctangocalendar/la-casa-de-baile"
+    }
+   ],
+   "platform": "",
+   "error": ""
+  }
+ ],
+ "best_page": "https://www.sites.google.com/site/dctangocalendar/future-events"
+}

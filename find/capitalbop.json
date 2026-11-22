@@ -1,0 +1,79 @@
+{
+ "row": "9",
+ "name": "CapitalBop",
+ "seed_url": "https://www.capitalbop.com",
+ "programs": "Late-night programming",
+ "access": "",
+ "found": "2026-11-22 02:29Z",
+ "search_hits": [],
+ "search_error": "html.duckduckgo.com 0 hits (202, 15138b); www.bing.com 0 hits (200, 123457b); lite.duckduckgo.com 0 hits (202, 15131b)",
+ "probes": [
+  {
+   "url": "https://www.capitalbop.com/wp-json/tribe/events/v1/events?per_page=10",
+   "status": "HTTPError",
+   "events": 0
+  },
+  {
+   "url": "https://www.capitalbop.com/events/?ical=1",
+   "status": "HTTPError",
+   "events": 0
+  },
+  {
+   "url": "https://www.capitalbop.com/?ical=1",
+   "status": 200,
+   "events": 0,
+   "head": "<!doctype html>\n<html lang=\"en-US\">\n  <head><script>(function(w,i,g){w[g]=w[g]||[];if(typeof w[g].push=='function')w[g].push(i)})\n(window,'GTM-KD2S3FLL','google_tags_first_party');</script><script>(function(w,d,s,l){w[l]=w[l]||[];(function(){w[l].push(arguments);})('set', 'developer_id.dYzg1YT', tru"
+  }
+ ],
+ "pages": [
+  {
+   "url": "https://www.capitalbop.com",
+   "status": 200,
+   "final_url": "https://www.capitalbop.com/",
+   "title": "CapitalBop | D.C. jazz clubs, music calendar, interviews and more",
+   "dates": 4,
+   "jsonld": 0,
+   "jsonld_samples": [],
+   "hints": [
+    "https://www.eventbrite.com/e/amy-k-bormet-jovia-armstrong-duo-janelle-gill-solo-at-nyu-dc-tickets-2000263429764?aff=oddtdtcreator&keep_tld=true"
+   ],
+   "iframes": [
+    "about:blank"
+   ],
+   "event_links": [
+    {
+     "text": "D.C. Jazz Calendar",
+     "url": "https://www.capitalbop.com/dcjazzcalendar/"
+    },
+    {
+     "text": "buy tickets",
+     "url": "https://www.eventbrite.com/e/amy-k-bormet-jovia-armstrong-duo-janelle-gill-solo-at-nyu-dc-tickets-2000263429764?aff=oddtdtcreator&keep_tld=true"
+    }
+   ],
+   "platform": "eventbrite [WP Rocket 3.23.3.3]",
+   "error": ""
+  },
+  {
+   "url": "https://www.capitalbop.com/dcjazzcalendar/",
+   "status": 200,
+   "final_url": "https://www.capitalbop.com/dcjazzcalendar/",
+   "title": "CapitalBop | D.C. Jazz Calendar",
+   "dates": 0,
+   "jsonld": 0,
+   "jsonld_samples": [],
+   "hints": [],
+   "iframes": [
+    "about:blank"
+   ],
+   "event_links": [
+    {
+     "text": "Submit",
+     "url": "https://www.capitalbop.com/dcjazzcalendar/submit-calendar/"
+    }
+   ],
+   "platform": " [WP Rocket 3.23.3.3]",
+   "error": ""
+  }
+ ],
+ "best_page": "https://www.capitalbop.com"
+}

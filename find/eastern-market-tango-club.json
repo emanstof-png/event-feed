@@ -1,0 +1,696 @@
+{
+ "row": "14",
+ "name": "Eastern Market Tango Club",
+ "seed_url": "https://www.danceus.org/event/15573433915840/eastern-market-tango-club-milonga-thursdays-washington-dc/",
+ "programs": "Late-night programming",
+ "access": "",
+ "found": "2026-11-22 02:30Z",
+ "search_hits": [],
+ "search_error": "html.duckduckgo.com 0 hits (202, 15168b); www.bing.com 0 hits (200, 119447b); lite.duckduckgo.com 0 hits (202, 15168b)",
+ "probes": [
+  {
+   "url": "https://www.danceus.org/wp-json/tribe/events/v1/events?per_page=10",
+   "status": "HTTPError",
+   "events": 0
+  },
+  {
+   "url": "https://www.danceus.org/events/?ical=1",
+   "status": 200,
+   "events": 0,
+   "head": "<!-- Include the head partial and specify title and meta tags -->\n\n\n\n\n  \n\n<!DOCTYPE html>\n<html lang=\"en\">\n  <head>\n    <meta charset=\"utf-8\">\n    <script src=\"/static/js/analytics-consent.js\"></script>\n    <meta name=\"viewport\" content=\"width=device-width,initial-scale=1,maximum-scale=1.0\">\n\n    <t"
+  },
+  {
+   "url": "https://www.danceus.org/?ical=1",
+   "status": 200,
+   "events": 0,
+   "head": "<!-- Include the head partial and specify title and meta tags -->\n\n  \n    \n      \n  \n\n<!DOCTYPE html>\n<html lang=\"en\">\n  <head>\n    <meta charset=\"utf-8\">\n    <script src=\"/static/js/analytics-consent.js\"></script>\n    <meta name=\"viewport\" content=\"width=device-width,initial-scale=1,maximum-scale=1"
+  }
+ ],
+ "pages": [
+  {
+   "url": "https://www.danceus.org/event/15573433915840/eastern-market-tango-club-milonga-thursdays-washington-dc/",
+   "status": 200,
+   "final_url": "https://www.danceus.org/event/15573433915840/eastern-market-tango-club-milonga-thursdays-washington-dc/",
+   "title": "Eastern Market Tango Club Milonga Thursdays - Washington, DC | DanceUs.org",
+   "dates": 6,
+   "jsonld": 1,
+   "jsonld_samples": [
+    {
+     "name": "Eastern Market Tango Club Milonga Thursdays",
+     "start": "2021-12-23T20:00:00-05:00",
+     "url": "https://www.danceus.org/event/15573433915840/eastern-market-tango-club-milonga-thursdays-washington-dc/"
+    }
+   ],
+   "hints": [
+    "https://www.danceus.org/apps/feed/"
+   ],
+   "iframes": [],
+   "event_links": [
+    {
+     "text": "Events",
+     "url": "https://www.danceus.org/events/"
+    },
+    {
+     "text": "Search Name/Venue",
+     "url": "https://www.danceus.org/search-events-by-text/"
+    },
+    {
+     "text": "New York City",
+     "url": "https://www.danceus.org/search-events/?q=New%20York%20City%2C%20NY%2C%20United%20States&lat=40.7128&lng=-74.006"
+    },
+    {
+     "text": "Los Angeles",
+     "url": "https://www.danceus.org/search-events/?q=Los%20Angeles%2C%20CA%2C%20United%20States&lat=34.0549&lng=-118.2426"
+    },
+    {
+     "text": "London",
+     "url": "https://www.danceus.org/search-events/?q=London%2C%20ENG%2C%20United%20Kingdom&lat=51.5074&lng=-0.1278"
+    },
+    {
+     "text": "Chicago",
+     "url": "https://www.danceus.org/search-events/?q=Chicago%2C%20IL%2C%20United%20States&lat=41.8781&lng=-87.6298"
+    },
+    {
+     "text": "San Diego",
+     "url": "https://www.danceus.org/search-events/?q=San%20Diego%2C%20CA%2C%20United%20States&lat=32.7157&lng=-117.1611"
+    },
+    {
+     "text": "Paris",
+     "url": "https://www.danceus.org/search-events/?q=Paris%2C%20France&lat=48.8566&lng=2.3522"
+    },
+    {
+     "text": "Tokyo",
+     "url": "https://www.danceus.org/search-events/?q=Tokyo%2C%20Japan&lat=35.6762&lng=139.6503"
+    },
+    {
+     "text": "Houston",
+     "url": "https://www.danceus.org/search-events/?q=Houston%2C%20TX%2C%20United%20States&lat=29.7604&lng=-95.3698"
+    },
+    {
+     "text": "Festivals",
+     "url": "https://www.danceus.org/events/salsa/latin-salsa-festivals-congresses-worldwide/"
+    },
+    {
+     "text": "Tango Festivals",
+     "url": "https://www.danceus.org/events/argentine-tango/tango-festivals-marathons-worldwide/"
+    },
+    {
+     "text": "Swing Festivals",
+     "url": "https://www.danceus.org/events/swing/swing-dance-festivals-worldwide/"
+    },
+    {
+     "text": "Hip Hop Festivals",
+     "url": "https://www.danceus.org/events/hip-hop/hip-hop-festivals-worldwide-calendar/"
+    },
+    {
+     "text": "EDM Festivals",
+     "url": "https://www.danceus.org/events/news-trends/electronic-dance-music-edm-festivals-worldwide/"
+    },
+    {
+     "text": "My Events",
+     "url": "https://www.danceus.org/apps/events/"
+    },
+    {
+     "text": "Add Event",
+     "url": "https://www.danceus.org/apps/add-event/"
+    },
+    {
+     "text": "Argentine Tango",
+     "url": "https://www.danceus.org/events/argentine-tango/"
+    },
+    {
+     "text": "Washington DC Tango Calendar",
+     "url": "https://www.danceus.org/events/argentine-tango/washington-dc-tango-calendar/"
+    },
+    {
+     "text": "Nov \n 22 \n \n \n \n Tango Brillante Milonga \n \n \n Nov 22, 2026 ",
+     "url": "https://www.danceus.org/event/166059775597316/tango-brillante-milonga-glen-echo-md/"
+    },
+    {
+     "text": "Nov \n 22 \n \n \n \n Milonga Fabrica 4th Saturday \n \n \n Nov 22, ",
+     "url": "https://www.danceus.org/event/166059782209532/milonga-fabrica-saturday-arlington-va/"
+    },
+    {
+     "text": "Nov \n 24 \n \n \n \n Carlos & Kathryn Class & Practica \n \n \n Nov",
+     "url": "https://www.danceus.org/event/16605977799338/carlos-kathryn-class-practica-fairfax-va/"
+    },
+    {
+     "text": "Nov \n 24 \n \n \n \n Milonga Zandunga Mondays \n \n \n Nov 24, 2026",
+     "url": "https://www.danceus.org/event/166059776693332/milonga-zandunga-mondays-bethesda-md/"
+    }
+   ],
+   "platform": "drupal",
+   "error": ""
+  },
+  {
+   "url": "https://www.danceus.org/",
+   "status": 200,
+   "final_url": "https://www.danceus.org/",
+   "title": "Dance Styles & Trends, Events, Videos, Schools, Classes | DanceUs.org",
+   "dates": 0,
+   "jsonld": 0,
+   "jsonld_samples": [],
+   "hints": [
+    "https://www.danceus.org/apps/feed/"
+   ],
+   "iframes": [],
+   "event_links": [
+    {
+     "text": "Events",
+     "url": "https://www.danceus.org/events/"
+    },
+    {
+     "text": "Search Name/Venue",
+     "url": "https://www.danceus.org/search-events-by-text/"
+    },
+    {
+     "text": "New York City",
+     "url": "https://www.danceus.org/search-events/?q=New%20York%20City%2C%20NY%2C%20United%20States&lat=40.7128&lng=-74.006"
+    },
+    {
+     "text": "Los Angeles",
+     "url": "https://www.danceus.org/search-events/?q=Los%20Angeles%2C%20CA%2C%20United%20States&lat=34.0549&lng=-118.2426"
+    },
+    {
+     "text": "London",
+     "url": "https://www.danceus.org/search-events/?q=London%2C%20ENG%2C%20United%20Kingdom&lat=51.5074&lng=-0.1278"
+    },
+    {
+     "text": "Chicago",
+     "url": "https://www.danceus.org/search-events/?q=Chicago%2C%20IL%2C%20United%20States&lat=41.8781&lng=-87.6298"
+    },
+    {
+     "text": "San Diego",
+     "url": "https://www.danceus.org/search-events/?q=San%20Diego%2C%20CA%2C%20United%20States&lat=32.7157&lng=-117.1611"
+    },
+    {
+     "text": "Paris",
+     "url": "https://www.danceus.org/search-events/?q=Paris%2C%20France&lat=48.8566&lng=2.3522"
+    },
+    {
+     "text": "Tokyo",
+     "url": "https://www.danceus.org/search-events/?q=Tokyo%2C%20Japan&lat=35.6762&lng=139.6503"
+    },
+    {
+     "text": "Houston",
+     "url": "https://www.danceus.org/search-events/?q=Houston%2C%20TX%2C%20United%20States&lat=29.7604&lng=-95.3698"
+    },
+    {
+     "text": "Festivals",
+     "url": "https://www.danceus.org/events/salsa/latin-salsa-festivals-congresses-worldwide/"
+    },
+    {
+     "text": "Tango Festivals",
+     "url": "https://www.danceus.org/events/argentine-tango/tango-festivals-marathons-worldwide/"
+    },
+    {
+     "text": "Swing Festivals",
+     "url": "https://www.danceus.org/events/swing/swing-dance-festivals-worldwide/"
+    },
+    {
+     "text": "Hip Hop Festivals",
+     "url": "https://www.danceus.org/events/hip-hop/hip-hop-festivals-worldwide-calendar/"
+    },
+    {
+     "text": "EDM Festivals",
+     "url": "https://www.danceus.org/events/news-trends/electronic-dance-music-edm-festivals-worldwide/"
+    },
+    {
+     "text": "My Events",
+     "url": "https://www.danceus.org/apps/events/"
+    },
+    {
+     "text": "Add Event",
+     "url": "https://www.danceus.org/apps/add-event/"
+    },
+    {
+     "text": "Best College Dance Programs 2026",
+     "url": "https://www.danceus.org/news-trends/best-college-dance-programs-usa/"
+    },
+    {
+     "text": "NYC Salsa",
+     "url": "https://www.danceus.org/events/salsa/new-york-nyc-salsa-calendar/"
+    },
+    {
+     "text": "Los Angeles Salsa",
+     "url": "https://www.danceus.org/events/salsa/los-angeles-ca-salsa-calendar/"
+    },
+    {
+     "text": "Chicago Salsa",
+     "url": "https://www.danceus.org/events/salsa/chicago-il-salsa-calendar/"
+    },
+    {
+     "text": "San Diego Salsa",
+     "url": "https://www.danceus.org/events/salsa/san-diego-ca-salsa-calendar/"
+    },
+    {
+     "text": "Houston Salsa",
+     "url": "https://www.danceus.org/events/salsa/houston-tx-salsa-calendar/"
+    },
+    {
+     "text": "Las Vegas Salsa",
+     "url": "https://www.danceus.org/events/salsa/las-vegas-nv-salsa-calendar/"
+    },
+    {
+     "text": "Portland Salsa",
+     "url": "https://www.danceus.org/events/salsa/portland-or-salsa-calendar/"
+    }
+   ],
+   "platform": "drupal",
+   "error": ""
+  },
+  {
+   "url": "https://www.danceus.org/events/",
+   "status": 200,
+   "final_url": "https://www.danceus.org/events/",
+   "title": "Dance Events, Classes, Lessons, Performances, Shows | DanceUs.org",
+   "dates": 0,
+   "jsonld": 0,
+   "jsonld_samples": [],
+   "hints": [
+    "https://www.danceus.org/apps/feed/"
+   ],
+   "iframes": [],
+   "event_links": [
+    {
+     "text": "Search Name/Venue",
+     "url": "https://www.danceus.org/search-events-by-text/"
+    },
+    {
+     "text": "New York City",
+     "url": "https://www.danceus.org/search-events/?q=New%20York%20City%2C%20NY%2C%20United%20States&lat=40.7128&lng=-74.006"
+    },
+    {
+     "text": "Los Angeles",
+     "url": "https://www.danceus.org/search-events/?q=Los%20Angeles%2C%20CA%2C%20United%20States&lat=34.0549&lng=-118.2426"
+    },
+    {
+     "text": "London",
+     "url": "https://www.danceus.org/search-events/?q=London%2C%20ENG%2C%20United%20Kingdom&lat=51.5074&lng=-0.1278"
+    },
+    {
+     "text": "Chicago",
+     "url": "https://www.danceus.org/search-events/?q=Chicago%2C%20IL%2C%20United%20States&lat=41.8781&lng=-87.6298"
+    },
+    {
+     "text": "San Diego",
+     "url": "https://www.danceus.org/search-events/?q=San%20Diego%2C%20CA%2C%20United%20States&lat=32.7157&lng=-117.1611"
+    },
+    {
+     "text": "Paris",
+     "url": "https://www.danceus.org/search-events/?q=Paris%2C%20France&lat=48.8566&lng=2.3522"
+    },
+    {
+     "text": "Tokyo",
+     "url": "https://www.danceus.org/search-events/?q=Tokyo%2C%20Japan&lat=35.6762&lng=139.6503"
+    },
+    {
+     "text": "Houston",
+     "url": "https://www.danceus.org/search-events/?q=Houston%2C%20TX%2C%20United%20States&lat=29.7604&lng=-95.3698"
+    },
+    {
+     "text": "Festivals",
+     "url": "https://www.danceus.org/events/salsa/latin-salsa-festivals-congresses-worldwide/"
+    },
+    {
+     "text": "Tango Festivals",
+     "url": "https://www.danceus.org/events/argentine-tango/tango-festivals-marathons-worldwide/"
+    },
+    {
+     "text": "Swing Festivals",
+     "url": "https://www.danceus.org/events/swing/swing-dance-festivals-worldwide/"
+    },
+    {
+     "text": "Hip Hop Festivals",
+     "url": "https://www.danceus.org/events/hip-hop/hip-hop-festivals-worldwide-calendar/"
+    },
+    {
+     "text": "EDM Festivals",
+     "url": "https://www.danceus.org/events/news-trends/electronic-dance-music-edm-festivals-worldwide/"
+    },
+    {
+     "text": "My Events",
+     "url": "https://www.danceus.org/apps/events/"
+    },
+    {
+     "text": "Add Event",
+     "url": "https://www.danceus.org/apps/add-event/"
+    },
+    {
+     "text": "Argentine Tango",
+     "url": "https://www.danceus.org/events/argentine-tango"
+    },
+    {
+     "text": "Bachata",
+     "url": "https://www.danceus.org/events/bachata"
+    },
+    {
+     "text": "Ballet",
+     "url": "https://www.danceus.org/events/ballet"
+    },
+    {
+     "text": "Ballroom Tango",
+     "url": "https://www.danceus.org/events/ballroom-tango"
+    },
+    {
+     "text": "Belly dance",
+     "url": "https://www.danceus.org/events/belly-dance"
+    },
+    {
+     "text": "Bollywood",
+     "url": "https://www.danceus.org/events/bollywood"
+    },
+    {
+     "text": "Flamenco",
+     "url": "https://www.danceus.org/events/flamenco"
+    },
+    {
+     "text": "Folk & Other World Dances",
+     "url": "https://www.danceus.org/events/style"
+    },
+    {
+     "text": "Foxtrot",
+     "url": "https://www.danceus.org/events/foxtrot"
+    }
+   ],
+   "platform": "drupal",
+   "error": ""
+  },
+  {
+   "url": "https://www.danceus.org/search-events-by-text/",
+   "status": 200,
+   "final_url": "https://www.danceus.org/search-events-by-text/",
+   "title": "Search Events by Name, Venue or Address | DanceUs.org",
+   "dates": 0,
+   "jsonld": 0,
+   "jsonld_samples": [],
+   "hints": [
+    "https://www.danceus.org/apps/feed/"
+   ],
+   "iframes": [],
+   "event_links": [
+    {
+     "text": "Events",
+     "url": "https://www.danceus.org/events/"
+    },
+    {
+     "text": "New York City",
+     "url": "https://www.danceus.org/search-events/?q=New%20York%20City%2C%20NY%2C%20United%20States&lat=40.7128&lng=-74.006"
+    },
+    {
+     "text": "Los Angeles",
+     "url": "https://www.danceus.org/search-events/?q=Los%20Angeles%2C%20CA%2C%20United%20States&lat=34.0549&lng=-118.2426"
+    },
+    {
+     "text": "London",
+     "url": "https://www.danceus.org/search-events/?q=London%2C%20ENG%2C%20United%20Kingdom&lat=51.5074&lng=-0.1278"
+    },
+    {
+     "text": "Chicago",
+     "url": "https://www.danceus.org/search-events/?q=Chicago%2C%20IL%2C%20United%20States&lat=41.8781&lng=-87.6298"
+    },
+    {
+     "text": "San Diego",
+     "url": "https://www.danceus.org/search-events/?q=San%20Diego%2C%20CA%2C%20United%20States&lat=32.7157&lng=-117.1611"
+    },
+    {
+     "text": "Paris",
+     "url": "https://www.danceus.org/search-events/?q=Paris%2C%20France&lat=48.8566&lng=2.3522"
+    },
+    {
+     "text": "Tokyo",
+     "url": "https://www.danceus.org/search-events/?q=Tokyo%2C%20Japan&lat=35.6762&lng=139.6503"
+    },
+    {
+     "text": "Houston",
+     "url": "https://www.danceus.org/search-events/?q=Houston%2C%20TX%2C%20United%20States&lat=29.7604&lng=-95.3698"
+    },
+    {
+     "text": "Festivals",
+     "url": "https://www.danceus.org/events/salsa/latin-salsa-festivals-congresses-worldwide/"
+    },
+    {
+     "text": "Tango Festivals",
+     "url": "https://www.danceus.org/events/argentine-tango/tango-festivals-marathons-worldwide/"
+    },
+    {
+     "text": "Swing Festivals",
+     "url": "https://www.danceus.org/events/swing/swing-dance-festivals-worldwide/"
+    },
+    {
+     "text": "Hip Hop Festivals",
+     "url": "https://www.danceus.org/events/hip-hop/hip-hop-festivals-worldwide-calendar/"
+    },
+    {
+     "text": "EDM Festivals",
+     "url": "https://www.danceus.org/events/news-trends/electronic-dance-music-edm-festivals-worldwide/"
+    },
+    {
+     "text": "My Events",
+     "url": "https://www.danceus.org/apps/events/"
+    },
+    {
+     "text": "Add Event",
+     "url": "https://www.danceus.org/apps/add-event/"
+    }
+   ],
+   "platform": "drupal",
+   "error": ""
+  },
+  {
+   "url": "https://www.danceus.org/search-events/?q=New%20York%20City%2C%20NY%2C%20United%20States&lat=40.7128&lng=-74.006",
+   "status": 200,
+   "final_url": "https://www.danceus.org/search-events/?q=New%20York%20City%2C%20NY%2C%20United%20States&lat=40.7128&lng=-74.006",
+   "title": "Dance Events, Classes, Lessons, Performances, Shows | DanceUs.org",
+   "dates": 112,
+   "jsonld": 0,
+   "jsonld_samples": [],
+   "hints": [
+    "https://www.danceus.org/apps/feed/"
+   ],
+   "iframes": [],
+   "event_links": [
+    {
+     "text": "Events",
+     "url": "https://www.danceus.org/events/"
+    },
+    {
+     "text": "Search Name/Venue",
+     "url": "https://www.danceus.org/search-events-by-text/"
+    },
+    {
+     "text": "New York City",
+     "url": "https://www.danceus.org/search-events/?q=New%20York%20City%2C%20NY%2C%20United%20States&lat=40.7128&lng=-74.006"
+    },
+    {
+     "text": "Los Angeles",
+     "url": "https://www.danceus.org/search-events/?q=Los%20Angeles%2C%20CA%2C%20United%20States&lat=34.0549&lng=-118.2426"
+    },
+    {
+     "text": "London",
+     "url": "https://www.danceus.org/search-events/?q=London%2C%20ENG%2C%20United%20Kingdom&lat=51.5074&lng=-0.1278"
+    },
+    {
+     "text": "Chicago",
+     "url": "https://www.danceus.org/search-events/?q=Chicago%2C%20IL%2C%20United%20States&lat=41.8781&lng=-87.6298"
+    },
+    {
+     "text": "San Diego",
+     "url": "https://www.danceus.org/search-events/?q=San%20Diego%2C%20CA%2C%20United%20States&lat=32.7157&lng=-117.1611"
+    },
+    {
+     "text": "Paris",
+     "url": "https://www.danceus.org/search-events/?q=Paris%2C%20France&lat=48.8566&lng=2.3522"
+    },
+    {
+     "text": "Tokyo",
+     "url": "https://www.danceus.org/search-events/?q=Tokyo%2C%20Japan&lat=35.6762&lng=139.6503"
+    },
+    {
+     "text": "Houston",
+     "url": "https://www.danceus.org/search-events/?q=Houston%2C%20TX%2C%20United%20States&lat=29.7604&lng=-95.3698"
+    },
+    {
+     "text": "Festivals",
+     "url": "https://www.danceus.org/events/salsa/latin-salsa-festivals-congresses-worldwide/"
+    },
+    {
+     "text": "Tango Festivals",
+     "url": "https://www.danceus.org/events/argentine-tango/tango-festivals-marathons-worldwide/"
+    },
+    {
+     "text": "Swing Festivals",
+     "url": "https://www.danceus.org/events/swing/swing-dance-festivals-worldwide/"
+    },
+    {
+     "text": "Hip Hop Festivals",
+     "url": "https://www.danceus.org/events/hip-hop/hip-hop-festivals-worldwide-calendar/"
+    },
+    {
+     "text": "EDM Festivals",
+     "url": "https://www.danceus.org/events/news-trends/electronic-dance-music-edm-festivals-worldwide/"
+    },
+    {
+     "text": "My Events",
+     "url": "https://www.danceus.org/apps/events/"
+    },
+    {
+     "text": "Add Event",
+     "url": "https://www.danceus.org/apps/add-event/"
+    },
+    {
+     "text": "Clear All",
+     "url": "https://www.danceus.org/search-events?q=New%20York%20City%2C%20NY%2C%20United%20States&lat=40.7128&lng=-74.006"
+    },
+    {
+     "text": "Calendar",
+     "url": "https://www.danceus.org/cal/search-events/?q=New%20York%20City%2C%20NY%2C%20United%20States&lat=40.7128&lng=-74.006&rad=20&month=11&year=2026"
+    },
+    {
+     "text": "\u2605 Featured \n Class",
+     "url": "https://www.danceus.org/event/173825206918732/argentine-tango-group-class-beginner-level-manhattan-ny-usa/"
+    },
+    {
+     "text": "Class",
+     "url": "https://www.danceus.org/event/1788143303702819/young-dancers-program-hip-hop-and-multi-discipline-new-york-city-ny/"
+    },
+    {
+     "text": "Party",
+     "url": "https://www.danceus.org/event/152175369050624/latin-night-at-k-pacho-new-hyde-park-ny/"
+    },
+    {
+     "text": "Beginner",
+     "url": "https://www.danceus.org/event/171158101567932/beginner-mariyah-belly-dance-new-york-ny/"
+    },
+    {
+     "text": "Party",
+     "url": "https://www.danceus.org/event/165401963326216/the-copacabana-saturdays-new-york-ny/"
+    },
+    {
+     "text": "Party",
+     "url": "https://www.danceus.org/event/16540196355438/sensual-bachata-night-at-k-town-dance-new-york-ny/"
+    }
+   ],
+   "platform": "drupal",
+   "error": ""
+  },
+  {
+   "url": "https://www.danceus.org/search-events/?q=Los%20Angeles%2C%20CA%2C%20United%20States&lat=34.0549&lng=-118.2426",
+   "status": 200,
+   "final_url": "https://www.danceus.org/search-events/?q=Los%20Angeles%2C%20CA%2C%20United%20States&lat=34.0549&lng=-118.2426",
+   "title": "Dance Events, Classes, Lessons, Performances, Shows | DanceUs.org",
+   "dates": 111,
+   "jsonld": 0,
+   "jsonld_samples": [],
+   "hints": [
+    "https://www.danceus.org/apps/feed/"
+   ],
+   "iframes": [],
+   "event_links": [
+    {
+     "text": "Events",
+     "url": "https://www.danceus.org/events/"
+    },
+    {
+     "text": "Search Name/Venue",
+     "url": "https://www.danceus.org/search-events-by-text/"
+    },
+    {
+     "text": "New York City",
+     "url": "https://www.danceus.org/search-events/?q=New%20York%20City%2C%20NY%2C%20United%20States&lat=40.7128&lng=-74.006"
+    },
+    {
+     "text": "Los Angeles",
+     "url": "https://www.danceus.org/search-events/?q=Los%20Angeles%2C%20CA%2C%20United%20States&lat=34.0549&lng=-118.2426"
+    },
+    {
+     "text": "London",
+     "url": "https://www.danceus.org/search-events/?q=London%2C%20ENG%2C%20United%20Kingdom&lat=51.5074&lng=-0.1278"
+    },
+    {
+     "text": "Chicago",
+     "url": "https://www.danceus.org/search-events/?q=Chicago%2C%20IL%2C%20United%20States&lat=41.8781&lng=-87.6298"
+    },
+    {
+     "text": "San Diego",
+     "url": "https://www.danceus.org/search-events/?q=San%20Diego%2C%20CA%2C%20United%20States&lat=32.7157&lng=-117.1611"
+    },
+    {
+     "text": "Paris",
+     "url": "https://www.danceus.org/search-events/?q=Paris%2C%20France&lat=48.8566&lng=2.3522"
+    },
+    {
+     "text": "Tokyo",
+     "url": "https://www.danceus.org/search-events/?q=Tokyo%2C%20Japan&lat=35.6762&lng=139.6503"
+    },
+    {
+     "text": "Houston",
+     "url": "https://www.danceus.org/search-events/?q=Houston%2C%20TX%2C%20United%20States&lat=29.7604&lng=-95.3698"
+    },
+    {
+     "text": "Festivals",
+     "url": "https://www.danceus.org/events/salsa/latin-salsa-festivals-congresses-worldwide/"
+    },
+    {
+     "text": "Tango Festivals",
+     "url": "https://www.danceus.org/events/argentine-tango/tango-festivals-marathons-worldwide/"
+    },
+    {
+     "text": "Swing Festivals",
+     "url": "https://www.danceus.org/events/swing/swing-dance-festivals-worldwide/"
+    },
+    {
+     "text": "Hip Hop Festivals",
+     "url": "https://www.danceus.org/events/hip-hop/hip-hop-festivals-worldwide-calendar/"
+    },
+    {
+     "text": "EDM Festivals",
+     "url": "https://www.danceus.org/events/news-trends/electronic-dance-music-edm-festivals-worldwide/"
+    },
+    {
+     "text": "My Events",
+     "url": "https://www.danceus.org/apps/events/"
+    },
+    {
+     "text": "Add Event",
+     "url": "https://www.danceus.org/apps/add-event/"
+    },
+    {
+     "text": "Clear All",
+     "url": "https://www.danceus.org/search-events?q=Los%20Angeles%2C%20CA%2C%20United%20States&lat=34.0549&lng=-118.2426"
+    },
+    {
+     "text": "Calendar",
+     "url": "https://www.danceus.org/cal/search-events/?q=Los%20Angeles%2C%20CA%2C%20United%20States&lat=34.0549&lng=-118.2426&rad=20&month=11&year=2026"
+    },
+    {
+     "text": "\u2605 Featured \n Class",
+     "url": "https://www.danceus.org/event/176576981565916/broadway-jazz-dance-burbank-ca-usa/"
+    },
+    {
+     "text": "\u2605 Featured \n Class",
+     "url": "https://www.danceus.org/event/17050329475538/salsa-beginner-salsa-movers-and-shakers-los-angeles-ca-usa/"
+    },
+    {
+     "text": "\u2605 Featured \n Class",
+     "url": "https://www.danceus.org/event/17050333433190/bachata-beginner-bachata-movers-and-shakers-los-angeles-ca-usa/"
+    },
+    {
+     "text": "\u2605 Featured \n Class",
+     "url": "https://www.danceus.org/event/176575435872024/in-person-zumba-dance-party-burbank-ca-usa/"
+    },
+    {
+     "text": "\u2605 Featured \n Class",
+     "url": "https://www.danceus.org/event/175678849564232/ballroomlatin-level-los-angeles-ca-usa/"
+    },
+    {
+     "text": "\u2605 Featured \n Class",
+     "url": "https://www.danceus.org/event/170269133188224/salsa-advanced-salsa-movers-and-shakers-los-angeles-ca-usa/"
+    }
+   ],
+   "platform": "drupal",
+   "error": ""
+  }
+ ],
+ "best_page": "https://www.danceus.org/search-events/?q=New%20York%20City%2C%20NY%2C%20United%20States&lat=40.7128&lng=-74.006"
+}

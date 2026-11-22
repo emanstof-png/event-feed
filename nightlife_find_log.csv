@@ -1,0 +1,27 @@
+row,name,best_page,status,date_strings,jsonld_events,feed_hints,probe_events,search_hits,seconds,error
+2,The Anthem (Wharf),https://seed-unknown.invalid/,,0,0,0,0,0,5.2,"DNSError: Failed to perform, curl: (6) Could not resolve host: seed-unknown.inva"
+3,Twins Jazz,https://www.timeout.com/washington-dc/nightlife/twins-jazz,200,1,0,0,0,0,6.7,"html.duckduckgo.com 0 hits (202, 15138b); www.bing.com 0 hits (200, 122452b); li"
+4,Flash,https://www.flashdc.com,200,0,18,0,0,0,7.2,"html.duckduckgo.com 0 hits (202, 15128b); www.bing.com 0 hits (200, 134487b); li"
+5,Songbyrd,https://songbyrddc.com/events/,200,259,0,35,0,0,7.2,"html.duckduckgo.com 0 hits (202, 15128b); www.bing.com 0 hits (200, 130317b); li"
+6,9:30 Club,https://seed-unknown.invalid/,,0,0,0,0,0,4.9,"DNSError: Failed to perform, curl: (6) Could not resolve host: seed-unknown.inva"
+7,Bethesda Blues and Jazz Supper Club,https://seed-unknown.invalid/,,0,0,0,0,0,4.8,"DNSError: Failed to perform, curl: (6) Could not resolve host: seed-unknown.inva"
+8,Blues Alley,https://bluesalley.com/,200,0,0,0,0,0,10.9,HTTPError: HTTP Error 404: 
+9,CapitalBop,https://www.capitalbop.com,200,4,0,1,0,0,8.2,"html.duckduckgo.com 0 hits (202, 15138b); www.bing.com 0 hits (200, 123457b); li"
+10,"DC Improv (Lounge showroom, Sketch Night)",https://dcimprov.com/,200,16,0,4,0,0,9.6,HTTPError: HTTP Error 404: 
+11,DC Tango Calendar (milongas),https://www.sites.google.com/site/dctangocalendar/future-events,200,11,0,1,0,0,5.9,"html.duckduckgo.com 0 hits (202, 15164b); www.bing.com 0 hits (200, 123077b); li"
+12,DC9 Nightclub,https://www.songkick.com/venues/20843-dc9-nightclub/calendar,200,0,37,4,0,0,6.2,"html.duckduckgo.com 0 hits (202, 15162b); www.bing.com 0 hits (200, 132140b); li"
+13,Dance Place After Dark,https://www.danceplace.org/performances-and-events/,200,20,10,43,13,0,13.6,"html.duckduckgo.com 0 hits (202, 15174b); www.bing.com 0 hits (200, 134014b); li"
+14,Eastern Market Tango Club,https://www.danceus.org/search-events/?q=New%20York%20City%2C%20NY%2C%20United%20States&lat=40.7128&lng=-74.006,200,112,0,6,0,0,11.7,"html.duckduckgo.com 0 hits (202, 15168b); www.bing.com 0 hits (200, 119447b); li"
+15,Eighteenth Street Lounge,https://www.18thstlounge.com/schedule,200,37,0,27,0,0,6.0,"html.duckduckgo.com 0 hits (202, 15166b); www.bing.com 0 hits (200, 132310b); li"
+16,Freddie's Follies (drag show series),https://outxout.com/events/washington-dc-dc,200,11,10,6,0,0,6.9,"html.duckduckgo.com 0 hits (202, 15153b); www.bing.com 0 hits (200, 122620b); li"
+17,HariKaraoke live band karaoke,https://washington.org/visit-dc/family-friendly-events-washington-dc,200,9,0,38,0,0,9.0,HTTPError: HTTP Error 410: 
+18,Hill Country Barbecue Market karaoke,https://www.timeout.com/washington-dc/music-nightlife/hill-country-basement-bar,200,1,0,0,0,0,5.7,"html.duckduckgo.com 0 hits (202, 15196b); www.bing.com 0 hits (200, 116598b); li"
+19,Joonbug Clarendon,https://joonbug.com/baltimore/events,200,0,4,0,0,0,7.8,"html.duckduckgo.com 0 hits (202, 15164b); www.bing.com 0 hits (200, 131743b); li"
+20,Nat Geo Nights,https://washington.org/visit-dc/family-friendly-events-washington-dc,200,9,0,45,0,0,6.2,"html.duckduckgo.com 0 hits (202, 15158b); www.bing.com 0 hits (200, 131607b); li"
+21,Nu Androids (A.I. Warehouse DC electronic nights),https://www.eventbrite.com/e/nu-androids-presents-mk-tickets-1969852359434,200,3,1,54,0,0,10.5,"html.duckduckgo.com 0 hits (202, 15140b); www.bing.com 0 hits (200, 119253b); li"
+22,SAX (Washington DC),https://ma.to/venue/saxdc,200,5,0,2,0,0,14.0,"html.duckduckgo.com 0 hits (202, 15124b); www.bing.com 0 hits (200, 130403b); li"
+23,Stay Arlington Live DJ After Hours,https://www.stayarlington.com/events/army-ten-miler/,200,4,0,0,0,0,7.6,HTTPError: HTTP Error 404: 
+24,Sunday Love (promoter),https://shotgun.live/en/events/sundaylove2026-seasonpass,,0,0,0,0,0,66.3,HTTPError: HTTP Error 429: 
+25,The Comedy Loft of DC (incl. The Cellar),https://www.dccomedyloft.com/shows/157577,200,260,285,0,0,0,9.0,"html.duckduckgo.com 0 hits (202, 15159b); www.bing.com 0 hits (200, 135492b); li"
+26,The Fillmore Silver Spring,https://www.timeout.com/washington-dc/music-nightlife/fillmore,200,1,0,0,0,0,5.2,"html.duckduckgo.com 0 hits (202, 15170b); www.bing.com 0 hits (200, 132725b); li"
+27,Washington Improv Theater (WIT),https://witdc.org/watch#wit-calendar,200,80,0,59,0,0,10.3,"html.duckduckgo.com 0 hits (202, 15094b); www.bing.com 0 hits (200, 114695b); li"

@@ -1,0 +1,58 @@
+{
+ "row": "24",
+ "name": "Sunday Love (promoter)",
+ "seed_url": "https://shotgun.live/en/events/sundaylove2026-seasonpass",
+ "programs": "Late-night programming",
+ "access": "",
+ "found": "2026-11-22 02:32Z",
+ "search_hits": [],
+ "search_error": "html.duckduckgo.com 0 hits (202, 15151b); www.bing.com 0 hits (200, 119738b); lite.duckduckgo.com 0 hits (202, 15133b)",
+ "probes": [
+  {
+   "url": "https://shotgun.live/wp-json/tribe/events/v1/events?per_page=10",
+   "status": "HTTPError",
+   "events": 0
+  },
+  {
+   "url": "https://shotgun.live/events/?ical=1",
+   "status": "HTTPError",
+   "events": 0
+  },
+  {
+   "url": "https://shotgun.live/?ical=1",
+   "status": "HTTPError",
+   "events": 0
+  }
+ ],
+ "pages": [
+  {
+   "url": "https://shotgun.live/en/events/sundaylove2026-seasonpass",
+   "status": null,
+   "final_url": "",
+   "title": "",
+   "dates": 0,
+   "jsonld": 0,
+   "jsonld_samples": [],
+   "hints": [],
+   "iframes": [],
+   "event_links": [],
+   "platform": "",
+   "error": "HTTPError: HTTP Error 429: "
+  },
+  {
+   "url": "https://shotgun.live/",
+   "status": null,
+   "final_url": "",
+   "title": "",
+   "dates": 0,
+   "jsonld": 0,
+   "jsonld_samples": [],
+   "hints": [],
+   "iframes": [],
+   "event_links": [],
+   "platform": "",
+   "error": "HTTPError: HTTP Error 429: "
+  }
+ ],
+ "best_page": "https://shotgun.live/en/events/sundaylove2026-seasonpass"
+}

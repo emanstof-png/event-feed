@@ -1,0 +1,721 @@
+{
+ "row": "22",
+ "name": "SAX (Washington DC)",
+ "seed_url": "https://ma.to/venue/saxdc",
+ "programs": "Late-night programming",
+ "access": "",
+ "found": "2026-11-22 02:31Z",
+ "search_hits": [],
+ "search_error": "html.duckduckgo.com 0 hits (202, 15124b); www.bing.com 0 hits (200, 130403b); lite.duckduckgo.com 0 hits (202, 15124b)",
+ "probes": [
+  {
+   "url": "https://ma.to/wp-json/tribe/events/v1/events?per_page=10",
+   "status": "HTTPError",
+   "events": 0
+  },
+  {
+   "url": "https://ma.to/events/?ical=1",
+   "status": 200,
+   "events": 0,
+   "head": "<!DOCTYPE html><html lang=\"en\" class=\"inter_8d715a1a-module__01q4wa__variable theme-dark\" style=\"background-color:transparent;--color-bg:#000;--color-text:#fff;--color-accent:#fff;--color-secondary:#9ca3af;--color-grey:#374151;--color-border:#222\"><head><meta charSet=\"utf-8\"/><meta name=\"viewport\" c"
+  },
+  {
+   "url": "https://ma.to/?ical=1",
+   "status": 200,
+   "events": 0,
+   "head": "<!DOCTYPE html><html lang=\"en\" class=\"inter_8d715a1a-module__01q4wa__variable theme-dark\" style=\"background-color:transparent;--color-bg:#000;--color-text:#fff;--color-accent:#fff;--color-secondary:#9ca3af;--color-grey:#374151;--color-border:#222\"><head><meta charSet=\"utf-8\"/><meta name=\"viewport\" c"
+  }
+ ],
+ "pages": [
+  {
+   "url": "https://ma.to/venue/saxdc",
+   "status": 200,
+   "final_url": "https://ma.to/venue/saxdc",
+   "title": "SAX Dinner Theater & Lounge: parties in Washington | MATO",
+   "dates": 5,
+   "jsonld": 0,
+   "jsonld_samples": [],
+   "hints": [
+    "https://ma.to/venue/saxdc/markdown",
+    "https://www.eventbrite.com/e/sir-male-burlesque-at-sax-tickets-1236018607929"
+   ],
+   "iframes": [],
+   "event_links": [
+    {
+     "text": "Washington",
+     "url": "https://ma.to/events/washington"
+    },
+    {
+     "text": "Parties",
+     "url": "https://ma.to/events/washington/anytime/party"
+    },
+    {
+     "text": "Performing arts in Washington",
+     "url": "https://ma.to/events/washington/anytime/performing-arts"
+    },
+    {
+     "text": "This weekend in Washington",
+     "url": "https://ma.to/events/washington/this-weekend"
+    },
+    {
+     "text": "12:00 SIR Sunday Throwback Brunch Also Sun 20 Dec",
+     "url": "https://ma.to/event/sir-sunday-throwback-brunch-12pm-22-nov-2026"
+    },
+    {
+     "text": "15:00 SIR Sunday Throwback Brunch 3PM Also Sun 20 Dec",
+     "url": "https://ma.to/event/sir-sunday-throwback-show-3-pm-22-nov-2026"
+    },
+    {
+     "text": "Fri 20 Nov The Concert Afterparty Parties",
+     "url": "https://ma.to/event/the-concert-afterparty-2026-11-20"
+    },
+    {
+     "text": "Fri 20 Nov Sala de Despecho Parties",
+     "url": "https://ma.to/event/sala-de-despecho-sing-dance-20-nov-2026"
+    },
+    {
+     "text": "Sat 14 Nov College Night at Sax DC Parties",
+     "url": "https://ma.to/event/college-night-at-sax-dc-14-nov-2026"
+    },
+    {
+     "text": "Fri 6 Nov Fake Wedding at Sax theater Parties",
+     "url": "https://ma.to/event/fake-wedding-at-sax-theater-06-nov-2026"
+    },
+    {
+     "text": "Fri 30 Oct College Night at SAX Parties",
+     "url": "https://ma.to/event/college-night-at-sax-2026-10-30"
+    },
+    {
+     "text": "Wed 28 Oct Diyah World: Reve Takeover",
+     "url": "https://ma.to/event/diyah-world-reve-takeover-29-oct-2026"
+    },
+    {
+     "text": "See all   20 past events",
+     "url": "https://ma.to/venue/saxdc/past"
+    },
+    {
+     "text": "SIR SUNDAY 11/22",
+     "url": "https://www.eventbrite.com/e/sir-male-burlesque-at-sax-tickets-1236018607929"
+    },
+    {
+     "text": "Food and drink in Washington",
+     "url": "https://ma.to/events/washington/anytime/food-and-drinks"
+    },
+    {
+     "text": "Live music in Washington",
+     "url": "https://ma.to/events/washington/anytime/live-music"
+    },
+    {
+     "text": "Sports in Washington",
+     "url": "https://ma.to/events/washington/anytime/sports"
+    },
+    {
+     "text": "Get your events on MATO",
+     "url": "https://ma.to/spotlight"
+    },
+    {
+     "text": "Events in Baltimore",
+     "url": "https://ma.to/events/baltimore"
+    },
+    {
+     "text": "Events in Philadelphia",
+     "url": "https://ma.to/events/philadelphia"
+    },
+    {
+     "text": "Events in Pittsburgh",
+     "url": "https://ma.to/events/pittsburgh"
+    },
+    {
+     "text": "Events in New York",
+     "url": "https://ma.to/events/new-york"
+    },
+    {
+     "text": "Events in Raleigh",
+     "url": "https://ma.to/events/raleigh"
+    },
+    {
+     "text": "Events in Columbus",
+     "url": "https://ma.to/events/columbus"
+    }
+   ],
+   "platform": "eventbrite",
+   "error": ""
+  },
+  {
+   "url": "https://ma.to/",
+   "status": 200,
+   "final_url": "https://ma.to/",
+   "title": "Events in New York | MATO",
+   "dates": 0,
+   "jsonld": 0,
+   "jsonld_samples": [],
+   "hints": [],
+   "iframes": [],
+   "event_links": [
+    {
+     "text": "",
+     "url": "https://ma.to/event/signal-night-day-24hr-2026-11-20"
+    },
+    {
+     "text": "",
+     "url": "https://ma.to/event/herald-holiday-fair-21-nov-2026"
+    },
+    {
+     "text": "",
+     "url": "https://ma.to/event/saturday-football-at-socceria-21-nov-2026"
+    },
+    {
+     "text": "",
+     "url": "https://ma.to/event/vaeff-2026-saturday-screenings-21-nov-2026"
+    },
+    {
+     "text": "",
+     "url": "https://ma.to/event/wilson-danielel-pollito-del-cibao-21-nov-2026"
+    },
+    {
+     "text": "",
+     "url": "https://ma.to/event/holiday-lights-opening-night-2026-11-21"
+    },
+    {
+     "text": "",
+     "url": "https://ma.to/event/the-brazilian-takeover-21-nov-2026"
+    },
+    {
+     "text": "",
+     "url": "https://ma.to/event/dos-flakos-at-superior-ingredients-2026-11-21"
+    },
+    {
+     "text": "",
+     "url": "https://ma.to/event/aura-saturdays-brunch-day-party-21-nov-2026"
+    },
+    {
+     "text": "",
+     "url": "https://ma.to/event/nyc-apres-ski-winter-rooftop-party-2026-11-21"
+    },
+    {
+     "text": "",
+     "url": "https://ma.to/event/vessel-holiday-light-show-21-nov-2026"
+    },
+    {
+     "text": "",
+     "url": "https://ma.to/event/spaghetts-of-nyc-extravaganza-2026-11-21"
+    },
+    {
+     "text": "",
+     "url": "https://ma.to/event/antinomie-art-display-at-cassette-21-nov-2026"
+    },
+    {
+     "text": "",
+     "url": "https://ma.to/event/burrito-burrito-at-socceria-21-nov-2026"
+    },
+    {
+     "text": "",
+     "url": "https://ma.to/event/novemberfest-2026-11-21"
+    },
+    {
+     "text": "",
+     "url": "https://ma.to/event/jamaica-inna-yaad-nyc-21-nov-2026"
+    },
+    {
+     "text": "",
+     "url": "https://ma.to/event/michel-was-here-only-childl-21-nov-2026"
+    },
+    {
+     "text": "",
+     "url": "https://ma.to/event/bear-tea-indoor-cave-edition-21-nov-2026"
+    },
+    {
+     "text": "Get your events on MATO",
+     "url": "https://ma.to/spotlight"
+    },
+    {
+     "text": "All events in New York",
+     "url": "https://ma.to/events/new-york"
+    },
+    {
+     "text": "This weekend in New York",
+     "url": "https://ma.to/events/new-york/this-weekend"
+    },
+    {
+     "text": "Live music in New York",
+     "url": "https://ma.to/events/new-york/anytime/live-music"
+    },
+    {
+     "text": "Parties in New York",
+     "url": "https://ma.to/events/new-york/anytime/party"
+    },
+    {
+     "text": "Performing arts in New York",
+     "url": "https://ma.to/events/new-york/anytime/performing-arts"
+    },
+    {
+     "text": "Workshops in New York",
+     "url": "https://ma.to/events/new-york/anytime/workshops"
+    }
+   ],
+   "platform": "eventbrite",
+   "error": ""
+  },
+  {
+   "url": "https://ma.to/events/washington",
+   "status": 200,
+   "final_url": "https://ma.to/events/washington",
+   "title": "Events in Washington | MATO",
+   "dates": 0,
+   "jsonld": 0,
+   "jsonld_samples": [],
+   "hints": [],
+   "iframes": [],
+   "event_links": [
+    {
+     "text": "",
+     "url": "https://ma.to/event/thanksgiving-to-go-kit-pickup-21-nov-2026"
+    },
+    {
+     "text": "",
+     "url": "https://ma.to/event/college-football-all-day-21-nov-2026"
+    },
+    {
+     "text": "",
+     "url": "https://ma.to/event/udc-homecoming-nest-flix-tailgate-21-nov-2026"
+    },
+    {
+     "text": "",
+     "url": "https://ma.to/event/dmv-asian-night-market-21-nov-2026"
+    },
+    {
+     "text": "",
+     "url": "https://ma.to/event/spirit-championship-watch-party-21-nov-2026"
+    },
+    {
+     "text": "",
+     "url": "https://ma.to/event/hip-hop-vs-afrobeats-day-party-21-nov-2026"
+    },
+    {
+     "text": "",
+     "url": "https://ma.to/event/carnaval-de-san-miguel-cocktails-21-nov-2026"
+    },
+    {
+     "text": "",
+     "url": "https://ma.to/event/super-smash-saturday-21-nov-2026"
+    },
+    {
+     "text": "",
+     "url": "https://ma.to/event/dc-art-gala-transformer-21-nov-2026"
+    },
+    {
+     "text": "",
+     "url": "https://ma.to/event/a-taste-of-realm-a-la-carte-21-nov-2026"
+    },
+    {
+     "text": "",
+     "url": "https://ma.to/event/dine-dance-dinner-offer-21-nov-2026"
+    },
+    {
+     "text": "",
+     "url": "https://ma.to/event/bashment-friendsgiving-at-mixed-dc-21-nov-2026"
+    },
+    {
+     "text": "",
+     "url": "https://ma.to/event/green-knuckle-material-21-nov-2026"
+    },
+    {
+     "text": "",
+     "url": "https://ma.to/event/the-legends-ball-2026-11-21"
+    },
+    {
+     "text": "",
+     "url": "https://ma.to/event/pancakes-booze-art-show-21-nov-2026"
+    },
+    {
+     "text": "",
+     "url": "https://ma.to/event/the-hunger-games-dress-up-screening-21-nov-2026"
+    },
+    {
+     "text": "",
+     "url": "https://ma.to/event/loon-and-crow-live-at-pipers-2026-11-21"
+    },
+    {
+     "text": "",
+     "url": "https://ma.to/event/washington-spirit-watch-party-21-nov-2026-1"
+    },
+    {
+     "text": "Get your events on MATO",
+     "url": "https://ma.to/spotlight"
+    },
+    {
+     "text": "This weekend in Washington",
+     "url": "https://ma.to/events/washington/this-weekend"
+    },
+    {
+     "text": "Live music in Washington",
+     "url": "https://ma.to/events/washington/anytime/live-music"
+    },
+    {
+     "text": "Parties in Washington",
+     "url": "https://ma.to/events/washington/anytime/party"
+    },
+    {
+     "text": "Performing arts in Washington",
+     "url": "https://ma.to/events/washington/anytime/performing-arts"
+    },
+    {
+     "text": "Food and drink in Washington",
+     "url": "https://ma.to/events/washington/anytime/food-and-drinks"
+    },
+    {
+     "text": "Markets in Washington",
+     "url": "https://ma.to/events/washington/anytime/markets"
+    }
+   ],
+   "platform": "",
+   "error": ""
+  },
+  {
+   "url": "https://ma.to/events/washington/anytime/party",
+   "status": 200,
+   "final_url": "https://ma.to/events/washington/anytime/party",
+   "title": "Parties in Washington | MATO",
+   "dates": 0,
+   "jsonld": 0,
+   "jsonld_samples": [],
+   "hints": [],
+   "iframes": [],
+   "event_links": [
+    {
+     "text": "",
+     "url": "https://ma.to/event/udc-homecoming-nest-flix-tailgate-21-nov-2026"
+    },
+    {
+     "text": "",
+     "url": "https://ma.to/event/hip-hop-vs-afrobeats-day-party-21-nov-2026"
+    },
+    {
+     "text": "",
+     "url": "https://ma.to/event/bashment-friendsgiving-at-mixed-dc-21-nov-2026"
+    },
+    {
+     "text": "",
+     "url": "https://ma.to/event/the-legends-ball-2026-11-21"
+    },
+    {
+     "text": "",
+     "url": "https://ma.to/event/latin-dance-night-21-nov-2026"
+    },
+    {
+     "text": "",
+     "url": "https://ma.to/event/les-the-dj-at-daikaya-izakaya-21-nov-2026"
+    },
+    {
+     "text": "",
+     "url": "https://ma.to/event/guild-meeting-fck-thanksgiving-21-nov-2026"
+    },
+    {
+     "text": "",
+     "url": "https://ma.to/event/the-box-30-listening-party-21-nov-2026"
+    },
+    {
+     "text": "",
+     "url": "https://ma.to/event/vinyl-dj-set-trev-ski-21-nov-2026"
+    },
+    {
+     "text": "",
+     "url": "https://ma.to/event/intl-vibes-at-kache-21-nov-2026"
+    },
+    {
+     "text": "",
+     "url": "https://ma.to/event/quartermaine-dj-set-21-nov-2026"
+    },
+    {
+     "text": "",
+     "url": "https://ma.to/event/love-shanklin-21-nov-2026-1"
+    },
+    {
+     "text": "",
+     "url": "https://ma.to/event/sphynx-at-story-dc-21-nov-2026"
+    },
+    {
+     "text": "",
+     "url": "https://ma.to/event/directors-cut-with-dd-alexander-21-nov-2026"
+    },
+    {
+     "text": "",
+     "url": "https://ma.to/event/house-of-cards-open-decks-21-nov-2026"
+    },
+    {
+     "text": "",
+     "url": "https://ma.to/event/alison-wonderland-guests-21-nov-2026"
+    },
+    {
+     "text": "",
+     "url": "https://ma.to/event/dmv-boiler-room-on-the-roof-21-nov-2026"
+    },
+    {
+     "text": "",
+     "url": "https://ma.to/event/steadys-bday-social-21-nov-2026"
+    },
+    {
+     "text": "Get your events on MATO",
+     "url": "https://ma.to/spotlight"
+    },
+    {
+     "text": "All events in Washington",
+     "url": "https://ma.to/events/washington"
+    },
+    {
+     "text": "This weekend in Washington",
+     "url": "https://ma.to/events/washington/this-weekend"
+    },
+    {
+     "text": "Live music in Washington",
+     "url": "https://ma.to/events/washington/anytime/live-music"
+    },
+    {
+     "text": "Performing arts in Washington",
+     "url": "https://ma.to/events/washington/anytime/performing-arts"
+    },
+    {
+     "text": "Food and drink in Washington",
+     "url": "https://ma.to/events/washington/anytime/food-and-drinks"
+    },
+    {
+     "text": "Markets in Washington",
+     "url": "https://ma.to/events/washington/anytime/markets"
+    }
+   ],
+   "platform": "",
+   "error": ""
+  },
+  {
+   "url": "https://ma.to/events/washington/anytime/performing-arts",
+   "status": 200,
+   "final_url": "https://ma.to/events/washington/anytime/performing-arts",
+   "title": "Performing arts in Washington | MATO",
+   "dates": 0,
+   "jsonld": 0,
+   "jsonld_samples": [],
+   "hints": [],
+   "iframes": [],
+   "event_links": [
+    {
+     "text": "",
+     "url": "https://ma.to/event/a-christmas-carol-21-nov-2026"
+    },
+    {
+     "text": "",
+     "url": "https://ma.to/event/my-english-persian-kitchen-21-nov-2026"
+    },
+    {
+     "text": "",
+     "url": "https://ma.to/event/dragkawa-chiikawa-drag-show-21-nov-2026"
+    },
+    {
+     "text": "",
+     "url": "https://ma.to/event/directors-cut-with-dd-alexander-21-nov-2026"
+    },
+    {
+     "text": "",
+     "url": "https://ma.to/event/sloppy-saturday-drag-show-21-nov-2026"
+    },
+    {
+     "text": "",
+     "url": "https://ma.to/event/pitch-me-this-thanksgiving-21-nov-2026"
+    },
+    {
+     "text": "",
+     "url": "https://ma.to/event/clash-saturday-drag-show-21-nov-2026"
+    },
+    {
+     "text": "",
+     "url": "https://ma.to/event/sir-sunday-throwback-brunch-12pm-22-nov-2026"
+    },
+    {
+     "text": "",
+     "url": "https://ma.to/event/hanukkah-spectacular-childcare-matinee-22-nov-2026"
+    },
+    {
+     "text": "",
+     "url": "https://ma.to/event/sir-sunday-throwback-show-3-pm-22-nov-2026"
+    },
+    {
+     "text": "",
+     "url": "https://ma.to/event/the-nutcracker-at-capital-one-hall-22-nov-2026"
+    },
+    {
+     "text": "",
+     "url": "https://ma.to/event/the-hio-hop-nutcracker-22-nov-2026"
+    },
+    {
+     "text": "",
+     "url": "https://ma.to/event/danzas-solemnes-22-nov-2026"
+    },
+    {
+     "text": "",
+     "url": "https://ma.to/event/an-evening-of-gratitude-drag-show-22-nov-2026"
+    },
+    {
+     "text": "",
+     "url": "https://ma.to/event/gay-ass-trivia-season-2-23-nov-2026"
+    },
+    {
+     "text": "",
+     "url": "https://ma.to/event/hip-hop-nutcracker-24-nov-2026"
+    },
+    {
+     "text": "",
+     "url": "https://ma.to/event/hells-kitchen-24-nov-2026"
+    },
+    {
+     "text": "",
+     "url": "https://ma.to/event/po-up-live-game-show-24-nov-2026"
+    },
+    {
+     "text": "Get your events on MATO",
+     "url": "https://ma.to/spotlight"
+    },
+    {
+     "text": "All events in Washington",
+     "url": "https://ma.to/events/washington"
+    },
+    {
+     "text": "This weekend in Washington",
+     "url": "https://ma.to/events/washington/this-weekend"
+    },
+    {
+     "text": "Live music in Washington",
+     "url": "https://ma.to/events/washington/anytime/live-music"
+    },
+    {
+     "text": "Parties in Washington",
+     "url": "https://ma.to/events/washington/anytime/party"
+    },
+    {
+     "text": "Food and drink in Washington",
+     "url": "https://ma.to/events/washington/anytime/food-and-drinks"
+    },
+    {
+     "text": "Markets in Washington",
+     "url": "https://ma.to/events/washington/anytime/markets"
+    }
+   ],
+   "platform": "",
+   "error": ""
+  },
+  {
+   "url": "https://ma.to/events/washington/this-weekend",
+   "status": 200,
+   "final_url": "https://ma.to/events/washington/this-weekend",
+   "title": "Events this weekend in Washington | MATO",
+   "dates": 0,
+   "jsonld": 0,
+   "jsonld_samples": [],
+   "hints": [],
+   "iframes": [],
+   "event_links": [
+    {
+     "text": "",
+     "url": "https://ma.to/event/thanksgiving-to-go-kit-pickup-21-nov-2026"
+    },
+    {
+     "text": "",
+     "url": "https://ma.to/event/college-football-all-day-21-nov-2026"
+    },
+    {
+     "text": "",
+     "url": "https://ma.to/event/udc-homecoming-nest-flix-tailgate-21-nov-2026"
+    },
+    {
+     "text": "",
+     "url": "https://ma.to/event/dmv-asian-night-market-21-nov-2026"
+    },
+    {
+     "text": "",
+     "url": "https://ma.to/event/spirit-championship-watch-party-21-nov-2026"
+    },
+    {
+     "text": "",
+     "url": "https://ma.to/event/hip-hop-vs-afrobeats-day-party-21-nov-2026"
+    },
+    {
+     "text": "",
+     "url": "https://ma.to/event/carnaval-de-san-miguel-cocktails-21-nov-2026"
+    },
+    {
+     "text": "",
+     "url": "https://ma.to/event/super-smash-saturday-21-nov-2026"
+    },
+    {
+     "text": "",
+     "url": "https://ma.to/event/dc-art-gala-transformer-21-nov-2026"
+    },
+    {
+     "text": "",
+     "url": "https://ma.to/event/a-taste-of-realm-a-la-carte-21-nov-2026"
+    },
+    {
+     "text": "",
+     "url": "https://ma.to/event/dine-dance-dinner-offer-21-nov-2026"
+    },
+    {
+     "text": "",
+     "url": "https://ma.to/event/bashment-friendsgiving-at-mixed-dc-21-nov-2026"
+    },
+    {
+     "text": "",
+     "url": "https://ma.to/event/green-knuckle-material-21-nov-2026"
+    },
+    {
+     "text": "",
+     "url": "https://ma.to/event/the-legends-ball-2026-11-21"
+    },
+    {
+     "text": "",
+     "url": "https://ma.to/event/pancakes-booze-art-show-21-nov-2026"
+    },
+    {
+     "text": "",
+     "url": "https://ma.to/event/the-hunger-games-dress-up-screening-21-nov-2026"
+    },
+    {
+     "text": "",
+     "url": "https://ma.to/event/loon-and-crow-live-at-pipers-2026-11-21"
+    },
+    {
+     "text": "",
+     "url": "https://ma.to/event/washington-spirit-watch-party-21-nov-2026-1"
+    },
+    {
+     "text": "Get your events on MATO",
+     "url": "https://ma.to/spotlight"
+    },
+    {
+     "text": "All events in Washington",
+     "url": "https://ma.to/events/washington"
+    },
+    {
+     "text": "Live music in Washington",
+     "url": "https://ma.to/events/washington/anytime/live-music"
+    },
+    {
+     "text": "Parties in Washington",
+     "url": "https://ma.to/events/washington/anytime/party"
+    },
+    {
+     "text": "Performing arts in Washington",
+     "url": "https://ma.to/events/washington/anytime/performing-arts"
+    },
+    {
+     "text": "Food and drink in Washington",
+     "url": "https://ma.to/events/washington/anytime/food-and-drinks"
+    },
+    {
+     "text": "Markets in Washington",
+     "url": "https://ma.to/events/washington/anytime/markets"
+    }
+   ],
+   "platform": "",
+   "error": ""
+  }
+ ],
+ "best_page": "https://ma.to/venue/saxdc"
+}

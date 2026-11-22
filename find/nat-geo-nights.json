@@ -1,0 +1,625 @@
+{
+ "row": "20",
+ "name": "Nat Geo Nights",
+ "seed_url": "https://washington.org/event/nat-geo-nights-museum-exploration",
+ "programs": "Late-night programming",
+ "access": "",
+ "found": "2026-11-22 02:30Z",
+ "search_hits": [],
+ "search_error": "html.duckduckgo.com 0 hits (202, 15158b); www.bing.com 0 hits (200, 131607b); lite.duckduckgo.com 0 hits (202, 15146b)",
+ "probes": [
+  {
+   "url": "https://washington.org/wp-json/tribe/events/v1/events?per_page=10",
+   "status": "HTTPError",
+   "events": 0
+  },
+  {
+   "url": "https://washington.org/events/?ical=1",
+   "status": 200,
+   "events": 0,
+   "head": "<!DOCTYPE html>\n<html lang=\"en\" dir=\"ltr\" prefix=\"og: https://ogp.me/ns#\" class=\"is-ultimenu is-ultimobile\">\n  <head>\n    <!-- CT: start (v2.1)  -->\n                  <link\n            id=\"ct-css\" rel=\"stylesheet\" type=\"text/css\" href=\"https://controltower-tracker.washington.org/js-app/css/ct-no-fli"
+  },
+  {
+   "url": "https://washington.org/?ical=1",
+   "status": 200,
+   "events": 0,
+   "head": "<!DOCTYPE html>\n<html lang=\"en\" dir=\"ltr\" prefix=\"og: https://ogp.me/ns#\" class=\"is-ultimenu is-ultimobile\">\n  <head>\n    <!-- CT: start (v2.1)  -->\n                  <link\n            id=\"ct-css\" rel=\"stylesheet\" type=\"text/css\" href=\"https://controltower-tracker.washington.org/js-app/css/ct-no-fli"
+  }
+ ],
+ "pages": [
+  {
+   "url": "https://washington.org/event/nat-geo-nights-museum-exploration",
+   "status": 200,
+   "final_url": "https://washington.org/find-dc-listings/all-things-to-do",
+   "title": "Explore All Things to Do in Washington, DC | Washington DC",
+   "dates": 2,
+   "jsonld": 0,
+   "jsonld_samples": [],
+   "hints": [
+    "https://zh-cn.washington.org/find-dc-listings/all-things-to-do",
+    "https://zh-tw.washington.org/find-dc-listings/all-things-to-do",
+    "https://fr.washington.org/find-dc-listings/all-things-to-do",
+    "https://de.washington.org/find-dc-listings/all-things-to-do",
+    "https://it.washington.org/find-dc-listings/all-things-to-do",
+    "https://pt.washington.org/find-dc-listings/all-things-to-do",
+    "https://es.washington.org/find-dc-listings/all-things-to-do"
+   ],
+   "iframes": [],
+   "event_links": [
+    {
+     "text": "Spas & Salons",
+     "url": "https://washington.org/find-dc-listings/spas-salons"
+    },
+    {
+     "text": "All Events",
+     "url": "https://washington.org/find-dc-listings/dc-events"
+    },
+    {
+     "text": "Family Events",
+     "url": "https://washington.org/visit-dc/family-friendly-events-washington-dc"
+    },
+    {
+     "text": "Intimate Meetings",
+     "url": "https://washington.org/meetings/intimate-event-meeting-spaces"
+    },
+    {
+     "text": "Event Planning Guide",
+     "url": "https://digital.milespartnership.com/view/washington-dc/washington-dc-event-planner-guide"
+    },
+    {
+     "text": "Meetings & Event Venues",
+     "url": "https://washington.org/meetings/venues"
+    },
+    {
+     "text": "Event Planning Guide",
+     "url": "http://digital.milespartnership.com/view/washington-dc/washington-dc-event-planner-guide"
+    },
+    {
+     "text": "Washington, DC Area University Programs",
+     "url": "https://washington.org/travel-trade/international-travel/washington-dc-area-university-programs"
+    },
+    {
+     "text": "Co-Op Opportunities",
+     "url": "https://www.cvent.com/c/calendar/0e0cada2-3ee9-4658-825f-d8f6ab34b895"
+    },
+    {
+     "text": "Events",
+     "url": "https://washington.org/members/member-events"
+    },
+    {
+     "text": "July 4 VIP Celebration",
+     "url": "https://washington.org/american-experience-foundation/events/july4th"
+    },
+    {
+     "text": "Events",
+     "url": "https://washington.org/sports/events"
+    },
+    {
+     "text": "Venue Information",
+     "url": "https://washington.org/sports/sporting-event-venues"
+    }
+   ],
+   "platform": "drupal cvent",
+   "error": ""
+  },
+  {
+   "url": "https://washington.org/",
+   "status": 200,
+   "final_url": "https://washington.org/",
+   "title": "Official Tourism Site of Washington DC | Washington DC",
+   "dates": 1,
+   "jsonld": 0,
+   "jsonld_samples": [],
+   "hints": [
+    "https://washington.org/zh/homepage",
+    "https://zh-tw.washington.org/",
+    "https://fr.washington.org/",
+    "https://de.washington.org/",
+    "https://it.washington.org/",
+    "https://pt.washington.org/",
+    "https://es.washington.org/",
+    "https://washington.org/ar/homepage",
+    "https://washington.org/ja/homepage",
+    "https://washington.org/ko/homepage"
+   ],
+   "iframes": [],
+   "event_links": [
+    {
+     "text": "Spas & Salons",
+     "url": "https://washington.org/find-dc-listings/spas-salons"
+    },
+    {
+     "text": "All Events",
+     "url": "https://washington.org/find-dc-listings/dc-events"
+    },
+    {
+     "text": "Family Events",
+     "url": "https://washington.org/visit-dc/family-friendly-events-washington-dc"
+    },
+    {
+     "text": "Intimate Meetings",
+     "url": "https://washington.org/meetings/intimate-event-meeting-spaces"
+    },
+    {
+     "text": "Event Planning Guide",
+     "url": "https://digital.milespartnership.com/view/washington-dc/washington-dc-event-planner-guide"
+    },
+    {
+     "text": "Meetings & Event Venues",
+     "url": "https://washington.org/meetings/venues"
+    },
+    {
+     "text": "Event Planning Guide",
+     "url": "http://digital.milespartnership.com/view/washington-dc/washington-dc-event-planner-guide"
+    },
+    {
+     "text": "Washington, DC Area University Programs",
+     "url": "https://washington.org/travel-trade/international-travel/washington-dc-area-university-programs"
+    },
+    {
+     "text": "Co-Op Opportunities",
+     "url": "https://www.cvent.com/c/calendar/0e0cada2-3ee9-4658-825f-d8f6ab34b895"
+    },
+    {
+     "text": "Events",
+     "url": "https://washington.org/members/member-events"
+    },
+    {
+     "text": "July 4 VIP Celebration",
+     "url": "https://washington.org/american-experience-foundation/events/july4th"
+    },
+    {
+     "text": "Events",
+     "url": "https://washington.org/sports/events"
+    },
+    {
+     "text": "Venue Information",
+     "url": "https://washington.org/sports/sporting-event-venues"
+    },
+    {
+     "text": "READ MORE",
+     "url": "https://washington.org/dc250/america-250-events-washington-dc"
+    },
+    {
+     "text": "VIEW DETAILS",
+     "url": "https://washington.org/event/enchant-christmas-returns-dc"
+    },
+    {
+     "text": "VIEW DETAILS",
+     "url": "https://washington.org/event/row-union-market-district"
+    },
+    {
+     "text": "VIEW DETAILS",
+     "url": "https://washington.org/event/dc-signature-brew-tour"
+    },
+    {
+     "text": "VIEW DETAILS",
+     "url": "https://washington.org/event/fall-afternoon-tea"
+    },
+    {
+     "text": "VIEW DETAILS",
+     "url": "https://washington.org/event/2026-nwsl-championship-presented-google-pixel"
+    },
+    {
+     "text": "VIEW DETAILS",
+     "url": "https://washington.org/event/community-art-walks-jason-bowers"
+    },
+    {
+     "text": "VIEW DETAILS",
+     "url": "https://washington.org/event/all-worlds-stage"
+    },
+    {
+     "text": "VIEW DETAILS",
+     "url": "https://washington.org/event/hip-hop-nutcracker"
+    },
+    {
+     "text": "VIEW DETAILS",
+     "url": "https://washington.org/event/are-you-now-or-have-you-ever-been"
+    },
+    {
+     "text": "VIEW DETAILS",
+     "url": "https://washington.org/event/patriots-path-revolutionary-war-encampment"
+    },
+    {
+     "text": "VIEW DETAILS",
+     "url": "https://washington.org/event/winter-wonderland"
+    }
+   ],
+   "platform": "drupal eventbrite cvent",
+   "error": ""
+  },
+  {
+   "url": "https://washington.org/find-dc-listings/spas-salons",
+   "status": 200,
+   "final_url": "https://washington.org/find-dc-listings/spas-salons",
+   "title": "Washington DC Spas & Salons | Washington DC",
+   "dates": 1,
+   "jsonld": 0,
+   "jsonld_samples": [],
+   "hints": [
+    "https://zh-cn.washington.org/find-dc-listings/spas-salons",
+    "https://zh-tw.washington.org/find-dc-listings/spas-salons",
+    "https://fr.washington.org/find-dc-listings/spas-salons",
+    "https://de.washington.org/find-dc-listings/spas-salons",
+    "https://it.washington.org/find-dc-listings/spas-salons",
+    "https://pt.washington.org/find-dc-listings/spas-salons",
+    "https://es.washington.org/find-dc-listings/spas-salons"
+   ],
+   "iframes": [],
+   "event_links": [
+    {
+     "text": "All Events",
+     "url": "https://washington.org/find-dc-listings/dc-events"
+    },
+    {
+     "text": "Family Events",
+     "url": "https://washington.org/visit-dc/family-friendly-events-washington-dc"
+    },
+    {
+     "text": "Intimate Meetings",
+     "url": "https://washington.org/meetings/intimate-event-meeting-spaces"
+    },
+    {
+     "text": "Event Planning Guide",
+     "url": "https://digital.milespartnership.com/view/washington-dc/washington-dc-event-planner-guide"
+    },
+    {
+     "text": "Meetings & Event Venues",
+     "url": "https://washington.org/meetings/venues"
+    },
+    {
+     "text": "Event Planning Guide",
+     "url": "http://digital.milespartnership.com/view/washington-dc/washington-dc-event-planner-guide"
+    },
+    {
+     "text": "Washington, DC Area University Programs",
+     "url": "https://washington.org/travel-trade/international-travel/washington-dc-area-university-programs"
+    },
+    {
+     "text": "Co-Op Opportunities",
+     "url": "https://www.cvent.com/c/calendar/0e0cada2-3ee9-4658-825f-d8f6ab34b895"
+    },
+    {
+     "text": "Events",
+     "url": "https://washington.org/members/member-events"
+    },
+    {
+     "text": "July 4 VIP Celebration",
+     "url": "https://washington.org/american-experience-foundation/events/july4th"
+    },
+    {
+     "text": "Events",
+     "url": "https://washington.org/sports/events"
+    },
+    {
+     "text": "Venue Information",
+     "url": "https://washington.org/sports/sporting-event-venues"
+    },
+    {
+     "text": "Page \n             2",
+     "url": "https://washington.org/find-dc-listings/spas-salons?page=1"
+    }
+   ],
+   "platform": "drupal cvent",
+   "error": ""
+  },
+  {
+   "url": "https://washington.org/find-dc-listings/dc-events",
+   "status": 200,
+   "final_url": "https://washington.org/find-dc-listings/dc-events",
+   "title": "Washington, DC Events | Washington DC | DC Events Calendar",
+   "dates": 3,
+   "jsonld": 0,
+   "jsonld_samples": [],
+   "hints": [
+    "https://zh-cn.washington.org/find-dc-listings/dc-events",
+    "https://zh-tw.washington.org/find-dc-listings/dc-events",
+    "https://fr.washington.org/find-dc-listings/dc-events",
+    "https://de.washington.org/find-dc-listings/dc-events",
+    "https://it.washington.org/find-dc-listings/dc-events",
+    "https://pt.washington.org/find-dc-listings/dc-events",
+    "https://es.washington.org/find-dc-listings/dc-events"
+   ],
+   "iframes": [],
+   "event_links": [
+    {
+     "text": "Spas & Salons",
+     "url": "https://washington.org/find-dc-listings/spas-salons"
+    },
+    {
+     "text": "Family Events",
+     "url": "https://washington.org/visit-dc/family-friendly-events-washington-dc"
+    },
+    {
+     "text": "Intimate Meetings",
+     "url": "https://washington.org/meetings/intimate-event-meeting-spaces"
+    },
+    {
+     "text": "Event Planning Guide",
+     "url": "https://digital.milespartnership.com/view/washington-dc/washington-dc-event-planner-guide"
+    },
+    {
+     "text": "Meetings & Event Venues",
+     "url": "https://washington.org/meetings/venues"
+    },
+    {
+     "text": "Event Planning Guide",
+     "url": "http://digital.milespartnership.com/view/washington-dc/washington-dc-event-planner-guide"
+    },
+    {
+     "text": "Washington, DC Area University Programs",
+     "url": "https://washington.org/travel-trade/international-travel/washington-dc-area-university-programs"
+    },
+    {
+     "text": "Co-Op Opportunities",
+     "url": "https://www.cvent.com/c/calendar/0e0cada2-3ee9-4658-825f-d8f6ab34b895"
+    },
+    {
+     "text": "Events",
+     "url": "https://washington.org/members/member-events"
+    },
+    {
+     "text": "July 4 VIP Celebration",
+     "url": "https://washington.org/american-experience-foundation/events/july4th"
+    },
+    {
+     "text": "Events",
+     "url": "https://washington.org/sports/events"
+    },
+    {
+     "text": "Venue Information",
+     "url": "https://washington.org/sports/sporting-event-venues"
+    },
+    {
+     "text": "All Events & Festivals",
+     "url": "https://washington.org/find-dc-listings/events"
+    },
+    {
+     "text": "VIEW DETAILS",
+     "url": "https://washington.org/event/hot-girl-fall-drag-brunch-0"
+    },
+    {
+     "text": "VIEW DETAILS",
+     "url": "https://washington.org/event/zoo-lights-2026"
+    },
+    {
+     "text": "VIEW DETAILS",
+     "url": "https://washington.org/event/are-you-now-or-have-you-ever-been"
+    },
+    {
+     "text": "VIEW DETAILS",
+     "url": "https://washington.org/event/wendy-red-star-whispering-spirit"
+    },
+    {
+     "text": "VIEW DETAILS",
+     "url": "https://washington.org/event/puro-ritmo-musical-journey-salsa"
+    },
+    {
+     "text": "VIEW DETAILS",
+     "url": "https://washington.org/event/hear-her-speak-black-women-and-shakespeare"
+    },
+    {
+     "text": "VIEW DETAILS",
+     "url": "https://washington.org/event/wild-race-against-time-art-exhibit"
+    },
+    {
+     "text": "VIEW DETAILS",
+     "url": "https://washington.org/event/winter-wonderland"
+    },
+    {
+     "text": "VIEW DETAILS",
+     "url": "https://washington.org/event/avery-gottlieb-rothko-sea"
+    },
+    {
+     "text": "VIEW DETAILS",
+     "url": "https://washington.org/event/magician-charlie-ross-barbouzard-le-brunch"
+    },
+    {
+     "text": "VIEW DETAILS",
+     "url": "https://washington.org/event/monday-night-trivia"
+    },
+    {
+     "text": "VIEW DETAILS",
+     "url": "https://washington.org/event/turkegging-night-thanksgiving"
+    }
+   ],
+   "platform": "drupal cvent",
+   "error": ""
+  },
+  {
+   "url": "https://washington.org/visit-dc/family-friendly-events-washington-dc",
+   "status": 200,
+   "final_url": "https://washington.org/visit-dc/family-friendly-events-washington-dc",
+   "title": "Family-Friendly Events in DC | Things to Do Now & This Weekend",
+   "dates": 9,
+   "jsonld": 0,
+   "jsonld_samples": [],
+   "hints": [
+    "https://zh-cn.washington.org/visit-dc/family-friendly-events-washington-dc",
+    "https://zh-tw.washington.org/visit-dc/family-friendly-events-washington-dc",
+    "https://fr.washington.org/visit-dc/family-friendly-events-washington-dc",
+    "https://de.washington.org/visit-dc/family-friendly-events-washington-dc",
+    "https://it.washington.org/visit-dc/family-friendly-events-washington-dc",
+    "https://pt.washington.org/visit-dc/family-friendly-events-washington-dc",
+    "https://es.washington.org/visit-dc/family-friendly-events-washington-dc"
+   ],
+   "iframes": [],
+   "event_links": [
+    {
+     "text": "Spas & Salons",
+     "url": "https://washington.org/find-dc-listings/spas-salons"
+    },
+    {
+     "text": "All Events",
+     "url": "https://washington.org/find-dc-listings/dc-events"
+    },
+    {
+     "text": "Intimate Meetings",
+     "url": "https://washington.org/meetings/intimate-event-meeting-spaces"
+    },
+    {
+     "text": "Event Planning Guide",
+     "url": "https://digital.milespartnership.com/view/washington-dc/washington-dc-event-planner-guide"
+    },
+    {
+     "text": "Meetings & Event Venues",
+     "url": "https://washington.org/meetings/venues"
+    },
+    {
+     "text": "Event Planning Guide",
+     "url": "http://digital.milespartnership.com/view/washington-dc/washington-dc-event-planner-guide"
+    },
+    {
+     "text": "Washington, DC Area University Programs",
+     "url": "https://washington.org/travel-trade/international-travel/washington-dc-area-university-programs"
+    },
+    {
+     "text": "Co-Op Opportunities",
+     "url": "https://www.cvent.com/c/calendar/0e0cada2-3ee9-4658-825f-d8f6ab34b895"
+    },
+    {
+     "text": "Events",
+     "url": "https://washington.org/members/member-events"
+    },
+    {
+     "text": "July 4 VIP Celebration",
+     "url": "https://washington.org/american-experience-foundation/events/july4th"
+    },
+    {
+     "text": "Events",
+     "url": "https://washington.org/sports/events"
+    },
+    {
+     "text": "Venue Information",
+     "url": "https://washington.org/sports/sporting-event-venues"
+    },
+    {
+     "text": "VIEW DETAILS",
+     "url": "https://washington.org/event/enchant-christmas-returns-dc"
+    },
+    {
+     "text": "VIEW DETAILS",
+     "url": "https://washington.org/event/america-beautiful-screening-national-museum-marine-corps"
+    },
+    {
+     "text": "VIEW DETAILS",
+     "url": "https://washington.org/event/logos-theatre-presents-silent-star"
+    },
+    {
+     "text": "VIEW DETAILS",
+     "url": "https://washington.org/event/holiday-party-enchant"
+    },
+    {
+     "text": "VIEW DETAILS",
+     "url": "https://washington.org/event/lodge-cut-above"
+    },
+    {
+     "text": "VIEW DETAILS",
+     "url": "https://washington.org/event/zoo-lights-2026"
+    },
+    {
+     "text": "VIEW DETAILS",
+     "url": "https://washington.org/event/embassy-row-spy-tour"
+    },
+    {
+     "text": "VIEW DETAILS",
+     "url": "https://washington.org/event/anticipated-re-opening-galleries-national-air-and-space-museum"
+    },
+    {
+     "text": "Page \n             2",
+     "url": "https://washington.org/visit-dc/family-friendly-events-washington-dc?page=1"
+    },
+    {
+     "text": "Page \n             3",
+     "url": "https://washington.org/visit-dc/family-friendly-events-washington-dc?page=2"
+    },
+    {
+     "text": "Page \n             4",
+     "url": "https://washington.org/visit-dc/family-friendly-events-washington-dc?page=3"
+    },
+    {
+     "text": "Page \n             5",
+     "url": "https://washington.org/visit-dc/family-friendly-events-washington-dc?page=4"
+    },
+    {
+     "text": "Page \n             6",
+     "url": "https://washington.org/visit-dc/family-friendly-events-washington-dc?page=5"
+    }
+   ],
+   "platform": "drupal cvent",
+   "error": ""
+  },
+  {
+   "url": "https://washington.org/meetings/intimate-event-meeting-spaces",
+   "status": 200,
+   "final_url": "https://washington.org/meetings/intimate-event-meeting-spaces",
+   "title": "Host Your Small Meeting in these Unique DC Hotels | Washington DC",
+   "dates": 1,
+   "jsonld": 0,
+   "jsonld_samples": [],
+   "hints": [
+    "https://zh-cn.washington.org/meetings/intimate-event-meeting-spaces",
+    "https://zh-tw.washington.org/meetings/intimate-event-meeting-spaces",
+    "https://fr.washington.org/meetings/intimate-event-meeting-spaces",
+    "https://de.washington.org/meetings/intimate-event-meeting-spaces",
+    "https://it.washington.org/meetings/intimate-event-meeting-spaces",
+    "https://pt.washington.org/meetings/intimate-event-meeting-spaces",
+    "https://es.washington.org/meetings/intimate-event-meeting-spaces"
+   ],
+   "iframes": [],
+   "event_links": [
+    {
+     "text": "Spas & Salons",
+     "url": "https://washington.org/find-dc-listings/spas-salons"
+    },
+    {
+     "text": "All Events",
+     "url": "https://washington.org/find-dc-listings/dc-events"
+    },
+    {
+     "text": "Family Events",
+     "url": "https://washington.org/visit-dc/family-friendly-events-washington-dc"
+    },
+    {
+     "text": "Event Planning Guide",
+     "url": "https://digital.milespartnership.com/view/washington-dc/washington-dc-event-planner-guide"
+    },
+    {
+     "text": "Meetings & Event Venues",
+     "url": "https://washington.org/meetings/venues"
+    },
+    {
+     "text": "Event Planning Guide",
+     "url": "http://digital.milespartnership.com/view/washington-dc/washington-dc-event-planner-guide"
+    },
+    {
+     "text": "Washington, DC Area University Programs",
+     "url": "https://washington.org/travel-trade/international-travel/washington-dc-area-university-programs"
+    },
+    {
+     "text": "Co-Op Opportunities",
+     "url": "https://www.cvent.com/c/calendar/0e0cada2-3ee9-4658-825f-d8f6ab34b895"
+    },
+    {
+     "text": "Events",
+     "url": "https://washington.org/members/member-events"
+    },
+    {
+     "text": "July 4 VIP Celebration",
+     "url": "https://washington.org/american-experience-foundation/events/july4th"
+    },
+    {
+     "text": "Events",
+     "url": "https://washington.org/sports/events"
+    },
+    {
+     "text": "Venue Information",
+     "url": "https://washington.org/sports/sporting-event-venues"
+    }
+   ],
+   "platform": "drupal cvent",
+   "error": ""
+  }
+ ],
+ "best_page": "https://washington.org/visit-dc/family-friendly-events-washington-dc"
+}

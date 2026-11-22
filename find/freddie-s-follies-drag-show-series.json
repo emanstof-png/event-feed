@@ -1,0 +1,570 @@
+{
+ "row": "16",
+ "name": "Freddie's Follies (drag show series)",
+ "seed_url": "https://outxout.com/event/freddie-s-follies-drag-show-20261121",
+ "programs": "Late-night programming",
+ "access": "",
+ "found": "2026-11-22 02:30Z",
+ "search_hits": [],
+ "search_error": "html.duckduckgo.com 0 hits (202, 15153b); www.bing.com 0 hits (200, 122620b); lite.duckduckgo.com 0 hits (202, 15166b)",
+ "probes": [
+  {
+   "url": "https://outxout.com/wp-json/tribe/events/v1/events?per_page=10",
+   "status": "HTTPError",
+   "events": 0
+  },
+  {
+   "url": "https://outxout.com/events/?ical=1",
+   "status": 200,
+   "events": 0,
+   "head": "<!DOCTYPE html><html lang=\"en\" class=\"__variable_c8e612\"><head><meta charSet=\"utf-8\"/><meta name=\"viewport\" content=\"width=device-width, initial-scale=1\"/><link rel=\"preload\" href=\"/_next/static/media/62c97acc3aa63787-s.p.woff2\" as=\"font\" crossorigin=\"\" type=\"font/woff2\"/><link rel=\"preload\" href=\"/"
+  },
+  {
+   "url": "https://outxout.com/?ical=1",
+   "status": 200,
+   "events": 0,
+   "head": "<!DOCTYPE html><html lang=\"en\" class=\"__variable_c8e612\"><head><meta charSet=\"utf-8\"/><meta name=\"viewport\" content=\"width=device-width, initial-scale=1\"/><link rel=\"preload\" href=\"/_next/static/media/62c97acc3aa63787-s.p.woff2\" as=\"font\" crossorigin=\"\" type=\"font/woff2\"/><link rel=\"preload\" href=\"/"
+  }
+ ],
+ "pages": [
+  {
+   "url": "https://outxout.com/event/freddie-s-follies-drag-show-20261121",
+   "status": 200,
+   "final_url": "https://outxout.com/event/freddie-s-follies-drag-show-20261121",
+   "title": "Freddie's Follies Drag Show in Washington D.C., Washington D.C. \u2014 Gay Event | Out x Out",
+   "dates": 14,
+   "jsonld": 1,
+   "jsonld_samples": [
+    {
+     "name": "Freddie's Follies Drag Show",
+     "start": "2026-11-22T02:00:00+00:00",
+     "url": "https://outxout.com/event/freddie-s-follies-drag-show-20261121"
+    }
+   ],
+   "hints": [
+    "https://outxout.com/blog/feed.xml"
+   ],
+   "iframes": [],
+   "event_links": [
+    {
+     "text": "Events",
+     "url": "https://outxout.com/events"
+    },
+    {
+     "text": "Washington D.C.",
+     "url": "https://outxout.com/events/washington-dc-dc"
+    },
+    {
+     "text": "Save to Calendar",
+     "url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Freddie's%20Follies%20Drag%20Show&dates=20261122T020000Z/20261122T030000Z&location=555%2023rd%20St%20S%2C%20Arlington%2C%20VA%2022202%2C%20United%20States%2C%20Washington%20D.C.%2C%20Washington%20D.C.&details=Freddie's%20signature%20Saturday-night%20drag%20revue%20in%20Arlington%2C%20a%20campy%20hour%20of%20numbers%20from%20the%20house%20queens%20that%20packs%20the%20room%20every%20week.%0A%0Ahttps%3A%2F%2Foutxout.com%2Fevent%2Ffreddie-s-follies-drag-show-20261121"
+    },
+    {
+     "text": "Karaoke Sun, Nov 22 8 PM - 1:30 AM Freddie's Beach Bar & Res",
+     "url": "https://outxout.com/event/karaoke-20261122"
+    },
+    {
+     "text": "Karaoke Mon, Nov 23 8 PM - 1:30 AM Freddie's Beach Bar & Res",
+     "url": "https://outxout.com/event/karaoke-freddiesbeachbarandresta-20261123"
+    },
+    {
+     "text": "Trivia Night Tue, Nov 24 7:30 PM - 9:30 PM Freddie's Beach B",
+     "url": "https://outxout.com/event/trivia-night-20261124"
+    },
+    {
+     "text": "Karaoke Tue, Nov 24 9 PM - 1:30 AM Freddie's Beach Bar & Res",
+     "url": "https://outxout.com/event/karaoke-freddiesbeachbarandresta-20261124"
+    },
+    {
+     "text": "Drag Bingo Night Wed, Nov 25 8 PM - 10 PM Freddie's Beach Ba",
+     "url": "https://outxout.com/event/drag-bingo-night-20261125"
+    },
+    {
+     "text": "Karaoke Wed, Nov 25 10 PM - 1:30 AM Freddie's Beach Bar & Re",
+     "url": "https://outxout.com/event/karaoke-freddiesbeachbarandresta-20261125"
+    },
+    {
+     "text": "City Guides LGBTQ+ Guide to Washington D.C.: Gay Bars, Event",
+     "url": "https://outxout.com/blog/lgbtq-guide-washington-dc"
+    },
+    {
+     "text": "Events & Festivals 17th Street High Heel Race 2026: DC's Dra",
+     "url": "https://outxout.com/blog/17th-street-high-heel-race-2026"
+    }
+   ],
+   "platform": "",
+   "error": ""
+  },
+  {
+   "url": "https://outxout.com/",
+   "status": 200,
+   "final_url": "https://outxout.com/",
+   "title": "Out x Out \u2014 Gay Bars, Events & City Guides",
+   "dates": 3,
+   "jsonld": 0,
+   "jsonld_samples": [],
+   "hints": [
+    "https://outxout.com/blog/feed.xml"
+   ],
+   "iframes": [],
+   "event_links": [
+    {
+     "text": "Events",
+     "url": "https://outxout.com/events"
+    },
+    {
+     "text": "Nov 21 Weekly Drag Brunch 10 AM  \u00b7 The Country Club, New Orl",
+     "url": "https://outxout.com/event/drag-brunch-thecountryclubneworleans-20261121"
+    },
+    {
+     "text": "Nov 21 Weekly Saturday Drag Brunch 11 AM  \u00b7 Dani\u2019s Queer Bar",
+     "url": "https://outxout.com/event/danis-satur-f2fca08c"
+    },
+    {
+     "text": "Nov 21 Weekly The Real Drag Brunch of Miami (Saturday) 11 AM",
+     "url": "https://outxout.com/event/palac-there-96626fb4"
+    },
+    {
+     "text": "Nov 21 Weekly R House Drag Brunch (Saturday) 11:30 AM  \u00b7 R H",
+     "url": "https://outxout.com/event/rhous-rhous-9256852d"
+    },
+    {
+     "text": "Nov 21 Weekly Drag Brunch 10:30 AM  \u00b7 Suzy Wong's Drag\u2019n Bru",
+     "url": "https://outxout.com/event/drag-brunch-suzywongsdragnbrunchnash-20261121"
+    },
+    {
+     "text": "Nov 21 Weekly Saturday Drag Brunch with Madame Heidi 11:30 A",
+     "url": "https://outxout.com/event/saturday-drag-brunch-with-ma-20261121"
+    },
+    {
+     "text": "Nov 21 Weekly Beats & Breath: Yoga-Based Movement Class 11 A",
+     "url": "https://outxout.com/event/beats---breath--yoga-based-m-20261121"
+    },
+    {
+     "text": "Nov 21 Weekly Bitchiest Brunch 9 AM  \u00b7 Oscar's Downtown Palm",
+     "url": "https://outxout.com/event/bitchiest-brunch-20261121"
+    },
+    {
+     "text": "Nov 21 Mamma Mia Disco Bottomless Drag Brunch 11 AM  \u00b7 Kit K",
+     "url": "https://outxout.com/event/mamma-mia-disco-bottomless-d-20261121"
+    },
+    {
+     "text": "Nov 21 Weekly Saturday Drag Lunch 12 PM  \u00b7 Savoy Orlando, Or",
+     "url": "https://outxout.com/event/savoy-satur-0a3f517f"
+    },
+    {
+     "text": "New York City, New York 441  upcoming events",
+     "url": "https://outxout.com/cities/new-york-city-ny"
+    },
+    {
+     "text": "Los Angeles, California 395  upcoming events",
+     "url": "https://outxout.com/cities/los-angeles-ca"
+    },
+    {
+     "text": "San Francisco, California 324  upcoming events",
+     "url": "https://outxout.com/cities/san-francisco-ca"
+    },
+    {
+     "text": "Phoenix, Arizona 315  upcoming events",
+     "url": "https://outxout.com/cities/phoenix-az"
+    },
+    {
+     "text": "Orlando, Florida 306  upcoming events",
+     "url": "https://outxout.com/cities/orlando-fl"
+    },
+    {
+     "text": "Portland, Oregon 293  upcoming events",
+     "url": "https://outxout.com/cities/portland-or"
+    },
+    {
+     "text": "Miami, Florida 223  upcoming events",
+     "url": "https://outxout.com/cities/miami-fl"
+    },
+    {
+     "text": "Chicago, Illinois 222  upcoming events",
+     "url": "https://outxout.com/cities/chicago-il"
+    },
+    {
+     "text": "Dallas, Texas 219  upcoming events",
+     "url": "https://outxout.com/cities/dallas-tx"
+    },
+    {
+     "text": "Columbus, Ohio 218  upcoming events",
+     "url": "https://outxout.com/cities/columbus-oh"
+    },
+    {
+     "text": "Seattle, Washington 197  upcoming events",
+     "url": "https://outxout.com/cities/seattle-wa"
+    },
+    {
+     "text": "Denver, Colorado 187  upcoming events",
+     "url": "https://outxout.com/cities/denver-co"
+    }
+   ],
+   "platform": "",
+   "error": ""
+  },
+  {
+   "url": "https://outxout.com/events",
+   "status": 200,
+   "final_url": "https://outxout.com/events",
+   "title": "Gay Events & Parties by City | Out x Out",
+   "dates": 0,
+   "jsonld": 0,
+   "jsonld_samples": [],
+   "hints": [
+    "https://outxout.com/blog/feed.xml"
+   ],
+   "iframes": [],
+   "event_links": [
+    {
+     "text": "New York City 433  upcoming  events NYC's queer event calend",
+     "url": "https://outxout.com/events/new-york-city-ny"
+    },
+    {
+     "text": "Los Angeles 391  upcoming  events LA's LGBTQ+ event calendar",
+     "url": "https://outxout.com/events/los-angeles-ca"
+    },
+    {
+     "text": "San Francisco 322  upcoming  events San Francisco's LGBTQ+ e",
+     "url": "https://outxout.com/events/san-francisco-ca"
+    },
+    {
+     "text": "Phoenix 313  upcoming  events Phoenix's LGBTQ+ events span p",
+     "url": "https://outxout.com/events/phoenix-az"
+    },
+    {
+     "text": "Portland 291  upcoming  events Portland's LGBTQ+ event scene",
+     "url": "https://outxout.com/events/portland-or"
+    },
+    {
+     "text": "Chicago 219  upcoming  events Chicago's queer event scene ne",
+     "url": "https://outxout.com/events/chicago-il"
+    },
+    {
+     "text": "Dallas 218  upcoming  events Dallas' LGBTQ+ event calendar i",
+     "url": "https://outxout.com/events/dallas-tx"
+    },
+    {
+     "text": "Seattle 195  upcoming  events From Capitol Hill's packed dan",
+     "url": "https://outxout.com/events/seattle-wa"
+    },
+    {
+     "text": "Philadelphia 184  upcoming  events From Outfest and Pride ce",
+     "url": "https://outxout.com/events/philadelphia-pa"
+    },
+    {
+     "text": "Denver 182  upcoming  events Denver's LGBTQ+ event scene kee",
+     "url": "https://outxout.com/events/denver-co"
+    },
+    {
+     "text": "Fort Lauderdale 170  upcoming  events Fort Lauderdale's LGBT",
+     "url": "https://outxout.com/events/fort-lauderdale-fl"
+    },
+    {
+     "text": "Atlanta 169  upcoming  events Atlanta's LGBTQ+ event scene i",
+     "url": "https://outxout.com/events/atlanta-ga"
+    },
+    {
+     "text": "Washington D.C. 164  upcoming  events D.C.'s LGBTQ+ event sc",
+     "url": "https://outxout.com/events/washington-dc-dc"
+    },
+    {
+     "text": "Minneapolis 156  upcoming  events From legendary drag brunch",
+     "url": "https://outxout.com/events/minneapolis-mn"
+    },
+    {
+     "text": "Palm Springs 146  upcoming  events Palm Springs' LGBTQ+ even",
+     "url": "https://outxout.com/events/palm-springs-ca"
+    },
+    {
+     "text": "San Diego 131  upcoming  events San Diego's LGBTQ+ events ra",
+     "url": "https://outxout.com/events/san-diego-ca"
+    },
+    {
+     "text": "Las Vegas 113  upcoming  events Las Vegas' LGBTQ+ events go ",
+     "url": "https://outxout.com/events/las-vegas-nv"
+    },
+    {
+     "text": "Provincetown 20  upcoming  events Provincetown's LGBTQ+ even",
+     "url": "https://outxout.com/events/provincetown-ma"
+    },
+    {
+     "text": "Puerto Vallarta 9  upcoming  events Puerto Vallarta's LGBTQ+",
+     "url": "https://outxout.com/events/puerto-vallarta-mx"
+    },
+    {
+     "text": "Belfast 5  upcoming  events Explore LGBTQ+ events, parties, ",
+     "url": "https://outxout.com/events/belfast-gb"
+    }
+   ],
+   "platform": "",
+   "error": ""
+  },
+  {
+   "url": "https://outxout.com/events/washington-dc-dc",
+   "status": 200,
+   "final_url": "https://outxout.com/events/washington-dc-dc",
+   "title": "Gay Events in Washington D.C Today, Tonight & This Weekend | Out x Out",
+   "dates": 11,
+   "jsonld": 10,
+   "jsonld_samples": [
+    {
+     "name": "Karaoke",
+     "start": "2026-11-23T01:00:00+00:00",
+     "url": "https://outxout.com/event/karaoke-20261122"
+    },
+    {
+     "name": "Shower Karaoke",
+     "start": "2026-11-23T00:00:00+00:00",
+     "url": "https://outxout.com/event/shower-karaoke-20261122"
+    },
+    {
+     "name": "Hot Dog Sunday",
+     "start": "2026-11-22T19:00:00+00:00",
+     "url": "https://outxout.com/event/hot-dog-sunday-20261122"
+    },
+    {
+     "name": "Sunday Funday",
+     "start": "2026-11-22T19:00:00+00:00",
+     "url": "https://outxout.com/event/sunday-funday-thurstloungewashingtondc-20261122"
+    },
+    {
+     "name": "Lil' Coffee Chat",
+     "start": "2026-11-22T18:00:00+00:00",
+     "url": "https://outxout.com/event/lil--coffee-chat-20261122"
+    }
+   ],
+   "hints": [
+    "https://outxout.com/blog/feed.xml"
+   ],
+   "iframes": [],
+   "event_links": [
+    {
+     "text": "Events",
+     "url": "https://outxout.com/events"
+    },
+    {
+     "text": "\u2605 Capital Pride",
+     "url": "https://outxout.com/event/capital-pride"
+    },
+    {
+     "text": "\u2605 DC Black Pride Weekend",
+     "url": "https://outxout.com/event/dc-black-pride"
+    },
+    {
+     "text": "\u2605 17th Street High Heel Race",
+     "url": "https://outxout.com/event/dc-high-heel-race"
+    },
+    {
+     "text": "\u2605 Mid-Atlantic Leather Weekend",
+     "url": "https://outxout.com/event/mid-atlantic-leather"
+    },
+    {
+     "text": "Showtunes",
+     "url": "https://outxout.com/event/showtunes-20261121"
+    },
+    {
+     "text": "Karaoke",
+     "url": "https://outxout.com/event/karaoke-20261121"
+    },
+    {
+     "text": "Bear Cave Underwear Party",
+     "url": "https://outxout.com/event/bear-cave-underwear-party-20261121"
+    },
+    {
+     "text": "Freddie's Follies Drag Show",
+     "url": "https://outxout.com/event/freddie-s-follies-drag-show-20261121"
+    },
+    {
+     "text": "Sunday Drag Brunch",
+     "url": "https://outxout.com/event/sunday-drag-brunch-20261122"
+    },
+    {
+     "text": "Nellie's Drag Brunch (Sunday Funday)",
+     "url": "https://outxout.com/event/nellie-s-drag-brunch--sunday-20261122"
+    },
+    {
+     "text": "Lil' Coffee Chat",
+     "url": "https://outxout.com/event/lil--coffee-chat-20261122"
+    },
+    {
+     "text": "Hot Dog Sunday",
+     "url": "https://outxout.com/event/hot-dog-sunday-20261122"
+    },
+    {
+     "text": "Sunday Funday",
+     "url": "https://outxout.com/event/sunday-funday-thurstloungewashingtondc-20261122"
+    },
+    {
+     "text": "Shower Karaoke",
+     "url": "https://outxout.com/event/shower-karaoke-20261122"
+    },
+    {
+     "text": "Karaoke 8 PM - 1:30 AM Freddie's Beach Bar & Restaurant, Was",
+     "url": "https://outxout.com/event/karaoke-20261122"
+    },
+    {
+     "text": "Karaoke with Kevin 9:30 PM - 11:30 PM Green Lantern, Washing",
+     "url": "https://outxout.com/event/karaoke-with-kevin-20261122"
+    },
+    {
+     "text": "Pub Trivia Hosted by Sporcle 7 PM - 9 PM Red Bear Brewing Co",
+     "url": "https://outxout.com/event/pub-trivia-hosted-by-sporcle-20261123"
+    },
+    {
+     "text": "Trivia Night 7:30 PM - 9:30 PM Shaw's Tavern, Washington D.C",
+     "url": "https://outxout.com/event/trivia-night-20261123"
+    },
+    {
+     "text": "Karaoke 8 PM - 1:30 AM Freddie's Beach Bar & Restaurant, Was",
+     "url": "https://outxout.com/event/karaoke-freddiesbeachbarandresta-20261123"
+    },
+    {
+     "text": "Karaoke with Jarrod 9:30 PM - 11:30 PM Green Lantern, Washin",
+     "url": "https://outxout.com/event/karaoke-with-jarrod-20261123"
+    },
+    {
+     "text": "City Guides LGBTQ+ Guide to Washington D.C.: Gay Bars, Event",
+     "url": "https://outxout.com/blog/lgbtq-guide-washington-dc"
+    },
+    {
+     "text": "Events & Festivals 17th Street High Heel Race 2026: DC's Dra",
+     "url": "https://outxout.com/blog/17th-street-high-heel-race-2026"
+    }
+   ],
+   "platform": "",
+   "error": ""
+  },
+  {
+   "url": "https://outxout.com/event/karaoke-20261122",
+   "status": 200,
+   "final_url": "https://outxout.com/event/karaoke-20261122",
+   "title": "Karaoke in Washington D.C., Washington D.C. \u2014 Gay Event | Out x Out",
+   "dates": 14,
+   "jsonld": 1,
+   "jsonld_samples": [
+    {
+     "name": "Karaoke",
+     "start": "2026-11-23T01:00:00+00:00",
+     "url": "https://outxout.com/event/karaoke-20261122"
+    }
+   ],
+   "hints": [
+    "https://outxout.com/blog/feed.xml"
+   ],
+   "iframes": [],
+   "event_links": [
+    {
+     "text": "Events",
+     "url": "https://outxout.com/events"
+    },
+    {
+     "text": "Washington D.C.",
+     "url": "https://outxout.com/events/washington-dc-dc"
+    },
+    {
+     "text": "Save to Calendar",
+     "url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Karaoke&dates=20261123T010000Z/20261123T063000Z&location=555%2023rd%20St%20S%2C%20Arlington%2C%20VA%2022202%2C%20United%20States%2C%20Washington%20D.C.%2C%20Washington%20D.C.&details=Freddie's%20marathon%20karaoke%20runs%20Monday%2C%20Thursday%2C%20Friday%20and%20Sunday%20from%208pm%20to%20close%2C%20an%20all-are-welcome%20sing-along%20that's%20a%20fixture%20of%20the%20Arlington%20scene.%0A%0Ahttps%3A%2F%2Foutxout.com%2Fevent%2Fkaraoke-20261122"
+    },
+    {
+     "text": "Freddie's Follies Drag Show Sat, Nov 21 9 PM - 10 PM Freddie",
+     "url": "https://outxout.com/event/freddie-s-follies-drag-show-20261121"
+    },
+    {
+     "text": "Karaoke Mon, Nov 23 8 PM - 1:30 AM Freddie's Beach Bar & Res",
+     "url": "https://outxout.com/event/karaoke-freddiesbeachbarandresta-20261123"
+    },
+    {
+     "text": "Trivia Night Tue, Nov 24 7:30 PM - 9:30 PM Freddie's Beach B",
+     "url": "https://outxout.com/event/trivia-night-20261124"
+    },
+    {
+     "text": "Karaoke Tue, Nov 24 9 PM - 1:30 AM Freddie's Beach Bar & Res",
+     "url": "https://outxout.com/event/karaoke-freddiesbeachbarandresta-20261124"
+    },
+    {
+     "text": "Drag Bingo Night Wed, Nov 25 8 PM - 10 PM Freddie's Beach Ba",
+     "url": "https://outxout.com/event/drag-bingo-night-20261125"
+    },
+    {
+     "text": "Karaoke Wed, Nov 25 10 PM - 1:30 AM Freddie's Beach Bar & Re",
+     "url": "https://outxout.com/event/karaoke-freddiesbeachbarandresta-20261125"
+    },
+    {
+     "text": "City Guides LGBTQ+ Guide to Washington D.C.: Gay Bars, Event",
+     "url": "https://outxout.com/blog/lgbtq-guide-washington-dc"
+    },
+    {
+     "text": "Events & Festivals 17th Street High Heel Race 2026: DC's Dra",
+     "url": "https://outxout.com/blog/17th-street-high-heel-race-2026"
+    }
+   ],
+   "platform": "",
+   "error": ""
+  },
+  {
+   "url": "https://outxout.com/event/karaoke-freddiesbeachbarandresta-20261123",
+   "status": 200,
+   "final_url": "https://outxout.com/event/karaoke-freddiesbeachbarandresta-20261123",
+   "title": "Karaoke in Washington D.C., Washington D.C. \u2014 Gay Event | Out x Out",
+   "dates": 14,
+   "jsonld": 1,
+   "jsonld_samples": [
+    {
+     "name": "Karaoke",
+     "start": "2026-11-24T01:00:00+00:00",
+     "url": "https://outxout.com/event/karaoke-20261122"
+    }
+   ],
+   "hints": [
+    "https://outxout.com/blog/feed.xml"
+   ],
+   "iframes": [],
+   "event_links": [
+    {
+     "text": "Events",
+     "url": "https://outxout.com/events"
+    },
+    {
+     "text": "Washington D.C.",
+     "url": "https://outxout.com/events/washington-dc-dc"
+    },
+    {
+     "text": "Save to Calendar",
+     "url": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Karaoke&dates=20261124T010000Z/20261124T063000Z&location=555%2023rd%20St%20S%2C%20Arlington%2C%20VA%2022202%2C%20United%20States%2C%20Washington%20D.C.%2C%20Washington%20D.C.&details=Freddie's%20marathon%20karaoke%20runs%20Monday%2C%20Thursday%2C%20Friday%20and%20Sunday%20from%208pm%20to%20close%2C%20an%20all-are-welcome%20sing-along%20that's%20a%20fixture%20of%20the%20Arlington%20scene.%0A%0Ahttps%3A%2F%2Foutxout.com%2Fevent%2Fkaraoke-freddiesbeachbarandresta-20261123"
+    },
+    {
+     "text": "Freddie's Follies Drag Show Sat, Nov 21 9 PM - 10 PM Freddie",
+     "url": "https://outxout.com/event/freddie-s-follies-drag-show-20261121"
+    },
+    {
+     "text": "Trivia Night Tue, Nov 24 7:30 PM - 9:30 PM Freddie's Beach B",
+     "url": "https://outxout.com/event/trivia-night-20261124"
+    },
+    {
+     "text": "Karaoke Tue, Nov 24 9 PM - 1:30 AM Freddie's Beach Bar & Res",
+     "url": "https://outxout.com/event/karaoke-freddiesbeachbarandresta-20261124"
+    },
+    {
+     "text": "Drag Bingo Night Wed, Nov 25 8 PM - 10 PM Freddie's Beach Ba",
+     "url": "https://outxout.com/event/drag-bingo-night-20261125"
+    },
+    {
+     "text": "Karaoke Wed, Nov 25 10 PM - 1:30 AM Freddie's Beach Bar & Re",
+     "url": "https://outxout.com/event/karaoke-freddiesbeachbarandresta-20261125"
+    },
+    {
+     "text": "City Guides LGBTQ+ Guide to Washington D.C.: Gay Bars, Event",
+     "url": "https://outxout.com/blog/lgbtq-guide-washington-dc"
+    },
+    {
+     "text": "Events & Festivals 17th Street High Heel Race 2026: DC's Dra",
+     "url": "https://outxout.com/blog/17th-street-high-heel-race-2026"
+    }
+   ],
+   "platform": "",
+   "error": ""
+  }
+ ],
+ "best_page": "https://outxout.com/events/washington-dc-dc"
+}

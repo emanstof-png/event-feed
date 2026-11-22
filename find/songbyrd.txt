@@ -1,0 +1,217 @@
+Songbyrd
+best page: https://songbyrddc.com/events/ (status 200, 259 date strings, 0 JSON-LD events)
+fetched 2026-11-22 02:28Z
+
+
+Events | Songbyrd Music House
+HOME
+SHOWS
+BLOG
+WATCH/LISTEN
+GALLERY
+RADIO
+PLAYLIST
+TV/VIDEO
+FOOD
+CONTACT
+PRIVATE EVENTS
+CONTACT US
+ABOUT
+Frequent Flyer Card
+SONGBYRD 10!
+FAQs
+Follow
+Follow
+Follow
+Follow
+Follow
+Follow
+Follow
+Follow
+Follow
+Follow
+HOME
+SHOWS
+BLOG
+WATCH/LISTEN
+GALLERY
+RADIO
+PLAYLIST
+TV/VIDEO
+FOOD
+CONTACT
+PRIVATE EVENTS
+CONTACT US
+ABOUT
+Frequent Flyer Card
+SONGBYRD 10!
+FAQs
+Upcoming Shows
+Events or Artists
+Keywords
+Location
+Any dates
+Category
+Choose an Event Category
+Business & Professional
+Charity & Causes
+Community & Culture
+Family & Education
+Fashion & Beauty
+Film, Media & Entertainment
+Food & Drink
+Game or Competition
+Other
+Performing & Visual Arts
+Science & Technology
+Sports & Fitness
+Event Type
+Choose an Event Type
+Album Release
+Appearance or Signing
+Attraction
+Brunch
+Camp, Trip, or Retreat
+Class, Training, or Workshop
+Concert or Performance
+Concerts
+Conference
+Convention
+Dinner or Gala
+DJ
+Festival or Fair
+Fundraiser
+Game or Competition
+Happy Hour
+Late Party
+Matinee
+Meeting or Networking Event
+Other
+Party or Social Gathering
+Private Event
+Race or Endurance Event
+Rally
+Screening
+Seminar or Talk
+Special Event
+Tour
+Tournament
+Tradeshow, Consumer Show or Expo
+Genre
+Select genre
+Indie Rock
+Blues
+Jazz
+Country
+Alternative
+Latin
+World
+Electronic
+Experimental
+R&B
+Rap
+Rock
+Pop
+Indie
+Punk
+Comedy
+Metal
+Drag
+Hip-Hop
+Reggae
+Folk
+Singer/Songwriter
+Events
+        object(WP_Post)#8927 (24) {
+  ["ID"]=>
+  int(8457)
+  ["post_author"]=>
+  string(1) "4"
+  ["post_date"]=>
+  string(19) "2026-05-06 15:19:17"
+  ["post_date_gmt"]=>
+  string(19) "2026-05-06 15:19:17"
+  ["post_content"]=>
+  string(5005) "
+“As far back as I can remember, I always wanted to be in a rock and roll band.”
+Dave Hause had an epiphany rewatching Goodfellas. “There's that scene in the beginning where Henry Hill says, ‘As far back as I can remember, I always wanted to be a gangster.’” The Philly-bred, California-based singer-songwriter always longed to be in a different kind of mob.
+“This record is my realization that, as far back as I can remember, I always wanted to be in a rock and roll band. This record is that rock and roll band distilled into 10 songs.”
+This record is …And The Mermaid. And those 10 songs offer a welcome shock to the system, blending Hause’s signature lyrical elan and gift for surging melodies with his keening vocals and some deliciously sharp musical elbows courtesy of the titular group.
+“I had made a couple of records in a row in Nashville, and I was super happy with the outcomes,” says Hause of 2023’s Blood Harmony and 2021’s Drive it Like it’s Stolen, both produced by Will Hoge with top-flight session musicians. While they certainly had their muscular moments, those records were more in line with the Americana-tinged music Hause had been making as a solo artist. He ended up on several solo tours, as well as some duo outings with his brother and collaborator Tim, which necessitated stripping the songs back. “It occurred to me how far I’ve come from my roots,” he says. “Punk rock just isn’t where my muse has been for the last couple albums.”
+But as he pumped electricity when playing those solo songs with his occasional band The Mermaid at his celebratory weekend festival Sing Us Home in Philly the last few years, he realized, “I was just missing plugging in and turning up. I was missing the energy that it takes to deliver that show.”
+While the former leader of beloved Philly punk rockers The Loved Ones has been no stranger to going to 11, it had been a minute since The Mermaid — whose current iteration includes brother Tim Hause on guitar and vocals, bassist Luke Preston, keyboardist Mark Masefield, and drummer Kevin Conroy — had done a proper tour. And they’d never recorded together.
+“This is the first time I've taken that band into the studio and been like, ‘No matter what, damn the torpedoes, we are going to sound the way we sound. I'm not going to Nashville and getting the murderers row of players. This is our sound,’" says Hause of the mission statement for …And The Mermaid, which is being released on Hause’s Blood Harmony label.
+***
+Over Our Eyes is a punk rock from Baltimore Maryland est 2014 that blends a style of early 90s punk rock with a more melodic yet aggressive vibe.
+"
+  ["post_title"]=>
+  string(24) "DAVE HAUSE & THE MERMAID"
+  ["post_excerpt"]=>
+  string(0) ""
+  ["post_status"]=>
+  string(7) "publish"
+  ["comment_status"]=>
+  string(6) "closed"
+  ["ping_status"]=>
+  string(6) "closed"
+  ["post_password"]=>
+  string(0) ""
+  ["post_name"]=>
+  string(22) "dave-hause-the-mermaid"
+  ["to_ping"]=>
+  string(0) ""
+  ["pinged"]=>
+  string(0) ""
+  ["post_modified"]=>
+  string(19) "2026-08-05 23:13:15"
+  ["post_modified_gmt"]=>
+  string(19) "2026-08-05 23:13:15"
+  ["post_content_filtered"]=>
+  string(0) ""
+  ["post_parent"]=>
+  int(0)
+  ["guid"]=>
+  string(59) "https://songbyrddc.com/?post_type=event_listing&p=8457"
+  ["menu_order"]=>
+  int(0)
+  ["post_type"]=>
+  string(13) "event_listing"
+  ["post_mime_type"]=>
+  string(0) ""
+  ["comment_count"]=>
+  string(1) "0"
+  ["filter"]=>
+  string(3) "raw"
+}
+        Ticket: paid        
+Sat
+21
+Nov
+Sat
+21
+Nov
+DAVE HAUSE & THE MERMAID
+Supporting Acts: 
+Over Our Eyes
+                                                                07:00 PM                                 
+                                540 Penn Street NE                            
+Door Time: 
+07:00 pm
+Concerts
+Tickets
+Info
+        object(WP_Post)#9284 (24) {
+  ["ID"]=>
+  int(8715)
+  ["post_author"]=>
+  string(1) "4"
+  ["post_date"]=>
+  string(19) "2026-09-11 13:44:16"
+  ["post_date_gmt"]=>
+  string(19) "2026-09-11 13:44:16"
+  ["post_content"]=>
+  string(5344) "
+Sunday November 22nd
+James Ivy w/ Harry Teardrop
+***
+James Ivy is the project of the New Jersey-born, New York-based singer-songwriter and producer James Butler. His debut album, The Seams — simultaneously an ode to and critique of stagnancy — sees Butler muddle through the doldrums of life, stripped of ego or dogma. Acting as a mar

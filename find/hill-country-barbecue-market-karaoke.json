@@ -1,0 +1,59 @@
+{
+ "row": "18",
+ "name": "Hill Country Barbecue Market karaoke",
+ "seed_url": "https://www.timeout.com/washington-dc/music-nightlife/hill-country-basement-bar",
+ "programs": "Late-night programming",
+ "access": "",
+ "found": "2026-11-22 02:30Z",
+ "search_hits": [],
+ "search_error": "html.duckduckgo.com 0 hits (202, 15196b); www.bing.com 0 hits (200, 116598b); lite.duckduckgo.com 0 hits (202, 15189b)",
+ "probes": [
+  {
+   "url": "https://www.timeout.com/wp-json/tribe/events/v1/events?per_page=10",
+   "status": "HTTPError",
+   "events": 0
+  },
+  {
+   "url": "https://www.timeout.com/events/?ical=1",
+   "status": "HTTPError",
+   "events": 0
+  },
+  {
+   "url": "https://www.timeout.com/?ical=1",
+   "status": 200,
+   "events": 0,
+   "head": "<!DOCTYPE html><html lang=\"en-GB\"><head><meta charSet=\"UTF-8\"/><meta name=\"viewport\" content=\"width=device-width, initial-scale=1, minimum-scale=1\"/><link rel=\"preload\" as=\"image\" href=\"/static/images/loading_icon.gif\"/><script src=\"/static/js/newrelic-a0f6a19b8716b61caa94.js\" async=\"\"></script><lin"
+  }
+ ],
+ "pages": [
+  {
+   "url": "https://www.timeout.com/washington-dc/music-nightlife/hill-country-basement-bar",
+   "status": 200,
+   "final_url": "https://www.timeout.com/washington-dc/music-nightlife/hill-country-basement-bar",
+   "title": "Hill Country basement bar | Nightlife in Penn Quarter, Washington DC",
+   "dates": 1,
+   "jsonld": 0,
+   "jsonld_samples": [],
+   "hints": [],
+   "iframes": [],
+   "event_links": [],
+   "platform": "",
+   "error": ""
+  },
+  {
+   "url": "https://www.timeout.com/",
+   "status": 200,
+   "final_url": "https://www.timeout.com/",
+   "title": "Time Out | Best Things To Do and Events In Cities Worldwide",
+   "dates": 0,
+   "jsonld": 0,
+   "jsonld_samples": [],
+   "hints": [],
+   "iframes": [],
+   "event_links": [],
+   "platform": "",
+   "error": ""
+  }
+ ],
+ "best_page": "https://www.timeout.com/washington-dc/music-nightlife/hill-country-basement-bar"
+}

@@ -1,0 +1,424 @@
+{
+ "row": "13",
+ "name": "Dance Place After Dark",
+ "seed_url": "https://www.danceplace.org/performances/dance-place-after-dark-spookshow-spectacular/",
+ "programs": "Late-night programming",
+ "access": "",
+ "found": "2026-11-22 02:29Z",
+ "search_hits": [],
+ "search_error": "html.duckduckgo.com 0 hits (202, 15174b); www.bing.com 0 hits (200, 134014b); lite.duckduckgo.com 0 hits (202, 15174b)",
+ "probes": [
+  {
+   "url": "https://www.danceplace.org/wp-json/tribe/events/v1/events?per_page=10",
+   "status": 200,
+   "events": 10,
+   "head": "{\"events\":[{\"id\":43833,\"global_id\":\"www.danceplace.org?id=43833\",\"global_id_lineage\":[\"www.danceplace.org?id=43833\"],\"author\":\"8\",\"status\":\"publish\",\"date\":\"2020-07-30 12:31:21\",\"date_utc\":\"2020-07-30 16:31:21\",\"modified\":\"2026-07-30 14:04:59\",\"modified_utc\":\"2026-07-30 18:04:59\",\"url\":\"https:\\/\\/ww"
+  },
+  {
+   "url": "https://www.danceplace.org/events/?ical=1",
+   "status": 200,
+   "events": 13,
+   "head": "BEGIN:VCALENDAR\r\nVERSION:2.0\r\nPRODID:-//Dance Place - ECPv6.10.2//NONSGML v1.0//EN\r\nCALSCALE:GREGORIAN\r\nMETHOD:PUBLISH\r\nX-WR-CALNAME:Dance Place\r\nX-ORIGINAL-URL:https://www.danceplace.org\r\nX-WR-CALDESC:Events for Dance Place\r\nREFRESH-INTERVAL;VALUE=DURATION:PT1H\r\nX-Robots-Tag:noindex\r\nX-PUBLISHED-TT"
+  },
+  {
+   "url": "https://www.danceplace.org/?ical=1",
+   "status": 200,
+   "events": 13,
+   "head": "BEGIN:VCALENDAR\r\nVERSION:2.0\r\nPRODID:-//Dance Place - ECPv6.10.2//NONSGML v1.0//EN\r\nCALSCALE:GREGORIAN\r\nMETHOD:PUBLISH\r\nX-WR-CALNAME:Dance Place\r\nX-ORIGINAL-URL:https://www.danceplace.org\r\nX-WR-CALDESC:Events for Dance Place\r\nREFRESH-INTERVAL;VALUE=DURATION:PT1H\r\nX-Robots-Tag:noindex\r\nX-PUBLISHED-TT"
+  }
+ ],
+ "pages": [
+  {
+   "url": "https://www.danceplace.org/performances/dance-place-after-dark-spookshow-spectacular/",
+   "status": 200,
+   "final_url": "https://www.danceplace.org/performances/dance-place-after-dark-spookshow-spectacular/",
+   "title": "Dance Place AFTER DARK: Spookshow Spectacular | Dance Place",
+   "dates": 1,
+   "jsonld": 1,
+   "jsonld_samples": [
+    {
+     "name": "Dance Place AFTER DARK: Spookshow Spectacular",
+     "start": "2025-09-10T08:00:00-04:00",
+     "url": "https://www.danceplace.org/performances/dance-place-after-dark-spookshow-spectacular/"
+    }
+   ],
+   "hints": [
+    "https://www.danceplace.org/feed/",
+    "https://www.danceplace.org/comments/feed/",
+    "https://www.danceplace.org/performances-and-events/?ical=1",
+    "https://www.danceplace.org/wp-json/wp/v2/tribe_events/44190",
+    "https://www.danceplace.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.danceplace.org%2Fperformances%2Fdance-place-after-dark-spookshow-spectacular%2F",
+    "https://www.danceplace.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.danceplace.org%2Fperformances%2Fdance-place-after-dark-spookshow-spectacular%2F&format=xml",
+    "https://www.danceplace.org/wp-json/tribe/events/v1/events/44190"
+   ],
+   "iframes": [],
+   "event_links": [
+    {
+     "text": "Energizers Creative Arts Programs",
+     "url": "https://www.danceplace.org/energizers-creative-arts-programs/"
+    },
+    {
+     "text": "Archive Event",
+     "url": "http://demo.ovathemes.com/muzze/event"
+    },
+    {
+     "text": "Default",
+     "url": "http://demo.ovathemes.com/muzze/event/?event_type_temp=type4"
+    },
+    {
+     "text": "Classic",
+     "url": "http://demo.ovathemes.com/muzze/event/?event_type_temp=type1"
+    },
+    {
+     "text": "Grid",
+     "url": "http://demo.ovathemes.com/muzze/event/?event_type_temp=type2"
+    },
+    {
+     "text": "Compact",
+     "url": "http://demo.ovathemes.com/muzze/event/?event_type_temp=type3"
+    },
+    {
+     "text": "Buy Tickets",
+     "url": "https://danceplace.my.salesforce-sites.com/ticket#/"
+    },
+    {
+     "text": "Events of Friends in the DMV",
+     "url": "https://www.danceplace.org/events-of-friends/"
+    },
+    {
+     "text": "View All Events",
+     "url": "https://www.danceplace.org/performances-and-events/"
+    },
+    {
+     "text": "School Partnership Programs",
+     "url": "https://www.danceplace.org/school-partnership-programs/"
+    },
+    {
+     "text": "REGISTER FOR CLASS",
+     "url": "https://www.hisawyer.com/dance-place/schedules/activity-set/1634664"
+    },
+    {
+     "text": "BUY TICKETS HERE",
+     "url": "https://danceplace.my.salesforce-sites.com/ticket/#/instances/a0FTN000003Hlbt2AC"
+    },
+    {
+     "text": "Upcoming Events",
+     "url": "https://www.danceplace.org/performances/"
+    }
+   ],
+   "platform": "wordpress tribe-events [All in One SEO (AIOSEO) 4.8.0]",
+   "error": ""
+  },
+  {
+   "url": "https://www.danceplace.org/",
+   "status": 200,
+   "final_url": "https://www.danceplace.org/",
+   "title": "Home | Dance Place",
+   "dates": 1,
+   "jsonld": 0,
+   "jsonld_samples": [],
+   "hints": [
+    "https://www.danceplace.org/feed/",
+    "https://www.danceplace.org/comments/feed/",
+    "https://www.danceplace.org/performances-and-events/?ical=1",
+    "https://www.danceplace.org/wp-json/wp/v2/pages/2329",
+    "https://www.danceplace.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.danceplace.org%2F",
+    "https://www.danceplace.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.danceplace.org%2F&format=xml",
+    "https://www.danceplace.org/wp-json/tribe/events/v1/"
+   ],
+   "iframes": [],
+   "event_links": [
+    {
+     "text": "Events of Friends in the DMV",
+     "url": "https://www.danceplace.org/events-of-friends/"
+    },
+    {
+     "text": "View All Events",
+     "url": "https://www.danceplace.org/performances-and-events/"
+    },
+    {
+     "text": "Energizers Creative Arts Programs",
+     "url": "https://www.danceplace.org/energizers-creative-arts-programs/"
+    },
+    {
+     "text": "School Partnership Programs",
+     "url": "https://www.danceplace.org/school-partnership-programs/"
+    },
+    {
+     "text": "Tickets",
+     "url": "http://demo.ovathemes.com/muzze/product/buy-ticket/"
+    },
+    {
+     "text": "Buy Tickets",
+     "url": "https://danceplace.my.salesforce-sites.com/ticket#/"
+    },
+    {
+     "text": "Upcoming Events",
+     "url": "https://www.danceplace.org/performances/"
+    }
+   ],
+   "platform": "wordpress tribe-events [All in One SEO (AIOSEO) 4.8.0]",
+   "error": ""
+  },
+  {
+   "url": "https://www.danceplace.org/energizers-creative-arts-programs/",
+   "status": 200,
+   "final_url": "https://www.danceplace.org/energizers-creative-arts-programs/",
+   "title": "Energizers Creative Arts Programs | Dance Place",
+   "dates": 0,
+   "jsonld": 0,
+   "jsonld_samples": [],
+   "hints": [
+    "https://www.danceplace.org/feed/",
+    "https://www.danceplace.org/comments/feed/",
+    "https://www.danceplace.org/performances-and-events/?ical=1",
+    "https://www.danceplace.org/wp-json/wp/v2/pages/24869",
+    "https://www.danceplace.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.danceplace.org%2Fenergizers-creative-arts-programs%2F",
+    "https://www.danceplace.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.danceplace.org%2Fenergizers-creative-arts-programs%2F&format=xml",
+    "https://www.danceplace.org/wp-json/tribe/events/v1/"
+   ],
+   "iframes": [],
+   "event_links": [
+    {
+     "text": "Events of Friends in the DMV",
+     "url": "https://www.danceplace.org/events-of-friends/"
+    },
+    {
+     "text": "View All Events",
+     "url": "https://www.danceplace.org/performances-and-events/"
+    },
+    {
+     "text": "School Partnership Programs",
+     "url": "https://www.danceplace.org/school-partnership-programs/"
+    },
+    {
+     "text": "Tickets",
+     "url": "https://danceplace.secure.force.com/ticket"
+    },
+    {
+     "text": "Upcoming Events",
+     "url": "https://www.danceplace.org/performances/"
+    }
+   ],
+   "platform": "wordpress tribe-events salesforce [All in One SEO (AIOSEO) 4.8.0]",
+   "error": ""
+  },
+  {
+   "url": "https://www.danceplace.org/events-of-friends/",
+   "status": 200,
+   "final_url": "https://www.danceplace.org/events-of-friends/",
+   "title": "Events of Friends in the DMV | Dance Place",
+   "dates": 0,
+   "jsonld": 0,
+   "jsonld_samples": [],
+   "hints": [
+    "https://www.danceplace.org/feed/",
+    "https://www.danceplace.org/comments/feed/",
+    "https://www.danceplace.org/performances-and-events/?ical=1",
+    "https://www.danceplace.org/wp-json/wp/v2/pages/40816",
+    "https://www.danceplace.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.danceplace.org%2Fevents-of-friends%2F",
+    "https://www.danceplace.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.danceplace.org%2Fevents-of-friends%2F&format=xml",
+    "https://www.danceplace.org/wp-json/tribe/events/v1/"
+   ],
+   "iframes": [],
+   "event_links": [
+    {
+     "text": "View All Events",
+     "url": "https://www.danceplace.org/performances-and-events/"
+    },
+    {
+     "text": "Energizers Creative Arts Programs",
+     "url": "https://www.danceplace.org/energizers-creative-arts-programs/"
+    },
+    {
+     "text": "School Partnership Programs",
+     "url": "https://www.danceplace.org/school-partnership-programs/"
+    },
+    {
+     "text": "Tickets",
+     "url": "https://danceplace.secure.force.com/ticket"
+    },
+    {
+     "text": "Buy Tickets",
+     "url": "https://www.unionstagepresents.com/shows/frank-maza-featuring-javier-limon-present-back-then-02-nov"
+    },
+    {
+     "text": "Upcoming Events",
+     "url": "https://www.danceplace.org/performances/"
+    }
+   ],
+   "platform": "wordpress tribe-events salesforce [All in One SEO (AIOSEO) 4.8.0]",
+   "error": ""
+  },
+  {
+   "url": "https://www.danceplace.org/performances-and-events/",
+   "status": 200,
+   "final_url": "https://www.danceplace.org/performances-and-events/",
+   "title": "Events | Dance Place",
+   "dates": 20,
+   "jsonld": 10,
+   "jsonld_samples": [
+    {
+     "name": "Spring Youth Showcase",
+     "start": "2027-05-15T00:00:00-04:00",
+     "url": "https://www.danceplace.org/performances/spring-youth-showcase-45/"
+    },
+    {
+     "name": "New Releases Choreographers Showcase",
+     "start": "2027-05-07T00:00:00-04:00",
+     "url": "https://www.danceplace.org/performances/new-releases/"
+    },
+    {
+     "name": "DC Casineros",
+     "start": "2027-04-30T19:00:00-04:00",
+     "url": "https://www.danceplace.org/performances/dc-casineros/"
+    },
+    {
+     "name": "Body Watani",
+     "start": "2027-04-24T00:00:00-04:00",
+     "url": "https://www.danceplace.org/performances/body-watani/"
+    },
+    {
+     "name": "Liminal Dance Film Festival",
+     "start": "2027-04-16T00:00:00-04:00",
+     "url": "https://www.danceplace.org/performances/liminal-dance-film-festival/"
+    }
+   ],
+   "hints": [
+    "https://www.danceplace.org/feed/",
+    "https://www.danceplace.org/comments/feed/",
+    "https://www.danceplace.org/performances-and-events/?ical=1",
+    "https://www.danceplace.org/performances-and-events/feed/",
+    "https://www.danceplace.org/wp-json/tribe/events/v1/",
+    "webcal://www.danceplace.org/?post_type=tribe_events&ical=1&eventDisplay=list",
+    "https://www.danceplace.org/performances-and-events/list/?ical=1",
+    "https://www.danceplace.org/performances-and-events/list/?outlook-ical=1"
+   ],
+   "iframes": [],
+   "event_links": [
+    {
+     "text": "Energizers Creative Arts Programs",
+     "url": "https://www.danceplace.org/energizers-creative-arts-programs/"
+    },
+    {
+     "text": "Archive Event",
+     "url": "http://demo.ovathemes.com/muzze/event"
+    },
+    {
+     "text": "Default",
+     "url": "http://demo.ovathemes.com/muzze/event/?event_type_temp=type4"
+    },
+    {
+     "text": "Classic",
+     "url": "http://demo.ovathemes.com/muzze/event/?event_type_temp=type1"
+    },
+    {
+     "text": "Grid",
+     "url": "http://demo.ovathemes.com/muzze/event/?event_type_temp=type2"
+    },
+    {
+     "text": "Compact",
+     "url": "http://demo.ovathemes.com/muzze/event/?event_type_temp=type3"
+    },
+    {
+     "text": "Buy Tickets",
+     "url": "https://danceplace.my.salesforce-sites.com/ticket#/"
+    },
+    {
+     "text": "Events of Friends in the DMV",
+     "url": "https://www.danceplace.org/events-of-friends/"
+    },
+    {
+     "text": "School Partnership Programs",
+     "url": "https://www.danceplace.org/school-partnership-programs/"
+    },
+    {
+     "text": "List",
+     "url": "https://www.danceplace.org/performances-and-events/list/"
+    },
+    {
+     "text": "Month",
+     "url": "https://www.danceplace.org/performances-and-events/month/"
+    },
+    {
+     "text": "Day",
+     "url": "https://www.danceplace.org/performances-and-events/today/"
+    },
+    {
+     "text": "",
+     "url": "https://www.danceplace.org/performances-and-events/list/?eventDisplay=past"
+    },
+    {
+     "text": "",
+     "url": "https://www.danceplace.org/performances-and-events/list/page/2/"
+    },
+    {
+     "text": "Google Calendar",
+     "url": "https://www.google.com/calendar/render?cid=webcal%3A%2F%2Fwww.danceplace.org%2F%3Fpost_type%3Dtribe_events%26ical%3D1%26eventDisplay%3Dlist"
+    },
+    {
+     "text": "iCalendar",
+     "url": "webcal://www.danceplace.org/?post_type=tribe_events&ical=1&eventDisplay=list"
+    },
+    {
+     "text": "Export .ics file",
+     "url": "https://www.danceplace.org/performances-and-events/list/?ical=1"
+    },
+    {
+     "text": "Export Outlook .ics file",
+     "url": "https://www.danceplace.org/performances-and-events/list/?outlook-ical=1"
+    },
+    {
+     "text": "Upcoming Events",
+     "url": "https://www.danceplace.org/performances/"
+    }
+   ],
+   "platform": "wordpress tribe-events [All in One SEO (AIOSEO) 4.8.0]",
+   "error": ""
+  },
+  {
+   "url": "https://www.danceplace.org/school-partnership-programs/",
+   "status": 200,
+   "final_url": "https://www.danceplace.org/school-partnership-programs/",
+   "title": "School Partnership Programs | Dance Place",
+   "dates": 0,
+   "jsonld": 0,
+   "jsonld_samples": [],
+   "hints": [
+    "https://www.danceplace.org/feed/",
+    "https://www.danceplace.org/comments/feed/",
+    "https://www.danceplace.org/performances-and-events/?ical=1",
+    "https://www.danceplace.org/wp-json/wp/v2/pages/35865",
+    "https://www.danceplace.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.danceplace.org%2Fschool-partnership-programs%2F",
+    "https://www.danceplace.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.danceplace.org%2Fschool-partnership-programs%2F&format=xml",
+    "https://www.danceplace.org/wp-json/tribe/events/v1/"
+   ],
+   "iframes": [],
+   "event_links": [
+    {
+     "text": "Events of Friends in the DMV",
+     "url": "https://www.danceplace.org/events-of-friends/"
+    },
+    {
+     "text": "View All Events",
+     "url": "https://www.danceplace.org/performances-and-events/"
+    },
+    {
+     "text": "Energizers Creative Arts Programs",
+     "url": "https://www.danceplace.org/energizers-creative-arts-programs/"
+    },
+    {
+     "text": "Tickets",
+     "url": "https://danceplace.secure.force.com/ticket"
+    },
+    {
+     "text": "Upcoming Events",
+     "url": "https://www.danceplace.org/performances/"
+    }
+   ],
+   "platform": "wordpress tribe-events salesforce [All in One SEO (AIOSEO) 4.8.0]",
+   "error": ""
+  }
+ ],
+ "best_page": "https://www.danceplace.org/performances-and-events/"
+}

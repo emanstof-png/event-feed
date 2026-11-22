@@ -1,0 +1,593 @@
+{
+ "row": "25",
+ "name": "The Comedy Loft of DC (incl. The Cellar)",
+ "seed_url": "https://www.dccomedyloft.com/shows/157577",
+ "programs": "Late-night programming",
+ "access": "",
+ "found": "2026-11-22 02:32Z",
+ "search_hits": [],
+ "search_error": "html.duckduckgo.com 0 hits (202, 15159b); www.bing.com 0 hits (200, 135492b); lite.duckduckgo.com 0 hits (202, 15160b)",
+ "probes": [
+  {
+   "url": "https://www.dccomedyloft.com/wp-json/tribe/events/v1/events?per_page=10",
+   "status": "HTTPError",
+   "events": 0
+  },
+  {
+   "url": "https://www.dccomedyloft.com/events/?ical=1",
+   "status": 200,
+   "events": 0,
+   "head": "<!DOCTYPE html>\n<html lang='en'>\n<head>\n<title>The Comedy Loft of DC</title>\n<link rel=\"stylesheet\" media=\"all\" href=\"https://cdn.seatengine.com/assets/application-1d83553209cb5a89926b7658958d9a97.css\" />\n<link href='/stylesheet.css' media='all' rel='stylesheet'>\n<link href='https://files.seatengine"
+  },
+  {
+   "url": "https://www.dccomedyloft.com/?ical=1",
+   "status": 200,
+   "events": 0,
+   "head": "<!DOCTYPE html>\n<html lang='en'>\n<head>\n<title>The Comedy Loft of DC</title>\n<link rel=\"stylesheet\" media=\"all\" href=\"https://cdn.seatengine.com/assets/application-1d83553209cb5a89926b7658958d9a97.css\" />\n<link href='/stylesheet.css' media='all' rel='stylesheet'>\n<link href='https://files.seatengine"
+  }
+ ],
+ "pages": [
+  {
+   "url": "https://www.dccomedyloft.com/shows/157577",
+   "status": 200,
+   "final_url": "https://www.dccomedyloft.com/events",
+   "title": "The Comedy Loft of DC",
+   "dates": 260,
+   "jsonld": 285,
+   "jsonld_samples": [
+    {
+     "name": "Yolks on You! Burlesque and Variety Brunch",
+     "start": "2027-12-05T18:00:00Z",
+     "url": "https://www.dccomedyloft.com/shows/394094"
+    },
+    {
+     "name": "Shayne Smith",
+     "start": "2027-12-05T01:30:00Z",
+     "url": "https://www.dccomedyloft.com/shows/396371"
+    },
+    {
+     "name": "Shayne Smith",
+     "start": "2027-12-04T23:00:00Z",
+     "url": "https://www.dccomedyloft.com/shows/396370"
+    },
+    {
+     "name": "Shayne Smith",
+     "start": "2027-12-04T00:30:00Z",
+     "url": "https://www.dccomedyloft.com/shows/396369"
+    },
+    {
+     "name": "Shayne Smith",
+     "start": "2027-12-03T00:30:00Z",
+     "url": "https://www.dccomedyloft.com/shows/396368"
+    }
+   ],
+   "hints": [],
+   "iframes": [],
+   "event_links": [
+    {
+     "text": "Events",
+     "url": "https://www.dccomedyloft.com/events"
+    },
+    {
+     "text": "Calendar",
+     "url": "https://www.dccomedyloft.com/calendar"
+    },
+    {
+     "text": "TK Kirkland",
+     "url": "https://www.dccomedyloft.com/events/134186"
+    },
+    {
+     "text": "Janeane Garofalo",
+     "url": "https://www.dccomedyloft.com/events/139771"
+    },
+    {
+     "text": "Raanan Hershberg",
+     "url": "https://www.dccomedyloft.com/events/139757"
+    },
+    {
+     "text": "Abelardo (En Espa\u00f1ol)",
+     "url": "https://www.dccomedyloft.com/events/147587"
+    },
+    {
+     "text": "Buy Tickets",
+     "url": "https://www.dccomedyloft.com/shows/396359"
+    },
+    {
+     "text": "Jerry Wayne Longmire",
+     "url": "https://www.dccomedyloft.com/events/139773"
+    },
+    {
+     "text": "Buy Tickets",
+     "url": "https://www.dccomedyloft.com/shows/378562"
+    },
+    {
+     "text": "Lil Mo Mozzarella",
+     "url": "https://www.dccomedyloft.com/events/135732"
+    },
+    {
+     "text": "Ryan Long",
+     "url": "https://www.dccomedyloft.com/events/134184"
+    },
+    {
+     "text": "Ron Taylor",
+     "url": "https://www.dccomedyloft.com/events/138455"
+    },
+    {
+     "text": "Yolks on You! Burlesque and Variety Brunch",
+     "url": "https://www.dccomedyloft.com/events/125999"
+    },
+    {
+     "text": "Buy Tickets",
+     "url": "https://www.dccomedyloft.com/shows/345591"
+    },
+    {
+     "text": "Oscar Aydin",
+     "url": "https://www.dccomedyloft.com/events/143271"
+    },
+    {
+     "text": "Buy Tickets",
+     "url": "https://www.dccomedyloft.com/shows/386245"
+    },
+    {
+     "text": "Benny Feldman",
+     "url": "https://www.dccomedyloft.com/events/144893"
+    },
+    {
+     "text": "Anthony Fuentes",
+     "url": "https://www.dccomedyloft.com/events/146705"
+    },
+    {
+     "text": "Jazz Room",
+     "url": "https://www.dccomedyloft.com/events/139767"
+    },
+    {
+     "text": "An Idiot's Guide To Wine",
+     "url": "https://www.dccomedyloft.com/events/139768"
+    },
+    {
+     "text": "Ify Nwadiwe",
+     "url": "https://www.dccomedyloft.com/events/136269"
+    },
+    {
+     "text": "Nema Katt",
+     "url": "https://www.dccomedyloft.com/events/143212"
+    },
+    {
+     "text": "Buy Tickets",
+     "url": "https://www.dccomedyloft.com/shows/386129"
+    },
+    {
+     "text": "Graeson McGaha",
+     "url": "https://www.dccomedyloft.com/events/141901"
+    },
+    {
+     "text": "Buy Tickets",
+     "url": "https://www.dccomedyloft.com/shows/383246"
+    }
+   ],
+   "platform": "",
+   "error": ""
+  },
+  {
+   "url": "https://www.dccomedyloft.com/",
+   "status": 200,
+   "final_url": "https://www.dccomedyloft.com/",
+   "title": "The Comedy Loft of DC",
+   "dates": 28,
+   "jsonld": 285,
+   "jsonld_samples": [
+    {
+     "name": "Yolks on You! Burlesque and Variety Brunch",
+     "start": "2027-12-05T18:00:00Z",
+     "url": "https://www.dccomedyloft.com/shows/394094"
+    },
+    {
+     "name": "Shayne Smith",
+     "start": "2027-12-05T01:30:00Z",
+     "url": "https://www.dccomedyloft.com/shows/396371"
+    },
+    {
+     "name": "Shayne Smith",
+     "start": "2027-12-04T23:00:00Z",
+     "url": "https://www.dccomedyloft.com/shows/396370"
+    },
+    {
+     "name": "Shayne Smith",
+     "start": "2027-12-04T00:30:00Z",
+     "url": "https://www.dccomedyloft.com/shows/396369"
+    },
+    {
+     "name": "Shayne Smith",
+     "start": "2027-12-03T00:30:00Z",
+     "url": "https://www.dccomedyloft.com/shows/396368"
+    }
+   ],
+   "hints": [],
+   "iframes": [],
+   "event_links": [
+    {
+     "text": "Events",
+     "url": "https://www.dccomedyloft.com/events"
+    },
+    {
+     "text": "Calendar",
+     "url": "https://www.dccomedyloft.com/calendar"
+    },
+    {
+     "text": "Buy Tickets",
+     "url": "https://www.dccomedyloft.com/events/134186"
+    },
+    {
+     "text": "Buy Tickets",
+     "url": "https://www.dccomedyloft.com/events/139771"
+    },
+    {
+     "text": "Buy Tickets",
+     "url": "https://www.dccomedyloft.com/events/139757"
+    },
+    {
+     "text": "Buy Tickets",
+     "url": "https://www.dccomedyloft.com/events/147587"
+    },
+    {
+     "text": "Buy Tickets",
+     "url": "https://www.dccomedyloft.com/events/139773"
+    },
+    {
+     "text": "Buy Tickets",
+     "url": "https://www.dccomedyloft.com/events/135732"
+    },
+    {
+     "text": "Buy Tickets",
+     "url": "https://www.dccomedyloft.com/events/134184"
+    },
+    {
+     "text": "Buy Tickets",
+     "url": "https://www.dccomedyloft.com/events/138455"
+    }
+   ],
+   "platform": "",
+   "error": ""
+  },
+  {
+   "url": "https://www.dccomedyloft.com/events",
+   "status": 200,
+   "final_url": "https://www.dccomedyloft.com/events",
+   "title": "The Comedy Loft of DC",
+   "dates": 260,
+   "jsonld": 285,
+   "jsonld_samples": [
+    {
+     "name": "Yolks on You! Burlesque and Variety Brunch",
+     "start": "2027-12-05T18:00:00Z",
+     "url": "https://www.dccomedyloft.com/shows/394094"
+    },
+    {
+     "name": "Shayne Smith",
+     "start": "2027-12-05T01:30:00Z",
+     "url": "https://www.dccomedyloft.com/shows/396371"
+    },
+    {
+     "name": "Shayne Smith",
+     "start": "2027-12-04T23:00:00Z",
+     "url": "https://www.dccomedyloft.com/shows/396370"
+    },
+    {
+     "name": "Shayne Smith",
+     "start": "2027-12-04T00:30:00Z",
+     "url": "https://www.dccomedyloft.com/shows/396369"
+    },
+    {
+     "name": "Shayne Smith",
+     "start": "2027-12-03T00:30:00Z",
+     "url": "https://www.dccomedyloft.com/shows/396368"
+    }
+   ],
+   "hints": [],
+   "iframes": [],
+   "event_links": [
+    {
+     "text": "Events",
+     "url": "https://www.dccomedyloft.com/events"
+    },
+    {
+     "text": "Calendar",
+     "url": "https://www.dccomedyloft.com/calendar"
+    },
+    {
+     "text": "TK Kirkland",
+     "url": "https://www.dccomedyloft.com/events/134186"
+    },
+    {
+     "text": "Janeane Garofalo",
+     "url": "https://www.dccomedyloft.com/events/139771"
+    },
+    {
+     "text": "Raanan Hershberg",
+     "url": "https://www.dccomedyloft.com/events/139757"
+    },
+    {
+     "text": "Abelardo (En Espa\u00f1ol)",
+     "url": "https://www.dccomedyloft.com/events/147587"
+    },
+    {
+     "text": "Buy Tickets",
+     "url": "https://www.dccomedyloft.com/shows/396359"
+    },
+    {
+     "text": "Jerry Wayne Longmire",
+     "url": "https://www.dccomedyloft.com/events/139773"
+    },
+    {
+     "text": "Buy Tickets",
+     "url": "https://www.dccomedyloft.com/shows/378562"
+    },
+    {
+     "text": "Lil Mo Mozzarella",
+     "url": "https://www.dccomedyloft.com/events/135732"
+    },
+    {
+     "text": "Ryan Long",
+     "url": "https://www.dccomedyloft.com/events/134184"
+    },
+    {
+     "text": "Ron Taylor",
+     "url": "https://www.dccomedyloft.com/events/138455"
+    },
+    {
+     "text": "Yolks on You! Burlesque and Variety Brunch",
+     "url": "https://www.dccomedyloft.com/events/125999"
+    },
+    {
+     "text": "Buy Tickets",
+     "url": "https://www.dccomedyloft.com/shows/345591"
+    },
+    {
+     "text": "Oscar Aydin",
+     "url": "https://www.dccomedyloft.com/events/143271"
+    },
+    {
+     "text": "Buy Tickets",
+     "url": "https://www.dccomedyloft.com/shows/386245"
+    },
+    {
+     "text": "Benny Feldman",
+     "url": "https://www.dccomedyloft.com/events/144893"
+    },
+    {
+     "text": "Anthony Fuentes",
+     "url": "https://www.dccomedyloft.com/events/146705"
+    },
+    {
+     "text": "Jazz Room",
+     "url": "https://www.dccomedyloft.com/events/139767"
+    },
+    {
+     "text": "An Idiot's Guide To Wine",
+     "url": "https://www.dccomedyloft.com/events/139768"
+    },
+    {
+     "text": "Ify Nwadiwe",
+     "url": "https://www.dccomedyloft.com/events/136269"
+    },
+    {
+     "text": "Nema Katt",
+     "url": "https://www.dccomedyloft.com/events/143212"
+    },
+    {
+     "text": "Buy Tickets",
+     "url": "https://www.dccomedyloft.com/shows/386129"
+    },
+    {
+     "text": "Graeson McGaha",
+     "url": "https://www.dccomedyloft.com/events/141901"
+    },
+    {
+     "text": "Buy Tickets",
+     "url": "https://www.dccomedyloft.com/shows/383246"
+    }
+   ],
+   "platform": "",
+   "error": ""
+  },
+  {
+   "url": "https://www.dccomedyloft.com/calendar",
+   "status": 200,
+   "final_url": "https://www.dccomedyloft.com/calendar",
+   "title": "The Comedy Loft of DC",
+   "dates": 0,
+   "jsonld": 284,
+   "jsonld_samples": [
+    {
+     "name": "Yolks on You! Burlesque and Variety Brunch",
+     "start": "2027-12-05T18:00:00Z",
+     "url": "https://www.dccomedyloft.com/shows/394094"
+    },
+    {
+     "name": "Shayne Smith",
+     "start": "2027-12-05T01:30:00Z",
+     "url": "https://www.dccomedyloft.com/shows/396371"
+    },
+    {
+     "name": "Shayne Smith",
+     "start": "2027-12-04T23:00:00Z",
+     "url": "https://www.dccomedyloft.com/shows/396370"
+    },
+    {
+     "name": "Shayne Smith",
+     "start": "2027-12-04T00:30:00Z",
+     "url": "https://www.dccomedyloft.com/shows/396369"
+    },
+    {
+     "name": "Shayne Smith",
+     "start": "2027-12-03T00:30:00Z",
+     "url": "https://www.dccomedyloft.com/shows/396368"
+    }
+   ],
+   "hints": [],
+   "iframes": [],
+   "event_links": [
+    {
+     "text": "Events",
+     "url": "https://www.dccomedyloft.com/events"
+    },
+    {
+     "text": "Calendar",
+     "url": "https://www.dccomedyloft.com/calendar"
+    },
+    {
+     "text": "",
+     "url": "https://www.dccomedyloft.com/calendar?month=12&year=2026"
+    },
+    {
+     "text": "Learnmore Jonasi",
+     "url": "https://www.dccomedyloft.com/events/139770"
+    },
+    {
+     "text": "Maggie Hughes DePalo",
+     "url": "https://www.dccomedyloft.com/events/140430"
+    },
+    {
+     "text": "Maddi Mays",
+     "url": "https://www.dccomedyloft.com/events/144278"
+    },
+    {
+     "text": "Leah Rudick",
+     "url": "https://www.dccomedyloft.com/events/135734"
+    },
+    {
+     "text": "\"We Up\u201d Comedy Competition",
+     "url": "https://www.dccomedyloft.com/events/142369"
+    },
+    {
+     "text": "Justo",
+     "url": "https://www.dccomedyloft.com/events/130441"
+    },
+    {
+     "text": "Nori Reed",
+     "url": "https://www.dccomedyloft.com/events/136968"
+    },
+    {
+     "text": "Desi Alexander",
+     "url": "https://www.dccomedyloft.com/events/139725"
+    },
+    {
+     "text": "Matt Richards",
+     "url": "https://www.dccomedyloft.com/events/131749"
+    },
+    {
+     "text": "Jason Cheny",
+     "url": "https://www.dccomedyloft.com/events/136967"
+    },
+    {
+     "text": "King Bo",
+     "url": "https://www.dccomedyloft.com/events/140893"
+    },
+    {
+     "text": "An Idiot's Guide to Wine",
+     "url": "https://www.dccomedyloft.com/events/139768"
+    },
+    {
+     "text": "David Jolly",
+     "url": "https://www.dccomedyloft.com/events/143278"
+    },
+    {
+     "text": "Jack Sullivan",
+     "url": "https://www.dccomedyloft.com/events/141900"
+    },
+    {
+     "text": "Angelo Colina",
+     "url": "https://www.dccomedyloft.com/events/147130"
+    },
+    {
+     "text": "T.K. Kirkland",
+     "url": "https://www.dccomedyloft.com/events/134186"
+    },
+    {
+     "text": "Raanan Hershberg",
+     "url": "https://www.dccomedyloft.com/events/139757"
+    },
+    {
+     "text": "Janeane Garofalo",
+     "url": "https://www.dccomedyloft.com/events/139771"
+    }
+   ],
+   "platform": "",
+   "error": ""
+  },
+  {
+   "url": "https://www.dccomedyloft.com/events/134186",
+   "status": 200,
+   "final_url": "https://www.dccomedyloft.com/events/134186",
+   "title": "The Comedy Loft of DC | TK Kirkland",
+   "dates": 2,
+   "jsonld": 2,
+   "jsonld_samples": [
+    {
+     "name": "TK Kirkland",
+     "start": "2026-11-22T02:30:00Z",
+     "url": "https://www.dccomedyloft.com/shows/365371"
+    },
+    {
+     "name": "TK Kirkland",
+     "start": "2026-11-22T23:00:00Z",
+     "url": "https://www.dccomedyloft.com/shows/365369"
+    }
+   ],
+   "hints": [],
+   "iframes": [],
+   "event_links": [
+    {
+     "text": "Events",
+     "url": "https://www.dccomedyloft.com/events"
+    },
+    {
+     "text": "Calendar",
+     "url": "https://www.dccomedyloft.com/calendar"
+    }
+   ],
+   "platform": "",
+   "error": ""
+  },
+  {
+   "url": "https://www.dccomedyloft.com/events/139771",
+   "status": 200,
+   "final_url": "https://www.dccomedyloft.com/events/139771",
+   "title": "The Comedy Loft of DC | Janeane Garofalo",
+   "dates": 2,
+   "jsonld": 3,
+   "jsonld_samples": [
+    {
+     "name": "Janeane Garofalo",
+     "start": "2026-11-28T00:30:00Z",
+     "url": "https://www.dccomedyloft.com/shows/378558"
+    },
+    {
+     "name": "Janeane Garofalo",
+     "start": "2026-11-29T00:00:00Z",
+     "url": "https://www.dccomedyloft.com/shows/378559"
+    },
+    {
+     "name": "Janeane Garofalo",
+     "start": "2026-11-29T02:30:00Z",
+     "url": "https://www.dccomedyloft.com/shows/378560"
+    }
+   ],
+   "hints": [],
+   "iframes": [],
+   "event_links": [
+    {
+     "text": "Events",
+     "url": "https://www.dccomedyloft.com/events"
+    },
+    {
+     "text": "Calendar",
+     "url": "https://www.dccomedyloft.com/calendar"
+    }
+   ],
+   "platform": "",
+   "error": ""
+  }
+ ],
+ "best_page": "https://www.dccomedyloft.com/shows/157577"
+}

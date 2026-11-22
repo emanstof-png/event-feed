@@ -1,0 +1,434 @@
+{
+ "row": "27",
+ "name": "Washington Improv Theater (WIT)",
+ "seed_url": "https://witdc.org/performances/dcs-improvised-late-night-show",
+ "programs": "Late-night programming",
+ "access": "",
+ "found": "2026-11-22 02:32Z",
+ "search_hits": [],
+ "search_error": "html.duckduckgo.com 0 hits (202, 15094b); www.bing.com 0 hits (200, 114695b); lite.duckduckgo.com 0 hits (202, 15174b)",
+ "probes": [
+  {
+   "url": "https://witdc.org/wp-json/tribe/events/v1/events?per_page=10",
+   "status": "HTTPError",
+   "events": 0
+  },
+  {
+   "url": "https://witdc.org/events/?ical=1",
+   "status": "HTTPError",
+   "events": 0
+  },
+  {
+   "url": "https://witdc.org/?ical=1",
+   "status": 200,
+   "events": 0,
+   "head": "<!doctype html>\n<html class=\"no-js\" lang=\"en-US\">\n\n<head>\n\t<meta charset=\"utf-8\">\n\t<meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\">\n\t<title>DC&#039;s Home for Improv Comedy | Washington Improv Theater</title>\n\t<meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">\n\t<meta name='rob"
+  }
+ ],
+ "pages": [
+  {
+   "url": "https://witdc.org/performances/dcs-improvised-late-night-show",
+   "status": 200,
+   "final_url": "https://witdc.org/performances/dcs-improvised-late-night-show/",
+   "title": "DC\u2019s Improvised Late Night Show - Washington Improv Theater Presents - Dec 9, 2023",
+   "dates": 4,
+   "jsonld": 0,
+   "jsonld_samples": [],
+   "hints": [
+    "https://witdc.org/feed/",
+    "https://witdc.org/wp-json/wp/v2/performances/15699",
+    "https://www.eventbrite.com/e/750927282717"
+   ],
+   "iframes": [],
+   "event_links": [
+    {
+     "text": "Get Tickets",
+     "url": "https://witdc.org/watch#wit-calendar"
+    },
+    {
+     "text": "Upcoming Classes",
+     "url": "https://witdc.org/classes/"
+    },
+    {
+     "text": "Discrimination and Harassment Prevention Policy",
+     "url": "https://witdc.org/discrimination-harassment-prevention-policy-washington-improv-theater/"
+    },
+    {
+     "text": "Yes take me to the calendar",
+     "url": "https://witdc.org/watch/#calendar"
+    },
+    {
+     "text": "Get Tickets Now!",
+     "url": "https://www.eventbrite.com/e/750927282717"
+    }
+   ],
+   "platform": "wordpress eventbrite",
+   "error": ""
+  },
+  {
+   "url": "https://witdc.org/",
+   "status": 200,
+   "final_url": "https://witdc.org/",
+   "title": "DC's Home for Improv Comedy | Washington Improv Theater",
+   "dates": 0,
+   "jsonld": 0,
+   "jsonld_samples": [],
+   "hints": [
+    "https://witdc.org/feed/",
+    "https://witdc.org/wp-json/wp/v2/pages/4"
+   ],
+   "iframes": [],
+   "event_links": [
+    {
+     "text": "Get Tickets",
+     "url": "https://witdc.org/watch#wit-calendar"
+    },
+    {
+     "text": "Upcoming Classes",
+     "url": "https://witdc.org/classes/"
+    },
+    {
+     "text": "Discrimination and Harassment Prevention Policy",
+     "url": "https://witdc.org/discrimination-harassment-prevention-policy-washington-improv-theater/"
+    }
+   ],
+   "platform": "wordpress eventbrite",
+   "error": ""
+  },
+  {
+   "url": "https://witdc.org/watch#wit-calendar",
+   "status": 200,
+   "final_url": "https://witdc.org/watch/",
+   "title": "Live Improv Comedy Shows at Washington Improv Theater",
+   "dates": 80,
+   "jsonld": 0,
+   "jsonld_samples": [],
+   "hints": [
+    "https://witdc.org/feed/",
+    "https://witdc.org/wp-json/wp/v2/pages/6",
+    "https://www.eventbrite.com/e/2003931186122",
+    "https://www.eventbrite.com/e/2003742749503",
+    "https://www.eventbrite.com/e/2003742798650",
+    "https://www.eventbrite.com/e/2003743021316",
+    "https://www.eventbrite.com/e/2003931867159",
+    "https://www.eventbrite.com/e/2003743213892",
+    "https://www.eventbrite.com/e/2004584974621",
+    "https://www.eventbrite.com/e/2004593334626",
+    "https://www.eventbrite.com/e/2003682968697",
+    "https://www.eventbrite.com/e/2004592808051",
+    "https://www.eventbrite.com/e/2004593545256",
+    "https://www.eventbrite.com/e/2003743764539",
+    "https://www.eventbrite.com/e/2003745053394",
+    "https://www.eventbrite.com/e/2003745067436",
+    "https://www.eventbrite.com/e/2004593308548",
+    "https://www.eventbrite.com/e/2004593578355",
+    "https://www.eventbrite.com/e/2004596363686",
+    "https://www.eventbrite.com/e/2004593260404",
+    "https://www.eventbrite.com/e/2004593584373",
+    "https://www.eventbrite.com/e/2004596368701",
+    "https://www.eventbrite.com/e/2004596826069",
+    "https://www.eventbrite.com/e/2003745080475",
+    "https://www.eventbrite.com/e/2003745089502"
+   ],
+   "iframes": [],
+   "event_links": [
+    {
+     "text": "Get Tickets",
+     "url": "https://witdc.org/watch#wit-calendar"
+    },
+    {
+     "text": "Upcoming Classes",
+     "url": "https://witdc.org/classes/"
+    },
+    {
+     "text": "Discrimination and Harassment Prevention Policy",
+     "url": "https://witdc.org/discrimination-harassment-prevention-policy-washington-improv-theater/"
+    },
+    {
+     "text": "Get Tickets",
+     "url": "https://www.eventbrite.com/e/2003931186122"
+    },
+    {
+     "text": "Get Tickets",
+     "url": "https://www.eventbrite.com/e/2003742749503"
+    },
+    {
+     "text": "Get Tickets",
+     "url": "https://www.eventbrite.com/e/2003742798650"
+    },
+    {
+     "text": "Get Tickets",
+     "url": "https://www.eventbrite.com/e/2003743021316"
+    },
+    {
+     "text": "Get Tickets",
+     "url": "https://www.eventbrite.com/e/2003931867159"
+    },
+    {
+     "text": "Get Tickets",
+     "url": "https://www.eventbrite.com/e/2003743213892"
+    },
+    {
+     "text": "Get Tickets",
+     "url": "https://www.eventbrite.com/e/2004584974621"
+    },
+    {
+     "text": "Get Tickets",
+     "url": "https://www.eventbrite.com/e/2004593334626"
+    },
+    {
+     "text": "Get Tickets",
+     "url": "https://www.eventbrite.com/e/2003682968697"
+    },
+    {
+     "text": "Get Tickets",
+     "url": "https://www.eventbrite.com/e/2004592808051"
+    },
+    {
+     "text": "Get Tickets",
+     "url": "https://www.eventbrite.com/e/2004593545256"
+    },
+    {
+     "text": "Get Tickets",
+     "url": "https://www.eventbrite.com/e/2003743764539"
+    },
+    {
+     "text": "Get Tickets",
+     "url": "https://www.eventbrite.com/e/2003745053394"
+    },
+    {
+     "text": "Get Tickets",
+     "url": "https://www.eventbrite.com/e/2003745067436"
+    },
+    {
+     "text": "Get Tickets",
+     "url": "https://www.eventbrite.com/e/2004593308548"
+    },
+    {
+     "text": "Get Tickets",
+     "url": "https://www.eventbrite.com/e/2004593578355"
+    },
+    {
+     "text": "Get Tickets",
+     "url": "https://www.eventbrite.com/e/2004596363686"
+    },
+    {
+     "text": "Get Tickets",
+     "url": "https://www.eventbrite.com/e/2004593260404"
+    },
+    {
+     "text": "Get Tickets",
+     "url": "https://www.eventbrite.com/e/2004593584373"
+    },
+    {
+     "text": "Get Tickets",
+     "url": "https://www.eventbrite.com/e/2004596368701"
+    },
+    {
+     "text": "Get Tickets",
+     "url": "https://www.eventbrite.com/e/2004596826069"
+    },
+    {
+     "text": "Get Tickets",
+     "url": "https://www.eventbrite.com/e/2003745080475"
+    }
+   ],
+   "platform": "wordpress eventbrite",
+   "error": ""
+  },
+  {
+   "url": "https://witdc.org/classes/",
+   "status": 200,
+   "final_url": "https://witdc.org/classes/",
+   "title": "Improv Curriculum - Washington Improv Theater",
+   "dates": 0,
+   "jsonld": 0,
+   "jsonld_samples": [],
+   "hints": [
+    "https://witdc.org/feed/",
+    "https://witdc.org/classes/feed/"
+   ],
+   "iframes": [],
+   "event_links": [
+    {
+     "text": "Get Tickets",
+     "url": "https://witdc.org/watch#wit-calendar"
+    },
+    {
+     "text": "Discrimination and Harassment Prevention Policy",
+     "url": "https://witdc.org/discrimination-harassment-prevention-policy-washington-improv-theater/"
+    }
+   ],
+   "platform": "wordpress eventbrite",
+   "error": ""
+  },
+  {
+   "url": "https://witdc.org/discrimination-harassment-prevention-policy-washington-improv-theater/",
+   "status": 200,
+   "final_url": "https://witdc.org/discrimination-harassment-prevention-policy-washington-improv-theater/",
+   "title": "Discrimination and Harassment Prevention Policy of Washington Improv Theater - Washington Improv Theater",
+   "dates": 0,
+   "jsonld": 0,
+   "jsonld_samples": [],
+   "hints": [
+    "https://witdc.org/feed/",
+    "https://witdc.org/wp-json/wp/v2/pages/6094"
+   ],
+   "iframes": [],
+   "event_links": [
+    {
+     "text": "Get Tickets",
+     "url": "https://witdc.org/watch#wit-calendar"
+    },
+    {
+     "text": "Upcoming Classes",
+     "url": "https://witdc.org/classes/"
+    }
+   ],
+   "platform": "wordpress eventbrite",
+   "error": ""
+  },
+  {
+   "url": "https://witdc.org/watch/#calendar",
+   "status": 200,
+   "final_url": "https://witdc.org/watch/#calendar",
+   "title": "Live Improv Comedy Shows at Washington Improv Theater",
+   "dates": 80,
+   "jsonld": 0,
+   "jsonld_samples": [],
+   "hints": [
+    "https://witdc.org/feed/",
+    "https://witdc.org/wp-json/wp/v2/pages/6",
+    "https://www.eventbrite.com/e/2003931186122",
+    "https://www.eventbrite.com/e/2003742749503",
+    "https://www.eventbrite.com/e/2003742798650",
+    "https://www.eventbrite.com/e/2003743021316",
+    "https://www.eventbrite.com/e/2003931867159",
+    "https://www.eventbrite.com/e/2003743213892",
+    "https://www.eventbrite.com/e/2004584974621",
+    "https://www.eventbrite.com/e/2004593334626",
+    "https://www.eventbrite.com/e/2003682968697",
+    "https://www.eventbrite.com/e/2004592808051",
+    "https://www.eventbrite.com/e/2004593545256",
+    "https://www.eventbrite.com/e/2003743764539",
+    "https://www.eventbrite.com/e/2003745053394",
+    "https://www.eventbrite.com/e/2003745067436",
+    "https://www.eventbrite.com/e/2004593308548",
+    "https://www.eventbrite.com/e/2004593578355",
+    "https://www.eventbrite.com/e/2004596363686",
+    "https://www.eventbrite.com/e/2004593260404",
+    "https://www.eventbrite.com/e/2004593584373",
+    "https://www.eventbrite.com/e/2004596368701",
+    "https://www.eventbrite.com/e/2004596826069",
+    "https://www.eventbrite.com/e/2003745080475",
+    "https://www.eventbrite.com/e/2003745089502"
+   ],
+   "iframes": [],
+   "event_links": [
+    {
+     "text": "Get Tickets",
+     "url": "https://witdc.org/watch#wit-calendar"
+    },
+    {
+     "text": "Upcoming Classes",
+     "url": "https://witdc.org/classes/"
+    },
+    {
+     "text": "Discrimination and Harassment Prevention Policy",
+     "url": "https://witdc.org/discrimination-harassment-prevention-policy-washington-improv-theater/"
+    },
+    {
+     "text": "Get Tickets",
+     "url": "https://www.eventbrite.com/e/2003931186122"
+    },
+    {
+     "text": "Get Tickets",
+     "url": "https://www.eventbrite.com/e/2003742749503"
+    },
+    {
+     "text": "Get Tickets",
+     "url": "https://www.eventbrite.com/e/2003742798650"
+    },
+    {
+     "text": "Get Tickets",
+     "url": "https://www.eventbrite.com/e/2003743021316"
+    },
+    {
+     "text": "Get Tickets",
+     "url": "https://www.eventbrite.com/e/2003931867159"
+    },
+    {
+     "text": "Get Tickets",
+     "url": "https://www.eventbrite.com/e/2003743213892"
+    },
+    {
+     "text": "Get Tickets",
+     "url": "https://www.eventbrite.com/e/2004584974621"
+    },
+    {
+     "text": "Get Tickets",
+     "url": "https://www.eventbrite.com/e/2004593334626"
+    },
+    {
+     "text": "Get Tickets",
+     "url": "https://www.eventbrite.com/e/2003682968697"
+    },
+    {
+     "text": "Get Tickets",
+     "url": "https://www.eventbrite.com/e/2004592808051"
+    },
+    {
+     "text": "Get Tickets",
+     "url": "https://www.eventbrite.com/e/2004593545256"
+    },
+    {
+     "text": "Get Tickets",
+     "url": "https://www.eventbrite.com/e/2003743764539"
+    },
+    {
+     "text": "Get Tickets",
+     "url": "https://www.eventbrite.com/e/2003745053394"
+    },
+    {
+     "text": "Get Tickets",
+     "url": "https://www.eventbrite.com/e/2003745067436"
+    },
+    {
+     "text": "Get Tickets",
+     "url": "https://www.eventbrite.com/e/2004593308548"
+    },
+    {
+     "text": "Get Tickets",
+     "url": "https://www.eventbrite.com/e/2004593578355"
+    },
+    {
+     "text": "Get Tickets",
+     "url": "https://www.eventbrite.com/e/2004596363686"
+    },
+    {
+     "text": "Get Tickets",
+     "url": "https://www.eventbrite.com/e/2004593260404"
+    },
+    {
+     "text": "Get Tickets",
+     "url": "https://www.eventbrite.com/e/2004593584373"
+    },
+    {
+     "text": "Get Tickets",
+     "url": "https://www.eventbrite.com/e/2004596368701"
+    },
+    {
+     "text": "Get Tickets",
+     "url": "https://www.eventbrite.com/e/2004596826069"
+    },
+    {
+     "text": "Get Tickets",
+     "url": "https://www.eventbrite.com/e/2003745080475"
+    }
+   ],
+   "platform": "wordpress eventbrite",
+   "error": ""
+  }
+ ],
+ "best_page": "https://witdc.org/watch#wit-calendar"
+}

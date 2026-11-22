@@ -1,0 +1,182 @@
+{
+ "row": "10",
+ "name": "DC Improv (Lounge showroom, Sketch Night)",
+ "seed_url": "https://dcimprov.com/shows/lounge-showroom/showcase-0221",
+ "programs": "Late-night programming",
+ "access": "",
+ "found": "2026-11-22 02:29Z",
+ "search_hits": [],
+ "search_error": "html.duckduckgo.com 0 hits (202, 15130b); www.bing.com 0 hits (200, 132310b); lite.duckduckgo.com 0 hits (202, 15130b)",
+ "probes": [
+  {
+   "url": "https://dcimprov.com/wp-json/tribe/events/v1/events?per_page=10",
+   "status": "HTTPError",
+   "events": 0
+  },
+  {
+   "url": "https://dcimprov.com/events/?ical=1",
+   "status": 200,
+   "events": 0,
+   "head": "\n<!doctype html>\n<html lang=\"en-gb\" dir=\"ltr\">\n\t<head>\n\t\t\n\n\n\n<meta property=\"og:title\" content=\"The DC Improv Comedy Club\" />\n<meta property=\"og:description\" content=\"The nation's premier comedy club\" />\n<meta property=\"og:type\" content=\"activity\" />\n<meta property=\"og:image\" content=\"https://www.dc"
+  },
+  {
+   "url": "https://dcimprov.com/?ical=1",
+   "status": 200,
+   "events": 0,
+   "head": "\n<!doctype html>\n<html lang=\"en-gb\" dir=\"ltr\">\n\t<head>\n\t\t\n\n\n\n<meta property=\"og:title\" content=\"The DC Improv Comedy Club\" />\n<meta property=\"og:description\" content=\"The nation's premier comedy club\" />\n<meta property=\"og:type\" content=\"activity\" />\n<meta property=\"og:image\" content=\"https://www.dc"
+  }
+ ],
+ "pages": [
+  {
+   "url": "https://dcimprov.com/shows/lounge-showroom/showcase-0221",
+   "status": null,
+   "final_url": "",
+   "title": "",
+   "dates": 0,
+   "jsonld": 0,
+   "jsonld_samples": [],
+   "hints": [],
+   "iframes": [],
+   "event_links": [],
+   "platform": "",
+   "error": "HTTPError: HTTP Error 404: "
+  },
+  {
+   "url": "https://dcimprov.com/",
+   "status": 200,
+   "final_url": "https://dcimprov.com/",
+   "title": "The DC Improv - DC Improv",
+   "dates": 16,
+   "jsonld": 0,
+   "jsonld_samples": [],
+   "hints": [
+    "https://dcimprov.com/?format=feed&type=rss",
+    "https://dcimprov.com/?format=feed&type=atom"
+   ],
+   "iframes": [],
+   "event_links": [
+    {
+     "text": "Calendar View",
+     "url": "https://dcimprov-com.seatengine.com/calendar"
+    },
+    {
+     "text": "Group Events",
+     "url": "https://dcimprov.com/events"
+    },
+    {
+     "text": "SOLD OUT",
+     "url": "https://dcimprov-com.seatengine.com/events/137538"
+    },
+    {
+     "text": "SOLD OUT",
+     "url": "https://dcimprov-com.seatengine.com/events/140444"
+    },
+    {
+     "text": "get tickets",
+     "url": "https://dcimprov-com.seatengine.com/shows/382858"
+    },
+    {
+     "text": "get tickets",
+     "url": "https://tallyhotheater.com/"
+    },
+    {
+     "text": "get tickets",
+     "url": "https://dcimprov-com.seatengine.com/events/140815"
+    },
+    {
+     "text": "get tickets",
+     "url": "https://dcimprov-com.seatengine.com/events/146070"
+    },
+    {
+     "text": "get tickets",
+     "url": "https://dcimprov-com.seatengine.com/events/138601"
+    },
+    {
+     "text": "get tickets",
+     "url": "https://dcimprov-com.seatengine.com/events/138607"
+    },
+    {
+     "text": "get tickets",
+     "url": "https://dcimprov-com.seatengine.com/shows/391261"
+    },
+    {
+     "text": "get tickets",
+     "url": "https://dcimprov-com.seatengine.com/events/141066"
+    },
+    {
+     "text": "get tickets",
+     "url": "https://dcimprov-com.seatengine.com/shows/383922"
+    },
+    {
+     "text": "get tickets",
+     "url": "https://dcimprov-com.seatengine.com/shows/392159"
+    },
+    {
+     "text": "get tickets",
+     "url": "https://dcimprov-com.seatengine.com/shows/377135"
+    },
+    {
+     "text": "get tickets",
+     "url": "https://dcimprov-com.seatengine.com/shows/391264"
+    }
+   ],
+   "platform": " [MYOB]",
+   "error": ""
+  },
+  {
+   "url": "https://dcimprov.com/events",
+   "status": 200,
+   "final_url": "https://dcimprov.com/events",
+   "title": "Group Events - DC Improv",
+   "dates": 0,
+   "jsonld": 0,
+   "jsonld_samples": [],
+   "hints": [
+    "https://dcimprov.com/events?format=feed&type=rss",
+    "https://dcimprov.com/events?format=feed&type=atom"
+   ],
+   "iframes": [],
+   "event_links": [
+    {
+     "text": "Calendar View",
+     "url": "https://dcimprov-com.seatengine.com/calendar"
+    },
+    {
+     "text": "Group Events",
+     "url": "https://dcimprov.com/events"
+    },
+    {
+     "text": "",
+     "url": "https://dcimprov.com/events/teambuilding"
+    },
+    {
+     "text": "",
+     "url": "https://dcimprov.com/events/room-rental"
+    },
+    {
+     "text": "",
+     "url": "https://dcimprov.com/events/hire"
+    },
+    {
+     "text": "",
+     "url": "https://dcimprov.com/events/office-events"
+    },
+    {
+     "text": "",
+     "url": "https://dcimprov.com/events/holiday-parties"
+    },
+    {
+     "text": "",
+     "url": "https://dcimprov.com/events/student-groups"
+    },
+    {
+     "text": "",
+     "url": "https://dcimprov.com/events/online-events"
+    }
+   ],
+   "platform": " [MYOB]",
+   "error": ""
+  }
+ ],
+ "best_page": "https://dcimprov.com/"
+}

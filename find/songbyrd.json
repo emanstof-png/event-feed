@@ -1,0 +1,473 @@
+{
+ "row": "5",
+ "name": "Songbyrd",
+ "seed_url": "https://songbyrddc.com/events/",
+ "programs": "Late-night programming",
+ "access": "",
+ "found": "2026-11-22 02:28Z",
+ "search_hits": [],
+ "search_error": "html.duckduckgo.com 0 hits (202, 15128b); www.bing.com 0 hits (200, 130317b); lite.duckduckgo.com 0 hits (202, 15140b)",
+ "probes": [
+  {
+   "url": "https://songbyrddc.com/wp-json/tribe/events/v1/events?per_page=10",
+   "status": "HTTPError",
+   "events": 0
+  },
+  {
+   "url": "https://songbyrddc.com/events/?ical=1",
+   "status": 200,
+   "events": 0,
+   "head": "<!DOCTYPE html>\n<html lang=\"en-US\">\n<head>\n\t<meta charset=\"UTF-8\" />\n<meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\">\n\t<link rel=\"pingback\" href=\"https://songbyrddc.com/xmlrpc.php\" />\n\n\t<script type=\"text/javascript\">\n\t\tdocument.documentElement.className = 'js';\n\t</script>\n\t\n\t<link rel=\"preconn"
+  },
+  {
+   "url": "https://songbyrddc.com/?ical=1",
+   "status": 200,
+   "events": 0,
+   "head": "<!DOCTYPE html>\n<html lang=\"en-US\">\n<head>\n\t<meta charset=\"UTF-8\" />\n<meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\">\n\t<link rel=\"pingback\" href=\"https://songbyrddc.com/xmlrpc.php\" />\n\n\t<script type=\"text/javascript\">\n\t\tdocument.documentElement.className = 'js';\n\t</script>\n\t\n\t<link rel=\"preconn"
+  }
+ ],
+ "pages": [
+  {
+   "url": "https://songbyrddc.com/events/",
+   "status": 200,
+   "final_url": "https://songbyrddc.com/events/",
+   "title": "Events | Songbyrd Music House",
+   "dates": 259,
+   "jsonld": 0,
+   "jsonld_samples": [],
+   "hints": [
+    "https://songbyrddc.com/feed/",
+    "https://songbyrddc.com/comments/feed/",
+    "https://songbyrddc.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fsongbyrddc.com%2Fevents%2F",
+    "https://songbyrddc.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fsongbyrddc.com%2Fevents%2F&format=xml",
+    "https://songbyrddc.com/wp-json/wp/v2/pages/277",
+    "https://songbyrddc.com/?feed=gigpress"
+   ],
+   "iframes": [],
+   "event_links": [
+    {
+     "text": "PRIVATE EVENTS",
+     "url": "https://songbyrddc.com/booking-events/"
+    },
+    {
+     "text": "Sat \n 21 \n Nov \n \n \n \n \n \n \n \n \n \n \n Sat \n 21 \n Nov \n \n \n \n ",
+     "url": "https://songbyrddc.com/event/dave-hause-the-mermaid/"
+    },
+    {
+     "text": "Concerts",
+     "url": "https://songbyrddc.com/event_listing_type/concerts/"
+    },
+    {
+     "text": "Tickets",
+     "url": "https://link.dice.fm/A3dabfc6d42c"
+    },
+    {
+     "text": "Sold Out\t\t\t\t\t \n \n \n \n \n \n Sun \n 22 \n Nov \n \n \n \n \n \n \n \n \n \n",
+     "url": "https://songbyrddc.com/event/james-ivy-2/"
+    },
+    {
+     "text": "Tickets",
+     "url": "https://link.dice.fm/T922e7ff3b77"
+    },
+    {
+     "text": "Sold Out\t\t\t\t\t \n \n \n \n \n \n Mon \n 23 \n Nov \n \n \n \n \n \n \n \n \n \n",
+     "url": "https://songbyrddc.com/event/cortex/"
+    },
+    {
+     "text": "Tickets",
+     "url": "https://link.dice.fm/l60a04f2f261"
+    },
+    {
+     "text": "Tue \n 24 \n Nov \n \n \n \n \n \n \n \n \n \n \n Tue \n 24 \n Nov \n \n \n \n ",
+     "url": "https://songbyrddc.com/event/shaolin-jazz-can-i-kick-it-ft-ricochet/"
+    },
+    {
+     "text": "Screening",
+     "url": "https://songbyrddc.com/event_listing_type/screening/"
+    },
+    {
+     "text": "Fri \n 27 \n Nov \n \n \n \n \n \n \n \n \n \n \n Fri \n 27 \n Nov \n \n \n \n ",
+     "url": "https://songbyrddc.com/event/year-of-the-knife/"
+    },
+    {
+     "text": "Tickets",
+     "url": "https://link.dice.fm/Da65493961c2"
+    },
+    {
+     "text": "Sat \n 28 \n Nov \n \n \n \n \n \n \n \n \n \n \n Sat \n 28 \n Nov \n \n \n \n ",
+     "url": "https://songbyrddc.com/event/night-train-357-w-dumi-right-marc-2ray/"
+    },
+    {
+     "text": "Tickets",
+     "url": "https://link.dice.fm/o5c484031da3"
+    },
+    {
+     "text": "Mon \n 30 \n Nov \n \n \n \n \n \n \n \n \n \n \n Mon \n 30 \n Nov \n \n \n \n ",
+     "url": "https://songbyrddc.com/event/songbyrd-music-trivia-night-merry-thanxmas-edition/"
+    },
+    {
+     "text": "Game or Competition",
+     "url": "https://songbyrddc.com/event_listing_type/game-or-competition/"
+    },
+    {
+     "text": "Tue \n 01 \n Dec \n \n \n \n \n \n \n \n \n \n \n Tue \n 01 \n Dec \n \n \n \n ",
+     "url": "https://songbyrddc.com/event/jeff-the-brotherhood/"
+    },
+    {
+     "text": "Tickets",
+     "url": "https://link.dice.fm/u90d40988d1f"
+    },
+    {
+     "text": "Wed \n 02 \n Dec \n \n \n \n \n \n \n \n \n \n \n Wed \n 02 \n Dec \n \n \n \n ",
+     "url": "https://songbyrddc.com/event/tracey-nelson/"
+    },
+    {
+     "text": "Tickets",
+     "url": "https://link.dice.fm/s265553cebc7"
+    },
+    {
+     "text": "Thu \n 03 \n Dec \n \n \n \n \n \n \n \n \n \n \n Thu \n 03 \n Dec \n \n \n \n ",
+     "url": "https://songbyrddc.com/event/devon-gabriella/"
+    },
+    {
+     "text": "Tickets",
+     "url": "https://link.dice.fm/xa603576aedb"
+    },
+    {
+     "text": "Fri \n 04 \n Dec \n \n \n \n \n \n \n \n \n \n \n Fri \n 04 \n Dec \n \n \n \n ",
+     "url": "https://songbyrddc.com/event/the-montaines/"
+    },
+    {
+     "text": "Tickets",
+     "url": "https://link.dice.fm/sa554455a0b0"
+    },
+    {
+     "text": "Sat \n 05 \n Dec \n \n \n \n \n \n \n \n \n \n \n Sat \n 05 \n Dec \n \n \n \n ",
+     "url": "https://songbyrddc.com/event/eliza-mclamb/"
+    }
+   ],
+   "platform": "wordpress [Divi Child v.4.10.7]",
+   "error": ""
+  },
+  {
+   "url": "https://songbyrddc.com/",
+   "status": 200,
+   "final_url": "https://songbyrddc.com/",
+   "title": "Homepage | Songbyrd Music House",
+   "dates": 44,
+   "jsonld": 0,
+   "jsonld_samples": [],
+   "hints": [
+    "https://songbyrddc.com/feed/",
+    "https://songbyrddc.com/comments/feed/",
+    "https://songbyrddc.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fsongbyrddc.com%2F",
+    "https://songbyrddc.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fsongbyrddc.com%2F&format=xml",
+    "https://songbyrddc.com/wp-json/wp/v2/pages/26",
+    "https://songbyrddc.com/?feed=gigpress"
+   ],
+   "iframes": [
+    "https://www.youtube.com/embed/8gdFQ0daA3M?feature=oembed"
+   ],
+   "event_links": [
+    {
+     "text": "SHOWS",
+     "url": "https://songbyrddc.com/events/"
+    },
+    {
+     "text": "PRIVATE EVENTS",
+     "url": "https://songbyrddc.com/booking-events/"
+    },
+    {
+     "text": "Sat \n 21 \n Nov \n \n \n \n \n \n \n \n \n \n \n Sat \n 21 \n Nov \n \n \n \n ",
+     "url": "https://songbyrddc.com/event/dave-hause-the-mermaid/"
+    },
+    {
+     "text": "Concerts",
+     "url": "https://songbyrddc.com/event_listing_type/concerts/"
+    },
+    {
+     "text": "Tickets",
+     "url": "https://link.dice.fm/A3dabfc6d42c"
+    },
+    {
+     "text": "Sold Out\t\t\t\t\t \n \n \n \n \n \n Sun \n 22 \n Nov \n \n \n \n \n \n \n \n \n \n",
+     "url": "https://songbyrddc.com/event/james-ivy-2/"
+    },
+    {
+     "text": "Tickets",
+     "url": "https://link.dice.fm/T922e7ff3b77"
+    },
+    {
+     "text": "Sold Out\t\t\t\t\t \n \n \n \n \n \n Mon \n 23 \n Nov \n \n \n \n \n \n \n \n \n \n",
+     "url": "https://songbyrddc.com/event/cortex/"
+    },
+    {
+     "text": "Tickets",
+     "url": "https://link.dice.fm/l60a04f2f261"
+    },
+    {
+     "text": "Tue \n 24 \n Nov \n \n \n \n \n \n \n \n \n \n \n Tue \n 24 \n Nov \n \n \n \n ",
+     "url": "https://songbyrddc.com/event/shaolin-jazz-can-i-kick-it-ft-ricochet/"
+    },
+    {
+     "text": "Screening",
+     "url": "https://songbyrddc.com/event_listing_type/screening/"
+    },
+    {
+     "text": "Fri \n 27 \n Nov \n \n \n \n \n \n \n \n \n \n \n Fri \n 27 \n Nov \n \n \n \n ",
+     "url": "https://songbyrddc.com/event/year-of-the-knife/"
+    },
+    {
+     "text": "Tickets",
+     "url": "https://link.dice.fm/Da65493961c2"
+    },
+    {
+     "text": "Sat \n 28 \n Nov \n \n \n \n \n \n \n \n \n \n \n Sat \n 28 \n Nov \n \n \n \n ",
+     "url": "https://songbyrddc.com/event/night-train-357-w-dumi-right-marc-2ray/"
+    },
+    {
+     "text": "Tickets",
+     "url": "https://link.dice.fm/o5c484031da3"
+    },
+    {
+     "text": "Mon \n 30 \n Nov \n \n \n \n \n \n \n \n \n \n \n Mon \n 30 \n Nov \n \n \n \n ",
+     "url": "https://songbyrddc.com/event/songbyrd-music-trivia-night-merry-thanxmas-edition/"
+    },
+    {
+     "text": "Game or Competition",
+     "url": "https://songbyrddc.com/event_listing_type/game-or-competition/"
+    },
+    {
+     "text": "Tue \n 01 \n Dec \n \n \n \n \n \n \n \n \n \n \n Tue \n 01 \n Dec \n \n \n \n ",
+     "url": "https://songbyrddc.com/event/jeff-the-brotherhood/"
+    },
+    {
+     "text": "Tickets",
+     "url": "https://link.dice.fm/u90d40988d1f"
+    },
+    {
+     "text": "Wed \n 02 \n Dec \n \n \n \n \n \n \n \n \n \n \n Wed \n 02 \n Dec \n \n \n \n ",
+     "url": "https://songbyrddc.com/event/tracey-nelson/"
+    },
+    {
+     "text": "Tickets",
+     "url": "https://link.dice.fm/s265553cebc7"
+    },
+    {
+     "text": "Thu \n 03 \n Dec \n \n \n \n \n \n \n \n \n \n \n Thu \n 03 \n Dec \n \n \n \n ",
+     "url": "https://songbyrddc.com/event/devon-gabriella/"
+    },
+    {
+     "text": "Tickets",
+     "url": "https://link.dice.fm/xa603576aedb"
+    },
+    {
+     "text": "View All Events",
+     "url": "https://songbyrddc.com/events"
+    }
+   ],
+   "platform": "wordpress [Divi Child v.4.10.7]",
+   "error": ""
+  },
+  {
+   "url": "https://songbyrddc.com/booking-events/",
+   "status": 200,
+   "final_url": "https://songbyrddc.com/booking-events/",
+   "title": "Booking Events | Songbyrd Music House",
+   "dates": 0,
+   "jsonld": 0,
+   "jsonld_samples": [],
+   "hints": [
+    "https://songbyrddc.com/feed/",
+    "https://songbyrddc.com/comments/feed/",
+    "https://songbyrddc.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fsongbyrddc.com%2Fbooking-events%2F",
+    "https://songbyrddc.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fsongbyrddc.com%2Fbooking-events%2F&format=xml",
+    "https://songbyrddc.com/wp-json/wp/v2/pages/881",
+    "https://songbyrddc.com/?feed=gigpress"
+   ],
+   "iframes": [],
+   "event_links": [
+    {
+     "text": "SHOWS",
+     "url": "https://songbyrddc.com/events/"
+    }
+   ],
+   "platform": "wordpress [Divi Child v.4.10.7]",
+   "error": ""
+  },
+  {
+   "url": "https://songbyrddc.com/event/dave-hause-the-mermaid/",
+   "status": 200,
+   "final_url": "https://songbyrddc.com/event/dave-hause-the-mermaid/",
+   "title": "DAVE HAUSE & THE MERMAID | Songbyrd Music House",
+   "dates": 2,
+   "jsonld": 1,
+   "jsonld_samples": [
+    {
+     "name": "DAVE HAUSE &#038; THE MERMAID",
+     "start": "2026-11-21 19:00:00",
+     "url": null
+    }
+   ],
+   "hints": [
+    "https://songbyrddc.com/feed/",
+    "https://songbyrddc.com/comments/feed/",
+    "https://songbyrddc.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fsongbyrddc.com%2Fevent%2Fdave-hause-the-mermaid%2F",
+    "https://songbyrddc.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fsongbyrddc.com%2Fevent%2Fdave-hause-the-mermaid%2F&format=xml",
+    "https://songbyrddc.com/wp-json/wp/v2/event_listing/8457",
+    "https://songbyrddc.com/?feed=gigpress"
+   ],
+   "iframes": [
+    "https://www.youtube.com/embed/8Pi7n2VAr1A?feature=oembed"
+   ],
+   "event_links": [
+    {
+     "text": "SHOWS",
+     "url": "https://songbyrddc.com/events/"
+    },
+    {
+     "text": "PRIVATE EVENTS",
+     "url": "https://songbyrddc.com/booking-events/"
+    },
+    {
+     "text": "Concerts",
+     "url": "https://songbyrddc.com/event_listing_type/concerts/"
+    }
+   ],
+   "platform": "wordpress [Divi Child v.4.10.7]",
+   "error": ""
+  },
+  {
+   "url": "https://songbyrddc.com/event_listing_type/concerts/",
+   "status": 200,
+   "final_url": "https://songbyrddc.com/event_listing_type/concerts/",
+   "title": "Concerts | Songbyrd Music House",
+   "dates": 21,
+   "jsonld": 0,
+   "jsonld_samples": [],
+   "hints": [
+    "https://songbyrddc.com/feed/",
+    "https://songbyrddc.com/comments/feed/",
+    "https://songbyrddc.com/event_listing_type/concerts/feed/",
+    "https://songbyrddc.com/wp-json/wp/v2/event_listing_type/46",
+    "https://songbyrddc.com/?feed=gigpress"
+   ],
+   "iframes": [],
+   "event_links": [
+    {
+     "text": "SHOWS",
+     "url": "https://songbyrddc.com/events/"
+    },
+    {
+     "text": "PRIVATE EVENTS",
+     "url": "https://songbyrddc.com/booking-events/"
+    },
+    {
+     "text": "Fri \n 11 \n Dec \n \n \n \n \n \n \n \n \n \n \n Fri \n 11 \n Dec \n \n \n \n ",
+     "url": "https://songbyrddc.com/event/weezel-ween-tribute-band/"
+    },
+    {
+     "text": "Tickets",
+     "url": "https://link.dice.fm/s0bf87290449"
+    },
+    {
+     "text": "Sun \n 24 \n Jan \n \n \n \n \n \n \n \n \n \n \n Sun \n 24 \n Jan \n \n \n \n ",
+     "url": "https://songbyrddc.com/event/mad-skillz/"
+    },
+    {
+     "text": "Tickets",
+     "url": "https://link.dice.fm/h3a1a036325c"
+    },
+    {
+     "text": "Thu \n 13 \n May \n \n \n \n \n \n \n \n \n \n \n Thu \n 13 \n May \n \n \n \n ",
+     "url": "https://songbyrddc.com/event/ron-gallo-heavy-meta-x-tour/"
+    },
+    {
+     "text": "Tickets",
+     "url": "https://link.dice.fm/W80e374b4b11"
+    },
+    {
+     "text": "Sat \n 20 \n Mar \n \n \n \n \n \n \n \n \n \n \n Sat \n 20 \n Mar \n \n \n \n ",
+     "url": "https://songbyrddc.com/event/love-letter/"
+    },
+    {
+     "text": "Tickets",
+     "url": "https://link.dice.fm/kf695447a45d"
+    },
+    {
+     "text": "Sat \n 19 \n Dec \n \n \n \n \n \n \n \n \n \n \n Sat \n 19 \n Dec \n \n \n \n ",
+     "url": "https://songbyrddc.com/event/she-says/"
+    },
+    {
+     "text": "Tickets",
+     "url": "https://link.dice.fm/Ne2bec0de082"
+    },
+    {
+     "text": "3",
+     "url": "https://songbyrddc.com/event_listing_type/concerts/page/3/"
+    },
+    {
+     "text": "4",
+     "url": "https://songbyrddc.com/event_listing_type/concerts/page/4/"
+    },
+    {
+     "text": "234",
+     "url": "https://songbyrddc.com/event_listing_type/concerts/page/234/"
+    },
+    {
+     "text": "235",
+     "url": "https://songbyrddc.com/event_listing_type/concerts/page/235/"
+    },
+    {
+     "text": "236",
+     "url": "https://songbyrddc.com/event_listing_type/concerts/page/236/"
+    }
+   ],
+   "platform": "wordpress [Divi Child v.4.10.7]",
+   "error": ""
+  },
+  {
+   "url": "https://songbyrddc.com/event/james-ivy-2/",
+   "status": 200,
+   "final_url": "https://songbyrddc.com/event/james-ivy-2/",
+   "title": "JAMES IVY | Songbyrd Music House",
+   "dates": 2,
+   "jsonld": 1,
+   "jsonld_samples": [
+    {
+     "name": "JAMES IVY",
+     "start": "2026-11-22 19:00:00",
+     "url": null
+    }
+   ],
+   "hints": [
+    "https://songbyrddc.com/feed/",
+    "https://songbyrddc.com/comments/feed/",
+    "https://songbyrddc.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fsongbyrddc.com%2Fevent%2Fjames-ivy-2%2F",
+    "https://songbyrddc.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fsongbyrddc.com%2Fevent%2Fjames-ivy-2%2F&format=xml",
+    "https://songbyrddc.com/wp-json/wp/v2/event_listing/8715",
+    "https://songbyrddc.com/?feed=gigpress"
+   ],
+   "iframes": [
+    "https://www.youtube.com/embed/Zovko_7yOp8?feature=oembed"
+   ],
+   "event_links": [
+    {
+     "text": "SHOWS",
+     "url": "https://songbyrddc.com/events/"
+    },
+    {
+     "text": "PRIVATE EVENTS",
+     "url": "https://songbyrddc.com/booking-events/"
+    },
+    {
+     "text": "Concerts",
+     "url": "https://songbyrddc.com/event_listing_type/concerts/"
+    }
+   ],
+   "platform": "wordpress [Divi Child v.4.10.7]",
+   "error": ""
+  }
+ ],
+ "best_page": "https://songbyrddc.com/events/"
+}

@@ -1,0 +1,331 @@
+{
+ "row": "23",
+ "name": "Stay Arlington Live DJ After Hours",
+ "seed_url": "https://www.stayarlington.com/events/live-dj-after-hours-21",
+ "programs": "Late-night programming",
+ "access": "",
+ "found": "2026-11-22 02:31Z",
+ "search_hits": [],
+ "search_error": "html.duckduckgo.com 0 hits (202, 15180b); www.bing.com 0 hits (200, 119897b); lite.duckduckgo.com 0 hits (202, 15180b)",
+ "probes": [
+  {
+   "url": "https://www.stayarlington.com/wp-json/tribe/events/v1/events?per_page=10",
+   "status": "HTTPError",
+   "events": 0
+  },
+  {
+   "url": "https://www.stayarlington.com/events/?ical=1",
+   "status": 200,
+   "events": 0,
+   "head": "<!DOCTYPE html>\n<html lang=\"en-US\" class=\"no-js headerIsOverlapping\">\n<head>\n                                \n    <meta charset=\"utf-8\" />\n    <meta http-equiv=\"x-ua-compatible\" content=\"ie=edge\" />\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\" />\n    <meta name=\"mobile-w"
+  },
+  {
+   "url": "https://www.stayarlington.com/?ical=1",
+   "status": 200,
+   "events": 0,
+   "head": "<!DOCTYPE html>\n<html lang=\"en-US\" class=\"no-js headerIsOverlapping\">\n<head>\n                                \n    <meta charset=\"utf-8\" />\n    <meta http-equiv=\"x-ua-compatible\" content=\"ie=edge\" />\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\" />\n    <meta name=\"mobile-w"
+  }
+ ],
+ "pages": [
+  {
+   "url": "https://www.stayarlington.com/events/live-dj-after-hours-21",
+   "status": null,
+   "final_url": "",
+   "title": "",
+   "dates": 0,
+   "jsonld": 0,
+   "jsonld_samples": [],
+   "hints": [],
+   "iframes": [],
+   "event_links": [],
+   "platform": "",
+   "error": "HTTPError: HTTP Error 404: "
+  },
+  {
+   "url": "https://www.stayarlington.com/",
+   "status": 200,
+   "final_url": "https://www.stayarlington.com/",
+   "title": "Arlington, Virginia Official Travel Guide | Stay Arlington",
+   "dates": 3,
+   "jsonld": 0,
+   "jsonld_samples": [],
+   "hints": [],
+   "iframes": [
+    "https://www.youtube.com/embed/zpOUHU_xT6Y"
+   ],
+   "event_links": [
+    {
+     "text": "Events",
+     "url": "https://www.stayarlington.com/events/"
+    },
+    {
+     "text": "Annual Events",
+     "url": "https://www.stayarlington.com/events/annual-events/"
+    },
+    {
+     "text": "Submit Your Event",
+     "url": "https://www.stayarlington.com/events/submit-your-event/"
+    },
+    {
+     "text": "Army Ten-Miler",
+     "url": "https://www.stayarlington.com/events/army-ten-miler/"
+    },
+    {
+     "text": "Special Event Venues",
+     "url": "https://www.stayarlington.com/meeting-groups/venues/"
+    },
+    {
+     "text": "",
+     "url": "https://www.stayarlington.com/events/wellness-wednesdays-the-innovation-studio-musical-sound-bath/"
+    },
+    {
+     "text": "Website",
+     "url": "https://mocaarlington.org/events/2026/01/wellness-wednesday-the-innovation-studio-musical-sound-bath"
+    },
+    {
+     "text": "",
+     "url": "https://www.stayarlington.com/events/young-explorers-moca-arlingtons-innovation-studio-store/"
+    },
+    {
+     "text": "Website",
+     "url": "https://mocaarlington.org/events/2026/04/young-explorers-the-innovation-studio-store/"
+    },
+    {
+     "text": "",
+     "url": "https://www.stayarlington.com/events/sound-bath-in-the-tiffany-gallery/"
+    },
+    {
+     "text": "Website",
+     "url": "https://mocaarlington.org/events/2026/07/sound-bath-in-the-tiffany-gallery-2/"
+    }
+   ],
+   "platform": "",
+   "error": ""
+  },
+  {
+   "url": "https://www.stayarlington.com/events/",
+   "status": 200,
+   "final_url": "https://www.stayarlington.com/events/",
+   "title": "Arlington Events & Event Calendar | Arlington Convention & Visitors Service",
+   "dates": 0,
+   "jsonld": 0,
+   "jsonld_samples": [],
+   "hints": [],
+   "iframes": [],
+   "event_links": [
+    {
+     "text": "Annual Events",
+     "url": "https://www.stayarlington.com/events/annual-events/"
+    },
+    {
+     "text": "Submit Your Event",
+     "url": "https://www.stayarlington.com/events/submit-your-event/"
+    },
+    {
+     "text": "Army Ten-Miler",
+     "url": "https://www.stayarlington.com/events/army-ten-miler/"
+    },
+    {
+     "text": "Special Event Venues",
+     "url": "https://www.stayarlington.com/meeting-groups/venues/"
+    },
+    {
+     "text": "Columbia Pike Blues Festival",
+     "url": "https://www.stayarlington.com/events/annual-events/columbia-pike-blues-festival/"
+    },
+    {
+     "text": "Rosslyn Jazz Fest",
+     "url": "https://www.stayarlington.com/events/annual-events/rosslyn-jazz-fest/"
+    },
+    {
+     "text": "National Cherry Blossom Festival",
+     "url": "https://www.stayarlington.com/events/annual-events/national-cherry-blossom-festival/"
+    },
+    {
+     "text": "Armed Forces Cycling Classic",
+     "url": "https://www.stayarlington.com/events/annual-events/armed-forces-cycling-classic/"
+    },
+    {
+     "text": "Marine Corps Marathon",
+     "url": "https://www.stayarlington.com/events/annual-events/marine-corps-marathon/"
+    },
+    {
+     "text": "Rolling to Remember",
+     "url": "https://www.stayarlington.com/events/annual-events/rolling-to-remember/"
+    },
+    {
+     "text": "calendar",
+     "url": "https://www.arlingtonva.us/Government/Departments/Parks-Recreation"
+    },
+    {
+     "text": "Memorial Day",
+     "url": "https://www.stayarlington.com/events/annual-events/memorial-day/"
+    },
+    {
+     "text": "Veterans Day",
+     "url": "https://www.stayarlington.com/events/annual-events/veterans-day/"
+    }
+   ],
+   "platform": "",
+   "error": ""
+  },
+  {
+   "url": "https://www.stayarlington.com/events/annual-events/",
+   "status": 200,
+   "final_url": "https://www.stayarlington.com/events/annual-events/",
+   "title": "Annual Events | Arlington Convention & Visitors Service",
+   "dates": 2,
+   "jsonld": 0,
+   "jsonld_samples": [],
+   "hints": [],
+   "iframes": [],
+   "event_links": [
+    {
+     "text": "Events",
+     "url": "https://www.stayarlington.com/events/"
+    },
+    {
+     "text": "Submit Your Event",
+     "url": "https://www.stayarlington.com/events/submit-your-event/"
+    },
+    {
+     "text": "Army Ten-Miler",
+     "url": "https://www.stayarlington.com/events/army-ten-miler/"
+    },
+    {
+     "text": "Special Event Venues",
+     "url": "https://www.stayarlington.com/meeting-groups/venues/"
+    },
+    {
+     "text": "National Cherry Blossom Festival",
+     "url": "https://www.stayarlington.com/events/annual-events/national-cherry-blossom-festival/"
+    },
+    {
+     "text": "Pride Month Celebrations",
+     "url": "https://www.stayarlington.com/events/annual-events/pride-month/"
+    },
+    {
+     "text": "Armed Forces Cycling Classic",
+     "url": "https://www.stayarlington.com/events/annual-events/armed-forces-cycling-classic/"
+    },
+    {
+     "text": "Rolling to Remember",
+     "url": "https://www.stayarlington.com/events/annual-events/rolling-to-remember/"
+    },
+    {
+     "text": "Memorial Day",
+     "url": "https://www.stayarlington.com/events/annual-events/memorial-day/"
+    },
+    {
+     "text": "Columbia Pike Blues Festival",
+     "url": "https://www.stayarlington.com/events/annual-events/columbia-pike-blues-festival/"
+    },
+    {
+     "text": "4th of July",
+     "url": "https://www.stayarlington.com/events/annual-events/independence-day/"
+    },
+    {
+     "text": "Arlington County Fair",
+     "url": "https://www.stayarlington.com/events/annual-events/arlington-county-fair/"
+    },
+    {
+     "text": "Rosslyn Jazz Fest",
+     "url": "https://www.stayarlington.com/events/annual-events/rosslyn-jazz-fest/"
+    },
+    {
+     "text": "Marine Corps Marathon",
+     "url": "https://www.stayarlington.com/events/annual-events/marine-corps-marathon/"
+    },
+    {
+     "text": "Veterans Day",
+     "url": "https://www.stayarlington.com/events/annual-events/veterans-day/"
+    },
+    {
+     "text": "Clarendon Day: Food, Music and Fun at Clarendon's Annual Str",
+     "url": "https://www.stayarlington.com/events/annual-events/clarendon-day-food-music-and-fun-at-clarendons-annual-street-fair/"
+    }
+   ],
+   "platform": "",
+   "error": ""
+  },
+  {
+   "url": "https://www.stayarlington.com/events/submit-your-event/",
+   "status": 200,
+   "final_url": "https://www.stayarlington.com/events/submit-your-event/",
+   "title": "Submit Your Arlington Event | Arlington Convention & Visitors Service",
+   "dates": 0,
+   "jsonld": 0,
+   "jsonld_samples": [],
+   "hints": [],
+   "iframes": [],
+   "event_links": [
+    {
+     "text": "Events",
+     "url": "https://www.stayarlington.com/events/"
+    },
+    {
+     "text": "Annual Events",
+     "url": "https://www.stayarlington.com/events/annual-events/"
+    },
+    {
+     "text": "Army Ten-Miler",
+     "url": "https://www.stayarlington.com/events/army-ten-miler/"
+    },
+    {
+     "text": "Special Event Venues",
+     "url": "https://www.stayarlington.com/meeting-groups/venues/"
+    },
+    {
+     "text": "Virginia",
+     "url": "https://www.virginia.org/events/"
+    },
+    {
+     "text": "Your Guide to Arlington\u2019s Summer Events \n From concerts and ",
+     "url": "https://www.stayarlington.com/blog/arlington-festivals-bring-summertime-sights-sounds-outdoors/"
+    },
+    {
+     "text": "Why Meeting Planners Chose Arlington for their Events \n We a",
+     "url": "https://www.stayarlington.com/blog/why-meeting-planners-chose-arlington-for-their-events/"
+    }
+   ],
+   "platform": "",
+   "error": ""
+  },
+  {
+   "url": "https://www.stayarlington.com/events/army-ten-miler/",
+   "status": 200,
+   "final_url": "https://www.stayarlington.com/events/army-ten-miler/",
+   "title": "Army Ten-Miler | 2026 Race Dates & Course Info | Arlington Convention & Visitors Service",
+   "dates": 4,
+   "jsonld": 0,
+   "jsonld_samples": [],
+   "hints": [],
+   "iframes": [],
+   "event_links": [
+    {
+     "text": "Events",
+     "url": "https://www.stayarlington.com/events/"
+    },
+    {
+     "text": "Annual Events",
+     "url": "https://www.stayarlington.com/events/annual-events/"
+    },
+    {
+     "text": "Submit Your Event",
+     "url": "https://www.stayarlington.com/events/submit-your-event/"
+    },
+    {
+     "text": "Special Event Venues",
+     "url": "https://www.stayarlington.com/meeting-groups/venues/"
+    },
+    {
+     "text": "View Official Event Website",
+     "url": "https://www.armytenmiler.com/"
+    }
+   ],
+   "platform": "",
+   "error": ""
+  }
+ ],
+ "best_page": "https://www.stayarlington.com/events/army-ten-miler/"
+}

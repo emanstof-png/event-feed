@@ -1,0 +1,326 @@
+{
+ "row": "19",
+ "name": "Joonbug Clarendon",
+ "seed_url": "https://joonbug.com/clarendon-va/upcoming-events/mister-days-nye-2026-party",
+ "programs": "Late-night programming",
+ "access": "",
+ "found": "2026-11-22 02:30Z",
+ "search_hits": [],
+ "search_error": "html.duckduckgo.com 0 hits (202, 15164b); www.bing.com 0 hits (200, 131743b); lite.duckduckgo.com 0 hits (202, 15164b)",
+ "probes": [
+  {
+   "url": "https://joonbug.com/wp-json/tribe/events/v1/events?per_page=10",
+   "status": "HTTPError",
+   "events": 0
+  },
+  {
+   "url": "https://joonbug.com/events/?ical=1",
+   "status": 200,
+   "events": 0,
+   "head": "<!DOCTYPE html><html lang=\"en\" class=\"__variable_733e83\"><head><meta charSet=\"utf-8\"/><meta name=\"viewport\" content=\"width=device-width, initial-scale=1\"/><link rel=\"preload\" href=\"/_next/static/media/155cae559bbd1a77-s.p.woff2\" as=\"font\" crossorigin=\"\" type=\"font/woff2\"/><link rel=\"preload\" href=\"/"
+  },
+  {
+   "url": "https://joonbug.com/?ical=1",
+   "status": 200,
+   "events": 0,
+   "head": "<!DOCTYPE html><html lang=\"en\" class=\"__variable_733e83\"><head><meta charSet=\"utf-8\"/><meta name=\"viewport\" content=\"width=device-width, initial-scale=1\"/><link rel=\"preload\" href=\"/_next/static/media/155cae559bbd1a77-s.p.woff2\" as=\"font\" crossorigin=\"\" type=\"font/woff2\"/><link rel=\"preload\" href=\"/"
+  }
+ ],
+ "pages": [
+  {
+   "url": "https://joonbug.com/clarendon-va/upcoming-events/mister-days-nye-2026-party",
+   "status": 200,
+   "final_url": "https://joonbug.com/clarendon-va/upcoming-events/mister-days-nye-2026-party",
+   "title": "Mister Days Best Clarendon New Year's Party 2026 | Joonbug.com",
+   "dates": 2,
+   "jsonld": 1,
+   "jsonld_samples": [
+    {
+     "name": "Mister Days NYE 2026 Party Clarendon",
+     "start": "2026-01-01T02:00:00.000Z",
+     "url": "https://joonbug.com/clarendon-va/upcoming-events/mister-days-nye-2026-party"
+    }
+   ],
+   "hints": [],
+   "iframes": [],
+   "event_links": [
+    {
+     "text": "Events",
+     "url": "https://joonbug.com/clarendon-va/events"
+    },
+    {
+     "text": "Weekly Events",
+     "url": "https://joonbug.com/baltimore/events"
+    },
+    {
+     "text": "Weekly Events",
+     "url": "https://joonbug.com/boston/events"
+    },
+    {
+     "text": "Weekly Events",
+     "url": "https://joonbug.com/hoboken/events"
+    },
+    {
+     "text": "Weekly Events",
+     "url": "https://joonbug.com/losangeles/events"
+    },
+    {
+     "text": "Weekly Events",
+     "url": "https://joonbug.com/newyork/events"
+    },
+    {
+     "text": "Weekly Events",
+     "url": "https://joonbug.com/philadelphia/events"
+    },
+    {
+     "text": "Weekly Events",
+     "url": "https://joonbug.com/washington-dc/events"
+    },
+    {
+     "text": "Weekly Events",
+     "url": "https://joonbug.com/williamsburg-brooklyn/events"
+    }
+   ],
+   "platform": "eventbrite",
+   "error": ""
+  },
+  {
+   "url": "https://joonbug.com/",
+   "status": 200,
+   "final_url": "https://joonbug.com/",
+   "title": "Joonbug.com Nightlife Events, Parties, Holiday NYE, Halloween Parties, Bar Crawls and DJ Performances.",
+   "dates": 0,
+   "jsonld": 0,
+   "jsonld_samples": [],
+   "hints": [],
+   "iframes": [],
+   "event_links": [],
+   "platform": "",
+   "error": ""
+  },
+  {
+   "url": "https://joonbug.com/clarendon-va/events",
+   "status": 200,
+   "final_url": "https://joonbug.com/clarendon-va/events",
+   "title": "Clarendon VA Events - Parties, Shows & Nightlife Entertainment | Joonbug.com",
+   "dates": 0,
+   "jsonld": 1,
+   "jsonld_samples": [
+    {
+     "name": "Clarendon's Santa Stumble 12/12 Bar Crawl",
+     "start": "2026-12-12T20:00:00.000Z",
+     "url": "https://joonbug.com/clarendon-va/upcoming-events/clarendon-s-santa-stumble-12-12-bar-crawl"
+    }
+   ],
+   "hints": [],
+   "iframes": [],
+   "event_links": [
+    {
+     "text": "Events",
+     "url": "https://joonbug.com/clarendon-va/events"
+    },
+    {
+     "text": "Weekly Events",
+     "url": "https://joonbug.com/baltimore/events"
+    },
+    {
+     "text": "Weekly Events",
+     "url": "https://joonbug.com/boston/events"
+    },
+    {
+     "text": "Weekly Events",
+     "url": "https://joonbug.com/hoboken/events"
+    },
+    {
+     "text": "Weekly Events",
+     "url": "https://joonbug.com/losangeles/events"
+    },
+    {
+     "text": "Weekly Events",
+     "url": "https://joonbug.com/newyork/events"
+    },
+    {
+     "text": "Weekly Events",
+     "url": "https://joonbug.com/philadelphia/events"
+    },
+    {
+     "text": "Weekly Events",
+     "url": "https://joonbug.com/washington-dc/events"
+    },
+    {
+     "text": "Weekly Events",
+     "url": "https://joonbug.com/williamsburg-brooklyn/events"
+    },
+    {
+     "text": "Dec 12 Sat Clarendon's Santa Stumble 12/12 Bar Crawl Clarend",
+     "url": "https://joonbug.com/clarendon-va/upcoming-events/clarendon-s-santa-stumble-12-12-bar-crawl"
+    }
+   ],
+   "platform": "eventbrite",
+   "error": ""
+  },
+  {
+   "url": "https://joonbug.com/baltimore/events",
+   "status": 200,
+   "final_url": "https://joonbug.com/baltimore/events",
+   "title": "Baltimore Day and NIghtlife - Best Events & Tickets | Joonbug.com",
+   "dates": 0,
+   "jsonld": 4,
+   "jsonld_samples": [
+    {
+     "name": "El Bufalo NYE 27",
+     "start": "2027-01-01T02:00:00.000Z",
+     "url": "https://joonbug.com/baltimore/newyearseve/el-bufalo-nye-27"
+    },
+    {
+     "name": "Countdown in Canton NYE27",
+     "start": "2026-12-31T21:00:00.000-05:00",
+     "url": "https://joonbug.com/baltimore/newyearseve/baltimore-canton-new-years-eve-block-party"
+    },
+    {
+     "name": "The Worthington and Cowboy 12/12 Bad Santa Day Party",
+     "start": "2026-12-12T17:00:00.000Z",
+     "url": "https://joonbug.com/baltimore/bad-santa/the-worthington-12-12-bad-santa-day-party"
+    },
+    {
+     "name": "El Bufalo & Raw and Refined 12/12 Good Santa Day Party",
+     "start": "2026-12-12T17:00:00.000Z",
+     "url": "https://joonbug.com/baltimore/bad-santa/el-bufalo-12-12-good-santa-day-party"
+    }
+   ],
+   "hints": [],
+   "iframes": [],
+   "event_links": [
+    {
+     "text": "Events",
+     "url": "https://joonbug.com/baltimore/events"
+    },
+    {
+     "text": "Weekly Events",
+     "url": "https://joonbug.com/boston/events"
+    },
+    {
+     "text": "Weekly Events",
+     "url": "https://joonbug.com/hoboken/events"
+    },
+    {
+     "text": "Weekly Events",
+     "url": "https://joonbug.com/losangeles/events"
+    },
+    {
+     "text": "Weekly Events",
+     "url": "https://joonbug.com/newyork/events"
+    },
+    {
+     "text": "Weekly Events",
+     "url": "https://joonbug.com/philadelphia/events"
+    },
+    {
+     "text": "Weekly Events",
+     "url": "https://joonbug.com/washington-dc/events"
+    },
+    {
+     "text": "Weekly Events",
+     "url": "https://joonbug.com/williamsburg-brooklyn/events"
+    }
+   ],
+   "platform": "eventbrite",
+   "error": ""
+  },
+  {
+   "url": "https://joonbug.com/boston/events",
+   "status": 200,
+   "final_url": "https://joonbug.com/boston/events",
+   "title": "Boston Day Nightlife - Best Events, Venues, Holiday Parties & Tickets | Joonbug.com",
+   "dates": 0,
+   "jsonld": 0,
+   "jsonld_samples": [],
+   "hints": [],
+   "iframes": [],
+   "event_links": [
+    {
+     "text": "Events",
+     "url": "https://joonbug.com/boston/events"
+    },
+    {
+     "text": "Weekly Events",
+     "url": "https://joonbug.com/baltimore/events"
+    },
+    {
+     "text": "Weekly Events",
+     "url": "https://joonbug.com/hoboken/events"
+    },
+    {
+     "text": "Weekly Events",
+     "url": "https://joonbug.com/losangeles/events"
+    },
+    {
+     "text": "Weekly Events",
+     "url": "https://joonbug.com/newyork/events"
+    },
+    {
+     "text": "Weekly Events",
+     "url": "https://joonbug.com/philadelphia/events"
+    },
+    {
+     "text": "Weekly Events",
+     "url": "https://joonbug.com/washington-dc/events"
+    },
+    {
+     "text": "Weekly Events",
+     "url": "https://joonbug.com/williamsburg-brooklyn/events"
+    }
+   ],
+   "platform": "",
+   "error": ""
+  },
+  {
+   "url": "https://joonbug.com/hoboken/events",
+   "status": 200,
+   "final_url": "https://joonbug.com/hoboken/events",
+   "title": "Hoboken Day and Nightlife - Best Events, Venues & Tickets | Joonbug.com",
+   "dates": 0,
+   "jsonld": 0,
+   "jsonld_samples": [],
+   "hints": [],
+   "iframes": [],
+   "event_links": [
+    {
+     "text": "Events",
+     "url": "https://joonbug.com/hoboken/events"
+    },
+    {
+     "text": "Weekly Events",
+     "url": "https://joonbug.com/baltimore/events"
+    },
+    {
+     "text": "Weekly Events",
+     "url": "https://joonbug.com/boston/events"
+    },
+    {
+     "text": "Weekly Events",
+     "url": "https://joonbug.com/losangeles/events"
+    },
+    {
+     "text": "Weekly Events",
+     "url": "https://joonbug.com/newyork/events"
+    },
+    {
+     "text": "Weekly Events",
+     "url": "https://joonbug.com/philadelphia/events"
+    },
+    {
+     "text": "Weekly Events",
+     "url": "https://joonbug.com/washington-dc/events"
+    },
+    {
+     "text": "Weekly Events",
+     "url": "https://joonbug.com/williamsburg-brooklyn/events"
+    }
+   ],
+   "platform": "",
+   "error": ""
+  }
+ ],
+ "best_page": "https://joonbug.com/baltimore/events"
+}
