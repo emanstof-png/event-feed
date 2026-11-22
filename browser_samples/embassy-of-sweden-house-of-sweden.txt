@@ -1,6 +1,6 @@
 Embassy of Sweden / House of Sweden
 https://www.swedenabroad.se/en/embassies/usa-washington/
-rendered 2026-11-15 00:36Z  status=200 chars=26579 iframes=0 srcdoc=0 next=False error=
+rendered 2026-11-22 00:23Z  status=200 chars=26585 iframes=2 srcdoc=0 next=False error=
 
 
 
@@ -694,7 +694,7 @@ English
 
 Local time
 
-7:36 PM
+7:23 PM
 
 Embassies
 
@@ -889,8 +889,9 @@ Email:
 
 anchorage@consulateofsweden.org
 
-                                        2925 Debarr Road, suite 215
+                                        1200 Airport Heights Drive, suite 280
 Anchorage, AK 99508
+USA
 District: Alaska.
 
                                         Visits by appointment only.
@@ -1134,7 +1135,6 @@ Belarus, Minsk
 Belgium, Brussels
 Belize, Stockholm
 Benin, Stockholm
-Bolivia, La Paz
 Bosnia and Herzegovina, Sarajevo
 Brasil, Brasília
 Brussels, NATO
@@ -1256,3 +1256,6 @@ Zambia, Lusaka
 
 See a list of all embassies here
 
+----
+
+ns

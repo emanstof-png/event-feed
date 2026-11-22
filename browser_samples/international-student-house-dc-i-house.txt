@@ -1,6 +1,6 @@
 International Student House DC (I-House)
 https://ihousedc.org/events/
-rendered 2026-11-15 00:33Z  status=200 chars=4831 iframes=1 srcdoc=0 next=False error=
+rendered 2026-11-22 00:21Z  status=200 chars=4881 iframes=1 srcdoc=0 next=False error=
 
 
 
@@ -80,6 +80,8 @@ Venue Rentals
 
 Public Events
 
+2026 International Expo
+
 2026 Global Leadership Awards Gala
 
 Support Us
@@ -117,6 +119,8 @@ Events
 Venue Rentals
 
 Public Events
+
+2026 International Expo
 
 2026 Global Leadership Awards Gala
 

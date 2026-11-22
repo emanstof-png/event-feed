@@ -1,6 +1,6 @@
 National Museum of Women in the Arts
 https://secure.nmwa.org/events
-rendered 2026-11-15 00:35Z  status=200 chars=4868 iframes=1 srcdoc=0 next=False error=
+rendered 2026-11-22 00:21Z  status=200 chars=4237 iframes=1 srcdoc=0 next=False error=
 
 
 
@@ -70,7 +70,7 @@ Month
 
 Select Day
 
-November 14, 2026
+November 21, 2026
 
 Previous day
 
@@ -80,7 +80,7 @@ Next day
 
 Select Week
 
-Nov 8 – 14, 2026
+Nov 15 – 21, 2026
 
 Previous week
 
@@ -168,29 +168,9 @@ Friday 13 November 2026
 
 Saturday 14 November 2026
 
-Firsthand Experience
-
-, 
-11:00AM
-
-, 
-On Sale Soon
-
-Tour: NMWA en Français
-
-, 
-12:00PM
-
-, 
-On Sale Soon
-
           15
 
 Sunday 15 November 2026
-
-Daily Admission
-
-, 
 
           16
 
@@ -200,38 +180,17 @@ Monday 16 November 2026
 
 Tuesday 17 November 2026
 
-Daily Admission
-
-, 
-
           18
 
 Wednesday 18 November 2026
-
-Daily Admission
-
-, 
-
-November NMWA Nights
-
-, 
-5:30PM
 
           19
 
 Thursday 19 November 2026
 
-Daily Admission
-
-, 
-
           20
 
 Friday 20 November 2026
-
-Daily Admission
-
-, 
 
           21
 
@@ -243,11 +202,7 @@ Member Tour: Routed West
 11:00AM
 
 , 
-Sold Out
-
-Daily Admission
-
-, 
+On Sale Soon
 
           22
 
@@ -351,59 +306,6 @@ Daily Admission
 
 November 2026
 
-November 14, 2026
-
-Firsthand Experience
-
-, 
-11:00AM
-
-, 
-On Sale Soon
-
-Tour: NMWA en Français
-
-, 
-12:00PM
-
-, 
-On Sale Soon
-
-November 15, 2026
-
-Daily Admission
-
-, 
-
-November 17, 2026
-
-Daily Admission
-
-, 
-
-November 18, 2026
-
-Daily Admission
-
-, 
-
-November NMWA Nights
-
-, 
-5:30PM
-
-November 19, 2026
-
-Daily Admission
-
-, 
-
-November 20, 2026
-
-Daily Admission
-
-, 
-
 November 21, 2026
 
 Member Tour: Routed West
@@ -412,11 +314,7 @@ Member Tour: Routed West
 11:00AM
 
 , 
-Sold Out
-
-Daily Admission
-
-, 
+On Sale Soon
 
 November 22, 2026
 
@@ -464,17 +362,17 @@ List View
 
 Select start date
 
-November 14, 2026
+November 21, 2026
 
                     to
 
 Select end date
 
-May 14, 2027
+May 21, 2027
 
                     Reset Date Range
 
-Nov 14, 2026 – May 14, 2027
+Nov 21, 2026 – May 21, 2027
 
 Footer
 

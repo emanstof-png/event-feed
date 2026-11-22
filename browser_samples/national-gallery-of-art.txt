@@ -1,6 +1,6 @@
 National Gallery of Art
 https://www.nga.gov/calendar
-rendered 2026-11-15 00:34Z  status=200 chars=15736 iframes=3 srcdoc=0 next=True error=
+rendered 2026-11-22 00:22Z  status=200 chars=14986 iframes=3 srcdoc=0 next=True error=
 
 
 
@@ -420,32 +420,12 @@ Upcoming Events
 
 Results
 
-Talks & Conversations
+Playtime 
 
-Talks & Conversations: 
-
-Finding Awe: Guadalupe Maravilla’s Retablos
-
-Friday, Nov 13, 2026 | 2:00 p.m.
+Saturday, Nov 21, 2026 | 10:00 a.m.
 
  – 
-3:30 p.m.
-
-Registration Required
-
-Talks & Conversations
-
-Talks & Conversations: 
-
-Book Talk: 
-Vital Signs: The Visual Culture of Maya Writing
-
-Friday, Nov 13, 2026 | 3:00 p.m.
-
- – 
-4:30 p.m.
-
-Registration Required
+1:00 p.m.
 
 Hands-On Activities
 
@@ -453,7 +433,7 @@ Hands-On Activities: 
 
 Open Studio  
 
-Saturday, Nov 14, 2026 | 10:00 a.m.
+Saturday, Nov 21, 2026 | 10:00 a.m.
 
  – 
 5:00 p.m.
@@ -462,14 +442,21 @@ Films
 
 Films: 
 
-Pan Tadeusz: The Last Foray in Lithuania
+The Wedding
 
-Saturday, Nov 14, 2026 | 2:00 p.m.
+Saturday, Nov 21, 2026 | 2:00 p.m.
 
  – 
-4:15 p.m.
+3:45 p.m.
 
 Registration Required
+
+Playtime 
+
+Sunday, Nov 22, 2026 | 10:00 a.m.
+
+ – 
+1:00 p.m.
 
 Hands-On Activities
 
@@ -477,21 +464,21 @@ Hands-On Activities: 
 
 Open Studio  
 
-Sunday, Nov 15, 2026 | 10:00 a.m.
+Sunday, Nov 22, 2026 | 10:00 a.m.
 
  – 
 5:00 p.m.
 
-Talks & Conversations
+Films
 
-Talks & Conversations: 
+Films: 
 
-Finding Awe: Guadalupe Maravilla’s Retablos
+The Shadow Line
 
-Sunday, Nov 15, 2026 | 11:00 a.m.
+Sunday, Nov 22, 2026 | 2:00 p.m.
 
  – 
-12:30 p.m.
+3:45 p.m.
 
 Registration Required
 
@@ -566,7 +553,7 @@ Guided Tours: 
 
 The Collection, Up Close
 
-Friday, Nov 13, 2026 | 11:00 a.m.
+Saturday, Nov 21, 2026 | 11:00 a.m.
 
  – 
 12:00 p.m.
@@ -575,9 +562,20 @@ Guided Tours
 
 Guided Tours: 
 
+西館のハイライト：初期イタリアから近代初期美術へ 
+
+Saturday, Nov 21, 2026 | 11:30 a.m.
+
+ – 
+12:30 p.m.
+
+Guided Tours
+
+Guided Tours: 
+
 Italian Renaissance
 
-Friday, Nov 13, 2026 | 12:00 p.m.
+Saturday, Nov 21, 2026 | 12:00 p.m.
 
  – 
 1:00 p.m.
@@ -588,7 +586,7 @@ Guided Tours: 
 
 Glimpses of Life in 17th Century Dutch Art
 
-Friday, Nov 13, 2026 | 1:00 p.m.
+Saturday, Nov 21, 2026 | 1:00 p.m.
 
  – 
 2:00 p.m.
@@ -597,35 +595,23 @@ Guided Tours
 
 Guided Tours: 
 
-Exhibition Tour—
-Back and Forth: Rozeal., Titian, Cezanne
+東館のハイライト：1900年から現在まで
 
-Friday, Nov 13, 2026 | 2:00 p.m.
+Saturday, Nov 21, 2026 | 1:30 p.m.
 
  – 
-2:45 p.m.
+2:30 p.m.
 
 Guided Tours
 
 Guided Tours: 
 
-Understanding Modern and Contemporary Art
+French Sculpture
 
-Friday, Nov 13, 2026 | 2:00 p.m.
+Saturday, Nov 21, 2026 | 2:00 p.m.
 
  – 
 3:00 p.m.
-
-Guided Tours
-
-Guided Tours: 
-
-Impressionism and 19th-Century France  
-
-Friday, Nov 13, 2026 | 3:00 p.m.
-
- – 
-4:00 p.m.
 
 1 of 6
 
@@ -662,7 +648,7 @@ Event Series
 4
 …
 Last page
-78
+72
 Next page
 
 Calendar
@@ -1326,32 +1312,12 @@ Upcoming Events
 
 Results
 
-Talks & Conversations
+Playtime 
 
-Talks & Conversations: 
-
-Finding Awe: Guadalupe Maravilla’s Retablos
-
-Friday, Nov 13, 2026 | 2:00 p.m.
+Saturday, Nov 21, 2026 | 10:00 a.m.
 
  – 
-3:30 p.m.
-
-Registration Required
-
-Talks & Conversations
-
-Talks & Conversations: 
-
-Book Talk: 
-Vital Signs: The Visual Culture of Maya Writing
-
-Friday, Nov 13, 2026 | 3:00 p.m.
-
- – 
-4:30 p.m.
-
-Registration Required
+1:00 p.m.
 
 Hands-On Activities
 
@@ -1359,7 +1325,7 @@ Hands-On Activities: 
 
 Open Studio  
 
-Saturday, Nov 14, 2026 | 10:00 a.m.
+Saturday, Nov 21, 2026 | 10:00 a.m.
 
  – 
 5:00 p.m.
@@ -1368,14 +1334,21 @@ Films
 
 Films: 
 
-Pan Tadeusz: The Last Foray in Lithuania
+The Wedding
 
-Saturday, Nov 14, 2026 | 2:00 p.m.
+Saturday, Nov 21, 2026 | 2:00 p.m.
 
  – 
-4:15 p.m.
+3:45 p.m.
 
 Registration Required
+
+Playtime 
+
+Sunday, Nov 22, 2026 | 10:00 a.m.
+
+ – 
+1:00 p.m.
 
 Hands-On Activities
 
@@ -1383,21 +1356,21 @@ Hands-On Activities: 
 
 Open Studio  
 
-Sunday, Nov 15, 2026 | 10:00 a.m.
+Sunday, Nov 22, 2026 | 10:00 a.m.
 
  – 
 5:00 p.m.
 
-Talks & Conversations
+Films
 
-Talks & Conversations: 
+Films: 
 
-Finding Awe: Guadalupe Maravilla’s Retablos
+The Shadow Line
 
-Sunday, Nov 15, 2026 | 11:00 a.m.
+Sunday, Nov 22, 2026 | 2:00 p.m.
 
  – 
-12:30 p.m.
+3:45 p.m.
 
 Registration Required
 
@@ -1472,7 +1445,7 @@ Guided Tours: 
 
 The Collection, Up Close
 
-Friday, Nov 13, 2026 | 11:00 a.m.
+Saturday, Nov 21, 2026 | 11:00 a.m.
 
  – 
 12:00 p.m.
@@ -1481,9 +1454,20 @@ Guided Tours
 
 Guided Tours: 
 
+西館のハイライト：初期イタリアから近代初期美術へ 
+
+Saturday, Nov 21, 2026 | 11:30 a.m.
+
+ – 
+12:30 p.m.
+
+Guided Tours
+
+Guided Tours: 
+
 Italian Renaissance
 
-Friday, Nov 13, 2026 | 12:00 p.m.
+Saturday, Nov 21, 2026 | 12:00 p.m.
 
  – 
 1:00 p.m.
@@ -1494,7 +1478,7 @@ Guided Tours: 
 
 Glimpses of Life in 17th Century Dutch Art
 
-Friday, Nov 13, 2026 | 1:00 p.m.
+Saturday, Nov 21, 2026 | 1:00 p.m.
 
  – 
 2:00 p.m.
@@ -1503,35 +1487,23 @@ Guided Tours
 
 Guided Tours: 
 
-Exhibition Tour—
-Back and Forth: Rozeal., Titian, Cezanne
+東館のハイライト：1900年から現在まで
 
-Friday, Nov 13, 2026 | 2:00 p.m.
+Saturday, Nov 21, 2026 | 1:30 p.m.
 
  – 
-2:45 p.m.
+2:30 p.m.
 
 Guided Tours
 
 Guided Tours: 
 
-Understanding Modern and Contemporary Art
+French Sculpture
 
-Friday, Nov 13, 2026 | 2:00 p.m.
+Saturday, Nov 21, 2026 | 2:00 p.m.
 
  – 
 3:00 p.m.
-
-Guided Tours
-
-Guided Tours: 
-
-Impressionism and 19th-Century France  
-
-Friday, Nov 13, 2026 | 3:00 p.m.
-
- – 
-4:00 p.m.
 
 1 of 6
 
@@ -1568,7 +1540,7 @@ Event Series
 4
 …
 Last page
-78
+72
 Next page
 
 Calendar

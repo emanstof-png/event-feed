@@ -1,6 +1,6 @@
 AJC Washington
 https://www.ajc.org/washington/events
-rendered 2026-11-15 00:36Z  status=404 chars=10784 iframes=1 srcdoc=0 next=False error=
+rendered 2026-11-22 00:23Z  status=404 chars=10770 iframes=1 srcdoc=0 next=False error=
 
 
 
@@ -272,11 +272,11 @@ Global Voice
 
 What Will Happen Because of What We Do?
 
+Decoding Israel’s Election Results - AJC Advocacy Anywhere
+
+After the 2026 Midterms: Examining the New Congressional Majorities
+
 We Need More Than Dialogue to Fight Antisemitism
-
-AJC Letter on UN Resolutions Condemning Human Rights Violations by Russia, Iran, and North Korea
-
-Opinion: Building Brave and Safe Classrooms
 
 More AJC News and Analysis
 

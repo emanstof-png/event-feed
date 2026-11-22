@@ -1,6 +1,6 @@
 Georgetown University Art Galleries
 https://events.georgetown.edu/art
-rendered 2026-11-15 00:34Z  status=200 chars=2386 iframes=1 srcdoc=0 next=False error=
+rendered 2026-11-22 00:23Z  status=200 chars=2386 iframes=1 srcdoc=0 next=False error=
 
 
 
@@ -59,7 +59,7 @@ Please note: The
                 content of the event or the views of its speakers. Descriptions of events listed are written by their
                 sponsor(s).
 
-November 14, 2026
+November 21, 2026
 
 Day
 
