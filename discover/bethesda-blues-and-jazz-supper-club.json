@@ -1,0 +1,8 @@
+{
+ "row": "7",
+ "name": "Bethesda Blues and Jazz Supper Club",
+ "page": "https://seed-unknown.invalid/",
+ "discovered": "2026-11-22 02:29Z",
+ "error": "Error: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://seed-unknown.invalid/\nCall log:\nnavigating to \"https://seed-unknown.invalid/\", waiting until \"domcontentloaded\"\n",
+ "candidates": []
+}

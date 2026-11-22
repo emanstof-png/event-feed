@@ -1,0 +1,36 @@
+row,name,page,candidates,replay_ok,seconds,error
+2,The Anthem (Wharf),https://seed-unknown.invalid/,0,0,1.1,"Error: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://seed-unknown.invalid/
+Call log:
+navigating to ""https://seed-unknown.invalid/"", waiting until ""domcontentloaded""
+"
+3,Twins Jazz,https://www.timeout.com/washington-dc/nightlife/twins-jazz,5,5,19.1,
+4,Flash,https://www.flashdc.com,1,1,10.6,
+5,Songbyrd,https://songbyrddc.com/events/,1,1,11.5,
+6,9:30 Club,https://seed-unknown.invalid/,0,0,1.0,"Error: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://seed-unknown.invalid/
+Call log:
+navigating to ""https://seed-unknown.invalid/"", waiting until ""domcontentloaded""
+"
+7,Bethesda Blues and Jazz Supper Club,https://seed-unknown.invalid/,0,0,1.0,"Error: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://seed-unknown.invalid/
+Call log:
+navigating to ""https://seed-unknown.invalid/"", waiting until ""domcontentloaded""
+"
+8,Blues Alley,https://bluesalley.com/visit,0,0,10.4,
+9,CapitalBop,https://www.capitalbop.com,3,3,12.2,
+10,"DC Improv (Lounge showroom, Sketch Night)",https://dcimprov.com/shows/lounge-showroom/showcase-0221,0,0,12.3,
+11,DC Tango Calendar (milongas),https://www.sites.google.com/site/dctangocalendar/future-events,0,0,10.5,
+12,DC9 Nightclub,https://www.songkick.com/venues/20843-dc9-nightclub/calendar,2,2,19.2,
+13,Dance Place After Dark,https://www.danceplace.org/performances/dance-place-after-dark-spookshow-spectacular/,0,0,11.9,
+14,Eastern Market Tango Club,https://www.danceus.org/event/15573433915840/eastern-market-tango-club-milonga-thursdays-washington-dc/,4,4,19.4,
+15,Eighteenth Street Lounge,https://www.18thstlounge.com/schedule,1,1,10.6,
+16,Freddie's Follies (drag show series),https://outxout.com/event/freddie-s-follies-drag-show-20261121,2,2,10.4,
+17,HariKaraoke live band karaoke,https://www.washington.org/event/live-band-karaoke-wednesdays-harikaraoke-band,4,4,11.0,
+18,Hill Country Barbecue Market karaoke,https://www.timeout.com/washington-dc/music-nightlife/hill-country-basement-bar,5,5,19.3,
+19,Joonbug Clarendon,https://joonbug.com/clarendon-va/upcoming-events/mister-days-nye-2026-party,2,2,18.8,
+20,Nat Geo Nights,https://washington.org/event/nat-geo-nights-museum-exploration,5,5,11.9,
+21,Nu Androids (A.I. Warehouse DC electronic nights),https://www.eventbrite.com/e/nu-androids-presents-mk-tickets-1969852359434,3,3,18.6,
+22,SAX (Washington DC),https://ma.to/venue/saxdc,0,0,10.1,
+23,Stay Arlington Live DJ After Hours,https://www.stayarlington.com/events/live-dj-after-hours-21,1,1,10.5,
+24,Sunday Love (promoter),https://shotgun.live/en/events/sundaylove2026-seasonpass,0,0,10.1,
+25,The Comedy Loft of DC (incl. The Cellar),https://www.dccomedyloft.com/shows/157577,0,0,10.6,
+26,The Fillmore Silver Spring,https://www.timeout.com/washington-dc/music-nightlife/fillmore,5,5,18.9,
+27,Washington Improv Theater (WIT),https://witdc.org/performances/dcs-improvised-late-night-show,0,0,10.8,

@@ -1,0 +1,28 @@
+{
+ "row": "5",
+ "name": "Songbyrd",
+ "page": "https://songbyrddc.com/events/",
+ "discovered": "2026-11-22 02:29Z",
+ "error": "",
+ "candidates": [
+  {
+   "url": "https://songbyrddc.com/em-ajax/get_listings/",
+   "method": "POST",
+   "headers": {
+    "accept": "*/*",
+    "content-type": "application/x-www-form-urlencoded; charset=UTF-8",
+    "origin": "https://songbyrddc.com",
+    "referer": "https://songbyrddc.com/events/",
+    "x-requested-with": "XMLHttpRequest"
+   },
+   "post_data": "lang=&search_keywords=&search_location=&search_datetimes%5B%5D=&search_categories%5B%5D=&search_event_types%5B%5D=&per_page=1000&orderby=event_start_date&order=ASC&page=1&event_online=&show_pagination=false&form_data=search_keywords%3D%26search_keywords%3D%26search_location%3D%26search_datetimes%255B%255D%3D%26search_categories%255B%255D%3D%26search_event_types%255B%255D%3D%26filter_by_genre%3D",
+   "status": 200,
+   "content_type": "application/json; charset=UTF-8",
+   "bytes": 525446,
+   "date_count": 255,
+   "body": "{\"found_events\":true,\"html\":\"\\n<div class=\\\"wpem-event-box-col wpem-col wpem-col-12 wpem-col-md-6 wpem-col-lg-4 ID-8457\\\">\\n    <!----- wpem-col-lg-4 value can be change by admin settings ------->\\n    <div class=\\\"wpem-event-layout-wrapper\\\">\\n        <pre style=\\\"display: none\\\">\\n        object(WP_Post)#9368 (24) {\\n  [\\\"ID\\\"]=>\\n  int(8457)\\n  [\\\"post_author\\\"]=>\\n  string(1) \\\"4\\\"\\n  [\\\"post_date\\\"]=>\\n  string(19) \\\"2026-05-06 15:19:17\\\"\\n  [\\\"post_date_gmt\\\"]=>\\n  string(19) \\\"2026-05-06 15:19:17\\\"\\n  [\\\"post_content\\\"]=>\\n  string(5005) \\\"<div class=\\\"\\\" data-block=\\\"true\\\" data-editor=\\\"1d9r1\\\" data-offset-key=\\\"fm2uq-0-0\\\">\\r\\n<div class=\\\"public-DraftStyleDefault-block public-DraftStyleDefault-ltr\\\" data-offset-key=\\\"fm2uq-0-0\\\"><span data-offset-key=\\\"fm2uq-0-0\\\">\\u201cAs far back as I can remember, I always wanted to be in a rock and roll band.\\u201d<\\/span><\\/div>\\r\\n<div data-offset-key=\\\"fm2uq-0-0\\\"><\\/div>\\r\\n<\\/div>\\r\\n<div class=\\\"\\\" data-block=\\\"true\\\" data-editor=\\\"1d9r1\\\" data-offset-key=\\\"d0imp-0-0\\\">\\r\\n<div class=\\\"public-DraftStyleDefault-block public-DraftStyleDefault-ltr\\\" data-offset-key=\\\"d0imp-0-0\\\"><span data-offset-key=\\\"d0imp-0-0\\\">Dave Hause had an epiphany rewatching Goodfellas. \\u201cThere's that scene in the beginning where Henry Hill says, \\u2018As far back as I can remember, I always wanted to be a gangster.\\u2019\\u201d The Philly-bred, California-based singer-songwriter always longed to be in a different kind of mob.<\\/span><\\/div>\\r\\n<div data-offset-key=\\\"d0imp-0-0\\\"><\\/div>\\r\\n<\\/div>\\r\\n<div class=\\\"\\\" data-block=\\\"true\\\" data-editor=\\\"1d9r1\\\" data-offset-key=\\\"e65ek-0-0\\\">\\r\\n<div class=\\\"public-DraftStyleDefault-block public-DraftStyleDefault-ltr\\\" data-offset-key=\\\"e65ek-0-0\\\"><span data-offset-key=\\\"e65ek-0-0\\\">\\u201cThis record is my realization that, as far back as I can remember, I always wanted to be in a rock and roll band. This record is that rock and roll band distilled into 10 songs.\\u201d<\\/span><\\/div>\\r\\n<div data-offset-key=\\\"e65ek-0-0\\\"><\\/div>\\r\\n<\\/div>\\r\\n<div class=\\\"\\\" data-block=\\\"true\\\" data-editor=\\\"1d9r1\\\" data-offset-key=\\\"b5kng-0-0\\\">\\r\\n<div class=\\\"public-DraftStyleDefault-block public-DraftStyleDefault-ltr\\\" data-offset-key=\\\"b5kng-0-0\\\"><span data-offset-key=\\\"b5kng-0-0\\\">This record is \\u2026And The Mermaid. And those 10 songs offer a welcome shock to the system, blending Hause\\u2019s signature lyrical elan and gift for surging melodies with his keening vocals and some deliciously sharp musical elbows courtesy of the titular group.<\\/span><\\/div>\\r\\n<div data-offset-key=\\\"b5kng-0-0\\\"><\\/div>\\r\\n<\\/div>\\r\\n<div class=\\\"\\\" data-block=\\\"true\\\" data-editor=\\\"1d9r1\\\" data-offset-key=\\\"dnns9-0-0\\\">\\r\\n<div class=\\\"public-DraftStyleDefault-block public-DraftStyleDefault-ltr\\\" data-offset-key=\\\"dnns9-0-0\\\"><span data-offset-key=\\\"dnns9-0-0\\\">\\u201cI had made a couple of records in a row in Nashville, and I was super happy with the outcomes,\\u201d says Hause of 2023\\u2019s Blood Harmony and 2021\\u2019s Drive it Like it\\u2019s Stolen, both produced by Will Hoge with top-flight session musicians. While they certainly had their muscular moments, those records were more in line with the Americana-tinged music Hause had been making as a solo artist. He ended up on several solo tours, as well as some duo outings with his brother and collaborator Tim, which necessitated stripping the songs back. \\u201cIt occurred to me how far I\\u2019ve come from my roots,\\u201d he says. \\u201cPunk rock just isn\\u2019t where my muse has been for the last couple albums.\\u201d<\\/span><\\/div>\\r\\n<div data-offset-key=\\\"dnns9-0-0\\\"><\\/div>\\r\\n<\\/div>\\r\\n<div class=\\\"\\\" data-block=\\\"true\\\" data-editor=\\\"1d9r1\\\" data-offset-key=\\\"cosrq-0-0\\\">\\r\\n<div class=\\\"public-DraftStyleDefault-block public-DraftStyleDefault-ltr\\\" data-offset-key=\\\"cosrq-0-0\\\"><span data-offset-key=\\\"cosrq-0-0\\\">But as he pumped electricity when playing those solo songs with his occasional band The Mermaid at his cele",
+   "replay_status": 200,
+   "replay_ok": true
+  }
+ ]
+}

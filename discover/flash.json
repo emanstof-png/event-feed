@@ -1,0 +1,25 @@
+{
+ "row": "4",
+ "name": "Flash",
+ "page": "https://www.flashdc.com",
+ "discovered": "2026-11-22 02:29Z",
+ "error": "",
+ "candidates": [
+  {
+   "url": "https://www.flashdc.com/_next/data/-lZrt1HA0N900OBgm04aM/index.json",
+   "method": "GET",
+   "headers": {
+    "accept": "*/*",
+    "referer": "https://www.flashdc.com/"
+   },
+   "post_data": null,
+   "status": 200,
+   "content_type": "application/json; charset=utf-8",
+   "bytes": 102089,
+   "date_count": 53,
+   "body": "{\"pageProps\":{\"events\":[{\"id\":\"eRfBfmAMDf\",\"start\":\"2026-11-21T22:00:00Z\",\"end\":null,\"name\":\"FOCUS: Ogaz\u00f3n - Verraco\",\"html_description\":\"<p>Saturday, November 21, 2026<br>Doors 10PM</p><p>Advance Tickets on sale now.&nbsp;</p><p><iframe src=\\\"https://shotgun.live/events/ogazon-verraco?embedded=1&amp;ui=dark\\\" allow=\\\"payment\\\"></iframe><script src=\\\"https://shotgun.live/widget.js\\\"></script></p><p>The part-Spanish, part-Luxembourgish artist has cultivated her skill and selection process in Amsterdam's after-hour scene. Now residing in Berlin, her rhythms find inspiration in the eclectic and somewhat wilder characteristics of the city. Not bound to a sound in particular, Ogaz\u00f3n is best in arranging a coherent thread of feelings throughout her sets, be it melancholic bliss, ecstatic hope or just pure dancefloor pleasure.</p><p><br>Verraco, the Medell\u00edn-based DJ and producer also known as JP L\u00f3pez, is a key figure in Colombia\u2019s experimental electronic scene and a co-founder of the influential label TraTraTrax. His sound blends techno, Latin-influenced tribal rhythms, hyper-electronica, IDM, and dembow-bass with an intense and precise approach to both production and DJing. His acclaimed releases include the Esc\u00e1ndaloo EP on VOAM, named among the year\u2019s best by Resident Advisor and Crack Magazine, and his 2024 Breathe... Godspeed EP on Timedance, which earned Pitchfork\u2019s Best New Music distinction. In 2025, Verraco signed with XL Recordings, further establishing his international profile through appearances at major clubs and festivals including Dekmantel, Berghain, and Berlin Atonal. He also runs the sold-out Bogot\u00e1 party series Esc\u00e1ndaloo, which has brought internationally renowned artists to Colombia.</p><p><br>// Club Level //</p><p>Ogaz\u00f3n (Berlin)<br><a href=\\\"https://soundcloud.com/ogazon\\\">soundcloud.com/ogazon</a><br><a href=\\\"https://ra.co/dj/ogazon\\\">ra.co/dj/ogazon</a>&nbsp;</p><p><iframe width=\\\"100%\\\" height=\\\"166\\\" scrolling=\\\"no\\\" frameborder=\\\"no\\\" allow=\\\"autoplay; encrypted-media\\\" src=\\\"https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/soundcloud%253Atracks%253A2369489771&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true\\\"></iframe></p><div><a href=\\\"https://soundcloud.com/basilarfestival\\\" title=\\\"Basilar Festival\\\" target=\\\"_blank\\\">Basilar Festival</a> \u00b7 <a href=\\\"https://soundcloud.com/basilarfestival/ogazon2025\\\" title=\\\"Basilar Mix Series 04 - Ogaz\u00f3n\\\" target=\\\"_blank\\\">Basilar Mix Series 04 - Ogaz\u00f3n</a></div><p>&nbsp;</p><p>Verraco (TraTraTrax, Hyperverbena | Colombia)<br><a href=\\\"https://soundcloud.com/verraco\\\">soundcloud.com/verraco</a><br><a href=\\\"https://ra.co/dj/verraco\\\">ra.co/dj/verraco</a></p><p><br><iframe width=\\\"100%\\\" height=\\\"166\\\" scrolling=\\\"no\\\" frameborder=\\\"no\\\" allow=\\\"autoplay; encrypted-media\\\" src=\\\"https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/soundcloud%253Atracks%253A2127661548&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true\\\"></iframe></p><div><a href=\\\"https://soundcloud.com/resident-advisor\\\" title=\\\"Resident Advisor\\\" target=\\\"_blank\\\">Resident Advisor</a> \u00b7 <a href=\\\"https://soundcloud.com/resident-advisor/ra-997-verraco\\\" title=\\\"RA.997 Verraco\\\" target=\\\"_blank\\\">RA.997 Verraco</a></div><p>&nbsp;</p><p>&nbsp;</p><p>// Green Room: Therapy Sounds //</p><p>Cassia<br><a href=\\\"https:/soundcloud.com/cassiagetsdeep\\\">soundcloud.com/cassiagetsdeep</a><br><a href=\\\"https://ra.co/dj/cassia\\\">ra.co/dj/cassia</a></p><p>Andy Big<br><a href=\\\"https://soundcloud.com/djandybig\\\">soundcloud.com/djandybig</a><br><a href=\\\"https://ra.co/dj/andybig\\\">ra.co/dj/andybig</a><br><a href=\\\"https://soundcloud.com/therapysounds1\\\">soundcloud.com/therapysounds1</a></p><p>Dytrip<br><a href=\\\"https://soundcloud.com/dytrip\\\">soundcloud.com/dytrip</a></p><p",
+   "replay_status": 200,
+   "replay_ok": true
+  }
+ ]
+}
