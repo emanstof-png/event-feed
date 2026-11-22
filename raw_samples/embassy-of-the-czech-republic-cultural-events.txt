@@ -1,6 +1,6 @@
 Embassy of the Czech Republic (cultural events)
 https://mzv.gov.cz/washington/en/culture_events/culture/index.html
-fetched 2026-11-15 00:22Z  status=200 chars=3897 error=
+fetched 2026-11-22 00:20Z  status=200 chars=3773 error=
 
 Embassy of the Czech Republic in Washington, D.C.
 This webpage uses Cookies and JavaScript in order to work properly. We strongly recommend to enable those technologies in yur browser. In case of wrongly displayed content you can request necessary information at e-mail address wwwadmin@mzv.cz
@@ -111,11 +111,6 @@ Czech the News
 Czechs Living in USA
 Education
 News
-Upcoming Events
-Nov 16, 2026
-Film & Discussion: Citizen Havel (Občan Havel)
-Nov 18, 2026
-Play Reading & Discussion: Protest
 Follow us on
 Interesting links
 Czech Foreign Ministry

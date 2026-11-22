@@ -1,6 +1,6 @@
 New America
 https://www.newamerica.org/events/
-fetched 2026-11-15 00:22Z  status=200 chars=6454 error=
+fetched 2026-11-22 00:21Z  status=200 chars=6903 error=
 
 Events - New America
 New America
@@ -68,18 +68,18 @@ Events
  [5]
 New America hosts various in-person, virtual, and hybrid events. Join the conversation.
 See Our Events
-November 17, 2026
-What is the Science of Dad Brain?
-What is the Science of Dad Brain?
+December 1, 2026
+New Portrait of Computer Science Majors in the Age of AI
+New Portrait of Computer Science Majors in the Age of AI
 December 2, 2026
 The Best Kind of American
 The Best Kind of American
 December 3, 2026
 The Better Animal: A Hopeful Tale of a Future America
 The Better Animal: A Hopeful Tale of a Future America
-December 15, 2026
-American Pogroms
-American Pogroms
+December 11, 2026
+Who Will Govern AI?
+Who Will Govern AI?
 About
  [6]
 Generating big ideas and bold solutions for a new America. 
@@ -101,24 +101,29 @@ New America is proud to serve as a gathering place for events—both online and 
 Upcoming
 Past
 Issue
+Democratic Futures
+Education & Work
 Global Security
-Thriving Families
 Program
-Better Life Lab
 Future Security
+Political Reform
+Teaching, Learning & Tech
 More Filters
 Close
 Filter by
 Issue
+Democratic Futures
+Education & Work
 Global Security
-Thriving Families
 Program
-Better Life Lab
 Future Security
+Political Reform
+Teaching, Learning & Tech
 Topic
-Care
+Artificial Intelligence (AI)
+Career & Technical Education
+Civic Engagement
 Location
-Hybrid
 Virtual
 Dates
 All
@@ -215,16 +220,16 @@ Sort by
 Newest
 Newest
 Oldest
-What is the Science of Dad Brain?
-November 17, 2026
-What is the Science of Dad Brain?
-Are great Dads born? Or are they made? How does the experience of caring for others change the brain? Learn more from new research discussed during this hybrid event.
-Hybrid
+New Portrait of Computer Science Majors in the Age of AI
+December 1, 2026
+New Portrait of Computer Science Majors in the Age of AI
+Learn what it means to study computer science in the age of AI, and how the next generation of technologists will redefine the field.
+Virtual
 12PM – 1PM EST
 The Best Kind of American
 December 2, 2026
 The Best Kind of American
-What does the 1984 murder of  a Middle East scholar  in war torn Beirut tell us about what went wrong for America in the Middle East?  Tune in to hear author and journalist, Kim Ghattas’s answer.
+What does the 1984 murder of a Middle East scholar in war-torn Beirut tell us about what went wrong for America in the Middle East? Tune in to hear author and journalist Kim Ghattas’s answer.
 Virtual
 12PM – 1PM EST
 The Better Animal: A Hopeful Tale of a Future America
@@ -233,6 +238,12 @@ The Better Animal: A Hopeful Tale of a Future America
 Learn more about this allegorical take on the state of our current political climate and technological advances.
 Virtual
 12PM – 1PM EST
+Who Will Govern AI?
+December 11, 2026
+Who Will Govern AI?
+Learn how Utah residents came together for a civic assembly to discuss the role the public should play in shaping decisions related to AI and data centers.
+Virtual
+3PM – 4PM EST
 American Pogroms
 December 15, 2026
 American Pogroms

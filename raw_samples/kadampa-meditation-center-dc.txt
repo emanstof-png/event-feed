@@ -1,6 +1,6 @@
 Kadampa Meditation Center DC
 https://www.meditation-dc.org/calendar
-fetched 2026-11-15 00:22Z  status=200 chars=2155 error=
+fetched 2026-11-22 00:20Z  status=200 chars=1798 error=
 
 Calendar | Kadampa meditation Center - DC
 top of page
@@ -54,32 +54,12 @@ Sun
 12
 13
 14
-Day (1/2)
-The Blessing Empowerment of Buddha Shakyamuni and Commentary on the Liberating Prayer
 15
-Day (2/2)
-The Blessing Empowerment of Buddha Shakyamuni and Commentary on the Liberating Prayer
-+2 more
 16
-7:00 PM
-Richmond Meditation Class
-+1 more
 17
-8:00 AM
-Heart Jewel Prayers & Silent Meditation
-+4 more
 18
-8:00 AM
-Heart Jewel Prayers & Silent Meditation
-+3 more
 19
-8:00 AM
-Heart Jewel Prayers & Silent Meditation
-+3 more
 20
-8:00 AM
-Heart Jewel Prayers & Silent Meditation
-+1 more
 21
 22
 10:00 AM
@@ -91,17 +71,19 @@ Monday Meditation Class
 24
 8:00 AM
 Heart Jewel Prayers & Silent Meditation
-+2 more
++3 more
 25
-6:30 PM
-Offering to the Spiritual Guide (with Tsog)
+9:00 AM
+35 Confession Buddhas Practice
++1 more
 26
 8:00 AM
 Heart Jewel Prayers & Silent Meditation
-+1 more
++2 more
 27
 8:00 AM
 Heart Jewel Prayers & Silent Meditation
++1 more
 28
 29
 10:00 AM
@@ -109,7 +91,7 @@ Special Sunday Morning Meditation: From Judgement to Compassion with Gen Demo
 +1 more
 30
 7:00 PM
-Richmond Meditation Class
+Monday Meditation Class
 +1 more
 1
 8:00 AM
@@ -122,16 +104,16 @@ Heart Jewel Prayers & Silent Meditation
 3
 8:00 AM
 Heart Jewel Prayers & Silent Meditation
-+3 more
++2 more
 4
 Day (1/4)
-Vajrasattva Retreat 12/4/26 - 12/7/26
+Letting Go, Moving Forward: Vajrasattva Purification Retreat, Dec 4-Dec 7
 5
 Day (2/4)
-Vajrasattva Retreat 12/4/26 - 12/7/26
+Letting Go, Moving Forward: Vajrasattva Purification Retreat, Dec 4-Dec 7
 6
 Day (3/4)
-Vajrasattva Retreat 12/4/26 - 12/7/26
+Letting Go, Moving Forward: Vajrasattva Purification Retreat, Dec 4-Dec 7
 +2 more
 Address:
 1200 Canal Street SW, Washington, DC, 20024

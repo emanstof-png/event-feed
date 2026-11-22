@@ -1,403 +1,6 @@
 Nova Labs
 https://portal.nova-labs.org/events/RSS
-fetched 2026-11-15 00:22Z  status=98 items chars=70728 error=
-
-AC_P: Wig Styling for Cosplay and Costumes: Hands-on Workshop (14 Nov 2026)
-Sat, 14 Nov 2026 19:00:00 GMT
-<p><img alt="" border="0" src="https://portal.nova-labs.org/resources/Pictures/Crafters%20Cove/AC_wig_styling.png" title="" /><img alt="" border="0" src="https://portal.nova-labs.org/resources/Pictures/pexels-michael-burrows-7147968.jpg" title="" /><br /></p>
-
-<p><br />
-Do you love costumes? Cosplay? Halloween? A personalized wig can top off your costume with extra polish!</p>
-
-<p>Come learn basic cutting/styling techniques in this NEW workshop. You can explore how to cut with a professional approach, experiment with extreme hairstyles, and learn some tips on how to get the most out of an affordable wig. Wigs and scissors will be provided. Just in time for summer convention season!</p>
-
-<p style="margin-bottom: 0px !important;">Perquisites: None</p>
-
-<p style="margin-bottom: 0px !important
-https://portal.nova-labs.org/event-6881551
-
-EL_P: Electronics Soldering Project - Holiday Edition (14 Nov 2026)
-Sat, 14 Nov 2026 21:30:00 GMT
-<p align="left"><img alt="" border="0" src="https://portal.nova-labs.org/resources/Pictures/Electronics/Solder_basic.jpg" title="" /><br /></p>
-
-<p><font color="#1D1C1D">Light up the season with a hands-on, beginner-friendly soldering project! In this workshop special, you’ll learn the fundamentals of electronics assembly by building your own LED badge.<br />
-Using a custom star circuit board, you’ll solder real electronic components—including bright LEDs. When you're finished, you can save it for Christmas and hang it on your tree!<br />
-<br />
-All beginners are welcome. No previous electronics or soldering experience is required.<br />
-What You Will Do:<br /></font></p>
-
-<ul>
-  <li><font color="#1D1C1D">Learn basic soldering safety, tool handling, and proper technique.</font></li>
-
-  <li
-https://portal.nova-labs.org/event-6890354
-
-BL_G: Blacksmithing Practice Session Saturday (Members ONLY) (14 Nov 2026)
-Sun, 15 Nov 2026 00:00:00 GMT
-<p align="center"><img alt="" border="0" src="https://portal.nova-labs.org/resources/Pictures/EventAnnouncements/BL_G_Blacksmithing_Open_Office_2021-05-05.png" title="" /><img alt="" border="0" src="https://portal.nova-labs.org/resources/Pictures/BL_P%20Knife.jpg" title="" /><img border="0" height="242" src="https://portal.nova-labs.org/resources/Pictures/Blacksmithing/BL%20Patrick%20Marstall%2001.png" width="181" /></p>
-
-<p>Due to the complexity and danger inherent in blacksmithing, we cannot offer truly “open” office hours. Instead, the blacksmith shop offers “practice sessions” for those that have taken the safety sign-off.</p>
-
-<p>Come with a project in mind that you saw on YouTube, have one of our experienced blacksmiths recommend a project based on your experience level, or simply co
-https://portal.nova-labs.org/event-6880057
-
-BL_G: Blacksmithing Practice Session Saturday (Members ONLY) (14 Nov 2026)
-Sun, 15 Nov 2026 00:00:00 GMT
-<p align="center"><img alt="" border="0" src="https://portal.nova-labs.org/resources/Pictures/EventAnnouncements/BL_G_Blacksmithing_Open_Office_2021-05-05.png" title="" /><img alt="" border="0" src="https://portal.nova-labs.org/resources/Pictures/BL_P%20Knife.jpg" title="" /><img border="0" height="242" src="https://portal.nova-labs.org/resources/Pictures/Blacksmithing/BL%20Patrick%20Marstall%2001.png" width="181" /></p>
-
-<p>Due to the complexity and danger inherent in blacksmithing, we cannot offer truly “open” office hours. Instead, the blacksmith shop offers “practice sessions” for those that have taken the safety sign-off.</p>
-
-<p>Come with a project in mind that you saw on YouTube, have one of our experienced blacksmiths recommend a project based on your experience level, or simply co
-https://portal.nova-labs.org/event-6880197
-
-(CANCELLED) AC_P: Carve, Ink, Print (Holiday Edition): Japanese New Year’s Cards (Nengajo) (15 Nov 2026)
-Sun, 15 Nov 2026 16:30:00 GMT
-<p><br />
-<img alt="" border="0" src="https://portal.nova-labs.org/resources/Pictures/Crafters%20Cove/AC_LinoleumBLock%20Printing.png" title="" /></p>
-
-<p>Celebrate the turning of the year through linoleum block printing! In Japan, sending Nengajo (New Year's greeting cards) is a beloved holiday tradition passed down through generations. In this beginner-friendly relief printmaking workshop, you will carve and print your own custom cards featuring the 2027 Japanese Zodiac sign—the Year of the Sheep—along with festive seasonal motifs.</p>
-
-<p>What You Will Do:<br />
-● Discover the history and tradition behind Japanese Nengajo card exchange.<br />
-● Transfer 2027 zodiac designs or festive patterns onto a linoleum block.<br />
-● Safely carve your block, apply block-printing ink, and hand-pres
-https://portal.nova-labs.org/event-6882059
-
-MW_S05: Bridgeport Mill Safety Sign-off (16 Nov 2026)
-Mon, 16 Nov 2026 23:00:00 GMT
-<p align="center" style="background-color: transparent; font-size: 18px; margin-bottom: 0px !important;"><img alt="" border="0" src="https://portal.nova-labs.org/resources/Pictures/Metalshop/MW%20Bridgeport.jpg" title="" /><img alt="" border="0" src="https://portal.nova-labs.org/resources/Pictures/MW_P%20milled_ashtray.jpg" title="" /><br /></p>
-
-<p>This class is a follow-up to <strong>MW: Vertical Mill Sign-Off</strong> and introduces students to the advanced capabilities and features of the Bridgeport and other vertical milling machines.</p>
-
-<p><font color="#F26C4F"><strong>Topics covered include:</strong></font></p>
-
-<ul>
-  <li>Setting up the mill</li>
-
-  <li>Methods for securely holding parts</li>
-
-  <li>Basic end mills and their uses</li>
-
-  <li>Table operations</li>
-
-  <li>Understan
-https://portal.nova-labs.org/event-6837642
-
-MW_O: Metalshop Mondays: Project help & Practice (16 Nov 2026)
-Tue, 17 Nov 2026 00:00:00 GMT
-<p><img alt="" border="0" src="https://portal.nova-labs.org/resources/Pictures/EventAnnouncements/MW_Metalshop_Mondays_Project_2020-11-16.jpeg" title="" /><img alt="" border="0" src="https://portal.nova-labs.org/resources/Pictures/Metalshop/Metal%20shop%20Monday.png" title="" />Why YOU should attend: Highly recommended for members who are inexperienced metalworkers. Get to know your stewards and the other metalworkers in your community. Ask about the next sign-off classes. Get help with your projects. Ask questions.</p>
-
-<p>Shop Safety: Highly recommend you bring your own safety glasses and ear protection. Wear closed-toed shoes. Portal reservation on this event is required because tools and space are limited.</p>
-
-<p>Age: Minors 16 and older with projects and questions welcome when accomp
-https://portal.nova-labs.org/event-6880178
-
-3D_O: 3D FDM Open Office Hours ("OOH")-Members Only (16 Nov 2026)
-Tue, 17 Nov 2026 00:00:00 GMT
-<p><img alt="" border="0" src="https://portal.nova-labs.org/resources/Pictures/EventAnnouncements/3d_Printer_Open_Office_Hours_2020-11-16.jpeg" title="" /></p>Work on your own 3d printer, learn more about 3d printing technology, or keep tabs on what we're up to at Nova Labs. We also welcome people who have already built or acquired their own printers to help others get theirs going and show off their latest awesome prints.
-https://portal.nova-labs.org/event-6880200
-
-CC_O: CNC Shop OOH - Project help and skill practice (16 Nov 2026)
-Tue, 17 Nov 2026 00:00:00 GMT
-<p><img alt="" border="0" src="https://portal.nova-labs.org/resources/Pictures/EventAnnouncements/MW_Metalshop_Mondays_Project_2020-11-16.jpeg" title="" /><img alt="" border="0" src="https://portal.nova-labs.org/resources/Pictures/CNC/Minimal%20Square%20Photo%20Collage%20Photography%20Instagram%20Post%20(1).png" title="" />Why YOU should attend: Highly recommended for members who are inexperienced CNC tool users. Get to know your stewards and the other CNC community makers. Get help with your projects. Ask questions.</p>
-
-<p>Shop Safety: Highly recommend you bring your own safety glasses and ear protection. Wear closed-toed shoes. Portal reservation on this event is required because tools and space are limited.</p>
-
-<p>Age: Minors 16 and older with projects and questions welcome when accom
-https://portal.nova-labs.org/event-6880221
-
-CS_O: Ceramic City: Free Community Clay Night (16 Nov 2026)
-Tue, 17 Nov 2026 00:00:00 GMT
-<img alt="" border="0" src="https://portal.nova-labs.org/resources/Pictures/Ceramics%20City/CeramicCityMonday.jpg" title="" />Ceramic City is a weekly meetup where we hang out with other makers, get creative with clay handbuilding projects, relax and have fun! Whether you've been making pottery for years or have never touched a lump of clay, there's a spot for you at the table. All experience levels welcome!<br />
-<br />
-New to clay? We'll help you get started with the basics and point you toward some beginner-friendly ideas. Ceramic City is not a formal class, though. It's a casual open studio where everyone is encouraged to try new things and make whatever they want, while we chat and listen to music. If you need a little inspiration, we have a weekly challenge or theme to provide a crea
-https://portal.nova-labs.org/event-6883139
-
-MW_S03: Metal Lathe Sign-off (17 Nov 2026)
-Tue, 17 Nov 2026 23:30:00 GMT
-<p><img alt="" border="0" src="https://portal.nova-labs.org/resources/Pictures/Metalshop/MW_S%20lathe.jpg" title="" />Come learn the king of all tools, the metal lathe. The only tool in the shop that could make itself! Learn the transcendent joy of machining and watching chips fly! Learn how to safely, maintain, set up the machine, face, turn, and drill parts as well as cut short tapers!</p>
-
-<p><font color="#F26C4F"><strong>Sign off</strong>:</font> Enco 12 x 36 metal lathe</p>
-
-<p><font color="#F26C4F"><strong>Prerequisites</strong>:</font> Use of this tool requires metalworking knowledge. We strongly suggest anyone taking this class also take Metal Shop Yellow first unless they have significant metalworking experience.</p>
-
-<p><font color="#F26C4F"><strong>Mandatory Safety Dress Code:</
-https://portal.nova-labs.org/event-6883059
-
-EL_O01: Arduino Group Meetup (Free, Public, Online) (17 Nov 2026)
-Wed, 18 Nov 2026 00:00:00 GMT
-<p><img alt="" border="0" src="https://portal.nova-labs.org/resources/Pictures/EventAnnouncements/Arduino_Group_Meetup_Virtual_2020-11-17.jpeg" title="" /><img alt="" border="0" src="https://portal.nova-labs.org/resources/Pictures/Electronics/EL%20Arduino%20Group%20Meetup%20(Free,%20Public,%20Online).png" title="" />There's a big community for Arduino (embedded electronics in general) within Nova Makers. This group meeting is for those people with projects and questions. If you're experienced with Arduino, join us too - we need answers to all of the questions.</p>
-
-<p>Bring your Arduino projects (in any state, even napkin sketches). We can do anything from learning where to start - to talking about Arudino specifics. The agenda is up to you.</p>
-
-<p>Virtual Access - the link is available u
-https://portal.nova-labs.org/event-6880039
-
-New Member Social (17 Nov 2026)
-Wed, 18 Nov 2026 00:00:00 GMT
-<p><img alt="" border="0" src="https://portal.nova-labs.org/resources/Pictures/SO%20BoardGameNight.jpg" title="" /><img alt="" border="0" src="https://portal.nova-labs.org/resources/Pictures/General%20Events/New%20member%20social.png" title="" /><br /></p>Are you new to Nova Labs and looking to connect with others who are also new to the community? Or have you been a member for a little while, but haven’t found that connection yet? Nova Labs’ tools are really cool, but our community is what makes this place really special, and we want everyone finds their place in it. We'll have a few snacks to share, but feel free to bring your own snacks, or snacks for the group.
-https://portal.nova-labs.org/event-6880217
-
-GO: New Member Orientation (17 Nov 2026)
-Wed, 18 Nov 2026 00:00:00 GMT
-<p><img alt="" border="0" src="https://portal.nova-labs.org/resources/Pictures/EventAnnouncements/GO_New_Member_Orientation_2021-04-18.jpeg" title="" /><img alt="" border="0" src="https://portal.nova-labs.org/resources/Pictures/Mixed%20Media/Metal%20gears%20background.jpg" title="" /></p>
-
-<p>Welcome, new member, to your new maker community. We look forward to meeting you and helping with your makerquests. We'll share our knowlege with you, if you'll share yours.</p>
-
-<p>After this basic class on shop safety, policy, community values, and procedures, you'll be able to use the tools in your new space. You do not have to wait for GO to add your name to the <a href="https://portal.nova-labs.org/waitlist" target="_blank"><strong>waitlist</strong></a> or <a href="https://portal.nova-labs.org/ev
-https://portal.nova-labs.org/event-6897963
-
-AC_S03: Introduction to Sublimation Printing and Heat Press Sign-off (17 Nov 2026)
-Wed, 18 Nov 2026 00:00:00 GMT
-<div align="center" style="font-size: 18px;"></div>
-
-<p style="font-size: 18px;"><font style="font-size: 24px;"><img alt="" border="0" src="https://portal.nova-labs.org/resources/Pictures/Crafters%20Cove/AC%20Intro%20to%20Sublimation.png" title="" /><br /></font></p>
-
-<p style="font-size: 18px;"><br /></p>
-
-<p><font style="font-size: 16px;"><font>Did you know Crafters Cove has a sublimation printer?&nbsp;</font><span>In this workshop, we will cover what sublimation is and how it is used to customize puzzle blanks, satin ribbon, felt, polyester fabrics and more!&nbsp;</span></font><font style="font-size: 16px;">As part of the sublimation process, you will learn to safely operate the Heat Press to earn its necessary sign-off.</font></p>
-
-<p><font style="font-size: 16px;">Perquisites: none<br
-https://portal.nova-labs.org/event-6902770
-
-LC_O: Laser Cutter Practice and Project (OOH) - Daytime/Wednesday (18 Nov 2026)
-Wed, 18 Nov 2026 14:00:00 GMT
-<img alt="" border="0" src="https://portal.nova-labs.org/resources/Pictures/Laser%20Cutting/LC_%20Rediscover%20the%20joy.jpg" title="" /><br />
-Work on your own projects and get guidance, as needed. Space and tools are limited, so please sign up before arriving!
-
-<p>Highly recommended for practice after the laser cutter 101 sign-off or project classes. Come back and make more of what you learned! Get experienced help with new techniques or personal projects.</p>
-
-<p><strong>Prerequisite</strong>: GO, Laser Cutter 101 sign-off</p>
-
-<p>Members who have attended GO Only.<br /></p>
-https://portal.nova-labs.org/event-6880216
-
-WW_P20: Woodworking Boot Camp (Daytime) (18 Nov 2026)
-Wed, 18 Nov 2026 15:00:00 GMT
-<p>Are you new to woodworking? Do you have your tool sign-offs, and are wondering “now what?” This class is a fast-paced introduction to the craft and to the Nova Labs wood shop to help jump start your woodworking journey.</p>
-
-<p>Topics and skills include: understanding wood, milling (planing and jointing), crosscuts, joinery, cutting curves on the band saw, and successful glue-ups. The backbone of the class is the completion of a wooden tool tote. The project provides the context for each topic and skill, and how they fit into the basic woodworking flow, and learning how to “think like a woodworker.”</p>
-
-<p>This intense class requires students put in shop time in between classes to complete the demonstrated steps at their own pace. Students can leverage linked instructional videos and N
-https://portal.nova-labs.org/event-6848566
-
-AC_O: Wednesday Crafternoons (Members-Only) (18 Nov 2026)
-Wed, 18 Nov 2026 20:00:00 GMT
-<p align="center"><img alt="" border="0" height="161" src="https://portal.nova-labs.org/resources/Pictures/Crafters%20Cove/AC_Wednesday%20Crafternoon.jpg" title="" width="313" /><br /></p>
-
-<p>Crafters Cove open office hours! Bring your project or come and find a new one to work on! Painting, sewing, knitting . . . you name it! We are so excited to see what you are working on and share the joy of crafting!</p>
-
-<p>Members Only (All levels of membership welcome)</p>
-
-<p><br /></p>
-https://portal.nova-labs.org/event-6840026
-
-WW_O: Open Office Hours - Lathe Help and Practice (18 Nov 2026)
-Wed, 18 Nov 2026 23:00:00 GMT
-<p>Instructors: Steven</p>
-
-<p>Ok.....so you took the lathe sign-off class.&nbsp; NOW WHAT?!&nbsp; Open Office Hours!&nbsp; Come in, grab a piece of wood from freecycle (or bring your own), and get some time behind the wheel.&nbsp; Have a certain project in mind?&nbsp; Need some help becoming more familiar with certain tools or techniques?&nbsp; This is the place for you!</p>
-
-<p>!!!! Please arrive No LATER than 7:00pm to allow time to get stuff done. Priority given to those who register for OOH event on portal and/or message hosts in woodshop-ooh Slack channel !!!!</p>
-
-<p>___________________________________________________________________________</p>
-
-<p>Highly recommended for all our inexperienced woodworkers who say they are here at Nova labs to improve their woodworking skills to make
-https://portal.nova-labs.org/event-6894349
-
-CANCELLED MW_S09: TIG Welding Sign-off (18 Nov 2026)
-Wed, 18 Nov 2026 23:30:00 GMT
-<p><img alt="" border="0" src="https://portal.nova-labs.org/resources/Pictures/EventAnnouncements/MW_S_TIG_Welding_Sign_Off_2021-06-08.jpeg" title="" /><img alt="" border="0" src="https://portal.nova-labs.org/resources/Pictures/Metalshop/MW_S%20TIG%20Welding%20Class.jpg" title="" /></p>
-
-<p>Ready to build your metalworking skills? This class introduces the core techniques of Tungsten Inert Gas (TIG) welding and provides the sign-off needed to use the TIG welder in the Metalworking Shop.</p>
-
-<p><strong><font color="#F26C4F">Sign-off:</font></strong> TIG Welder</p>
-
-<p><strong><font color="#F26C4F">Safety and dress code:</font></strong> Wear natural-fiber clothing, such as cotton or wool, and closed-toe shoes, preferably made from natural materials. Tie back long hair. Long pants and respir
-https://portal.nova-labs.org/event-6885213
-
-WW_P20: Woodworking Boot Camp (Evening) (18 Nov 2026)
-Thu, 19 Nov 2026 00:00:00 GMT
-<p>Are you new to woodworking? Do you have your tool sign-offs, and are wondering “now what?” This class is a fast-paced introduction to the craft and to the Nova Labs wood shop to help jump start your woodworking journey.</p>
-
-<p>Topics and skills include: understanding wood, milling (planing and jointing), crosscuts, joinery, cutting curves on the band saw, and successful glue-ups. The backbone of the class is the completion of a wooden tool tote. The project provides the context for each topic and skill, and how they fit into the basic woodworking flow, and learning how to “think like a woodworker.”</p>
-
-<p>This intense class requires students put in shop time in between classes to complete the demonstrated steps at their own pace. Students can leverage linked instructional videos and N
-https://portal.nova-labs.org/event-6848570
-
-EV_O01: NoVA TOOOL Locksport Meetup (18 Nov 2026)
-Thu, 19 Nov 2026 00:00:00 GMT
-<p><font style="font-size: 16px;"><img alt="" border="0" src="https://portal.nova-labs.org/resources/Pictures/EV_O01_%20NoVA%20TOOOL%20Locksport%20Meetup%20.png" title="" /><img alt="" border="0" src="https://portal.nova-labs.org/resources/Pictures/General%20Events/EV_O01_%20NoVA%20TOOOL%20Locksport%20Meetup%20.png" title="" />This is a&nbsp;free meetup to practice introductory lockpicking and physical security awareness. Necessary tools will be provided for the duration of the event.</font></p>
-
-<p><font style="font-size: 16px;">Hobbyists, security researchers, physical penetration testers, and hackers welcome. Beginners are always welcome!</font></p>
-
-<p><font style="font-size: 16px;"><a class="linkified" href="https://toool.us/">https://toool.us/</a> @TOOOL @TOOOL_NoVA<br />
-### This ev
-https://portal.nova-labs.org/event-6880040
-
-BL_G: Blacksmithing Practice Session Wednesday (Members ONLY) (18 Nov 2026)
-Thu, 19 Nov 2026 00:00:00 GMT
-<p align="center"><img alt="" border="0" src="https://portal.nova-labs.org/resources/Pictures/EventAnnouncements/BL_G_Blacksmithing_Open_Office_2021-05-05.png" title="" /><img alt="" border="0" src="https://portal.nova-labs.org/resources/Pictures/BL_P%20Knife.jpg" title="" /><img border="0" height="242" src="https://portal.nova-labs.org/resources/Pictures/Blacksmithing/BL%20Patrick%20Marstall%2001.png" width="181" /></p>
-
-<p>Due to the complexity and danger inherent in blacksmithing, we cannot offer truly “open” office hours. Instead, the blacksmith shop offers “practice sessions” for those that have taken the safety sign-off.</p>
-
-<p>Come with a project in mind that you saw on YouTube, have one of our experienced blacksmiths recommend a project based on your experience level, or simply co
-https://portal.nova-labs.org/event-6880181
-
-TS_O: Open Studio Hours (18 Nov 2026)
-Thu, 19 Nov 2026 00:00:00 GMT
-<p><img alt="" border="0" src="https://portal.nova-labs.org/resources/Pictures/EventAnnouncements/MW_Metalshop_Mondays_Project_2020-11-16.jpeg" title="" /></p>Come to Open Studio to work on projects in leather, jewelry, stained glass, lapidary, resin, or anything else you like to do in The Studio. Hosts may or may not be experts in the discipline you’re working on, but we’ll try our best to help. Bring your projects, see what others are working on, and enjoy some social time in The Studio!
-https://portal.nova-labs.org/event-6880220
-
-LC_S02: Rotary Tool Sign-off (18 Nov 2026)
-Thu, 19 Nov 2026 00:00:00 GMT
-<img alt="" border="0" src="https://portal.nova-labs.org/resources/Pictures/LC_S%20Engrave%20a%20Glass.png" title="" /><img alt="" border="0" src="https://portal.nova-labs.org/resources/Pictures/Laser%20Cutting/Black%20mug.jpg" title="" />
-
-<p style="margin-top: 0px !important;">Learn to design and engrave round objects on the laser cutter. We'll practice hands-on with a tapered glass or wine glasses. Start thinking about your design before class.</p>
-
-<p>Sign off: Laser Rotary Tool<br />
-Prerequisite: Laser Cutter 101 sign-off&nbsp;</p>
-
-<p>Note: non-members are welcome and do not need the prerequisite since they are not eligible for the sign-off.</p>
-
-<p>You will walk away with an engraved glass you designed and get signed off to use the rotary attachment to our laser cutter with this ha
-https://portal.nova-labs.org/event-6883151
-
-WW_O: Open Office Hours - Project Help and Practice (18 Nov 2026)
-Thu, 19 Nov 2026 00:00:00 GMT
-<p>Instructors: David W</p>
-
-<p>This time is set aside for those with new and beginner skills ONLY. Get practice and help making your own projects from an experienced woodworker. Or just come in and practice with our freecycle wood. If you are not yet signed off to operate specific machines, the hosts are happy to assist with small tasks and can operate them for you!</p>
-
-<p>!!!! Please arrive No LATER than 7:30pm to allow time to get stuff done. Priority given to those who register for OOH event on portal and/or message hosts in woodshop-ooh Slack channel !!!!</p>
-
-<p>___________________________________________________________________________</p>
-
-<p>Highly recommended for all our inexperienced woodworkers who say they are here at Nova labs to improve their woodworking skills to make what
-https://portal.nova-labs.org/event-6894352
-
-WW_P01: Live Edge White Oak Charcuterie Board (19 Nov 2026)
-Thu, 19 Nov 2026 23:00:00 GMT
-<img alt="" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAABu4AAAN3CAIAAABSuDsgAAAQAElEQVR4AVz8iZodyZGsCYrYAef9X2am6073nXuruGQmdmRyS+xAkkUWE0BEAKz5vm7CVfoX8wBYty3UzXQRFVUz9+NxEMmq9Zc/fvPz07s/P73389O7757dQ94/u/f++f33zx+8e/Zgz9U/vHhwVbn/4fn9qxf3r14SAkzKt++efffu6bc/P63yM2w/fvvu6Xfvfvz2Pf4fv3n3tMqH53ffPf2unqcNvfvxmyL/+Jt3T7/9+cdv/vbjt+/wP2XG/O7nHzv/7Y/M37778bv3TysFPL/34eUD5OrFQxq4fvnwerd0/fLBKR9ePPjwor3dvH548+rhzetH168fXb1+9OHVww+vHl0hpJzgF/fJvX5+/+rZvRvk+f3rp/eun93D/PD03ofnD6+el/zm5f2r53c/PLv7/tndd8jT72iD9t49PXv79h2eZ42+f34P+UCHlfsfnt//0Gbo58HViy3P71+9uF/Ai3sfUF5g3rtCf3a3zueEOOdNQqh1id59//zbd8+++fnpb5B3z37z4fk3V8+/o6Wr56Q/+PCcu9AsmKG6enmfc7jiiF7cp8T75/c+PL/X03tG89+94xYgz77rnXr67bun37xjfvbtOzzcKbb54t4VdV9Acr+n92qf4cuHNy8ffjzP89Wjj69v5frVo+uXD25ePWCm+vUL+rl79YK93H3fHaG3Ov7rVw+g/fDi3ilXKGdjz
-https://portal.nova-labs.org/event-6875633
-
-LC_O: Laser Cutter Practice & Project (OOH) - Thursday (19 Nov 2026)
-Thu, 19 Nov 2026 23:00:00 GMT
-<img alt="" border="0" src="https://portal.nova-labs.org/resources/Pictures/Laser%20Cutting/LC_%20Rediscover%20the%20joy.jpg" title="" /><br />
-Work on your own projects and get guidance, as needed. Space and tools are limited, so please sign up before arriving!
-
-<p>Highly recommended for practice after the laser cutter 101 sign-off or project classes. Come back and make more of what you learned! Get experienced help with new techniques or personal projects.</p>
-
-<p><strong>Prerequisite</strong>: GO, Laser Cutter 101 sign-off</p>
-
-<p>Members who have attended GO Only.<br /></p>
-https://portal.nova-labs.org/event-6880188
-
-AC_P07: Intro to Sewing - Quilted Placemat (19 Nov 2026)
-Thu, 19 Nov 2026 23:30:00 GMT
-<p align="center"><span><font color="#1D1C1D" face="Poppins, Arial, Helvetica, sans-serif" style="font-size: 24px;"><img alt="" border="5" height="213" src="https://portal.nova-labs.org/resources/Pictures/IMG_2420.png" style="border-color: rgb(98, 105, 109);" title="" width="283.5" /><br /></font></span></p>
-
-<p>Step into the quilting world and learn to create a quilted placemat from start to finish! this hands-on class focuses on key quilting techniques that build precision and confidence - all at a domestic sewing machine! Come learn how to:</p>
-
-<ul>
-  <li>Square up fabric and batting</li>
-
-  <li>Layer and pin materials for stability</li>
-
-  <li>Maintain consistent seam allowances while piecing</li>
-
-  <li>Finishing touches such as topstitching&nbsp;</li>
-</ul>
-
-<p>Taking the piece home
-https://portal.nova-labs.org/event-6881535
-
-MW_S04: Vertical Mill Sign-off (19 Nov 2026)
-Thu, 19 Nov 2026 23:30:00 GMT
-<p><img alt="" border="0" src="https://portal.nova-labs.org/resources/Pictures/vertical_mill.jpeg" title="" /><img alt="" border="0" src="https://portal.nova-labs.org/resources/Pictures/Metalshop/MW_S%20Vertical%20Mill.png" title="" /><br /></p>
-
-<p>Come out and learn the safe operation of our metalshop mills. We will cover the set-up of the mill, methods of securing parts, basic end mill bits, table operations, and understanding the Digital Read Out (DRO).</p>
-
-<p><font color="#F26C4F"><strong>Sign offs:</strong></font> Enco Vertical Mill</p>
-
-<p><font color="#F26C4F"><strong>Prerequisites:</strong></font> Prior metalworking knowledge. We strongly advise inexperienced metalworkers take the Metal Shop Yellow class prior to taking this class.</p>
-
-<p><font color="#F26C4F"><strong>Mandatory 
-https://portal.nova-labs.org/event-6884717
-
-EL_O: Electronics Open Office Hours: Project help & Practice (19 Nov 2026)
-Fri, 20 Nov 2026 00:00:00 GMT
-<p><img alt="" border="0" src="https://portal.nova-labs.org/resources/Pictures/EventAnnouncements/MW_Metalshop_Mondays_Project_2020-11-16.jpeg" title="" /><img alt="" border="0" src="https://portal.nova-labs.org/resources/Pictures/Electronics/Electronics%20repair%20cafe.jpg" title="" />Why YOU should attend: Highly recommended for members who are inexperienced and need help with their electronics circuit projects. Get help with your projects. Ask questions.</p>
-
-<p>NOTE: Not a tool sign-off.</p>
-https://portal.nova-labs.org/event-6880180
-
-LC_S01: Laser Cutter Sign-off (19 Nov 2026)
-Fri, 20 Nov 2026 00:00:00 GMT
-<p><img alt="" border="0" src="https://portal.nova-labs.org/resources/Pictures/EventAnnouncements/LC_S_Laser_Cutter_101_Red_Tool_2020-11-17.jpeg" title="" /><img alt="" border="0" src="https://portal.nova-labs.org/resources/Pictures/Laser%20Cutting/LC_S01_Laser_Cutter_101.png" title="" /><img alt="" border="0" src="https://portal.nova-labs.org/resources/LC_S01_%20Laser%20Cutter%20101%20Sign%20Off.png" title="" /></p>
-
-<p>Get signed off to use our laser cutters with this lecture and hands-on class. The process is a simple one, but this class is critical for your safety and that of the laser equipment. Makers will engrave and cut a Nova Labs keychain. Nova Labs currently has two 100W CO2 laser cutters.</p>
-
-<p style="margin-bottom: 0px !important;">Sign Off: Laser Cutter</p>
-
-<p style="margi
-https://portal.nova-labs.org/event-6885893
-
-WW_O: Open Office Hours - Lathe Help and Practice (20 Nov 2026)
-Fri, 20 Nov 2026 14:00:00 GMT
-<p>Instructors: Steven</p>
-
-<p>Ok.....so you took the lathe sign-off class.&nbsp; NOW WHAT?!&nbsp; Open Office Hours!&nbsp; Come in, grab a piece of wood from freecycle (or bring your own), and get some time behind the wheel.&nbsp; Have a certain project in mind?&nbsp; Need some help becoming more familiar with certain tools or techniques?&nbsp; This is the place for you!</p>
-
-<p>!!!! Please arrive No LATER than 9:30am to allow time to get stuff done. Priority given to those who register for OOH event on portal and/or message hosts in woodshop-ooh Slack channel !!!!</p>
-
-<p>___________________________________________________________________________</p>
-
-<p>Highly recommended for all our inexperienced woodworkers who say they are here at Nova labs to improve their woodworking skills to make
-https://portal.nova-labs.org/event-6894355
-
-AC_S08: Sew It Begins - Intro to Sergers and Serger Sign-off (20 Nov 2026)
-Fri, 20 Nov 2026 15:00:00 GMT
-<p><img alt="" border="0" src="https://portal.nova-labs.org/resources/Pictures/EventAnnouncements/AC_P_Sergers101_2021-04-28.jpeg" title="" /></p>
-
-<p style="margin-bottom: 0px !important;"><img alt="Picture: BERNINA 800DL " border="5" height="180" src="https://www.bernina.com/assetgen/2/de/Resources/bernina-products/overlocker/800dl/products_machines_800dl_header.png" style="border-color: rgb(98, 105, 109);" width="270" /><img border="0" height="230" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXfo8OoNn-icHckI4s5U62kCLE3BBe-c637q-qP_IiZ2ftxbXb433LgAHA7i3BMYnH0-KpHfNBX2T0QkvliUMkTe7fwjkdiojLOdiOOUsEacfEs9a6kSh218f64ZgUYL7GroJwtlgw?key=LYGlrTPYyzKqNrvUTeg7zQhT" style="color: rgb(0, 0, 0); font-family: Arial, sans-serif; margin-left: 0px; margin-top: 0px; border-color: rgb(98, 105, 1
-https://portal.nova-labs.org/event-6839907
-
-CS_S02: Intro to Wheel Throwing (20 Nov 2026)
-Fri, 20 Nov 2026 22:30:00 GMT
-<p><img alt="" border="0" src="https://portal.nova-labs.org/resources/Pictures/EventAnnouncements/LC_S_Laser_Cutter_101_Red_Tool_2020-11-17.jpeg" title="" /><img alt="" border="0" src="https://portal.nova-labs.org/resources/Pictures/Ceramics%20City/Ceramic%20Wheel%20Throwing.jpeg" title="" /><img alt="" border="0" src="https://portal.nova-labs.org/resources/LC_S01_%20Laser%20Cutter%20101%20Sign%20Off.png" title="" /></p>
-
-<p>This class is hands-on and introduces wedging, centering, opening, pulling walls, and shaping. We will also cover proper posture at the wheel, a demonstration of hand positions, wheel care, and clean-up policies. Typically, the results will be pretty rough; don’t let that discourage you!</p>Every step is crucial for success so It’s hard to catch-up if you miss a step. 
-https://portal.nova-labs.org/event-6883330
-
-SO: Board Game Night (20 Nov 2026)
-Sat, 21 Nov 2026 00:00:00 GMT
-<p><img alt="" border="0" src="https://portal.nova-labs.org/resources/Pictures/SO%20BoardGameNight.jpg" title="" /><img alt="" border="0" src="https://portal.nova-labs.org/resources/Pictures/General%20Events/SO%20BoardGameNight.jpg" title="" /><br /></p>
-
-<p>Do you love board games? Do you need more high-quality analog entertainment in your life? Do you miss socializing?</p>
-
-<p>Members are encouraged to bring friends and guests. But please sign up so we know you are coming. <strong>BRING GAMES TO SHARE!</strong></p>
-
-<p>It is a low-key gathering of folks of all ages who want to relax, learn and play board games.</p>
-
-<p>We will have a nice selection of titles you can try and you can also bring your own board game. Our aim is to have some quick to learn games, some medium complexity games,
-https://portal.nova-labs.org/event-6880052
-
-AC_O: Makers Circle & Art Lab (Members-only) (20 Nov 2026)
-Sat, 21 Nov 2026 00:00:00 GMT
-<p><img alt="" border="0" src="https://portal.nova-labs.org/resources/Pictures/EventAnnouncements/AC_Makers_Circle_Art_Lab_2021-06-18.jpeg" title="" /><img alt="" border="0" height="276" src="https://portal.nova-labs.org/resources/Pictures/Crafters%20Cove/AC_O%20Makers%20Circle%20Art%20Lab.jpeg" style="border-color: rgb(98, 105, 109);" title="" width="491" /><img alt="" border="0" src="https://portal.nova-labs.org/resources/Pictures/AC_O%20Makers%20Circle%20Art%20Lab.jpeg" title="" /></p>
-
-<p>MC&amp;AL is a social group for individuals who wish to hang out and work on their own thing. So bring a project to work on or something to show off or just come to get input or hang out for inspiration.</p>
-
-<p>Your project should be something you can work on with other people present, and doesn't ne
-https://portal.nova-labs.org/event-6882211
-
-TS_P09: Leatherworking Thanksgiving Keychain Workshop (20 Nov 2026)
-Sat, 21 Nov 2026 00:00:00 GMT
-<p><img alt="" border="0" src="https://portal.nova-labs.org/resources/Pictures/The%20Studio/Leather%20Keychain.jpg" title="" /></p>Get into the Thanksgiving spirit with a fun, hands-on introduction to leatherworking! In this beginner-friendly workshop, you'll learn how to turn a simple piece of leather into a personalized keychain. Choose from a variety of autumn-inspired designs, including pumpkins, turkeys, fall leaves, acorns, and cornucopias. We'll cover the fundamentals of leatherworking, including safe knife handling and cutting techniques, tracing patterns, decorative stamping, dyeing, edge finishing, and installing keychain hardware. No previous leatherworking experience is required!<br />
-<br />
-During this two-hour workshop, you'll have the opportunity to create up to two handmad
-https://portal.nova-labs.org/event-6883408
+fetched 2026-11-22 00:21Z  status=165 items chars=68752 error=
 
 WW_S01: Yellow Tools - Woodshop Basic Sign-off (21 Nov 2026)
 Sat, 21 Nov 2026 14:00:00 GMT
@@ -443,7 +46,7 @@ This class meets for 2 days. You must attend both classes to get signed off. If 
 P
 https://portal.nova-labs.org/event-6905000
 
-3d_P: Beyond the Sketch: Designing Multi-Part Assemblies and Hinges in Onshape (21 Nov 2026)
+CANCELLED - 3d_P: Beyond the Sketch: Designing Multi-Part Assemblies and Hinges in Onshape (21 Nov 2026)
 Sat, 21 Nov 2026 16:00:00 GMT
 <p><img height="316" src="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAAMCAgICAgMCAgIDAwMDBAYEBAQEBAgGBgUGCQgKCgkICQkKDA8MCgsOCwkJDRENDg8QEBEQCgwSExIQEw8QEBD/2wBDAQMDAwQDBAgEBAgQCwkLEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBD/wAARCAOUBxQDAREAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKm
 https://portal.nova-labs.org/event-6835763
@@ -479,6 +82,11 @@ Sun, 22 Nov 2026 00:00:00 GMT
 
 <p>Come with a project in mind that you saw on YouTube, have one of our experienced blacksmiths recommend a project based on your experience level, or simply co
 https://portal.nova-labs.org/event-6880201
+
+SL: 3d Printer SLA LCD shop clean up (21 Nov 2026)
+Sun, 22 Nov 2026 00:00:00 GMT
+<p>Designated Shop Clean up.&nbsp;&nbsp;</p>
+https://portal.nova-labs.org/event-6917181
 
 WW_P07: Make your own Chopsticks (22 Nov 2026)
 Sun, 22 Nov 2026 14:00:00 GMT
@@ -568,7 +176,7 @@ Tue, 24 Nov 2026 00:00:00 GMT
 <p>Age: Minors 16 and older with projects and questions welcome when accom
 https://portal.nova-labs.org/event-6880228
 
-3D_S02: Advanced FDM 102 Prusa XL Printer Tool Safety Sign-off (IC & Key only)  Hold until 10/23 for waitlist processing (23 Nov 2026)
+3D_S02: Advanced FDM 102 Prusa XL Printer Tool Safety Sign-off (IC & Key only) (23 Nov 2026)
 Tue, 24 Nov 2026 00:00:00 GMT
 <p align="center"><font color="#0D1418"><img alt="" border="1" height="443" src="https://portal.nova-labs.org/resources/Pictures/3d%20printing/3d%20prusa%20xl%20image1.png" style="border-color: rgb(98, 105, 109);" title="" width="575" /><img alt="" border="0" src="https://portal.nova-labs.org/resources/Pictures/EventAnnouncements/3D_S_FDM_3d_Printer_101_Sign_2020-11-30.None" title="" /></font></p>
 
@@ -653,13 +261,6 @@ Thu, 26 Nov 2026 19:30:00 GMT
 <p style="font-size: 18px;">Are you staying in town thi
 https://portal.nova-labs.org/event-6888772
 
-EL_O: Electronics Open Office Hours: Project help & Practice (26 Nov 2026)
-Fri, 27 Nov 2026 00:00:00 GMT
-<p><img alt="" border="0" src="https://portal.nova-labs.org/resources/Pictures/EventAnnouncements/MW_Metalshop_Mondays_Project_2020-11-16.jpeg" title="" /><img alt="" border="0" src="https://portal.nova-labs.org/resources/Pictures/Electronics/Electronics%20repair%20cafe.jpg" title="" />Why YOU should attend: Highly recommended for members who are inexperienced and need help with their electronics circuit projects. Get help with your projects. Ask questions.</p>
-
-<p>NOTE: Not a tool sign-off.</p>
-https://portal.nova-labs.org/event-6880183
-
 WW_P01: Long Grain Cutting Board Workshop (2 days) (28 Nov 2026)
 Sat, 28 Nov 2026 14:00:00 GMT
 <p><img alt="" border="0" src="https://portal.nova-labs.org/resources/Pictures/woodshop/WW_P_%20Long%20Grain%20Cutting%20Board%20Workshop%20(2%20days)%20(2).png" title="" /><img alt="" border="0" src="https://portal.nova-labs.org/resources/Pictures/woodshop/WW%20Long%20Grain%20Cutting%20Board1.png" title="" /></p>
@@ -741,6 +342,34 @@ Tue, 01 Dec 2026 00:00:00 GMT
 New to clay? We'll help you get started with the basics and point you toward some beginner-friendly ideas. Ceramic City is not a formal class, though. It's a casual open studio where everyone is encouraged to try new things and make whatever they want, while we chat and listen to music. If you need a little inspiration, we have a weekly challenge or theme to provide a crea
 https://portal.nova-labs.org/event-6900455
 
+New Member Social (1 Dec 2026)
+Wed, 02 Dec 2026 00:00:00 GMT
+<p><img alt="" border="0" src="https://portal.nova-labs.org/resources/Pictures/SO%20BoardGameNight.jpg" title="" /><img alt="" border="0" src="https://portal.nova-labs.org/resources/Pictures/General%20Events/New%20member%20social.png" title="" /><br /></p>Are you new to Nova Labs and looking to connect with others who are also new to the community? Or have you been a member for a little while, but haven’t found that connection yet? Nova Labs’ tools are really cool, but our community is what makes this place really special, and we want everyone finds their place in it. We'll have a few snacks to share, but feel free to bring your own snacks, or snacks for the group.
+https://portal.nova-labs.org/event-6918614
+
+LC_O: Laser Cutter Practice and Project (OOH) - Daytime/Wednesday (2 Dec 2026)
+Wed, 02 Dec 2026 14:00:00 GMT
+<img alt="" border="0" src="https://portal.nova-labs.org/resources/Pictures/Laser%20Cutting/LC_%20Rediscover%20the%20joy.jpg" title="" /><br />
+Work on your own projects and get guidance, as needed. Space and tools are limited, so please sign up before arriving!
+
+<p>Highly recommended for practice after the laser cutter 101 sign-off or project classes. Come back and make more of what you learned! Get experienced help with new techniques or personal projects.</p>
+
+<p><strong>Prerequisite</strong>: GO, Laser Cutter 101 sign-off</p>
+
+<p>Members who have attended GO Only.<br /></p>
+https://portal.nova-labs.org/event-6918326
+
+AC_O: Wednesday Crafternoons (Members-Only) (2 Dec 2026)
+Wed, 02 Dec 2026 19:00:00 GMT
+<p align="center"><img alt="" border="0" height="161" src="https://portal.nova-labs.org/resources/Pictures/Crafters%20Cove/AC_Wednesday%20Crafternoon.jpg" title="" width="313" /><br /></p>
+
+<p>Crafters Cove open office hours! Bring your project or come and find a new one to work on! Painting, sewing, knitting . . . you name it! We are so excited to see what you are working on and share the joy of crafting!</p>
+
+<p>Members Only (All levels of membership welcome)</p>
+
+<p><br /></p>
+https://portal.nova-labs.org/event-6920492
+
 WW_O: Open Office Hours - Lathe Help and Practice (2 Dec 2026)
 Wed, 02 Dec 2026 23:00:00 GMT
 <p>Instructors: Steven</p>
@@ -767,6 +396,52 @@ Thu, 03 Dec 2026 00:00:00 GMT
 <p>Highly recommended for all our inexperienced woodworkers who say they are here at Nova labs to improve their woodworking skills to make what
 https://portal.nova-labs.org/event-6894353
 
+AC_S06: Vinyl Cutter and Heat Press Sign-off (2 Dec 2026)
+Thu, 03 Dec 2026 00:00:00 GMT
+<p style="font-size: 18px;"><img alt="" border="0" src="https://portal.nova-labs.org/resources/Pictures/EventAnnouncements/AC_M_Vinyl_Cutter_and_Heat_2020-11-18.jpeg" title="" /></p>
+
+<p style="font-size: 18px;"><img alt="" border="0" src="https://portal.nova-labs.org/resources/Pictures/AC_M_Vinyl_Cutter_and_Heat_2020-11-18.jpeg" title="" /><img alt="" border="0" src="https://portal.nova-labs.org/resources/Pictures/Crafters%20Cove/AC_M%20Vinyl%20Cutter%20and%20Heat.jpeg" title="" /><img alt="" border="0" src="https://portal.nova-labs.org/resources/Pictures/AC_M%20Vinyl%20Cutter%20and%20Heat.jpeg" title="" /><br /></p>
+
+<p><font style="font-size: 16px;">With this class you will gain the skills to create custom T-shirt designs, window clings, or go big with vinyl to decorate your car or wall
+https://portal.nova-labs.org/event-6914010
+
+MW_S07: Sheet Metal Tools Sign-off (2 Dec 2026)
+Thu, 03 Dec 2026 00:00:00 GMT
+<p><img alt="" border="0" src="https://portal.nova-labs.org/resources/Pictures/EventAnnouncements/MW_M_Introduction_to_Sheet_2020-11-12.jpeg" title="" /><img alt="" border="0" src="https://portal.nova-labs.org/resources/Pictures/image%20(48).png" title="" /><img alt="" border="0" src="https://portal.nova-labs.org/resources/Pictures/Metalshop/MW_S%20Sheet%20Metal.png" title="" />This hands-on class will cover the basic skills of working safely and effectively with sheet metal in our metal shop. You’ll learn the safe operation of the key sheet forming tools by laying out a simple box from a pattern, cutting it to dimension using different shears, bending it into shape, and spot-welding the corners. Materials are included.</p>
+
+<p>Non-members may take this class, especially if you have this e
+https://portal.nova-labs.org/event-6917537
+
+BL_G: Blacksmithing Practice Session Wednesday (Members ONLY) (2 Dec 2026)
+Thu, 03 Dec 2026 00:00:00 GMT
+<p align="center"><img alt="" border="0" src="https://portal.nova-labs.org/resources/Pictures/EventAnnouncements/BL_G_Blacksmithing_Open_Office_2021-05-05.png" title="" /><img alt="" border="0" src="https://portal.nova-labs.org/resources/Pictures/BL_P%20Knife.jpg" title="" /><img border="0" height="242" src="https://portal.nova-labs.org/resources/Pictures/Blacksmithing/BL%20Patrick%20Marstall%2001.png" width="181" /></p>
+
+<p>Due to the complexity and danger inherent in blacksmithing, we cannot offer truly “open” office hours. Instead, the blacksmith shop offers “practice sessions” for those that have taken the safety sign-off.</p>
+
+<p>Come with a project in mind that you saw on YouTube, have one of our experienced blacksmiths recommend a project based on your experience level, or simply co
+https://portal.nova-labs.org/event-6918121
+
+CS_O: Ceramic City: Free Community Clay Night (2 Dec 2026)
+Thu, 03 Dec 2026 00:00:00 GMT
+<img alt="" border="0" src="https://portal.nova-labs.org/resources/Pictures/Ceramics%20City/CeramicCityMonday.jpg" title="" />Ceramic City is a weekly meetup where we hang out with other makers, get creative with clay handbuilding projects, relax and have fun! Whether you've been making pottery for years or have never touched a lump of clay, there's a spot for you at the table. All experience levels welcome!<br />
+<br />
+New to clay? We'll help you get started with the basics and point you toward some beginner-friendly ideas. Ceramic City is not a formal class, though. It's a casual open studio where everyone is encouraged to try new things and make whatever they want, while we chat and listen to music. If you need a little inspiration, we have a weekly challenge or theme to provide a crea
+https://portal.nova-labs.org/event-6918154
+
+TS_O: Open Studio Hours (2 Dec 2026)
+Thu, 03 Dec 2026 00:00:00 GMT
+<p><img alt="" border="0" src="https://portal.nova-labs.org/resources/Pictures/EventAnnouncements/MW_Metalshop_Mondays_Project_2020-11-16.jpeg" title="" /></p>Come to Open Studio to work on projects in leather, jewelry, stained glass, lapidary, resin, or anything else you like to do in The Studio. Hosts may or may not be experts in the discipline you’re working on, but we’ll try our best to help. Bring your projects, see what others are working on, and enjoy some social time in The Studio!
+https://portal.nova-labs.org/event-6918636
+
+CS_O: Ceramics Open Office Hours (3 Dec 2026)
+Thu, 03 Dec 2026 23:00:00 GMT
+Come work on handbuilding, wheel throwing, trimming, glazing, reclaiming studio clay, or any other ceramics-related project. Have a project in mind, need help with a tool or technique, or want to plan a future project? Come by and we will do our best to help!<br />
+<br />
+Open studio monitors may not be able to answer every technique-specific question, but we’re happy to help where we can. Especially recommended for members who are new to wheel throwing or ceramics in general. Ask us about future classes, too!<br />
+<br />
+Since we only have three wheels, priority for wheel assistance is given to members who register for an OOH wheel slot through the events portal.
+https://portal.nova-labs.org/event-6923212
+
 AC_P07: Intro to Domestic Sewing Machines (3 Dec 2026)
 Fri, 04 Dec 2026 00:00:00 GMT
 <p align="center" style="font-size: 18px;"><span><font color="#1D1C1D" face="Poppins, Arial, Helvetica, sans-serif" style="font-size: 24px;"><img alt="" border="5" height="237" src="https://portal.nova-labs.org/resources/Pictures/Crafters%20Cove/AC_P%20Sewing%20101.png" style="border-color: rgb(98, 105, 109);" title="" width="158" /><br /></font></span></p>
@@ -775,6 +450,25 @@ Fri, 04 Dec 2026 00:00:00 GMT
 
 <p style="font-size: 18px;"><font style="font-size: 16px;">We'll start by exploring the anatomy of the machine and identifying its parts before learning to wind a bobbin, thread the machine, set up basic st
 https://portal.nova-labs.org/event-6914019
+
+EL_O: Electronics Open Office Hours: Project help & Practice (3 Dec 2026)
+Fri, 04 Dec 2026 00:00:00 GMT
+<p><img alt="" border="0" src="https://portal.nova-labs.org/resources/Pictures/EventAnnouncements/MW_Metalshop_Mondays_Project_2020-11-16.jpeg" title="" /><img alt="" border="0" src="https://portal.nova-labs.org/resources/Pictures/Electronics/Electronics%20repair%20cafe.jpg" title="" />Why YOU should attend: Highly recommended for members who are inexperienced and need help with their electronics circuit projects. Get help with your projects. Ask questions.</p>
+
+<p>NOTE: Not a tool sign-off.</p>
+https://portal.nova-labs.org/event-6918262
+
+LC_O: Laser Cutter Practice & Project (OOH) - Thursday (3 Dec 2026)
+Fri, 04 Dec 2026 00:00:00 GMT
+<img alt="" border="0" src="https://portal.nova-labs.org/resources/Pictures/Laser%20Cutting/LC_%20Rediscover%20the%20joy.jpg" title="" /><br />
+Work on your own projects and get guidance, as needed. Space and tools are limited, so please sign up before arriving!
+
+<p>Highly recommended for practice after the laser cutter 101 sign-off or project classes. Come back and make more of what you learned! Get experienced help with new techniques or personal projects.</p>
+
+<p><strong>Prerequisite</strong>: GO, Laser Cutter 101 sign-off</p>
+
+<p>Members who have attended GO Only.<br /></p>
+https://portal.nova-labs.org/event-6918349
 
 WW_O: Open Office Hours - Lathe Help and Practice (4 Dec 2026)
 Fri, 04 Dec 2026 14:00:00 GMT
@@ -788,3 +482,288 @@ Fri, 04 Dec 2026 14:00:00 GMT
 
 <p>Highly recommended for all our inexperienced woodworkers who say they are here at Nova labs to improve their woodworking skills to make
 https://portal.nova-labs.org/event-6894356
+
+AC_P: Sew It Begins Fabric Fundamentals Part 2 - Tools, Techniques, and Care NEW CLASS (4 Dec 2026)
+Fri, 04 Dec 2026 16:00:00 GMT
+<span style="font-size: 18px; border-color: rgb(98, 105, 109);"><img alt="" border="5" height="378" src="https://portal.nova-labs.org/resources/Pictures/Crafters%20Cove/AC_FabricFundamentals2.JPG" style="border-color: rgb(98, 105, 109);" title="" width="283.5" /></span>
+
+<p style="font-size: 18px;"><font style="font-size: 16px;">You’ve learned to identify your fabrics—now let’s talk about how to work with them. This follow-up class dives into the practical side of fabric handling, giving you the knowledge and tools to approach various textiles with confidence.</font></p>
+
+<p><font style="font-size: 16px;">We will start at the cutting table and go to the finished project: knowing how different fabrics respond to different cutting tools and techniques, choosing the right needles and thread f
+https://portal.nova-labs.org/event-6887936
+
+SO: Board Game Night (4 Dec 2026)
+Sat, 05 Dec 2026 00:00:00 GMT
+<p><img alt="" border="0" src="https://portal.nova-labs.org/resources/Pictures/SO%20BoardGameNight.jpg" title="" /><img alt="" border="0" src="https://portal.nova-labs.org/resources/Pictures/General%20Events/SO%20BoardGameNight.jpg" title="" /><br /></p>
+
+<p>Do you love board games? Do you need more high-quality analog entertainment in your life? Do you miss socializing?</p>
+
+<p>Members are encouraged to bring friends and guests. But please sign up so we know you are coming. <strong>BRING GAMES TO SHARE!</strong></p>
+
+<p>It is a low-key gathering of folks of all ages who want to relax, learn and play board games.</p>
+
+<p>We will have a nice selection of titles you can try and you can also bring your own board game. Our aim is to have some quick to learn games, some medium complexity games,
+https://portal.nova-labs.org/event-6918629
+
+AC_O: Makers Circle & Art Lab (Members-only) (4 Dec 2026)
+Sat, 05 Dec 2026 00:00:00 GMT
+<p><img alt="" border="0" src="https://portal.nova-labs.org/resources/Pictures/EventAnnouncements/AC_Makers_Circle_Art_Lab_2021-06-18.jpeg" title="" /><img alt="" border="0" height="276" src="https://portal.nova-labs.org/resources/Pictures/Crafters%20Cove/AC_O%20Makers%20Circle%20Art%20Lab.jpeg" style="border-color: rgb(98, 105, 109);" title="" width="491" /><img alt="" border="0" src="https://portal.nova-labs.org/resources/Pictures/AC_O%20Makers%20Circle%20Art%20Lab.jpeg" title="" /></p>
+
+<p>MC&amp;AL is a social group for individuals who wish to hang out and work on their own thing. So bring a project to work on or something to show off or just come to get input or hang out for inspiration.</p>
+
+<p>Your project should be something you can work on with other people present, and doesn't ne
+https://portal.nova-labs.org/event-6920508
+
+BL_S06: Bladesmithing - Stainless Steel Knife-Making (5 Dec 2026)
+Sat, 05 Dec 2026 14:00:00 GMT
+<p align="center" style="margin-bottom: 0px !important;"><font color="#000000"><img alt="" border="0" src="https://portal.nova-labs.org/resources/Pictures/Blacksmithing/BL%20stainless%20steel%2006.png" title="" /><br /></font></p>
+
+<p style="margin-top: 0px !important; margin-bottom: 0px;"><font color="#000000"><br /></font></p>
+
+<p style="margin-top: 0px !important; margin-bottom: 0px;"><font color="#000000">Believe it or not, most “chefs’ knives” that you can purchase for less than $200 are not hardened, as the manufacturers know that home users generally won’t be able to tell the difference between raw and heat-treated stainless steel. &nbsp;</font></p>
+
+<p><font color="#000000">But we’re Nova Labs Makers, gosh dang it, and we absolutely will be heat-treating our steel!&nbsp; In fact, w
+https://portal.nova-labs.org/event-6881141
+
+WW_S02: Planer, Jointer, Thickness Sander (Materials Prep) Sign-off (5 Dec 2026)
+Sat, 05 Dec 2026 14:00:00 GMT
+<p>This class covers two of the most frequently used tools for any project. The jointer and planer are essential when preparing raw materials for all kinds of woodworking. Class required for everyone, regardless of experience level, and demonstrated competence is required to be certified to use the tools independently.</p>
+
+<p>Sign off: Planer, Jointer, Thickness Sander</p>
+
+<p>Prerequisite: None</p>
+
+<p>Safety Dress Code: Woodshop dress code enforced. Comfortable closed-toed shoes; no loose clothing; and hair and beard tied back).</p>
+
+<p>Instructor: Anjelika</p>
+https://portal.nova-labs.org/event-6917024
+
+EL_O03: Robotics Group Meetup (Free, Public, Online) (5 Dec 2026)
+Sat, 05 Dec 2026 15:00:00 GMT
+<p><img alt="" border="0" src="https://portal.nova-labs.org/resources/Pictures/EventAnnouncements/Robotics_Group_Online_Meetup_2020-11-21.jpeg" title="" /><img alt="" border="0" src="https://portal.nova-labs.org/resources/Pictures/Electronics/EL%20Robotics%20Group%20Meetup.png" title="" /><img alt="" border="0" src="https://portal.nova-labs.org/resources/Pictures/EL%20Robotics%20Group%20Meetup.png" title="" /></p>
+
+<p>There's a big community interested in Robotics within Nova Makers. This group meeting is for those people with projects and questions. If you're experienced with robotics, come over too - we need answers to all the questions!&nbsp; Group meets twice monthly on 1st and 3rd Saturdays.</p>
+
+<p>We try to schedule one vendor or other speaker presentation for each meeting and then 
+https://portal.nova-labs.org/event-6918229
+
+BL_G: Blacksmithing Practice Session Saturday (Members ONLY) (5 Dec 2026)
+Sun, 06 Dec 2026 00:00:00 GMT
+<p align="center"><img alt="" border="0" src="https://portal.nova-labs.org/resources/Pictures/EventAnnouncements/BL_G_Blacksmithing_Open_Office_2021-05-05.png" title="" /><img alt="" border="0" src="https://portal.nova-labs.org/resources/Pictures/BL_P%20Knife.jpg" title="" /><img border="0" height="242" src="https://portal.nova-labs.org/resources/Pictures/Blacksmithing/BL%20Patrick%20Marstall%2001.png" width="181" /></p>
+
+<p>Due to the complexity and danger inherent in blacksmithing, we cannot offer truly “open” office hours. Instead, the blacksmith shop offers “practice sessions” for those that have taken the safety sign-off.</p>
+
+<p>Come with a project in mind that you saw on YouTube, have one of our experienced blacksmiths recommend a project based on your experience level, or simply co
+https://portal.nova-labs.org/event-6918102
+
+BL_S06: Bladesmithing - Stainless Steel Knife-Making (6 Dec 2026)
+Sun, 06 Dec 2026 14:00:00 GMT
+<p align="center" style="margin-bottom: 0px !important;"><font color="#000000"><img alt="" border="0" src="https://portal.nova-labs.org/resources/Pictures/Blacksmithing/BL%20stainless%20steel%2006.png" title="" /><br /></font></p>
+
+<p style="margin-top: 0px !important; margin-bottom: 0px;"><font color="#000000"><br /></font></p>
+
+<p style="margin-top: 0px !important; margin-bottom: 0px;"><font color="#000000">Believe it or not, most “chefs’ knives” that you can purchase for less than $200 are not hardened, as the manufacturers know that home users generally won’t be able to tell the difference between raw and heat-treated stainless steel. &nbsp;</font></p>
+
+<p><font color="#000000">But we’re Nova Labs Makers, gosh dang it, and we absolutely will be heat-treating our steel!&nbsp; In fact, w
+https://portal.nova-labs.org/event-6881141
+
+WW_S06: Woodshop Lathe Tool Sign-off (6 Dec 2026)
+Sun, 06 Dec 2026 14:00:00 GMT
+<p>Woodturning is a fun, absorbing activity. Almost no one comes to the shop just to “putter around” with the table saw or the planer, but once you learn the basics of turning, you’ll want to putter around with the lathe. While this sign-off course is intended for those with no prior experience it is a prerequisite to use the lathe independently and this sign-off is required for the bowl-turning class. This course is NOT a project class, but focuses on the basic skills needed to turn. We will cover spindle-turning as well as learn how to safely use the lathe, how to take care of the tool within Nova Labs policies, and begin to develop proficiency with the roughing and spindle gouges, and the skew chisel. You won’t become an expert with one course, but I hope you will (re)discover that turn
+https://portal.nova-labs.org/event-6918878
+
+AC_P: Carve, Ink, Print (Holiday Edition): Japanese New Year’s Cards (Nengajo) (6 Dec 2026)
+Sun, 06 Dec 2026 16:30:00 GMT
+<p><br />
+<img alt="" border="0" src="https://portal.nova-labs.org/resources/Pictures/Crafters%20Cove/AC_LinoleumBLock%20Printing.png" title="" /></p>
+
+<p>Celebrate the turning of the year through linoleum block printing! In Japan, sending Nengajo (New Year's greeting cards) is a beloved holiday tradition passed down through generations. In this beginner-friendly relief printmaking workshop, you will carve and print your own custom cards featuring the 2027 Japanese Zodiac sign—the Year of the Sheep—along with festive seasonal motifs.</p>
+
+<p>What You Will Do:<br />
+● Discover the history and tradition behind Japanese Nengajo card exchange.<br />
+● Transfer 2027 zodiac designs or festive patterns onto a linoleum block.<br />
+● Safely carve your block, apply block-printing ink, and hand-pres
+https://portal.nova-labs.org/event-6919460
+
+TS_S02: Stained Glass Sign-off - Christmas Ornaments (6 Dec 2026)
+Sun, 06 Dec 2026 18:00:00 GMT
+<div align="center">
+  <div align="left">
+    <img alt="" border="0" src="https://portal.nova-labs.org/resources/Pictures/The%20Studio/Christmas%20Ornaments.png" title="" />Come get signed off on stained glass and make some fun ornaments for the Christmas season. Each student will leave with two ornaments--one for you and one as a gift! Samples shown here -- exact ornaments may differ
+  </div>
+</div>
+
+<p style="margin-bottom: 0px !important;">Sign-off: Stained glass</p>
+
+<p style="margin-top: 0px !important; margin-bottom: 0px;">Prerequisite: none</p>
+
+<p style="margin-top: 0px !important;">Age: ages 12-15 parent must also be a paid student; ages 16-17 parent must remain in lab.</p>
+
+<p style="line-height: 25px;"><img align="left" alt="" border="3" height="378" src="https://portal.nova-lab
+https://portal.nova-labs.org/event-6847631
+
+3D_O: 3D FDM Open Office Hours ("OOH")-Members Only (7 Dec 2026)
+Tue, 08 Dec 2026 00:00:00 GMT
+<p><img alt="" border="0" src="https://portal.nova-labs.org/resources/Pictures/EventAnnouncements/3d_Printer_Open_Office_Hours_2020-11-16.jpeg" title="" /></p>Work on your own 3d printer, learn more about 3d printing technology, or keep tabs on what we're up to at Nova Labs. We also welcome people who have already built or acquired their own printers to help others get theirs going and show off their latest awesome prints.
+https://portal.nova-labs.org/event-6917202
+
+CC_O: CNC Shop OOH - Project help and skill practice (7 Dec 2026)
+Tue, 08 Dec 2026 00:00:00 GMT
+<p><img alt="" border="0" src="https://portal.nova-labs.org/resources/Pictures/EventAnnouncements/MW_Metalshop_Mondays_Project_2020-11-16.jpeg" title="" /><img alt="" border="0" src="https://portal.nova-labs.org/resources/Pictures/CNC/Minimal%20Square%20Photo%20Collage%20Photography%20Instagram%20Post%20(1).png" title="" />Why YOU should attend: Highly recommended for members who are inexperienced CNC tool users. Get to know your stewards and the other CNC community makers. Get help with your projects. Ask questions.</p>
+
+<p>Shop Safety: Highly recommend you bring your own safety glasses and ear protection. Wear closed-toed shoes. Portal reservation on this event is required because tools and space are limited.</p>
+
+<p>Age: Minors 16 and older with projects and questions welcome when accom
+https://portal.nova-labs.org/event-6918141
+
+MW_O: Metalshop Mondays: Project help & Practice (7 Dec 2026)
+Tue, 08 Dec 2026 00:00:00 GMT
+<p><img alt="" border="0" src="https://portal.nova-labs.org/resources/Pictures/EventAnnouncements/MW_Metalshop_Mondays_Project_2020-11-16.jpeg" title="" /><img alt="" border="0" src="https://portal.nova-labs.org/resources/Pictures/Metalshop/Metal%20shop%20Monday.png" title="" />Why YOU should attend: Highly recommended for members who are inexperienced metalworkers. Get to know your stewards and the other metalworkers in your community. Ask about the next sign-off classes. Get help with your projects. Ask questions.</p>
+
+<p>Shop Safety: Highly recommend you bring your own safety glasses and ear protection. Wear closed-toed shoes. Portal reservation on this event is required because tools and space are limited.</p>
+
+<p>Age: Minors 16 and older with projects and questions welcome when accomp
+https://portal.nova-labs.org/event-6918604
+
+LC_S01: Laser Cutter Sign-off (7 Dec 2026)
+Tue, 08 Dec 2026 00:00:00 GMT
+<p><img alt="" border="0" src="https://portal.nova-labs.org/resources/Pictures/EventAnnouncements/LC_S_Laser_Cutter_101_Red_Tool_2020-11-17.jpeg" title="" /><img alt="" border="0" src="https://portal.nova-labs.org/resources/Pictures/Laser%20Cutting/LC_S01_Laser_Cutter_101.png" title="" /><img alt="" border="0" src="https://portal.nova-labs.org/resources/LC_S01_%20Laser%20Cutter%20101%20Sign%20Off.png" title="" /></p>
+
+<p>Get signed off to use our laser cutters with this lecture and hands-on class. The process is a simple one, but this class is critical for your safety and that of the laser equipment. Makers will engrave and cut a Nova Labs keychain. Nova Labs currently has two 100W CO2 laser cutters.</p>
+
+<p style="margin-bottom: 0px !important;">Sign Off: Laser Cutter</p>
+
+<p style="margi
+https://portal.nova-labs.org/event-6923199
+
+WW_S01: Yellow Tools - Woodshop Basic Sign-off (8 Dec 2026)
+Tue, 08 Dec 2026 23:30:00 GMT
+<p>Start your woodworking journey with our most approachable power tools. This class is up to 2 hours of fun and learning. Class is required for everyone, regardless of experience level and tool sign off is conditional on a demonstration of competence during the class.</p>
+
+<p>Sign off: Yellow Safety Tools Covered: Drill Press, Scroll Saw, Oscillating/Spindle Sander, Rikon bandsaw, Mixed Media Bandsaw, stationary sander, miter saw</p>
+
+<p>*This class, in addition to Green Orientation (GO), is required in order to use the yellow tools without supervision.*</p>
+
+<p>Instructor: Anjelika, woodshop steward</p>
+https://portal.nova-labs.org/event-6848578
+
+MW_S01: Intro to Metal Shop Basic Tools Sign-off (8 Dec 2026)
+Wed, 09 Dec 2026 00:00:00 GMT
+<p><img border="0" src="https://portal.nova-labs.org/resources/Pictures/Metalshop/MW%20Metalshop%20Basic%20101%20(2).png" />Get up to speed in the metal shop with this sign off class! Learn how to safely use the vertical and horizontal bandsaws, the drill press, the portaband, angle grinders, bench grinders, and the media blaster!</p>
+
+<p><strong><font color="#F26C4F">Sign off:</font></strong> MW_Basic Safety, Horizontal Band Saw, Vertical Band Saw, Portaband Band Saw, Angle Grinder, Bench Grinder, 1x30 Belt Sander, Drill Press, Media Blaster</p>
+
+<p><strong><font color="#F26C4F">Prerequisites:</font></strong> Age 16 or older. See minor policy on the wiki for more information.</p>
+
+<p><strong><font color="#F26C4F">Safety Clothing:</font></strong> Please wear long pants and closed-toed shoe
+https://portal.nova-labs.org/event-6917528
+
+New Member Social (8 Dec 2026)
+Wed, 09 Dec 2026 00:00:00 GMT
+<p><img alt="" border="0" src="https://portal.nova-labs.org/resources/Pictures/SO%20BoardGameNight.jpg" title="" /><img alt="" border="0" src="https://portal.nova-labs.org/resources/Pictures/General%20Events/New%20member%20social.png" title="" /><br /></p>Are you new to Nova Labs and looking to connect with others who are also new to the community? Or have you been a member for a little while, but haven’t found that connection yet? Nova Labs’ tools are really cool, but our community is what makes this place really special, and we want everyone finds their place in it. We'll have a few snacks to share, but feel free to bring your own snacks, or snacks for the group.
+https://portal.nova-labs.org/event-6918616
+
+LC_O: Laser Cutter Practice and Project (OOH) - Daytime/Wednesday (9 Dec 2026)
+Wed, 09 Dec 2026 14:00:00 GMT
+<img alt="" border="0" src="https://portal.nova-labs.org/resources/Pictures/Laser%20Cutting/LC_%20Rediscover%20the%20joy.jpg" title="" /><br />
+Work on your own projects and get guidance, as needed. Space and tools are limited, so please sign up before arriving!
+
+<p>Highly recommended for practice after the laser cutter 101 sign-off or project classes. Come back and make more of what you learned! Get experienced help with new techniques or personal projects.</p>
+
+<p><strong>Prerequisite</strong>: GO, Laser Cutter 101 sign-off</p>
+
+<p>Members who have attended GO Only.<br /></p>
+https://portal.nova-labs.org/event-6918327
+
+AC_O: Wednesday Crafternoons (Members-Only) (9 Dec 2026)
+Wed, 09 Dec 2026 19:00:00 GMT
+<p align="center"><img alt="" border="0" height="161" src="https://portal.nova-labs.org/resources/Pictures/Crafters%20Cove/AC_Wednesday%20Crafternoon.jpg" title="" width="313" /><br /></p>
+
+<p>Crafters Cove open office hours! Bring your project or come and find a new one to work on! Painting, sewing, knitting . . . you name it! We are so excited to see what you are working on and share the joy of crafting!</p>
+
+<p>Members Only (All levels of membership welcome)</p>
+
+<p><br /></p>
+https://portal.nova-labs.org/event-6920493
+
+WW_O: Open Office Hours - Lathe Help and Practice (9 Dec 2026)
+Wed, 09 Dec 2026 23:00:00 GMT
+<p>Instructors: Steven</p>
+
+<p>Ok.....so you took the lathe sign-off class.&nbsp; NOW WHAT?!&nbsp; Open Office Hours!&nbsp; Come in, grab a piece of wood from freecycle (or bring your own), and get some time behind the wheel.&nbsp; Have a certain project in mind?&nbsp; Need some help becoming more familiar with certain tools or techniques?&nbsp; This is the place for you!</p>
+
+<p>!!!! Please arrive No LATER than 7:00pm to allow time to get stuff done. Priority given to those who register for OOH event on portal and/or message hosts in woodshop-ooh Slack channel !!!!</p>
+
+<p>___________________________________________________________________________</p>
+
+<p>Highly recommended for all our inexperienced woodworkers who say they are here at Nova labs to improve their woodworking skills to make
+https://portal.nova-labs.org/event-6894361
+
+WW_O: Open Office Hours - Project Help and Practice (9 Dec 2026)
+Thu, 10 Dec 2026 00:00:00 GMT
+<p>Instructors: David W</p>
+
+<p>This time is set aside for those with new and beginner skills ONLY. Get practice and help making your own projects from an experienced woodworker. Or just come in and practice with our freecycle wood. If you are not yet signed off to operate specific machines, the hosts are happy to assist with small tasks and can operate them for you!</p>
+
+<p>!!!! Please arrive No LATER than 7:30pm to allow time to get stuff done. Priority given to those who register for OOH event on portal and/or message hosts in woodshop-ooh Slack channel !!!!</p>
+
+<p>___________________________________________________________________________</p>
+
+<p>Highly recommended for all our inexperienced woodworkers who say they are here at Nova labs to improve their woodworking skills to make what
+https://portal.nova-labs.org/event-6894359
+
+BL_G: Blacksmithing Practice Session Wednesday (Members ONLY) (9 Dec 2026)
+Thu, 10 Dec 2026 00:00:00 GMT
+<p align="center"><img alt="" border="0" src="https://portal.nova-labs.org/resources/Pictures/EventAnnouncements/BL_G_Blacksmithing_Open_Office_2021-05-05.png" title="" /><img alt="" border="0" src="https://portal.nova-labs.org/resources/Pictures/BL_P%20Knife.jpg" title="" /><img border="0" height="242" src="https://portal.nova-labs.org/resources/Pictures/Blacksmithing/BL%20Patrick%20Marstall%2001.png" width="181" /></p>
+
+<p>Due to the complexity and danger inherent in blacksmithing, we cannot offer truly “open” office hours. Instead, the blacksmith shop offers “practice sessions” for those that have taken the safety sign-off.</p>
+
+<p>Come with a project in mind that you saw on YouTube, have one of our experienced blacksmiths recommend a project based on your experience level, or simply co
+https://portal.nova-labs.org/event-6918122
+
+CS_O: Ceramic City: Free Community Clay Night (9 Dec 2026)
+Thu, 10 Dec 2026 00:00:00 GMT
+<img alt="" border="0" src="https://portal.nova-labs.org/resources/Pictures/Ceramics%20City/CeramicCityMonday.jpg" title="" />Ceramic City is a weekly meetup where we hang out with other makers, get creative with clay handbuilding projects, relax and have fun! Whether you've been making pottery for years or have never touched a lump of clay, there's a spot for you at the table. All experience levels welcome!<br />
+<br />
+New to clay? We'll help you get started with the basics and point you toward some beginner-friendly ideas. Ceramic City is not a formal class, though. It's a casual open studio where everyone is encouraged to try new things and make whatever they want, while we chat and listen to music. If you need a little inspiration, we have a weekly challenge or theme to provide a crea
+https://portal.nova-labs.org/event-6918155
+
+TS_O: Open Studio Hours (9 Dec 2026)
+Thu, 10 Dec 2026 00:00:00 GMT
+<p><img alt="" border="0" src="https://portal.nova-labs.org/resources/Pictures/EventAnnouncements/MW_Metalshop_Mondays_Project_2020-11-16.jpeg" title="" /></p>Come to Open Studio to work on projects in leather, jewelry, stained glass, lapidary, resin, or anything else you like to do in The Studio. Hosts may or may not be experts in the discipline you’re working on, but we’ll try our best to help. Bring your projects, see what others are working on, and enjoy some social time in The Studio!
+https://portal.nova-labs.org/event-6918637
+
+EL_P01: Intro to Basic Electronic Circuits (Online) (9 Dec 2026)
+Thu, 10 Dec 2026 00:00:00 GMT
+<p><img alt="" border="0" src="https://portal.nova-labs.org/resources/Pictures/EventAnnouncements/EL_Introduction_to_Basic_2020-12-03.jpeg" title="" /><img alt="" border="0" src="https://portal.nova-labs.org/resources/Pictures/Electronics/EL_P01_%20Intro%20to%20Basic%20Electronics%20with%20TinkerCAD.png" title="" /><img alt="" border="0" src="https://portal.nova-labs.org/resources/Pictures/EL_P01_%20Intro%20to%20Basic%20Electronics%20with%20TinkerCAD.png" title="" /></p>
+
+<p><strong>*** Live Mentor Class *** (Not a pre-recorded session)</strong><br /></p>
+
+<p>Hands-on learning with real components, breadboard, and testing equipment, makes great connections for using the electronics tool bench, ours or yours.</p>
+
+<p>Students are introduced to the basic electronics concepts using TinkerCAD'
+https://portal.nova-labs.org/event-6918662
+
+MX_S01: Mixed Media Shop Basic - Woodshop Yellow Tools Sign-off (9 Dec 2026)
+Thu, 10 Dec 2026 00:30:00 GMT
+<p><img alt="" border="0" src="https://portal.nova-labs.org/resources/Pictures/Mixed%20Media/MX_S01_%20Basic%20Tool%20Sign-off.png" title="" /></p>
+
+<p>The MMX Shop is the gateway for many new members to get making right away. MMX offers a suite of light to medium duty tools for beginning and advanced wood, light metal, plastic, and foam applications. MMX Basic tools sign-off will also get users conscientious of tool safety. Upon completion, makers will be able to use, on their own.</p>
+
+<ul>
+  <li>Grizzly 12” Bandsaw</li>
+
+  <li>DeWalt 12” Sliding Miter Saw</li>
+
+  <li>DeWalt Scroll Saw</li>
+
+  <li>Wen Track Saw</li>
+
+  <li>Jet Drill Press</li>
+
+  <li>Harbor Freight Disc Sander</li>
+
+  <li>Harbor Freight Belt &amp; Spindle Sander</li>
+
+  <li>As well as the equivalent tools in the Woodshop
+https://portal.nova-labs.org/event-6920287

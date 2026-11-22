@@ -1,6 +1,6 @@
 Japan Information & Culture Center (Embassy of Japan)
 https://www.us.emb-japan.go.jp/jicc/events.html
-fetched 2026-11-15 00:22Z  status=200 chars=8094 error=
+fetched 2026-11-22 00:20Z  status=200 chars=8048 error=
 
 JICC | Events
       Your browser does not support the video tag. 
@@ -35,32 +35,25 @@ RESOURCES
 EMBASSY OF JAPAN
 CONSULATE GUIDE
 UPCOMING EVENTS
-LECTURE | 「不気味の谷」 “Uncanny Valley” Is Not What You Think It Is 
-With Dr. Yulia Frumer
-Thursday, November 5th
-6:30PM EDT
-In-person at the JICC
-LEARN MORE
 CONTEST | JICC 16th Annual Nengajo Contest 
 Year of the Sheep
 Opens Thursday, November 5th
 Closes January 6th, 2027
 Enter Now!
 LEARN MORE
-ARTIST TALK | A Dialogue with Local Printmakers 
-With Lucy Ralph and Mary Ellen Carsley
-Tuesday, November 10th
-6:30PM EDT
-In-person at the JICC
-LEARN MORE
-LECTURE | Modern Japanese Design in Zuanshū Publishing 
-With Dr. Naoko Adachi
-Thursday, November 19th
-6:30PM EDT
+PANEL | Interpreters as Cultural Diplomats 
+Building Understanding Across Languages, Communities, and Cultures
+Thursday, December 10th, 6:30PM EDT
 In-person at the JICC
 LEARN MORE
 PAST EVENTS
 2026
+LECTURE | Modern Japanese Design in Zuanshū Publishing
+ (November 19, 2026)
+ARTIST TALK | A Dialogue with Local Printmakers
+ (November 10, 2026)
+LECTURE | 「不気味の谷」 “Uncanny Valley” Is Not What You Think It Is
+ (November 5, 2026)
 Lecture | Manga as a Global Form with Kofi M. Bazzell-Smith
  (October 14, 2026)
 JICC 45th Anniversary | The Art of IKEBANA with KASUYA Naohiro

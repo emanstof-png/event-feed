@@ -1,6 +1,6 @@
 Carnegie Endowment for International Peace
 https://carnegieendowment.org/events
-fetched 2026-11-15 00:22Z  status=200 chars=1298 error=
+fetched 2026-11-22 00:21Z  status=200 chars=1139 error=
 
 Global - Events | Carnegie Endowment for International Peace
 Global Locations
@@ -14,16 +14,6 @@ Iran
 Topics & Regions
 Donate
 Global - Events
-NOVEMBER
-20
-2026
-Event
-America After November 3: A Conversation with Rahm Emanuel
-November 20, 2026
-11:00 AM - 11:45 AM EST
-Aaron David Miller
-, 
-Rahm Emanuel
 NOVEMBER
 25
 2026
@@ -49,9 +39,9 @@ DECEMBER
 Conference
 Global Shifts, Regional Stakes: Looking Ahead to 2027 
 December 9, 2026
-9:00 AM - 6:00 PM GMT+2
+9:00 AM - 2:00 PM GMT+2
 +
-19
+21
 Avril Haines
 , 
 Nabil Fahmy

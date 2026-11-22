@@ -1,6 +1,6 @@
 Folger Shakespeare Library
 https://www.folger.edu/whats-on/
-fetched 2026-11-15 00:22Z  status=200 chars=21326 error=
+fetched 2026-11-22 00:21Z  status=200 chars=22329 error=
 
 What's on | Folger Shakespeare Library
 Skip to main content
@@ -167,18 +167,30 @@ An English Christmas for the Ages
                 Fri, Dec 11 – Sun, Dec 20, 2026            
                             Dates & Tickets 
 Folger Theatre
-Opera Lafayette: Rameau’s "Les Surprises de l’Amour"
-Rameau’s "Les Surprises de l’Amour"
-                The Folger is proud to partner with Opera Lafayette to host its modern world premiere of a French opera from 1748.            
-                Fri, Nov 13 – Sun, Nov 15, 2026            
+Family Workshop: Celebrations, Shakespeare Style
+Family Workshop: Celebrations, Shakespeare Style
+                Families will share how they celebrate important moments in their own lives and discover how Shakespeare’s characters celebrate meaningful moments in his plays.            
+                Fri, Nov 27 & Wed, Dec 30, 2026            
                             Dates & Tickets 
-Theatre
+Learning Lab
 Printing Press Demonstrations
 Printing Press Demonstrations
                 To learn more about our replica 17th-century printing press and to see it in action, join us for demonstrations during Frost Fair.            
                 Fri, Nov 27 — Sat, Dec 26, 2026            
                             Learn More 
 Shakespeare Exhibition Hall
+Intro to Junk Journaling
+Intro to Junk Journaling
+                Jump into junk journaling with this workshop from Penny Post, a specialty stationery store in Alexandria, Virginia.            
+                Sun, Nov 29, 2026, 12pm            
+                            Learn More 
+Founders' Room 
+Junk Journaling Meet Up
+Junk Journaling Meet Up
+                Bring your extra journal ephemera to the Folger and meet with fellow junk journaling devotees in the Great Hall to swap junk, chat, and inspire each other.             
+                Sun, Nov 29, 2026, 2pm            
+                            Learn More 
+Great Hall
 Translating Shakespeare in Sign Language
 Translating Shakespeare in Sign Language
                 Scholar Jill Marie Bradbury delivers a public lecture about how Deaf actors negotiate Shakespeare translation.            
@@ -200,38 +212,21 @@ The Great Hall
 Family Workshop: To Be a Shakespearean Actor
 Family Workshop: To Be a Shakespearean Actor
                 In this free workshop, families will try out Elizabethan acting styles and learn about the power of Shakespeare’s words to inspire actors, trends, and riots.            
-                Sat, Dec 5, 2026 at 11:30am & 1pm            
+                Dec 5, 29, & 31, 2026 at 11:30am & 1pm            
                             Learn More 
 Multiple venues
 Folger Book Club: 'The Beheading Game' by Rebecca Lehmann
 Folger Book Club: 'The Beheading Game' by Rebecca Lehmann
                 In our first ever in-person session, Folger Book Club discusses Rebecca Lehmann’s exciting debut novel about Anne Boleyn.            
                 Tue, Dec 8, 2026, 6pm            
-                            Learn More 
+Sold Out
 Reading Room
-Limited Tickets
 The 2027 Emily Dickinson Birthday Tribute: Rebecca Lehmann
 Emily Dickinson Birthday Tribute: Rebecca Lehmann
                 The Folger invites poet, essayist, and debut novelist Rebecca Lehmann for this annual event celebrating the legacy of one of America’s most beloved poets, Emily Dickinson.             
                 Tue, Dec 8, 2026 at 7:30pm            
                             Learn More 
 Folger Theatre
-Early Music Seminar: An English Christmas for the Ages
-Early Music Seminar: An English Christmas for the Ages
-                Folger Consort Artistic Director Robert Eisenstein leads a lively virtual seminar that offers a sneak peek at the music performed in the Folger Consort’s upcoming concert 
-An English Christmas for the Ages
-.            
-                Wed, Dec 9, 2026 at 6pm ET            
-                            Learn More 
-Folger Virtual
-Shakespeare’s Midsummer in December
-Shakespeare’s Midsummer in December
-                This free professional development session for teachers focuses on 
-A Midsummer Night's Dream
-.             
-                Wed, Dec 9, 2026, 8pm ET            
-                            Learn More 
-Virtual
 Folger Frost Fair
 Folger Frost Fair
 Celebrate the season at the Folger! Enjoy festive decorations, holiday music, free activities, and more from Friday, November 27, 2026 – Sunday, January 3, 2027.
@@ -246,6 +241,12 @@ Folger Consort subscriptions
 Folger Consort
 O.B. Hardison Poetry Series subscriptions
 O.B. Hardison Poetry Series
+Folger Theatre
+Reading Room Festival January 2027
+Reading Room Festival
+                Folger Theatre’s fifth annual Reading Room Festival returns with three days of staged readings and panel discussions. All-access passes are now on sale for $100.             
+                Thu, Jan 28 – Sat, Jan 30, 2027            
+                            Dates & Tickets 
 Folger Theatre
 Hamlet
 Hamlet
@@ -329,21 +330,32 @@ Folger Book Club: 'The Beheading Game' by Rebecca Lehmann
 Folger Book Club: 'The Beheading Game' by Rebecca Lehmann
                 In our first ever in-person session, Folger Book Club discusses Rebecca Lehmann’s exciting debut novel about Anne Boleyn.            
                 Tue, Dec 8, 2026, 6pm            
+Sold Out
+Reading Room
+Folger Book Club: 'That Self-Same Metal' by Brittany N. Williams
+Folger Book Club: 'That Self-Same Metal' by Brittany N. Williams
+                Folger Book Club returns for another in-person discussion, with author Brittany N. Williams as the guest speaker.            
+                Thu, Jan 28, 2027 at 6pm            
                             Learn More 
 Reading Room
-Limited Tickets
 For families
-Register for our free family workshops, once a month on Saturdays, with options for ages 5-7 and 8-11.
+Register for our free family workshops, with options for ages 5-7 and 8-11.
+Family Workshop: Celebrations, Shakespeare Style
+Family Workshop: Celebrations, Shakespeare Style
+                Families will share how they celebrate important moments in their own lives and discover how Shakespeare’s characters celebrate meaningful moments in his plays.            
+                Fri, Nov 27 & Wed, Dec 30, 2026            
+                            Dates & Tickets 
+Learning Lab
 Family Workshop: To Be a Shakespearean Actor
 Family Workshop: To Be a Shakespearean Actor
                 In this free workshop, families will try out Elizabethan acting styles and learn about the power of Shakespeare’s words to inspire actors, trends, and riots.            
-                Sat, Dec 5, 2026 at 11:30am & 1pm            
+                Dec 5, 29, & 31, 2026 at 11:30am & 1pm            
                             Learn More 
 Multiple venues
 Family Workshop: The Fantastical World of Shakespeare
 Family Workshop: The Fantastical World of Shakespeare
                 In this free workshop, families will explore the world of fairies and wizards seen in Shakespeare’s plays.            
-                Sat, Jan 2, 2027 at 11:30am & 1pm            
+                Wed, Dec 23, 2026 & Sat, Jan 2, 2027 at 11:30am & 1pm            
                             Learn More 
 Multiple venues
 Family Workshop: My Shakespearean Monologue

@@ -1,4 +1,4 @@
 Johns Hopkins Bloomberg Center DC
 https://washingtondc.jhu.edu/events/upcoming-events/
-fetched 2026-11-15 00:22Z  status= chars=0 error=HTTPError: HTTP Error 403: 
+fetched 2026-11-22 00:20Z  status= chars=0 error=HTTPError: HTTP Error 403: 
 

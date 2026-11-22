@@ -1,6 +1,6 @@
 Atlantic Council
 https://www.atlanticcouncil.org/events/
-fetched 2026-11-15 00:22Z  status=200 chars=15910 error=
+fetched 2026-11-22 00:21Z  status=200 chars=15935 error=
 
 Register to attend free Atlantic Council events
 Share
@@ -661,29 +661,31 @@ We convene in Washington DC, internationally, and virtually to inspire global en
 Upcoming
 Past
 Public Event
-Mon, November 16, 2026 • 9:30 am ET
-Unlocking the African diaspora’s financial capital for economic growth
-Africa
-Digital Currencies
-Economy & Business
-Resilience & Society
-Online Event
-Mon, November 16, 2026 • 2:30 pm ET
-Ambassador Vinay Kwatra on US-India cooperation in the Indian Ocean region
-Politics & Diplomacy
-Public Event
-Wed, November 18, 2026 • 3:00 am EST
-Seventh Partnership for Transatlantic Energy Cooperation (P-TEC)
-Central Europe
-Energy & Environment
+Mon, November 23, 2026 • 10:00 am ET
+What Washington’s peace push means for Ukraine
 Europe & Eurasia
+NATO
+Peacekeeping and Peacebuilding
+Politics & Diplomacy
+Tue, November 24, 2026 • 9:00 am ET
+From Antalya to Abu Dhabi: Advancing climate action
+Energy & Environment
+Energy Markets & Governance
+Energy Transitions
+Infrastructure
 Public Event
-Wed, November 18, 2026 • 9:00 am ET
-The risk of ignoring the Horn of Africa’s humanitarian crises
-Africa
-Civil Society
-Crisis Management
-Human Rights
+Tue, December 1, 2026 • 1:30 pm ET
+Polar Opposites? Geopolitics in the Arctic and Antarctic
+Energy & Environment
+Politics & Diplomacy
+Resilience & Society
+Security & Defense
+Online Event
+Wed, December 2, 2026 • 11:00 am ET
+How investment in health drives economic growth in Latin America
+Americas
+Latin America
+Resilience & Society
 Load More
 #ACFrontPage
  harnesses the convening power and expertise of the Council’s sixteen programs and centers to spotlight the world’s most prominent leaders and the most compelling ideas across sectors. The virtual platform engages new audiences eager for nonpartisan and constructive solutions to current global challenges. This widely promoted forty-five-minute program features the Council’s most important guests and content serving as the highlight of our programming each week.

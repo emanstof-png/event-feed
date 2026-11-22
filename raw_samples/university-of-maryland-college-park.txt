@@ -1,6 +1,6 @@
 University of Maryland, College Park
 https://calendar.umd.edu/category/academics
-fetched 2026-11-15 00:22Z  status=200 chars=4379 error=
+fetched 2026-11-22 00:20Z  status=200 chars=4720 error=
 
 University of Maryland Calendar
 Skip site navigation
@@ -14,7 +14,7 @@ Academic Calendar
 Alumni Calendar
 EVENTS
     Academics
-Saturday, November 14, 2026
+Saturday, November 21, 2026
 Add Events to Your Calendar
 Filter Events
 Close Filters
@@ -23,68 +23,68 @@ Advanced Search
 Visit Advanced Search
           Event Topics
     Arts, Entertainment and Culture
-68
-: 68 Events
+55
+: 55 Events
     Academics
-41
-: 41 Events
-    Research
 30
 : 30 Events
-    Student Life
+    Research
 24
 : 24 Events
-    Community Engagement
-22
-: 22 Events
-    Diversity and Inclusion
+    Student Life
 18
 : 18 Events
+    Community Engagement
+16
+: 16 Events
     Health and Wellness
-17
-: 17 Events
+12
+: 12 Events
+    Diversity and Inclusion
+11
+: 11 Events
     Athletics and Recreation
-6
-: 6 Events
-    Spiritual and Religious
-4
-: 4 Events
-    Family Engagement
 3
 : 3 Events
+    Spiritual and Religious
+3
+: 3 Events
+    Family Engagement
+2
+: 2 Events
 Show More Items
 More
           Audience
     Graduate Students
-133
-: 133 Events
+103
+: 103 Events
     Undergraduate Students
-122
-: 122 Events
+102
+: 102 Events
     Staff
-114
-: 114 Events
+94
+: 94 Events
     Faculty
-113
-: 113 Events
-    Friends
-87
-: 87 Events
+93
+: 93 Events
     Alumni
-85
-: 85 Events
+76
+: 76 Events
+    Friends
+76
+: 76 Events
     Prospective Students
-71
-: 71 Events
+59
+: 59 Events
     Campus Leaders
-70
-: 70 Events
+59
+: 59 Events
     Parents & Families
-68
-: 68 Events
+58
+: 58 Events
     External Media
-61
-: 61 Events
+54
+: 54 Events
 Show More Items
 More
 Revolutionary Maryland: Freedom of the Press Then and Now
@@ -92,69 +92,66 @@ Revolutionary Maryland: Freedom of the Press Then and Now
       2027-01-04T00:00:00.000
 View this exhibit from October 1 - January 4 on the first floor of McKeldin Library during regular operating hours. 
 View Event
-MS in Supply Chain Management Fireside Chat
-      2026-11-16T09:00:00.000
-      2026-11-16T10:00:00.000
-Join Academic Director Humberto Coronado to discuss the MS in Supply Chain Management.
-View Event
-Introduction to ArcGIS
-      2026-11-16T12:00:00.000
-      2026-11-16T13:00:00.000
+Data Visualization with Tableau
+      2026-11-23T12:00:00.000
+      2026-11-23T13:15:00.000
 The Data Science/GIS workshop series is powered by GIS and Data Service Center, and Research Education at University Libraries. This workshop series offers introductory to advanced level skills in GIS, Data Science, and Data Visualization, among othe
 View Event
-ELMS-Canvas Accessibility Tools
-      2026-11-16T12:00:00.000
-      2026-11-16T13:00:00.000
-Instructors, get an overview of the available tools for improving the accessibility and usability of content in ELMS-Canvas.
-View Event
-Douglass Dialogues: Are Human Rights Dead? Or, Were They Ever Alive?
-      2026-11-16T12:00:00.000
-      2026-11-16T13:30:00.000
-A panel discussion on human rights using the lens of a Frederick Douglass speech.
-View Event
-Russian Opportunities Fair
-      2026-11-16T16:00:00.000
-      2026-11-16T17:00:00.000
-Find out where your Russian language can take you!
+LEAP Preschool Program Touring Dates
+      2026-11-25T11:00:00.000
+      2026-11-25T12:00:00.000
+The LEAP Preschool Program is hosting touring dates on Wednesdays from 11am to 12pm weekly!
 View Event
 Language Chats at the Language House
-      2026-11-16T16:00:00.000
-      2026-11-16T17:30:00.000
+      2026-11-30T16:00:00.000
+      2026-11-30T17:30:00.000
 Come practice or share your language skills in a casual setting with drinks and snacks!
 View Event
-Language House International Film Series: "Solaris" with the Russian Cluster
-      2026-11-16T20:00:00.000
-      2026-11-16T21:30:00.000
-Join us for a Russian movie night at the Language House!
+Blood Drive
+      2026-12-01T10:00:00.000
+      2026-12-01T15:00:00.000
+UMD Samuel Riggs IV Alumni Center and the American Red Cross are hosting an upcoming blood drive on December 1 from 10am-3pm. Please join our lifesaving mission and schedule an appointment today!
 View Event
-Brunch & Learn with Dara Ashley
-      2026-11-17T09:30:00.000
-      2026-11-17T12:15:00.000
-Join the Center for Social Value Creation for a Brunch & Learn with Dara Ashley of The Dara Ashley Foundation.
+A Diplomatic Tango? Israel, Argentina, and Latin America
+      2026-12-01T12:30:00.000
+      2026-12-01T13:30:00.000
+Join us for an online discussion of Israel's evolving relationships with Argentina and Latin America.
 View Event
-Qualitative Data Visualization with NVivo
-      2026-11-17T12:00:00.000
-      2026-11-17T13:00:00.000
+Speaking of Books with Ariel Bierbaum: Disinvestment, Dispossession, and School Building Reuse in Philadelphia
+      2026-12-02T12:30:00.000
+      2026-12-02T14:00:00.000
+Speaking of Books series features free, open to the community and public talks by UMD faculty authors on their recently published work.
+View Event
+Six Essential Steps for Digital Accessibility
+      2026-12-02T14:00:00.000
+      2026-12-02T15:15:00.000
+Get an overview of the six areas that have the greatest impact on making your online content more accessible.
+View Event
+The Why and How of Academic Conferences
+      2026-12-02T14:30:00.000
+      2026-12-02T15:30:00.000
+An overview of academic conferences, including how to select conferences, submit abstracts, secure travel funding, choose presentation formats, and learn from graduate students’ experiences.
+View Event
+Introduction to GeoAI
+      2026-12-03T12:00:00.000
+      2026-12-03T13:15:00.000
 The Data Science/GIS workshop series is powered by GIS and Data Service Center, and Research Education at University Libraries. This workshop series offers introductory to advanced level skills in GIS, Data Science, and Data Visualization, among othe
 View Event
-ArcGIS Online Mapping
-      2026-11-17T12:00:00.000
-      2026-11-17T13:00:00.000
-The Data Science/GIS workshop series is powered by GIS and Data Service Center, and Research Education at University Libraries. This workshop series offers introductory to advanced level skills in GIS, Data Science, and Data Visualization, among othe
+GIS & Data Help Desk
+      2026-12-03T13:00:00.000
+      2026-12-03T15:00:00.000
+The Data Science/GIS workshop series is powered by GIS and Data Service Center, and Research Education at University Libraries. This workshop series offers introductory to advanced-level skills in GIS, Data Science, and Data Visualization among other
 View Event
-Full-Time MBA Info Session
-      2026-11-17T12:00:00.000
-      2026-11-17T13:00:00.000
-Join us to learn about UMD Smith's 1 & 2 Year Full-Time MBA programs. We'll discuss curriculum, career services and UMD Smith culture during this virtual session.
+Distinguished Scholar-Teacher Lecture Series: Building Tomorrow’s Highways from Yesterday’s Waste: Engineering Greener and More Resilient Transportation Networks
+      2026-12-03T15:00:00.000
+      2026-12-03T16:00:00.000
+Join us for Professor Ahmet Aydilek's Distinguished Scholar-Teacher Lecture.
 View Event
 Current Page is 1
 Back to the previous page
 1
             2
             3
-            4
-…
-          4
 Advance to the next page
 Office of Marketing & Communications
 7736 Baltimore Ave.

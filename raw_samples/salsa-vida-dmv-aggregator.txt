@@ -1,6 +1,6 @@
 Salsa Vida (DMV aggregator)
 https://www.salsavida.com/guides/dc-maryland-virginia-dmv/washington-dc/
-fetched 2026-11-15 00:22Z  status=200 chars=14103 error=
+fetched 2026-11-22 00:21Z  status=200 chars=14379 error=
 
 Salsa Dancing & Bachata Events in Washington DC – 2026–2027 Calendar
                   English                
@@ -53,7 +53,7 @@ DC, Maryland & Virginia
 Washington DC
 Salsa & Bachata Dancing in Washington DC
 					Browse our calendar of salsa and bachata classes, socials, and dance events in Washington DC. Find beginner lessons, workshops, local dance studios, dance parties, and upcoming festivals, all in one place.											
-77 upcoming dance events in the next 30 days.
+78 upcoming dance events in the next 30 days.
 Add Event
 Salsa + Bachata
 Both
@@ -83,20 +83,6 @@ List View
 Calendar View
 View Map
 Sat
-Nov 14
-Sun
-Nov 15
-Mon
-Nov 16
-Tue
-Nov 17
-Wed
-Nov 18
-Thu
-Nov 19
-Fri
-Nov 20
-Sat
 Nov 21
 Sun
 Nov 22
@@ -110,17 +96,31 @@ Thu
 Nov 26
 Fri
 Nov 27
+Sat
+Nov 28
+Sun
+Nov 29
+Mon
+Nov 30
+Tue
+Dec 1
+Wed
+Dec 2
+Thu
+Dec 3
+Fri
+Dec 4
 Select Date
     Show nearby dance events  
 Loading events...
-Saturday, November 14, 2026 (Today)
+Saturday, November 21, 2026 (Today)
 Bachata, Class
 Class
 Bachata
 6:30 PM - 9:50 PM
 Salsa With Silvia DC Bachata Group Classes
                                 Washington DC            
-Saturday, Nov 14, 2026
+Saturday, Nov 21, 2026
 Share Event
 Salsa, Class & Social
 Class & Social
@@ -128,7 +128,7 @@ Salsa
 7:00 PM - 3:00 AM
 Saturday Drums of DC
                                 Washington DC            
-Saturday, Nov 14, 2026
+Saturday, Nov 21, 2026
 Share Event
 Salsa, Social
 Social
@@ -136,200 +136,11 @@ Salsa
 11:00 PM - 3:00 AM
 Cuba Libre Nights DJ Dance Party
                                 Washington DC            
-Saturday, Nov 14, 2026
-Share Event
-Nearby Dance Events
-Salsa + Bachata, Class & Social
-Class & Social
-Salsa + Bachata
-8:00 PM - 2:00 AM
-Mr. Mambo’s Salsa Bachata Social
-                                Silver Spring            
-Saturday, Nov 14, 2026
+Saturday, Nov 21, 2026
 Share Event
 Events near you
 Loading Map
 Open full map
-Sunday, November 15, 2026
-Bachata, Class & Social
-Class & Social
-Bachata
-2:00 PM - 9:00 PM
-Bachata Brunch DC at Public Bar Live
-                                Washington DC            
-Sunday, Nov 15, 2026
-Share Event
-Monday, November 16, 2026
-Bachata, Class
-Class
-Bachata
-7:00 PM - 8:00 PM
-Monday Intermediate and Advanced Bachata with meTumbao
-                                Washington DC            
-Monday, Nov 16, 2026
-Share Event
-Bachata, Class
-Class
-Bachata
-6:30 PM - 9:50 PM
-Salsa With Silvia DC Bachata Group Classes
-                                Washington DC            
-Monday, Nov 16, 2026
-Share Event
-Nearby Dance Events
-Salsa, Class & Social
-Class & Social
-Salsa
-7:30 PM - 1:30 AM
-Salsa Mondays at The Renegade
-                                Arlington            
-Monday, Nov 16, 2026
-Share Event
-Tuesday, November 17, 2026
-Bachata, Class
-Class
-Bachata
-6:30 PM - 9:50 PM
-Salsa With Silvia DC Bachata Group Classes
-                                Washington DC            
-Tuesday, Nov 17, 2026
-Share Event
-Nearby Dance Events
-Salsa + Bachata, Class & Social
-Class & Social
-Salsa + Bachata
-7:30 PM - 12:00 AM
-Bachata Brunch Tuesday at La Catrina
-                                Bethesda            
-Tuesday, Nov 17, 2026
-Share Event
-Wednesday, November 18, 2026
-Bachata, Class
-Class
-Bachata
-6:30 PM - 9:50 PM
-Salsa With Silvia DC Bachata Group Classes
-                                Washington DC            
-Wednesday, Nov 18, 2026
-Share Event
-Salsa, Class & Social
-Class & Social
-Salsa
-7:00 PM - 2:00 AM
-Salsa con Candela Wednesday
-                                Washington DC            
-Wednesday, Nov 18, 2026
-Share Event
-Salsa, Class & Social
-Class & Social
-Salsa
-7:00 PM
-Wednesday Salsa Nights at Casta’s
-                                                        Free                        
-                                Washington DC            
-Wednesday, Nov 18, 2026
-Share Event
-Thursday, November 19, 2026
-Salsa + Bachata, Class & Social
-Class & Social
-Salsa + Bachata
-8:00 PM
-Salsa Jueves Bachata and Salsa Class and Social
-                                                        Free                        
-                                Washington DC            
-Thursday, Nov 19, 2026
-Share Event
-Bachata, Class
-Class
-Bachata
-6:30 PM - 9:50 PM
-Salsa With Silvia DC Bachata Group Classes
-                                Washington DC            
-Thursday, Nov 19, 2026
-Share Event
-Salsa, Social
-Social
-Salsa
-7:00 PM - 11:00 PM
-Baila Thursdays Salsa Social
-                                Washington DC            
-Thursday, Nov 19, 2026
-Share Event
-Friday, November 20, 2026
-Salsa, Class
-Class
-Salsa
-6:00 PM - 7:45 PM
-Salsa Classes at DanceSport Dupont
-                                Washington DC            
-Friday, Nov 20, 2026
-Share Event
-Bachata, Class
-Class
-Bachata
-6:30 PM - 9:50 PM
-Salsa With Silvia DC Bachata Group Classes
-                                Washington DC            
-Friday, Nov 20, 2026
-Share Event
-Bachata, Class
-Class
-Bachata
-7:00 PM - 7:50 PM
-Beginner Bachata Fundamentals at DanceSport Dupont
-                                Washington DC            
-Friday, Nov 20, 2026
-Share Event
-Salsa, Class & Social
-Class & Social
-Salsa
-7:00 PM - 3:00 AM
-Perreo Friday at Café Citron
-                                Washington DC            
-Friday, Nov 20, 2026
-Share Event
-Salsa, Social
-Social
-Salsa
-11:00 PM - 3:00 AM
-Cuba Libre Nights DJ Dance Party
-                                Washington DC            
-Friday, Nov 20, 2026
-Share Event
-Nearby Dance Events
-Salsa + Bachata, Class & Social
-Class & Social
-Salsa + Bachata
-7:30 PM - 12:30 AM
-Música Latin Dance Social at Glen Echo Park
-                                Glen Echo            
-Friday, Nov 20, 2026
-Share Event
-Saturday, November 21, 2026
-Bachata, Class
-Class
-Bachata
-6:30 PM - 9:50 PM
-Salsa With Silvia DC Bachata Group Classes
-                                Washington DC            
-Saturday, Nov 21, 2026
-Share Event
-Salsa, Class & Social
-Class & Social
-Salsa
-7:00 PM - 3:00 AM
-Saturday Drums of DC
-                                Washington DC            
-Saturday, Nov 21, 2026
-Share Event
-Salsa, Social
-Social
-Salsa
-11:00 PM - 3:00 AM
-Cuba Libre Nights DJ Dance Party
-                                Washington DC            
-Saturday, Nov 21, 2026
-Share Event
 Sunday, November 22, 2026
 Bachata, Class & Social
 Class & Social
@@ -460,20 +271,20 @@ Beginner Bachata Fundamentals at DanceSport Dupont
                                 Washington DC            
 Friday, Nov 27, 2026
 Share Event
-Salsa, Class & Social
-Class & Social
-Salsa
-7:00 PM - 3:00 AM
-Perreo Friday at Café Citron
-                                Washington DC            
-Friday, Nov 27, 2026
-Share Event
 Salsa + Bachata, Class & Social
 Class & Social
 Salsa + Bachata
 8:00 PM - 11:00 PM
 Salsa/Bachata Dance Class & Party w/ Yoii Moore
                                                         Live Music                        
+                                Washington DC            
+Friday, Nov 27, 2026
+Share Event
+Salsa, Class & Social
+Class & Social
+Salsa
+7:00 PM - 3:00 AM
+Perreo Friday at Café Citron
                                 Washington DC            
 Friday, Nov 27, 2026
 Share Event
@@ -485,10 +296,213 @@ Cuba Libre Nights DJ Dance Party
                                 Washington DC            
 Friday, Nov 27, 2026
 Share Event
+Saturday, November 28, 2026
+Bachata, Class
+Class
+Bachata
+6:30 PM - 9:50 PM
+Salsa With Silvia DC Bachata Group Classes
+                                Washington DC            
+Saturday, Nov 28, 2026
+Share Event
+Salsa, Class & Social
+Class & Social
+Salsa
+7:00 PM - 3:00 AM
+Saturday Drums of DC
+                                Washington DC            
+Saturday, Nov 28, 2026
+Share Event
+Salsa, Social
+Social
+Salsa
+11:00 PM - 3:00 AM
+Cuba Libre Nights DJ Dance Party
+                                Washington DC            
+Saturday, Nov 28, 2026
+Share Event
+Nearby Dance Events
+Salsa + Bachata, Class & Social
+Class & Social
+Salsa + Bachata
+7:30 PM - 2:00 AM
+Noche Latina at Lioudmilla Dance Studio
+                                Alexandria            
+Saturday, Nov 28, 2026
+Share Event
+Salsa + Bachata, Class & Social
+Class & Social
+Salsa + Bachata
+7:30 PM - 12:00 AM
+All Things Dance Party
+                                Fairfax            
+Saturday, Nov 28, 2026
+Share Event
+Salsa + Bachata, Class & Social
+Class & Social
+Salsa + Bachata
+8:00 PM - 2:00 AM
+Mr. Mambo’s Salsa Bachata Social
+                                Silver Spring            
+Saturday, Nov 28, 2026
+Share Event
+Sunday, November 29, 2026
+Bachata, Class & Social
+Class & Social
+Bachata
+2:00 PM - 9:00 PM
+Bachata Brunch DC at Public Bar Live
+                                Washington DC            
+Sunday, Nov 29, 2026
+Share Event
+Monday, November 30, 2026
+Bachata, Class
+Class
+Bachata
+7:00 PM - 8:00 PM
+Monday Intermediate and Advanced Bachata with meTumbao
+                                Washington DC            
+Monday, Nov 30, 2026
+Share Event
+Bachata, Class
+Class
+Bachata
+6:30 PM - 9:50 PM
+Salsa With Silvia DC Bachata Group Classes
+                                Washington DC            
+Monday, Nov 30, 2026
+Share Event
+Nearby Dance Events
+Salsa, Class & Social
+Class & Social
+Salsa
+7:30 PM - 1:30 AM
+Salsa Mondays at The Renegade
+                                Arlington            
+Monday, Nov 30, 2026
+Share Event
+Tuesday, December 1, 2026
+Bachata, Class
+Class
+Bachata
+6:30 PM - 9:50 PM
+Salsa With Silvia DC Bachata Group Classes
+                                Washington DC            
+Tuesday, Dec 1, 2026
+Share Event
+Nearby Dance Events
+Salsa + Bachata, Class & Social
+Class & Social
+Salsa + Bachata
+7:30 PM - 12:00 AM
+Bachata Brunch Tuesday at La Catrina
+                                Bethesda            
+Tuesday, Dec 1, 2026
+Share Event
+Wednesday, December 2, 2026
+Bachata, Class
+Class
+Bachata
+6:30 PM - 9:50 PM
+Salsa With Silvia DC Bachata Group Classes
+                                Washington DC            
+Wednesday, Dec 2, 2026
+Share Event
+Salsa, Class & Social
+Class & Social
+Salsa
+7:00 PM - 2:00 AM
+Salsa con Candela Wednesday
+                                Washington DC            
+Wednesday, Dec 2, 2026
+Share Event
+Salsa, Class & Social
+Class & Social
+Salsa
+7:00 PM
+Wednesday Salsa Nights at Casta’s
+                                                        Free                        
+                                Washington DC            
+Wednesday, Dec 2, 2026
+Share Event
+Thursday, December 3, 2026
+Salsa + Bachata, Class & Social
+Class & Social
+Salsa + Bachata
+8:00 PM
+Salsa Jueves Bachata and Salsa Class and Social
+                                                        Free                        
+                                Washington DC            
+Thursday, Dec 3, 2026
+Share Event
+Bachata, Class
+Class
+Bachata
+6:30 PM - 9:50 PM
+Salsa With Silvia DC Bachata Group Classes
+                                Washington DC            
+Thursday, Dec 3, 2026
+Share Event
+Salsa, Social
+Social
+Salsa
+7:00 PM - 11:00 PM
+Baila Thursdays Salsa Social
+                                Washington DC            
+Thursday, Dec 3, 2026
+Share Event
+Friday, December 4, 2026
+Salsa, Class
+Class
+Salsa
+6:00 PM - 7:45 PM
+Salsa Classes at DanceSport Dupont
+                                Washington DC            
+Friday, Dec 4, 2026
+Share Event
+Bachata, Class
+Class
+Bachata
+6:30 PM - 9:50 PM
+Salsa With Silvia DC Bachata Group Classes
+                                Washington DC            
+Friday, Dec 4, 2026
+Share Event
+Bachata, Class
+Class
+Bachata
+7:00 PM - 7:50 PM
+Beginner Bachata Fundamentals at DanceSport Dupont
+                                Washington DC            
+Friday, Dec 4, 2026
+Share Event
+Salsa, Class & Social
+Class & Social
+Salsa
+7:00 PM - 3:00 AM
+Perreo Friday at Café Citron
+                                Washington DC            
+Friday, Dec 4, 2026
+Share Event
+Salsa, Social
+Social
+Salsa
+11:00 PM - 3:00 AM
+Cuba Libre Nights DJ Dance Party
+                                Washington DC            
+Friday, Dec 4, 2026
+Share Event
 Load More Events
 Loading calendar...
 From Salsa Vida
 Explore the Washington DC Salsa Community
+Live salsa bands
+Discover local live music and performers.
+View all bands 
+→
+MR
+Max Rosado & The 7th Street Band
+Washington DC
 Studios & schools
 Find places to learn, practice, and grow.
 Baila DC
@@ -496,7 +510,7 @@ Baila DC serves the Washington, DC metro area with five levels of On2 salsa clas
 ›
 Learn More About Salsa & Bachata in Washington DC
 How many salsa and bachata events are coming up in Washington DC?
-Washington DC has 77 upcoming salsa and bachata events in the next 30 days.
+Washington DC has 78 upcoming salsa and bachata events in the next 30 days.
 Is there salsa or bachata dancing today in Washington DC?
 Yes. Check the “Today” tab for today’s Latin dance events.
 Are there any free Latin dance socials in Washington DC?

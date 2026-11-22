@@ -1,31 +1,23 @@
 Hudson Institute
 https://www.hudson.org/events
-fetched 2026-11-15 00:22Z  status=200 chars=20931 error=
+fetched 2026-11-22 00:21Z  status=200 chars=19397 error=
 
 Events | Hudson Institute
       Skip to main content
 Home
 Topics
 Caption
-155 shell bodies sit on a pallet at General Dynamics ready to be shipped on August 20, 2025, in Scranton, Pennsylvania. (Getty Images)
-  Event
-Chemistry of Combat: Rebuilding America’s Energetics Base
-Madeline Hart,
-Chris Michienzi,
-Michael Brown,
-Sean Hunt,
-Alex Woods,
-Nadia Schadlow
-,                  
-Kristy Klein,
-Maj. Gen. Joe "Solo" Kunkel,
-Brig. Gen. Jason Bartolomei (Retired),
-Bryan Van Brunt,
-Mike Ervin,
-Robert Wardle,
-Kevin Capazolli
-            Oct 27, 2026
-          event
+Russian President Vladimir Putin delivers a speech at the Kremlin in Moscow on November 4, 2026. (Getty Images)
+National Security and Defense
+Why Russia’s Expanding Threat to Europe Must Be Confronted
+John P. Walters
+          President and CEO
+John P. Walters
+                      Commentary
+Nov 3, 2026
+Commentary
+                    1
+ Min Read
 National Security & Defense
 Foreign Policy
 Economics
@@ -38,16 +30,17 @@ View All
 Open Submenu
 Regions
 Caption
-Vice President JD Vance speaks during an event with President Donald Trump in the Oval Office on October 20, 2026, in Washington, DC. (Getty Images)
-Foreign Policy
-Is There an Effective “America First” Position on Israel?
-Michael Doran
-          Senior Fellow and Director, Center for Peace and Security in the Middle East
-Michael Doran
+Finland’s President Alexander Stubb addresses journalists following a telephone call between himself and Russian President Vladimir Putin in Helsinki, Finland, on October 27, 2026. (Getty Images)
+National Security and Defense
+Putin Is “Ready for War”: Is Europe Ready?
+Tsiporah Fried
+          Visiting Senior Fellow
+Tsiporah Fried
                       Commentary
-Oct 21, 2026
+Nov 2, 2026
 Commentary
-                    Long Read
+                    11
+ Min Read
 Indo-Pacific
 Middle East
 Europe & Central Asia
@@ -57,16 +50,16 @@ Americas
 Open Submenu
 Policy Centers
 Caption
-Russia’s President Vladimir Putin attends a meeting with US Special Envoy Steve Witkoff in Saint Petersburg on October 21, 2026. (Getty Images)
+Members of the Iranian military gather to demonstrate their skills during a training camp in Tehran on November 2, 2026. (Getty Images)
 Foreign Policy
-Putin Is a Loser. Treat Him Like One.
-Ludovic Hood
-          Senior Fellow, Center for Peace and Security in the Middle East
-Ludovic Hood
+Why the Middle East Is Hard to Quit
+Walter Russell Mead
+          Ravenel B. Curry III Distinguished Fellow in Strategy and Statesmanship
+Walter Russell Mead
                       Commentary
-Oct 21, 2026
+Nov 2, 2026
 Commentary
-                    4
+                    1
  Min Read
 Center for Defense Concepts and Technology
 Center for Peace and Security in the Middle East
@@ -78,20 +71,24 @@ View All
 Open Submenu
 Research & Analysis
 Caption
-AI-generated image, using a US Air Force photo of B-21 Raider rendezvousing with a KC-135 Stratotanker for aerial refueling near Edwards Air Force Base in California on April 14, 2026, as a reference.
+Global Autonomous Reconnaissance Craft and Lightfish USVs deploy in formation during a live robotic and autonomous systems demonstration during Exercise Obangame Express 2026 in Douala, Cameroon, on April 25, 2026. (US Navy)
 National Security and Defense
-Resilient Reach: Redesigning Aerial Refueling for Contested Global Operations
-Timothy A. Walton
+Righting the Ship: Building a Relevant US Navy Fleet for Twenty-First-Century Deterrence and Combat
+Bryan Clark
+          Senior Fellow and Director, Center for Defense Concepts and Technology
+David Byrd
+          Fellow, Center for Defense Concepts and Technology
+Dan Patt
           Senior Fellow, Center for Defense Concepts and Technology
-Shane Dennin
-          Research Fellow, Center for Defense Concepts and Technology
-Timothy A. Walton
+Bryan Clark
+, 
+David Byrd
  & 
-Shane Dennin
+Dan Patt
                       Reports
-Oct 27, 2026
+Nov 3, 2026
 Reports
-                    8
+                    11
  Min Read
 Commentary
 Reports
@@ -101,30 +98,12 @@ Podcasts
 Open Submenu
 Events
 Caption
-One hundred and ten Yuanzheng A3 humanoid robots perform a synchronized dance on October 24, 2026, in Jinan, China. (Getty Images)
+Secretary of Veterans Affairs Douglas Collins speaks at the White House on September 21, 2026, in Washington, DC. (Getty Images)
   Event
-AI Power and National Security Conference: Open Models, Governance, and US-China Military Competition
-Joel Scanlon
-,                  
-Jason Hsu
-,                  
-Tsiporah Fried
-,                  
-Riley Walters
-,                  
-Steve Kelly,
-Michael Ortiz,
-Sam Bresnick,
-Caroline Zier,
-Thomas Duesterberg
-,                  
-Kyle Crichton,
-Esther Tetruashvily,
-David Helvey,
-James Giordano,
-Lieutenant General Jack Shanahan (USAF, Ret.),
-Bill Drexel
-            Nov 02, 2026
+Putting Veterans First: A Conversation with Secretary of Veterans Affairs Doug Collins
+Doug Collins,
+Jeremy Hunt
+            Nov 13, 2026
           event
 Events
 Hudson Events Podcast
@@ -158,55 +137,40 @@ Open Main Menu
 Search
 Popular in search
 Caption
-The flags of NATO and its member states wave in Brussels, Belgium, on March 6, 2025. (Getty Images)
+Russia’s President Vladimir Putin attends a meeting with US Special Envoy Steve Witkoff in Saint Petersburg on October 21, 2026. (Getty Images)
 Foreign Policy
-America and Europe: A Blueprint for the Next Chapter
-Peter Rough
-          Senior Fellow and Director, Center on Europe and Eurasia
-Ulrich Speck
-          Senior Fellow (Nonresident), Center on Europe and Eurasia
-Peter Rough
- & 
-Ulrich Speck
-                      Reports
-Oct 21, 2026
-Reports
-                    Long Read
-Caption
-Russia’s President Vladimir Putin attends a meeting with Russia’s Sports Minister in Moscow on October 20, 2026. (Getty Images)
-National Security and Defense
-Russia and the West Need a Future Beyond Vladimir Putin
-John P. Walters
-          President and CEO
-John P. Walters
+Putin Is a Loser. Treat Him Like One.
+Ludovic Hood
+          Senior Fellow, Center for Peace and Security in the Middle East
+Ludovic Hood
                       Commentary
-Oct 20, 2026
+Oct 21, 2026
 Commentary
                     4
  Min Read
 Caption
-Pro-Palestine protesters gather during a demonstration outside Downing Street on October 26, 2026 in London, United Kingdom. (Getty Images)
-Human Rights
-US National Security and Antisemitism, Issue 2 | The October 7 Mobilization, Militant Convergence in Europe, Iran’s Campaign in Britain, and the Flydubai Attack
+Vice President JD Vance speaks during an event with President Donald Trump in the Oval Office on October 20, 2026, in Washington, DC. (Getty Images)
+Foreign Policy
+Is There an Effective “America First” Position on Israel?
 Michael Doran
           Senior Fellow and Director, Center for Peace and Security in the Middle East
-Ludovic Hood
-          Senior Fellow, Center for Peace and Security in the Middle East
-Zineb Riboua
-          Research Fellow, Center for Peace and Security in the Middle East
-Natalie Arbatman
-          Research Associate, Center for Peace and Security in the Middle East
 Michael Doran
-, 
-Ludovic Hood
-, 
-Zineb Riboua
- & 
-Natalie Arbatman
-                      Reports
-Oct 30, 2026
-Reports
+                      Commentary
+Oct 21, 2026
+Commentary
                     Long Read
+Caption
+Visitors walk by a billboard showing a semiconductor chip at the Chinese International Supply Chain Expo on June 26, 2026, in Beijing, China. (Getty Images)
+Technology
+America’s AI Pessimism Risks Handing China the Lead
+Paul Sracic
+          Senior Fellow (Nonresident)
+Paul Sracic
+                      Commentary
+Oct 15, 2026
+Commentary
+                    4
+ Min Read
 Expert
 Date from
 Date to
@@ -570,64 +534,219 @@ de Galbert, Simond
 Dates
 Date from
 Date to
-17
+30
 November 2026
           In-Person Event | Hudson Institute
-The Tenth US-ROK Joint Public-Private Economic Forum: Advancing Economic Security and Industrial Strength
+Azerbaijan and the New American Strategy for Eurasia
 Featured Speakers:
-Kim Jina
-Senator Bill Hagerty
-Kurt Campbell
-Elaine L. Chao
-Ambassador Joseph Y. Yun
-Wendy Cutler
-Michael Coulter
-Brent Sadler
-Troy Stangarone
-Arielle Roth
-Jane Nakano
-Nick Snyder
-Sek Hwan Hong
-Jiyoon Lee
-Kayla T. Orta
-Scott Snyder
-Cordell Hull
-Moderators:
-Patrick M. Cronin
-Brigham  A. McCown
-Bryan Clark
-17
+Can Kasapoğlu
+Michael Doran
+Ken Moriyasu
+30
 November 2026
           In-Person Event | Hudson Institute
-The Tenth US-ROK Joint Public-Private Economic Forum: Advancing Economic Security and Industrial Strength
-Join Hudson Institute for the tenth United States–Republic of Korea Joint Public-Private Economic Forum on November 17.
-    TUESDAY 9:30 a.m. - 1:00 p.m.
+Azerbaijan and the New American Strategy for Eurasia
+Join Hudson Institute for a conversation that examines Washington’s relationship with Azerbaijan.
+    MONDAY 2:30 p.m. - 3:30 p.m.
 Featured Speakers:
-Kim Jina
-Senator Bill Hagerty
-Kurt Campbell
-Elaine L. Chao
-Ambassador Joseph Y. Yun
-Wendy Cutler
-Michael Coulter
-Brent Sadler
-Troy Stangarone
-Arielle Roth
-Jane Nakano
-Nick Snyder
-Sek Hwan Hong
-Jiyoon Lee
-Kayla T. Orta
-Scott Snyder
-Cordell Hull
+Can Kasapoğlu
+Michael Doran
+Ken Moriyasu
+  Learn More
+02
+December 2026
+          In-Person Event | Invite Only
+Fukuyama Was Wrong: He Missed the Challenge of Post-Democracy and Post-Liberalism
+Featured Speakers:
+John Fonte
+Tony Abbott
+Daniel McCarthy
+Tom Klingenstein
+Anna Wellisz
+Jonathan Price
+Gadi Taub
+Todd Huizinga
+John O'Sullivan
+Mark Krikorian
+Stanley Kurtz
+Michael Doran
+02
+December 2026
+          In-Person Event | Invite Only
+Fukuyama Was Wrong: He Missed the Challenge of Post-Democracy and Post-Liberalism
+A conference reflecting on John Fonte’s work and the future of liberal democracy
+    WEDNESDAY 9:00 a.m. - 2:00 p.m.
+Featured Speakers:
+John Fonte
+Tony Abbott
+Daniel McCarthy
+Tom Klingenstein
+Anna Wellisz
+Jonathan Price
+Gadi Taub
+Todd Huizinga
+John O'Sullivan
+Mark Krikorian
+Stanley Kurtz
+Michael Doran
+  Learn More
+            02 - 03
+December 2026
+          In-Person Event | Invitation Only
+Second Annual US-China Rivalry in the Middle East Conference
+Featured Speakers:
+Zineb Riboua
+Joel Scanlon
+Can Kasapoğlu
+Michael Doran
+Chaim Martin
+Ryan Fedasiuk
 Moderators:
-Patrick M. Cronin
-Brigham  A. McCown
-Bryan Clark
+Ludovic Hood
+Aaron MacLean
+            02 - 03
+December 2026
+          In-Person Event | Invitation Only
+Second Annual US-China Rivalry in the Middle East Conference
+Join Hudson to examine how the war with Iran, the rise of emerging technologies, and China's expanding influence are reshaping the Middle East, and what the United States must do to secure its strategic and technological leadership in the region and beyond.
+    WEDNESDAY 5:30 p.m. - THURSDAY 2:00 p.m.
+Featured Speakers:
+Zineb Riboua
+Joel Scanlon
+Can Kasapoğlu
+Michael Doran
+Chaim Martin
+Ryan Fedasiuk
+Moderators:
+Ludovic Hood
+Aaron MacLean
+  Learn More
+08
+December 2026
+          In-Person Event | Hudson Institute 
+Strengthening Japanese and Allied Critical Minerals Supply Chains: A Conversation with JOGMEC Chairman Ichiro Takahara
+Featured Speakers:
+William Chou
+Ichiro Takahara
+Kenneth R. Weinstein
+08
+December 2026
+          In-Person Event | Hudson Institute 
+Strengthening Japanese and Allied Critical Minerals Supply Chains: A Conversation with JOGMEC Chairman Ichiro Takahara
+Join Hudson Institute for remarks from JOGMEC Chairman and CEO Ichiro Takahara on critical mineral resilience and allied cooperation. Japan Chair Kenneth R. Weinstein will introduce Chairman Takahara. After the chairman’s remarks, Senior Fellow William Chou will engage in a fireside discussion with him.
+    TUESDAY 11:00 a.m. - 12:00 p.m.
+Featured Speakers:
+William Chou
+Ichiro Takahara
+Kenneth R. Weinstein
+  Learn More
+10
+December 2026
+          In-Person Event | Hudson Institute
+Connected Vehicles, Manufacturing, and National Security: A Conversation with Senator Bernie Moreno
+Featured Speakers:
+Senator Bernie Moreno
+Joel Scanlon
+10
+December 2026
+          In-Person Event | Hudson Institute
+Connected Vehicles, Manufacturing, and National Security: A Conversation with Senator Bernie Moreno
+Join Senator Moreno for a fireside discussion with Executive Vice President Joel Scanlon on protecting American industry from predatory competition and the rapid convergence between industrial and national security being driven by the proliferation of advanced technologies. 
+    THURSDAY 12:00 p.m. - 12:45 p.m.
+Featured Speakers:
+Senator Bernie Moreno
+Joel Scanlon
+  Learn More
+15
+December 2026
+          In-Person Event | Hudson Institute
+America’s Opportunity in the Middle East: A Conversation with Senator Tim Sheehy
+Featured Speakers:
+Tim Sheehy
+Joel Rayburn
+15
+December 2026
+          In-Person Event | Hudson Institute
+America’s Opportunity in the Middle East: A Conversation with Senator Tim Sheehy
+Join Senator Tim Sheehy (R-MT) and Senior Fellow Joel Rayburn for a conversation on how Congress should approach the current dynamics in the Middle East.
+    TUESDAY 10:30 a.m. - 11:30 a.m.
+Featured Speakers:
+Tim Sheehy
+Joel Rayburn
+  Learn More
+07
+January 2027
+          In-Person Event | Hudson Institute
+Transatlantic Defense Industrial Cooperation and NATO 3.0: A Conversation with US Ambassador to NATO Matthew Whitaker
+Featured Speakers:
+Matthew Whitaker
+Peter Rough
+07
+January 2027
+          In-Person Event | Hudson Institute
+Transatlantic Defense Industrial Cooperation and NATO 3.0: A Conversation with US Ambassador to NATO Matthew Whitaker
+Join US Ambassador to NATO Matthew Whitaker and Senior Fellow Peter Rough for a conversation on NATO 3.0, transatlantic defense industrial cooperation, and the state of the alliance in a rapidly evolving threat landscape. 
+    THURSDAY 4:00 p.m. - 5:00 p.m.
+Featured Speakers:
+Matthew Whitaker
+Peter Rough
+  Learn More
+20
+November 2026
+          Past Event
+After the Kerch Bridge: What Ukraine’s Strike Means for the War
+Featured Speakers:
+Can Kasapoğlu
+Lieutenant General (Ret.) Ben Hodges
+Luke Coffey
+20
+November 2026
+          Past Event
+After the Kerch Bridge: What Ukraine’s Strike Means for the War
+Join Hudson Institute for a discussion about Ukraine’s successful attack and its potential impact on the battlefield with Lieutenant General (Ret.) Ben Hodges, former commanding general of US Army Europe, and Senior Fellow Can Kasapoğlu.
+    FRIDAY 2:30 p.m. - 3:30 p.m.
+Featured Speakers:
+Can Kasapoğlu
+Lieutenant General (Ret.) Ben Hodges
+Luke Coffey
+  Learn More
+19
+November 2026
+          Past Event
+Peace Through Strength: How Reagan’s Military Buildup Won the Cold War
+Featured Speakers:
+Roger Zakheim
+Nadia Schadlow
+19
+November 2026
+          Past Event
+Peace Through Strength: How Reagan’s Military Buildup Won the Cold War
+Join Hudson Institute for a conversation with Senior Fellow Nadia Schadlow and Roger Zakheim, director of the Ronald Reagan Presidential Foundation and Institute, to discuss Peace Through Strength and what President Reagan’s buildup can teach US policymakers today. 
+    THURSDAY 11:00 a.m. - 12:30 p.m.
+Featured Speakers:
+Roger Zakheim
+Nadia Schadlow
+  Learn More
+18
+November 2026
+          Past Event
+Rebuilding the Arsenal of Freedom and Reindustrializing America
+Featured Speakers:
+Congressman Mike Rogers
+Nadia Schadlow
+18
+November 2026
+          Past Event
+Rebuilding the Arsenal of Freedom and Reindustrializing America
+Join House Armed Services Committee Chairman Mike Rogers (AL-03) for a fireside discussion with Senior Fellow Nadia Schadlow on Congress’s role in revitalizing America’s defense industrial base.
+    WEDNESDAY 2:00 p.m. - 3:00 p.m.
+Featured Speakers:
+Congressman Mike Rogers
+Nadia Schadlow
   Learn More
 17
 November 2026
-          In-Person Event | Hudson Institute
+          Past Event
 Overcoming US-ROK Alliance Challenges: Trade, Technology, and China
 Featured Speakers:
 David Feith
@@ -637,7 +756,7 @@ Trevor Wagener
 Matt Mowers
 17
 November 2026
-          In-Person Event | Hudson Institute
+          Past Event
 Overcoming US-ROK Alliance Challenges: Trade, Technology, and China
 Join Hudson Institute for a conversation with David Feith, Patrick M. Cronin, Ely Ratner, Trevor Wagener, and Matt Mowers on these challenges. The discussion will consider Wagener’s recent Computer and Communications Industry Association report, 
 The KFTC’s Uneven Hand
@@ -650,231 +769,62 @@ Ely Ratner
 Trevor Wagener
 Matt Mowers
   Learn More
-18
-November 2026
-          In-Person Event | Hudson Institute
-Rebuilding the Arsenal of Freedom and Reindustrializing America
-Featured Speakers:
-Congressman Mike Rogers
-Nadia Schadlow
-18
-November 2026
-          In-Person Event | Hudson Institute
-Rebuilding the Arsenal of Freedom and Reindustrializing America
-Join House Armed Services Committee Chairman Mike Rogers (AL-03) for a fireside discussion with Senior Fellow Nadia Schadlow on Congress’s role in revitalizing America’s defense industrial base.
-    WEDNESDAY 2:00 p.m. - 3:00 p.m.
-Featured Speakers:
-Congressman Mike Rogers
-Nadia Schadlow
-  Learn More
-19
-November 2026
-          In-Person Event | Hudson Institute
-Peace Through Strength: How Reagan’s Military Buildup Won the Cold War
-Featured Speakers:
-Roger Zakheim
-Nadia Schadlow
-19
-November 2026
-          In-Person Event | Hudson Institute
-Peace Through Strength: How Reagan’s Military Buildup Won the Cold War
-Join Hudson Institute for a conversation with Senior Fellow Nadia Schadlow and Roger Zakheim, director of the Ronald Reagan Presidential Foundation and Institute, to discuss Peace Through Strength and what President Reagan’s buildup can teach US policymakers today. 
-    THURSDAY 11:00 a.m. - 12:30 p.m.
-Featured Speakers:
-Roger Zakheim
-Nadia Schadlow
-  Learn More
-13
+17
 November 2026
           Past Event
-A US Navy Fleet for Twenty-First-Century Deterrence and Combat
-Featured Speaker:
-Bryan Clark
-13
-November 2026
-          Past Event
-A US Navy Fleet for Twenty-First-Century Deterrence and Combat
-Join Senior Fellow Bryan Clark for a presentation of his new report, Righting the Ship: Building a Relevant US Navy Fleet for Twenty-First-Century Deterrence and Combat. He will discuss the challenges facing the US Navy and how a new fleet design could help it address its missions within likely future budget and personnel constraints. The webinar will also include time for questions and answers.
-    FRIDAY 1:00 p.m. - 2:00 p.m.
-Featured Speaker:
-Bryan Clark
-  Learn More
-13
-November 2026
-          Past Event
-Putting Veterans First: A Conversation with Secretary of Veterans Affairs Doug Collins
+The Tenth US-ROK Joint Public-Private Economic Forum: Advancing Economic Security and Industrial Strength
 Featured Speakers:
-Doug Collins
-Jeremy Hunt
-13
-November 2026
-          Past Event
-Putting Veterans First: A Conversation with Secretary of Veterans Affairs Doug Collins
-Two days after Veterans Day, United States Secretary of Veterans Affairs Douglas Collins will deliver a keynote address on the Department of Veterans Affairs’ work and his plans under President Donald Trump. He will also join Hudson Institute fellow Jeremy Hunt for a fireside chat.
-    FRIDAY 11:30 a.m. - 12:30 p.m.
-Featured Speakers:
-Doug Collins
-Jeremy Hunt
-  Learn More
-13
-November 2026
-          Past Event
-The Future of US-Japan Cooperation in a Competitive World: Economic Security and Strategy
-Featured Speakers:
+Kim Jina
+Senator Bill Hagerty
+Kurt Campbell
+Elaine L. Chao
+Ambassador Joseph Y. Yun
+Elizabeth Urbanas
+Wendy Cutler
+Michael Coulter
+Brent Sadler
+Troy Stangarone
+Arielle Roth
+Jane Nakano
 Nick Snyder
-Hiroyuki Nakashima
-13
-November 2026
-          Past Event
-The Future of US-Japan Cooperation in a Competitive World: Economic Security and Strategy
-Join Japan Bank for International Cooperation Senior Managing Director Hiroyuki Nakashima and Senior Fellow Nick Snyder for a conversation on the state of the US-Japan relationship, the links between economic cooperation and national security, and the opportunities and challenges ahead for the alliance.
-    FRIDAY 10:00 a.m. - 11:00 a.m.
-Featured Speakers:
-Nick Snyder
-Hiroyuki Nakashima
-  Learn More
-12
-November 2026
-          Past Event
-From Dependence to Resilience: Financing a Secure Pharmaceutical Supply Chain
-Featured Speakers:
-Caroline Vik
-Maryll Toufanian
-Nick Snyder
-12
-November 2026
-          Past Event
-From Dependence to Resilience: Financing a Secure Pharmaceutical Supply Chain
-Join DFC Chief Policy Officer Caroline Vik and Amneal Pharmaceuticals Senior Vice President Maryll Toufanian for a conversation moderated by Senior Fellow Nick Snyder. The discussion will examine America’s strategy to secure pharmaceutical supply chains and the work ahead for policymakers and industry as they pursue sustainable solutions in a complex market and policy environment. 
-    THURSDAY 1:00 p.m. - 2:00 p.m.
-Featured Speakers:
-Caroline Vik
-Maryll Toufanian
-Nick Snyder
-  Learn More
-02
-November 2026
-          Past Event
-AI Power and National Security Conference: Open Models, Governance, and US-China Military Competition
-Featured Speakers:
-Joel Scanlon
-Steve Kelly
-Michael Ortiz
-Sam Bresnick
-Caroline Zier
-Thomas J. Duesterberg
-Kyle Crichton
-Esther Tetruashvily
-David Helvey
-James Giordano
-Lieutenant General Jack Shanahan (USAF, Ret.)
-Bill Drexel
+Sek Hwan Hong
+Jiyoon Lee
+Kayla T. Orta
+Scott Snyder
+Cordell Hull
 Moderators:
-Jason Hsu
-Tsiporah Fried
-Riley Walters
-02
+Patrick M. Cronin
+Brigham  A. McCown
+Timothy A. Walton
+17
 November 2026
           Past Event
-AI Power and National Security Conference: Open Models, Governance, and US-China Military Competition
-Join Hudson Institute for a conference with leaders from industry, government, academia, and defense to discuss the latest developments in the US-China AI competition.
-    MONDAY 2:00 p.m. - 6:00 p.m.
+The Tenth US-ROK Joint Public-Private Economic Forum: Advancing Economic Security and Industrial Strength
+Join Hudson Institute for the tenth United States–Republic of Korea Joint Public-Private Economic Forum on November 17.
+    TUESDAY 9:30 a.m. - 1:00 p.m.
 Featured Speakers:
-Joel Scanlon
-Steve Kelly
-Michael Ortiz
-Sam Bresnick
-Caroline Zier
-Thomas J. Duesterberg
-Kyle Crichton
-Esther Tetruashvily
-David Helvey
-James Giordano
-Lieutenant General Jack Shanahan (USAF, Ret.)
-Bill Drexel
+Kim Jina
+Senator Bill Hagerty
+Kurt Campbell
+Elaine L. Chao
+Ambassador Joseph Y. Yun
+Elizabeth Urbanas
+Wendy Cutler
+Michael Coulter
+Brent Sadler
+Troy Stangarone
+Arielle Roth
+Jane Nakano
+Nick Snyder
+Sek Hwan Hong
+Jiyoon Lee
+Kayla T. Orta
+Scott Snyder
+Cordell Hull
 Moderators:
-Jason Hsu
-Tsiporah Fried
-Riley Walters
-  Learn More
-27
-October 2026
-          Past Event
-Chemistry of Combat: Rebuilding America’s Energetics Base
-Featured Speakers:
-Madeline Hart
-Chris Michienzi
-Michael Brown
-Sean Hunt
-Alex Woods
-Nadia Schadlow
-Kristy Klein
-Maj. Gen. Joe "Solo" Kunkel
-Brig. Gen. Jason Bartolomei (Retired)
-Bryan Van Brunt
-Mike Ervin
-Robert Wardle
-Kevin Capazolli
-27
-October 2026
-          Past Event
-Chemistry of Combat: Rebuilding America’s Energetics Base
-Join Hudson Institute for a discussion of how the US can build a more resilient and flexible energetics base—one that can meet sustained demand while accelerating the development and fielding of new capabilities.
-    TUESDAY 1:00 p.m. - 6:00 p.m.
-Featured Speakers:
-Madeline Hart
-Chris Michienzi
-Michael Brown
-Sean Hunt
-Alex Woods
-Nadia Schadlow
-Kristy Klein
-Maj. Gen. Joe "Solo" Kunkel
-Brig. Gen. Jason Bartolomei (Retired)
-Bryan Van Brunt
-Mike Ervin
-Robert Wardle
-Kevin Capazolli
-  Learn More
-26
-October 2026
-          Past Event
-Mecca Pact vs. IMEC: Competing Visions for the New Middle East 
-Featured Speakers:
-Michael Doran
-Chaim Martin
-Aslı Aydıntaşbaş
-Soner Cagaptay
-Ken Moriyasu
-26
-October 2026
-          Past Event
-Mecca Pact vs. IMEC: Competing Visions for the New Middle East 
-Join Hudson Institute Senior Fellow Ken Moriyasu for a panel with Chaim Martin, Israel’s minister of economic affairs to the United States; Aslı Aydıntaşbaş of the Brookings Institution; Soner Cagaptay of the Washington Institute; and Director of the Center for Peace and Security in the Middle East Michael Doran as they examine the logic behind each framework and what their rivalry means for US policy.
-    MONDAY 11:00 a.m. - 12:00 p.m.
-Featured Speakers:
-Michael Doran
-Chaim Martin
-Aslı Aydıntaşbaş
-Soner Cagaptay
-Ken Moriyasu
-  Learn More
-23
-October 2026
-          Past Event
-A Special Address by Ukrainian President Volodymyr Zelenskyy  
-Featured Speakers:
-Volodymyr Zelenskyy
-John P. Walters
-23
-October 2026
-          Past Event
-A Special Address by Ukrainian President Volodymyr Zelenskyy  
-Please join Hudson Institute for a special address on the current state-of-play by Ukrainian President Volodymyr Zelenskyy, who will join remotely, followed by a question-and-answer session on the war with Hudson Institute President and CEO John Walters.  
-    FRIDAY 12:00 p.m. - 1:00 p.m.
-Featured Speakers:
-Volodymyr Zelenskyy
-John P. Walters
+Patrick M. Cronin
+Brigham  A. McCown
+Timothy A. Walton
   Learn More
 Pagination
 First page

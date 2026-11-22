@@ -1,6 +1,6 @@
 The Dance with Ann Kite
 https://tickets.annkite.com/events/annkitecom/1994688/select-date
-fetched 2026-11-15 00:22Z  status=200 chars=1149 error=
+fetched 2026-11-22 00:20Z  status=200 chars=1028 error=
 
 Select occurrence - The Let Go: Friday Night in Bethesda – Carderock Springs Swim and Tennis Club - annkite.com
 We use cookies to ensure that we give you the best experience on our website. If you continue to use this site we will assume that you are happy with it.
@@ -18,21 +18,6 @@ Review
 Review
 Select occurrence
  Show calendar
-Fri
-Nov
-20
-, 
-2026
-8:00 PM
- - 
-10:00 PM
- EST
-                                    Clear date selection
-Fri
-Nov
-20
-, 
-2026
 Fri
 Dec
 4
@@ -79,7 +64,7 @@ Dec
 , 
 2026
  View
--6
+-7
  more
             Back to top
 annkite.com privacy policy

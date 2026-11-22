@@ -1,6 +1,6 @@
 Hill Center DC
 https://www.hillcenterdc.org/calendar/
-fetched 2026-11-15 00:22Z  status=200 chars=40000 error=
+fetched 2026-11-22 00:21Z  status=200 chars=40000 error=
 
 Program Calendar – Hill Center DC
 Skip to content
@@ -103,7 +103,7 @@ Events
 			Month		
 			Day		
 	This Month
-				2026-11-14			
+				2026-11-21			
 				November 2026			
 		Select date.	
 Browse by category
@@ -146,7 +146,7 @@ Sunday, November 1 @ 11:00 am
  - 
 2:00 pm
 		Master Chef Featuring Celebrated Pastry Chef Padua Player: Sweet & Savory Pie Perfection SOLD OUT! 	
-Join Pie Perfection with SugaChef—The Sweet & Savory Edition, where you’ll learn to craft the ultimate sweet and savory pies from scratch. In class, you’ll make your own flaky, golden crust and assemble flavorful fillings—one indulgent and sweet, and another satisfying and savory—so you leave with confidence, a delicious new skill, and a homemade pie…
+Join Pie Perfection with SugaChef—The Sweet & Savory Edition, where you’ll learn to craft the ultimate sweet and savory pies from scratch. In class, you’ll make your own flaky, golden…
 		$100.00	
 			4 events		
 			2		
@@ -160,7 +160,7 @@ Monday, November 2 @ 5:00 pm
  - 
 6:30 pm
 		Knitting for Beginners with Paula Lytle	
-This class will introduce you to the basic techniques you need to make a wide variety of item (stitches, cast-ons & off, decreases & increases) as well as how to choose and read a pattern, and all about yarn!  The instructor can provide an initial pair of needles and yarn to start, but you can…
+This class will introduce you to the basic techniques you need to make a wide variety of item (stitches, cast-ons & off, decreases & increases) as well as how to…
 		$325.00	
 		6:00 pm	
  - 
@@ -215,7 +215,7 @@ Tuesday, November 3 @ 6:00 pm
  - 
 7:30 pm
 		Kitchen 101: Knife Skills w/ Chef Wendi James	
-Learning how to properly yield a knife is key to cooking great meals safely. Do you want to learn how to chop vegetables like a pro or learn the proper uses for certain knives? Join Chef Wendi James in Hill Center’s kitchen as she teaches the essentials of knife skills for beginners! Learn the techniques…
+Learning how to properly yield a knife is key to cooking great meals safely. Do you want to learn how to chop vegetables like a pro or learn the proper…
 		$49.00	
 		6:00 pm	
  - 
@@ -276,7 +276,7 @@ Wednesday, November 4 @ 5:00 pm
  - 
 6:30 pm
 		The Knitting Club: Intermediate Class with Wine & Community with Paula Lytle	
-Would you like to hone your knitting skills with a manageable project?  Are you interested in trying a new technique in knitting: colorwork, lace, cables, etc. Or do you have a knitting problem or an unfinished project that you would like to solve and/or finish? This is your class!  Join The Knitting Club at Hill…
+Would you like to hone your knitting skills with a manageable project?  Are you interested in trying a new technique in knitting: colorwork, lace, cables, etc. Or do you have…
 		$325.00	
 		5:40 pm	
  - 
@@ -330,7 +330,7 @@ Thursday, November 5 @ 5:00 pm
  - 
 6:30 pm
 		Make a Sweater with Paula Lytle	
-If you have a grasp of basic knitting techniques and always wanted to make the jump to knitting a sweater, this is your class. We will be knitting a sweater in the round with raglan shoulders, either in worsted or bulky weight. The pattern will be provided by the instructor, but you will need to…
+If you have a grasp of basic knitting techniques and always wanted to make the jump to knitting a sweater, this is your class. We will be knitting a sweater…
 		$325.00	
 		6:00 pm	
  - 
@@ -364,7 +364,7 @@ Friday, November 6 @ 7:00 pm
  - 
 9:00 pm
 		Renowned Scottish Fiddler Louise Bichan in Concert: All Hallows’ Eve: Spooky tunes, songs and tales from Scotland, and the release of brand-new album Binnorie	
-Joined by guitarist Conor Hearn, mandolinist Ethan Setiawan and cellist Brendan Hearn, and special guests, Louise Bichan presents the second edition of Halloween music and fun from the Celtic Isles. Featuring Samhain traditions, folk tales and songs of trowies, sea serpents, and selkies and the release of a brand-new album, Binnorie. Come disguised in your…
+Joined by guitarist Conor Hearn, mandolinist Ethan Setiawan and cellist Brendan Hearn, and special guests, Louise Bichan presents the second edition of Halloween music and fun from the Celtic Isles.…
 		$23.00	
 			13 events		
 			7		
@@ -452,7 +452,7 @@ Saturday, November 7 @ 11:00 am
  - 
 1:00 pm
 		Pad See Ew + Thai Spring Rolls with Chef Wilma	
-As the holidays are near, it’s time to up your kitchen game. Add some flare to the table with some Asian flavors. In the last of the three-part Noodles & App series, you’ll make the dish that should be more famous than Pad Thai because it’s so much better — Pad See Ew — and…
+As the holidays are near, it’s time to up your kitchen game. Add some flare to the table with some Asian flavors. In the last of the three-part Noodles &…
 		$79.00	
 		11:00 am	
  - 
@@ -502,7 +502,7 @@ Sunday, November 8 @ 11:00 am
  - 
 2:00 pm
 		Master Chef Featuring 3-time James Beard Award Winner Joe Yonan: A Plant-based Holiday Feast SOLD OUT! 	
-Join Joe Yonan — best-selling cookbook author (“Cool Beans,” “Mastering the Art of Plant-Based Cooking”), three-time James Beard Award winner, and former longtime Food editor at The Washington Post — for a class on building a glorious plant-based menu for the holidays. You’ll learn to make: Harissa-roasted carrot and white bean dip Persian-style stuffed delicata…
+Join Joe Yonan — best-selling cookbook author (“Cool Beans,” “Mastering the Art of Plant-Based Cooking”), three-time James Beard Award winner, and former longtime Food editor at The Washington Post —…
 		$125.00	
 		1:30 pm	
  - 
@@ -512,7 +512,7 @@ Sunday, November 8 @ 1:30 pm
  - 
 3:30 pm
 		EAST WORKSHOP: Poetry with Taru Thompson	
-Words come alive in this inspiring EAST Kids Arts Workshop led by poet and educator Taru Thompson. Young writers will explore poetry as a creative tool for self-expression, storytelling, and reflection. Through fun prompts, group activities, and gentlediscussion, kids will learn how to turn their thoughts, feelings, and observations into poems. Drawing inspiration from nature,…
+Words come alive in this inspiring EAST Kids Arts Workshop led by poet and educator Taru Thompson. Young writers will explore poetry as a creative tool for self-expression, storytelling, and…
 			4 events		
 			9		
 		4 events,
@@ -525,7 +525,7 @@ Monday, November 9 @ 6:00 pm
  - 
 8:00 pm
 		Kitchen Basics: Intermediate Techniques with Chef Wendi James	
-This series is intended for students who have completed the Kitchen Basics: Beginner's Series - Essential Techniques or have comparable skills.   Class #1 - Monday, November 2nd, 6-8pm Salmon en Papillote Asparagus with Lemon Butter Parmesan Sauce Roasted Golden Potatoes Fruit Crostata Class #2 - Monday, November 9th, 6-8pm Red Wine Braised Short Ribs…
+This series is intended for students who have completed the Kitchen Basics: Beginner's Series - Essential Techniques or have comparable skills.   Class #1 - Monday, November 2nd, 6-8pm Salmon…
 		$185.00	
 		6:00 pm	
  - 
@@ -557,7 +557,7 @@ Monday, November 9 @ 6:30 pm
  - 
 8:00 pm
 		Contemporary Watercolors Course with Christine Vineyard	
-Join us for a contemporary approach to painting with watercolors with Christine Vineyard. Students will learn how to use several different types of watercolor paints (tube, liquid and pencils) and approach them in a contemporary way. This class will give students the skills to create paintings on their own with a variety of materials, many…
+Join us for a contemporary approach to painting with watercolors with Christine Vineyard. Students will learn how to use several different types of watercolor paints (tube, liquid and pencils) and…
 		$131.00	
 			6 events		
 			10		
@@ -591,9 +591,7 @@ Tuesday, November 10 @ 6:00 pm
  - 
 7:30 pm
 		Chinese/Hong Kong Mahjong 101	
-Whether you're a casual player looking for a relaxed game or an experienced player ready to sharpen your skills, everyone is welcome to join us for community mahjong night on the hill on Nov. 10. All skill levels welcome. Register now to save your spot!   Any questions? Contact 
-[email protected]
- or find us on Instagram @MahjongOnTheHill. …
+Whether you're a casual player looking for a relaxed game or an experienced player ready to sharpen your skills, everyone is welcome to join us for community mahjong night on…
 		6:15 pm	
  - 
 			8:15 pm		
@@ -611,7 +609,7 @@ Tuesday, November 10 @ 6:30 pm
  - 
 8:00 pm
 		Basic Drawing Techniques: Drawing From an Image with Christine Vineyard	
-This course is designed for adults who wish to start drawing, but aren’t sure where to begin! We will be working on basic drawing skills and techniques over the course of four classes. Our first class will serve as an introduction – trying out techniques and becoming familiar with materials. In the second class, students…
+This course is designed for adults who wish to start drawing, but aren’t sure where to begin! We will be working on basic drawing skills and techniques over the course…
 		$69.00	
 		6:30 pm	
  - 
@@ -697,7 +695,7 @@ Thursday, November 12 @ 6:00 pm
  - 
 8:00 pm
 		Pottery Jam! 2026	
-Event details: When: Thursday November 12th 6pm-8pm Where: Eastern market North Hall, 225 7th st SE What: Pottery Jam Description The Pottery Jam is back! Co-hosted by Eastern Market Pottery and District Clay Center, this lively celebration brings together the DMV’s vibrant ceramic community, featuring guest artists from Pottery on the Hill. It is a…
+Event details: When: Thursday November 12th 6pm-8pm Where: Eastern market North Hall, 225 7th st SE What: Pottery Jam Description The Pottery Jam is back! Co-hosted by Eastern Market Pottery…
 		Free	
 		6:00 pm	
  - 
@@ -707,7 +705,7 @@ Thursday, November 12 @ 6:00 pm
  - 
 8:00 pm
 		Marianne Tshihamba’s Silk Road Cooking Series: Easy Indian Samosas	
-Let’s time-travel with our taste buds! With Marianne Tshihamba, we'll map a culinary journey from Beijing's bustling markets to the coastal kitchens of Zanzibar, exploring how Silk Road traders fused ingredients into the world's first global cuisines. Making Samosas from scratch can take two entire days. In this class you’ll learn a delicious shortcut to make…
+Let’s time-travel with our taste buds! With Marianne Tshihamba, we'll map a culinary journey from Beijing's bustling markets to the coastal kitchens of Zanzibar, exploring how Silk Road traders fused ingredients…
 		$69.00	
 		6:00 pm	
  - 
@@ -750,7 +748,7 @@ Friday, November 13 @ 6:30 pm
  - 
 Sunday, November 15 @ 4:00 pm
 		Pottery on the Hill 2026: Calendar + Tickets	
-Pottery on the Hill SHOW AND SALE – NOVEMBER 13-15, 2026 Pottery on the Hill returns again for another great year of ceramics! Pottery on the Hill is a weekend celebrating functional pottery (that which can be regularly used, such as dinnerware, drink ware, vases, platters, and more) featuring top ceramic artists from across the country.…
+Pottery on the Hill SHOW AND SALE – NOVEMBER 13-15, 2026 Pottery on the Hill returns again for another great year of ceramics! Pottery on the Hill is a weekend celebrating…
 		Free – $50.00	
 			10 events		
 			14		
@@ -766,7 +764,7 @@ Saturday, November 14 @ 9:00 am
  - 
 11:00 am
 		Tai Chi Chuan	
-Tai Chi Chuan is a formulated set of movements designed for body and mind. This discipline for health and serenity is also a complete system of self-defense and a martial art that emphasizes sensitivity, serenity and flexibility. Our classes are conducted in a relaxed, go-at-your-own-pace, collegial spirit infused with the seriousness that the study of…
+Tai Chi Chuan is a formulated set of movements designed for body and mind. This discipline for health and serenity is also a complete system of self-defense and a martial…
 		9:00 am	
  - 
 			11:00 pm		
@@ -775,7 +773,7 @@ Saturday, November 14 @ 9:00 am
  - 
 11:00 pm
 		Immersive Saturday Spanish for Kids by Go Spanish Now – Confident Communicators (Ages 9–14)	
-Make learning Spanish an exciting 8-week adventure for your child! Brought to you by Go Spanish Now, our fully immersive program is designed to spark joy in learning, build confidence, and help children start speaking Spanish naturally. Through engaging games, music, and interactive activities led by experienced native Spanish-speaking instructors, our small-group classes provide the…
+Make learning Spanish an exciting 8-week adventure for your child! Brought to you by Go Spanish Now, our fully immersive program is designed to spark joy in learning, build confidence,…
 		$306.00	
 		9:00 am	
  - 
@@ -785,7 +783,7 @@ Saturday, November 14 @ 9:00 am
  - 
 11:00 am
 		Immersive Saturday Spanish for Kids by Go Spanish Now – Young Explorers (Ages 4–8)	
-Make learning Spanish an exciting 8-week adventure for your child! Brought to you by Go Spanish Now, our fully immersive program is designed to spark joy in learning, build confidence, and help children start speaking Spanish naturally. Through engaging games, music, and interactive activities led by experienced native Spanish-speaking instructors, our small-group classes provide the…
+Make learning Spanish an exciting 8-week adventure for your child! Brought to you by Go Spanish Now, our fully immersive program is designed to spark joy in learning, build confidence,…
 		$306.00	
 		9:30 am	
  - 
@@ -795,7 +793,7 @@ Saturday, November 14 @ 9:30 am
  - 
 10:00 am
 		Tippi Toes: Baby Ballet	
-This class is a wonderful transition between Toddler & Me and Ballet, Tap & Jazz class. Music, movement, balance and the basic dance steps are introduced in a fun, friendly and positive manner. The dancers do not have mom, dad or another loved one by their side during the class, so this class is great…
+This class is a wonderful transition between Toddler & Me and Ballet, Tap & Jazz class. Music, movement, balance and the basic dance steps are introduced in a fun, friendly…
 		10:10 am	
  - 
 			10:50 am		
@@ -804,7 +802,7 @@ Saturday, November 14 @ 10:10 am
  - 
 10:50 am
 		Tippi Toes: Toddler & Me	
-Toddler & Me dance classes are for children 18 months up to the age of 3 years. Music, movement, balance and the basic dance steps are introduced in a fun, friendly and positive manner. This type of class includes mom or dad, another loved one or a caretaker participating in the class along with the…
+Toddler & Me dance classes are for children 18 months up to the age of 3 years. Music, movement, balance and the basic dance steps are introduced in a fun,…
 		10:10 am	
  - 
 			10:45 am		
@@ -813,7 +811,7 @@ Saturday, November 14 @ 10:10 am
  - 
 10:45 am
 		Tippi Toes: Ballet Tap Jazz Combo	
-Ballet, Tap & Jazz combo classes are offered for children 3-6 years old. This high energy dance class is designed to keep boys and girls engaged in continual motion while they learn the basic elements of dance including positions and terminology. We incorporate an even mix of the three types of dance over the 45…
+Ballet, Tap & Jazz combo classes are offered for children 3-6 years old. This high energy dance class is designed to keep boys and girls engaged in continual motion while…
 		12:00 pm	
  - 
 			12:45 pm		
@@ -822,7 +820,7 @@ Saturday, November 14 @ 12:00 pm
  - 
 12:45 pm
 		Tippi Toes:  Hip Hop	
-Do you love to dance around the house listening to great music? Have you ever wanted to play freeze dance or do a line dance? Tippi Toes teachers will have you dancin' to the beat in no time! Our Hip Hop class starts with warm-ups and stretching and quickly moves into learning hip hop choreography…
+Do you love to dance around the house listening to great music? Have you ever wanted to play freeze dance or do a line dance? Tippi Toes teachers will have…
 		12:30 pm	
  - 
 			2:30 pm		
@@ -831,7 +829,7 @@ Saturday, November 14 @ 12:30 pm
  - 
 2:30 pm
 		Contemporary Watercolors Workshop with Christine Vineyard	
-Join us for a contemporary approach to painting with watercolors with Christine Vineyard. Students will learn how to use several different types of watercolor paints (tube, liquid and pencils) and approach them in a contemporary way. This class will give students the skills to create paintings on their own with a variety of materials, many…
+Join us for a contemporary approach to painting with watercolors with Christine Vineyard. Students will learn how to use several different types of watercolor paints (tube, liquid and pencils) and…
 		$54.00	
 		3:00 pm	
  - 
@@ -841,7 +839,7 @@ Saturday, November 14 @ 3:00 pm
  - 
 5:30 pm
 		Introduction to Linocut Printmaking Workshop with Christine Vineyard	
-Learn a new technique and create your very own print in this workshop with Christine Vineyard! Students will walk away with basic knowledge and instructions for how to create a linoleum block print from start to finish. By the end of class, students will have a carved block and at least one final print to…
+Learn a new technique and create your very own print in this workshop with Christine Vineyard! Students will walk away with basic knowledge and instructions for how to create a…
 		$62.00	
 			1 event		
 			15		
@@ -862,7 +860,7 @@ Monday, November 16 @ 6:00 pm
  - 
 8:00 pm
 		Kitchen Basics: Intermediate Techniques with Chef Wendi James	
-This series is intended for students who have completed the Kitchen Basics: Beginner's Series - Essential Techniques or have comparable skills.   Class #1 - Monday, November 2nd, 6-8pm Salmon en Papillote Asparagus with Lemon Butter Parmesan Sauce Roasted Golden Potatoes Fruit Crostata Class #2 - Monday, November 9th, 6-8pm Red Wine Braised Short Ribs…
+This series is intended for students who have completed the Kitchen Basics: Beginner's Series - Essential Techniques or have comparable skills.   Class #1 - Monday, November 2nd, 6-8pm Salmon…
 		$185.00	
 		6:00 pm	
  - 
@@ -872,7 +870,7 @@ Monday, November 16 @ 6:00 pm
  - 
 8:00 pm
 		French Language Course: Advanced – Fall 2026	
-Embark on an enriching linguistic adventure with our Advanced French Language Course. This class is crafted for confident learners that are eager to ascend to fluency. Delve into the intricate advanced grammar structures, explore nuanced verb tenses, and expand your vocabulary to articulate complex ideas. Engage in spirited discussions, analyze challenging texts, and refine your…
+Embark on an enriching linguistic adventure with our Advanced French Language Course. This class is crafted for confident learners that are eager to ascend to fluency. Delve into the intricate…
 			Get Tickets		
 		$199.00 – $349.00	
 		6:00 pm	
@@ -883,7 +881,7 @@ Monday, November 16 @ 6:00 pm
  - 
 8:00 pm
 		Spanish Language Course: Intermediate Class – November 2026	
-Hill Center has partnered with Go Spanish Now to provide this Spanish course. The purpose of this course is not simply to teach you about Spanish, but rather to develop your language skills so that you can communicate successfully in the language. For that reason, the course includes a variety of components designed to allow…
+Hill Center has partnered with Go Spanish Now to provide this Spanish course. The purpose of this course is not simply to teach you about Spanish, but rather to develop…
 			Get Tickets		
 		$210.00 – $349.00	
 		6:30 pm	
@@ -894,7 +892,7 @@ Monday, November 16 @ 6:30 pm
  - 
 8:00 pm
 		Contemporary Watercolors Course with Christine Vineyard	
-Join us for a contemporary approach to painting with watercolors with Christine Vineyard. Students will learn how to use several different types of watercolor paints (tube, liquid and pencils) and approach them in a contemporary way. This class will give students the skills to create paintings on their own with a variety of materials, many…
+Join us for a contemporary approach to painting with watercolors with Christine Vineyard. Students will learn how to use several different types of watercolor paints (tube, liquid and pencils) and…
 		$131.00	
 		7:00 pm	
  - 
@@ -905,7 +903,6 @@ Monday, November 16 @ 7:00 pm
 9:00 pm
 		Overbeck Lecture: Bridges of Washington, D.C.: A History	
 The history of DC is also the history of its bridges. In the late 1790s, the first bridges, now completely gone, connected the new Federal City to the outside world. Throughout the nineteenth and twentieth centuries, more and bigger crossings arose to support industry, allow the expansion of suburbs, commemorate cultural and civic leaders, and…
-			Get Tickets		
 		Free	
 			5 events		
 			17		
@@ -919,7 +916,7 @@ Tuesday, November 17 @ 3:30 pm
  - 
 8:00 pm
 		Piano and Voice Lessons with Ms. Alice	
-Alice was raised by a family of professional singers and began taking Suzuki piano lessons at age 4. In school, she joined concert bands playing the French horn and often landed leading roles in musical theater productions at school and in community theaters. Alice studied music at the University of Maryland, College Park where she…
+Alice was raised by a family of professional singers and began taking Suzuki piano lessons at age 4. In school, she joined concert bands playing the French horn and often…
 		6:00 pm	
  - 
 			7:30 pm		
@@ -928,8 +925,7 @@ Tuesday, November 17 @ 6:00 pm
  - 
 7:30 pm
 		Kitchen 101: Knife Skills w/ Chef Wendi James	
-Learning how to properly yield a knife is key to cooking great meals safely. Do you want to learn how to chop vegetables like a pro or learn the proper uses for certain knives? Join Chef Wendi James in Hill Center’s kitchen as she teaches the essentials of knife skills for beginners! Learn the techniques…
-			Get Tickets		
+Learning how to properly yield a knife is key to cooking great meals safely. Do you want to learn how to chop vegetables like a pro or learn the proper…
 		$49.00	
 		6:00 pm	
  - 
@@ -939,7 +935,7 @@ Tuesday, November 17 @ 6:00 pm
  - 
 8:00 pm
 		French Language Course: Beginner – Fall 2026	
-While fluency is developed over years, confidence is built in the classroom. In this blended Beginner level class, the instructor will introduce the alphabet and the basic tenets of the French language. You will learn numbers, days of the week, and months of the year and dive into a crossword puzzle to learn basic vocabulary.…
+While fluency is developed over years, confidence is built in the classroom. In this blended Beginner level class, the instructor will introduce the alphabet and the basic tenets of the…
 			Get Tickets		
 		$199.00 – $349.00	
 		6:15 pm	
@@ -959,11 +955,11 @@ Tuesday, November 17 @ 6:30 pm
  - 
 8:00 pm
 		Basic Drawing Techniques: Drawing From an Image with Christine Vineyard	
-This course is designed for adults who wish to start drawing, but aren’t sure where to begin! We will be working on basic drawing skills and techniques over the course of four classes. Our first class will serve as an introduction – trying out techniques and becoming familiar with materials. In the second class, students…
+This course is designed for adults who wish to start drawing, but aren’t sure where to begin! We will be working on basic drawing skills and techniques over the course…
 		$69.00	
-			8 events		
+			7 events		
 			18		
-		8 events,
+		7 events,
 				18			
 		10:10 am	
  - 
@@ -973,7 +969,7 @@ Wednesday, November 18 @ 10:10 am
  - 
 10:50 am
 		Tippi Toes: Toddler & Me	
-Toddler & Me dance classes are for children 18 months up to the age of 3 years. Music, movement, balance and the basic dance steps are introduced in a fun, friendly and positive manner. This type of class includes mom or dad, another loved one or a caretaker participating in the class along with the…
+Toddler & Me dance classes are for children 18 months up to the age of 3 years. Music, movement, balance and the basic dance steps are introduced in a fun,…
 		3:30 pm	
  - 
 			8:00 pm		
@@ -982,7 +978,7 @@ Wednesday, November 18 @ 3:30 pm
  - 
 8:00 pm
 		Piano and Voice Lessons with Ms. Alice	
-Alice was raised by a family of professional singers and began taking Suzuki piano lessons at age 4. In school, she joined concert bands playing the French horn and often landed leading roles in musical theater productions at school and in community theaters. Alice studied music at the University of Maryland, College Park where she…
+Alice was raised by a family of professional singers and began taking Suzuki piano lessons at age 4. In school, she joined concert bands playing the French horn and often…
 		4:45 pm	
  - 
 			5:30 pm		
@@ -991,7 +987,7 @@ Wednesday, November 18 @ 4:45 pm
  - 
 5:30 pm
 		Tippi Toes: Ballet Tap Jazz Combo	
-Ballet, Tap & Jazz combo classes are offered for children 3-6 years old. This high energy dance class is designed to keep boys and girls engaged in continual motion while they learn the basic elements of dance including positions and terminology. We incorporate an even mix of the three types of dance over the 45…
+Ballet, Tap & Jazz combo classes are offered for children 3-6 years old. This high energy dance class is designed to keep boys and girls engaged in continual motion while…
 		5:40 pm	
  - 
 			6:25 pm		
@@ -1000,7 +996,7 @@ Wednesday, November 18 @ 5:40 pm
  - 
 6:25 pm
 		Tippi Toes: Tippi Pro	
-Tippi Pro takes our Ballet Tap Jazz combo class to a whole new level - introducing more complex dance steps, combos, and steps across the floor in the same upbeat, FUN Tippi Toes way! This class is designed for 6-9 year olds and builds on concepts learned in prior Tippi Toes classes. No prior dance…
+Tippi Pro takes our Ballet Tap Jazz combo class to a whole new level - introducing more complex dance steps, combos, and steps across the floor in the same upbeat,…
 		6:00 pm	
  - 
 			8:00 pm		
@@ -1009,7 +1005,7 @@ Wednesday, November 18 @ 6:00 pm
  - 
 8:00 pm
 		American Mahjong with DC Mahj Collective	
-Join us for American Mahjong - every other Wednesday! Beginners and old hands are welcome. Beginner Mahjong @ The Hill Center ($75) Learn to play American Mahjong in just one lesson! We'll teach you the tiles, the setup, the game and you'll leave knowing how to play. Each participant will get one of our instructional…
+Join us for American Mahjong - every other Wednesday! Beginners and old hands are welcome. Beginner Mahjong @ The Hill Center ($75) Learn to play American Mahjong in just one…
 		6:00 pm	
  - 
 			8:00 pm		
@@ -1018,4 +1014,161 @@ Wednesday, November 18 @ 6:00 pm
  - 
 8:00 pm
 		French Language Course: Intermediate II – Fall 2026	
-Embark on an enriching linguistic adventure with our Intermediate French Language Course. This class is crafted for confident learners that are eager to ascend to fluency. Delve into the intricate advanced grammar structures, explore nuanced verb tenses, and ex
+Embark on an enriching linguistic adventure with our Intermediate French Language Course. This class is crafted for confident learners that are eager to ascend to fluency. Delve into the intricate…
+			Sold Out		
+		$199.00 – $349.00	
+		6:00 pm	
+ - 
+			8:00 pm		
+		Spanish Language Course: Advanced Intermediate Class – November 2026	
+Wednesday, November 18 @ 6:00 pm
+ - 
+8:00 pm
+		Spanish Language Course: Advanced Intermediate Class – November 2026	
+Hill Center has partnered with Go Spanish Now to provide this Spanish course. This course is designed for students who already have a strong foundation in Spanish and want to…
+			Get Tickets		
+		$210.00 – $349.00	
+			2 events		
+			19		
+		2 events,
+				19			
+		6:00 pm	
+ - 
+			8:00 pm		
+		Spanish Language Course: Beginner Class – November 2026	
+Thursday, November 19 @ 6:00 pm
+ - 
+8:00 pm
+		Spanish Language Course: Beginner Class – November 2026	
+Hill Center has partnered with Go Spanish Now to provide this Spanish course. The purpose of this course is not simply to teach you about Spanish, but rather to develop your…
+			Get Tickets		
+		$210.00 – $349.00	
+		6:15 pm	
+ - 
+			8:15 pm		
+		Tai Chi Chuan	
+Thursday, November 19 @ 6:15 pm
+ - 
+8:15 pm
+		Tai Chi Chuan	
+Tai Chi Chuan is a formulated set of movements designed for body and mind. This discipline for health and serenity is also a complete system of self-defense and a martial…
+			2 events		
+			20		
+		2 events,
+				20			
+		6:00 pm	
+ - 
+			8:00 pm		
+		Japanese Bento Box with Chef Wilma SOLD OUT! 	
+Friday, November 20 @ 6:00 pm
+ - 
+8:00 pm
+		Japanese Bento Box with Chef Wilma SOLD OUT! 	
+Tired of sandwiches for lunch? Here’s a class that can jazz up your lunch bags and dining table. The Japanese Bento Box has remained the quintessential meal of convenience and…
+		$79.00	
+		6:00 pm	
+ - 
+			8:00 pm		
+		Date Night: Fall Flavors – A Squash Celebration SOLD OUT! 	
+Friday, November 20 @ 6:00 pm
+ - 
+8:00 pm
+		Date Night: Fall Flavors – A Squash Celebration SOLD OUT! 	
+Get ready for a fun-filled culinary adventure! Grab your favorite person and dive into three vibrant, squash-centric recipes. After you've cooked up a storm, you'll enjoy your spectacular feast with…
+		$160.00	
+			12 events		
+			21		
+		12 events,
+				21			
+		9:00 am	
+ - 
+			11:00 am		
+		Tai Chi Chuan	
+Saturday, November 21 @ 9:00 am
+ - 
+11:00 am
+		Tai Chi Chuan	
+Tai Chi Chuan is a formulated set of movements designed for body and mind. This discipline for health and serenity is also a complete system of self-defense and a martial…
+		9:00 am	
+ - 
+			11:00 pm		
+		Immersive Saturday Spanish for Kids by Go Spanish Now – Confident Communicators (Ages 9–14)	
+Saturday, November 21 @ 9:00 am
+ - 
+11:00 pm
+		Immersive Saturday Spanish for Kids by Go Spanish Now – Confident Communicators (Ages 9–14)	
+Make learning Spanish an exciting 8-week adventure for your child! Brought to you by Go Spanish Now, our fully immersive program is designed to spark joy in learning, build confidence, and help children start speaking Spanish naturally. Through engaging games, music, and interactive activities led by experienced native Spanish-speaking instructors, our small-group classes provide the…
+		$306.00	
+		9:00 am	
+ - 
+			11:00 am		
+		Immersive Saturday Spanish for Kids by Go Spanish Now – Young Explorers (Ages 4–8)	
+Saturday, November 21 @ 9:00 am
+ - 
+11:00 am
+		Immersive Saturday Spanish for Kids by Go Spanish Now – Young Explorers (Ages 4–8)	
+Make learning Spanish an exciting 8-week adventure for your child! Brought to you by Go Spanish Now, our fully immersive program is designed to spark joy in learning, build confidence,…
+		$306.00	
+		9:30 am	
+ - 
+			10:00 am		
+		Tippi Toes: Baby Ballet	
+Saturday, November 21 @ 9:30 am
+ - 
+10:00 am
+		Tippi Toes: Baby Ballet	
+This class is a wonderful transition between Toddler & Me and Ballet, Tap & Jazz class. Music, movement, balance and the basic dance steps are introduced in a fun, friendly…
+		10:00 am	
+ - 
+			11:00 am		
+		Woolfolk Academy Dance – Jr. Ballet (Ages 5-8)	
+Saturday, November 21 @ 10:00 am
+ - 
+11:00 am
+		Woolfolk Academy Dance – Jr. Ballet (Ages 5-8)	
+Jr. Ballet is designed for movers ages 5-8 who enjoy ballet dancing. In this class, students build coordination, confidence, creativity, and teamwork skills; all while having fun.This class introduces foundational…
+		10:10 am	
+ - 
+			10:50 am		
+		Tippi Toes: Toddler & Me	
+Saturday, November 21 @ 10:10 am
+ - 
+10:50 am
+		Tippi Toes: Toddler & Me	
+Toddler & Me dance classes are for children 18 months up to the age of 3 years. Music, movement, balance and the basic dance steps are introduced in a fun,…
+		10:10 am	
+ - 
+			10:45 am		
+		Tippi Toes: Ballet Tap Jazz Combo	
+Saturday, November 21 @ 10:10 am
+ - 
+10:45 am
+		Tippi Toes: Ballet Tap Jazz Combo	
+Ballet, Tap & Jazz combo classes are offered for children 3-6 years old. This high energy dance class is designed to keep boys and girls engaged in continual motion while…
+		11:00 am	
+ - 
+			11:45 am		
+		Woolfolk Academy Dance – Creative Movement (Ages 3-4)	
+Saturday, November 21 @ 11:00 am
+ - 
+11:45 am
+		Woolfolk Academy Dance – Creative Movement (Ages 3-4)	
+This class is designed for movers ages 3-4 who enjoy dancing. It focuses on creativity, coordination, musicality, and confidence in a fun and nurturing environment. This class introduces foundational dance skills that will transfer well in any dance class. TUITION & FEES: $420 for the full fall term. $360 for classes and a $20 registration…
+		11:00 am	
+ - 
+			11:45 am		
+		Tippi Toes: Ballet Tap Jazz Combo	
+Saturday, November 21 @ 11:00 am
+ - 
+11:45 am
+		Tippi Toes: Ballet Tap Jazz Combo	
+Ballet, Tap & Jazz combo classes are offered for children 3-4 years old. This high energy dance class is designed to keep boys and girls engaged in continual motion while they learn the basic elements of dance including positions and terminology. We incorporate an even mix of the three types of dance over the 45…
+		11:00 am	
+ - 
+			11:45 am		
+		Tippi Toes: Ballet Tap Jazz Combo	
+Saturday, November 21 @ 11:00 am
+ - 
+11:45 am
+		Tippi Toes: Ballet Tap Jazz Combo	
+Ballet, Tap & Jazz combo classes are offered for children 5-6 years old. This high energy dance class is designed to keep

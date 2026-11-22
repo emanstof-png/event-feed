@@ -1,4 +1,4 @@
 Stimson Center
 https://www.stimson.org/all-events/
-fetched 2026-11-15 00:22Z  status= chars=0 error=HTTPError: HTTP Error 403: 
+fetched 2026-11-22 00:21Z  status= chars=0 error=HTTPError: HTTP Error 403: 
 

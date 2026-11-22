@@ -1,6 +1,6 @@
 CNAS
 https://www.cnas.org/events
-fetched 2026-11-15 00:22Z  status=200 chars=9581 error=
+fetched 2026-11-22 00:21Z  status=200 chars=9204 error=
 
 Events at CNAS | CNAS
 Center for a New American Security
@@ -68,6 +68,7 @@ Resident Experts
 All Resident Experts
 Molly Campbell
 Vivek Chilukuri
+Serena Chow
 Ryan Claffey
 Carrie Cordero
 Isabel Dlabach
@@ -239,19 +240,6 @@ Connect
 Support
 Contact
 Subscribe
-Upcoming Events
-Event
-Next Up
-                                                Transatlantic Security
-The Next Phase of the Axis of Upheaval
-Nov 17, 2026
-2:00p.m. ET
-            Read More
-                Defense /               
-                Transatlantic Security /               
-                Middle East Security              
-Partners in Proliferation: Mapping a Decade of Iranian-Russian Military Cooperation
-        Nov 18, 2026
 Recent Events
 Filter by research area:
 More Areas
@@ -266,6 +254,20 @@ More Areas
                                             AI Policy Lab
                                             Global Swing States
 Filter by keyword:
+Event
+Defense
+ / 
+Transatlantic Security
+ / 
+Middle East Security
+Partners in Proliferation: Mapping a Decade of Iranian-Russian Military Cooperation
+                                          Stacie Pettyjohn,                                          Delaney Soliday                                      
+        Nov 18, 2026
+Event
+Transatlantic Security
+The Next Phase of the Axis of Upheaval
+                                          Richard Fontaine,                                          Andrea Kendall-Taylor                                      
+        Nov 17, 2026
 Event
 Technology & National Security
 Fireside Chat with Ben Buchanan
@@ -335,16 +337,6 @@ Technology & National Security
 Who Will Make Money on AI?
                                           Emily Kilcrease,                                          Daniel Remler                                      
         May 26, 2026
-Event
-Energy, Economics & Security
-Invested Allies: How the Private Sector Can Boost U.S.-South Korea Economic Security Cooperation
-                                          Emily Kilcrease,                                          Eleanor Hume                                      
-        May 21, 2026
-Event
-Technology & National Security
-U.S.-China AI Competition:  A Fireside Chat with Chairman Brian Mast
-                                          Daniel Remler                                      
-        May 19, 2026
 Previous Page
       Previous
  of 39
