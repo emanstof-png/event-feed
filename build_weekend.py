@@ -6,12 +6,13 @@ weekend_feed.csv (main list) and weekend_feed_elite.csv (Elite list). A source i
 import csv, html, re, sys
 
 start, end, tsvs = sys.argv[1], sys.argv[2], sys.argv[3:]
-lists = {"main": list(csv.DictReader(open("sources_methods.csv"))), "elite": list(csv.DictReader(open("elite_methods.csv")))}
+lists = {"main": list(csv.DictReader(open("sources_methods.csv"))), "elite": list(csv.DictReader(open("elite_methods.csv"))),
+         "nightlife": list(csv.DictReader(open("nightlife_methods.csv")))}   # Nov 27: nightlife sources feed the main tab
 meta = {}
 for key, rows in lists.items():
     for r in rows:
         m = meta.setdefault(r["name"], {"lists": set(), "category": r["category"], "url": r["url"]})
-        m["lists"].add(key)
+        m["lists"].add("main" if key == "nightlife" else key)
 
 def match(src):
     if src in meta:
@@ -22,14 +23,18 @@ def match(src):
 
 rows = []
 desc = {}
-for f in ("feed_desc.csv", "feed_desc_elite.csv"):
+for f in ("feed_desc.csv", "feed_desc_elite.csv", "feed_desc_nightlife.csv"):
     try:
         for r in csv.DictReader(open(f)):
             desc[(r.get("title"), r.get("source"))] = r.get("desc", "")
     except FileNotFoundError:
         pass
-for f in ("feed_test.csv", "feed_test_elite.csv"):
-    for r in csv.DictReader(open(f)):
+for f in ("feed_test.csv", "feed_test_elite.csv", "feed_test_nightlife.csv"):
+    try:
+        fr = list(csv.DictReader(open(f)))
+    except FileNotFoundError:
+        continue
+    for r in fr:
         rows.append(dict(Date=r["Date"], Time=r["Time"], Title=r["Title"], Venue=r["Venue"], Source=r["Source"],
                          Link=r["Link"], raw=desc.get((r["Title"], r["Source"]), "")))
 for f in tsvs:
