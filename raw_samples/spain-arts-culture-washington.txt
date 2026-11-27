@@ -1,6 +1,16 @@
 SPAIN arts & culture (Washington)
 https://www.spainculture.us/city/washington-dc/feed/
-fetched 2026-11-22 00:20Z  status=25 items chars=16507 error=
+fetched 2026-11-27 23:09Z  status=25 items chars=16414 error=
+
+Spanish Young Music Talents: José Fraguas at The Kreeger Museum
+Thu, 28 Jan 2027 19:00:00 -0500
+<p><img alt="Spanish Young Music Talents: José Fraguas at The Kreeger Museum" src="https://www.spainculture.us/site/assets/files/9574/74822eb5-3179-4211-83e0-2727f5949e2c-3908112119.-grande.jpg" /></p><p><strong>Date:</strong> Jan 28, 2027</p><p><strong>Address:</strong> The Kreeger Museum, 2401 Foxhall Rd NW, Washington, DC 20007</p><p>Spanish violinist José Fraguas and pianist GaYoung Lee perform “The Art of Virtuosity,” a recital combining major violin repertoire with Spanish works.</p>
+https://www.spainculture.us/city/washington-dc/spanish-young-music-talents-jose-fraguas-at-the-kreeger-museum/
+
+Sin Fin by SonDeBaril Flamenco
+Sat, 12 Dec 2026 19:30:00 -0500
+<p><img alt="Sin Fin by SonDeBaril Flamenco" src="https://www.spainculture.us/site/assets/files/9575/sondebaril_flamenco.-grande.jpg" /></p><p><strong>Date:</strong> Dec 12, 2026</p><p><strong>Address:</strong> The Writer&apos;s Center Theater, 4508 Walsh St, Bethesda, MD 20815</p><p>SonDeBaril’s latest work, &quot;Sin Fin,&quot; draws on Spanish flamenco traditions to explore the cycles of life, death, and renewal through music, dance, and the changing seasons.</p>
+https://www.spainculture.us/city/washington-dc/sondebaril-flamencos-new-work-sin-fin/
 
 Winter Soirée: Cubas Hondal Duo
 Thu, 10 Dec 2026 18:30:00 -0500
@@ -116,13 +126,3 @@ Mujeres de Cine 2026
 Thu, 22 Oct 2026 00:00:00 -0400
 <p><img alt="Mujeres de Cine 2026" src="https://www.spainculture.us/site/assets/files/9512/quinta.-grande.jpg" /></p><p><strong>Date:</strong> Oct 22 &ndash; Oct 29, 2026</p><p><strong>Address:</strong> Spanish Cultural Center, 2801 16th St NW, Washington, DC 20009</p><p>The Cultural Office of the Embassy of Spain in Washington, D.C. presents a new edition of &quot;Mujeres de Cine,&quot; featuring Avelina Prats&apos; &quot;La Quinta Portuguesa&quot; as well as Celia Rico&apos;s &quot;La buena letra.&quot;</p>
 https://www.spainculture.us/city/washington-dc/mujeres-de-cine-2026/
-
-Hispanic Heritage Day and Our Lady of the Pillar
-Sun, 18 Oct 2026 14:30:00 -0400
-<p><img alt="Hispanic Heritage Day and Our Lady of the Pillar" src="https://www.spainculture.us/site/assets/files/9437/20191016_zaragoza_basilicapilar_capillapilar-22.-grande.jpg" /></p><p><strong>Date:</strong> Oct 18, 2026</p><p><strong>Address:</strong> Basilica of the National Shrine of the Immaculate Conception, 400 Michigan Ave NE, Washington, DC 20017</p><p>This celebration will honor Hispanic Heritage Day and Our Lady of the Pillar with a special Holy Mass featuring Spanish Catholic representatives and clergy from Spain, the United States, and the Holy See.</p>
-https://www.spainculture.us/city/washington-dc/hispanic-heritage-day-and-our-lady-of-the-pillar/
-
-Spanish Young Music Talents: Javier Lucío in Washington, DC
-Tue, 13 Oct 2026 18:30:00 -0400
-<p><img alt="Spanish Young Music Talents: Javier Lucío in Washington, DC" src="https://www.spainculture.us/site/assets/files/9490/javier_vertical.-grande.jpg" /></p><p><strong>Date:</strong> Oct 13, 2026</p><p><strong>Address:</strong> Spanish Cultural Center, 2801 16th St NW, Washington, DC 20009</p><p>Spanish guitarist Javier Lucío visits Washington, DC, as this month’s guest of &quot;Spanish Young Music Talents,&quot; presenting a solo guitar recital.</p>
-https://www.spainculture.us/city/washington-dc/spanish-young-music-talents-javier-lucio-in-washington-dc/

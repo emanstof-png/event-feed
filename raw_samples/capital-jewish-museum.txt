@@ -1,6 +1,6 @@
 Capital Jewish Museum
 https://capitaljewishmuseum.org/calendar/?all_events=1
-fetched 2026-11-22 00:20Z  status=200 chars=6111 error=
+fetched 2026-11-27 23:09Z  status=200 chars=6111 error=
 
 Special Exhibits & Programs DC | Capital Jewish Museum Calendar
 Skip to content

@@ -1,6 +1,6 @@
 IA&A at Hillyer
 https://athillyer.org/hillyer-events/
-fetched 2026-11-22 00:20Z  status=200 chars=2695 error=
+fetched 2026-11-27 23:09Z  status=200 chars=2683 error=
 
 Events | IA&A at Hillyer
 Donate
@@ -21,9 +21,8 @@ Current Exhibitions
 Upcoming Exhibitions
 Past Exhibitions
 Support
-Individual Giving
+Membership and Giving
 Make a Donation
-Become a Member
 Volunteer
 Blog
 IA&A

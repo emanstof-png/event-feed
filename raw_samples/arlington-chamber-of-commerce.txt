@@ -1,6 +1,6 @@
 Arlington Chamber of Commerce
 https://web.arlingtonchamber.org/events?oe=true
-fetched 2026-11-22 00:20Z  status=200 chars=4537 error=
+fetched 2026-11-27 23:09Z  status=200 chars=4558 error=
 
 Events |  | Arlington Chamber of Commerce | Arlington, VA
 Join
@@ -263,6 +263,8 @@ Government Affairs & Economic Development Committee
 Business After Business
 1/6/2027
 Government Affairs & Economic Development Committee
+1/7/2027
+Chamber 101
 					Category:
 					Month:
 					Specific Text:
