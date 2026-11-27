@@ -122,7 +122,17 @@ def _squarespace(data, name):  # Squarespace events collection: <collection>?for
                          e.get("fullUrl", "") or "", desc=e.get("excerpt") or e.get("body", "")))
     return out
 
-SHAPES = [("format=json", _squarespace), ("get_calendar_events", _fullcalendar), ("/eventsMeta", _zoho_backstage), ("keepandshare.com", _keepandshare), ("getOpportunitiesCalendar", _handsonconnect),
+def _capitalbop(data, name):  # capitalbop.com/wp-json/capitalbop/v1/events (DC jazz calendar, Nov 27)
+    out = []
+    for e in data.get("events", []):
+        v = e.get("venue") or {}
+        out.append(event(e.get("start_date", ""), e.get("name", ""), name, (e.get("start_time") or "")[:5],
+                         v.get("name", "") if isinstance(v, dict) else "",
+                         e.get("ticket_link") or e.get("musicians_website") or "https://www.capitalbop.com/dcjazzcalendar/",
+                         desc=e.get("description", "")))
+    return out
+
+SHAPES = [("capitalbop/v1/events", _capitalbop), ("format=json", _squarespace), ("get_calendar_events", _fullcalendar), ("/eventsMeta", _zoho_backstage), ("keepandshare.com", _keepandshare), ("getOpportunitiesCalendar", _handsonconnect),
           ("eatonworkshop.com/api/events", _eaton), ("libnet.info/eeventcaldata", _libnet),
           ("bookmanager.com/customer/event", _bookmanager), ("stec_public_ajax_action", _stec),
           ("tribe/events", _tribe), ("/api/2/events", _localist), ("connectjew.org", _connectjew),
