@@ -1,6 +1,6 @@
 Dupont Circle Art Walk
 https://dupontcirclebid.org/events/calendar
-rendered 2026-11-22 00:22Z  status=200 chars=6778 iframes=0 srcdoc=0 next=True error=
+rendered 2026-11-27 23:10Z  status=200 chars=7456 iframes=0 srcdoc=0 next=True error=
 
 
 
@@ -72,10 +72,24 @@ here
 Click here to list your event
 . 
 
-Nov 21 – Nov 27, 2026	
+Nov 27 – Dec 3, 2026	
 
 Nov
-21
+27
+Friday
+El Marsam: Modern and Contemporary Art from Egypt
+Middle East Institute
+Yoga in Triangle Park
+7am - 7:50am 
+/
+ Triangle Park (Q Street Park)
+Steak Night at Syn
+5pm - 9pm 
+/
+ Syn
+
+Nov
+28
 Saturday
 El Marsam: Modern and Contemporary Art from Egypt
 Middle East Institute
@@ -85,14 +99,14 @@ Brunch at Syn
  Syn
 
 Nov
-22
+29
 Sunday
 El Marsam: Modern and Contemporary Art from Egypt
 Middle East Institute
-Closing: The Trumpeter: an immersive war-zone experience
-8pm - 10pm Some matinees available 
+Closing: DC Holiday Market in Dupont Circle
+12pm - 8pm 
 /
- Dupont Underground
+ Women's National Democratic Club
 Dupont Circle Farmers Market
 8:30am - 1:30pm 
 /
@@ -111,7 +125,7 @@ Tea Tasting
  Valley Brook Tea
 
 Nov
-23
+30
 Monday
 El Marsam: Modern and Contemporary Art from Egypt
 Middle East Institute
@@ -120,11 +134,15 @@ Monday Happy Hour at Mission
 /
  Mission Dupont
 
-Nov
-24
+Dec
+1
 Tuesday
 El Marsam: Modern and Contemporary Art from Egypt
 Middle East Institute
+Opening: DC Holiday Market in Dupont Circle
+12am - 8pm 
+/
+ Women's National Democratic Club
 Happy Hour at Syn
 4pm - 6pm 
 /
@@ -134,47 +152,37 @@ Alfreda Happy Hour
 /
  Alfreda
 
-Nov
-25
+Dec
+2
 Wednesday
 El Marsam: Modern and Contemporary Art from Egypt
 Middle East Institute
-Thanksgiving Pre-game Happy Hour
-4pm - 11pm
+Tropical Secrets
+Read More
+The Great American Christmas Market
+3pm - 9pm
 Wednesday Happy Hour at Admiral All Night
 5pm - 10pm 
 /
  The Admiral
 
-Nov
-26
+Dec
+3
 Thursday
 El Marsam: Modern and Contemporary Art from Egypt
 Middle East Institute
+Tropical Secrets
+Read More
+The Great American Christmas Market
+3pm - 9pm
+Opening: Heurich House Christmas Market
+12:05pm - 8pm 
+/
+ Heurich House Museum
 Comedy Every Thursday
 10pm - 11pm 
 /
  The Golden Age
-
-Nov
-27
-Friday
-El Marsam: Modern and Contemporary Art from Egypt
-Middle East Institute
-Yoga in Triangle Park
-7am - 7:50am 
-/
- Triangle Park (Q Street Park)
-Steak Night at Syn
-5pm - 9pm 
-/
- Syn
-
-Ongoing
-DC Holiday Market in Dupont Circle
-through 11/29/2026 
-/
- Women's National Democratic Club
 
 November 2026
 
@@ -364,103 +372,7 @@ here
 Click here to list your event
 . 
 
-Nov 28 – Dec 4, 2026	
-
-Nov
-28
-Saturday
-El Marsam: Modern and Contemporary Art from Egypt
-Middle East Institute
-Brunch at Syn
-10am - 3pm 
-/
- Syn
-
-Nov
-29
-Sunday
-El Marsam: Modern and Contemporary Art from Egypt
-Middle East Institute
-Closing: DC Holiday Market in Dupont Circle
-12pm - 8pm 
-/
- Women's National Democratic Club
-Dupont Circle Farmers Market
-8:30am - 1:30pm 
-/
- PNC Bank
-Brunch at Syn
-10am - 3pm 
-/
- Syn
-Dupont Little Flea
-10am - 3pm 
-/
- Diego's Hair Salon
-Tea Tasting
-10:30am - 11:30am 
-/
- Valley Brook Tea
-
-Nov
-30
-Monday
-El Marsam: Modern and Contemporary Art from Egypt
-Middle East Institute
-Monday Happy Hour at Mission
-4pm - 10pm 
-/
- Mission Dupont
-
-Dec
-1
-Tuesday
-El Marsam: Modern and Contemporary Art from Egypt
-Middle East Institute
-Opening: DC Holiday Market in Dupont Circle
-12am - 8pm 
-/
- Women's National Democratic Club
-Happy Hour at Syn
-4pm - 6pm 
-/
- Syn
-Alfreda Happy Hour
-4:02pm - 6pm 
-/
- Alfreda
-
-Dec
-2
-Wednesday
-El Marsam: Modern and Contemporary Art from Egypt
-Middle East Institute
-Tropical Secrets
-Read More
-The Great American Christmas Market
-3pm - 9pm
-Wednesday Happy Hour at Admiral All Night
-5pm - 10pm 
-/
- The Admiral
-
-Dec
-3
-Thursday
-El Marsam: Modern and Contemporary Art from Egypt
-Middle East Institute
-Tropical Secrets
-Read More
-The Great American Christmas Market
-3pm - 9pm
-Opening: Heurich House Christmas Market
-12:05pm - 8pm 
-/
- Heurich House Museum
-Comedy Every Thursday
-10pm - 11pm 
-/
- The Golden Age
+Dec 4 – Dec 10, 2026	
 
 Dec
 4
@@ -477,12 +389,134 @@ Steak Night at Syn
 5pm - 9pm 
 /
  Syn
+12/4 First Friday ArtWalk: Alvaro Peralta's "Tamarindo" Exhibition Opening
+6pm - 8pm 
+/
+ Washington Studio School
 First Friday: Art Walk
 6pm - 8pm 
 /
  Studio Gallery
 
-November 2026
+Dec
+5
+Saturday
+Holiday Carolers and Hot Chocolate in Dupont Circle
+1pm - 4pm 
+/
+ Dupont Circle park
+El Marsam: Modern and Contemporary Art from Egypt
+Middle East Institute
+Tropical Secrets
+Read More
+Brunch at Syn
+10am - 3pm 
+/
+ Syn
+Dupont Circle Holiday Pop-up
+12pm - 5pm 
+/
+ Second Story Books
+Monoprint Greeting Card Workshop with Sarah Barzmehri
+2pm - 4pm
+Pen Women Holiday Market
+2pm - 4pm 
+/
+ National League of American Pen Women
+WSS  & JAC Present: Dr Anke Van Wagenberg's "Masters Old and New: A Curator's Perspective"
+3pm - 4pm 
+/
+ Washington Studio School
+
+Dec
+6
+Sunday
+El Marsam: Modern and Contemporary Art from Egypt
+Middle East Institute
+Tropical Secrets
+Read More
+Closing: Heurich House Christmas Market
+12:05pm - 8pm 
+/
+ Heurich House Museum
+Dupont Circle Farmers Market
+8:30am - 1:30pm 
+/
+ PNC Bank
+Brunch at Syn
+10am - 3pm 
+/
+ Syn
+Dupont Little Flea
+10am - 3pm 
+/
+ Diego's Hair Salon
+Tea Tasting
+10:30am - 11:30am 
+/
+ Valley Brook Tea
+Yolks on You! A Daytime Burlesque and Variety Revue
+12pm - 3:30pm
+
+Dec
+7
+Monday
+El Marsam: Modern and Contemporary Art from Egypt
+Middle East Institute
+Tropical Secrets
+Read More
+Monday Happy Hour at Mission
+4pm - 10pm 
+/
+ Mission Dupont
+
+Dec
+8
+Tuesday
+El Marsam: Modern and Contemporary Art from Egypt
+Middle East Institute
+Tropical Secrets
+Read More
+Happy Hour at Syn
+4pm - 6pm 
+/
+ Syn
+Alfreda Happy Hour
+4:02pm - 6pm 
+/
+ Alfreda
+
+Dec
+9
+Wednesday
+El Marsam: Modern and Contemporary Art from Egypt
+Middle East Institute
+Tropical Secrets
+Read More
+Wednesday Happy Hour at Admiral All Night
+5pm - 10pm 
+/
+ The Admiral
+
+Dec
+10
+Thursday
+El Marsam: Modern and Contemporary Art from Egypt
+Middle East Institute
+Tropical Secrets
+Read More
+Comedy Every Thursday
+10pm - 11pm 
+/
+ The Golden Age
+
+Ongoing
+DC Holiday Market in Dupont Circle
+through 12/23/2026 
+/
+ Women's National Democratic Club
+
+December 2026
 
 S
 M
@@ -492,6 +526,8 @@ T
 F
 S
 
+29
+30
 1
 2
 3
@@ -522,11 +558,9 @@ S
 28
 29
 30
+31
 1
 2
-3
-4
-5
 Day View
  | 
 Week View

@@ -1,6 +1,6 @@
 National Museum of Women in the Arts
 https://secure.nmwa.org/events
-rendered 2026-11-22 00:22Z  status=200 chars=4237 iframes=1 srcdoc=0 next=False error=
+rendered 2026-11-27 23:09Z  status=200 chars=3864 iframes=1 srcdoc=0 next=False error=
 
 
 
@@ -70,7 +70,7 @@ Month
 
 Select Day
 
-November 21, 2026
+November 27, 2026
 
 Previous day
 
@@ -80,7 +80,7 @@ Next day
 
 Select Week
 
-Nov 15 – 21, 2026
+Nov 22 – 28, 2026
 
 Previous week
 
@@ -196,21 +196,9 @@ Friday 20 November 2026
 
 Saturday 21 November 2026
 
-Member Tour: Routed West
-
-, 
-11:00AM
-
-, 
-On Sale Soon
-
           22
 
 Sunday 22 November 2026
-
-Daily Admission
-
-, 
 
           23
 
@@ -220,17 +208,9 @@ Monday 23 November 2026
 
 Tuesday 24 November 2026
 
-Daily Admission
-
-, 
-
           25
 
 Wednesday 25 November 2026
-
-Daily Admission
-
-, 
 
           26
 
@@ -239,10 +219,6 @@ Thursday 26 November 2026
           27
 
 Friday 27 November 2026
-
-Daily Admission
-
-, 
 
           28
 
@@ -306,40 +282,6 @@ Daily Admission
 
 November 2026
 
-November 21, 2026
-
-Member Tour: Routed West
-
-, 
-11:00AM
-
-, 
-On Sale Soon
-
-November 22, 2026
-
-Daily Admission
-
-, 
-
-November 24, 2026
-
-Daily Admission
-
-, 
-
-November 25, 2026
-
-Daily Admission
-
-, 
-
-November 27, 2026
-
-Daily Admission
-
-, 
-
 November 28, 2026
 
 Daily Admission
@@ -362,17 +304,17 @@ List View
 
 Select start date
 
-November 21, 2026
+November 27, 2026
 
                     to
 
 Select end date
 
-May 21, 2027
+May 27, 2027
 
                     Reset Date Range
 
-Nov 21, 2026 – May 21, 2027
+Nov 27, 2026 – May 27, 2027
 
 Footer
 

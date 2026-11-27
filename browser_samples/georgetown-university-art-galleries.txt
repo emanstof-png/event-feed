@@ -1,6 +1,6 @@
 Georgetown University Art Galleries
 https://events.georgetown.edu/art
-rendered 2026-11-22 00:23Z  status=200 chars=2386 iframes=1 srcdoc=0 next=False error=
+rendered 2026-11-27 23:11Z  status=200 chars=2515 iframes=1 srcdoc=0 next=False error=
 
 
 
@@ -59,7 +59,7 @@ Please note: The
                 content of the event or the views of its speakers. Descriptions of events listed are written by their
                 sponsor(s).
 
-November 21, 2026
+November 27, 2026
 
 Day
 
@@ -71,11 +71,21 @@ All Events
 
 All
 
-No upcoming events found with 
+1 upcoming events found with 
 
 All Events
 
-No events found.
+Futures of Theory: A Daylong Symposium on *The Barbara Johnson Collective*
+
+Friday, Jan 29, 2027
+
+9:00am
+ - 
+5:00pm
+
+EST
+
+Old North 205 
 
 Search calendar:
 
@@ -180,6 +190,8 @@ Lecture
 Music
 
 Racial Justice
+
+Research
 
 Social
 

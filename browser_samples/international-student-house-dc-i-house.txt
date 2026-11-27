@@ -1,6 +1,6 @@
 International Student House DC (I-House)
 https://ihousedc.org/events/
-rendered 2026-11-22 00:21Z  status=200 chars=4881 iframes=1 srcdoc=0 next=False error=
+rendered 2026-11-27 23:09Z  status=200 chars=4803 iframes=1 srcdoc=0 next=False error=
 
 
 
@@ -312,14 +312,6 @@ Apply
 					Plain				
 
 List
-
-								Sat							
-
-								21							
-
-International Expo
-
-November 21, 2026
 
 Wed
 
