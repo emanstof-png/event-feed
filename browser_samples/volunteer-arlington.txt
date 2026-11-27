@@ -1,6 +1,6 @@
 Volunteer Arlington
 https://connect.volunteerarlington.org/calendar/
-rendered 2026-11-22 00:24Z  status=200 chars=60000 iframes=0 srcdoc=0 next=True error=
+rendered 2026-11-27 23:12Z  status=200 chars=60000 iframes=0 srcdoc=0 next=True error=
 
 
 
@@ -110,6 +110,10 @@ Nonprofit
 
 -- Select Nonprofit --
 
+Arlington Friends of Urban Agriculture
+
+Arlington Free Clinic
+
 Cherrydale Library
 
 Washington English Center
@@ -140,8 +144,6 @@ American Councils for International Education
 
 CRi - Choice. Respect. independence.
 
-Arlington Free Clinic
-
 True Ground Housing Partners
 
 Affordable Homes & Communities (AHC)
@@ -155,8 +157,6 @@ CARE, Inc.
 United Way of the National Capital Area
 
 Animal Welfare League of Arlington
-
-Courthouse Library
 
 Museum of Contemporary Art Arlington
 
@@ -177,8 +177,6 @@ Arlington Assembly of God
 Girls on the Run of Northern Virginia
 
 Samaritan Ministry of Greater Washington
-
-Arlington Friends of Urban Agriculture
 
 Arlington Public Schools
 
@@ -1749,7 +1747,7 @@ SOUP KITCHEN AND FREE GROCERY DISTRIBUTION
                                     100+
                  More
 
-21
+                    21
 
 November 21, 2026  - November 21, 2026
 
@@ -1940,7 +1938,7 @@ SOUP KITCHEN AND FREE GROCERY DISTRIBUTION
 
 2:00pm - 7:00pm
 
-                    7
+                    6
 spots remaining
 
                 Corrine’s Kitchen is a program that has met the needs of
@@ -2049,7 +2047,7 @@ The People's Pantry (Weekday Mornings)
 
 9:45am - 1:15pm
 
-                    2
+                    3
 spots remaining
 
                 Support the Resident Services with our food pantry located in one of our properties near the Bluemont neighborhood in Arlington, VA. Please note signing up on here is only to express your interest, one of our staff members will reach out with confirm...
@@ -2123,7 +2121,7 @@ The People's Pantry (Weekday Mornings)
 
 9:45am - 1:15pm
 
-                    3
+                    1
 spots remaining
 
                 Support the Resident Services with our food pantry located in one of our properties near the Bluemont neighborhood in Arlington, VA. Please note signing up on here is only to express your interest, one of our staff members will reach out with confirm...
@@ -2140,7 +2138,7 @@ The People's Pantry (Weekday Afternoons)
 
 12:45pm - 4:15pm
 
-                    3
+                    1
 spots remaining
 
                 Support the Resident Services with our food pantry located in one of our properties near the Bluemont neighborhood in Arlington, VA. Please note signing up on here is only to express your interest, one of our staff members will reach out with confirm...
@@ -2246,7 +2244,7 @@ Lyon Park Set Up Crew
                                     100+
                  More
 
-                    27
+27
 
 SOUP KITCHEN AND FREE GROCERY DISTRIBUTION
 
@@ -2254,7 +2252,7 @@ SOUP KITCHEN AND FREE GROCERY DISTRIBUTION
 
 2:00pm - 7:00pm
 
-                    7
+                    6
 spots remaining
 
                 Corrine’s Kitchen is a program that has met the needs of
@@ -2293,6 +2291,23 @@ Thanksgiving Wee...
 
 Thanksgiving Weekend Volunteering on the Mount Vernon Trail
 
+AFC Storage Clean Up
+
+            Arlington Free Clinic
+
+10am-12pm
+
+                    13
+spots remaining
+
+                We are organizing a volunteer clean-up and moving day to: Move unwanted and unused items out of storage.Bring down and organize boxes of newly donated blood pressure cuffs and other high-priority supplies
+
+Get Connected Icon
+
+AFC Storage Clea...
+
+AFC Storage Clean Up
+
 The People's Pantry (Saturday Mornings)
 
             True Ground Housing Partners
@@ -2316,7 +2331,7 @@ Children's Area Assistance - Teen Volunteer - Shirlington
 
 2:00pm - 3:00pm
 
-                    2
+                    1
 spots remaining
 
                 Help the Shirlington Youth Services staff tidy up the Children's and Teen Areas before the library closes. Volunteers can expect to straighten books up on shelves, put away toys in Arlingtown, and select books for display in the teen section.Particip...
@@ -2362,7 +2377,7 @@ The People's Pantry (Weekday Mornings)
 
 9:45am - 1:15pm
 
-                    3
+                    2
 spots remaining
 
                 Support the Resident Services with our food pantry located in one of our properties near the Bluemont neighborhood in Arlington, VA. Please note signing up on here is only to express your interest, one of our staff members will reach out with confirm...
@@ -2379,7 +2394,7 @@ SOUP KITCHEN AND FREE GROCERY DISTRIBUTION
 
 2:00pm - 7:00pm
 
-                    7
+                    5
 spots remaining
 
                 Corrine’s Kitchen is a program that has met the needs of
@@ -2393,23 +2408,6 @@ Get Connected Icon
 SOUP KITCHEN AND...
 
 SOUP KITCHEN AND FREE GROCERY DISTRIBUTION
-
-The People's Pantry (Weekday Afternoons)
-
-            True Ground Housing Partners
-
-2:45pm - 6:15pm
-
-                    3
-spots remaining
-
-                Support the Resident Services with our food pantry located in one of our properties near the Bluemont neighborhood in Arlington, VA. Please note signing up on here is only to express your interest, one of our staff members will reach out with confirm...
-
-Get Connected Icon
-
-The People's Pan...
-
-The People's Pantry (Weekday Afternoons)
 
                 View
                                     100+
@@ -2526,3 +2524,19 @@ Phrase
 Get Connected Icon
 
 Miles to Nonprofit
+
+--
+
+Is in
+
+Within 5 Miles of
+
+Within 10 Miles of
+
+Within 20 Miles of
+
+Within 30 Miles of
+
+Within 40 Miles of
+
+Within 50

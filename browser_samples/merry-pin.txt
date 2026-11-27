@@ -1,6 +1,6 @@
 Merry Pin
 https://www.merrypindc.com/events
-rendered 2026-11-22 00:25Z  status=200 chars=4739 iframes=1 srcdoc=0 next=False error=
+rendered 2026-11-27 23:13Z  status=200 chars=4600 iframes=1 srcdoc=0 next=False error=
 
 
 
@@ -104,67 +104,11 @@ Want to see a narrowed down list of workshops and classes for kids?
 Click here.
 If an event no longer appears on the website, it does not mean it's canceled—events that are sold out no longer appear here.
 
-	Tue, Nov 17
-
-	7:00 PM
-
-		Trivia with Geeks Who Drink (11/17)
-
-		Learn More
-
-	Wed, Nov 18
-
-	2:00 PM
-
-		November Sidewalk Sale
-
-		Learn More
-
-	Thu, Nov 19
-
-	5:30 PM
-
-		Sip & Stitch Happy Hour (Nov)
-
-		Learn More
-
-	Fri, Nov 20
-
-	6:00 PM
-
-		Queer Crafting Night - Nov
-
-		Learn More
-
-	Sat, Nov 21
-
-	10:00 AM
-
-		Crafty Tales: The Life of a Crayon
-
-		Learn More
-
-	Nov 22 - Dec 6
-
-	11:00 AM
-
-		Learn to Knit 101 (Nov-Dec)
-
-		Learn More
-
 	Nov 24 - Nov 25
 
 	9:00 AM
 
 		Autumnal Make & Takes
-
-		Learn More
-
-	Sun, Nov 22
-
-	2:00 PM
-
-		Hemming and Mending by Hand (November)
 
 		Learn More
 
@@ -176,9 +120,13 @@ If an event no longer appears on the website, it does not mean it's canceled—e
 
 		Learn More
 
-Further Ahead
+	Sat, Nov 28
 
-Want to go ahead and reserve your seat for a future workshop? Check out these upcoming workshops!
+	9:00 AM
+
+		Small Business Saturday 2026
+
+		Learn More
 
 	Tue, Dec 1
 
@@ -186,7 +134,15 @@ Want to go ahead and reserve your seat for a future workshop? Check out these up
 
 		Trivia with Geeks Who Drink (12/1)
 
-		Get tickets
+		Learn More
+
+	Fri, Dec 4
+
+	6:30 PM
+
+		Learn to Crochet: Bow Garland
+
+		Learn More
 
 	Sat, Dec 5
 
@@ -194,7 +150,7 @@ Want to go ahead and reserve your seat for a future workshop? Check out these up
 
 		Crafty Tales: If Monet Painted a Monster
 
-		Get tickets
+		Learn More
 
 	Tue, Dec 8
 
@@ -202,7 +158,15 @@ Want to go ahead and reserve your seat for a future workshop? Check out these up
 
 		Trivia with Geeks Who Drink (12/8)
 
-		Get tickets
+		Learn More
+
+	Wed, Dec 9
+
+	6:30 PM
+
+		Craft Witchery: New Moon Gathering (Dec)
+
+		Learn More
 
 	Thu, Dec 10
 
@@ -210,7 +174,7 @@ Want to go ahead and reserve your seat for a future workshop? Check out these up
 
 		Neuro Night - December
 
-		Get tickets
+		Learn More
 
 	Sat, Dec 12
 
@@ -218,7 +182,7 @@ Want to go ahead and reserve your seat for a future workshop? Check out these up
 
 		Crafty Tales: Sky Color
 
-		Get tickets
+		Learn More
 
 	Tue, Dec 15
 
@@ -226,7 +190,23 @@ Want to go ahead and reserve your seat for a future workshop? Check out these up
 
 		Trivia with Geeks Who Drink (12/15)
 
-		Get tickets
+		Learn More
+
+	Wed, Dec 16
+
+	6:30 PM
+
+		Paper Ornaments: Holiday DIY Origami Workshop
+
+		Learn More
+
+	Thu, Dec 17
+
+	5:30 PM
+
+		Sip & Stitch Happy Hour (Dec)
+
+		Learn More
 
 	Sat, Dec 19
 
@@ -234,7 +214,7 @@ Want to go ahead and reserve your seat for a future workshop? Check out these up
 
 		Crafty Tales: Eric Carle
 
-		Get tickets
+		Learn More
 
 	Sun, Dec 20
 
@@ -242,7 +222,11 @@ Want to go ahead and reserve your seat for a future workshop? Check out these up
 
 		Getting to Know your Sewing Machine (December)
 
-		Get tickets
+		Learn More
+
+Further Ahead
+
+Want to go ahead and reserve your seat for a future workshop? Check out these upcoming workshops!
 
 	Sat, Jan 2, 2027
 

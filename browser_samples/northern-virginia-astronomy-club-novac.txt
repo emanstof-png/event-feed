@@ -1,10 +1,10 @@
 Northern Virginia Astronomy Club (NOVAC)
 https://www.novac.com/wp/events/
-rendered 2026-11-22 00:24Z  status=200 chars=3153 iframes=0 srcdoc=0 next=False error=
+rendered 2026-11-27 23:13Z  status=200 chars=3013 iframes=0 srcdoc=0 next=False error=
 
 
 
-Events from November 21 – December 12 – Northern Virginia Astronomy Club
+Events from December 5 – December 12 – Northern Virginia Astronomy Club
 
 Skip to content
 
@@ -60,7 +60,7 @@ Search for:
 
 Upcoming Events
 
-		4 events found.	
+		3 events found.	
 
 Events
 
@@ -89,20 +89,6 @@ Events
 					Upcoming				
 
 		Select date.	
-
-			November 2026		
-
-			Sat		
-
-			21		
-
-		Udvar Hazey Event Cancelled Due to Clouds	
-
-November 21 @ 5:30 pm
- - 
-7:30 pm
-
-				Public Night	
 
 			December 2026		
 

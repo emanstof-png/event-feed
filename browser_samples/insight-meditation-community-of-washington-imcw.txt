@@ -1,6 +1,6 @@
 Insight Meditation Community of Washington (IMCW)
 https://imcw.org/events/
-rendered 2026-11-22 00:23Z  status=200 chars=8932 iframes=1 srcdoc=0 next=False error=
+rendered 2026-11-27 23:11Z  status=200 chars=9204 iframes=1 srcdoc=0 next=False error=
 
 
 
@@ -134,6 +134,7 @@ Morning
 Afternoon
 Evening
 
+DC >  Washington > Tenleytown
 DC > Washington > Cardoza
 DC > Washington > Takoma/Takoma Park
 DC > Washington > Takoma/Takoma Park
@@ -143,7 +144,6 @@ MD > Bethesda
 MD > Bethesda
 Online
 Online > Zoom
-Online > Zoom hosted by IMCW Retreat
 Online > Zoom hosted by Secure Zoom 1
 Online > Zoom hosted by Secure Zoom 2
 Online > Zoom hosted by Secure Zoom 3
@@ -175,6 +175,7 @@ Dechen Ellen McSweeney
 Devin Maroney
 Dhammadipa  
 Em Morrison
+Griffen  Saul
 Guest Teacher(s)
 Hugh Byrne
 Jane Jackson
@@ -198,6 +199,7 @@ Mary Aubry
 Matthew Hahn
 Michelle Cassandra Johnson
 Ofosu Jones-Quartey
+Pam Jacobson
 Peggy O'Kane
 Rashid Hughes
 Rebecca Hines
@@ -264,6 +266,19 @@ Your Time
  Wednesday, Dec 9, 12:00 AM - 01:30 AM
 
 A time to gather in community to remember those we have lost this year.
+
+More info
+
+Registration Open
+
+IMCW Town Hall
+
+Pam Jacobson and Griffen  Saul
+
+Your Time
+ Thursday, Dec 17, 05:00 PM - 06:00 PM
+
+Join IMCW staff for an overview of upcoming leadership changes and discussion about opportunities on the horizon for 2027.
 
 More info
 
@@ -478,7 +493,7 @@ We'll send you practice opportunities with our community of teachers. Unsubscrib
 
 Payment options
 
-7 + 9 = 
+1 + 7 = 
 
 TAKE ME TO THE SERIES!
 

@@ -1,6 +1,6 @@
 Interintellect
 https://interintellect.com/salons
-rendered 2026-11-22 00:23Z  status=200 chars=4962 iframes=0 srcdoc=0 next=False error=
+rendered 2026-11-27 23:11Z  status=200 chars=4713 iframes=0 srcdoc=0 next=False error=
 
 Salons | Interintellect
 Events
@@ -22,34 +22,6 @@ Salons
 Series
 SuperSalons
 In Person
-November 2026
-Salon
-How Chokepoints Shaped Our World: Live with Norm Coady
-Hosted by:
-Norman Coady
-Sun, Nov 22
-•
-08:00 PM UTC
-Online
-$10
-SuperSalon
-The Complications of Wanting: Sarah Hepola on Love, Feminism, and Desire
-Hosted by:
-Stephanie Louie
-Mon, Nov 23
-•
-01:00 AM UTC
-Online
-$20
-SuperSalon
-The New Dark Ages: James Marriott on the End of Reading
-Hosted by:
-Alaka Halder
-Tue, Nov 24
-•
-05:00 PM UTC
-Online
-$20
 December 2026
 SuperSalon
 Are We Ready for Mars? — Biomedical Engineer Mark Shelhamer on Thriving in Deep Space
@@ -121,7 +93,7 @@ Hosted by:
 Irina Dumitrescu
 Wed, Dec 9
 •
-08:00 PM UTC
+06:00 PM UTC
 Online
 $40
 Episode
@@ -297,6 +269,15 @@ Sun, Feb 14
 07:00 PM UTC
 Online
 $20
+SuperSalon
+How the Past Invented the Future: James Gleick on His New Book, 'The Telephone -- A New History'
+Hosted by:
+Anna Gát
+Wed, Feb 17
+•
+01:00 AM UTC
+Online
+$35
 Members Attend for Free
 Join the Interintellect community!
 Our memberships provide free access to events, exclusive in-person gatherings, and a global chat forum

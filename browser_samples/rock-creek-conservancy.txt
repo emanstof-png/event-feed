@@ -1,6 +1,6 @@
 Rock Creek Conservancy
 https://www.rockcreekconservancy.org/calendar
-rendered 2026-11-22 00:24Z  status=200 chars=21534 iframes=3 srcdoc=0 next=False error=
+rendered 2026-11-27 23:12Z  status=200 chars=19806 iframes=3 srcdoc=0 next=False error=
 
 
 
@@ -256,7 +256,7 @@ Stay Connected
 The Rock Creek Calendar
 
  The Rock Creek Calendar 
- Sun, November 22 
+ Fri, November 27 
  Search 
  Add to calendar 
  Tile 
@@ -267,10 +267,10 @@ Venues
  Free-A-Tree Pledge 
  Thu, Jan 1 
  — Fri, Jan 1  
- Day 325 of 365 
+ Day 331 of 365 
  Nov 
- 21 
- Sat 
+ 27 
+ Fri 
  Dec 
  31 
  Fri 
@@ -280,78 +280,15 @@ English ivy, and other invasive plants, are a major threat to the health of the 
  Individual Cleanup Registration Form 
  Thu, Jan 1 
  — Fri, Jan 1  
- Day 325 of 365 
+ Day 331 of 365 
  Nov 
- 21 
- Sat 
+ 27 
+ Fri 
  Dec 
  31 
  Fri 
 
 Trash is a visible form of stormwater pollution, a major threat to water quality and park health. Litter removal makes the parklands cleaner, safer, and more beautiful for all. Make a difference for R…
- Invasive Removal at Reservation 630 West 
- Sat, Nov 21 @ 10:00am 
- Nov 
- 21 
- Sat 
-
-Invasive Removal at Reservation 630 West
-Saturday, November 21,  10:00 AM -  12:00 PM
-Join Rock Creek Conservancy and the National Park Service for this invasive plant removal restoration event in Roc…
- Invasive Removal at Normanstone 
- Sat, Nov 21 @ 10:00am 
- Nov 
- 21 
- Sat 
-
-Invasive Removal at Normanstone
-Saturday, November 21,  10:00 AM -  12:00 PM
-Join Rock Creek Conservancy and the National Park Service for this invasive plant removal restoration event in Rock Creek P…
- Invasive Removal at Reservation 630 East 
- Sat, Nov 21 @ 10:00am 
- Nov 
- 21 
- Sat 
-
-Invasive Removal at Reservation 630 East
-Saturday, November 21,  10:00 AM -  12:00 PM
-Join Rock Creek Conservancy, the National Park Service, and Weed Warrior Leader, Rena Subotnik for this invasive p…
- Invasive Removal at Whitehaven 
- Sat, Nov 21 @ 10:00am 
- Nov 
- 21 
- Sat 
-
-Invasive Removal at Whitehaven
-Saturday, November 21,  10:00 AM -  12:00 PM
-Join Rock Creek Conservancy, the National Park Service, and Weed Warrior Leaders, Susi and Tere Baranano for this invasive p…
- Invasive Plant Removal at Picnic Grove 6 
- Sat, Nov 21 @ 10:00am 
- Nov 
- 21 
- Sat 
-
-Invasive Plant Removal at Picnic Grove 6
-Saturday, November 21,  10:00 AM -  12:00 PM
-Come join us on Saturday, November 21st from 10:00 AM to 12:00 PM at Rock Creek Park for a fun, outdoor volunteer …
- Interfaith Nature Walk and Litter Cleanup at Carter Barron Picnic Grove #24 
- Sat, Nov 21 @ 1:00pm 
- Nov 
- 21 
- Sat 
-
-Interfaith Nature Walk and Litter Cleanup at Picnic Grove #24
-Saturday, November 21,  1:00 PM -  3:00 PM
-Join Rock Creek Conservancy, the National Park Service, and Interfaith Partners for the Chesape…
- Litter Cleanup at Reservation 630 West 
- Sun, Nov 22 @ 10:00am 
- Nov 
- 22 
- Sun 
-
-Litter Cleanup at Reservation 630 West 
-Sunday, November 22,  10:00 AM -  12:00 PM
-Join Rock Creek Conservancy, the National Park Service, and Stream Team Leader Andrea Contreras, for a litter removal…
  Litter Cleanup at Picnic Grove #1 
  Fri, Nov 27 @ 10:00am 
  Nov 
@@ -399,6 +336,16 @@ B.A.R.K Ranger at Rock Creek Park
 Saturday, November 28,  10:00 AM - 12:00 PM
 Join the National Park Service for this community event:
 Calling all dog owners! If you enjoy adventuring in Rock Creek Pa…
+ Books and Beyond with a Ranger at the Peirce Mill Barn 
+ Fri, Dec 4 @ 10:00am 
+ Dec 
+ 4 
+ Fri 
+
+Books and Beyond with a Ranger at the Peirce Mill Barn
+Friday, December 4,  10:00 AM - 11:00 AM
+Join the National Park Service for this community event:
+If you have a little one to take care of and ar…
  Invasive Removal at the Nature Center 
  Sat, Dec 5 @ 10:00am 
  Dec 
@@ -426,6 +373,16 @@ Join Rock Creek Conservancy and the National Park Service for this invasive plan
 Invasive Removal at Broad Branch 
 Saturday, December 5,  10:00 AM -  12:00 PM
 Join Rock Creek Conservancy, the National Park Service, and Weed Warrior Leader, Kathy Sykes for this invasive plant remov…
+ Annual Luminary at Battleground National Cemetery 
+ Sun, Dec 6 @ 5:00pm 
+ Dec 
+ 5 
+ Sun 
+
+Annual Luminary at Battleground National Cemetery
+Saturday, December 5,  5:00 PM - 6:00 PM
+Join the National Park Service for this community event:
+This December, our community comes together to honor…
  Invasive Removal at Reservation 630 West 
  Sun, Dec 6 @ 10:00am 
  Dec 
@@ -435,6 +392,16 @@ Join Rock Creek Conservancy, the National Park Service, and Weed Warrior Leader,
 Invasive Removal at Reservation 630 West 
 Sunday, December 6,  10:00 AM -  12:00 PM
 Join Rock Creek Conservancy, the National Park Service, and Weed Warrior Leader, Kathy Sykes for this invasive plant…
+ The Historic Elms of Mount Pleasant 
+ Wed, Dec 9 @ 6:00pm 
+ Dec 
+ 8 
+ Wed 
+
+The Historic Elms of Mount Pleasant 
+Tuesday, December 8,  6:00 PM - 7:30 PM
+Mount Pleasant Library
+Learn about the amazing American Elm trees in DC's Mount Pleasant neighborhood and the residents who…
  Carter Barron Amphitheatre Cleanup 
  Sat, Dec 12 @ 10:00am 
  Dec 
@@ -543,7 +510,16 @@ Join Rock Creek Conservancy, the National Park Service, and Weed Warrior Leader,
 Litter Cleanup at Reservation 630 West 
 Sunday, December 27,  10:00 AM -  12:00 PM
 Join Rock Creek Conservancy, the National Park Service, and Stream Team Leader Kathy Sykes for a litter removal resto…
- v5.3.4 
+ Invasive Removal at Reservation 630 East 
+ Sun, Dec 27 @ 10:00am 
+ Dec 
+ 27 
+ Sun 
+
+Invasive Removal at Reservation 630 East
+Sunday, December 27,  10:00 AM -  12:00 PM
+Join Rock Creek Conservancy, the National Park Service, and Weed Warrior Leader, Rena Subotnik for this invasive pla…
+ v5.4.1 
  Get a Timely Calendar 
 
 ----
@@ -551,7 +527,7 @@ Join Rock Creek Conservancy, the National Park Service, and Stream Team Leader K
 The Rock Creek Calendar
 
  The Rock Creek Calendar 
- Sun, November 22 
+ Fri, November 27 
  Search 
  Add to calendar 
  Tile 
@@ -562,10 +538,10 @@ Venues
  Free-A-Tree Pledge 
  Thu, Jan 1 
  — Fri, Jan 1  
- Day 325 of 365 
+ Day 331 of 365 
  Nov 
- 21 
- Sat 
+ 27 
+ Fri 
  Dec 
  31 
  Fri 
@@ -575,78 +551,15 @@ English ivy, and other invasive plants, are a major threat to the health of the 
  Individual Cleanup Registration Form 
  Thu, Jan 1 
  — Fri, Jan 1  
- Day 325 of 365 
+ Day 331 of 365 
  Nov 
- 21 
- Sat 
+ 27 
+ Fri 
  Dec 
  31 
  Fri 
 
 Trash is a visible form of stormwater pollution, a major threat to water quality and park health. Litter removal makes the parklands cleaner, safer, and more beautiful for all. Make a difference for R…
- Invasive Removal at Reservation 630 West 
- Sat, Nov 21 @ 10:00am 
- Nov 
- 21 
- Sat 
-
-Invasive Removal at Reservation 630 West
-Saturday, November 21,  10:00 AM -  12:00 PM
-Join Rock Creek Conservancy and the National Park Service for this invasive plant removal restoration event in Roc…
- Invasive Removal at Normanstone 
- Sat, Nov 21 @ 10:00am 
- Nov 
- 21 
- Sat 
-
-Invasive Removal at Normanstone
-Saturday, November 21,  10:00 AM -  12:00 PM
-Join Rock Creek Conservancy and the National Park Service for this invasive plant removal restoration event in Rock Creek P…
- Invasive Removal at Reservation 630 East 
- Sat, Nov 21 @ 10:00am 
- Nov 
- 21 
- Sat 
-
-Invasive Removal at Reservation 630 East
-Saturday, November 21,  10:00 AM -  12:00 PM
-Join Rock Creek Conservancy, the National Park Service, and Weed Warrior Leader, Rena Subotnik for this invasive p…
- Invasive Removal at Whitehaven 
- Sat, Nov 21 @ 10:00am 
- Nov 
- 21 
- Sat 
-
-Invasive Removal at Whitehaven
-Saturday, November 21,  10:00 AM -  12:00 PM
-Join Rock Creek Conservancy, the National Park Service, and Weed Warrior Leaders, Susi and Tere Baranano for this invasive p…
- Invasive Plant Removal at Picnic Grove 6 
- Sat, Nov 21 @ 10:00am 
- Nov 
- 21 
- Sat 
-
-Invasive Plant Removal at Picnic Grove 6
-Saturday, November 21,  10:00 AM -  12:00 PM
-Come join us on Saturday, November 21st from 10:00 AM to 12:00 PM at Rock Creek Park for a fun, outdoor volunteer …
- Interfaith Nature Walk and Litter Cleanup at Carter Barron Picnic Grove #24 
- Sat, Nov 21 @ 1:00pm 
- Nov 
- 21 
- Sat 
-
-Interfaith Nature Walk and Litter Cleanup at Picnic Grove #24
-Saturday, November 21,  1:00 PM -  3:00 PM
-Join Rock Creek Conservancy, the National Park Service, and Interfaith Partners for the Chesape…
- Litter Cleanup at Reservation 630 West 
- Sun, Nov 22 @ 10:00am 
- Nov 
- 22 
- Sun 
-
-Litter Cleanup at Reservation 630 West 
-Sunday, November 22,  10:00 AM -  12:00 PM
-Join Rock Creek Conservancy, the National Park Service, and Stream Team Leader Andrea Contreras, for a litter removal…
  Litter Cleanup at Picnic Grove #1 
  Fri, Nov 27 @ 10:00am 
  Nov 
@@ -694,6 +607,16 @@ B.A.R.K Ranger at Rock Creek Park
 Saturday, November 28,  10:00 AM - 12:00 PM
 Join the National Park Service for this community event:
 Calling all dog owners! If you enjoy adventuring in Rock Creek Pa…
+ Books and Beyond with a Ranger at the Peirce Mill Barn 
+ Fri, Dec 4 @ 10:00am 
+ Dec 
+ 4 
+ Fri 
+
+Books and Beyond with a Ranger at the Peirce Mill Barn
+Friday, December 4,  10:00 AM - 11:00 AM
+Join the National Park Service for this community event:
+If you have a little one to take care of and ar…
  Invasive Removal at the Nature Center 
  Sat, Dec 5 @ 10:00am 
  Dec 
@@ -721,6 +644,16 @@ Join Rock Creek Conservancy and the National Park Service for this invasive plan
 Invasive Removal at Broad Branch 
 Saturday, December 5,  10:00 AM -  12:00 PM
 Join Rock Creek Conservancy, the National Park Service, and Weed Warrior Leader, Kathy Sykes for this invasive plant remov…
+ Annual Luminary at Battleground National Cemetery 
+ Sun, Dec 6 @ 5:00pm 
+ Dec 
+ 5 
+ Sun 
+
+Annual Luminary at Battleground National Cemetery
+Saturday, December 5,  5:00 PM - 6:00 PM
+Join the National Park Service for this community event:
+This December, our community comes together to honor…
  Invasive Removal at Reservation 630 West 
  Sun, Dec 6 @ 10:00am 
  Dec 
@@ -730,6 +663,16 @@ Join Rock Creek Conservancy, the National Park Service, and Weed Warrior Leader,
 Invasive Removal at Reservation 630 West 
 Sunday, December 6,  10:00 AM -  12:00 PM
 Join Rock Creek Conservancy, the National Park Service, and Weed Warrior Leader, Kathy Sykes for this invasive plant…
+ The Historic Elms of Mount Pleasant 
+ Wed, Dec 9 @ 6:00pm 
+ Dec 
+ 8 
+ Wed 
+
+The Historic Elms of Mount Pleasant 
+Tuesday, December 8,  6:00 PM - 7:30 PM
+Mount Pleasant Library
+Learn about the amazing American Elm trees in DC's Mount Pleasant neighborhood and the residents who…
  Carter Barron Amphitheatre Cleanup 
  Sat, Dec 12 @ 10:00am 
  Dec 
@@ -838,7 +781,16 @@ Join Rock Creek Conservancy, the National Park Service, and Weed Warrior Leader,
 Litter Cleanup at Reservation 630 West 
 Sunday, December 27,  10:00 AM -  12:00 PM
 Join Rock Creek Conservancy, the National Park Service, and Stream Team Leader Kathy Sykes for a litter removal resto…
- v5.3.4 
+ Invasive Removal at Reservation 630 East 
+ Sun, Dec 27 @ 10:00am 
+ Dec 
+ 27 
+ Sun 
+
+Invasive Removal at Reservation 630 East
+Sunday, December 27,  10:00 AM -  12:00 PM
+Join Rock Creek Conservancy, the National Park Service, and Weed Warrior Leader, Rena Subotnik for this invasive pla…
+ v5.4.1 
  Get a Timely Calendar 
 
 ----

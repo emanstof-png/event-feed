@@ -1,6 +1,6 @@
 Chabad Young Professionals DC
 https://www.yjpdc.org/
-rendered 2026-11-22 00:22Z  status=200 chars=5860 iframes=2 srcdoc=0 next=True error=
+rendered 2026-11-27 23:10Z  status=200 chars=5828 iframes=2 srcdoc=0 next=True error=
 
 
 
@@ -14,9 +14,9 @@ YJPDC
 
         Programs
 
-                  Jewish Business Network
-
                   Women's Circle 
+
+                  Jewish Business Network
 
                   Upcoming Course!
 
@@ -44,9 +44,9 @@ Close Menu
 
         Programs
 
-                  Jewish Business Network
-
                   Women's Circle 
+
+                  Jewish Business Network
 
                   Upcoming Course!
 
@@ -88,9 +88,9 @@ Programs
 
 Back
 
-                        Jewish Business Network
-
                         Women's Circle 
+
+                        Jewish Business Network
 
                         Upcoming Course!
 
@@ -125,11 +125,11 @@ Nov 27, 6 PM · Four-course dinner
 
                         Reserve Your Seat
 
-FLAME | Chanukah Rooftop Party
+FLAME | Chanukah Party!
 
 Dec 5, 8 PM · DJ & open bar
 
-                        TICKETS DROP SUNDAY!
+                        GAIN ACCESS
 
 National Menorah Lighting
 
@@ -204,9 +204,9 @@ YJPDC
 
         Programs
 
-                  Jewish Business Network
-
                   Women's Circle 
+
+                  Jewish Business Network
 
                   Upcoming Course!
 
@@ -234,9 +234,9 @@ Close Menu
 
         Programs
 
-                  Jewish Business Network
-
                   Women's Circle 
+
+                  Jewish Business Network
 
                   Upcoming Course!
 
@@ -278,9 +278,9 @@ Programs
 
 Back
 
-                        Jewish Business Network
-
                         Women's Circle 
+
+                        Jewish Business Network
 
                         Upcoming Course!
 
@@ -315,11 +315,11 @@ Nov 27, 6 PM · Four-course dinner
 
                         Reserve Your Seat
 
-FLAME | Chanukah Rooftop Party
+FLAME | Chanukah Party!
 
 Dec 5, 8 PM · DJ & open bar
 
-                        TICKETS DROP SUNDAY!
+                        GAIN ACCESS
 
 National Menorah Lighting
 
