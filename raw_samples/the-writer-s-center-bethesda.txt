@@ -1,6 +1,6 @@
 The Writer's Center (Bethesda)
 https://writer.org/free-events-calendar/
-fetched 2026-11-22 00:21Z  status=200 chars=21595 error=
+fetched 2026-11-27 23:09Z  status=200 chars=15108 error=
 
 Events Calendar - The Writer's Center
 Skip to main content
@@ -45,10 +45,10 @@ Events
 														Writer Mixers													
 														Book Club													
 														Curated Conversation(s): a Latinx Poetry Show													
-Sunday | 2:00 PM EST-3:30 PM EST|
-														The Writer’s Center													
-Melanie Hatter Book Release
-															Free Events														
+Friday | 12:00 AM EST-11:59 PM EST|
+														Wet Ink													
+(Wet Ink) DIY Novel Revision
+															Workshop														
 Back
 Resources
 Menu
@@ -101,7 +101,7 @@ Events
             Previous month
             Next month
 	This Month
-				2026-11-21			
+				2026-11-26			
 				November 2026			
 		Select date.	
 						Calendar of Events		
@@ -147,7 +147,7 @@ November 5 @ 5:30 PM EST
 7:30 PM EST
 Venue :
                             The Writer’s Center                        
-Are you a writer who identifies as LGBTQ+? Let’s hang out and talk writing! Come join us for an informal gathering at The Writer’s Center. Please bring a drink or an appetizer that serves six. You’re welcome to bring a friend, too. FREE & open to all DMV writers who identify as LGBTQ+. RSVP required below. Attending? We encourage you to become a member of The Writer’s Center for only $65/year »
+Are you a writer who identifies as LGBTQ+? Let’s hang out and talk writing! Come join us for an informal gathering at The Writer’s Center. Please bring a drink or […]
 Register
         Free    
 			0 events		
@@ -166,7 +166,7 @@ November 7 @ 6:30 PM EST
 9:00 PM EST
 Venue :
                             The Writer’s Center                        
-This year The Writer's Center turns 50! No writer succeeds alone. For fifty years, The Writer's Center has been a place where writers gather, learn, revise, encourage, and inspire one another. This anniversary celebrates the relationships that make writing possible. Together, we'll look back on our history with a building-wide scavenger hunt and a reading from each decade of the organization, featuring Richard Peabody, Rose Solari, E. Ethelbert Miller, Angie Kim, Marisa Kashino, and Xochi Quetzali Cartland. With a buffet, books, and booze, we'll reminisce on the community that made possible our past fifty years. Can't attend? Donations in celebration of […]
+This year The Writer's Center turns 50! No writer succeeds alone. For fifty years, The Writer's Center has been a place where writers gather, learn, revise, encourage, and inspire one […]
 Register
         $50.00    
 			0 events		
@@ -189,7 +189,7 @@ November 10 @ 7:00 PM EST
 8:30 PM EST
 Venue :
                             The Writer’s Center                        
-The Writer’s Center welcomes writer John DeDakis for a reading from his new book, Plot Twists: A Memoir on Writing and Living. John is joined by writer Austin S. Camacho. FREE & open to the public. RSVP below. John DeDakis is a former editor on CNN's "The Situation Room with Wolf Blitzer." DeDakis, a former White House correspondent, is the author of six traditionally published novels in the award-winning Lark Chadwick mystery-suspense-thriller series. DeDakis is a motivational speaker, podcaster, one-on-one writing coach, manuscript editor, and regularly teaches novel and memoir writing at The Writer's Center, and other literary centers, bookstores, and […]
+The Writer’s Center welcomes writer John DeDakis for a reading from his new book, Plot Twists: A Memoir on Writing and Living. John is joined by writer Austin S. Camacho. […]
 Register
         Free    
 			2 events		
@@ -204,7 +204,7 @@ November 11 @ 7:00 PM EST
 9:00 PM EST
 Venue :
                             The Writer’s Center                        
-Prose, poetry, and spoken word Open Mic @ The Writer’s Center! All writers are welcome to come and share 4-5 minutes of their latest work. Sign-up starts at 6:45pm, and readings begin promptly at 7pm. Limited to 20 readers, so arrive early if you plan to read. Sponsored by Poet Lore, America’s oldest poetry magazine. FREE and open to the public. Please note that we no longer offer advance sign-up. If you need an accommodation for this event, please contact us at access@writer.org. We will attempt to fulfill all requests, but advance notice is necessary to arrange for some accessibility services. Enjoying […]
+Prose, poetry, and spoken word Open Mic @ The Writer’s Center! All writers are welcome to come and share 4-5 minutes of their latest work. Sign-up starts at 6:45pm, and […]
 Register
         Free    
         7:00 PM EST    
@@ -215,7 +215,7 @@ November 11 @ 7:00 PM EST
 8:00 PM EST
 Venue :
                             Zoom                        
-Poet Lore, America’s oldest poetry journal and The Writer’s Center welcomes poet Melanie McCabe to our monthly Virtual Poetry Book Club for a discussion of her collection, All The Signs Were There. Melanie is joined by Book Club Host, Hannah Grieco. We encourage you to order a copy of the book from your local, independent bookseller or online » FREE & open to the public. RSVP below. Melanie McCabe is a writer of poems, essays, memoir, and most recently, fiction. She is a lifelong Virginian and was a high school English and creative writing teacher in Arlington for twenty-two years. Her debut novel, Road Longer […]
+Poet Lore, America’s oldest poetry journal and The Writer’s Center welcomes poet Melanie McCabe to our monthly Virtual Poetry Book Club for a discussion of her collection, All The Signs Were […]
 Register
         Free    
 			1 event		
@@ -230,7 +230,7 @@ November 12 @ 7:00 PM EST
 8:00 PM EST
 Venue :
                             Zoom                        
-The Inner Loop and The Writer’s Center present a FREE virtual chat about the craft of fiction! We’re joined by Shelagh Powers Johnson to discuss her short story collection, A History of Existing Life. Shelagh is in conversation with author Michael Don. A History of Existing Life is The Inner Loop’s Author’s Corner spotlight. The Inner Loop cultivates and promotes the distinctive literary culture of Washington, DC. Author’s Corner supports local authors’ independently published books by spotlighting them in community programming and collaborations. RSVP below to receive login information (our virtual events are held via Zoom). FREE and open to the public, all times Eastern We encourage you to order a […]
+The Inner Loop and The Writer’s Center present a FREE virtual chat about the craft of fiction! We’re joined by Shelagh Powers Johnson to discuss her short story collection, A […]
 Register
         Free    
 			0 events		
@@ -249,7 +249,7 @@ November 14 @ 6:00 PM EST
 8:00 PM EST
 Venue :
                             The Writer’s Center                        
-The Writer’s Center welcomes the Ole’ Blue Claw Maryland Anthology for a reading and celebration of a new anthology featuring twenty-three distinctive works, a mix of flash and short fiction, by writers from across Maryland. Join Maryland writers Preston Ford, Greta Ehrig, Ritchie Porter, Rhonda Zimlich, Cathy Tsang, and Theodore Carter for a reading of their anthologized work and to meet the editors as we celebrate Maryland storytelling. Free and Open to the Public. About Ole’ Blue Claw An Anthology of Place-Based Fiction Ole’ Blue Claw is the brainchild of Diana Friedman, Kim Gallagher Moses and Phil Hearn, three graduates of the […]
+The Writer’s Center welcomes the Ole’ Blue Claw Maryland Anthology for a reading and celebration of a new anthology featuring twenty-three distinctive works, a mix of flash and short fiction, by […]
 Register
         Free    
 			1 event		
@@ -264,7 +264,7 @@ November 15 @ 2:00 PM EST
 3:00 PM EST
 Venue :
                             Zoom                        
-The Writer’s Center welcomes author Caroline Bock to our monthly Fiction Book Club for a discussion of her most recent collection, The Other Beautiful People, at The Writer's Center! Caroline is joined by Book Club Host, Hannah Grieco. We encourage you to order a copy of the book from your local, independent bookseller or online » FREE & open to the public. RSVP below. Caroline Bock is the author of The Other Beautiful People (Regal House Publishing, 2026), a workplace love story, inspired by her two-decade career at AMC, Bravo, IFC, and IFC Films. She is also the author of the young adult […]
+The Writer’s Center welcomes author Caroline Bock to our monthly Fiction Book Club for a discussion of her most recent collection, The Other Beautiful People, at The Writer's Center! Caroline […]
 Register
         Free    
 			0 events		
@@ -283,7 +283,7 @@ November 17 @ 7:00 PM EST
 8:30 PM EST
 Venue :
                             The Writer’s Center                        
-The Writer’s Center welcomes editors, poets and prose writers featured in recently published anthologies from Bordighera Press, June Road Press, and Motina Books to read from those anthologies and to discuss the publication process. Books will be available for sale and signing. Get started on your holiday shopping! FREE & open to the public. RSVP below. About Al di là del mare / Across the Sea This bilingual anthology of Italian and Italian American poetry is a bridge across place, language, culture, and history. Along with 15 poets, we journey from one side of the sea to the other, and discover […]
+The Writer’s Center welcomes editors, poets and prose writers featured in recently published anthologies from Bordighera Press, June Road Press, and Motina Books to read from those anthologies and to […]
 Register
         Free    
 			0 events		
@@ -302,7 +302,7 @@ November 19 @ 7:00 PM EST
 8:00 PM EST
 Venue :
                             Zoom                        
-The Writer’s Center presents a FREE virtual chat about the craft of nonfiction! We’re joined by author Mathangi Subramanian for a discussion of her new publication, Our Periods, Ourselves: An Empowered Teen's Guide. Mathangi is in conversation with Amy Freeman, author and Development Director at The Writer’s Center. RSVP below to receive login information (our virtual events are held via Zoom). FREE and open to the public, all times Eastern We encourage you to order a copy of the book from your local, independent bookseller or online from Bookshop.org » Mathangi Subramanian, EdD, is an award winning neurodiverse, South Asian American author, educator, and advocate […]
+The Writer’s Center presents a FREE virtual chat about the craft of nonfiction! We’re joined by author Mathangi Subramanian for a discussion of her new publication, Our Periods, Ourselves: An […]
 Register
         Free    
 			0 events		
@@ -321,7 +321,7 @@ November 21 @ 2:00 PM EST
 4:00 PM EST
 Venue :
                             The Writer’s Center                        
-The Writer’s Center welcomes poet Carolyn Joyner for a reading from her debut collection, Imagine His Mother Witnessing. Carolyn is joined in conversation by poets Joseph Ross and Abdul Ali. FREE & open to the public. RSVP below. Carolyn Joyner is the author of Imagine His Mother Witnessing (2026) which considers themes of loss, an epic battle with illness, mother-son deep bonds, and the sustaining power of art through our darkest hour. Joyner is a former WritersCorps instructor, volunteer poetry workshop leader for the DC Public Library and River of Words community project, and holds a Master of Arts degree in Creative Writing from […]
+The Writer’s Center welcomes poet Carolyn Joyner for a reading from her debut collection, Imagine His Mother Witnessing. Carolyn is joined in conversation by poets Joseph Ross and Abdul Ali. FREE & open […]
 Register
         Free    
 			1 event		
@@ -336,7 +336,7 @@ November 22 @ 2:00 PM EST
 3:30 PM EST
 Venue :
                             The Writer’s Center                        
-The Writer’s Center welcomes 1455 to celebrate the launch of 1455 first annual book contest winner Melanie Hatter. This event features a reading by the author followed by a Q&A with 1455 Executive Director Sean Murphy. FREE & open to the public. RSVP below. Melanie S. Hatter is the author of Malawi’s Sisters, which was selected by Edwidge Danticat as the winner of the inaugural Kimbilio National Fiction Prize and was published by Four Way Books in 2019. Her debut novel, The Color of My Soul, won the 2011 Washington Writers’ Publishing House Fiction Prize, and Let No One Weep for Me, Stories of […]
+The Writer’s Center welcomes 1455 to celebrate the launch of 1455 first annual book contest winner Melanie Hatter. This event features a reading by the author followed by a Q&A with 1455 […]
 Register
         Free    
 			0 events		
@@ -391,7 +391,7 @@ December 3 @ 7:00 PM EST
 8:00 PM EST
 Venue :
                             The Writer’s Center                        
-The Writer’s Center presents a FREE virtual chat about the craft of children's writing! We’re joined by author Christine Kessides for a discussion of her series, A Tail Tale and Tail Tale Too. Christine is in conversation with writer Jackie Urbanovic. RSVP below to receive login information (our virtual events are held via Zoom). FREE and open to the public, all times Eastern. We encourage you to order a copy of the book from your local, independent bookseller A Tail Tale»   Tail Tale Too» Author Christine Kessides first conceived the tail stories as a student, but didn’t think to publish them until she […]
+The Writer’s Center presents a FREE virtual chat about the craft of children's writing! We’re joined by author Christine Kessides for a discussion of her series, A Tail Tale and […]
 Register
         Free    
 			0 events		
@@ -410,7 +410,7 @@ December 5 @ 2:00 PM EST
 3:30 PM EST
 Venue :
                             The Writer’s Center                        
-The Writer’s Center welcomes James Jay Dudley Luce Poet Laureate, Manav Sachdeva, for a reading from his collection, Sufi's Garland. Manav is joined in conversation by writer Sonja Horgen. FREE & open to the public. RSVP below. Manav Sachdeva Maasoom (also known as Maasoom Shah, and MS Maasoom) is a poet, diplomat, chief international officer with McCann Kyiv, and writes literature in Urdu and English, with some contributions in Punjabi as well. His work is listed on Mr. Urdu Poetry website (mrurdupoetry.com). Manav Sachdeva Maasoom Shah was the New York City Luce Foundation and the United Nations Poet Laureate for 2015. […]
+The Writer’s Center welcomes James Jay Dudley Luce Poet Laureate, Manav Sachdeva, for a reading from his collection, Sufi's Garland. Manav is joined in conversation by writer Sonja Horgen. FREE […]
 Register
         Free    
         5:00 PM EST    
@@ -421,7 +421,7 @@ December 5 @ 5:00 PM EST
 6:30 PM EST
 Venue :
                             The Writer’s Center                        
-The Writer’s Center welcomes writer Shira Kundinger for a reading from her memoir, InConceivable: How My Parents Survived the Joy and Chaos of Raising Quintuplets . Shira is joined in conversation by writer Tyson Koska. FREE & open to the public. RSVP below. Shira Pisner Kundinger’s first memoir recounts the unique experiences growing up as a quintuplet in Olney, Maryland. Widowed with a small child at 33, she found much of the strength and courage to heal in the foundations of her childhood. She hopes this book will inspire others to reflect on their own unique experiences and share their stories. Taking […]
+The Writer’s Center welcomes writer Shira Kundinger for a reading from her memoir, InConceivable: How My Parents Survived the Joy and Chaos of Raising Quintuplets . Shira is joined in conversation […]
 Register
         Free    
 	Notice

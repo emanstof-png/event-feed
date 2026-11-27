@@ -1,6 +1,6 @@
 University of Maryland, College Park
 https://calendar.umd.edu/category/academics
-fetched 2026-11-22 00:20Z  status=200 chars=4720 error=
+fetched 2026-11-27 23:09Z  status=200 chars=4684 error=
 
 University of Maryland Calendar
 Skip site navigation
@@ -14,7 +14,7 @@ Academic Calendar
 Alumni Calendar
 EVENTS
     Academics
-Saturday, November 21, 2026
+Friday, November 27, 2026
 Add Events to Your Calendar
 Filter Events
 Close Filters
@@ -23,26 +23,26 @@ Advanced Search
 Visit Advanced Search
           Event Topics
     Arts, Entertainment and Culture
-55
-: 55 Events
+45
+: 45 Events
     Academics
-30
-: 30 Events
+29
+: 29 Events
     Research
-24
-: 24 Events
+23
+: 23 Events
     Student Life
-18
-: 18 Events
+17
+: 17 Events
     Community Engagement
-16
-: 16 Events
-    Health and Wellness
-12
-: 12 Events
+13
+: 13 Events
     Diversity and Inclusion
-11
-: 11 Events
+10
+: 10 Events
+    Health and Wellness
+10
+: 10 Events
     Athletics and Recreation
 3
 : 3 Events
@@ -55,52 +55,42 @@ Visit Advanced Search
 Show More Items
 More
           Audience
-    Graduate Students
-103
-: 103 Events
     Undergraduate Students
-102
-: 102 Events
+90
+: 90 Events
+    Graduate Students
+90
+: 90 Events
     Staff
-94
-: 94 Events
+81
+: 81 Events
     Faculty
-93
-: 93 Events
+80
+: 80 Events
     Alumni
-76
-: 76 Events
+65
+: 65 Events
     Friends
-76
-: 76 Events
+65
+: 65 Events
     Prospective Students
-59
-: 59 Events
+50
+: 50 Events
     Campus Leaders
-59
-: 59 Events
+50
+: 50 Events
     Parents & Families
-58
-: 58 Events
+49
+: 49 Events
     External Media
-54
-: 54 Events
+44
+: 44 Events
 Show More Items
 More
 Revolutionary Maryland: Freedom of the Press Then and Now
       2026-10-01T00:00:00.000
       2027-01-04T00:00:00.000
 View this exhibit from October 1 - January 4 on the first floor of McKeldin Library during regular operating hours. 
-View Event
-Data Visualization with Tableau
-      2026-11-23T12:00:00.000
-      2026-11-23T13:15:00.000
-The Data Science/GIS workshop series is powered by GIS and Data Service Center, and Research Education at University Libraries. This workshop series offers introductory to advanced level skills in GIS, Data Science, and Data Visualization, among othe
-View Event
-LEAP Preschool Program Touring Dates
-      2026-11-25T11:00:00.000
-      2026-11-25T12:00:00.000
-The LEAP Preschool Program is hosting touring dates on Wednesdays from 11am to 12pm weekly!
 View Event
 Language Chats at the Language House
       2026-11-30T16:00:00.000
@@ -116,6 +106,11 @@ A Diplomatic Tango? Israel, Argentina, and Latin America
       2026-12-01T12:30:00.000
       2026-12-01T13:30:00.000
 Join us for an online discussion of Israel's evolving relationships with Argentina and Latin America.
+View Event
+LEAP Preschool Program Touring Dates
+      2026-12-02T11:00:00.000
+      2026-12-02T12:00:00.000
+The LEAP Preschool Program is hosting touring dates on Wednesdays from 11am to 12pm weekly!
 View Event
 Speaking of Books with Ariel Bierbaum: Disinvestment, Dispossession, and School Building Reuse in Philadelphia
       2026-12-02T12:30:00.000
@@ -146,6 +141,11 @@ Distinguished Scholar-Teacher Lecture Series: Building Tomorrow’s Highways fro
       2026-12-03T15:00:00.000
       2026-12-03T16:00:00.000
 Join us for Professor Ahmet Aydilek's Distinguished Scholar-Teacher Lecture.
+View Event
+Cognitive Science Colloquium × AIM with Dr. Wilka Carvalho
+      2026-12-03T15:30:00.000
+      2026-12-03T17:00:00.000
+Dr. Wilka Carvalho (Kempner Institute, Harvard) on algorithmic theories of human learning and generalization. Co-hosted with the UMD Cognitive Science Colloquium. Hybrid. Registration required.
 View Event
 Current Page is 1
 Back to the previous page

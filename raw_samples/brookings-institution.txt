@@ -1,6 +1,6 @@
 Brookings Institution
 https://www.brookings.edu/events/
-fetched 2026-11-22 00:21Z  status=200 chars=5877 error=
+fetched 2026-11-27 23:09Z  status=200 chars=6555 error=
 
 Events | Brookings
 Experts
@@ -71,20 +71,11 @@ Terms and Conditions of Attendance
 .
     Featured Events
 November
-23
-2026
-									What is next for the US-China AI safety dialogue?
-										Online only
-										Monday, 10:00 am - 11:00 am EST
-Energy, trade, and the US-Canada partnership: A conversation with Canada’s minister of energy and natural resources
-              Upcoming Event
-November
 30
 2026
-Climate & Energy
-        Energy, trade, and the US-Canada partnership: A conversation with Canada’s minister of energy and natural resources
-            The Brookings Institution, Washington DC
-            Monday, 9:00 am - 10:15 am EST
+									Energy, trade, and the US-Canada partnership: A conversation with Canada’s minister of energy and natural resources
+										The Brookings Institution, Washington DC
+										Monday, 9:00 am - 10:15 am EST
 Preparing young people for an AI-driven future: Lessons from California
               Upcoming Event
 December
@@ -103,16 +94,16 @@ Banking & Finance
         The working person’s bank account: A new proposal for universal banking
             The Brookings Institution, Washington D.C.
             Tuesday, 3:00 pm - 5:00 pm EST
-Upcoming
-What is next for the US-China AI safety dialogue?
+Can AI build more shared power and trust in health for Black communities?
               Upcoming Event
-November
-23
+December
+02
 2026
 Artificial Intelligence
-        What is next for the US-China AI safety dialogue?
-            Online only
-            Monday, 10:00 am - 11:00 am EST
+        Can AI build more shared power and trust in health for Black communities?
+            The Brookings Institution, Washington D.C.
+            Wednesday, 9:30 am - 11:00 am EST
+Upcoming
 Energy, trade, and the US-Canada partnership: A conversation with Canada’s minister of energy and natural resources
               Upcoming Event
 November
@@ -140,6 +131,15 @@ Banking & Finance
         The working person’s bank account: A new proposal for universal banking
             The Brookings Institution, Washington D.C.
             Tuesday, 3:00 pm - 5:00 pm EST
+Can AI build more shared power and trust in health for Black communities?
+              Upcoming Event
+December
+02
+2026
+Artificial Intelligence
+        Can AI build more shared power and trust in health for Black communities?
+            The Brookings Institution, Washington D.C.
+            Wednesday, 9:30 am - 11:00 am EST
 Reimagining global economic governance: Challenges and opportunities in a shifting geopolitical and technological landscape
               Upcoming Event
 December
@@ -149,7 +149,34 @@ Diplomacy & Multilateralism
         Reimagining global economic governance: Challenges and opportunities in a shifting geopolitical and technological landscape
             The Brookings Institution, Washington DC
             Tuesday, 10:00 am - 11:45 am EST
+How can we protect consumers from AI-enabled fraud, scams, and other abuses?
+              Upcoming Event
+December
+08
+2026
+Artificial Intelligence
+        How can we protect consumers from AI-enabled fraud, scams, and other abuses?
+            Online only
+            Tuesday, 2:00 pm - 3:00 pm EST
+Is the United States prepared to meet the long-term care needs of the baby boom generation?
+              Upcoming Event
+December
+09
+2026
+Health Care Policy
+        Is the United States prepared to meet the long-term care needs of the baby boom generation?
+            The Brookings Institution, Washington D.C.
+            Wednesday, 9:00 am - 11:00 am EST
 Recent Past Events
+What is next for the US-China AI safety dialogue?
+              Past Event
+November
+23
+2026
+Artificial Intelligence
+        What is next for the US-China AI safety dialogue?
+            Online only
+            Monday, 10:00 am - 11:00 am EST
 Coming of age in an uncertain era
               Past Event
 November
@@ -177,15 +204,6 @@ Defense & Security
         America’s role in European security
             The Brookings Institution, Washington DC
             Thursday, 10:00 am - 11:30 am EST
-From idea to impact: How communities around the world are championing family-centered schools
-              Past Event
-November
-19
-2026
-Global Education
-        From idea to impact: How communities around the world are championing family-centered schools
-            Online only
-            Thursday, 9:30 am - 10:30 am EST
 See all past events
 					Get the latest from Brookings				
 Sign Up

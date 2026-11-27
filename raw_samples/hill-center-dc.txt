@@ -1,9 +1,10 @@
 Hill Center DC
 https://www.hillcenterdc.org/calendar/
-fetched 2026-11-22 00:21Z  status=200 chars=40000 error=
+fetched 2026-11-27 23:09Z  status=200 chars=40000 error=
 
 Program Calendar – Hill Center DC
 Skip to content
+Hill Center will be closed Thursday, November 26 and Friday, November 27 for Thanksgiving. We reopen for regularly scheduled classes and activities Saturday, November 28 at 9:00 a.m.
 Facebook
 Instagram
 Bluesky
@@ -103,7 +104,7 @@ Events
 			Month		
 			Day		
 	This Month
-				2026-11-21			
+				2026-11-27			
 				November 2026			
 		Select date.	
 Browse by category
@@ -181,7 +182,6 @@ Monday, November 2 @ 6:00 pm
 8:00 pm
 		French Language Course: Advanced – Fall 2026	
 Embark on an enriching linguistic adventure with our Advanced French Language Course. This class is crafted for confident learners that are eager to ascend to fluency. Delve into the intricate…
-			Get Tickets		
 		$199.00 – $349.00	
 		6:00 pm	
  - 
@@ -226,7 +226,6 @@ Tuesday, November 3 @ 6:00 pm
 8:00 pm
 		French Language Course: Beginner – Fall 2026	
 While fluency is developed over years, confidence is built in the classroom. In this blended Beginner level class, the instructor will introduce the alphabet and the basic tenets of the…
-			Get Tickets		
 		$199.00 – $349.00	
 		6:15 pm	
  - 
@@ -305,7 +304,6 @@ Wednesday, November 4 @ 6:00 pm
 8:00 pm
 		French Language Course: Intermediate II – Fall 2026	
 Embark on an enriching linguistic adventure with our Intermediate French Language Course. This class is crafted for confident learners that are eager to ascend to fluency. Delve into the intricate…
-			Sold Out		
 		$199.00 – $349.00	
 		6:00 pm	
  - 
@@ -316,7 +314,6 @@ Wednesday, November 4 @ 6:00 pm
 8:00 pm
 		Spanish Language Course: Advanced Intermediate Class – November 2026	
 Hill Center has partnered with Go Spanish Now to provide this Spanish course. This course is designed for students who already have a strong foundation in Spanish and want to…
-			Get Tickets		
 		$210.00 – $349.00	
 			3 events		
 			5		
@@ -536,7 +533,6 @@ Monday, November 9 @ 6:00 pm
 8:00 pm
 		French Language Course: Advanced – Fall 2026	
 Embark on an enriching linguistic adventure with our Advanced French Language Course. This class is crafted for confident learners that are eager to ascend to fluency. Delve into the intricate…
-			Get Tickets		
 		$199.00 – $349.00	
 		6:00 pm	
  - 
@@ -581,7 +577,6 @@ Tuesday, November 10 @ 6:00 pm
 8:00 pm
 		French Language Course: Beginner – Fall 2026	
 While fluency is developed over years, confidence is built in the classroom. In this blended Beginner level class, the instructor will introduce the alphabet and the basic tenets of the…
-			Get Tickets		
 		$199.00 – $349.00	
 		6:00 pm	
  - 
@@ -670,7 +665,6 @@ Wednesday, November 11 @ 6:00 pm
 8:00 pm
 		French Language Course: Intermediate II – Fall 2026	
 Embark on an enriching linguistic adventure with our Intermediate French Language Course. This class is crafted for confident learners that are eager to ascend to fluency. Delve into the intricate…
-			Sold Out		
 		$199.00 – $349.00	
 		6:00 pm	
  - 
@@ -681,7 +675,6 @@ Wednesday, November 11 @ 6:00 pm
 8:00 pm
 		Spanish Language Course: Advanced Intermediate Class – November 2026	
 Hill Center has partnered with Go Spanish Now to provide this Spanish course. This course is designed for students who already have a strong foundation in Spanish and want to…
-			Get Tickets		
 		$210.00 – $349.00	
 			5 events		
 			12		
@@ -871,7 +864,6 @@ Monday, November 16 @ 6:00 pm
 8:00 pm
 		French Language Course: Advanced – Fall 2026	
 Embark on an enriching linguistic adventure with our Advanced French Language Course. This class is crafted for confident learners that are eager to ascend to fluency. Delve into the intricate…
-			Get Tickets		
 		$199.00 – $349.00	
 		6:00 pm	
  - 
@@ -936,7 +928,6 @@ Tuesday, November 17 @ 6:00 pm
 8:00 pm
 		French Language Course: Beginner – Fall 2026	
 While fluency is developed over years, confidence is built in the classroom. In this blended Beginner level class, the instructor will introduce the alphabet and the basic tenets of the…
-			Get Tickets		
 		$199.00 – $349.00	
 		6:15 pm	
  - 
@@ -1015,7 +1006,6 @@ Wednesday, November 18 @ 6:00 pm
 8:00 pm
 		French Language Course: Intermediate II – Fall 2026	
 Embark on an enriching linguistic adventure with our Intermediate French Language Course. This class is crafted for confident learners that are eager to ascend to fluency. Delve into the intricate…
-			Sold Out		
 		$199.00 – $349.00	
 		6:00 pm	
  - 
@@ -1026,7 +1016,6 @@ Wednesday, November 18 @ 6:00 pm
 8:00 pm
 		Spanish Language Course: Advanced Intermediate Class – November 2026	
 Hill Center has partnered with Go Spanish Now to provide this Spanish course. This course is designed for students who already have a strong foundation in Spanish and want to…
-			Get Tickets		
 		$210.00 – $349.00	
 			2 events		
 			19		
@@ -1097,7 +1086,7 @@ Saturday, November 21 @ 9:00 am
  - 
 11:00 pm
 		Immersive Saturday Spanish for Kids by Go Spanish Now – Confident Communicators (Ages 9–14)	
-Make learning Spanish an exciting 8-week adventure for your child! Brought to you by Go Spanish Now, our fully immersive program is designed to spark joy in learning, build confidence, and help children start speaking Spanish naturally. Through engaging games, music, and interactive activities led by experienced native Spanish-speaking instructors, our small-group classes provide the…
+Make learning Spanish an exciting 8-week adventure for your child! Brought to you by Go Spanish Now, our fully immersive program is designed to spark joy in learning, build confidence,…
 		$306.00	
 		9:00 am	
  - 
@@ -1153,7 +1142,7 @@ Saturday, November 21 @ 11:00 am
  - 
 11:45 am
 		Woolfolk Academy Dance – Creative Movement (Ages 3-4)	
-This class is designed for movers ages 3-4 who enjoy dancing. It focuses on creativity, coordination, musicality, and confidence in a fun and nurturing environment. This class introduces foundational dance skills that will transfer well in any dance class. TUITION & FEES: $420 for the full fall term. $360 for classes and a $20 registration…
+This class is designed for movers ages 3-4 who enjoy dancing. It focuses on creativity, coordination, musicality, and confidence in a fun and nurturing environment. This class introduces foundational dance…
 		11:00 am	
  - 
 			11:45 am		
@@ -1162,7 +1151,7 @@ Saturday, November 21 @ 11:00 am
  - 
 11:45 am
 		Tippi Toes: Ballet Tap Jazz Combo	
-Ballet, Tap & Jazz combo classes are offered for children 3-4 years old. This high energy dance class is designed to keep boys and girls engaged in continual motion while they learn the basic elements of dance including positions and terminology. We incorporate an even mix of the three types of dance over the 45…
+Ballet, Tap & Jazz combo classes are offered for children 3-4 years old. This high energy dance class is designed to keep boys and girls engaged in continual motion while…
 		11:00 am	
  - 
 			11:45 am		
@@ -1171,4 +1160,18 @@ Saturday, November 21 @ 11:00 am
  - 
 11:45 am
 		Tippi Toes: Ballet Tap Jazz Combo	
-Ballet, Tap & Jazz combo classes are offered for children 5-6 years old. This high energy dance class is designed to keep
+Ballet, Tap & Jazz combo classes are offered for children 5-6 years old. This high energy dance class is designed to keep boys and girls engaged in continual motion while…
+		12:00 pm	
+ - 
+			1:00 pm		
+		Woolfolk Academy Dance – Jr. Hip Hop (Ages 5-8)	
+Saturday, November 21 @ 12:00 pm
+ - 
+1:00 pm
+		Woolfolk Academy Dance – Jr. Hip Hop (Ages 5-8)	
+Jr. Hip Hop is designed for movers ages 5-8 who enjoy hip hop dancing. In this class, students build coordination, confidence, creativity, and teamwork skills; all while having fun. This…
+		12:00 pm	
+ - 
+			12:45 pm		
+		Tippi Toes:  Hip Hop	
+Saturday, November 21 @ 

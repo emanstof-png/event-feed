@@ -1,22 +1,22 @@
 Hudson Institute
 https://www.hudson.org/events
-fetched 2026-11-22 00:21Z  status=200 chars=19397 error=
+fetched 2026-11-27 23:09Z  status=200 chars=18790 error=
 
 Events | Hudson Institute
       Skip to main content
 Home
 Topics
 Caption
-Russian President Vladimir Putin delivers a speech at the Kremlin in Moscow on November 4, 2026. (Getty Images)
+A soldier prepares 155 mm shells to fire at Russian positions in Ukraine’s Donetsk Oblast on January 23, 2026. (Getty Images)
 National Security and Defense
-Why Russia’s Expanding Threat to Europe Must Be Confronted
-John P. Walters
-          President and CEO
-John P. Walters
+The US Must Reject Russian Narratives on Ukraine
+Rebeccah L. Heinrichs
+          Senior Fellow and Director, Keystone Defense Initiative
+Rebeccah L. Heinrichs
                       Commentary
-Nov 3, 2026
+Nov 9, 2026
 Commentary
-                    1
+                    6
  Min Read
 National Security & Defense
 Foreign Policy
@@ -30,17 +30,18 @@ View All
 Open Submenu
 Regions
 Caption
-Finland’s President Alexander Stubb addresses journalists following a telephone call between himself and Russian President Vladimir Putin in Helsinki, Finland, on October 27, 2026. (Getty Images)
-National Security and Defense
-Putin Is “Ready for War”: Is Europe Ready?
-Tsiporah Fried
-          Visiting Senior Fellow
-Tsiporah Fried
-                      Commentary
-Nov 2, 2026
-Commentary
-                    11
- Min Read
+A one Euro coin is seen on August 31, 2026, in Frankfurt am Main, Germany, in front of the city’s banking district skyline. (Getty Images)
+Economics
+The Transatlantic Alliance Needs a Capital Pillar
+Peter Rough
+          Senior Fellow and Director, Center on Europe and Eurasia
+          Jan Růžiĉka
+Peter Rough
+ & Jan Růžiĉka
+                      Reports
+Nov 9, 2026
+Reports
+                    Long Read
 Indo-Pacific
 Middle East
 Europe & Central Asia
@@ -50,17 +51,15 @@ Americas
 Open Submenu
 Policy Centers
 Caption
-Members of the Iranian military gather to demonstrate their skills during a training camp in Tehran on November 2, 2026. (Getty Images)
-Foreign Policy
-Why the Middle East Is Hard to Quit
-Walter Russell Mead
-          Ravenel B. Curry III Distinguished Fellow in Strategy and Statesmanship
-Walter Russell Mead
-                      Commentary
-Nov 2, 2026
-Commentary
-                    1
- Min Read
+A Vantor satellite image shows the Kerch Strait Bridge crossing between Crimea and the Taman Peninsula, with a visible interruption in one bridge section and linear structures in the adjacent water. (Satellite image (c) 2026 Vantor)
+  Event
+After the Kerch Bridge: What Ukraine’s Strike Means for the War
+Can Kasapoğlu
+,                  
+Lieutenant General (Ret.) Ben Hodges,
+Luke Coffey
+            Nov 20, 2026
+          event
 Center for Defense Concepts and Technology
 Center for Peace and Security in the Middle East
 Center on Europe and Eurasia
@@ -71,25 +70,19 @@ View All
 Open Submenu
 Research & Analysis
 Caption
-Global Autonomous Reconnaissance Craft and Lightfish USVs deploy in formation during a live robotic and autonomous systems demonstration during Exercise Obangame Express 2026 in Douala, Cameroon, on April 25, 2026. (US Navy)
-National Security and Defense
-Righting the Ship: Building a Relevant US Navy Fleet for Twenty-First-Century Deterrence and Combat
-Bryan Clark
-          Senior Fellow and Director, Center for Defense Concepts and Technology
-David Byrd
-          Fellow, Center for Defense Concepts and Technology
-Dan Patt
-          Senior Fellow, Center for Defense Concepts and Technology
-Bryan Clark
-, 
-David Byrd
- & 
-Dan Patt
+Employees work in the clean room of a semiconductor company in Itzehoe, Germany, on April 4, 2023. (Getty Images)
+Technology
+Tools of Leverage: Preserving US and Allied Leadership in Semiconductor Equipment
+Jason Hsu
+          Senior Fellow
+          Heberto Limas
+          Chris Gorin
+Jason Hsu
+, Heberto Limas & Chris Gorin
                       Reports
-Nov 3, 2026
+Nov 11, 2026
 Reports
-                    11
- Min Read
+                    Long Read
 Commentary
 Reports
 Testimony
@@ -98,12 +91,12 @@ Podcasts
 Open Submenu
 Events
 Caption
-Secretary of Veterans Affairs Douglas Collins speaks at the White House on September 21, 2026, in Washington, DC. (Getty Images)
+House Armed Services Committee Chairman Mike Rogers speaks to the press at the US Capitol on October 17, 2025, in Washington, DC. (Getty Images)
   Event
-Putting Veterans First: A Conversation with Secretary of Veterans Affairs Doug Collins
-Doug Collins,
-Jeremy Hunt
-            Nov 13, 2026
+Rebuilding the Arsenal of Freedom and Reindustrializing America
+Congressman Mike Rogers,
+Nadia Schadlow
+            Nov 18, 2026
           event
 Events
 Hudson Events Podcast
@@ -137,39 +130,48 @@ Open Main Menu
 Search
 Popular in search
 Caption
-Russia’s President Vladimir Putin attends a meeting with US Special Envoy Steve Witkoff in Saint Petersburg on October 21, 2026. (Getty Images)
-Foreign Policy
-Putin Is a Loser. Treat Him Like One.
-Ludovic Hood
-          Senior Fellow, Center for Peace and Security in the Middle East
-Ludovic Hood
-                      Commentary
-Oct 21, 2026
-Commentary
-                    4
+Global Autonomous Reconnaissance Craft and Lightfish USVs deploy in formation during a live robotic and autonomous systems demonstration during Exercise Obangame Express 2026 in Douala, Cameroon, on April 25, 2026. (US Navy)
+National Security and Defense
+Righting the Ship: Building a Relevant US Navy Fleet for Twenty-First-Century Deterrence and Combat
+Bryan Clark
+          Senior Fellow and Director, Center for Defense Concepts and Technology
+David Byrd
+          Fellow, Center for Defense Concepts and Technology
+Dan Patt
+          Senior Fellow, Center for Defense Concepts and Technology
+Bryan Clark
+, 
+David Byrd
+ & 
+Dan Patt
+                      Reports
+Nov 3, 2026
+Reports
+                    11
  Min Read
 Caption
-Vice President JD Vance speaks during an event with President Donald Trump in the Oval Office on October 20, 2026, in Washington, DC. (Getty Images)
+Members of the Iranian military gather to demonstrate their skills during a training camp in Tehran on November 2, 2026. (Getty Images)
 Foreign Policy
-Is There an Effective “America First” Position on Israel?
-Michael Doran
-          Senior Fellow and Director, Center for Peace and Security in the Middle East
-Michael Doran
+Why the Middle East Is Hard to Quit
+Walter Russell Mead
+          Ravenel B. Curry III Distinguished Fellow in Strategy and Statesmanship
+Walter Russell Mead
                       Commentary
-Oct 21, 2026
+Nov 2, 2026
 Commentary
-                    Long Read
+                    1
+ Min Read
 Caption
-Visitors walk by a billboard showing a semiconductor chip at the Chinese International Supply Chain Expo on June 26, 2026, in Beijing, China. (Getty Images)
-Technology
-America’s AI Pessimism Risks Handing China the Lead
-Paul Sracic
-          Senior Fellow (Nonresident)
-Paul Sracic
+Russian President Vladimir Putin delivers a speech at the Kremlin in Moscow on November 4, 2026. (Getty Images)
+National Security and Defense
+Why Russia’s Expanding Threat to Europe Must Be Confronted
+John P. Walters
+          President and CEO
+John P. Walters
                       Commentary
-Oct 15, 2026
+Nov 3, 2026
 Commentary
-                    4
+                    1
  Min Read
 Expert
 Date from
@@ -441,6 +443,7 @@ Nagao, Satoru
 Nauert, Heather
 Navarro, Peter
 Norris, Jeremiah
+Nwankpa, Michael
 O'Rielly, Michael
 Odgaard, Liselotte
 Oldmixon, Seth
@@ -553,6 +556,23 @@ Can Kasapoğlu
 Michael Doran
 Ken Moriyasu
   Learn More
+30
+November 2026
+          Virtual Event | Online Only
+Commanding the Autonomous Battlefield
+Featured Speakers:
+Gokul Subramanian
+Bryan Clark
+30
+November 2026
+          Virtual Event | Online Only
+Commanding the Autonomous Battlefield
+Join Bryan Clark and Anduril Senior Vice President for Technology Gokul Subramanian for a conversation about the future of military command-and-control concepts and technologies.
+    MONDAY 3:30 p.m. - 4:30 p.m.
+Featured Speakers:
+Gokul Subramanian
+Bryan Clark
+  Learn More
 02
 December 2026
           In-Person Event | Invite Only
@@ -640,6 +660,44 @@ William Chou
 Ichiro Takahara
 Kenneth R. Weinstein
   Learn More
+08
+December 2026
+          In-Person Event | Hudson Institute
+Mexico at a Crossroads: A Conversation with Ambassador Arturo Sarukhan
+Featured Speakers:
+Arturo Sarukhan
+Daniel Batlle 
+08
+December 2026
+          In-Person Event | Hudson Institute
+Mexico at a Crossroads: A Conversation with Ambassador Arturo Sarukhan
+Join Hudson Institute for a conversation with Arturo Sarukhan, Mexico’s ambassador to the United States from 2007 to 2013, on the political and security pressures shaping the US-Mexico relationship.
+    TUESDAY 4:00 p.m. - 5:00 p.m.
+Featured Speakers:
+Arturo Sarukhan
+Daniel Batlle 
+  Learn More
+09
+December 2026
+          In-Person Event | Hudson Institute
+The Dynamics and Implications of US Tariff Policy
+Featured Speakers:
+Wendy Cutler
+Mary Lovely
+Emily Kilcrease
+Riley Walters
+09
+December 2026
+          In-Person Event | Hudson Institute
+The Dynamics and Implications of US Tariff Policy
+Join Hudson Institute for a discussion about the evolving dynamics of US trade and investment policies.
+    WEDNESDAY 9:30 a.m. - 10:30 a.m.
+Featured Speakers:
+Wendy Cutler
+Mary Lovely
+Emily Kilcrease
+Riley Walters
+  Learn More
 10
 December 2026
           In-Person Event | Hudson Institute
@@ -656,6 +714,27 @@ Join Senator Moreno for a fireside discussion with Executive Vice President Joel
 Featured Speakers:
 Senator Bernie Moreno
 Joel Scanlon
+  Learn More
+11
+December 2026
+          Virtual Event | Virtual Only
+Boko Haram since 2015: Taking Stock of a Deadly Jihadist Insurgency
+Featured Speakers:
+James Barnett
+Joshua Meservey
+Michael Nwankpa
+Oliver Coates
+11
+December 2026
+          Virtual Event | Virtual Only
+Boko Haram since 2015: Taking Stock of a Deadly Jihadist Insurgency
+Join Hudson Institute for a conversation on the Boko Haram insurgency with three authors of Rethinking Boko Haram: The Evolution of a Jihadist Group Since 2015, a new book that examines the insurgency’s transformation over the past decade. The virtual discussion will be moderated by Senior Fellow Joshua Meservey and feature insights from James Barnett, Michael Nwankpa, and Oliver Coates.
+    FRIDAY 12:00 p.m. - 1:00 p.m.
+Featured Speakers:
+James Barnett
+Joshua Meservey
+Michael Nwankpa
+Oliver Coates
   Learn More
 15
 December 2026
@@ -709,122 +788,6 @@ Featured Speakers:
 Can Kasapoğlu
 Lieutenant General (Ret.) Ben Hodges
 Luke Coffey
-  Learn More
-19
-November 2026
-          Past Event
-Peace Through Strength: How Reagan’s Military Buildup Won the Cold War
-Featured Speakers:
-Roger Zakheim
-Nadia Schadlow
-19
-November 2026
-          Past Event
-Peace Through Strength: How Reagan’s Military Buildup Won the Cold War
-Join Hudson Institute for a conversation with Senior Fellow Nadia Schadlow and Roger Zakheim, director of the Ronald Reagan Presidential Foundation and Institute, to discuss Peace Through Strength and what President Reagan’s buildup can teach US policymakers today. 
-    THURSDAY 11:00 a.m. - 12:30 p.m.
-Featured Speakers:
-Roger Zakheim
-Nadia Schadlow
-  Learn More
-18
-November 2026
-          Past Event
-Rebuilding the Arsenal of Freedom and Reindustrializing America
-Featured Speakers:
-Congressman Mike Rogers
-Nadia Schadlow
-18
-November 2026
-          Past Event
-Rebuilding the Arsenal of Freedom and Reindustrializing America
-Join House Armed Services Committee Chairman Mike Rogers (AL-03) for a fireside discussion with Senior Fellow Nadia Schadlow on Congress’s role in revitalizing America’s defense industrial base.
-    WEDNESDAY 2:00 p.m. - 3:00 p.m.
-Featured Speakers:
-Congressman Mike Rogers
-Nadia Schadlow
-  Learn More
-17
-November 2026
-          Past Event
-Overcoming US-ROK Alliance Challenges: Trade, Technology, and China
-Featured Speakers:
-David Feith
-Patrick M. Cronin
-Ely Ratner
-Trevor Wagener
-Matt Mowers
-17
-November 2026
-          Past Event
-Overcoming US-ROK Alliance Challenges: Trade, Technology, and China
-Join Hudson Institute for a conversation with David Feith, Patrick M. Cronin, Ely Ratner, Trevor Wagener, and Matt Mowers on these challenges. The discussion will consider Wagener’s recent Computer and Communications Industry Association report, 
-The KFTC’s Uneven Hand
-, which examines disparities in South Korea’s competition enforcement against American, Korean, and Chinese companies.
-    TUESDAY 4:00 p.m. - 5:00 p.m.
-Featured Speakers:
-David Feith
-Patrick M. Cronin
-Ely Ratner
-Trevor Wagener
-Matt Mowers
-  Learn More
-17
-November 2026
-          Past Event
-The Tenth US-ROK Joint Public-Private Economic Forum: Advancing Economic Security and Industrial Strength
-Featured Speakers:
-Kim Jina
-Senator Bill Hagerty
-Kurt Campbell
-Elaine L. Chao
-Ambassador Joseph Y. Yun
-Elizabeth Urbanas
-Wendy Cutler
-Michael Coulter
-Brent Sadler
-Troy Stangarone
-Arielle Roth
-Jane Nakano
-Nick Snyder
-Sek Hwan Hong
-Jiyoon Lee
-Kayla T. Orta
-Scott Snyder
-Cordell Hull
-Moderators:
-Patrick M. Cronin
-Brigham  A. McCown
-Timothy A. Walton
-17
-November 2026
-          Past Event
-The Tenth US-ROK Joint Public-Private Economic Forum: Advancing Economic Security and Industrial Strength
-Join Hudson Institute for the tenth United States–Republic of Korea Joint Public-Private Economic Forum on November 17.
-    TUESDAY 9:30 a.m. - 1:00 p.m.
-Featured Speakers:
-Kim Jina
-Senator Bill Hagerty
-Kurt Campbell
-Elaine L. Chao
-Ambassador Joseph Y. Yun
-Elizabeth Urbanas
-Wendy Cutler
-Michael Coulter
-Brent Sadler
-Troy Stangarone
-Arielle Roth
-Jane Nakano
-Nick Snyder
-Sek Hwan Hong
-Jiyoon Lee
-Kayla T. Orta
-Scott Snyder
-Cordell Hull
-Moderators:
-Patrick M. Cronin
-Brigham  A. McCown
-Timothy A. Walton
   Learn More
 Pagination
 First page

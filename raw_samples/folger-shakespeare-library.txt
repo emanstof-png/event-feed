@@ -1,6 +1,6 @@
 Folger Shakespeare Library
 https://www.folger.edu/whats-on/
-fetched 2026-11-22 00:21Z  status=200 chars=22329 error=
+fetched 2026-11-27 23:09Z  status=200 chars=22379 error=
 
 What's on | Folger Shakespeare Library
 Skip to main content
@@ -167,23 +167,17 @@ An English Christmas for the Ages
                 Fri, Dec 11 – Sun, Dec 20, 2026            
                             Dates & Tickets 
 Folger Theatre
-Family Workshop: Celebrations, Shakespeare Style
-Family Workshop: Celebrations, Shakespeare Style
-                Families will share how they celebrate important moments in their own lives and discover how Shakespeare’s characters celebrate meaningful moments in his plays.            
-                Fri, Nov 27 & Wed, Dec 30, 2026            
-                            Dates & Tickets 
-Learning Lab
 Printing Press Demonstrations
 Printing Press Demonstrations
                 To learn more about our replica 17th-century printing press and to see it in action, join us for demonstrations during Frost Fair.            
-                Fri, Nov 27 — Sat, Dec 26, 2026            
+                Sat, Nov 28, 2026 — Sat, Jan 02, 2027            
                             Learn More 
 Shakespeare Exhibition Hall
 Intro to Junk Journaling
 Intro to Junk Journaling
                 Jump into junk journaling with this workshop from Penny Post, a specialty stationery store in Alexandria, Virginia.            
                 Sun, Nov 29, 2026, 12pm            
-                            Learn More 
+Sold Out
 Founders' Room 
 Junk Journaling Meet Up
 Junk Journaling Meet Up
@@ -214,19 +208,27 @@ Family Workshop: To Be a Shakespearean Actor
                 In this free workshop, families will try out Elizabethan acting styles and learn about the power of Shakespeare’s words to inspire actors, trends, and riots.            
                 Dec 5, 29, & 31, 2026 at 11:30am & 1pm            
                             Learn More 
-Multiple venues
+Learning Lab
+Guided Tour: To Hear Her Speak
+Guided Tour: To Hear Her Speak
+                Explore the stories of Black women highlighted in the Folger's landmark exhibition, 
+To Hear Her Speak: Black Women and Shakespeare
+, on a one-hour guided tour.            
+                Sat, Dec 5, 2026 at 12pm & 4pm            
+                            Learn More 
+Rose Exhibition Hall
+Shakespeare in the Kitchen: Renaissance Cookie Baking with Marissa Nicosia
+Shakespeare in the Kitchen: Renaissance Cookie Baking with Marissa Nicosia
+                Learn about recipes and cooking in the Tudor era with Marissa Nicosia, who will guide participants in making cookie dough based on historical recipes to take home and bake. Pre-baked cookies will also be available for sampling.            
+                Sat, Dec 5, 2026, 2:30pm            
+                            Learn More 
+Learning Lab
 Folger Book Club: 'The Beheading Game' by Rebecca Lehmann
 Folger Book Club: 'The Beheading Game' by Rebecca Lehmann
                 In our first ever in-person session, Folger Book Club discusses Rebecca Lehmann’s exciting debut novel about Anne Boleyn.            
                 Tue, Dec 8, 2026, 6pm            
 Sold Out
 Reading Room
-The 2027 Emily Dickinson Birthday Tribute: Rebecca Lehmann
-Emily Dickinson Birthday Tribute: Rebecca Lehmann
-                The Folger invites poet, essayist, and debut novelist Rebecca Lehmann for this annual event celebrating the legacy of one of America’s most beloved poets, Emily Dickinson.             
-                Tue, Dec 8, 2026 at 7:30pm            
-                            Learn More 
-Folger Theatre
 Folger Frost Fair
 Folger Frost Fair
 Celebrate the season at the Folger! Enjoy festive decorations, holiday music, free activities, and more from Friday, November 27, 2026 – Sunday, January 3, 2027.
@@ -340,24 +342,24 @@ Folger Book Club: 'That Self-Same Metal' by Brittany N. Williams
 Reading Room
 For families
 Register for our free family workshops, with options for ages 5-7 and 8-11.
+Family Workshop: To Be a Shakespearean Actor
+Family Workshop: To Be a Shakespearean Actor
+                In this free workshop, families will try out Elizabethan acting styles and learn about the power of Shakespeare’s words to inspire actors, trends, and riots.            
+                Dec 5, 29, & 31, 2026 at 11:30am & 1pm            
+                            Learn More 
+Learning Lab
+Family Workshop: The Fantastical World of Shakespeare
+Family Workshop: The Fantastical World of Shakespeare
+                In this free workshop, families will explore the world of fairies and wizards seen in Shakespeare’s plays.            
+                Wed, Dec 23, 2026 & Sat, Jan 2, 2027 at 11:30am & 1pm            
+                            Learn More 
+Learning Lab
 Family Workshop: Celebrations, Shakespeare Style
 Family Workshop: Celebrations, Shakespeare Style
                 Families will share how they celebrate important moments in their own lives and discover how Shakespeare’s characters celebrate meaningful moments in his plays.            
                 Fri, Nov 27 & Wed, Dec 30, 2026            
                             Dates & Tickets 
 Learning Lab
-Family Workshop: To Be a Shakespearean Actor
-Family Workshop: To Be a Shakespearean Actor
-                In this free workshop, families will try out Elizabethan acting styles and learn about the power of Shakespeare’s words to inspire actors, trends, and riots.            
-                Dec 5, 29, & 31, 2026 at 11:30am & 1pm            
-                            Learn More 
-Multiple venues
-Family Workshop: The Fantastical World of Shakespeare
-Family Workshop: The Fantastical World of Shakespeare
-                In this free workshop, families will explore the world of fairies and wizards seen in Shakespeare’s plays.            
-                Wed, Dec 23, 2026 & Sat, Jan 2, 2027 at 11:30am & 1pm            
-                            Learn More 
-Multiple venues
 Family Workshop: My Shakespearean Monologue
 Family Workshop: My Shakespearean Monologue
                 In this free workshop, families will use words and phrases from Shakespeare’s plays to create personal monologues about who they are, with a chance to proudly perform it for everyone to hear.            
@@ -501,3 +503,5 @@ Terms of use
 Copyright policy
 © 1996 - 2026 Folger Shakespeare Library
 Site by substrakt
+Join and support
+			Close

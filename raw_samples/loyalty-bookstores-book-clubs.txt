@@ -1,4 +1,4 @@
 Loyalty Bookstores (book clubs)
 https://loyaltybookstores.com/events
-fetched 2026-11-22 00:21Z  status= chars=0 error=HTTPError: HTTP Error 403: 
+fetched 2026-11-27 23:09Z  status= chars=0 error=HTTPError: HTTP Error 403: 
 
