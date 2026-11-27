@@ -48,24 +48,31 @@ for f in tsvs:
 rows = [r for r in rows if start <= r["Date"] <= end]
 
 agg = {n for n, m in meta.items() if m["category"] in ("Discovery",) or "aggregator" in n.lower()}
-key = lambda r: (r["Date"], re.sub(r"\W+", "", html.unescape(r["Title"]).lower())[:40])
+key = lambda r: (r["Date"], (r["Time"] or "")[:5], re.sub(r"\W+", "", html.unescape(r["Title"]).lower())[:40])   # Nov 27: time too, so a 7pm and 9:30pm show both stay
 ART = re.compile(r"art|galler|exhibit|opening|first friday|museum|reception|underground", re.I)
 NOW = sys.argv[0] and __import__("os").environ.get("NOT_BEFORE", "")   # e.g. "2026-11-14 18:00": drop what already ended
 
 def keep(r):
     if r["Source"] == "Dupont Circle Art Walk" and not ART.search(r["Title"] + " " + r["Venue"]):
         return False   # the BID calendar is the whole neighborhood; keep the art
+    if r["Time"] and not re.match(r"\d\d:\d\d", r["Time"]):
+        return False   # scraped junk ("Time unclear", nav text)
+    if re.search(r"\b(no classes|office closed|closed for|break \(|holiday hours)", r["Title"], re.I):
+        return False   # closures, not events
     if NOW and r["Time"] and f"{r['Date']} {r['Time']}" < NOW:
         return False
     return True
 
-def dedupe(rs):
+def dedupe(rs):   # Nov 27: two orgs' own rows both stay (two Sur La Table stores); an aggregator copy of an org's row goes
     best = {}
     for r in rs:
         k = key(r)
-        if k not in best or (best[k]["Source"] in agg and r["Source"] not in agg):
-            best[k] = r
-    return list(best.values())
+        if r["Source"] in agg:
+            best.setdefault(k + ("*agg",), r)
+        else:
+            best[k + (r["Source"],)] = r
+    own = {k[:-1] for k in best if k[-1] != "*agg"}
+    return [r for k, r in best.items() if k[-1] != "*agg" or k[:-1] not in own]
 
 def blurb(r):
     t = re.sub(r"\s+", " ", re.sub(r"<[^>]+>", " ", html.unescape(r["raw"] or ""))).strip()
