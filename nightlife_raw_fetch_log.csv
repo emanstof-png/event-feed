@@ -1,0 +1,7 @@
+row,name,method,url,status,chars,seconds,error
+4,Flash,jsonld,https://www.flashdc.com,200,4086,0.5,
+5,Songbyrd,html,https://songbyrddc.com/events/,200,40000,0.4,
+10,"DC Improv (Lounge showroom, Sketch Night)",html,https://dcimprov.com/,200,1859,0.8,
+15,Eighteenth Street Lounge,html,https://www.18thstlounge.com/schedule,200,7128,0.3,
+25,The Comedy Loft of DC (incl. The Cellar),jsonld,https://www.dccomedyloft.com/events,200,40000,0.7,
+27,Washington Improv Theater (WIT),html,https://witdc.org/watch,200,12600,0.4,

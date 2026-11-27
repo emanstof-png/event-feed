@@ -1,0 +1,1040 @@
+Songbyrd
+https://songbyrddc.com/events/
+fetched 2026-11-27 23:09Z  status=200 chars=40000 error=
+
+Events | Songbyrd Music House
+HOME
+SHOWS
+BLOG
+WATCH/LISTEN
+GALLERY
+RADIO
+PLAYLIST
+TV/VIDEO
+FOOD
+CONTACT
+PRIVATE EVENTS
+CONTACT US
+ABOUT
+Frequent Flyer Card
+SONGBYRD 10!
+FAQs
+Follow
+Follow
+Follow
+Follow
+Follow
+Follow
+Follow
+Follow
+Follow
+Follow
+HOME
+SHOWS
+BLOG
+WATCH/LISTEN
+GALLERY
+RADIO
+PLAYLIST
+TV/VIDEO
+FOOD
+CONTACT
+PRIVATE EVENTS
+CONTACT US
+ABOUT
+Frequent Flyer Card
+SONGBYRD 10!
+FAQs
+Upcoming Shows
+Events or Artists
+Keywords
+Location
+Any dates
+Category
+Choose an Event Category
+Business & Professional
+Charity & Causes
+Community & Culture
+Family & Education
+Fashion & Beauty
+Film, Media & Entertainment
+Food & Drink
+Game or Competition
+Other
+Performing & Visual Arts
+Science & Technology
+Sports & Fitness
+Event Type
+Choose an Event Type
+Album Release
+Appearance or Signing
+Attraction
+Brunch
+Camp, Trip, or Retreat
+Class, Training, or Workshop
+Concert or Performance
+Concerts
+Conference
+Convention
+Dinner or Gala
+DJ
+Festival or Fair
+Fundraiser
+Game or Competition
+Happy Hour
+Late Party
+Matinee
+Meeting or Networking Event
+Other
+Party or Social Gathering
+Private Event
+Race or Endurance Event
+Rally
+Screening
+Seminar or Talk
+Special Event
+Tour
+Tournament
+Tradeshow, Consumer Show or Expo
+Genre
+Select genre
+Indie Rock
+Blues
+Jazz
+Country
+Alternative
+Latin
+World
+Electronic
+Experimental
+R&B
+Rap
+Rock
+Pop
+Indie
+Punk
+Comedy
+Metal
+Drag
+Hip-Hop
+Reggae
+Folk
+Singer/Songwriter
+Events
+        object(WP_Post)#8801 (24) {
+  ["ID"]=>
+  int(8738)
+  ["post_author"]=>
+  string(1) "4"
+  ["post_date"]=>
+  string(19) "2026-09-25 03:38:34"
+  ["post_date_gmt"]=>
+  string(19) "2026-09-25 03:38:34"
+  ["post_content"]=>
+  string(1972) "
+Friday November 27th
+Goomba Productions Presents: Year of the Knife w/ Gun to God's Head, Execute, Fade to Nothing/Faith in Destruction
+***
+Year of the Knife: Hellaware Brutal Hardcore
+Gun to God's Head: Metalcore
+Execute: Delaware Metalcore
+Fade to Nothing/Faith in Destruction: DC Metallic Hardcore
+"
+  ["post_title"]=>
+  string(17) "YEAR OF THE KNIFE"
+  ["post_excerpt"]=>
+  string(0) ""
+  ["post_status"]=>
+  string(7) "publish"
+  ["comment_status"]=>
+  string(6) "closed"
+  ["ping_status"]=>
+  string(6) "closed"
+  ["post_password"]=>
+  string(0) ""
+  ["post_name"]=>
+  string(17) "year-of-the-knife"
+  ["to_ping"]=>
+  string(0) ""
+  ["pinged"]=>
+  string(0) ""
+  ["post_modified"]=>
+  string(19) "2026-09-25 03:38:34"
+  ["post_modified_gmt"]=>
+  string(19) "2026-09-25 03:38:34"
+  ["post_content_filtered"]=>
+  string(0) ""
+  ["post_parent"]=>
+  int(0)
+  ["guid"]=>
+  string(59) "https://songbyrddc.com/?post_type=event_listing&p=8738"
+  ["menu_order"]=>
+  int(0)
+  ["post_type"]=>
+  string(13) "event_listing"
+  ["post_mime_type"]=>
+  string(0) ""
+  ["comment_count"]=>
+  string(1) "0"
+  ["filter"]=>
+  string(3) "raw"
+}
+        Ticket: paid        
+Fri
+27
+Nov
+Fri
+27
+Nov
+YEAR OF THE KNIFE
+Supporting Acts: 
+Gun to God's Head, Execute, Fade to Nothing/Faith in Destruction
+                                                                07:00 PM                                 
+                                540 Penn Street NE                            
+Door Time: 
+07:00 pm
+Concerts
+Tickets
+Info
+        object(WP_Post)#8742 (24) {
+  ["ID"]=>
+  int(8758)
+  ["post_author"]=>
+  string(1) "4"
+  ["post_date"]=>
+  string(19) "2026-10-02 13:41:31"
+  ["post_date_gmt"]=>
+  string(19) "2026-10-02 13:41:31"
+  ["post_content"]=>
+  string(3491) "
+Saturday November 28th
+Night Train 357 w/ Dumi Right, Marc 2Ray
+***
+Night Train 357 (pronounced “three-five-seven”) is an emcee combining wordplay and subject matter that’s not often touched upon in the Hip-Hop world. For Train, his music is about replay value. His metaphors are designed to ensure you rewind so you don’t miss a line with pop culture references, a wide range of socially conscious and personal topics, and a touch of nerd rap! He’s not trying to be cool. He’s the cure for the common cool.
+***
+Dumi Right is a DMV based emcee, songwriter, and performance artist whose career spans from hip-hop’s golden age through its present. He has performed all over the US and internationally (from Thailand to France, Japan and Zimbabwe) and has released critically acclaimed projects collaborating with the likes of Chuck D from Public Enemy, Chubb Rock, Arrested Development and the Jungle Brothers.
+***
+Marc 2Ray is a Hip Hop artist and educator known for delivering empowering messages through his music. As the grandson of an Armenian Genocide survivor, he gained widespread recognition for his single "1915", which has been used in many high school and college curricula to educate students. Beyond music, Marc keeps up the theme of empowering others by providing the play-based, Greenspan Floortime Therapy for children with additional needs. In a full-circle moment, Marc stepped into the Advocacy Director role with Calm Bomb Collective, a non-profit record label that supports neurodivergent artists and individuals. Marc's mantra: Educate and Empower!
+"
+  ["post_title"]=>
+  string(40) "NIGHT TRAIN 357 w/ DUMI RIGHT, MARC 2RAY"
+  ["post_excerpt"]=>
+  string(0) ""
+  ["post_status"]=>
+  string(7) "publish"
+  ["comment_status"]=>
+  string(6) "closed"
+  ["ping_status"]=>
+  string(6) "closed"
+  ["post_password"]=>
+  string(0) ""
+  ["post_name"]=>
+  string(38) "night-train-357-w-dumi-right-marc-2ray"
+  ["to_ping"]=>
+  string(0) ""
+  ["pinged"]=>
+  string(0) ""
+  ["post_modified"]=>
+  string(19) "2026-10-02 13:41:31"
+  ["post_modified_gmt"]=>
+  string(19) "2026-10-02 13:41:31"
+  ["post_content_filtered"]=>
+  string(0) ""
+  ["post_parent"]=>
+  int(0)
+  ["guid"]=>
+  string(59) "https://songbyrddc.com/?post_type=event_listing&p=8758"
+  ["menu_order"]=>
+  int(0)
+  ["post_type"]=>
+  string(13) "event_listing"
+  ["post_mime_type"]=>
+  string(0) ""
+  ["comment_count"]=>
+  string(1) "0"
+  ["filter"]=>
+  string(3) "raw"
+}
+        Ticket: paid        
+Sat
+28
+Nov
+Sat
+28
+Nov
+NIGHT TRAIN 357 w/ DUMI RIGHT, MARC 2RAY
+                                                                07:00 PM                                 
+                                540 Penn Street NE                            
+Door Time: 
+07:00 pm
+Concerts
+Tickets
+Info
+        object(WP_Post)#8743 (24) {
+  ["ID"]=>
+  int(8773)
+  ["post_author"]=>
+  string(1) "4"
+  ["post_date"]=>
+  string(19) "2026-10-08 17:17:53"
+  ["post_date_gmt"]=>
+  string(19) "2026-10-08 17:17:53"
+  ["post_content"]=>
+  string(346) "Songbyrd Music Trivia Night: Merry Thanxmas Edition!
+Monday November 30, 2026!
+Join us at Songbyrd for a fun night of drinks, eats and MUSIC TRIVIA! We're writing our own questions, so expect a few curveballs.
+Stay tuned for more info, and in the meantime, brush up on your music knowledge!
+KEEP UP FOR CATEGORIES AND BONUS QUESTIONS!"
+  ["post_title"]=>
+  string(52) "SONGBYRD MUSIC TRIVIA NIGHT: MERRY THANXMAS EDITION!"
+  ["post_excerpt"]=>
+  string(0) ""
+  ["post_status"]=>
+  string(7) "publish"
+  ["comment_status"]=>
+  string(6) "closed"
+  ["ping_status"]=>
+  string(6) "closed"
+  ["post_password"]=>
+  string(0) ""
+  ["post_name"]=>
+  string(50) "songbyrd-music-trivia-night-merry-thanxmas-edition"
+  ["to_ping"]=>
+  string(0) ""
+  ["pinged"]=>
+  string(0) ""
+  ["post_modified"]=>
+  string(19) "2026-10-08 17:17:53"
+  ["post_modified_gmt"]=>
+  string(19) "2026-10-08 17:17:53"
+  ["post_content_filtered"]=>
+  string(0) ""
+  ["post_parent"]=>
+  int(0)
+  ["guid"]=>
+  string(59) "https://songbyrddc.com/?post_type=event_listing&p=8773"
+  ["menu_order"]=>
+  int(0)
+  ["post_type"]=>
+  string(13) "event_listing"
+  ["post_mime_type"]=>
+  string(0) ""
+  ["comment_count"]=>
+  string(1) "0"
+  ["filter"]=>
+  string(3) "raw"
+}
+        Ticket: free        
+Mon
+30
+Nov
+Mon
+30
+Nov
+SONGBYRD MUSIC TRIVIA NIGHT: MERRY THANXMAS EDITION!
+                                                                07:00 PM                                 
+                                540 Penn Street NE                            
+Door Time: 
+07:00 pm
+Game or Competition
+Free
+Info
+        object(WP_Post)#8744 (24) {
+  ["ID"]=>
+  int(8741)
+  ["post_author"]=>
+  string(1) "4"
+  ["post_date"]=>
+  string(19) "2026-09-28 13:33:22"
+  ["post_date_gmt"]=>
+  string(19) "2026-09-28 13:33:22"
+  ["post_content"]=>
+  string(1144) "
+Tuesday December 1st
+JEFF the Brotherhood is back for the first tour in years playing songs from the 1st 2 LPs: Heavy Days and We are the Champions.
+JEFF The Brotherhood is an art project whose inception dates back to 2002. In an unassuming basement in Nashville, Tennessee, brothers 
+Jake
+ and 
+Jamin Orrall
+ began experimenting with a riveting blend of kraut rock, jazz, black metal, and the avant-garde. The Brotherhood began with one goal in mind: to do or create whatever they want with no rules or boundaries.
+"
+  ["post_title"]=>
+  string(20) "JEFF THE BROTHERHOOD"
+  ["post_excerpt"]=>
+  string(0) ""
+  ["post_status"]=>
+  string(7) "publish"
+  ["comment_status"]=>
+  string(6) "closed"
+  ["ping_status"]=>
+  string(6) "closed"
+  ["post_password"]=>
+  string(0) ""
+  ["post_name"]=>
+  string(20) "jeff-the-brotherhood"
+  ["to_ping"]=>
+  string(0) ""
+  ["pinged"]=>
+  string(0) ""
+  ["post_modified"]=>
+  string(19) "2026-09-28 13:33:22"
+  ["post_modified_gmt"]=>
+  string(19) "2026-09-28 13:33:22"
+  ["post_content_filtered"]=>
+  string(0) ""
+  ["post_parent"]=>
+  int(0)
+  ["guid"]=>
+  string(59) "https://songbyrddc.com/?post_type=event_listing&p=8741"
+  ["menu_order"]=>
+  int(0)
+  ["post_type"]=>
+  string(13) "event_listing"
+  ["post_mime_type"]=>
+  string(0) ""
+  ["comment_count"]=>
+  string(1) "0"
+  ["filter"]=>
+  string(3) "raw"
+}
+        Ticket: paid        
+Tue
+01
+Dec
+Tue
+01
+Dec
+JEFF THE BROTHERHOOD
+                                                                07:00 PM                                 
+                                540 Penn Street NE                            
+Door Time: 
+07:00 pm
+Concerts
+Tickets
+Info
+        object(WP_Post)#8758 (24) {
+  ["ID"]=>
+  int(8802)
+  ["post_author"]=>
+  string(1) "4"
+  ["post_date"]=>
+  string(19) "2026-10-14 03:13:48"
+  ["post_date_gmt"]=>
+  string(19) "2026-10-14 03:13:48"
+  ["post_content"]=>
+  string(1958) "Wednesday December 2nd
+Tracey Nelson w/ Oldstar
+New York singer/songwriter Austin Knoll, who previously sang in My Sins and played guitar in Hotline TNT, is released his new album as Tracey Nelson, Hercules, via K Records imprint Perennial. The project is named after Knoll’s mother’s (“He carries it with him wherever he goes,” a note on his Bandcamp reads) and you’ll likely recognize some of his collaborators on it, including MJ Lenderman and his Wednesday bandmate and former partner Karly Hartzman; Ethan Baechtold and Xandy Chelmis of Wednesday and Lenderman’s band The Wind; Landon George and Colin Miller, also of The Wind; and another former Hotline TNT guitarist, Jack Kraus. It was co-produced and recorded by Lenderman and Miller, and you can see the cover art and tracklist, and stream a few tracks, below.
+***
+Oldstar is a country rock band from Florida, based in New York City. Fronted by Zane Mclaughlin, their third album & studio debut Of the Highway was released in March 2025. Inspired by artists like Gram Parsons, Sparklehorse, Neil Young, and The Rolling Stones, Oldstar pulls from country, rock and blues, and folk.
+"
+  ["post_title"]=>
+  string(13) "TRACEY NELSON"
+  ["post_excerpt"]=>
+  string(0) ""
+  ["post_status"]=>
+  string(7) "publish"
+  ["comment_status"]=>
+  string(6) "closed"
+  ["ping_status"]=>
+  string(6) "closed"
+  ["post_password"]=>
+  string(0) ""
+  ["post_name"]=>
+  string(13) "tracey-nelson"
+  ["to_ping"]=>
+  string(0) ""
+  ["pinged"]=>
+  string(0) ""
+  ["post_modified"]=>
+  string(19) "2026-10-16 04:34:45"
+  ["post_modified_gmt"]=>
+  string(19) "2026-10-16 04:34:45"
+  ["post_content_filtered"]=>
+  string(0) ""
+  ["post_parent"]=>
+  int(0)
+  ["guid"]=>
+  string(59) "https://songbyrddc.com/?post_type=event_listing&p=8802"
+  ["menu_order"]=>
+  int(0)
+  ["post_type"]=>
+  string(13) "event_listing"
+  ["post_mime_type"]=>
+  string(0) ""
+  ["comment_count"]=>
+  string(1) "0"
+  ["filter"]=>
+  string(3) "raw"
+}
+        Ticket: paid        
+Wed
+02
+Dec
+Wed
+02
+Dec
+TRACEY NELSON
+Supporting Acts: 
+Oldstar
+                                                                07:00 PM                                 
+                                540 Penn Street NE                            
+Door Time: 
+07:00 pm
+Concerts
+Tickets
+Info
+        object(WP_Post)#8761 (24) {
+  ["ID"]=>
+  int(8727)
+  ["post_author"]=>
+  string(1) "4"
+  ["post_date"]=>
+  string(19) "2026-09-22 14:23:33"
+  ["post_date_gmt"]=>
+  string(19) "2026-09-22 14:23:33"
+  ["post_content"]=>
+  string(1179) "When rising Los Angeles singer-songwriter Devon Gabriella first picked up an acoustic guitar at 13, she locked herself in her bedroom and wouldn’t come out until she’d learned the basics of how to play. “I remember my fingers were bleeding as I searched up chords on Google, trying to match them to the diagrams,” Devon says, recalling her unwavering internal push to master this new instrument without formal lessons. “The first song I ever learned was ‘Jolene’ by Dolly Parton. I’ll never forget how excited I was to play and sing at the same time.”
+This is the level of dedication the rising 24-year-old singer-songwriter has always brought to her music, which is a heartfelt blend of Fleetwood Mac-style soft-rock, Kacey Musgraves-inspired modern country, and Taylor Swift-esque confessional lyricism. Today, Devon’s diligence and earnest love of her craft has not only caught the attention of thousands of fans, who have connected with each other and formed an online community, but in 2025 it caught the attention of sombr, who requested that Gabriella open for his Late Nights & Young Romance Tour, which traveled across North America last fall."
+  ["post_title"]=>
+  string(15) "DEVON GABRIELLA"
+  ["post_excerpt"]=>
+  string(0) ""
+  ["post_status"]=>
+  string(7) "publish"
+  ["comment_status"]=>
+  string(6) "closed"
+  ["ping_status"]=>
+  string(6) "closed"
+  ["post_password"]=>
+  string(0) ""
+  ["post_name"]=>
+  string(15) "devon-gabriella"
+  ["to_ping"]=>
+  string(0) ""
+  ["pinged"]=>
+  string(0) ""
+  ["post_modified"]=>
+  string(19) "2026-09-22 14:23:33"
+  ["post_modified_gmt"]=>
+  string(19) "2026-09-22 14:23:33"
+  ["post_content_filtered"]=>
+  string(0) ""
+  ["post_parent"]=>
+  int(0)
+  ["guid"]=>
+  string(59) "https://songbyrddc.com/?post_type=event_listing&p=8727"
+  ["menu_order"]=>
+  int(0)
+  ["post_type"]=>
+  string(13) "event_listing"
+  ["post_mime_type"]=>
+  string(0) ""
+  ["comment_count"]=>
+  string(1) "0"
+  ["filter"]=>
+  string(3) "raw"
+}
+        Ticket: paid        
+Thu
+03
+Dec
+Thu
+03
+Dec
+DEVON GABRIELLA
+                                                                07:00 PM                                 
+                                540 Penn Street NE                            
+Door Time: 
+07:00 pm
+Concerts
+Tickets
+Info
+        object(WP_Post)#8751 (24) {
+  ["ID"]=>
+  int(8832)
+  ["post_author"]=>
+  string(1) "4"
+  ["post_date"]=>
+  string(19) "2026-10-30 14:54:24"
+  ["post_date_gmt"]=>
+  string(19) "2026-10-30 14:54:24"
+  ["post_content"]=>
+  string(1046) "Friday December 4th
+The Montaines w/ Aidan LeClaire
+***
+The Montaines are a Washington, D.C.-based indie rock band known for sticky guitar riffs, romantic songwriting, and energetic live performances. Their latest release, Color Coded, pairs melodic hooks with expansive arrangements and emotionally charged lyrics, capturing the band’s balance of intimacy and intensity. With a growing live presence and a sound rooted in guitar-driven alternative rock, The Montaines continue to make their mark on the independent music scene.
+***
+Aidan Leclaire is a D.C./Northern Virginia band that delivers a high-energy blend of heavy alternative rock and melodic hooks, pairing hard-hitting riffs with catchy, sing-along choruses. Their single “Lucy” made waves across social media and was performed during one of the band's two appearances on Good Morning Washington. Their latest album, Diving, is out now, and Aidan continues bringing an energetic live show to audiences across Washington, D.C., Virginia, New York City, and Boston."
+  ["post_title"]=>
+  string(13) "THE MONTAINES"
+  ["post_excerpt"]=>
+  string(0) ""
+  ["post_status"]=>
+  string(7) "publish"
+  ["comment_status"]=>
+  string(6) "closed"
+  ["ping_status"]=>
+  string(6) "closed"
+  ["post_password"]=>
+  string(0) ""
+  ["post_name"]=>
+  string(13) "the-montaines"
+  ["to_ping"]=>
+  string(0) ""
+  ["pinged"]=>
+  string(0) ""
+  ["post_modified"]=>
+  string(19) "2026-10-30 14:54:24"
+  ["post_modified_gmt"]=>
+  string(19) "2026-10-30 14:54:24"
+  ["post_content_filtered"]=>
+  string(0) ""
+  ["post_parent"]=>
+  int(0)
+  ["guid"]=>
+  string(59) "https://songbyrddc.com/?post_type=event_listing&p=8832"
+  ["menu_order"]=>
+  int(0)
+  ["post_type"]=>
+  string(13) "event_listing"
+  ["post_mime_type"]=>
+  string(0) ""
+  ["comment_count"]=>
+  string(1) "0"
+  ["filter"]=>
+  string(3) "raw"
+}
+        Ticket: paid        
+Fri
+04
+Dec
+Fri
+04
+Dec
+THE MONTAINES
+Supporting Acts: 
+Aidan LeClaire
+                                                                07:00 PM                                 
+                                540 Penn Street NE                            
+Door Time: 
+07:00 pm
+Concerts
+Tickets
+Info
+        object(WP_Post)#8750 (24) {
+  ["ID"]=>
+  int(8721)
+  ["post_author"]=>
+  string(1) "4"
+  ["post_date"]=>
+  string(19) "2026-09-16 13:10:22"
+  ["post_date_gmt"]=>
+  string(19) "2026-09-16 13:10:22"
+  ["post_content"]=>
+  string(2881) "
+Saturday December 5th
+Eliza McLamb's warm, intimate songs weave through confessional folk and clamorous alt-rock in a way that recalls contemporary indie heroes like Julia Jacklin and Lucy Dacus. After building a grassroots fan base through social media, the North Carolina native released her debut EP, Salt Circle, in 2022. She soon joined the roster of Royal Mountain Records, which released her full-length debut, Going Through It, in 2024. Her heightened success led to McLamb leaving Binchtopia, the popular podcast she had co-hosted since 2021, to focus exclusively on her music career. Her sophomore album, Good Story, appeared in 2025, following her first headlining tour.
+***
+For 
+Lily Konigsberg,
+ it seemed that the path to success was laid out in front of her. Years of hustling in the underground music scene, both with her long running band Palberta and under her own name, garnered her a sizable cult following. Through rigorous touring and word of mouth, she earned "your favorite songwriter's favorite songwriter" status and was on track to being recognized as a force of nature in the wider music world with the release of her critically lauded debut album (
+Lily We Need to Talk Now 
+which came out on 
+Wharf Cat
+ in 2021), and her 2022 album as a duo called My Idea with Nate Amos of This Is Lorelei/Water From Your Eyes.
+Since 2022 Konigsberg has been silent, but she is returning to share a new song called “
+Free Byrd
+,” her first single in nearly 5 years. The product of time spent working with her longtime friend and collaborator Hugo Stanley (Palm, Frankie Cosmos), who she enlisted  as both a producer and instrumentalist, the song is a fitting introduction to a new creative era for Konigsberg. It's an ode to the bittersweet nature of starting again and of the sacrifices required to do so, serving as both empowering breakup anthem and a swan song for a tumultuous past life. An infusion of Lily's signature earworm-generating pop sensibility and Hugo's punchy arrangements, "Free Byrd" makes a convincing last-second bid for song of the summer, and serves as an immensely promising preview of things to come.
+"
+  ["post_title"]=>
+  string(12) "ELIZA McLAMB"
+  ["post_excerpt"]=>
+  string(0) ""
+  ["post_status"]=>
+  string(7) "publish"
+  ["comment_status"]=>
+  string(6) "closed"
+  ["ping_status"]=>
+  string(6) "closed"
+  ["post_password"]=>
+  string(0) ""
+  ["post_name"]=>
+  string(12) "eliza-mclamb"
+  ["to_ping"]=>
+  string(0) ""
+  ["pinged"]=>
+  string(0) ""
+  ["post_modified"]=>
+  string(19) "2026-11-17 02:46:13"
+  ["post_modified_gmt"]=>
+  string(19) "2026-11-17 02:46:13"
+  ["post_content_filtered"]=>
+  string(0) ""
+  ["post_parent"]=>
+  int(0)
+  ["guid"]=>
+  string(59) "https://songbyrddc.com/?post_type=event_listing&p=8721"
+  ["menu_order"]=>
+  int(0)
+  ["post_type"]=>
+  string(13) "event_listing"
+  ["post_mime_type"]=>
+  string(0) ""
+  ["comment_count"]=>
+  string(1) "0"
+  ["filter"]=>
+  string(3) "raw"
+}
+        Ticket: paid        
+Sat
+05
+Dec
+Sat
+05
+Dec
+ELIZA McLAMB
+Supporting Acts: 
+Lily Konigsberg
+                                                                07:00 PM                                 
+                                540 Penn Street NE                            
+Door Time: 
+07:00 pm
+Concerts
+Tickets
+Info
+        object(WP_Post)#8749 (24) {
+  ["ID"]=>
+  int(8776)
+  ["post_author"]=>
+  string(1) "4"
+  ["post_date"]=>
+  string(19) "2026-10-09 04:03:55"
+  ["post_date_gmt"]=>
+  string(19) "2026-10-09 04:03:55"
+  ["post_content"]=>
+  string(3114) "
+Sunday December 6th
+Safety Bear w/ Mx Mundy & Glorian
+***
+Safety Bear
+Safety Bear is an independent Acid House artist who weaves together retro tasty dance beats, immersive HI-NRG atmospheres and subject matter typically alien to the dance floor. He is not a DJ, but a dynamic performer and songwriter who combines live drum machines and keyboards with the stage persona of a neurotic teddy bear. Safety Bear's first full-length album, We Live From Day to Day was released in July, 2026.
+Mx Mundy
+Mx Mundy is a vibrant and colorful artist who mixes funk, punk and new wave soul. A self proclaimed “punk pixie”, Mx Mundy was molded by the DMV’s colorful artistic landscape.
+Glorian
+Glorian is known for his Shapeshifting, experimental, operatic pop. In 2025 Glorian received the reader’s poll award for Best Musician and Best Band in Baltimore Magazine’s Best of Baltimore.
+"
+  ["post_title"]=>
+  string(33) "SAFETY BEAR w/ MX MUNDY & GLORIAN"
+  ["post_excerpt"]=>
+  string(0) ""
+  ["post_status"]=>
+  string(7) "publish"
+  ["comment_status"]=>
+  string(6) "closed"
+  ["ping_status"]=>
+  string(6) "closed"
+  ["post_password"]=>
+  string(0) ""
+  ["post_name"]=>
+  string(30) "safety-bear-w-mx-mundy-glorian"
+  ["to_ping"]=>
+  string(0) ""
+  ["pinged"]=>
+  string(0) ""
+  ["post_modified"]=>
+  string(19) "2026-10-09 04:03:56"
+  ["post_modified_gmt"]=>
+  string(19) "2026-10-09 04:03:56"
+  ["post_content_filtered"]=>
+  string(0) ""
+  ["post_parent"]=>
+  int(0)
+  ["guid"]=>
+  string(59) "https://songbyrddc.com/?post_type=event_listing&p=8776"
+  ["menu_order"]=>
+  int(0)
+  ["post_type"]=>
+  string(13) "event_listing"
+  ["post_mime_type"]=>
+  string(0) ""
+  ["comment_count"]=>
+  string(1) "0"
+  ["filter"]=>
+  string(3) "raw"
+}
+        Ticket: paid        
+Sun
+06
+Dec
+Sun
+06
+Dec
+SAFETY BEAR w/ MX MUNDY & GLORIAN
+Supporting Acts: 
+Mx Mundy, Glorian
+                                                                07:00 PM                                 
+                                540 Penn Street NE                            
+Door Time: 
+07:00 pm
+Concerts
+Tickets
+Info
+        object(WP_Post)#8748 (24) {
+  ["ID"]=>
+  int(8837)
+  ["post_author"]=>
+  string(1) "4"
+  ["post_date"]=>
+  string(19) "2026-11-02 21:27:55"
+  ["post_date_gmt"]=>
+  string(19) "2026-11-02 21:27:55"
+  ["post_content"]=>
+  string(3560) "Tuesday December 8th
+Trappers Delight Holiday Comedy Series Hosted by Tommy Taylor
+***
+HOST:
+Tommy Taylor
+Tommy Taylor Jr. is an award-winning comedian in DC and a dynamic actor whose sharp wit and clean, clever humor have lit up stages from the DC Improv to national TV. As a celebrated clean comedian, he is the creator of the critically acclaimed sketch comedy series The Tommy Taylor Show, which earned multiple awards for its smart writing and bold originality. Tommy, a prominent DC stand-up comedian, has also written, directed, and starred in content for BET and Comcast, creating a range of impactful short films and documentaries that blend humor with social commentary. Whether on stage, on screen, or behind the camera, Tommy Taylor Jr. captivates audiences with his fresh, authentic voice and inspires change as a leading Washington DC area comedian.
+FEATURE:
+Pudge Rozay is a rising comedic force bringing laughter, energy, and authentic Baltimore flavor to every stage he touches. Known for his bold personality, relatable storytelling, quick wit, and hilarious take on everyday life, Pudge Rozay has a unique ability to turn ordinary situations into unforgettable comedy.
+With a style that is raw, entertaining, and full of personality, Pudge Rozay connects with audiences from all walks of life. Whether he’s talking about relationships, family, everyday struggles, or just the funny side of life, he knows how to keep the crowd laughing from beginning to end.
+Representing Baltimore, Maryland, Pudge Rozay is on a mission to make his name known throughout the comedy world. His passion, confidence, and dedication to making people laugh continue to open doors and create new opportunities.
+FEATURE:
+JACQUES KINDLE
+Known for high-energy storytelling, personal anecdotes, and sharp observations about everyday life, corporate culture, and regional quirks. He produces monthly independent comedy shows in Washington, D.C.,under the moniker "Trappers Delight" He has also performed at venues such as the DC Comedy Loft and DC Improv.
+FEATURE:
+BENNY NWOKEABIA
+Benny Nwokeabia is a nationally touring stand-up comedian who has performed at Netflix Is A Joke Festival and was named one of The Washington Post’s Top 10 Funniest Comedians in D.C. He is currently embarking on his ambitious Road to 100 journey, a mission to sell out 100 comedy shows in 100 different cities, documenting the experience along the way.
+HEADLINER
+Ashley Mayo:
+No stranger to the stage, Ashley Mayo studied at the Studio Theatre acting conservatory and began her career in comedy shortly after graduating college. Her unique material, delivery, energetic stage presence and charisma have won over audiences throughout the DMV."
+  ["post_title"]=>
+  string(38) "TRAPPERS DELIGHT HOLIDAY COMEDY SERIES"
+  ["post_excerpt"]=>
+  string(0) ""
+  ["post_status"]=>
+  string(7) "publish"
+  ["comment_status"]=>
+  string(6) "closed"
+  ["ping_status"]=>
+  string(6) "closed"
+  ["post_password"]=>
+  string(0) ""
+  ["post_name"]=>
+  string(38) "trappers-delight-holiday-comedy-series"
+  ["to_ping"]=>
+  string(0) ""
+  ["pinged"]=>
+  string(0) ""
+  ["post_modified"]=>
+  string(19) "2026-11-06 06:03:09"
+  ["post_modified_gmt"]=>
+  string(19) "2026-11-06 06:03:09"
+  ["post_content_filtered"]=>
+  string(0) ""
+  ["post_parent"]=>
+  int(0)
+  ["guid"]=>
+  string(59) "https://songbyrddc.com/?post_type=event_listing&p=8837"
+  ["menu_order"]=>
+  int(0)
+  ["post_type"]=>
+  string(13) "event_listing"
+  ["post_mime_type"]=>
+  string(0) ""
+  ["comment_count"]=>
+  string(1) "0"
+  ["filter"]=>
+  string(3) "raw"
+}
+        Ticket: paid        
+Tue
+08
+Dec
+Tue
+08
+Dec
+TRAPPERS DELIGHT HOLIDAY COMEDY SERIES
+Supporting Acts: 
+Hosted by Tommy Taylor, Featuring Ashley Mayo, Jacques Kindle, Pudge Rozay, Benny Nwokeabia
+                                                                07:00 PM                                 
+                                540 Penn Street NE                            
+Door Time: 
+07:00 pm
+Concert or Performance
+Tickets
+Info
+        object(WP_Post)#8745 (24) {
+  ["ID"]=>
+  int(8789)
+  ["post_author"]=>
+  string(1) "4"
+  ["post_date"]=>
+  string(19) "2026-10-12 22:58:30"
+  ["post_date_gmt"]=>
+  string(19) "2026-10-12 22:58:30"
+  ["post_content"]=>
+  string(3495) "Wednesday December 9th
+Hope or Heartbreak ft. Kyaira & Gabrielle Hights w/ Al Hostile
+***
+“Hope or Heartbreak” is an immersive and interactive R&B experience built around the idea that everyone has loved, lost, healed, or is still figuring it out.
+Gabrielle Hights is Team Heartbreak, aka the voice for anyone who’s been hurt, disappointed, and feels like they’re done giving people chances.
+Kyaira, on the other hand, is Team Hope, aka the voice for those who still believe love is worth the risk, and that staying open and warm, even after heartbreak, is the ultimate flex.
+Throughout the night, both artists will share their perspectives through original music, stories, and conversations with the audience. It’s not about who’s right, but about creating a space where people see themselves, connect with one another, and maybe even heal a little in the process.
+The audience gets to pick a side, switch sides, sing along, laugh, and reflect on their own experiences. This isn’t just your regular indie artist show, it’s an interactive and immersive R&B experience that’s perfect for diverse audiences who can relate to being hopeful or being heartbroken.
+***
+Kyaira is a dynamic soul singer-songwriter based in the Greater Washington, DC, Maryland, and Virginia area. Renowned for her powerhouse vocals and soothing undertones, her artistry evokes comparisons to legends such as Lauryn Hill, Jill Scott, and Ari Lennox. Kyaira’s voice has been described as the warm hug you never knew you needed, effortlessly blending strength with vulnerability to captivate listeners.
+Her musical journey includes a robust discography featuring the critically acclaimed EP Almost 30. Released in 2023, the album won Best R&B Album at the 2024 Wammie Music Awards and amassed over 20,000 streams within its first year, a testament to its heartfelt lyrics and emotive delivery. In June of 2025, Kyaira went viral for a collaboration with local DMV artist, Fulton Lee, for their song " Believe". The song amassed over 7 million views in the first two weeks. More recently, in 2026, Kyaira's original song "Tongue-Tied" was selected to be featured on NPR's "Top Shelf".
+***
+Gabrielle Hights is an American singer, songwriter, multi-instrumentalist, and record producer known for her powerful vocals, genre-fluid musicianship, and commanding live presence. Born in Killeen, Texas and raised in Augusta, Georgia, Gabrielle’s Southern roots and classical training shape a distinctive sound that moves effortlessly between R&B, soul, gospel, rock, and contemporary music. Now based in the Washington, DC metropolitan area, she brings a unique combination of vocal versatility, musicianship, and emotional depth to every performance, whether on guitar, piano, with a full band, or in an intimate setting.
+Gabrielle has collaborated and performed with acclaimed artists including Mýa, Kevin Ross, TA Thomas, and Trey McLaughlin, among others. Most recently, she toured nationally as a guitarist with Monaleo on arena dates supporting Summer Walker, performing for thousands of fans across major U.S. markets. Drawing from her experience in touring, choral arranging, composition, songwriting, and production, Gabrielle continues to establish herself as a dynamic independent artist and captivating live performer, creating memorable experiences that connect with audiences across intimate venues, festivals, and major concert stages."
+  ["post_title"]=>
+  string(48) "HOPE OR HEARTBREAK ft. KYAIRA & GABRIELLE HIGHTS"
+  ["post_excerpt"]=>
+  string(0) ""
+  ["post_status"]=>
+  string(7) "publish"
+  ["comment_status"]=>
+  string(6) "closed"
+  ["ping_status"]=>
+  string(6) "closed"
+  ["post_password"]=>
+  string(0) ""
+  ["post_name"]=>
+  string(45) "hope-or-heartbreak-ft-gabrielle-hights-kyaira"
+  ["to_ping"]=>
+  string(0) ""
+  ["pinged"]=>
+  string(0) ""
+  ["post_modified"]=>
+  string(19) "2026-10-13 20:06:14"
+  ["post_modified_gmt"]=>
+  string(19) "2026-10-13 20:06:14"
+  ["post_content_filtered"]=>
+  string(0) ""
+  ["post_parent"]=>
+  int(0)
+  ["guid"]=>
+  string(59) "https://songbyrddc.com/?post_type=event_listing&p=8789"
+  ["menu_order"]=>
+  int(0)
+  ["post_type"]=>
+  string(13) "event_listing"
+  ["post_mime_type"]=>
+  string(0) ""
+  ["comment_count"]=>
+  string(1) "0"
+  ["filter"]=>
+  string(3) "raw"
+}
+        Ticket: paid        
+Wed
+09
+Dec
+Wed
+09
+Dec
+HOPE OR HEARTBREAK ft. KYAIRA & GABRIELLE HIGHTS
+Supporting Acts: 
+Al Hostile
+                                                                07:00 PM                                 
+                                540 Penn Street NE                            
+Door Time: 
+07:00 pm
+Tickets
+Info
+        object(WP_Post)#9115 (24) {
+  ["ID"]=>
+  int(8564)
+  ["post_author"]=>
+  string(1) "4"
+  ["post_date"]=>
+  string(19) "2026-06-22 01:52:22"
+  ["post_date_gmt"]=>
+  string(19) "2026-06-22 01:52:22"
+  ["post_content"]=>
+  string(6736) "
+There’s a novelistic impression to the songs of Wild Pink, where characters peer over the edge of potential futures, past mistakes and paths not taken. Backed by a dive bar hue, NYC-based frontman John Ross blends the existential with the celestial, gathering pieces of passer-bys, fictional figures, and historical idiosyncrasies to make sense of what’s in front of him. It’s on their sixth album, Still Coming Down, that Ross cements the voice he’s been steadily honing over the years.
+The album pokes fun at the listlessness of consumerism, coping through detachment and finding the punchline of it all. Ross is a consummate of curiosity, becoming a narrator of a warped and unpredictable America, morphing everyday mundanity into a cinematic, sepia-toned flipbook. Propelled by the witty and ravenous wisdom of 2024’s Dulling the Horns, Ross’ poetic form has only gained traction, as jocular, heartfelt stories pour with a clever and distinctive ease.
+NFL bros cruise alongside big guys in grocery stores with even bigger tattoos; ghost stories and references from the cinematic haze of movies like Heat, Moneyball and The Town buzz in the background while Ross also points to Waterworld and The Perfect Storm––heroes who wander, looking for answers at the end of the world.
+After battling––and beating––cancer, and now becoming a father for the first time, Ross’ outlook has hairpin-bent its way into a simpler significance, where creating music is less about the bigger picture, and more about being present in the moment. It’s a genuine rock record, leaning into the dynamics of open-armed arrangements, inviting huge chords, harmonicas, horns, keys and pedal steel to morph and blend into a cathartic swirl. Ross looked back to the grunge bands he was obsessed with as a teen, and found that it sparked a deeper presence with his own voice, both in lyrics and performance. He endeavoured to create an album that is as fun to play live as it is for the audience to witness, harkening back to the enthusiasm and motivation he felt growing up. “Strangely, I feel like I've found my voice on this record,” he says.
+Still Coming Down was recorded in one week in Asheville, NC at the renowned Drop of Sun studios with producer and engineer Alex Farrar (Bnny, Wednesday, Samia). Vocal takes were done in two to three bursts, marking a less laborious process than previous records. “There was not a ton of overthinking,” Ross says. He invited friends to collaborate throughout, mimicking the carousel of characters that comes with living a life on the road. Longtime Wild Pink member Dan Keegan lends his percussive talents, with Meg Duffy (Hand Habits), MJ Lenderman and Lenderman’s The Wind bandmates Landon George and Xandy Chelmis adding a raucous vigor to the arrangements.
+***
+Shortly after forming, the members of the New York-via-North Carolina indie rock band Hiding Places noticed a secret power. During their live sets, no matter the loudness, scuzziness, or mayhem of the venues they played, their tender, atmospheric sound became the focus of the room, quieting their surroundings as audiences became hypnotized by their steady, rhythmic interplay and bittersweet vocal melodies. From these experiences, the band developed a credo of close listening. If one member plays too fast, they won’t try to nudge down the tempo; if someone’s volume rises above the rest, they adapt their levels accordingly. The goal, always, is togetherness—to maintain a unified whole, always in sync. This philosophy is part of what makes the quartet’s cozily intricate and hard-hitting Keeled Scales debut, The Secret to Good Living, feel like a bold introduction as much as a well-worn mixtape, passed down from a trusted friend.
+It makes sense that the band formed while three of its members were DJs at their college radio station at the University of North Carolina at Chapel Hill. They embrace music as a means of communication, identity-forming, and deeper understanding of human nature. Songwriters/guitarists Audrey Keelin and Nicholas Byrne alternate between fronting the band, sharing lead vocals and lending the 10-song record the tone of an intimate conversation with room for silence and deeper concentration. Rounded out by a rhythm section of drummer Henry Cutting and bassist/producer Michael Matsakis, they’ve developed a forward-thinking sound with a sense of nostalgia built into it: a blend that draws from the collage-like indie rock of Yo La Tengo, the elegant slowcore of The New Year, the riffy story-songs of Drive-By Truckers, and the analog hum of The Microphones.
+"
+  ["post_title"]=>
+  string(9) "WILD PINK"
+  ["post_excerpt"]=>
+  string(0) ""
+  ["post_status"]=>
+  string(7) "publish"
+  ["comment_status"]=>
+  string(6) "closed"
+  ["ping_status"]=>
+  string(6) "closed"
+  ["post_password"]=>
+  string(0) ""
+  ["post_name"]=>
+  string(11) "wild-pink-2"
+  ["to_ping"]=>
+  string(0) ""
+  ["pinged"]=>
+  string(0) ""
+  ["post_modified"]=>
+  string(19) "2026-10-29 01:29:38"
+  ["post_modified_gmt"]=>
+  string(19) "2026-10-29 01:29:38"
+  ["post_content_filtered"]=>
+  string(0) ""
+  ["post_parent"]=>
+  int(0)
+  ["guid"]=>
+  string(59) "https://songbyrddc.com/?post_type=event_listing&p=8564"
+  ["menu_order"]=>
+  int(0)
+  ["post_type"]=>
+  string(13) "event_listing"
+  ["post_mime_type"]=>
+  string(0) ""
+  ["comment_count"]=>
+  string(1) "0"
+  ["filter"]=>
+  string(3) "raw"
+}
+        Ticket: paid        
+						Sold Out					
+Thu
+10
+Dec
+Thu
+10
+Dec
+WILD PINK
+Supporting Acts: 
+Hiding Places
+                                                                07:00 PM                                 
+                                540 Penn Street NE                            
+Door Time: 
+07:00 pm
+Concerts
+Tickets
+Info
+        object(WP_Post)#8771 (24) {
+  ["ID"]=>
+  int(8780)
+  ["post_author"]=>
+  string(1) "4"
+  ["post_date"]=>
+  string(19) "2026-10-12 15:39:42"
+  ["post_date_gmt"]=>
+  string(19) "2026-10-12 15:39:42"
+  ["post_content"]=>
+  string(2332) "**DUE TO UNFORESEEN CIRCUMSTANCES THIS SHOW HAS BEEN CANCELLED**
+Friday December 11th
+SUNSHINE BENZI - Miss Bellum Tour
+***
+SUNSHINE’s future unfolds with the same radiant light that her name inherits. Hailing from a small town in Illinois called Pontiac, the internet’s newly-chosen It-girl is building a career with a gritty, no-nonsense attitude. Anchored by her bubbly personality and a larger-than-life mindset, SUNSHINE always believed she was destined for more, even before she had the platform to prove it.
+Originally starting as a poet, SUNSHINE filled journals with thoughts, dreams, and affirmations, many of which would later evolve into the bold, self-assured lyrics she delivers today. Naturally drawn to hip-hop from a young age, she found inspiration in a range of trailblazing female rappers, including Foxy Brown, as well as icons like Janis Joplin and Lauryn Hill, channeling their fearless energy into a style that’s both playful and commanding. Her music, which she’s been crafting for the past four years, blends sharp lyricism with an unmistakable sense of self.
+Before stepping fully into her artistry, SUNSHINE worked at a local dispensary in her hometown. She first turned heads with “Trump The Bill,” a song she wrote while on the clock at work. The song blew up, and so did SUNSHINE’s realization that music was a real path. The viral track took on a life of its own – leading to an early co-sign from Charli xcx, an explosive remix with fellow riser Trim, and a b
