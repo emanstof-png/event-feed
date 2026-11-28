@@ -38,7 +38,7 @@ for r in targets:
             text, soup = visible_text(resp.text)
             ld = jsonld_events(soup, r["name"])
             ld_lines = "\n".join(f"JSONLD\t{e.get('date','')}\t{e.get('time','')}\t{e.get('title','')}\t{e.get('venue','')}\t{e.get('link','')}" for e in ld)
-            body = (ld_lines + "\n\n" if ld_lines else "") + text[:40000]
+            body = (ld_lines + "\n\n" if ld_lines else "") + text[:150000]   # Nov 27: 40k cut Hill Center at Nov 21
     except Exception as e:
         url = r["feed_url"] if r["method"] == "rss" else r["url"]
         err = f"{type(e).__name__}: {e}"[:200]

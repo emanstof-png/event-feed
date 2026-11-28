@@ -33,5 +33,5 @@ def read(source, window_days=21):
     evs = jsonld_events(soup, source["name"])
     if len([e for e in evs if in_window(e, window_days)]) >= 3:
         return dedupe([e for e in evs if in_window(e, window_days)])
-    evs += extract_events_from_text(text[:40000], source["name"], base_url=source["url"])
+    evs += extract_events_from_text(text[:120000], source["name"], base_url=source["url"])
     return dedupe([e for e in evs if in_window(e, window_days)])
