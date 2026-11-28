@@ -63,6 +63,13 @@ def keep(r):
         return False
     return True
 
+def ampm(t):   # Nov 27: Eric reads 12-hour time ("7:30 PM"); sorting still uses the 24-hour value
+    m = re.match(r"(\d\d):(\d\d)", t or "")
+    if not m:
+        return t or ""
+    h, mi = int(m[1]), m[2]
+    return f"{h % 12 or 12}:{mi} {'AM' if h < 12 else 'PM'}"
+
 def dedupe(rs):   # Nov 27: two orgs' own rows both stay (two Sur La Table stores); an aggregator copy of an org's row goes
     best = {}
     for r in rs:
@@ -88,6 +95,6 @@ for lst, out in (("main", "weekend_feed.csv"), ("elite", "weekend_feed_elite.csv
         w = csv.writer(f)
         w.writerow(["Pick", "Date", "Time", "Title", "Venue", "Source", "Link", "Category", "Description"])
         for r in sel:
-            w.writerow([False, r["Date"], r["Time"], html.unescape(r["Title"]), html.unescape(r["Venue"]), r["Source"],
+            w.writerow([False, r["Date"], ampm(r["Time"]), html.unescape(r["Title"]), html.unescape(r["Venue"]), r["Source"],
                         r["Link"] or meta.get(r["Source"], {}).get("url", ""), meta.get(r["Source"], {}).get("category", ""), blurb(r)])
     print(out, len(sel), "events from", len({r["Source"] for r in sel}), "groups")
