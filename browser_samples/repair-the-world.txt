@@ -1,6 +1,6 @@
 Repair the World
 https://werepair.org/get-involved/volunteer/
-rendered 2026-11-27 23:10Z  status=200 chars=50012 iframes=4 srcdoc=0 next=False error=
+rendered 2026-11-28 00:49Z  status=200 chars=51084 iframes=4 srcdoc=0 next=False error=
 
 
 
@@ -120,7 +120,7 @@ All Communities
 
 More filters
 
-83 Events
+82 Events
 
                         Ongoing Events                    
 
@@ -134,11 +134,11 @@ Keyword
 
 All
 
-Community Building                    
-
 Health Justice                    
 
 Food Justice                    
+
+Community Building                    
 
 Housing Justice                    
 
@@ -146,9 +146,9 @@ Criminal Justice
 
 Economic Justice                    
 
-Gender Justice                    
-
 Immigration Justice                    
+
+Gender Justice                    
 
 Education Justice                    
 
@@ -165,16 +165,6 @@ Teens
 View Events
 
                     Unfortunately, we aren't hosting any one-time events that fit your search. Keep trying—we can't wait to serve alongside you.                
-
-                                Nov 27                            
-
-                                        Ambassador Led: Friendsgiving Card Making                                    
-
-Chicago
-
-Community Building
-
-                            Private Program
 
                                 Nov 29                            
 
@@ -228,6 +218,14 @@ Join Repair the World Detroit for The Breakfast Club on December 1, from 6-8 PM,
 
 Register here
 
+                                        Ambassador Program: Sandwich Making & Dental Drive                                    
+
+Chicago
+
+Food Justice
+
+                            Private Program
+
                                         PORCH Westwood: A Neighborhood Food Collection                                    
 
 Los Angeles
@@ -255,14 +253,6 @@ Los Angeles
 PORCH Westwood, a member of a nationwide PORCH Communities network, is a monthly food collection uniting the Wilshire Corridor community to fight local hunger. Each month, volunteers and neighbors connect over the evolving needs of our nearest food bank, Westside Food Bank in Santa Monica, then collect donated items left on neighborhood porches. Together, we transform individual acts of kindness into coordinated community care because hunger lives close to home, but it doesn't have to. Through community and action, we're building the community our most vulnerable neighbors deserve.
 
 We'll meet promptly at 6:00 PM. Our meeting location will be sent by email. After a community gathering, each volunteer will receive instructions about collecting food donations.
-
-                                        Ambassador Program: Sandwich Making & Dental Drive                                    
-
-Chicago
-
-Food Justice
-
-                            Private Program
 
                                         Yahel Alumni Night: Wine, Community, and What’s Next                                    
 
@@ -352,6 +342,32 @@ Register here
 
                                 Dec 3                            
 
+                                        The Sandwich Society: Making Meals for OC Neighbors in Need                                    
+
+Orange County
+
+Food Justice
+
+The Sandwich Society brings Jewish community together on the first Thursday of every month for a kosher-style dinner, real conversation, and hands-on service. We spend the evening making sandwiches that... 
+[ more info ]
+
+                            Register Here
+
+                                        The Sandwich Society: Making Meals for OC Neighbors in Need                                    
+
+                                Dec 3, 2026                            
+
+Orange County
+
+                                    Food Justice                                
+
+                            Begins: 6:30 PM (PT)                                    
+ Ends: 8:00 PM (PT)                                
+
+The Sandwich Society brings Jewish community together on the first Thursday of every month for a kosher-style dinner, real conversation, and hands-on service. We spend the evening making sandwiches that Sandwiches From the Heart delivers to shelters and food banks across Orange County, and we take a few minutes to learn what Jewish tradition says about feeding the hungry. Come hungry, leave having fed someone else. No experience needed.
+
+Register here
+
                                         UIC: Hannukah Tabling                                    
 
 Chicago
@@ -399,11 +415,11 @@ Keyword
 
 All
 
-Community Building                    
-
 Health Justice                    
 
 Food Justice                    
+
+Community Building                    
 
 Housing Justice                    
 
@@ -411,9 +427,9 @@ Criminal Justice
 
 Economic Justice                    
 
-Gender Justice                    
-
 Immigration Justice                    
+
+Gender Justice                    
 
 Education Justice                    
 

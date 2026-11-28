@@ -1,6 +1,6 @@
 East City Bookshop
 https://www.eastcitybookshop.com/events
-rendered 2026-11-27 23:12Z  status=200 chars=1737 iframes=0 srcdoc=0 next=False error=
+rendered 2026-11-28 00:57Z  status=200 chars=1735 iframes=0 srcdoc=0 next=False error=
 
  Events | 
 
@@ -44,6 +44,12 @@ View our Terms & Conditions
 Prices in USD
  Powered by 
 Bookmanager
+
+✕
+
+								Become a
+
+									member
 
 Browse Books
 Holiday Shopping
@@ -101,10 +107,3 @@ Employment Opportunities
 Bulk Discount
 Consignment Sales
 Contact
-
-✕
-
-								Become a
-
-									member
-

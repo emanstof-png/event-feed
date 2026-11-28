@@ -1,6 +1,6 @@
 Art of Living DC Center (courses)
 https://members.us.artofliving.org/us-en/centers/courses/a054600000C7j5HAAR?timeZone=EST&viewMode=cards&embed=true
-rendered 2026-11-27 23:16Z  status=200 chars=5745 iframes=2 srcdoc=0 next=False error=
+rendered 2026-11-28 01:03Z  status=200 chars=5711 iframes=2 srcdoc=0 next=False error=
 
 Washington DC National - Course Dates and Registration
 All
@@ -27,19 +27,6 @@ Select...
 Filter
 1
 Eastern
-Course
-SKY Breath Meditation
-In-Person
-10701 Buckingham Rd, Fairfax, VA, 22032
-Muktesh Chhabra
-11/27 Friday
-, 6:30 PM - 9:00 PM ET
-11/28 Saturday
-, 10:30 AM - 1:30 PM ET
-11/29 Sunday
-, 10:30 AM - 1:30 PM ET
-Details
-Register
 Course
 SKY Breath Meditation
 In-Person
@@ -344,6 +331,18 @@ Marlene Sandhu, Denise Hambrick
 , 11:00 AM - 2:00 PM ET
 1/28 Thursday
 , 11:00 AM - 2:00 PM ET
+Details
+Register
+Course
+Mantra Meditation
+Online
+Sangeetha Pridhu Dev, Dev Manghat
+1/29 Friday
+, 7:00 AM - 9:00 AM ET
+1/30 Saturday
+, 7:00 AM - 9:00 AM ET
+1/31 Sunday
+, 7:00 AM - 9:00 AM ET
 Details
 Register
 

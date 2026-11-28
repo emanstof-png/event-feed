@@ -1,6 +1,6 @@
 Labyrinth Games & Puzzles
 https://www.labyrinthdc.com/events/calendar/
-rendered 2026-11-27 23:13Z  status=200 chars=14018 iframes=4 srcdoc=0 next=False error=
+rendered 2026-11-28 01:00Z  status=200 chars=13601 iframes=4 srcdoc=0 next=False error=
 
 
 
@@ -715,26 +715,9 @@ calendar by Tockify
 
 ----
 
-Labyrinth Games & Puzzles loyalty
 Customer Rewards Portal
 
-Sign in
-Join Labyrinth Loyalty
-Become a member
-Our members enjoy exclusive access to rewards, offers and more. It’s fast and free to join.
-Join now
-Labyrinth Games & Puzzles benefits
-Earn Victory Points for shopping and completing actions
-Enjoy members-only rewards and gifts
-Get early access to online and in-store sales
-Already have an account?
-Sign in
-We reward with 
-Marsello
-Home
-Earn
-Redeem
-More
+Loading profile...
 
 ----
 
