@@ -1,6 +1,6 @@
 French-American Chamber of Commerce DC
 https://faccwdc.org/civicrm/event/list?reset=1
-rendered 2026-11-27 23:10Z  status=200 chars=816 iframes=0 srcdoc=0 next=False error=
+rendered 2026-11-28 00:49Z  status=200 chars=816 iframes=0 srcdoc=0 next=False error=
 
 
 

@@ -1,6 +1,6 @@
 Embassy of Sweden / House of Sweden
 https://www.swedenabroad.se/en/embassies/usa-washington/
-rendered 2026-11-27 23:12Z  status=200 chars=26577 iframes=0 srcdoc=0 next=False error=
+rendered 2026-11-28 00:50Z  status=200 chars=26585 iframes=2 srcdoc=0 next=False error=
 
 
 
@@ -694,7 +694,7 @@ English
 
 Local time
 
-6:12 PM
+7:50 PM
 
 Embassies
 
@@ -1256,3 +1256,6 @@ Zambia, Lusaka
 
 See a list of all embassies here
 
+----
+
+ns

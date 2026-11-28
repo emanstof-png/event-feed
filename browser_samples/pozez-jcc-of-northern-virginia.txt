@@ -1,6 +1,6 @@
 Pozez JCC of Northern Virginia
 https://www.jccnv.org/
-rendered 2026-11-27 23:13Z  status=522 chars=1001 iframes=0 srcdoc=0 next=False error=
+rendered 2026-11-28 00:51Z  status=522 chars=1001 iframes=0 srcdoc=0 next=False error=
 
 
 
@@ -14,7 +14,7 @@ Error code 522
 cloudflare.com
  for more information.
 
-2026-11-27 23:13:17 UTC
+2026-11-28 00:51:12 UTC
 
 You
 
@@ -22,7 +22,7 @@ You
 
 Working
 
-Ashburn
+Dallas
 
     Cloudflare
 
@@ -51,7 +51,7 @@ Contact your hosting provider letting them know your web server is not completin
 Additional troubleshooting information here.
 
 Cloudflare Ray ID: 
-a614d21d8b23ae0d
+a61561858c86238c
 
 •
 
@@ -59,7 +59,7 @@ a614d21d8b23ae0d
 
 Click to reveal
 
-20.96.174.95
+13.71.231.148
 
 •
 
