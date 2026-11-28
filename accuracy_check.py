@@ -2,6 +2,7 @@
 
 For every source on every list, read the page GitHub saved (raw_samples/ or browser_samples/), and flag:
   BLOCKED    status 4xx/5xx/None or 0 chars
+  STALE      the saved page was fetched/rendered before the run date (a job had not finished; Nov 27 lesson)
   TRUNCATED  saved text hit a length cap (40000 / 60000 / 150000), so later events may be missing
   POSSIBLE MISS  the saved page mentions window dates but the weekend feed has fewer rows for that source
 Structured feeds (ical/api/xhr/recurring) have no saved page; their row count comes from the feed test.
@@ -65,6 +66,9 @@ for lst, f in (("main", "sources_methods.csv"), ("elite", "elite_methods.csv"), 
             hits = sum(1 for d in days for _ in PATS[d].finditer(body))
             if status in ("None", "") or (status.isdigit() and int(status) >= 400) or chars == 0:
                 flags.append("BLOCKED")
+            m3 = re.search(r"(?:fetched|rendered) (\d{4}-\d\d-\d\d)", meta)
+            if m3 and m3[1] < (sys.argv[1] if len(sys.argv) > 1 else m3[1]):
+                flags.append("STALE")
             if chars in CAPS:
                 flags.append("TRUNCATED")
         elif r["method"] in ("html", "jsonld", "rss", "browser", "stealth"):

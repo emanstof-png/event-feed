@@ -10,7 +10,7 @@ main,10,Next Gen (Jewish Federation of Greater Washington),ical,,,,0,4,OK
 main,11,Repair the World,browser,browser_samples/repair-the-world.txt,200,51084,2,0,POSSIBLE MISS
 main,12,Bhakti Yoga DC,recurring,,,,0,0,OK
 main,13,Ecstatic Dance DC,recurring,,,,0,0,OK
-main,14,Eaton Wellness,xhr,browser_samples/eaton-wellness.txt,200,9382,0,1,OK
+main,14,Eaton Wellness,xhr,browser_samples/eaton-wellness.txt,200,9382,0,1,STALE
 main,15,Soul Fire Experiences / Ecstatic Dance Arlington,browser,browser_samples/soul-fire-experiences-ecstatic-dance-arlington.txt,200,119,0,0,OK
 main,16,The Dance with Ann Kite,html,raw_samples/the-dance-with-ann-kite.txt,200,1028,0,0,OK
 main,17,Sun & Moon Yoga Studio,html,raw_samples/sun-moon-yoga-studio.txt,200,4814,4,1,POSSIBLE UNDERCOUNT
@@ -43,7 +43,7 @@ main,44,Goethe-Institut Washington,browser,browser_samples/goethe-institut-washi
 main,45,Alliance Francaise of Washington DC,html,raw_samples/alliance-francaise-of-washington-dc.txt,200,13946,0,0,OK
 main,46,Italian Cultural Institute of Washington,html,raw_samples/italian-cultural-institute-of-washington.txt,200,4983,0,0,OK
 main,47,Austrian Cultural Forum Washington,html,raw_samples/austrian-cultural-forum-washington.txt,200,18368,0,0,OK
-main,48,Mexican Cultural Institute,xhr,browser_samples/mexican-cultural-institute.txt,200,5301,0,0,OK
+main,48,Mexican Cultural Institute,xhr,browser_samples/mexican-cultural-institute.txt,200,5301,0,0,STALE
 main,49,La Maison Francaise (Embassy of France),ical,,,,0,0,OK
 main,50,SPAIN arts & culture (Washington),rss,raw_samples/spain-arts-culture-washington.txt,25,16414,0,0,OK
 main,52,Embassy of the Czech Republic (cultural events),html,raw_samples/embassy-of-the-czech-republic-cultural-events.txt,200,3773,0,0,OK
@@ -75,7 +75,7 @@ main,77,Loyalty Bookstores (book clubs),stealth,browser_samples/loyalty-bookstor
 main,78,Solid State Books: Reading the City,html,raw_samples/solid-state-books-reading-the-city.txt,200,1971,0,0,OK
 main,79,Folger Shakespeare Library,html,raw_samples/folger-shakespeare-library.txt,200,22379,5,5,OK
 main,80,The Writer's Center (Bethesda),html,raw_samples/the-writer-s-center-bethesda.txt,200,15113,1,0,POSSIBLE MISS
-main,81,DC Public Library: DC Reads,xhr,browser_samples/dc-public-library-dc-reads.txt,200,60000,0,5,TRUNCATED
+main,81,DC Public Library: DC Reads,xhr,browser_samples/dc-public-library-dc-reads.txt,200,60000,0,5,STALE TRUNCATED
 main,82,DC Central Kitchen,html,raw_samples/dc-central-kitchen.txt,200,3312,0,0,OK
 main,84,Martha's Table,browser,browser_samples/martha-s-table.txt,200,33663,0,0,OK
 main,85,SOME (So Others Might Eat),browser,browser_samples/some-so-others-might-eat.txt,200,1136,0,0,OK
@@ -84,7 +84,7 @@ main,87,Volunteer Alexandria,html,raw_samples/volunteer-alexandria.txt,200,4108,
 main,88,Rock Creek Conservancy,xhr,browser_samples/rock-creek-conservancy.txt,200,19806,36,5,POSSIBLE UNDERCOUNT
 main,89,Casey Trees,ical,,,,0,0,OK
 main,90,Anacostia Watershed Society,api,,,,0,0,OK
-main,91,Capital Area Food Bank,xhr,browser_samples/capital-area-food-bank.txt,200,11310,0,1,OK
+main,91,Capital Area Food Bank,xhr,browser_samples/capital-area-food-bank.txt,200,11310,0,1,STALE
 main,92,HacDC,ical,,,,0,0,OK
 main,93,Nova Labs,rss,raw_samples/nova-labs.txt,140,69881,8,4,OK
 main,94,Data Science DC,browser,browser_samples/data-science-dc.txt,200,6592,1,0,POSSIBLE MISS
@@ -96,7 +96,7 @@ main,100,Northern Virginia Astronomy Club (NOVAC),stealth,browser_samples/northe
 main,101,Carnegie Science,stealth,browser_samples/carnegie-science.txt,200,17174,0,0,OK
 main,102,Labyrinth Games & Puzzles,browser,browser_samples/labyrinth-games-puzzles.txt,200,13601,0,3,OK
 main,103,Game Kastle (College Park),ical,,,,0,9,OK
-main,104,Victory Comics,ical,browser_samples/victory-comics.txt,200,17396,0,5,OK
+main,104,Victory Comics,ical,browser_samples/victory-comics.txt,200,17396,0,5,STALE
 main,105,Games & Comics Pair O' Dice (Fairfax),ical,,,,0,6,OK
 main,106,Fantom Comics,html,raw_samples/fantom-comics.txt,200,6906,8,2,POSSIBLE UNDERCOUNT
 main,107,Break My Game,recurring,,,,0,0,OK
@@ -104,20 +104,20 @@ main,108,Arlington Chess Club,browser,browser_samples/arlington-chess-club.txt,4
 main,109,Beer & Board Games,ical,,,,0,1,OK
 main,110,The DC Area Board Game Club,browser,browser_samples/the-dc-area-board-game-club.txt,200,5423,0,0,OK
 main,112,DC Rawhides,html,raw_samples/dc-rawhides.txt,200,15443,1,1,OK
-main,113,Hollywood Ballroom,xhr,browser_samples/hollywood-ballroom.txt,200,11352,0,2,OK
+main,113,Hollywood Ballroom,xhr,browser_samples/hollywood-ballroom.txt,200,11352,0,2,STALE
 main,114,Salsa Vida (DMV aggregator),jsonld,raw_samples/salsa-vida-dmv-aggregator.txt,200,14356,19,13,OK
 main,115,Baila DC (socials),recurring,,,,0,0,OK
 main,117,Dance Jam Productions,html,raw_samples/dance-jam-productions.txt,200,1416,0,0,OK
 main,118,Carpe Diem Arts,ical,,,,0,2,OK
 main,119,District Clay Center (One Shot classes),recurring,,,,0,2,OK
-main,120,Merry Pin,browser,browser_samples/merry-pin.txt,200,4600,2,1,OK
+main,120,Merry Pin,browser,browser_samples/merry-pin.txt,200,4600,2,2,OK
 main,121,Art House 7,browser,browser_samples/art-house-7.txt,None,0,0,0,BLOCKED
 main,122,Sur La Table (Pentagon Row),html,raw_samples/sur-la-table-pentagon-row.txt,200,9012,7,8,OK
 main,123,Sur La Table (Alexandria),html,raw_samples/sur-la-table-alexandria.txt,200,8825,6,10,OK
-main,124,WGIT DC,browser,browser_samples/wgit-dc.txt,200,47569,9,1,POSSIBLE UNDERCOUNT
+main,124,WGIT DC,browser,browser_samples/wgit-dc.txt,200,47569,9,0,POSSIBLE MISS
 main,125,DC Social Guide,xhr,,,,0,0,OK
 main,126,Art of Living DC Center (meetups),browser,browser_samples/art-of-living-dc-center-meetups.txt,200,722,1,0,POSSIBLE MISS
-main,127,Art of Living DC Center (courses),browser,browser_samples/art-of-living-dc-center-courses.txt,200,5711,0,15,OK
+main,127,Art of Living DC Center (courses),browser,browser_samples/art-of-living-dc-center-courses.txt,200,5711,0,3,OK
 elite,5,Arts Club of Washington,xhr,,,,0,0,OK
 elite,6,International Student House DC (I-House),browser,browser_samples/international-student-house-dc-i-house.txt,200,4803,0,0,OK
 elite,7,The Phillips Collection,html,raw_samples/the-phillips-collection.txt,200,4602,0,0,OK
@@ -145,7 +145,7 @@ elite,32,Austrian Cultural Forum Washington,html,raw_samples/austrian-cultural-f
 elite,33,Goethe-Institut Washington,browser,browser_samples/goethe-institut-washington.txt,403,61,0,0,BLOCKED
 elite,34,Italian Cultural Institute of Washington,html,raw_samples/italian-cultural-institute-of-washington.txt,200,4983,0,0,OK
 elite,36,SPAIN arts & culture (Washington),rss,raw_samples/spain-arts-culture-washington.txt,25,16414,0,0,OK
-elite,37,Mexican Cultural Institute,xhr,browser_samples/mexican-cultural-institute.txt,200,5301,0,0,OK
+elite,37,Mexican Cultural Institute,xhr,browser_samples/mexican-cultural-institute.txt,200,5301,0,0,STALE
 elite,38,Embassy of Sweden / House of Sweden,browser,browser_samples/embassy-of-sweden-house-of-sweden.txt,200,26585,0,0,OK
 elite,39,Jewish Federation of Greater Washington,ical,,,,0,4,OK
 elite,40,JNF-USA Greater Washington (JNFuture),html,raw_samples/jnf-usa-greater-washington-jnfuture.txt,200,5838,0,0,OK

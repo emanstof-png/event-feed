@@ -208,6 +208,11 @@ The manual run, step by step (first done Oct 18, 2:50am; 673 events with categor
   reported the row count instead of opening rows. Fixes: rule 11, check_feed() in check.py, the
   feed-row proof line above, and the pre-announce check below.
 
+- Extracting from pages saved by an unfinished job (Nov 27): scouts read 27 browser pages while the render was still
+  committing, so some were the Nov 22 version; 12 stale Art of Living sessions reached the Sheet. Wait for every fetch job
+  to finish, pull, then extract; `accuracy_check.py` flags STALE (saved before the run date). Also check the blind re-read
+  (accuracy_compare.py) against the same page version the scouts read, or the test grades two different snapshots.
+
 ## Working rules
 
 - Haiku for scouts, 4 sources per agent, in parallel. 26 agents finished in 2 minutes.
