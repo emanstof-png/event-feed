@@ -57,7 +57,7 @@ def keep(r):
         return False   # the BID calendar is the whole neighborhood; keep the art
     if r["Time"] and not re.match(r"\d\d:\d\d", r["Time"]):
         return False   # scraped junk ("Time unclear", nav text)
-    if re.search(r"\b(no classes|office closed|closed for|break \(|holiday hours)", r["Title"], re.I):
+    if re.search(r"\b(no classes|office closed|closed for|break \(|holiday hours|daily admission)", r["Title"], re.I):
         return False   # closures, not events
     if NOW and r["Time"] and f"{r['Date']} {r['Time']}" < NOW:
         return False
