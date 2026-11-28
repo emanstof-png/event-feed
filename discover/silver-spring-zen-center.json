@@ -1,0 +1,25 @@
+{
+ "row": "145",
+ "name": "Silver Spring Zen Center",
+ "page": "https://silverspringzendo.org/practice-schedule",
+ "discovered": "2026-11-28 01:34Z",
+ "error": "",
+ "candidates": [
+  {
+   "url": "https://silverspringzendo.org/__challenge/challenge.js?v=edc496c64ce2",
+   "method": "GET",
+   "headers": {
+    "accept": "*/*",
+    "referer": "https://silverspringzendo.org/practice-schedule"
+   },
+   "post_data": null,
+   "status": 200,
+   "content_type": "application/javascript",
+   "bytes": 5822,
+   "date_count": 7,
+   "body": "(()=>{const e=2,n=\"undefined\"!=typeof window&&window.HASHCASH_CONFIG||{};let t,o,i,r,l,a,c,s,d=-1,u=\"\",h=\"\",f=null,p={},m=e=>document.getElementById(e);function w(e,n,t){let o=document.createElement(e);if(n)for(let e in n)o[e]=n[e];return t&&P(o,t),o}const g=new Uint32Array([1116352408,1899447441,3049323471,3921009573,961987163,1508970993,2453635748,2870763221,3624381080,310598401,607225278,1426881987,1925078388,2162078206,2614888103,3248222580,3835390401,4022224774,264347078,604807628,770255983,1249150122,1555081692,1996064986,2554220882,2821834349,2952996808,3210313671,3336571891,3584528711,113926993,338241895,666307205,773529912,1294757372,1396182291,1695183700,1986661051,2177026350,2456956037,2730485921,2820302411,3259730800,3345764771,3516065817,3600352804,4094571909,275423344,430227734,506948616,659060556,883997877,958139571,1322822218,1537002063,1747873779,1955562222,2024104815,2227730452,2361852424,2428436474,2756734187,3204031479,3329325298]),y=new Uint32Array(64),b=new Uint32Array(8);function v(e,n){let t=n+9+63>>6,o=t<<6;e[n]=128,e.fill(0,n+1,o);let i=8*n;e[o-4]=i>>>24&255,e[o-3]=i>>>16&255,e[o-2]=i>>>8&255,e[o-1]=255&i,b[0]=1779033703,b[1]=3144134277,b[2]=1013904242,b[3]=2773480762,b[4]=1359893119,b[5]=2600822924,b[6]=528734635,b[7]=1541459225;for(let n=0;n<t;n++){let t=n<<6;for(let n=0;n<16;n++){let o=t+(n<<2);y[n]=e[o]<<24|e[o+1]<<16|e[o+2]<<8|e[o+3]}for(let e=16;e<64;e++){let n=y[e-15],t=y[e-2],o=(n>>>7|n<<25)^(n>>>18|n<<14)^n>>>3,i=(t>>>17|t<<15)^(t>>>19|t<<13)^t>>>10;y[e]=y[e-16]+o+y[e-7]+i|0}let o=b[0],i=b[1],r=b[2],l=b[3],a=b[4],c=b[5],s=b[6],d=b[7];for(let e=0;e<64;e++){let n=d+((a>>>6|a<<26)^(a>>>11|a<<21)^(a>>>25|a<<7))+(a&c^~a&s)+g[e]+y[e]|0,t=o&i^o&r^i&r;d=s,s=c,c=a,a=l+n|0,l=r,r=i,i=o,o=n+(((o>>>2|o<<30)^(o>>>13|o<<19)^(o>>>22|o<<10))+t|0)|0}b[0]=b[0]+o|0,b[1]=b[1]+i|0,b[2]=b[2]+r|0,b[3]=b[3]+l|0,b[4]=b[4]+a|0,b[5]=b[5]+c|0,b[6]=b[6]+s|0,b[7]=b[7]+d|0}}let T;async function k(e){let n=performance.now(),o=await async function(e,n,t,o){let i=(new TextEncoder).encode(e),r=new Uint8Array(64+(i.length+10+9+63>>6<<6));r.set(i);let l=[];for(let e=0;e<n.length;e++)l.push(parseInt(n[e],16));let a=performance.now();for(let n=0;n<t;n++){let t=\"\"+n;for(let e=0;e<t.length;e++)r[i.length+e]=t.charCodeAt(e);v(r,i.length+t.length);let c=!0;for(let e=0;e<l.length;e++)if((b[e>>3]>>>28-((7&e)<<2)&15)!==l[e]){c=!1;break}if(c)return e+t;1023==(1023&n)&&performance.now()-a>=o&&(await new Promise((e=>{if(void 0===T)try{T=new MessageChannel}catch(e){T=null}null!==T?(T.port1.onmessage=e,T.port2.postMessage(0)):setTimeout(e,0)})),a=performance.now())}return null}(t,e,2e8,10);if(d=Math.round(performance.now()-n),null!==o)return a=o,void x();setTimeout((()=>window.location.reload()),5e3)}function x(){l||!a||c||r&&!u||(l=!0,async function(){let e=\"\";if(f){let n=await Promise.race([f,new Promise((e=>setTimeout((()=>e(null)),2e3)))]);try{n&&n.ok?e=\"string\"==typeof n.payload?n.payload:JSON.stringify(n.payload)||\"\":n&&(e=\"error:\"+n.error.code)}catch(n){e=\"\"}}e.length>6e3&&(e=\"error:OVERSIZE\");fetch(\"/__challenge\",{method:\"POST\",headers:{\"X-Hashcash-Solution\":btoa(a),\"X-Hashcash-Solve-Ms\":d,\"X-Interactive\":u,\"X-Hashcash-Host\":window.location.hostname,\"X-Hashcash-Env\":h,\"X-Hashcash-Probes\":e}}).then((e=>{s&&e.ok&&(s.innerText=\"Thanks, human!\",s.prepend(w(\"input\",{type:\"checkbox\",checked:!0}))),window.location.reload()}))}())}function C(e){let n;e=Math.max(e,3);do{for(n=\"\";n.length<e;)n+=Math.random().toString(36).substring(2);n=n.substring(0,e)}while(p[n]);return p[n]=1,n}function A(e){P(e,{display:\"none\"})}function I(e){P(e,{visibility:\"hidden\"})}function S(e){P(e,{opacity:0,\"pointer-events\":\"none\"}),e.querySelectorAll(\"input\").forEach((e=>e.tabIndex=-1))}function E(e,n){return n=n||0,Math.floor(Math.random()*(e-n))+n}function H(e,n){let t=C(8),o=w(\"div\",{className:\"check-wrap\"},{top:E(8,1)+\"ex\"}),i=w(\"input\",{type:\"checkbox\",id:t}),r=w(\"label\",{htmlFor:t,innerText:\"I am human\"});return i.addEventListener(\"change\",(()=>{!function(e,n){s",
+   "replay_status": 200,
+   "replay_ok": true
+  }
+ ]
+}
