@@ -1,6 +1,6 @@
 Baila DC (classes)
 best page: https://bailadc.com/classes (status 200, 0 date strings, 0 JSON-LD events)
-fetched 2026-11-28 01:23Z
+fetched 2026-11-28 01:49Z
 
 Baila DC Salsa Classes Schedule
 Home

@@ -1,0 +1,643 @@
+{
+ "row": "162",
+ "name": "Moishe House Adams Morgan",
+ "seed_url": "https://www.tribester.com/organizer/moishe-house-adams-morgan/",
+ "programs": "",
+ "access": "",
+ "found": "2026-11-28 02:00Z",
+ "search_hits": [],
+ "search_error": "html.duckduckgo.com Timeout; www.bing.com 0 hits (200, 134148b); lite.duckduckgo.com Timeout",
+ "probes": [
+  {
+   "url": "https://www.tribester.com/wp-json/tribe/events/v1/events?per_page=10",
+   "status": 200,
+   "events": 10,
+   "head": "{\"events\":[{\"id\":659340,\"global_id\":\"www.tribester.com?id=659340\",\"global_id_lineage\":[\"www.tribester.com?id=659340\"],\"author\":\"0\",\"status\":\"publish\",\"date\":\"2026-11-13 11:40:45\",\"date_utc\":\"2026-11-13 16:40:45\",\"modified\":\"2026-11-13 16:22:31\",\"modified_utc\":\"2026-11-13 21:22:31\",\"url\":\"https:\\/\\/w"
+  },
+  {
+   "url": "https://www.tribester.com/events/?ical=1",
+   "status": 200,
+   "events": 30,
+   "head": "BEGIN:VCALENDAR\r\nVERSION:2.0\r\nPRODID:-//Tribester Jewish Experiences - ECPv6.18.3//NONSGML v1.0//EN\r\nCALSCALE:GREGORIAN\r\nMETHOD:PUBLISH\r\nX-WR-CALNAME:Tribester Jewish Experiences\r\nX-ORIGINAL-URL:https://www.tribester.com\r\nX-WR-CALDESC:Events for Tribester Jewish Experiences\r\nREFRESH-INTERVAL;VALUE=D"
+  },
+  {
+   "url": "https://www.tribester.com/?ical=1",
+   "status": 200,
+   "events": 30,
+   "head": "BEGIN:VCALENDAR\r\nVERSION:2.0\r\nPRODID:-//Tribester Jewish Experiences - ECPv6.18.3//NONSGML v1.0//EN\r\nCALSCALE:GREGORIAN\r\nMETHOD:PUBLISH\r\nX-WR-CALNAME:Tribester Jewish Experiences\r\nX-ORIGINAL-URL:https://www.tribester.com\r\nX-WR-CALDESC:Events for Tribester Jewish Experiences\r\nREFRESH-INTERVAL;VALUE=D"
+  }
+ ],
+ "pages": [
+  {
+   "url": "https://www.tribester.com/organizer/moishe-house-adams-morgan/",
+   "status": 200,
+   "final_url": "https://www.tribester.com/organizer/moishe-house-adams-morgan/",
+   "title": "Moishe House Adams Morgan | Tribester Jewish Experiences",
+   "dates": 19,
+   "jsonld": 0,
+   "jsonld_samples": [],
+   "hints": [
+    "https://www.tribester.com/feed/",
+    "https://www.tribester.com/jewish-events/?ical=1",
+    "https://www.tribester.com/wp-json/tribe/events/v1/"
+   ],
+   "iframes": [],
+   "event_links": [
+    {
+     "text": "ADD YOUR EVENT",
+     "url": "https://www.tribester.com/add-your-event/"
+    },
+    {
+     "text": "All Events Everywhere",
+     "url": "https://www.tribester.com/jewish-events/"
+    },
+    {
+     "text": "Hanukkah",
+     "url": "https://www.tribester.com/jewish-events/category/holiday/hanukkah/"
+    },
+    {
+     "text": "Shabbat",
+     "url": "https://www.tribester.com/jewish-events/category/social/shabbat/"
+    },
+    {
+     "text": "Parties & Happy Hours",
+     "url": "https://www.tribester.com/jewish-events/category/social/mixer/"
+    },
+    {
+     "text": "Dinners & Brunch",
+     "url": "https://www.tribester.com/jewish-events/category/social/dinner/"
+    },
+    {
+     "text": "Thu September 17",
+     "url": "https://www.tribester.com/event/bring-your-own-book-club/"
+    },
+    {
+     "text": "",
+     "url": "https://www.tribester.com/wp-content/uploads/2026/08/event-image-624707.avif"
+    },
+    {
+     "text": "Wed September 9",
+     "url": "https://www.tribester.com/event/arts-and-crafts-night-3/"
+    },
+    {
+     "text": "",
+     "url": "https://www.tribester.com/wp-content/uploads/2026/07/event-image-599731.avif"
+    },
+    {
+     "text": "Wed July 29",
+     "url": "https://www.tribester.com/event/pizza-and-polling/"
+    },
+    {
+     "text": "Wed July 22",
+     "url": "https://www.tribester.com/event/tisha-bav-pre-fast-meal-and-food-drive/"
+    },
+    {
+     "text": "Thu July 16",
+     "url": "https://www.tribester.com/event/arts-and-crafts-night-2/"
+    },
+    {
+     "text": "Sun July 12",
+     "url": "https://www.tribester.com/event/the-lions-of-al-rassan-sci-fi-fantasy-book-club/"
+    },
+    {
+     "text": "",
+     "url": "https://www.tribester.com/wp-content/uploads/2026/05/event-image-587653.avif"
+    },
+    {
+     "text": "Sun June 21",
+     "url": "https://www.tribester.com/event/admo-moho-board-games/"
+    },
+    {
+     "text": "",
+     "url": "https://www.tribester.com/wp-content/uploads/2026/05/event-image-587649.avif"
+    },
+    {
+     "text": "Wed June 10",
+     "url": "https://www.tribester.com/event/the-princess-bride-movie-night-with-admo-moho/"
+    },
+    {
+     "text": "Sun May 31",
+     "url": "https://www.tribester.com/event/jewish-sff-book-group-the-princess-bride/"
+    },
+    {
+     "text": "",
+     "url": "https://www.tribester.com/wp-content/uploads/2026/04/event-image-579886.avif"
+    },
+    {
+     "text": "Sun May 3",
+     "url": "https://www.tribester.com/event/jewish-sff-book-group-night-owls/"
+    },
+    {
+     "text": "",
+     "url": "https://www.tribester.com/wp-content/uploads/2026/04/event-image-579882.avif"
+    },
+    {
+     "text": "Sat May 2",
+     "url": "https://www.tribester.com/event/adams-morgan-porchfest-with-moho-admo/"
+    },
+    {
+     "text": "",
+     "url": "https://www.tribester.com/wp-content/uploads/2026/04/event-image-572698.avif"
+    },
+    {
+     "text": "Wed April 15",
+     "url": "https://www.tribester.com/event/arts-and-crafts-night/"
+    }
+   ],
+   "platform": "wordpress tribe-events",
+   "error": ""
+  },
+  {
+   "url": "https://www.tribester.com/",
+   "status": 200,
+   "final_url": "https://www.tribester.com/",
+   "title": "Jewish Events, Experiences and Community | Tribester Jewish Experiences",
+   "dates": 33,
+   "jsonld": 0,
+   "jsonld_samples": [],
+   "hints": [
+    "https://www.tribester.com/feed/",
+    "https://www.tribester.com/jewish-events/?ical=1",
+    "https://www.tribester.com/wp-json/tribe/events/v1/"
+   ],
+   "iframes": [],
+   "event_links": [
+    {
+     "text": "ADD YOUR EVENT",
+     "url": "https://www.tribester.com/add-your-event/"
+    },
+    {
+     "text": "All Events Everywhere",
+     "url": "https://www.tribester.com/jewish-events/"
+    },
+    {
+     "text": "Hanukkah",
+     "url": "https://www.tribester.com/jewish-events/category/holiday/hanukkah/"
+    },
+    {
+     "text": "Shabbat",
+     "url": "https://www.tribester.com/jewish-events/category/social/shabbat/"
+    },
+    {
+     "text": "Parties & Happy Hours",
+     "url": "https://www.tribester.com/jewish-events/category/social/mixer/"
+    },
+    {
+     "text": "Dinners & Brunch",
+     "url": "https://www.tribester.com/jewish-events/category/social/dinner/"
+    },
+    {
+     "text": "Sun, Nov 29 Miami AI & Technology Through the Lens of Kabbal",
+     "url": "https://www.tribester.com/event/ai-technology-through-the-lens-of-kabbalah-chassidus/"
+    },
+    {
+     "text": "Mon, Nov 30 Chicago The Jewish Dating Course",
+     "url": "https://www.tribester.com/event/the-jewish-dating-course-2/"
+    },
+    {
+     "text": "Mon, Nov 30 NYC MJE\u2019s Pre-Chanukah Happy Hour | Music, Open ",
+     "url": "https://www.tribester.com/event/mjes-pre-chanukah-happy-hour-music-open-bar-20s-30s/"
+    },
+    {
+     "text": "Mon, Nov 30 LA Mizrahi Heritage Month",
+     "url": "https://www.tribester.com/event/mizrahi-heritage-month/"
+    },
+    {
+     "text": "Mon, Nov 30 Montreal Chanukraft",
+     "url": "https://www.tribester.com/event/chanukraft/"
+    },
+    {
+     "text": "Mon, Nov 30 Miami Padel Nights for Young Professionals",
+     "url": "https://www.tribester.com/event/padel-nights-for-young-professionals-4/"
+    },
+    {
+     "text": "Mon, Nov 30 DC Monday Game Night",
+     "url": "https://www.tribester.com/event/monday-game-night/"
+    },
+    {
+     "text": "Mon, Nov 30 DC Small Groups, Big Questions",
+     "url": "https://www.tribester.com/event/small-groups-big-questions-2/"
+    },
+    {
+     "text": "Mon, Nov 30 Phoenix Oy to the World: A Hanukkah Musical Revu",
+     "url": "https://www.tribester.com/event/oy-to-the-world-a-hanukkah-musical-revue/"
+    },
+    {
+     "text": "Mon, Nov 30 NYC Lox Club at 92NY: Live Dating Show",
+     "url": "https://www.tribester.com/event/lox-club-at-92ny-live-dating-show/"
+    },
+    {
+     "text": "Mon, Nov 30 Boston Riverway Bar Trivia (20s & 30s)",
+     "url": "https://www.tribester.com/event/riverway-bar-trivia-20s-30s-3/"
+    },
+    {
+     "text": "Tue, Dec 1 Las Vegas December Chai Cycle Reno Ride",
+     "url": "https://www.tribester.com/event/december-chai-cycle-reno-ride/"
+    },
+    {
+     "text": "Program & Project Management",
+     "url": "https://www.tribester.com/job-category/program-project-management/"
+    }
+   ],
+   "platform": "wordpress tribe-events",
+   "error": ""
+  },
+  {
+   "url": "https://www.tribester.com/add-your-event/",
+   "status": 200,
+   "final_url": "https://www.tribester.com/add-your-event/",
+   "title": "Add Your Event | Tribester Jewish Experiences",
+   "dates": 1,
+   "jsonld": 0,
+   "jsonld_samples": [],
+   "hints": [
+    "https://www.tribester.com/feed/",
+    "https://www.tribester.com/jewish-events/?ical=1",
+    "https://www.tribester.com/wp-json/tribe/events/v1/"
+   ],
+   "iframes": [],
+   "event_links": [
+    {
+     "text": "All Events Everywhere",
+     "url": "https://www.tribester.com/jewish-events/"
+    },
+    {
+     "text": "Hanukkah",
+     "url": "https://www.tribester.com/jewish-events/category/holiday/hanukkah/"
+    },
+    {
+     "text": "Shabbat",
+     "url": "https://www.tribester.com/jewish-events/category/social/shabbat/"
+    },
+    {
+     "text": "Parties & Happy Hours",
+     "url": "https://www.tribester.com/jewish-events/category/social/mixer/"
+    },
+    {
+     "text": "Dinners & Brunch",
+     "url": "https://www.tribester.com/jewish-events/category/social/dinner/"
+    }
+   ],
+   "platform": "wordpress tribe-events eventbrite",
+   "error": ""
+  },
+  {
+   "url": "https://www.tribester.com/jewish-events/",
+   "status": 200,
+   "final_url": "https://www.tribester.com/jewish-events/",
+   "title": "All Jewish Events \u2013 Tribester Jewish Experiences",
+   "dates": 43,
+   "jsonld": 0,
+   "jsonld_samples": [],
+   "hints": [
+    "https://www.tribester.com/feed/",
+    "https://www.tribester.com/jewish-events/?ical=1",
+    "https://www.tribester.com/wp-json/tribe/events/v1/"
+   ],
+   "iframes": [],
+   "event_links": [
+    {
+     "text": "ADD YOUR EVENT",
+     "url": "https://www.tribester.com/add-your-event/"
+    },
+    {
+     "text": "Hanukkah",
+     "url": "https://www.tribester.com/jewish-events/category/holiday/hanukkah/"
+    },
+    {
+     "text": "Shabbat",
+     "url": "https://www.tribester.com/jewish-events/category/social/shabbat/"
+    },
+    {
+     "text": "Parties & Happy Hours",
+     "url": "https://www.tribester.com/jewish-events/category/social/mixer/"
+    },
+    {
+     "text": "Dinners & Brunch",
+     "url": "https://www.tribester.com/jewish-events/category/social/dinner/"
+    },
+    {
+     "text": "New York City",
+     "url": "https://www.tribester.com/jewish-events/?tag=nyc"
+    },
+    {
+     "text": "Los Angeles",
+     "url": "https://www.tribester.com/jewish-events/?tag=la"
+    },
+    {
+     "text": "Miami",
+     "url": "https://www.tribester.com/jewish-events/?tag=miami"
+    },
+    {
+     "text": "Washington DC",
+     "url": "https://www.tribester.com/jewish-events/?tag=dc"
+    },
+    {
+     "text": "Chicago",
+     "url": "https://www.tribester.com/jewish-events/?tag=chicago"
+    },
+    {
+     "text": "Boston",
+     "url": "https://www.tribester.com/jewish-events/?tag=boston"
+    },
+    {
+     "text": "Philadelphia",
+     "url": "https://www.tribester.com/jewish-events/?tag=philadelphia"
+    },
+    {
+     "text": "San Francisco",
+     "url": "https://www.tribester.com/jewish-events/?tag=san-francisco"
+    },
+    {
+     "text": "Atlanta",
+     "url": "https://www.tribester.com/jewish-events/?tag=atlanta"
+    },
+    {
+     "text": "Cleveland",
+     "url": "https://www.tribester.com/jewish-events/?tag=cleveland"
+    },
+    {
+     "text": "Dallas",
+     "url": "https://www.tribester.com/jewish-events/?tag=dallas"
+    },
+    {
+     "text": "Denver",
+     "url": "https://www.tribester.com/jewish-events/?tag=denver"
+    },
+    {
+     "text": "Detroit",
+     "url": "https://www.tribester.com/jewish-events/?tag=detroit"
+    },
+    {
+     "text": "Houston",
+     "url": "https://www.tribester.com/jewish-events/?tag=houston"
+    },
+    {
+     "text": "Las Vegas",
+     "url": "https://www.tribester.com/jewish-events/?tag=las-vegas"
+    },
+    {
+     "text": "London",
+     "url": "https://www.tribester.com/jewish-events/?tag=london"
+    },
+    {
+     "text": "Montreal",
+     "url": "https://www.tribester.com/jewish-events/?tag=montreal"
+    },
+    {
+     "text": "New Jersey",
+     "url": "https://www.tribester.com/jewish-events/?tag=new-jersey"
+    },
+    {
+     "text": "Phoenix",
+     "url": "https://www.tribester.com/jewish-events/?tag=phoenix"
+    },
+    {
+     "text": "San Diego",
+     "url": "https://www.tribester.com/jewish-events/?tag=san-diego"
+    }
+   ],
+   "platform": "wordpress tribe-events",
+   "error": ""
+  },
+  {
+   "url": "https://www.tribester.com/jewish-events/category/holiday/hanukkah/",
+   "status": 200,
+   "final_url": "https://www.tribester.com/jewish-events/category/holiday/hanukkah/",
+   "title": "Hanukkah Events \u2013 Tribester Jewish Experiences",
+   "dates": 44,
+   "jsonld": 0,
+   "jsonld_samples": [],
+   "hints": [
+    "https://www.tribester.com/feed/",
+    "https://www.tribester.com/jewish-events/?ical=1",
+    "https://www.tribester.com/wp-json/tribe/events/v1/events/?categories=hanukkah"
+   ],
+   "iframes": [],
+   "event_links": [
+    {
+     "text": "ADD YOUR EVENT",
+     "url": "https://www.tribester.com/add-your-event/"
+    },
+    {
+     "text": "All Events Everywhere",
+     "url": "https://www.tribester.com/jewish-events/"
+    },
+    {
+     "text": "Shabbat",
+     "url": "https://www.tribester.com/jewish-events/category/social/shabbat/"
+    },
+    {
+     "text": "Parties & Happy Hours",
+     "url": "https://www.tribester.com/jewish-events/category/social/mixer/"
+    },
+    {
+     "text": "Dinners & Brunch",
+     "url": "https://www.tribester.com/jewish-events/category/social/dinner/"
+    },
+    {
+     "text": "Holiday",
+     "url": "https://www.tribester.com/jewish-events/category/holiday/"
+    },
+    {
+     "text": "New York City",
+     "url": "https://www.tribester.com/jewish-events/category/holiday/hanukkah/?tag=nyc"
+    },
+    {
+     "text": "Los Angeles",
+     "url": "https://www.tribester.com/jewish-events/category/holiday/hanukkah/?tag=la"
+    },
+    {
+     "text": "Miami",
+     "url": "https://www.tribester.com/jewish-events/category/holiday/hanukkah/?tag=miami"
+    },
+    {
+     "text": "Washington DC",
+     "url": "https://www.tribester.com/jewish-events/category/holiday/hanukkah/?tag=dc"
+    },
+    {
+     "text": "Chicago",
+     "url": "https://www.tribester.com/jewish-events/category/holiday/hanukkah/?tag=chicago"
+    },
+    {
+     "text": "Boston",
+     "url": "https://www.tribester.com/jewish-events/category/holiday/hanukkah/?tag=boston"
+    },
+    {
+     "text": "Philadelphia",
+     "url": "https://www.tribester.com/jewish-events/category/holiday/hanukkah/?tag=philadelphia"
+    },
+    {
+     "text": "San Francisco",
+     "url": "https://www.tribester.com/jewish-events/category/holiday/hanukkah/?tag=san-francisco"
+    },
+    {
+     "text": "Atlanta",
+     "url": "https://www.tribester.com/jewish-events/category/holiday/hanukkah/?tag=atlanta"
+    },
+    {
+     "text": "Cleveland",
+     "url": "https://www.tribester.com/jewish-events/category/holiday/hanukkah/?tag=cleveland"
+    },
+    {
+     "text": "Dallas",
+     "url": "https://www.tribester.com/jewish-events/category/holiday/hanukkah/?tag=dallas"
+    },
+    {
+     "text": "Denver",
+     "url": "https://www.tribester.com/jewish-events/category/holiday/hanukkah/?tag=denver"
+    },
+    {
+     "text": "Detroit",
+     "url": "https://www.tribester.com/jewish-events/category/holiday/hanukkah/?tag=detroit"
+    },
+    {
+     "text": "Houston",
+     "url": "https://www.tribester.com/jewish-events/category/holiday/hanukkah/?tag=houston"
+    },
+    {
+     "text": "Las Vegas",
+     "url": "https://www.tribester.com/jewish-events/category/holiday/hanukkah/?tag=las-vegas"
+    },
+    {
+     "text": "Montreal",
+     "url": "https://www.tribester.com/jewish-events/category/holiday/hanukkah/?tag=montreal"
+    },
+    {
+     "text": "New Jersey",
+     "url": "https://www.tribester.com/jewish-events/category/holiday/hanukkah/?tag=new-jersey"
+    },
+    {
+     "text": "San Diego",
+     "url": "https://www.tribester.com/jewish-events/category/holiday/hanukkah/?tag=san-diego"
+    },
+    {
+     "text": "St. Louis",
+     "url": "https://www.tribester.com/jewish-events/category/holiday/hanukkah/?tag=st-louis"
+    }
+   ],
+   "platform": "wordpress tribe-events",
+   "error": ""
+  },
+  {
+   "url": "https://www.tribester.com/jewish-events/category/social/shabbat/",
+   "status": 200,
+   "final_url": "https://www.tribester.com/jewish-events/category/social/shabbat/",
+   "title": "Shabbat Dinners & Events \u2013 Tribester Jewish Experiences",
+   "dates": 43,
+   "jsonld": 0,
+   "jsonld_samples": [],
+   "hints": [
+    "https://www.tribester.com/feed/",
+    "https://www.tribester.com/jewish-events/?ical=1",
+    "https://www.tribester.com/wp-json/tribe/events/v1/events/?categories=shabbat"
+   ],
+   "iframes": [],
+   "event_links": [
+    {
+     "text": "ADD YOUR EVENT",
+     "url": "https://www.tribester.com/add-your-event/"
+    },
+    {
+     "text": "All Events Everywhere",
+     "url": "https://www.tribester.com/jewish-events/"
+    },
+    {
+     "text": "Hanukkah",
+     "url": "https://www.tribester.com/jewish-events/category/holiday/hanukkah/"
+    },
+    {
+     "text": "Parties & Happy Hours",
+     "url": "https://www.tribester.com/jewish-events/category/social/mixer/"
+    },
+    {
+     "text": "Dinners & Brunch",
+     "url": "https://www.tribester.com/jewish-events/category/social/dinner/"
+    },
+    {
+     "text": "Social",
+     "url": "https://www.tribester.com/jewish-events/category/social/"
+    },
+    {
+     "text": "New York City",
+     "url": "https://www.tribester.com/jewish-events/category/social/shabbat/?tag=nyc"
+    },
+    {
+     "text": "Los Angeles",
+     "url": "https://www.tribester.com/jewish-events/category/social/shabbat/?tag=la"
+    },
+    {
+     "text": "Miami",
+     "url": "https://www.tribester.com/jewish-events/category/social/shabbat/?tag=miami"
+    },
+    {
+     "text": "Washington DC",
+     "url": "https://www.tribester.com/jewish-events/category/social/shabbat/?tag=dc"
+    },
+    {
+     "text": "Chicago",
+     "url": "https://www.tribester.com/jewish-events/category/social/shabbat/?tag=chicago"
+    },
+    {
+     "text": "Boston",
+     "url": "https://www.tribester.com/jewish-events/category/social/shabbat/?tag=boston"
+    },
+    {
+     "text": "Philadelphia",
+     "url": "https://www.tribester.com/jewish-events/category/social/shabbat/?tag=philadelphia"
+    },
+    {
+     "text": "San Francisco",
+     "url": "https://www.tribester.com/jewish-events/category/social/shabbat/?tag=san-francisco"
+    },
+    {
+     "text": "Atlanta",
+     "url": "https://www.tribester.com/jewish-events/category/social/shabbat/?tag=atlanta"
+    },
+    {
+     "text": "Cleveland",
+     "url": "https://www.tribester.com/jewish-events/category/social/shabbat/?tag=cleveland"
+    },
+    {
+     "text": "Dallas",
+     "url": "https://www.tribester.com/jewish-events/category/social/shabbat/?tag=dallas"
+    },
+    {
+     "text": "Denver",
+     "url": "https://www.tribester.com/jewish-events/category/social/shabbat/?tag=denver"
+    },
+    {
+     "text": "London",
+     "url": "https://www.tribester.com/jewish-events/category/social/shabbat/?tag=london"
+    },
+    {
+     "text": "Montreal",
+     "url": "https://www.tribester.com/jewish-events/category/social/shabbat/?tag=montreal"
+    },
+    {
+     "text": "Tampa",
+     "url": "https://www.tribester.com/jewish-events/category/social/shabbat/?tag=tampa"
+    },
+    {
+     "text": "Toronto",
+     "url": "https://www.tribester.com/jewish-events/category/social/shabbat/?tag=toronto"
+    },
+    {
+     "text": "Ages 20s",
+     "url": "https://www.tribester.com/jewish-events/category/social/shabbat/?age=20s"
+    },
+    {
+     "text": "Ages 30s",
+     "url": "https://www.tribester.com/jewish-events/category/social/shabbat/?age=30s"
+    },
+    {
+     "text": "Ages 40s",
+     "url": "https://www.tribester.com/jewish-events/category/social/shabbat/?age=40s"
+    }
+   ],
+   "platform": "wordpress tribe-events",
+   "error": ""
+  }
+ ],
+ "best_page": "https://www.tribester.com/jewish-events/category/holiday/hanukkah/"
+}

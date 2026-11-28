@@ -4,9 +4,9 @@
  "seed_url": "https://alumni.umich.edu/communities-clubs/washington-dc/events",
  "programs": "",
  "access": "",
- "found": "2026-11-28 01:26Z",
+ "found": "2026-11-28 01:52Z",
  "search_hits": [],
- "search_error": "html.duckduckgo.com 0 hits (202, 15172b); www.bing.com 0 hits (200, 112831b); lite.duckduckgo.com 0 hits (202, 15184b)",
+ "search_error": "html.duckduckgo.com 0 hits (202, 15172b); www.bing.com 0 hits (200, 144506b); lite.duckduckgo.com 0 hits (202, 15172b)",
  "probes": [
   {
    "url": "https://alumni.umich.edu/wp-json/tribe/events/v1/events?per_page=10",
@@ -21,40 +21,350 @@
   },
   {
    "url": "https://alumni.umich.edu/?ical=1",
-   "status": 200,
-   "events": 0,
-   "head": "<!DOCTYPE html>\n<!-- tempdir = --><html lang=\"en-US\">\n<head>\n\t<script type='text/javascript' src='//static.queue-it.net/script/queueclient.min.js'></script>\n\t<script\n\tdata-queueit-c='umich'\n\ttype='text/javascript'\n\tsrc='//static.queue-it.net/script/queueconfigloader.min.js'>\n\t</script>\n\t<!-- Google "
+   "status": "HTTPError",
+   "events": 0
   }
  ],
  "pages": [
   {
    "url": "https://alumni.umich.edu/communities-clubs/washington-dc/events",
-   "status": null,
-   "final_url": "",
-   "title": "",
-   "dates": 0,
+   "status": 200,
+   "final_url": "https://alumni.umich.edu/communities-clubs/washington-dc/upcoming-events/",
+   "title": "U-M Club of Washington, D.C.: Upcoming Events - Alumni Association of the University of Michigan",
+   "dates": 13,
    "jsonld": 0,
    "jsonld_samples": [],
-   "hints": [],
+   "hints": [
+    "https://alumni.umich.edu/feed/",
+    "https://alumni.umich.edu/comments/feed/",
+    "https://alumni.umich.edu/communities-clubs/washington-dc/upcoming-events/feed/",
+    "https://alumni.umich.edu/wp-json/oembed/1.0/embed?url=https%3A%2F%2Falumni.umich.edu%2Fcommunities-clubs%2Fwashington-dc%2Fupcoming-events%2F",
+    "https://alumni.umich.edu/wp-json/oembed/1.0/embed?url=https%3A%2F%2Falumni.umich.edu%2Fcommunities-clubs%2Fwashington-dc%2Fupcoming-events%2F&format=xml",
+    "https://alumni.umich.edu/wp-json/wp/v2/secondary-club-pages/74667"
+   ],
    "iframes": [],
-   "event_links": [],
-   "platform": "",
-   "error": "HTTPError: HTTP Error 403: "
+   "event_links": [
+    {
+     "text": "Future Alumni of Michigan Scholars Program",
+     "url": "https://alumni.umich.edu/give/future-alumni-of-michigan-scholars-program/"
+    },
+    {
+     "text": "Future Alumni of Michigan Scholars Program",
+     "url": "https://alumni.umich.edu/scholarships/future-alumni-of-michigan-scholars-program/"
+    },
+    {
+     "text": "LEAD Scholars Program",
+     "url": "https://alumni.umich.edu/scholarships/lead-scholars-program/"
+    },
+    {
+     "text": "Events",
+     "url": "https://alumni.umich.edu/events/"
+    },
+    {
+     "text": "Student Programs",
+     "url": "https://alumni.umich.edu/students/"
+    },
+    {
+     "text": "Our Programs",
+     "url": "https://alumni.umich.edu/about/our-programs/"
+    },
+    {
+     "text": "\"We Give Blood\" - Big Ten Blood Drive - Washington DC Club",
+     "url": "https://umalumni.my.site.com/s/lt-event?id=a1QUS00000DNjEf2AL"
+    },
+    {
+     "text": "2026 Game Watch Parties - Solace Brewing",
+     "url": "https://umalumni.my.site.com/s/lt-event?id=a1QUS00000CoWXF2A3"
+    },
+    {
+     "text": "2026 Game Watch Parties - The Midlands Beer Garden",
+     "url": "https://umalumni.my.site.com/s/lt-event?id=a1QUS00000CoWU12AN"
+    },
+    {
+     "text": "2026 Game Watch Parties - Ivy & Coney",
+     "url": "https://umalumni.my.site.com/s/lt-event?id=a1QUS00000CoWPB2A3"
+    },
+    {
+     "text": "2026 Game Watch Parties - Buddy's",
+     "url": "https://umalumni.my.site.com/s/lt-event?id=a1QUS00000CoTuM2AV"
+    },
+    {
+     "text": "Holiday Fun with UMDC at ZooLights",
+     "url": "https://umalumni.my.site.com/s/lt-event?id=a1QUS00000EGFmE2AX"
+    },
+    {
+     "text": "Michigan Women\u2019s Basketball at Maryland",
+     "url": "https://umalumni.my.site.com/s/lt-event?id=a1QUS00000EA4lS2AT"
+    },
+    {
+     "text": "A Holiday Classic: \"Charles Dickens' A Christmas Carol\" at F",
+     "url": "https://umalumni.my.site.com/s/lt-event?id=a1QUS00000BfZLF2A3"
+    },
+    {
+     "text": "A Special Book Club: \"Fear and Fury\" by U-M's Heather Ann Th",
+     "url": "https://umalumni.my.site.com/s/lt-event?id=a1QUS00000DMTWv2AP"
+    },
+    {
+     "text": "The Great Musical \"Hamilton\" Returns to DC",
+     "url": "https://umalumni.my.site.com/s/lt-event?id=a1QUS00000Be2ZR2AZ"
+    },
+    {
+     "text": "U-M's Heather Ann Thompson discusses \"Fear and Fury\" - her n",
+     "url": "https://umalumni.my.site.com/s/lt-event?id=a1QUS00000CThST2A1"
+    },
+    {
+     "text": "Red Wings at Caps during Ovechkin's Final Season",
+     "url": "https://umalumni.my.site.com/s/lt-event?id=a1QUS00000E9S1p2AF"
+    },
+    {
+     "text": "Join us to see \"Operation Mincemeat\" at the National Theatre",
+     "url": "https://umalumni.my.site.com/s/lt-event?id=a1QUS00000BfTPV2A3"
+    }
+   ],
+   "platform": "wordpress [WordPress 7.1.5]",
+   "error": ""
   },
   {
    "url": "https://alumni.umich.edu/",
-   "status": null,
-   "final_url": "",
-   "title": "",
+   "status": 200,
+   "final_url": "https://alumni.umich.edu/",
+   "title": "Home - Alumni Association of the University of Michigan",
    "dates": 0,
    "jsonld": 0,
    "jsonld_samples": [],
-   "hints": [],
+   "hints": [
+    "https://alumni.umich.edu/feed/",
+    "https://alumni.umich.edu/comments/feed/",
+    "https://alumni.umich.edu/wp-json/oembed/1.0/embed?url=https%3A%2F%2Falumni.umich.edu%2F",
+    "https://alumni.umich.edu/wp-json/oembed/1.0/embed?url=https%3A%2F%2Falumni.umich.edu%2F&format=xml",
+    "https://alumni.umich.edu/wp-json/wp/v2/pages/181"
+   ],
    "iframes": [],
-   "event_links": [],
-   "platform": "",
-   "error": "HTTPError: HTTP Error 403: "
+   "event_links": [
+    {
+     "text": "Future Alumni of Michigan Scholars Program",
+     "url": "https://alumni.umich.edu/give/future-alumni-of-michigan-scholars-program/"
+    },
+    {
+     "text": "Future Alumni of Michigan Scholars Program",
+     "url": "https://alumni.umich.edu/scholarships/future-alumni-of-michigan-scholars-program/"
+    },
+    {
+     "text": "LEAD Scholars Program",
+     "url": "https://alumni.umich.edu/scholarships/lead-scholars-program/"
+    },
+    {
+     "text": "Events",
+     "url": "https://alumni.umich.edu/events/"
+    },
+    {
+     "text": "Student Programs",
+     "url": "https://alumni.umich.edu/students/"
+    },
+    {
+     "text": "Our Programs",
+     "url": "https://alumni.umich.edu/about/our-programs/"
+    },
+    {
+     "text": "Alumni Perspectives on the Future of Work: Workforce Trends ",
+     "url": "https://umalumni.my.site.com/s/lt-event?id=a1QUS00000E98nt2AB"
+    },
+    {
+     "text": "Alumni Perspectives on the Future of Work in Education",
+     "url": "https://umalumni.my.site.com/s/lt-event?id=a1QUS00000E98pV2AR"
+    },
+    {
+     "text": "Alumni Perspectives on the Future of Work in Healthcare",
+     "url": "https://umalumni.my.site.com/s/lt-event?id=a1QUS00000E98uL2AR"
+    },
+    {
+     "text": "View More Events",
+     "url": "https://alumni.umich.edu/events"
+    }
+   ],
+   "platform": "wordpress [WordPress 7.1.5]",
+   "error": ""
+  },
+  {
+   "url": "https://alumni.umich.edu/give/future-alumni-of-michigan-scholars-program/",
+   "status": 200,
+   "final_url": "https://alumni.umich.edu/give/future-alumni-of-michigan-scholars-program/",
+   "title": "Give to Future Alumni of Michigan Scholars Program - Alumni Association of the University of Michigan",
+   "dates": 0,
+   "jsonld": 0,
+   "jsonld_samples": [],
+   "hints": [
+    "https://alumni.umich.edu/feed/",
+    "https://alumni.umich.edu/comments/feed/",
+    "https://alumni.umich.edu/wp-json/oembed/1.0/embed?url=https%3A%2F%2Falumni.umich.edu%2Fgive%2Ffuture-alumni-of-michigan-scholars-program%2F",
+    "https://alumni.umich.edu/wp-json/oembed/1.0/embed?url=https%3A%2F%2Falumni.umich.edu%2Fgive%2Ffuture-alumni-of-michigan-scholars-program%2F&format=xml",
+    "https://alumni.umich.edu/wp-json/wp/v2/pages/182508"
+   ],
+   "iframes": [],
+   "event_links": [
+    {
+     "text": "Future Alumni of Michigan Scholars Program",
+     "url": "https://alumni.umich.edu/scholarships/future-alumni-of-michigan-scholars-program/"
+    },
+    {
+     "text": "LEAD Scholars Program",
+     "url": "https://alumni.umich.edu/scholarships/lead-scholars-program/"
+    },
+    {
+     "text": "Events",
+     "url": "https://alumni.umich.edu/events/"
+    },
+    {
+     "text": "Student Programs",
+     "url": "https://alumni.umich.edu/students/"
+    },
+    {
+     "text": "Our Programs",
+     "url": "https://alumni.umich.edu/about/our-programs/"
+    }
+   ],
+   "platform": "wordpress [WordPress 7.1.5]",
+   "error": ""
+  },
+  {
+   "url": "https://alumni.umich.edu/scholarships/future-alumni-of-michigan-scholars-program/",
+   "status": 200,
+   "final_url": "https://alumni.umich.edu/scholarships/future-alumni-of-michigan-scholars-program/",
+   "title": "Future Alumni of Michigan Scholars Program - Alumni Association of the University of Michigan",
+   "dates": 0,
+   "jsonld": 0,
+   "jsonld_samples": [],
+   "hints": [
+    "https://alumni.umich.edu/feed/",
+    "https://alumni.umich.edu/comments/feed/",
+    "https://alumni.umich.edu/wp-json/oembed/1.0/embed?url=https%3A%2F%2Falumni.umich.edu%2Fscholarships%2Ffuture-alumni-of-michigan-scholars-program%2F",
+    "https://alumni.umich.edu/wp-json/oembed/1.0/embed?url=https%3A%2F%2Falumni.umich.edu%2Fscholarships%2Ffuture-alumni-of-michigan-scholars-program%2F&format=xml",
+    "https://alumni.umich.edu/wp-json/wp/v2/pages/182522"
+   ],
+   "iframes": [],
+   "event_links": [
+    {
+     "text": "Future Alumni of Michigan Scholars Program",
+     "url": "https://alumni.umich.edu/give/future-alumni-of-michigan-scholars-program/"
+    },
+    {
+     "text": "LEAD Scholars Program",
+     "url": "https://alumni.umich.edu/scholarships/lead-scholars-program/"
+    },
+    {
+     "text": "Events",
+     "url": "https://alumni.umich.edu/events/"
+    },
+    {
+     "text": "Student Programs",
+     "url": "https://alumni.umich.edu/students/"
+    },
+    {
+     "text": "Our Programs",
+     "url": "https://alumni.umich.edu/about/our-programs/"
+    }
+   ],
+   "platform": "wordpress [WordPress 7.1.5]",
+   "error": ""
+  },
+  {
+   "url": "https://alumni.umich.edu/scholarships/lead-scholars-program/",
+   "status": 200,
+   "final_url": "https://alumni.umich.edu/scholarships/lead-scholars-program/",
+   "title": "LEAD Scholars Program - Alumni Association of the University of Michigan",
+   "dates": 0,
+   "jsonld": 0,
+   "jsonld_samples": [],
+   "hints": [
+    "https://alumni.umich.edu/feed/",
+    "https://alumni.umich.edu/comments/feed/",
+    "https://alumni.umich.edu/wp-json/oembed/1.0/embed?url=https%3A%2F%2Falumni.umich.edu%2Fscholarships%2Flead-scholars-program%2F",
+    "https://alumni.umich.edu/wp-json/oembed/1.0/embed?url=https%3A%2F%2Falumni.umich.edu%2Fscholarships%2Flead-scholars-program%2F&format=xml",
+    "https://alumni.umich.edu/wp-json/wp/v2/pages/54067"
+   ],
+   "iframes": [],
+   "event_links": [
+    {
+     "text": "Future Alumni of Michigan Scholars Program",
+     "url": "https://alumni.umich.edu/give/future-alumni-of-michigan-scholars-program/"
+    },
+    {
+     "text": "Future Alumni of Michigan Scholars Program",
+     "url": "https://alumni.umich.edu/scholarships/future-alumni-of-michigan-scholars-program/"
+    },
+    {
+     "text": "Events",
+     "url": "https://alumni.umich.edu/events/"
+    },
+    {
+     "text": "Student Programs",
+     "url": "https://alumni.umich.edu/students/"
+    },
+    {
+     "text": "Our Programs",
+     "url": "https://alumni.umich.edu/about/our-programs/"
+    }
+   ],
+   "platform": "wordpress [WordPress 7.1.5]",
+   "error": ""
+  },
+  {
+   "url": "https://alumni.umich.edu/events/",
+   "status": 200,
+   "final_url": "https://alumni.umich.edu/events/",
+   "title": "Events - Alumni Association of the University of Michigan",
+   "dates": 17,
+   "jsonld": 0,
+   "jsonld_samples": [],
+   "hints": [
+    "https://alumni.umich.edu/feed/",
+    "https://alumni.umich.edu/comments/feed/",
+    "https://alumni.umich.edu/wp-json/oembed/1.0/embed?url=https%3A%2F%2Falumni.umich.edu%2Fevents%2F",
+    "https://alumni.umich.edu/wp-json/oembed/1.0/embed?url=https%3A%2F%2Falumni.umich.edu%2Fevents%2F&format=xml",
+    "https://alumni.umich.edu/wp-json/wp/v2/pages/73319"
+   ],
+   "iframes": [],
+   "event_links": [
+    {
+     "text": "Future Alumni of Michigan Scholars Program",
+     "url": "https://alumni.umich.edu/give/future-alumni-of-michigan-scholars-program/"
+    },
+    {
+     "text": "Future Alumni of Michigan Scholars Program",
+     "url": "https://alumni.umich.edu/scholarships/future-alumni-of-michigan-scholars-program/"
+    },
+    {
+     "text": "LEAD Scholars Program",
+     "url": "https://alumni.umich.edu/scholarships/lead-scholars-program/"
+    },
+    {
+     "text": "Student Programs",
+     "url": "https://alumni.umich.edu/students/"
+    },
+    {
+     "text": "Our Programs",
+     "url": "https://alumni.umich.edu/about/our-programs/"
+    },
+    {
+     "text": "Alumni Perspectives on the Future of Work: Workforce Trends ",
+     "url": "https://umalumni.my.site.com/s/lt-event?id=a1QUS00000E98nt2AB"
+    },
+    {
+     "text": "Alumni Perspectives on the Future of Work in Education",
+     "url": "https://umalumni.my.site.com/s/lt-event?id=a1QUS00000E98pV2AR"
+    },
+    {
+     "text": "Alumni Perspectives on the Future of Work in Healthcare",
+     "url": "https://umalumni.my.site.com/s/lt-event?id=a1QUS00000E98uL2AR"
+    },
+    {
+     "text": "Alumni Perspectives on the Future of Work in Law",
+     "url": "https://umalumni.my.site.com/s/lt-event?id=a1QUS00000E98xZ2AR"
+    }
+   ],
+   "platform": "wordpress [WordPress 7.1.5]",
+   "error": ""
   }
  ],
- "best_page": "https://alumni.umich.edu/communities-clubs/washington-dc/events"
+ "best_page": "https://alumni.umich.edu/events/"
 }

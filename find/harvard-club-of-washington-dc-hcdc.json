@@ -1,68 +1,146 @@
 {
  "row": "138",
  "name": "Harvard Club of Washington DC (hcdc)",
- "seed_url": "https://hcdc.clubs.harvard.edu/article.html?aid=1787",
+ "seed_url": "https://dc.clubs.harvard.edu/events.html",
  "programs": "",
  "access": "",
- "found": "2026-11-28 01:25Z",
+ "found": "2026-11-28 01:51Z",
  "search_hits": [],
- "search_error": "html.duckduckgo.com 0 hits (202, 15188b); www.bing.com 0 hits (200, 113411b); lite.duckduckgo.com 0 hits (202, 15175b)",
+ "search_error": "html.duckduckgo.com 0 hits (202, 15176b); www.bing.com 0 hits (200, 127817b); lite.duckduckgo.com 0 hits (202, 15176b)",
  "probes": [
   {
-   "url": "https://hcdc.clubs.harvard.edu/wp-json/tribe/events/v1/events?per_page=10",
+   "url": "https://dc.clubs.harvard.edu/wp-json/tribe/events/v1/events?per_page=10",
    "status": "HTTPError",
    "events": 0
   },
   {
-   "url": "https://hcdc.clubs.harvard.edu/events/?ical=1",
+   "url": "https://dc.clubs.harvard.edu/events/?ical=1",
    "status": "HTTPError",
    "events": 0
   },
   {
-   "url": "https://hcdc.clubs.harvard.edu/?ical=1",
+   "url": "https://dc.clubs.harvard.edu/?ical=1",
    "status": 200,
    "events": 0,
-   "head": "\t\t<!doctype html>\n<html lang=\"en\">\n<head>\n    <meta charset=\"utf-8\">\n    <title>Harvard Club of Washington, DC</title>\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n    <!-- Bootstrap -->\n    <link href=\"js/_responsive_bts/css/bootstrap.min.css\" rel=\"stylesheet\">\n    <li"
+   "head": "<!doctype html>\n<html lang=\"en\">\n<head>\n    <meta charset=\"utf-8\">\n    <title>Harvard Club of Washington, DC</title>\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n    <!-- Bootstrap -->\n    <link href=\"js/_responsive_bts/css/bootstrap.min.css\" rel=\"stylesheet\">\n    <link"
   }
  ],
  "pages": [
   {
-   "url": "https://hcdc.clubs.harvard.edu/article.html?aid=1787",
+   "url": "https://dc.clubs.harvard.edu/events.html",
    "status": 200,
-   "final_url": "https://hcdc.clubs.harvard.edu/article.html?aid=1787",
+   "final_url": "https://dc.clubs.harvard.edu/events.html",
    "title": "Harvard Club of Washington, DC",
    "dates": 1,
    "jsonld": 0,
    "jsonld_samples": [],
-   "hints": [
-    "https://www.eventbrite.com/e/international-networking-soiree-with-champagne-art-and-live-jazz-at-the-luxurious-embassy-row-hotel-tickets-60616797473"
-   ],
+   "hints": [],
    "iframes": [],
    "event_links": [
     {
-     "text": "https://www.eventbrite.com/e/international-networking-soiree",
-     "url": "https://www.eventbrite.com/e/international-networking-soiree-with-champagne-art-and-live-jazz-at-the-luxurious-embassy-row-hotel-tickets-60616797473"
+     "text": "Upcoming Events",
+     "url": "https://dc.clubs.harvard.edu/events.html"
+    },
+    {
+     "text": "Past Events",
+     "url": "https://dc.clubs.harvard.edu/events_past.html"
     },
     {
      "text": "Apple",
-     "url": "https://hcdc.clubs.harvard.edu//events.html?vcal=1787"
+     "url": "https://dc.clubs.harvard.edu//events.html?vcal=192"
     },
     {
      "text": "Google",
-     "url": "https://calendar.google.com/calendar/r/eventedit?text=International+Networking+Soiree+with+Champagne%2C+Art%2C+and+Live+Jazz&dates=20190516T190000/20190516T210000&ctz=America/New_York&details=International+Networking+Soiree+with+Champagne%2C+Art%2C+and+Live+Jazz&location=Embassy+Row+Hotel%2C+2015+Massachusetts+Avenue+NW%2C+Washington%2C+DC%2C+20036%2C&pli=1&uid=https%3A%2F%2Fhcdc.clubs.harvard.edu%2F%2Farticle.html%3Faid%3D1787&sf=true&output=xml"
+     "url": "https://calendar.google.com/calendar/r/eventedit?text=Supper+Club+Holiday+Celebration+at+Filomena&dates=20261206T130000/20261206T143000&ctz=America/New_York&details=Supper+Club+Holiday+Celebration+at+Filomena&location=Filomena+Ristorante%2C+1063+Wisconsin+Avenue%2C+NW%2C+Washington%2C+DC%2C+DC%2C+20007%2C&pli=1&uid=https%3A%2F%2Fdc.clubs.harvard.edu%2F%2Farticle.html%3Faid%3D192&sf=true&output=xml"
     },
     {
-     "text": "Harvard Program and Events",
-     "url": "http://alumni.harvard.edu/programs-events"
+     "text": "Apple",
+     "url": "https://dc.clubs.harvard.edu//events.html?vcal=201"
+    },
+    {
+     "text": "Google",
+     "url": "https://calendar.google.com/calendar/r/eventedit?text=Practical+Magic+2+with+Bob+Fitzpatrick+%2716%2C+Head+of+Production+and+Development+at+Blossom+Films&dates=20261206T190000/20261206T200000&ctz=America/New_York&details=Practical+Magic+2+with+Bob+Fitzpatrick+%2716%2C+Head+of+Production+and+Development+at+Blossom+Films&location=&pli=1&uid=https%3A%2F%2Fdc.clubs.harvard.edu%2F%2Farticle.html%3Faid%3D201&sf=true&output=xml"
+    },
+    {
+     "text": "Apple",
+     "url": "https://dc.clubs.harvard.edu//events.html?vcal=197"
+    },
+    {
+     "text": "Google",
+     "url": "https://calendar.google.com/calendar/r/eventedit?text=Festive+Happy+Hour+at+the+University+Club&dates=20261210T183012/20261210T203012&ctz=America/New_York&details=Festive+Happy+Hour+at+the+University+Club&location=The+University+Club%2C+1135+16th+St.+%2C+Washington%2C+DC%2C+DC%2C+20036%2C&pli=1&uid=https%3A%2F%2Fdc.clubs.harvard.edu%2F%2Farticle.html%3Faid%3D197&sf=true&output=xml"
+    },
+    {
+     "text": "Apple",
+     "url": "https://dc.clubs.harvard.edu//events.html?vcal=193"
+    },
+    {
+     "text": "Google",
+     "url": "https://calendar.google.com/calendar/r/eventedit?text=La+Table+Fran%C3%A7aise&dates=20261212T103059/20261212T113059&ctz=America/New_York&details=La+Table+Fran%C3%A7aise&location=La+Pain+Quotidien%2C+2000+P+St+NW+%2C+Washington%2C+DC%2C+DC%2C+20036%2C&pli=1&uid=https%3A%2F%2Fdc.clubs.harvard.edu%2F%2Farticle.html%3Faid%3D193&sf=true&output=xml"
+    },
+    {
+     "text": "Apple",
+     "url": "https://dc.clubs.harvard.edu//events.html?vcal=200"
+    },
+    {
+     "text": "Google",
+     "url": "https://calendar.google.com/calendar/r/eventedit?text=The+Nutcracker+%E2%80%93+Virginia+National+Ballet&dates=20261213T170010/20261213T193010&ctz=America/New_York&details=The+Nutcracker+%E2%80%93+Virginia+National+Ballet&location=Capital+One+Hall%2C+7750+Capital+One+Tower+Road%2C%2C+Tysons%2C+VA%2C+22102%2C&pli=1&uid=https%3A%2F%2Fdc.clubs.harvard.edu%2F%2Farticle.html%3Faid%3D200&sf=true&output=xml"
+    },
+    {
+     "text": "Apple",
+     "url": "https://dc.clubs.harvard.edu//events.html?vcal=194"
+    },
+    {
+     "text": "Google",
+     "url": "https://calendar.google.com/calendar/r/eventedit?text=Visit+to+The+National+Museum+of+American+Diplomacy+%26+Curator+Lecture+%7C+Members+Only&dates=20261214T101549/20261214T120049&ctz=America/New_York&details=Visit+to+The+National+Museum+of+American+Diplomacy+%26+Curator+Lecture+%7C+Members+Only&location=National+Museum+of+American+Diplomacy+%2C+330+21st+Street%2C+Washington%2C+DC%2C+DC%2C+20006%2C&pli=1&uid=https%3A%2F%2Fdc.clubs.harvard.edu%2F%2Farticle.html%3Faid%3D194&sf=true&output=xml"
+    },
+    {
+     "text": "Apple",
+     "url": "https://dc.clubs.harvard.edu//events.html?vcal=198"
+    },
+    {
+     "text": "Google",
+     "url": "https://calendar.google.com/calendar/r/eventedit?text=Jazz+at+the+Botanical+Garden+%26+Visiting+Season%E2%80%99s+Greenings%3A+National+Parks+and+Historic+Places+202&dates=20261215T173000/20261215T193000&ctz=America/New_York&details=Jazz+at+the+Botanical+Garden+%26+Visiting+Season%E2%80%99s+Greenings%3A+National+Parks+and+Historic+Places+202&location=Botanical+Gardens%2C+100+Maryland+Avenue%2C+Washington%2C+DC%2C+DC%2C+20001%2C&pli=1&uid=https%3A%2F%2Fdc.clubs.harvard.edu%2F%2Farticle.html%3Faid%3D198&sf=true&output=xml"
+    },
+    {
+     "text": "Apple",
+     "url": "https://dc.clubs.harvard.edu//events.html?vcal=183"
+    },
+    {
+     "text": "Google",
+     "url": "https://calendar.google.com/calendar/r/eventedit?text=National+Wreaths+Across+America+Day&dates=20261219T070010/20261219T170010&ctz=America/New_York&details=National+Wreaths+Across+America+Day&location=Arlington+National+Cemetery%2C+Memorial+Dr.%2C+Fort+Myer%2C+VA%2C+22211%2C&pli=1&uid=https%3A%2F%2Fdc.clubs.harvard.edu%2F%2Farticle.html%3Faid%3D183&sf=true&output=xml"
+    },
+    {
+     "text": "Apple",
+     "url": "https://dc.clubs.harvard.edu//events.html?vcal=196"
+    },
+    {
+     "text": "Google",
+     "url": "https://calendar.google.com/calendar/r/eventedit?text=Dr.+Seuss%E2%80%99+How+The+Grinch+Stole+Christmas%21+The+Musical&dates=20261227T150028/20261227T163028&ctz=America/New_York&details=Dr.+Seuss%E2%80%99+How+The+Grinch+Stole+Christmas%21+The+Musical&location=Imagination+Stage%2C+4908+Auburn+Ave.%2C+Bethesda%2C+MD%2C+20814%2C&pli=1&uid=https%3A%2F%2Fdc.clubs.harvard.edu%2F%2Farticle.html%3Faid%3D196&sf=true&output=xml"
+    },
+    {
+     "text": "Apple",
+     "url": "https://dc.clubs.harvard.edu//events.html?vcal=186"
+    },
+    {
+     "text": "Google",
+     "url": "https://calendar.google.com/calendar/r/eventedit?text=Washington+Capitals+vs+Carolina+Hurricanes&dates=20270303T190000/20270303T223044&ctz=America/New_York&details=Washington+Capitals+vs+Carolina+Hurricanes&location=Capital+One+Arena%2C+601+F+St+NW%2C+Washington%2C+DC%2C+DC%2C+20004%2C&pli=1&uid=https%3A%2F%2Fdc.clubs.harvard.edu%2F%2Farticle.html%3Faid%3D186&sf=true&output=xml"
+    },
+    {
+     "text": "",
+     "url": "https://dc.clubs.harvard.edu/events.html?date=0-10-2026"
+    },
+    {
+     "text": "",
+     "url": "https://dc.clubs.harvard.edu/events.html?date=0-12-2026"
     }
    ],
-   "platform": "eventbrite",
+   "platform": "",
    "error": ""
   },
   {
-   "url": "https://hcdc.clubs.harvard.edu/",
+   "url": "https://dc.clubs.harvard.edu/",
    "status": 200,
-   "final_url": "https://hcdc.clubs.harvard.edu/",
+   "final_url": "https://dc.clubs.harvard.edu/",
    "title": "Harvard Club of Washington, DC",
    "dates": 0,
    "jsonld": 0,
@@ -71,17 +149,132 @@
    "iframes": [],
    "event_links": [
     {
-     "text": "Harvard Program and Events",
-     "url": "http://alumni.harvard.edu/programs-events"
+     "text": "Events",
+     "url": "https://dc.clubs.harvard.edu/events.html"
     }
    ],
    "platform": "",
    "error": ""
   },
   {
-   "url": "https://hcdc.clubs.harvard.edu//events.html?vcal=1787",
+   "url": "https://dc.clubs.harvard.edu/events_past.html",
    "status": 200,
-   "final_url": "https://hcdc.clubs.harvard.edu//events.html?vcal=1787",
+   "final_url": "https://dc.clubs.harvard.edu/events_past.html",
+   "title": "Harvard Club of Washington, DC",
+   "dates": 0,
+   "jsonld": 0,
+   "jsonld_samples": [],
+   "hints": [],
+   "iframes": [],
+   "event_links": [
+    {
+     "text": "Upcoming Events",
+     "url": "https://dc.clubs.harvard.edu/events.html"
+    },
+    {
+     "text": "Past Events",
+     "url": "https://dc.clubs.harvard.edu/events_past.html"
+    },
+    {
+     "text": "Apple",
+     "url": "https://dc.clubs.harvard.edu//events.html?vcal=181"
+    },
+    {
+     "text": "Google",
+     "url": "https://calendar.google.com/calendar/r/eventedit?text=The+Game%3A+Harvard+vs.+Yale+2026&dates=20261121T150031/20261121T183031&ctz=America/New_York&details=The+Game%3A+Harvard+vs.+Yale+2026&location=Penn+Social%2C+801+E+St+NW%2C+Washington%2C+DC%2C+DC%2C+20004%2C&pli=1&uid=https%3A%2F%2Fdc.clubs.harvard.edu%2F%2Farticle.html%3Faid%3D181&sf=true&output=xml"
+    },
+    {
+     "text": "Apple",
+     "url": "https://dc.clubs.harvard.edu//events.html?vcal=168"
+    },
+    {
+     "text": "Google",
+     "url": "https://calendar.google.com/calendar/r/eventedit?text=Public+Service+Award+Reception+Honoring+Dr.+Fiona+Hill&dates=20261118T183008/20261118T203008&ctz=America/New_York&details=Public+Service+Award+Reception+Honoring+Dr.+Fiona+Hill&location=The+University+Club%2C+1135+16th+St.+NW%2C+Washington%2C+DC%2C+DC%2C+20036%2C&pli=1&uid=https%3A%2F%2Fdc.clubs.harvard.edu%2F%2Farticle.html%3Faid%3D168&sf=true&output=xml"
+    },
+    {
+     "text": "Apple",
+     "url": "https://dc.clubs.harvard.edu//events.html?vcal=184"
+    },
+    {
+     "text": "Google",
+     "url": "https://calendar.google.com/calendar/r/eventedit?text=American+University+vs.+Harvard+University&dates=20261115T110009/20261115T153109&ctz=America/New_York&details=American+University+vs.+Harvard+University&location=American+University%2C+4400+Massachusetts+Avenue+NW%2C+Washington%2C+DC%2C+DC%2C+20016%2C&pli=1&uid=https%3A%2F%2Fdc.clubs.harvard.edu%2F%2Farticle.html%3Faid%3D184&sf=true&output=xml"
+    },
+    {
+     "text": "Apple",
+     "url": "https://dc.clubs.harvard.edu//events.html?vcal=190"
+    },
+    {
+     "text": "Google",
+     "url": "https://calendar.google.com/calendar/r/eventedit?text=Singles+Mixer&dates=20261113T183000/20261113T203000&ctz=America/New_York&details=Singles+Mixer&location=Astro+Beer+Hall%2C+1306+G+Street%2C+NW%2C+Washington%2C+DC%2C+DC%2C+20005%2C&pli=1&uid=https%3A%2F%2Fdc.clubs.harvard.edu%2F%2Farticle.html%3Faid%3D190&sf=true&output=xml"
+    },
+    {
+     "text": "Apple",
+     "url": "https://dc.clubs.harvard.edu//events.html?vcal=191"
+    },
+    {
+     "text": "Google",
+     "url": "https://calendar.google.com/calendar/r/eventedit?text=Stretching+the+Canvas%3A+Ten+Decades+of+Native+Painting&dates=20261112T110000/20261112T123000&ctz=America/New_York&details=Stretching+the+Canvas%3A+Ten+Decades+of+Native+Painting&location=National+Museum+of+the+American+Indian%2C+4th+Street+SW+and+Independence+Avenue%2C+Washington%2C+DC%2C+DC%2C+20560%2C&pli=1&uid=https%3A%2F%2Fdc.clubs.harvard.edu%2F%2Farticle.html%3Faid%3D191&sf=true&output=xml"
+    },
+    {
+     "text": "Apple",
+     "url": "https://dc.clubs.harvard.edu//events.html?vcal=188"
+    },
+    {
+     "text": "Google",
+     "url": "https://calendar.google.com/calendar/r/eventedit?text=The+Invincible+Brain%3A+How+To+Stay+Sharp+As+You+Age&dates=20261111T183000/20261111T203000&ctz=America/New_York&details=The+Invincible+Brain%3A+How+To+Stay+Sharp+As+You+Age&location=Hogan+Lovells+Cadwaler%2C+555+13th+St+NW%2C+Washington%2C+DC%2C+DC%2C+20004%2C&pli=1&uid=https%3A%2F%2Fdc.clubs.harvard.edu%2F%2Farticle.html%3Faid%3D188&sf=true&output=xml"
+    },
+    {
+     "text": "Apple",
+     "url": "https://dc.clubs.harvard.edu//events.html?vcal=189"
+    },
+    {
+     "text": "Google",
+     "url": "https://calendar.google.com/calendar/r/eventedit?text=The+Unspoken+Dress+Code%3A+How+to+Read+the+Room+Without+Losing+Yourself&dates=20261110T113001/20261110T133001&ctz=America/New_York&details=The+Unspoken+Dress+Code%3A+How+to+Read+the+Room+Without+Losing+Yourself&location=Refraction+Innovation+Hub%2C+7950+Jones+Branch+Drive%2C+North+8th+Floor%2C+VA+22102%2C+Tysons%2C+VA%2C+22102%2C&pli=1&uid=https%3A%2F%2Fdc.clubs.harvard.edu%2F%2Farticle.html%3Faid%3D189&sf=true&output=xml"
+    },
+    {
+     "text": "Apple",
+     "url": "https://dc.clubs.harvard.edu//events.html?vcal=185"
+    },
+    {
+     "text": "Google",
+     "url": "https://calendar.google.com/calendar/r/eventedit?text=Reception+%26+Panel+at+the+Embassy+of+Finland&dates=20261104T173042/20261104T203042&ctz=America/New_York&details=Reception+%26+Panel+at+the+Embassy+of+Finland&location=The+Embassy+of+Finland%2C+3301+Massachusetts+Av.%2C+Washington%2C+DC%2C+DC%2C+20008%2C&pli=1&uid=https%3A%2F%2Fdc.clubs.harvard.edu%2F%2Farticle.html%3Faid%3D185&sf=true&output=xml"
+    },
+    {
+     "text": "Apple",
+     "url": "https://dc.clubs.harvard.edu//events.html?vcal=187"
+    },
+    {
+     "text": "Google",
+     "url": "https://calendar.google.com/calendar/r/eventedit?text=La+Table+Fran%C3%A7aise&dates=20261031T103000/20261031T113000&ctz=America/New_York&details=La+Table+Fran%C3%A7aise&location=Le+Pain+Quotidien%2C+2000+P+St+NW+%2C+Washington%2C+DC%2C+DC%2C+20036%2C&pli=1&uid=https%3A%2F%2Fdc.clubs.harvard.edu%2F%2Farticle.html%3Faid%3D187&sf=true&output=xml"
+    },
+    {
+     "text": "Apple",
+     "url": "https://dc.clubs.harvard.edu//events.html?vcal=173"
+    },
+    {
+     "text": "Google",
+     "url": "https://calendar.google.com/calendar/r/eventedit?text=Gates+of+Harvard+Yard+with+Author+Blair+Kamin&dates=20261027T183051/20261027T203051&ctz=America/New_York&details=Gates+of+Harvard+Yard+with+Author+Blair+Kamin&location=Hogan+Lovells%2C+555+13th+St+NW%2C+Washington%2C+DC%2C+DC%2C+20004%2C&pli=1&uid=https%3A%2F%2Fdc.clubs.harvard.edu%2F%2Farticle.html%3Faid%3D173&sf=true&output=xml"
+    },
+    {
+     "text": "Apple",
+     "url": "https://dc.clubs.harvard.edu//events.html?vcal=180"
+    },
+    {
+     "text": "Google",
+     "url": "https://calendar.google.com/calendar/r/eventedit?text=The+Score+featuring+Brian+Cox&dates=20261024T153039/20261024T213039&ctz=America/New_York&details=The+Score+featuring+Brian+Cox&location=Shakespeare+Theater+Harman+Hall%2C+610+F+Street+NW%2C+Washington%2C+DC%2C+20004%2C&pli=1&uid=https%3A%2F%2Fdc.clubs.harvard.edu%2F%2Farticle.html%3Faid%3D180&sf=true&output=xml"
+    },
+    {
+     "text": "Apple",
+     "url": "https://dc.clubs.harvard.edu//events.html?vcal=172"
+    }
+   ],
+   "platform": "",
+   "error": ""
+  },
+  {
+   "url": "https://dc.clubs.harvard.edu//events.html?vcal=192",
+   "status": 200,
+   "final_url": "https://dc.clubs.harvard.edu//events.html?vcal=192",
    "title": "",
    "dates": 0,
    "jsonld": 0,
@@ -93,9 +286,9 @@
    "error": ""
   },
   {
-   "url": "http://alumni.harvard.edu/programs-events",
-   "status": null,
-   "final_url": "",
+   "url": "https://dc.clubs.harvard.edu//events.html?vcal=201",
+   "status": 200,
+   "final_url": "https://dc.clubs.harvard.edu//events.html?vcal=201",
    "title": "",
    "dates": 0,
    "jsonld": 0,
@@ -104,8 +297,22 @@
    "iframes": [],
    "event_links": [],
    "platform": "",
-   "error": "HTTPError: HTTP Error 403: "
+   "error": ""
+  },
+  {
+   "url": "https://dc.clubs.harvard.edu//events.html?vcal=197",
+   "status": 200,
+   "final_url": "https://dc.clubs.harvard.edu//events.html?vcal=197",
+   "title": "",
+   "dates": 0,
+   "jsonld": 0,
+   "jsonld_samples": [],
+   "hints": [],
+   "iframes": [],
+   "event_links": [],
+   "platform": "",
+   "error": ""
   }
  ],
- "best_page": "https://hcdc.clubs.harvard.edu/article.html?aid=1787"
+ "best_page": "https://dc.clubs.harvard.edu/events.html"
 }

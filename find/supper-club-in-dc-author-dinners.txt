@@ -1,6 +1,6 @@
 Supper Club in DC (author dinners)
 best page: https://luma.com/the-authentic-asian?k=c (status 200, 0 date strings, 16 JSON-LD events)
-fetched 2026-11-28 01:27Z
+fetched 2026-11-28 01:53Z
 
 The Authentic Asian Events · Events Calendar
 Skip to Content

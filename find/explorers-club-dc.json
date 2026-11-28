@@ -4,27 +4,27 @@
  "seed_url": "https://www.explorersclubdc.org/events/",
  "programs": "",
  "access": "",
- "found": "2026-11-28 01:25Z",
+ "found": "2026-11-28 01:51Z",
  "search_hits": [],
- "search_error": "html.duckduckgo.com 0 hits (202, 15158b); www.bing.com 0 hits (200, 120233b); lite.duckduckgo.com 0 hits (202, 15152b)",
+ "search_error": "html.duckduckgo.com 0 hits (202, 15158b); www.bing.com 0 hits (200, 122080b); lite.duckduckgo.com 0 hits (202, 15152b)",
  "probes": [
   {
    "url": "https://www.explorersclubdc.org/wp-json/tribe/events/v1/events?per_page=10",
    "status": 200,
    "events": 0,
-   "head": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n  <meta charset=\"utf8\">\n  <meta name=\"viewport\" content=\"width=device-width,initial-scale=1.0\">\n  <script nonce=\"oVcnl9tNNH3SCO1/uTIhzQ==\">\n      (function(){\n          setTimeout(function(){\n              window.location.reload();\n          }, 5000);\n      }("
+   "head": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n  <meta charset=\"utf8\">\n  <meta name=\"viewport\" content=\"width=device-width,initial-scale=1.0\">\n  <script nonce=\"VSOTKmHshIyLOxcD/41OuQ==\">\n      (function(){\n          setTimeout(function(){\n              window.location.reload();\n          }, 5000);\n      }("
   },
   {
    "url": "https://www.explorersclubdc.org/events/?ical=1",
    "status": 200,
    "events": 0,
-   "head": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n  <meta charset=\"utf8\">\n  <meta name=\"viewport\" content=\"width=device-width,initial-scale=1.0\">\n  <script nonce=\"x7ZxdYnhPzHcNAImUP/68A==\">\n      (function(){\n          setTimeout(function(){\n              window.location.reload();\n          }, 5000);\n      }("
+   "head": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n  <meta charset=\"utf8\">\n  <meta name=\"viewport\" content=\"width=device-width,initial-scale=1.0\">\n  <script nonce=\"96SnIlAn0v1MHDs6uWNlOw==\">\n      (function(){\n          setTimeout(function(){\n              window.location.reload();\n          }, 5000);\n      }("
   },
   {
    "url": "https://www.explorersclubdc.org/?ical=1",
    "status": 200,
    "events": 0,
-   "head": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n  <meta charset=\"utf8\">\n  <meta name=\"viewport\" content=\"width=device-width,initial-scale=1.0\">\n  <script nonce=\"fD332tPuS/LSzNL/cMjKEw==\">\n      (function(){\n          setTimeout(function(){\n              window.location.reload();\n          }, 5000);\n      }("
+   "head": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n  <meta charset=\"utf8\">\n  <meta name=\"viewport\" content=\"width=device-width,initial-scale=1.0\">\n  <script nonce=\"bD2aoiN/GMEmCVEjnpP4nQ==\">\n      (function(){\n          setTimeout(function(){\n              window.location.reload();\n          }, 5000);\n      }("
   }
  ],
  "pages": [

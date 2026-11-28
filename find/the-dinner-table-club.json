@@ -4,9 +4,9 @@
  "seed_url": "https://luma.com/thedinnertable_club",
  "programs": "",
  "access": "",
- "found": "2026-11-28 01:24Z",
+ "found": "2026-11-28 01:49Z",
  "search_hits": [],
- "search_error": "html.duckduckgo.com 0 hits (202, 15165b); www.bing.com 0 hits (200, 490939b); lite.duckduckgo.com 0 hits (202, 15172b)",
+ "search_error": "html.duckduckgo.com 0 hits (202, 15160b); www.bing.com 0 hits (200, 132531b); lite.duckduckgo.com 0 hits (202, 15172b)",
  "probes": [
   {
    "url": "https://luma.com/wp-json/tribe/events/v1/events?per_page=10",
@@ -186,7 +186,7 @@
      "url": "https://luma.com/family?k=t"
     },
     {
-     "text": "Books 645  Events",
+     "text": "Books 644  Events",
      "url": "https://luma.com/books?k=t"
     },
     {
@@ -206,7 +206,7 @@
      "url": "https://luma.com/ai?k=t"
     },
     {
-     "text": "Running 556  Events",
+     "text": "Running 553  Events",
      "url": "https://luma.com/running?k=t"
     },
     {
@@ -226,7 +226,7 @@
      "url": "https://luma.com/wellness?k=t"
     },
     {
-     "text": "Crypto 440  Events",
+     "text": "Crypto 439  Events",
      "url": "https://luma.com/crypto?k=t"
     },
     {
@@ -254,7 +254,7 @@
      "url": "https://luma.com/boston?k=p"
     },
     {
-     "text": "Calgary 6 Events",
+     "text": "Calgary 5 Events",
      "url": "https://luma.com/calgary?k=p"
     },
     {
@@ -301,7 +301,8 @@
     "https://luma.com/_next/static/chunks/0ovarg8hab9u0.css",
     "https://luma.com/",
     "https://luma.com/discover",
-    "https://luma.com/signin?next=%2Fcreate"
+    "https://luma.com/signin?next=%2Fcreate",
+    "https://luma.com/fonts/departure.css"
    ],
    "iframes": [],
    "event_links": [

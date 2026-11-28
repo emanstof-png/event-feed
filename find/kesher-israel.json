@@ -1,0 +1,301 @@
+{
+ "row": "156",
+ "name": "Kesher Israel",
+ "seed_url": "https://www.kesher.org/eventlist",
+ "programs": "",
+ "access": "",
+ "found": "2026-11-28 01:56Z",
+ "search_hits": [],
+ "search_error": "html.duckduckgo.com Timeout; www.bing.com 0 hits (200, 122017b); lite.duckduckgo.com Timeout",
+ "probes": [
+  {
+   "url": "https://www.kesher.org/wp-json/tribe/events/v1/events?per_page=10",
+   "status": "HTTPError",
+   "events": 0
+  },
+  {
+   "url": "https://www.kesher.org/events/?ical=1",
+   "status": "HTTPError",
+   "events": 0
+  },
+  {
+   "url": "https://www.kesher.org/?ical=1",
+   "status": 200,
+   "events": 0,
+   "head": "<!DOCTYPE html>\n<html xmlns=\"http://www.w3.org/1999/xhtml\">\n<head>\n\n    <meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\" />\n        <meta name=\"description\" content=\"\" />\n    <meta name=\"keywords\" content=\"Home\" />\n    \n        <title>Kesher Israel</title>\n    \n    \n    <!-- Font A"
+  }
+ ],
+ "pages": [
+  {
+   "url": "https://www.kesher.org/eventlist",
+   "status": 200,
+   "final_url": "https://www.kesher.org/eventlist",
+   "title": "Upcoming Programs and Events - Kesher Israel",
+   "dates": 4,
+   "jsonld": 0,
+   "jsonld_samples": [],
+   "hints": [],
+   "iframes": [],
+   "event_links": [
+    {
+     "text": "Calendar",
+     "url": "https://www.kesher.org/cal.php"
+    },
+    {
+     "text": "Davening Times",
+     "url": "https://www.kesher.org/calendar.html"
+    },
+    {
+     "text": "All Events",
+     "url": "https://www.kesher.org/calendar"
+    },
+    {
+     "text": "Beginner Hebrew",
+     "url": "https://www.kesher.org/event/Beginner-Hebrew"
+    },
+    {
+     "text": "Rediscovering Familiar Stories: A Three Part Series on Berei",
+     "url": "https://www.kesher.org/event/Rediscovering_Familiar_Stories"
+    },
+    {
+     "text": "Lecture with Givat Haviva: Bridging Communities and Building",
+     "url": "https://www.kesher.org/event/Givat-Haviva"
+    },
+    {
+     "text": "Communal Shabbat Dinner with Rabbi Charles Savenor",
+     "url": "https://www.kesher.org/event/Dinner_Charles_Savenor"
+    },
+    {
+     "text": "Scholar in Residence: Charles Savenor",
+     "url": "https://www.kesher.org/event/Charles_Savenor"
+    },
+    {
+     "text": "Chanukkah Crafting for Kids and Families",
+     "url": "https://www.kesher.org/event/Hanukkah_Party"
+    },
+    {
+     "text": "Babies and Kashrut Sources and Q&A",
+     "url": "https://www.kesher.org/event/babykashrut"
+    },
+    {
+     "text": "Neshama Minyan",
+     "url": "https://www.kesher.org/event/neshama-minyan16.html"
+    },
+    {
+     "text": "Kesher Board Meeting",
+     "url": "https://www.kesher.org/event/kesher-board-meeting7.html"
+    },
+    {
+     "text": "Kesher Annual Fundraiser",
+     "url": "https://www.kesher.org/event/Annual-Fundraiser"
+    },
+    {
+     "text": "For a full list, including\u00a0daily davening times and classes\u00a0",
+     "url": "http://kesher.org/calendar"
+    },
+    {
+     "text": "Shachrit",
+     "url": "https://www.kesher.org/event/shachrit.html"
+    }
+   ],
+   "platform": "shulcloud",
+   "error": ""
+  },
+  {
+   "url": "https://www.kesher.org/",
+   "status": 200,
+   "final_url": "https://www.kesher.org/",
+   "title": "Kesher Israel",
+   "dates": 2,
+   "jsonld": 0,
+   "jsonld_samples": [],
+   "hints": [],
+   "iframes": [],
+   "event_links": [
+    {
+     "text": "Calendar",
+     "url": "https://www.kesher.org/cal.php"
+    },
+    {
+     "text": "Davening Times",
+     "url": "https://www.kesher.org/calendar.html"
+    },
+    {
+     "text": "",
+     "url": "https://www.kesher.org/eventlist"
+    },
+    {
+     "text": "Shachrit",
+     "url": "https://www.kesher.org/event/shachrit.html"
+    }
+   ],
+   "platform": "shulcloud",
+   "error": ""
+  },
+  {
+   "url": "https://www.kesher.org/cal.php",
+   "status": 200,
+   "final_url": "https://www.kesher.org/calendar",
+   "title": "Calendar - Kesher Israel",
+   "dates": 8,
+   "jsonld": 0,
+   "jsonld_samples": [],
+   "hints": [],
+   "iframes": [],
+   "event_links": [
+    {
+     "text": "Calendar",
+     "url": "https://www.kesher.org/cal.php"
+    },
+    {
+     "text": "Davening Times",
+     "url": "https://www.kesher.org/calendar.html"
+    },
+    {
+     "text": "Clear",
+     "url": "https://www.kesher.org/calendar"
+    },
+    {
+     "text": "",
+     "url": "https://www.kesher.org/calendar?date_start=specific+date&date_start_x=0&date_start_date=2026-10-01"
+    },
+    {
+     "text": "",
+     "url": "https://www.kesher.org/calendar?date_start=specific+date&date_start_x=0&date_start_date=2026-12-01"
+    },
+    {
+     "text": "",
+     "url": "https://www.kesher.org/calendar?date_start=specific+date&date_start_x=0&date_start_date=2026-11-20"
+    },
+    {
+     "text": "",
+     "url": "https://www.kesher.org/calendar?date_start=specific+date&date_start_x=0&date_start_date=2026-12-04"
+    },
+    {
+     "text": "Beginner Hebrew",
+     "url": "https://www.kesher.org/event/Beginner-Hebrew"
+    },
+    {
+     "text": "Rediscovering Familiar Stories: A Three Part Series on Berei",
+     "url": "https://www.kesher.org/event/Rediscovering_Familiar_Stories"
+    },
+    {
+     "text": "Shachrit",
+     "url": "https://www.kesher.org/event/shachrit.html"
+    }
+   ],
+   "platform": "shulcloud",
+   "error": ""
+  },
+  {
+   "url": "https://www.kesher.org/calendar.html",
+   "status": 200,
+   "final_url": "https://www.kesher.org/calendar.html",
+   "title": "Calendar - Kesher Israel",
+   "dates": 1,
+   "jsonld": 0,
+   "jsonld_samples": [],
+   "hints": [],
+   "iframes": [],
+   "event_links": [
+    {
+     "text": "Calendar",
+     "url": "https://www.kesher.org/cal.php"
+    },
+    {
+     "text": "Davening Times",
+     "url": "https://www.kesher.org/calendar.html"
+    }
+   ],
+   "platform": "shulcloud",
+   "error": ""
+  },
+  {
+   "url": "https://www.kesher.org/calendar",
+   "status": 200,
+   "final_url": "https://www.kesher.org/calendar",
+   "title": "Calendar - Kesher Israel",
+   "dates": 8,
+   "jsonld": 0,
+   "jsonld_samples": [],
+   "hints": [],
+   "iframes": [],
+   "event_links": [
+    {
+     "text": "Calendar",
+     "url": "https://www.kesher.org/cal.php"
+    },
+    {
+     "text": "Davening Times",
+     "url": "https://www.kesher.org/calendar.html"
+    },
+    {
+     "text": "Clear",
+     "url": "https://www.kesher.org/calendar"
+    },
+    {
+     "text": "",
+     "url": "https://www.kesher.org/calendar?date_start=specific+date&date_start_x=0&date_start_date=2026-10-01"
+    },
+    {
+     "text": "",
+     "url": "https://www.kesher.org/calendar?date_start=specific+date&date_start_x=0&date_start_date=2026-12-01"
+    },
+    {
+     "text": "",
+     "url": "https://www.kesher.org/calendar?date_start=specific+date&date_start_x=0&date_start_date=2026-11-20"
+    },
+    {
+     "text": "",
+     "url": "https://www.kesher.org/calendar?date_start=specific+date&date_start_x=0&date_start_date=2026-12-04"
+    },
+    {
+     "text": "Beginner Hebrew",
+     "url": "https://www.kesher.org/event/Beginner-Hebrew"
+    },
+    {
+     "text": "Rediscovering Familiar Stories: A Three Part Series on Berei",
+     "url": "https://www.kesher.org/event/Rediscovering_Familiar_Stories"
+    },
+    {
+     "text": "Shachrit",
+     "url": "https://www.kesher.org/event/shachrit.html"
+    }
+   ],
+   "platform": "shulcloud",
+   "error": ""
+  },
+  {
+   "url": "https://www.kesher.org/event/Beginner-Hebrew",
+   "status": 200,
+   "final_url": "https://www.kesher.org/event/Beginner-Hebrew",
+   "title": "Beginner Hebrew - Event - Kesher Israel",
+   "dates": 7,
+   "jsonld": 0,
+   "jsonld_samples": [],
+   "hints": [],
+   "iframes": [],
+   "event_links": [
+    {
+     "text": "Calendar",
+     "url": "https://www.kesher.org/cal.php"
+    },
+    {
+     "text": "Davening Times",
+     "url": "https://www.kesher.org/calendar.html"
+    },
+    {
+     "text": "",
+     "url": "https://www.kesher.org/event/Beginner-Hebrew?action=download"
+    },
+    {
+     "text": "Shachrit",
+     "url": "https://www.kesher.org/event/shachrit.html"
+    }
+   ],
+   "platform": "shulcloud",
+   "error": ""
+  }
+ ],
+ "best_page": "https://www.kesher.org/cal.php"
+}

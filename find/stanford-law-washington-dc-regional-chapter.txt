@@ -1,6 +1,6 @@
 Stanford Law Washington DC Regional Chapter
 best page: https://law.stanford.edu/events (status 200, 111 date strings, 25 JSON-LD events)
-fetched 2026-11-28 01:27Z
+fetched 2026-11-28 01:52Z
 
 
 Events from November 27 – January 4, 2027 – Stanford Law School
@@ -131,7 +131,7 @@ December 1 @ 6:00 pm
 : December 1
 		@ SLS: Room 80 Moot Courtroom	
 		Crown Quadrangle 559 Nathan Abbott Way, Stanford, CA, United States	
-This annual event celebrates our recent graduates being admitted to the California State Bar as they take the state oath and also a ceremonial federal oath for the United States […]
+This annual event celebrates our recent graduates being admitted to the California State Bar as they take the state oath and also a ceremonial federal oath for the United States District Court for the Northern District of California. We are pleased to welcome The Honorable Haywood S. Gilliam, Jr., JD, '94, United States District Court […]
 			+ Google Calendar            
  : Swearing-In Ceremony, December 1
          | 
@@ -192,7 +192,7 @@ December 4
 : December 3
 		@ Stanford: Paul Brest Hall	
 		555 Salvatierra Walk, Stanford, CA, United States	
-The Berkeley-Stanford APLI is the premier patent law event in the US. APLI convenes an unparalleled roster of the leading academics, litigators, patent prosecutors, senior IP counsel from major corporations, […]
+The Berkeley-Stanford APLI is the premier patent law event in the US. APLI convenes an unparalleled roster of the leading academics, litigators, patent prosecutors, senior IP counsel from major corporations, and judges to deliver a timely, in-depth, results-oriented look at the latest developments in patent law and practice. Attend the programming that matters most to […]
 			+ Google Calendar            
  : 27th Annual Berkeley-Stanford Advanced Patent Law Institute, December 3
          | 
@@ -216,17 +216,4 @@ The AI Governance Lab is hosting former National Security Advisor Jake Sullivan 
  : A Conversation with Jake Sullivan, December 3
          | 
 			+ iCal Export            
- : A Conversation with Jake Sullivan, December 3
-         | 
-Register Here!
-: A Conversation with Jake Sullivan, December 3
-			Thu		
-			3		
-December 3 @ 5:30 pm
- - 
-8:15 pm
- PST 
-		An Evening with AI with Stanford Law School
-: December 3
-		Offsite/Private Location	
-This event is open to all Stanford Law School alumni, including guests. Join fellow alumni for an enga
+ : A Conversation with Jake Sullivan, December

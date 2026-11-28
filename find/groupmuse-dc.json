@@ -4,9 +4,9 @@
  "seed_url": "https://groupmuse.com/dc",
  "programs": "",
  "access": "",
- "found": "2026-11-28 01:23Z",
+ "found": "2026-11-28 01:49Z",
  "search_hits": [],
- "search_error": "html.duckduckgo.com 0 hits (202, 15136b); www.bing.com 0 hits (200, 370265b); lite.duckduckgo.com 0 hits (202, 15148b)",
+ "search_error": "html.duckduckgo.com 0 hits (202, 15148b); www.bing.com 0 hits (200, 129473b); lite.duckduckgo.com 0 hits (202, 15142b)",
  "probes": [
   {
    "url": "https://www.groupmuse.com/wp-json/tribe/events/v1/events?per_page=10",

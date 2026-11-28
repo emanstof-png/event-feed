@@ -1,0 +1,204 @@
+{
+ "row": "161",
+ "name": "Penn Club of DC",
+ "seed_url": "https://upenn.imodules.com/s/1587/gid2/16/interior.aspx?sid=1587&gid=7&pgid=2577",
+ "programs": "",
+ "access": "",
+ "found": "2026-11-28 01:59Z",
+ "search_hits": [],
+ "search_error": "html.duckduckgo.com Timeout; www.bing.com 0 hits (200, 130720b); lite.duckduckgo.com Timeout",
+ "probes": [
+  {
+   "url": "https://upenn.imodules.com/wp-json/tribe/events/v1/events?per_page=10",
+   "status": 200,
+   "events": 0,
+   "head": "\r\n<!doctype html>\r\n<!--[if lt IE 7]> <html class=\"no-js ie6 oldie\" lang=\"en\"> <![endif]-->\r\n<!--[if IE 7]>    <html class=\"no-js ie7 oldie\" lang=\"en\"> <![endif]-->\r\n<!--[if IE 8]>    <html class=\"no-js ie8 oldie\" lang=\"en\"> <![endif]-->\r\n<!--[if gt IE 8]><!--> <html class=\"no-js\" lang=\"en\" xmlns:fb="
+  },
+  {
+   "url": "https://upenn.imodules.com/events/?ical=1",
+   "status": 200,
+   "events": 0,
+   "head": "\r\n<!doctype html>\r\n<!--[if lt IE 7]> <html class=\"no-js ie6 oldie\" lang=\"en\"> <![endif]-->\r\n<!--[if IE 7]>    <html class=\"no-js ie7 oldie\" lang=\"en\"> <![endif]-->\r\n<!--[if IE 8]>    <html class=\"no-js ie8 oldie\" lang=\"en\"> <![endif]-->\r\n<!--[if gt IE 8]><!--> <html class=\"no-js\" lang=\"en\" xmlns:fb="
+  },
+  {
+   "url": "https://upenn.imodules.com/?ical=1",
+   "status": 200,
+   "events": 0,
+   "head": "<html xmlns=\"http://www.w3.org/1999/xhtml\"><body onload=\"document.forms.samlform.submit()\"><noscript><p><strong>Note:</strong> Since your browser does not support Javascript, you must press the Continue button once to proceed.</p></noscript><form id=\"samlform\" action=\"https://idp.pennkey.upenn.edu/i"
+  }
+ ],
+ "pages": [
+  {
+   "url": "https://upenn.imodules.com/s/1587/gid2/16/interior.aspx?sid=1587&gid=7&pgid=2577",
+   "status": 200,
+   "final_url": "https://upenn.imodules.com/s/1587/gid2/16/interior.aspx?sid=1587&gid=7&pgid=2577",
+   "title": "Penn Club of DC - Events",
+   "dates": 0,
+   "jsonld": 0,
+   "jsonld_samples": [],
+   "hints": [],
+   "iframes": [],
+   "event_links": [
+    {
+     "text": "Events",
+     "url": "https://upenn.imodules.com/s/1587/gid2/16/interior.aspx?sid=1587&gid=7&pgid=2577"
+    },
+    {
+     "text": "Past Events",
+     "url": "https://upenn.imodules.com/s/1587/gid2/16/interior.aspx?sid=1587&gid=7&pgid=33441"
+    },
+    {
+     "text": "Event Recordings",
+     "url": "https://upenn.imodules.com/s/1587/gid2/16/interior.aspx?sid=1587&gid=7&pgid=33442"
+    },
+    {
+     "text": "",
+     "url": "https://upenn.imodules.com/controls/cms_v2/Components/iCalendar/iCalendar.aspx?sid=1587&contentid=68846&ciid=318615&crid=0&type_alias=[event]"
+    },
+    {
+     "text": "",
+     "url": "https://upenn.imodules.com/controls/cms_v2/Components/iCalendar/iCalendar.aspx?sid=1587&contentid=68943&ciid=319063&crid=0&type_alias=[event]"
+    }
+   ],
+   "platform": "",
+   "error": ""
+  },
+  {
+   "url": "https://upenn.imodules.com/",
+   "status": 200,
+   "final_url": "https://securelb.imodules.com/s/resources/templates/login/index.aspx?sid=1587&gid=1&pgid=3&cid=40&returnurl=https%3A%2F%2Fupenn.imodules.com%2Fs%2Fresources%2Ftemplates%2Flogin%2Findex.aspx",
+   "title": "",
+   "dates": 0,
+   "jsonld": 0,
+   "jsonld_samples": [],
+   "hints": [],
+   "iframes": [],
+   "event_links": [],
+   "platform": "",
+   "error": ""
+  },
+  {
+   "url": "https://upenn.imodules.com/s/1587/gid2/16/interior.aspx?sid=1587&gid=7&pgid=33441",
+   "status": 200,
+   "final_url": "https://upenn.imodules.com/s/1587/gid2/16/interior.aspx?sid=1587&gid=7&pgid=33441",
+   "title": "Penn Club of DC - Past Events",
+   "dates": 0,
+   "jsonld": 0,
+   "jsonld_samples": [],
+   "hints": [],
+   "iframes": [],
+   "event_links": [
+    {
+     "text": "Events",
+     "url": "https://upenn.imodules.com/s/1587/gid2/16/interior.aspx?sid=1587&gid=7&pgid=2577"
+    },
+    {
+     "text": "Past Events",
+     "url": "https://upenn.imodules.com/s/1587/gid2/16/interior.aspx?sid=1587&gid=7&pgid=33441"
+    },
+    {
+     "text": "Event Recordings",
+     "url": "https://upenn.imodules.com/s/1587/gid2/16/interior.aspx?sid=1587&gid=7&pgid=33442"
+    },
+    {
+     "text": "",
+     "url": "https://upenn.imodules.com/controls/cms_v2/Components/iCalendar/iCalendar.aspx?sid=1587&contentid=65938&ciid=303426&crid=0&type_alias=[event]"
+    },
+    {
+     "text": "",
+     "url": "https://upenn.imodules.com/controls/cms_v2/Components/iCalendar/iCalendar.aspx?sid=1587&contentid=65732&ciid=301598&crid=0&type_alias=[event]"
+    },
+    {
+     "text": "",
+     "url": "https://upenn.imodules.com/controls/cms_v2/Components/iCalendar/iCalendar.aspx?sid=1587&contentid=65730&ciid=301588&crid=0&type_alias=[event]"
+    },
+    {
+     "text": "",
+     "url": "https://upenn.imodules.com/controls/cms_v2/Components/iCalendar/iCalendar.aspx?sid=1587&contentid=65382&ciid=300365&crid=0&type_alias=[event]"
+    },
+    {
+     "text": "",
+     "url": "https://upenn.imodules.com/controls/cms_v2/Components/iCalendar/iCalendar.aspx?sid=1587&contentid=64378&ciid=294848&crid=0&type_alias=[event]"
+    },
+    {
+     "text": "",
+     "url": "https://upenn.imodules.com/controls/cms_v2/Components/iCalendar/iCalendar.aspx?sid=1587&contentid=64522&ciid=295487&crid=0&type_alias=[event]"
+    },
+    {
+     "text": "",
+     "url": "https://upenn.imodules.com/controls/cms_v2/Components/iCalendar/iCalendar.aspx?sid=1587&contentid=64375&ciid=294834&crid=0&type_alias=[event]"
+    },
+    {
+     "text": "",
+     "url": "https://upenn.imodules.com/controls/cms_v2/Components/iCalendar/iCalendar.aspx?sid=1587&contentid=64520&ciid=295813&crid=0&type_alias=[event]"
+    },
+    {
+     "text": "",
+     "url": "https://upenn.imodules.com/controls/cms_v2/Components/iCalendar/iCalendar.aspx?sid=1587&contentid=64382&ciid=295480&crid=0&type_alias=[event]"
+    },
+    {
+     "text": "",
+     "url": "https://upenn.imodules.com/controls/cms_v2/Components/iCalendar/iCalendar.aspx?sid=1587&contentid=64373&ciid=295814&crid=0&type_alias=[event]"
+    }
+   ],
+   "platform": "",
+   "error": ""
+  },
+  {
+   "url": "https://upenn.imodules.com/s/1587/gid2/16/interior.aspx?sid=1587&gid=7&pgid=33442",
+   "status": 200,
+   "final_url": "https://upenn.imodules.com/s/1587/gid2/16/interior.aspx?sid=1587&gid=7&pgid=33442",
+   "title": "Penn Club of DC - Event Recordings",
+   "dates": 2,
+   "jsonld": 0,
+   "jsonld_samples": [],
+   "hints": [],
+   "iframes": [],
+   "event_links": [
+    {
+     "text": "Events",
+     "url": "https://upenn.imodules.com/s/1587/gid2/16/interior.aspx?sid=1587&gid=7&pgid=2577"
+    },
+    {
+     "text": "Past Events",
+     "url": "https://upenn.imodules.com/s/1587/gid2/16/interior.aspx?sid=1587&gid=7&pgid=33441"
+    },
+    {
+     "text": "Event Recordings",
+     "url": "https://upenn.imodules.com/s/1587/gid2/16/interior.aspx?sid=1587&gid=7&pgid=33442"
+    }
+   ],
+   "platform": "",
+   "error": ""
+  },
+  {
+   "url": "https://upenn.imodules.com/controls/cms_v2/Components/iCalendar/iCalendar.aspx?sid=1587&contentid=68846&ciid=318615&crid=0&type_alias=[event]",
+   "status": 200,
+   "final_url": "https://upenn.imodules.com/controls/cms_v2/Components/iCalendar/iCalendar.aspx?sid=1587&contentid=68846&ciid=318615&crid=0&type_alias=%5Bevent%5D",
+   "title": "",
+   "dates": 0,
+   "jsonld": 0,
+   "jsonld_samples": [],
+   "hints": [],
+   "iframes": [],
+   "event_links": [],
+   "platform": "",
+   "error": ""
+  },
+  {
+   "url": "https://upenn.imodules.com/controls/cms_v2/Components/iCalendar/iCalendar.aspx?sid=1587&contentid=68943&ciid=319063&crid=0&type_alias=[event]",
+   "status": 200,
+   "final_url": "https://upenn.imodules.com/controls/cms_v2/Components/iCalendar/iCalendar.aspx?sid=1587&contentid=68943&ciid=319063&crid=0&type_alias=%5Bevent%5D",
+   "title": "",
+   "dates": 0,
+   "jsonld": 0,
+   "jsonld_samples": [],
+   "hints": [],
+   "iframes": [],
+   "event_links": [],
+   "platform": "",
+   "error": ""
+  }
+ ],
+ "best_page": "https://upenn.imodules.com/s/1587/gid2/16/interior.aspx?sid=1587&gid=7&pgid=33442"
+}

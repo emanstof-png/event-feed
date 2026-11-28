@@ -4,9 +4,9 @@
  "seed_url": "https://www.exploretock.com/dc-urban-oasis/event/619754",
  "programs": "",
  "access": "",
- "found": "2026-11-28 01:27Z",
+ "found": "2026-11-28 01:53Z",
  "search_hits": [],
- "search_error": "html.duckduckgo.com 0 hits (202, 15074b); www.bing.com 0 hits (200, 113779b); lite.duckduckgo.com 0 hits (202, 15166b)",
+ "search_error": "html.duckduckgo.com 0 hits (202, 15086b); www.bing.com 0 hits (200, 155550b); lite.duckduckgo.com 0 hits (202, 15153b)",
  "probes": [
   {
    "url": "https://www.exploretock.com/wp-json/tribe/events/v1/events?per_page=10",
@@ -15,8 +15,9 @@
   },
   {
    "url": "https://www.exploretock.com/events/?ical=1",
-   "status": "HTTPError",
-   "events": 0
+   "status": 200,
+   "events": 0,
+   "head": "\n    <!doctype html>\n    <html class=\"no-js\" lang=en>\n      <head>\n      <!-- Trustarc -->\n       <script type=\"text/javascript\" async=\"async\" src=\"//consent.trustarc.com/notice?domain=exploretock.com&c=teconsent&js=nj&noticeType=bb&gtm=1&text=true&language=en-us\" crossorigin=\"\"></script>\n      <!--"
   },
   {
    "url": "https://www.exploretock.com/?ical=1",
@@ -47,32 +48,51 @@
   },
   {
    "url": "https://www.exploretock.com/",
-   "status": null,
-   "final_url": "",
-   "title": "",
-   "dates": 0,
+   "status": 200,
+   "final_url": "https://www.exploretock.com/",
+   "title": "Tock - Reservations - Restaurants, Bars, and Wineries | Tock",
+   "dates": 1,
    "jsonld": 0,
    "jsonld_samples": [],
    "hints": [],
    "iframes": [],
-   "event_links": [],
+   "event_links": [
+    {
+     "text": "",
+     "url": "https://www.exploretock.com/c/events"
+    }
+   ],
    "platform": "",
-   "error": "HTTPError: HTTP Error 403: "
+   "error": ""
   },
   {
    "url": "https://www.exploretock.com/dc-urban-oasis/event/619754/faq",
-   "status": null,
-   "final_url": "",
-   "title": "",
-   "dates": 0,
+   "status": 200,
+   "final_url": "https://www.exploretock.com/dc-urban-oasis/event/619754/faq",
+   "title": "DC Urban Oasis - FAQs | Tock",
+   "dates": 1,
    "jsonld": 0,
    "jsonld_samples": [],
    "hints": [],
    "iframes": [],
    "event_links": [],
    "platform": "",
-   "error": "HTTPError: HTTP Error 403: "
+   "error": ""
+  },
+  {
+   "url": "https://www.exploretock.com/c/events",
+   "status": 200,
+   "final_url": "https://www.exploretock.com/c/events",
+   "title": "Explore Events | Tock",
+   "dates": 3,
+   "jsonld": 0,
+   "jsonld_samples": [],
+   "hints": [],
+   "iframes": [],
+   "event_links": [],
+   "platform": "",
+   "error": ""
   }
  ],
- "best_page": "https://www.exploretock.com/dc-urban-oasis/event/619754"
+ "best_page": "https://www.exploretock.com/c/events"
 }

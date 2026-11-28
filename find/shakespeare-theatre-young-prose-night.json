@@ -1,0 +1,369 @@
+{
+ "row": "159",
+ "name": "Shakespeare Theatre Young Prose Night",
+ "seed_url": "https://www.shakespearetheatre.org/tickets-and-events/special-offers/under-35",
+ "programs": "",
+ "access": "",
+ "found": "2026-11-28 01:58Z",
+ "search_hits": [],
+ "search_error": "html.duckduckgo.com Timeout; www.bing.com 0 hits (200, 135366b); lite.duckduckgo.com Timeout",
+ "probes": [
+  {
+   "url": "https://www.shakespearetheatre.org/wp-json/tribe/events/v1/events?per_page=10",
+   "status": 200,
+   "events": 0,
+   "head": "<!DOCTYPE html><html  lang=\"en\"><head><meta charset=\"utf-8\">\n<meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">\n<script src=\"https://doublethedonation.com/api/js/ddplugin.js\"></script>\n<script>if(window.location.href.includes('shakespearetheatre.org')){(function(w,d,s,l,i){w[l]=w[l"
+  },
+  {
+   "url": "https://www.shakespearetheatre.org/events/?ical=1",
+   "status": 200,
+   "events": 0,
+   "head": "<!DOCTYPE html><html  lang=\"en\"><head><meta charset=\"utf-8\">\n<meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">\n<script src=\"https://doublethedonation.com/api/js/ddplugin.js\"></script>\n<script>if(window.location.href.includes('shakespearetheatre.org')){(function(w,d,s,l,i){w[l]=w[l"
+  },
+  {
+   "url": "https://www.shakespearetheatre.org/?ical=1",
+   "status": 200,
+   "events": 0,
+   "head": "<!DOCTYPE html><html  lang=\"en\"><head><meta charset=\"utf-8\">\n<meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">\n<title>STC HOME - Shakespeare Theatre Company</title>\n<script src=\"https://doublethedonation.com/api/js/ddplugin.js\"></script>\n<script>if(window.location.href.includes('s"
+  }
+ ],
+ "pages": [
+  {
+   "url": "https://www.shakespearetheatre.org/tickets-and-events/special-offers/under-35",
+   "status": 200,
+   "final_url": "https://www.shakespearetheatre.org/tickets-and-events/special-offers/under-35",
+   "title": "35 and Under - Shakespeare Theatre Company",
+   "dates": 0,
+   "jsonld": 0,
+   "jsonld_samples": [],
+   "hints": [],
+   "iframes": [],
+   "event_links": [
+    {
+     "text": "What\u2019s On",
+     "url": "https://www.shakespearetheatre.org/whats-on/"
+    },
+    {
+     "text": "Learn",
+     "url": "https://www.shakespearetheatre.org/education/learning-programs/"
+    },
+    {
+     "text": "26/27 Season",
+     "url": "https://www.shakespearetheatre.org/index.php/events/26-27-season/"
+    },
+    {
+     "text": "Customer Service",
+     "url": "https://www.shakespearetheatre.org/tickets-and-events/customer-service/"
+    },
+    {
+     "text": "Gift Certificates",
+     "url": "https://www.shakespearetheatre.org/tickets-and-events/customer-service/gift-certificates/"
+    },
+    {
+     "text": "BUY ONLINE",
+     "url": "https://www.shakespearetheatre.org/whats-on"
+    }
+   ],
+   "platform": "wordpress",
+   "error": ""
+  },
+  {
+   "url": "https://www.shakespearetheatre.org/",
+   "status": 200,
+   "final_url": "https://www.shakespearetheatre.org/",
+   "title": "STC HOME - Shakespeare Theatre Company",
+   "dates": 7,
+   "jsonld": 0,
+   "jsonld_samples": [],
+   "hints": [],
+   "iframes": [],
+   "event_links": [
+    {
+     "text": "What\u2019s On",
+     "url": "https://www.shakespearetheatre.org/whats-on/"
+    },
+    {
+     "text": "Learn",
+     "url": "https://www.shakespearetheatre.org/education/learning-programs/"
+    },
+    {
+     "text": "GET TICKETS",
+     "url": "https://www.shakespearetheatre.org/events/a-midsummer-nights-dream-26-27/"
+    },
+    {
+     "text": "SUBSCRIBE",
+     "url": "https://www.shakespearetheatre.org/events/26-27-season/"
+    },
+    {
+     "text": "TICKETS",
+     "url": "https://www.shakespearetheatre.org/events/a-raisin-in-the-sun-26-27/"
+    },
+    {
+     "text": "TICKETS",
+     "url": "https://www.shakespearetheatre.org/events/romeo-and-juliet-26-27/"
+    },
+    {
+     "text": "TICKETS",
+     "url": "https://www.shakespearetheatre.org/events/follies-26-27/"
+    },
+    {
+     "text": "TICKETS",
+     "url": "https://www.shakespearetheatre.org/events/stca-the-merry-wives-of-windsor-27/"
+    },
+    {
+     "text": "TICKETS",
+     "url": "https://www.shakespearetheatre.org/events/stca-pericles-27/"
+    },
+    {
+     "text": "REGISTER NOW",
+     "url": "https://www.shakespearetheatre.org/events/youth-teen-classes-26-27/"
+    },
+    {
+     "text": "REGISTER NOW",
+     "url": "https://www.shakespearetheatre.org/events/adult-classes-26-27/"
+    },
+    {
+     "text": "SALON SESSIONS",
+     "url": "https://www.shakespearetheatre.org/events/stc-salon-26-27/"
+    },
+    {
+     "text": "School Programs In Class and Online",
+     "url": "https://www.shakespearetheatre.org/education/school-programs/"
+    },
+    {
+     "text": "BOOK NOW",
+     "url": "https://www.shakespearetheatre.org/tickets-and-events/special-offers/group-sales/"
+    },
+    {
+     "text": "LEARN MORE",
+     "url": "https://www.shakespearetheatre.org/tickets-and-events/special-offers/under-35"
+    },
+    {
+     "text": "PURCHASE",
+     "url": "https://www.shakespearetheatre.org/tickets-and-events/customer-service/gift-certificates"
+    },
+    {
+     "text": "Customer Service",
+     "url": "https://www.shakespearetheatre.org/tickets-and-events/customer-service/"
+    },
+    {
+     "text": "Gift Certificates",
+     "url": "https://www.shakespearetheatre.org/tickets-and-events/customer-service/gift-certificates/"
+    },
+    {
+     "text": "BUY ONLINE",
+     "url": "https://www.shakespearetheatre.org/whats-on"
+    }
+   ],
+   "platform": "wordpress",
+   "error": ""
+  },
+  {
+   "url": "https://www.shakespearetheatre.org/whats-on/",
+   "status": 200,
+   "final_url": "https://www.shakespearetheatre.org/whats-on/",
+   "title": "Whats On - Shakespeare Theatre Company",
+   "dates": 0,
+   "jsonld": 0,
+   "jsonld_samples": [],
+   "hints": [],
+   "iframes": [],
+   "event_links": [
+    {
+     "text": "What\u2019s On",
+     "url": "https://www.shakespearetheatre.org/whats-on/"
+    },
+    {
+     "text": "Learn",
+     "url": "https://www.shakespearetheatre.org/education/learning-programs/"
+    }
+   ],
+   "platform": "wordpress",
+   "error": ""
+  },
+  {
+   "url": "https://www.shakespearetheatre.org/education/learning-programs/",
+   "status": 200,
+   "final_url": "https://www.shakespearetheatre.org/education/learning-programs/",
+   "title": "Learning Programs - Shakespeare Theatre Company",
+   "dates": 0,
+   "jsonld": 0,
+   "jsonld_samples": [],
+   "hints": [],
+   "iframes": [
+    "https://www.youtube.com/embed/Ldau8rJ9P18"
+   ],
+   "event_links": [
+    {
+     "text": "What\u2019s On",
+     "url": "https://www.shakespearetheatre.org/whats-on/"
+    },
+    {
+     "text": "Learn",
+     "url": "https://www.shakespearetheatre.org/education/learning-programs/"
+    },
+    {
+     "text": "MFA Program",
+     "url": "https://academy.shakespearetheatre.org"
+    },
+    {
+     "text": "",
+     "url": "https://www.shakespearetheatre.org/index.php/education/school-programs"
+    },
+    {
+     "text": "Learn More",
+     "url": "https://www.shakespearetheatre.org/education/school-programs/"
+    },
+    {
+     "text": "",
+     "url": "https://www.shakespearetheatre.org/index.php/events/stc-salon-25-26"
+    },
+    {
+     "text": "Learn More",
+     "url": "https://www.shakespearetheatre.org/index.php/events/stc-salon-26-27/"
+    },
+    {
+     "text": "Will on the Hill",
+     "url": "https://www.shakespearetheatre.org/events/will-on-the-hill-2025"
+    },
+    {
+     "text": "Customer Service",
+     "url": "https://www.shakespearetheatre.org/tickets-and-events/customer-service/"
+    },
+    {
+     "text": "Gift Certificates",
+     "url": "https://www.shakespearetheatre.org/tickets-and-events/customer-service/gift-certificates/"
+    },
+    {
+     "text": "BUY ONLINE",
+     "url": "https://www.shakespearetheatre.org/whats-on"
+    }
+   ],
+   "platform": "wordpress",
+   "error": ""
+  },
+  {
+   "url": "https://www.shakespearetheatre.org/index.php/events/26-27-season/",
+   "status": 200,
+   "final_url": "https://www.shakespearetheatre.org/index.php/events/26-27-season/",
+   "title": "26/27 Season - Shakespeare Theatre Company",
+   "dates": 0,
+   "jsonld": 0,
+   "jsonld_samples": [],
+   "hints": [],
+   "iframes": [],
+   "event_links": [
+    {
+     "text": "What\u2019s On",
+     "url": "https://www.shakespearetheatre.org/whats-on/"
+    },
+    {
+     "text": "Learn",
+     "url": "https://www.shakespearetheatre.org/education/learning-programs/"
+    },
+    {
+     "text": "Learn More",
+     "url": "https://www.shakespearetheatre.org/events/a-midsummer-nights-dream-26-27"
+    },
+    {
+     "text": "Learn More",
+     "url": "https://www.shakespearetheatre.org/events/a-raisin-in-the-sun-26-27"
+    },
+    {
+     "text": "Learn More",
+     "url": "https://www.shakespearetheatre.org/events/romeo-and-juliet-26-27"
+    },
+    {
+     "text": "Learn More",
+     "url": "https://www.shakespearetheatre.org/events/follies-26-27"
+    },
+    {
+     "text": "Ticketing Policies page",
+     "url": "https://shakespearetheatre.org/tickets-and-events/customer-service/ticketing-policies"
+    },
+    {
+     "text": "Content Transparency",
+     "url": "https://shakespearetheatre.org/tickets-and-events/customer-service/accessibility/content-transparency"
+    },
+    {
+     "text": "accessibility page",
+     "url": "https://shakespearetheatre.org/tickets-and-events/customer-service/accessibility/"
+    },
+    {
+     "text": "Customer Service",
+     "url": "https://www.shakespearetheatre.org/tickets-and-events/customer-service/"
+    },
+    {
+     "text": "Gift Certificates",
+     "url": "https://www.shakespearetheatre.org/tickets-and-events/customer-service/gift-certificates/"
+    },
+    {
+     "text": "BUY ONLINE",
+     "url": "https://www.shakespearetheatre.org/whats-on"
+    }
+   ],
+   "platform": "wordpress",
+   "error": ""
+  },
+  {
+   "url": "https://www.shakespearetheatre.org/tickets-and-events/customer-service/",
+   "status": 200,
+   "final_url": "https://www.shakespearetheatre.org/tickets-and-events/customer-service/",
+   "title": "Customer Service - Shakespeare Theatre Company",
+   "dates": 0,
+   "jsonld": 0,
+   "jsonld_samples": [],
+   "hints": [],
+   "iframes": [],
+   "event_links": [
+    {
+     "text": "What\u2019s On",
+     "url": "https://www.shakespearetheatre.org/whats-on/"
+    },
+    {
+     "text": "Learn",
+     "url": "https://www.shakespearetheatre.org/education/learning-programs/"
+    },
+    {
+     "text": "Ticket Exchanges",
+     "url": "https://www.shakespearetheatre.org/tickets-and-events/customer-service/ticket-exchanges"
+    },
+    {
+     "text": "Donate Tickets",
+     "url": "https://www.shakespearetheatre.org/tickets-and-events/customer-service/ticket-donations"
+    },
+    {
+     "text": "Request Tickets",
+     "url": "https://www.shakespearetheatre.org/tickets-and-events/customer-service/request-tickets"
+    },
+    {
+     "text": "Gift Certificates",
+     "url": "https://www.shakespearetheatre.org/tickets-and-events/customer-service/gift-certificates"
+    },
+    {
+     "text": "Seating Plan",
+     "url": "https://www.shakespearetheatre.org/tickets-and-events/customer-service/seating-plan"
+    },
+    {
+     "text": "Accessibility",
+     "url": "https://www.shakespearetheatre.org/tickets-and-events/customer-service/accessibility"
+    },
+    {
+     "text": "Customer Service",
+     "url": "https://www.shakespearetheatre.org/tickets-and-events/customer-service/"
+    },
+    {
+     "text": "Gift Certificates",
+     "url": "https://www.shakespearetheatre.org/tickets-and-events/customer-service/gift-certificates/"
+    },
+    {
+     "text": "BUY ONLINE",
+     "url": "https://www.shakespearetheatre.org/whats-on"
+    }
+   ],
+   "platform": "wordpress",
+   "error": ""
+  }
+ ],
+ "best_page": "https://www.shakespearetheatre.org/"
+}

@@ -4,9 +4,9 @@
  "seed_url": "https://www.meetup.com/theweeklydinner",
  "programs": "",
  "access": "",
- "found": "2026-11-28 01:27Z",
+ "found": "2026-11-28 01:53Z",
  "search_hits": [],
- "search_error": "html.duckduckgo.com 0 hits (202, 15084b); www.bing.com 0 hits (200, 116822b); lite.duckduckgo.com 0 hits (202, 15146b)",
+ "search_error": "html.duckduckgo.com 0 hits (202, 15078b); www.bing.com 0 hits (200, 152253b); lite.duckduckgo.com 0 hits (202, 15164b)",
  "probes": [
   {
    "url": "https://www.meetup.com/wp-json/tribe/events/v1/events?per_page=10",
@@ -111,33 +111,33 @@
    "status": 200,
    "final_url": "https://www.meetup.com/",
    "title": "Meetup | Find Local Groups, Events, and Activities Near You",
-   "dates": 33,
-   "jsonld": 11,
+   "dates": 36,
+   "jsonld": 12,
    "jsonld_samples": [
     {
-     "name": "Shut Up & Write!\u00ae Novel Coffee & Teas 950 George Washington Way Richland, WA",
-     "start": "2026-11-29T17:00:00.000Z",
-     "url": "https://www.meetup.com/shutupandwritetricities/events/317357906/"
+     "name": "Tempe Library Improv Club",
+     "start": "2026-12-03T01:00:00.000Z",
+     "url": "https://www.meetup.com/tempe-public-library/events/317299346/"
     },
     {
-     "name": "Shut Up & Write!\u00ae Novel Coffee & Teas 950 George Washington Way Richland, WA",
-     "start": "2026-12-13T17:00:00.000Z",
-     "url": "https://www.meetup.com/shutupandwritetricities/events/317553861/"
+     "name": "Board Game Cafe",
+     "start": "2026-12-01T00:30:00.000Z",
+     "url": "https://www.meetup.com/tempe-public-library/events/317147027/"
     },
     {
-     "name": "Shut Up & Write!\u00ae Novel Coffee & Teas 950 George Washington Way Richland, WA",
-     "start": "2026-12-06T17:00:00.000Z",
-     "url": "https://www.meetup.com/shutupandwritetricities/events/317457400/"
+     "name": "AI Psychosis: Sorting Real Risk from Media Hype",
+     "start": "2026-12-18T01:00:00.000Z",
+     "url": "https://www.meetup.com/azemergingtech/events/315041459/"
     },
     {
-     "name": "Friday Paint-In!",
-     "start": "2026-12-11T18:00:00.000Z",
-     "url": "https://www.meetup.com/collage-in/events/317528448/"
+     "name": "Saturday Coffee @ Kahvi",
+     "start": "2026-11-28T19:00:00.000Z",
+     "url": "https://www.meetup.com/coffee-collective/events/317446147/"
     },
     {
-     "name": "Friday Paint-In!",
-     "start": "2026-12-04T18:00:00.000Z",
-     "url": "https://www.meetup.com/collage-in/events/317431059/"
+     "name": "Phoenix Tech Holiday Networking 2-Year Anniversary Celebration!",
+     "start": "2026-12-10T00:30:00.000Z",
+     "url": "https://www.meetup.com/phoenix-tech-group/events/317305723/"
     }
    ],
    "hints": [
@@ -164,62 +164,66 @@
     "https://www.meetup.com/_next/static/css/4f3c5c8e994eb55f.css",
     "https://www.meetup.com/_next/static/css/aa6c4640b6f2d0a7.css",
     "https://www.meetup.com/register/",
-    "https://www.meetup.com/find/?source=EVENTS&eventType=inPerson&sortField=DATETIME&distance=hundredMiles&location=us--wa--Moses+Lake",
-    "https://www.meetup.com/yvtrekkers/events/317523272/?eventOrigin=home_logged_out_near_location"
+    "https://www.meetup.com/find/?source=EVENTS&eventType=inPerson&sortField=DATETIME&location=us--az--Paradise+Valley",
+    "https://www.meetup.com/ascended-masters-study-inner-growth/events/317497416/?eventOrigin=home_logged_out_near_location"
    ],
    "iframes": [],
    "event_links": [
     {
-     "text": "Free \ud83d\udd2d Special Event: Private Tour of LIGO Hanford + Horn Ra",
-     "url": "https://www.meetup.com/yvtrekkers/events/317523272/?eventOrigin=home_logged_out_near_location"
+     "text": "Free Welcome Gathering: An Evening of Wonder & Connection We",
+     "url": "https://www.meetup.com/ascended-masters-study-inner-growth/events/317497416/?eventOrigin=home_logged_out_near_location"
     },
     {
-     "text": "Free Forks and Friends Sat, Dec 5 \u00b7 9:15 PM UTC by Tri-Citie",
-     "url": "https://www.meetup.com/tri-cities-together/events/317414600/?eventOrigin=home_logged_out_near_location"
+     "text": "Free Christmas Party - Ugly Sweater Wed, Dec 16 \u00b7 1:00 AM UT",
+     "url": "https://www.meetup.com/the-entrepreneur-social/events/317491104/?eventOrigin=home_logged_out_near_location"
     },
     {
-     "text": "Free Friday Paint-In! Fri, Dec 4 \u00b7 6:00 PM UTC by Visual Art",
-     "url": "https://www.meetup.com/collage-in/events/317431059/?eventOrigin=home_logged_out_near_location"
+     "text": "Free AZ OFFLINE MIXER Wed, Dec 2 \u00b7 1:00 AM UTC by AZ OFFLINE",
+     "url": "https://www.meetup.com/az-offline/events/317361166/?eventOrigin=home_logged_out_near_location"
     },
     {
-     "text": "Free Friday Paint-In! Fri, Dec 11 \u00b7 6:00 PM UTC by Visual Ar",
-     "url": "https://www.meetup.com/collage-in/events/317528448/?eventOrigin=home_logged_out_near_location"
+     "text": "Free Phoenix Tech Holiday Networking 2-Year Anniversary Cele",
+     "url": "https://www.meetup.com/phoenix-tech-group/events/317305723/?eventOrigin=home_logged_out_near_location"
     },
     {
-     "text": "Free Shut Up & Write!\u00ae Novel Coffee & Teas 950 George Washin",
-     "url": "https://www.meetup.com/shutupandwritetricities/events/317457400/?eventOrigin=home_logged_out_near_location"
+     "text": "Free Saturday Coffee @ Kahvi Sat, Nov 28 \u00b7 7:00 PM UTC by Co",
+     "url": "https://www.meetup.com/coffee-collective/events/317446147/?eventOrigin=home_logged_out_near_location"
     },
     {
-     "text": "Free Shut Up & Write!\u00ae Novel Coffee & Teas 950 George Washin",
-     "url": "https://www.meetup.com/shutupandwritetricities/events/317553861/?eventOrigin=home_logged_out_near_location"
+     "text": "Free AI Psychosis: Sorting Real Risk from Media Hype Fri, De",
+     "url": "https://www.meetup.com/azemergingtech/events/315041459/?eventOrigin=home_logged_out_near_location"
     },
     {
-     "text": "Free Shut Up & Write!\u00ae Novel Coffee & Teas 950 George Washin",
-     "url": "https://www.meetup.com/shutupandwritetricities/events/317357906/?eventOrigin=home_logged_out_near_location"
+     "text": "Free Board Game Cafe Tue, Dec 1 \u00b7 12:30 AM UTC by Tempe Publ",
+     "url": "https://www.meetup.com/tempe-public-library/events/317147027/?eventOrigin=home_logged_out_near_location"
+    },
+    {
+     "text": "Free Tempe Library Improv Club Thu, Dec 3 \u00b7 1:00 AM UTC by T",
+     "url": "https://www.meetup.com/tempe-public-library/events/317299346/?eventOrigin=home_logged_out_near_location"
     },
     {
      "text": "See all events",
-     "url": "https://www.meetup.com/find/?source=EVENTS&eventType=online&customStartDate=2026-11-27T19%3A43%3A25-05%3A00&customEndDate=2026-11-28T23%3A59%3A59-05%3A00&location=us--wa--Moses+Lake"
+     "url": "https://www.meetup.com/find/?source=EVENTS&eventType=online&customStartDate=2026-11-27T20%3A18%3A48-05%3A00&customEndDate=2026-11-28T23%3A59%3A59-05%3A00&location=us--az--Paradise+Valley"
     },
     {
-     "text": "Free Medium Rare: A Multimodality Practice Circle Sat, Nov 2",
-     "url": "https://www.meetup.com/thespiritualcompass/events/316309969/?eventOrigin=home_logged_out_online"
+     "text": "Free FREE Bipolar & Depression Peer-Run Support Group Sat, N",
+     "url": "https://www.meetup.com/free-depression-bipolar-support-peer-run-group/events/317335673/?eventOrigin=home_logged_out_online"
     },
     {
-     "text": "Free The Sacred Empowered Feminine Sat, Nov 28 \u00b7 1:00 AM UTC",
-     "url": "https://www.meetup.com/lightworkers-now/events/317209157/?eventOrigin=home_logged_out_online"
+     "text": "Free FREE DAILY Online 30-minute Meditation Session Sat, Nov",
+     "url": "https://www.meetup.com/himalayan-samarpan-meditation/events/317533666/?eventOrigin=home_logged_out_online"
     },
     {
-     "text": "Free Northlanders Sat, Nov 28 \u00b7 1:45 AM UTC \u00b7 Online by Port",
-     "url": "https://www.meetup.com/meetup-group-philosophy101/events/317008443/?eventOrigin=home_logged_out_online"
+     "text": "Free Hell Yeah! It's Game Night Sat, Nov 28 \u00b7 2:30 AM UTC \u00b7 ",
+     "url": "https://www.meetup.com/the-atheist-odyssey/events/317323937/?eventOrigin=home_logged_out_online"
     },
     {
-     "text": "Free Open Philosophy Discussion Sat, Nov 28 \u00b7 1:00 AM UTC \u00b7 ",
-     "url": "https://www.meetup.com/philosophy-discussions-3/events/317593559/?eventOrigin=home_logged_out_online"
+     "text": "Free Midweek Mind Reset  Sat, Nov 28 \u00b7 2:30 AM UTC \u00b7 Online ",
+     "url": "https://www.meetup.com/secrets-for-higher-dimensional-living/events/317320897/?eventOrigin=home_logged_out_online"
     },
     {
      "text": "Discover events and groups See who's hosting local events fo",
-     "url": "https://www.meetup.com/find/?location=us--wa--Moses+Lake"
+     "url": "https://www.meetup.com/find/?location=us--az--Paradise+Valley"
     },
     {
      "text": "Start a group to host events Create your own Meetup group, a",

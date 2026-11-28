@@ -1,0 +1,100 @@
+{
+ "row": "163",
+ "name": "Zen Buddhist Sangha of Washington",
+ "seed_url": "https://www.washingtonzen.org/",
+ "programs": "",
+ "access": "",
+ "found": "2026-11-28 02:00Z",
+ "search_hits": [],
+ "search_error": "html.duckduckgo.com Timeout; www.bing.com 0 hits (200, 123659b); lite.duckduckgo.com Timeout",
+ "probes": [
+  {
+   "url": "https://www.washingtonzen.org/wp-json/tribe/events/v1/events?per_page=10",
+   "status": "HTTPError",
+   "events": 0
+  },
+  {
+   "url": "https://www.washingtonzen.org/events/?ical=1",
+   "status": "HTTPError",
+   "events": 0
+  },
+  {
+   "url": "https://www.washingtonzen.org/?ical=1",
+   "status": 200,
+   "events": 0,
+   "head": "<!DOCTYPE html>\n<html lang=\"en\">\n\t<head>\n\t\t<title>Ka Shin Zendo Genzo-Ji - Home</title><meta property=\"og:site_name\" content=\"Ka Shin Zendo Genzo-Ji\" />\n<meta property=\"og:title\" content=\"Ka Shin Zendo Genzo-Ji\" />\n<meta property=\"og:description\" content=\"Zen Buddhist meditation group in Washington "
+  }
+ ],
+ "pages": [
+  {
+   "url": "https://www.washingtonzen.org/",
+   "status": 200,
+   "final_url": "https://www.washingtonzen.org/",
+   "title": "Ka Shin Zendo Genzo-Ji - Home",
+   "dates": 0,
+   "jsonld": 0,
+   "jsonld_samples": [],
+   "hints": [],
+   "iframes": [],
+   "event_links": [
+    {
+     "text": "Schedule, practice, donations",
+     "url": "https://www.washingtonzen.org/schedule-practice-donations.html"
+    },
+    {
+     "text": "Retreats and events",
+     "url": "https://www.washingtonzen.org/retreats-and-events.html"
+    }
+   ],
+   "platform": "",
+   "error": ""
+  },
+  {
+   "url": "https://www.washingtonzen.org/schedule-practice-donations.html",
+   "status": 200,
+   "final_url": "https://www.washingtonzen.org/schedule-practice-donations.html",
+   "title": "Schedule, practice, donations - Ka Shin Zendo Genzo-Ji",
+   "dates": 0,
+   "jsonld": 0,
+   "jsonld_samples": [],
+   "hints": [],
+   "iframes": [],
+   "event_links": [
+    {
+     "text": "Schedule, practice, donations",
+     "url": "https://www.washingtonzen.org/schedule-practice-donations.html"
+    },
+    {
+     "text": "Retreats and events",
+     "url": "https://www.washingtonzen.org/retreats-and-events.html"
+    }
+   ],
+   "platform": "",
+   "error": ""
+  },
+  {
+   "url": "https://www.washingtonzen.org/retreats-and-events.html",
+   "status": 200,
+   "final_url": "https://www.washingtonzen.org/retreats-and-events.html",
+   "title": "Retreats and events - Ka Shin Zendo Genzo-Ji",
+   "dates": 3,
+   "jsonld": 0,
+   "jsonld_samples": [],
+   "hints": [],
+   "iframes": [],
+   "event_links": [
+    {
+     "text": "Schedule, practice, donations",
+     "url": "https://www.washingtonzen.org/schedule-practice-donations.html"
+    },
+    {
+     "text": "Retreats and events",
+     "url": "https://www.washingtonzen.org/retreats-and-events.html"
+    }
+   ],
+   "platform": "",
+   "error": ""
+  }
+ ],
+ "best_page": "https://www.washingtonzen.org/retreats-and-events.html"
+}

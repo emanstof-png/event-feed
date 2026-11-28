@@ -4,9 +4,9 @@
  "seed_url": "https://www.jconnect.org/20s-30s-and-40s",
  "programs": "",
  "access": "",
- "found": "2026-11-28 01:26Z",
+ "found": "2026-11-28 01:51Z",
  "search_hits": [],
- "search_error": "html.duckduckgo.com 0 hits (202, 15145b); www.bing.com 0 hits (200, 120007b); lite.duckduckgo.com 0 hits (202, 15146b)",
+ "search_error": "html.duckduckgo.com 0 hits (202, 15134b); www.bing.com 0 hits (200, 133393b); lite.duckduckgo.com 0 hits (202, 15134b)",
  "probes": [
   {
    "url": "https://www.shalomdc.org/wp-json/tribe/events/v1/events?per_page=10",

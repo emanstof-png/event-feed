@@ -1,9 +1,8 @@
 Harvard Club of Washington DC (hcdc)
-best page: https://hcdc.clubs.harvard.edu/article.html?aid=1787 (status 200, 1 date strings, 0 JSON-LD events)
-fetched 2026-11-28 01:25Z
+best page: https://dc.clubs.harvard.edu/events.html (status 200, 1 date strings, 0 JSON-LD events)
+fetched 2026-11-28 01:51Z
 
 
-Harvard Club of Washington, DC
 Harvard Club of Washington, DC
 Toggle navigation
 MENU
@@ -12,34 +11,196 @@ Home
 Login 
 Alumni/Student Login
 Non-Alumni Login/Register
-International Networking Soiree with Champagne, Art, and Live Jazz
-Thursday, May 16 from 7 to 9 pm at the Embassy Row Hotel in Washington, DC
-Join members of the Ivy Social Club, the International Club of DC, the Rotary Club, Princeton Club, and other alumni clubs at the Embassy Row Hotel, one of Washington’s premiere boutique hotels in the heart of DuPont Circle, for a delightful evening of networking and socializing as you enjoy live jazz music and artwork presented by prominent local artists along with champagne specials.
-This is a wonderful opportunity to network and socialize with other professionals as you make new friends. You are welcome to attend on your own or with friends! As you meet other guests enjoy champagne, wine, or specialty cocktails available for purchase at the bar.
-Business or cocktail attire requested. Tickets in advance are $10 and $15 at the entrance, pending space availability.
-Register at:
-https://www.eventbrite.com/e/international-networking-soiree-with-champagne-art-and-live-jazz-at-the-luxurious-embassy-row-hotel-tickets-60616797473
-Contact:
- Bruce McBarnette (Princeton Club), 
-brucemcbarnette@gmail.com
-, (703)404-8429
-When:
-                7:00PM - 9:00PM Thu 16 May 2019, 
+Join
+Upcoming Events
+Past Events
+Supper Club Holiday Celebration at Filomena
+1:00PM - 2:30PM Sun 6 Dec 2026, 
 Eastern timezone
+tell a friend
+read more
 Add to Calendar
  Apple
  Google
  Outlook
-Where:
-Embassy Row Hotel
-2015 Massachusetts Avenue NW  
-Washington, DC 20036 
-        [ 
-Get Directions
- ]
-Harvard Alumni Association
-Harvard Program and Events
-Privacy Policy
+Practical Magic 2 with Bob Fitzpatrick '16, Head of Production and Development at Blossom Films
+7:00PM - 8:00PM Sun 6 Dec 2026, 
+Eastern timezone
+tell a friend
+read more
+Add to Calendar
+ Apple
+ Google
+ Outlook
+Festive Happy Hour at the University Club
+6:30PM - 8:30PM Thu 10 Dec 2026, 
+Eastern timezone
+tell a friend
+read more
+Add to Calendar
+ Apple
+ Google
+ Outlook
+La Table Française
+10:30AM - 11:30AM Sat 12 Dec 2026, 
+Eastern timezone
+tell a friend
+read more
+Add to Calendar
+ Apple
+ Google
+ Outlook
+The Nutcracker – Virginia National Ballet
+5:00PM - 7:30PM Sun 13 Dec 2026, 
+Eastern timezone
+tell a friend
+read more
+Add to Calendar
+ Apple
+ Google
+ Outlook
+Visit to The National Museum of American Diplomacy & Curator Lecture | Members Only
+10:15AM - 12:00PM Mon 14 Dec 2026, 
+Eastern timezone
+tell a friend
+read more
+Add to Calendar
+ Apple
+ Google
+ Outlook
+Jazz at the Botanical Garden & Visiting Season’s Greenings: National Parks and Historic Places 202
+5:30PM - 7:30PM Tue 15 Dec 2026, 
+Eastern timezone
+tell a friend
+read more
+Add to Calendar
+ Apple
+ Google
+ Outlook
+National Wreaths Across America Day
+7:00AM - 5:00PM Sat 19 Dec 2026, 
+Eastern timezone
+tell a friend
+read more
+Add to Calendar
+ Apple
+ Google
+ Outlook
+Dr. Seuss’ How The Grinch Stole Christmas! The Musical
+3:00PM - 4:30PM Sun 27 Dec 2026, 
+Eastern timezone
+						Family Outing
+tell a friend
+read more
+Add to Calendar
+ Apple
+ Google
+ Outlook
+Washington Capitals vs Carolina Hurricanes
+7:00PM - 10:30PM Wed 3 Mar 2027, 
+Eastern timezone
+						Wednesday, March 3, 2027
+tell a friend
+read more
+Add to Calendar
+ Apple
+ Google
+ Outlook
+Dec 2027
+Nov 2027
+Oct 2027
+Sep 2027
+Aug 2027
+Jul 2027
+Jun 2027
+May 2027
+Apr 2027
+Mar 2027
+Feb 2027
+Jan 2027
+Dec 2026
+Nov 2026
+Oct 2026
+Sep 2026
+Aug 2026
+Jul 2026
+Jun 2026
+May 2026
+Apr 2026
+Mar 2026
+Feb 2026
+Jan 2026
+Dec 2025
+Nov 2025
+Oct 2025
+Sep 2025
+Aug 2025
+Jul 2025
+Jun 2025
+May 2025
+Apr 2025
+Mar 2025
+Feb 2025
+Jan 2025
+Dec 2024
+Nov 2024
+Oct 2024
+Sep 2024
+Aug 2024
+Jul 2024
+Jun 2024
+May 2024
+Apr 2024
+Mar 2024
+Feb 2024
+Jan 2024
+SUN
+MON
+TUE
+WED
+THU
+FRI
+SAT
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+Home
+Events
+Donate
+About Us
+Contact Us
+Memberships
+Login
 Terms of Use
-                                                Powered by  
+Privacy Policy
+Uniform Disclosure
+                © Copyright Harvard Club of Washington, DC, ALL RIGHTS RESERVED.
+Powered by  
  AlumniMagnet
