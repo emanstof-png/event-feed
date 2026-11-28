@@ -1,8 +1,26 @@
 {
  "row": "144",
  "name": "OneTable (DC Shabbat dinners)",
- "page": "https://onetable.org/2030s/",
- "discovered": "2026-11-28 01:33Z",
+ "page": "https://dinners.onetable.org/landing/dc_metro_area",
+ "discovered": "2026-11-28 01:59Z",
  "error": "",
- "candidates": []
+ "candidates": [
+  {
+   "url": "https://app-prod.internal.onetable.org/settings",
+   "method": "GET",
+   "headers": {
+    "accept": "application/json, text/plain, */*",
+    "origin": "https://dinners.onetable.org",
+    "referer": "https://dinners.onetable.org/"
+   },
+   "post_data": null,
+   "status": 200,
+   "content_type": "application/json; charset=utf-8",
+   "bytes": 122366,
+   "date_count": 42,
+   "body": "{\"global\":{\"maintenance\":{\"site_is_offline\":false,\"maintenance_title\":\"Site not found\",\"maintenance_subtitle\":\"Work in progress\",\"maintenance_message\":\"Hello, we are currently making improvements to the platform. We will be fully online in a few minutes.\"},\"wordpress_host\":\"https://onetable.org\",\"wordpress_menu_id\":2,\"display_timezone_offsets\":false,\"enable_canadian_provinces\":true,\"enable_canadian_currency\":true,\"enable_spanish_provinces\":false},\"copy\":{\"menu\":{\"logout\":\"Log Out\",\"settings\":\"Profile Settings\",\"become_host\":\"Become a Host\",\"already_a_host\":\"You are already a host! \\u003ca href=\\\"/events\\\"\\u003eStart planning your next dinner\\u003c/a\\u003e.\",\"create_dinner\":\"Create Dinner\",\"create_dinner_menu_item\":\"Create Dinner\",\"manage_events\":\"Manage Your Dinners\",\"create_community_dinner\":\"Create Community Dinner\",\"create_series_event\":\"Create Series Event\",\"virtual_area_link_text\":\"Virtual\",\"additional_area_menu_items\":\"[{ \\\"label\\\": \\\"Virtual\\\", \\\"route\\\": \\\"/virtual\\\", \\\"title\\\": \\\"Virtual\\\" }]\",\"give_feedback_label_option\":\"Give Feedback\",\"give_feedback_link\":\"https://onetableshabbat.surveysparrow.com/s/onetable-feedback/tt-nANWQ\"},\"rsvp\":{\"you\":\"You\",\"back\":\"Back\",\"subscribe\":\"Subscribe\",\"cost\":\"Price\",\"fees\":\"Contribution to OneTable\",\"next\":\"Next\",\"email\":\"Email\",\"seats\":\"guests\",\"terms\":\"Terms and Cancelation Policies.\",\"total\":\"Total\",\"change\":\"Change\",\"coupon\":\"Coupon\",\"submit\":\"Complete RSVP\",\"x_seat\":\"%1$s seat\",\"x_seats\":\"%1$s seats\",\"donation\":\"OneTable Donation\",\"x_guests\":\"%1$s guests\",\"is_hosting\":\" is hosting\",\"phone_label\":\"Phone Number\",\"x_seat_at_y\":\"%1$s seat @ %2$s\",\"select_seats\":\"Select how many seats\",\"select_table\":\"Select your table\",\"x_seats_at_y\":\"%1$s seats @ %2$s\",\"you_agree_to\":\"By purchasing you're agreeing to the \",\"payment_title\":\"Please enter payment information.\",\"card_pay_title\":\"Payment methods\",\"declined_title\":\"We're so sorry you can't make it\",\"payment_submit\":\"Submit payment\",\"card_name_label\":\"Full name on card\",\"declined_button\":\"Decline Invitation\",\"transaction_fee\":\"Transaction Fee\",\"declined_message\":\"Leave a message for the host (optional)\",\"payment_subtitle\":\"You will not be charged until your reservation is confirmed\",\"you_will_receive\":\"You will receive a refund for cancelations made 48 hours or more before the event. Cancelations made less than 48 hours before the event will not be refunded.\",\"card_coupon_apply\":\"APPLY\",\"card_coupon_label\":\"Insert your coupon\",\"card_coupon_title\":\"Have you got a coupon?\",\"phone_placeholder\":\"\",\"card_details_label\":\"Card Number\",\"message_placeholder\":\"Message the host (optional)\",\"remember_card_label\":\"Save this card for future use\",\"card_cvc_placeholder\":\"CVC\",\"full_name_of_guest_x\":\"Full name of guest %1$s\",\"card_name_placeholder\":\"\",\"card_year_placeholder\":\"YY\",\"register_guests_title\":\"Register Your Guests\",\"card_month_placeholder\":\"MM\",\"dontation_option_label\":\"I would like to make a donation to OneTable.\",\"tranaction_fee_tooltip\":\"This is info about the transaction fee.\",\"card_number_placeholder\":\"Card number\",\"manual_approval_warning\":\"Registration for this event requires approval from the host. You'll receive an email from the host when your registration is confirmed.\",\"series_event_manual_approval_warning\":\"Please note that registration for some of the event series selected requires approval from the host. If your RSVP is approved, you must give the host 48 hours notice if you do not plan to attend.\",\"include_me_in_the_partnership_mailing_list_warning\":\"This dinner is being hosted as part of a partnership between OneTable and another organization. By registering for this dinner, you are agreeing to receive email communications from both organizations.\",\"potluck_selection_title\":\"Choose Your Contribution (Optional)\",\"all_potluck_items_claimed\":\"All of the potluck options have been chosen\",\"register_guests_description\":\"Please provide basic info on your guests.\",\"potluck_selection_instructions\":\"Your host is excited to welcome you!",
+   "replay_status": 200,
+   "replay_ok": true
+  }
+ ]
 }

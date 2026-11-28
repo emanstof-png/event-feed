@@ -1,0 +1,26 @@
+{
+ "row": "164",
+ "name": "Opening Heart Mindfulness Community",
+ "page": "https://www.openingheartmindfulness.org/newcomers-ohmc",
+ "discovered": "2026-11-28 02:02Z",
+ "error": "",
+ "candidates": [
+  {
+   "url": "https://assets.squarespace.com/universal/scripts-compressed/common-vendors-99531598e16d62e5-min.en-US.js",
+   "method": "GET",
+   "headers": {
+    "accept": "*/*",
+    "origin": "https://www.openingheartmindfulness.org",
+    "referer": "https://www.openingheartmindfulness.org/"
+   },
+   "post_data": null,
+   "status": 200,
+   "content_type": "text/javascript",
+   "bytes": 754136,
+   "date_count": 12,
+   "body": "(globalThis.rspackChunkextract_css||=[]).push([[47511],{235362(l,y,_){\"use strict\";_.d(y,{uA:()=>m0,Ww:()=>dt,Pf:()=>Mn,Zr:()=>Zr,RF:()=>Y_,ES:()=>Pn});var o=_(212721),t=(function(){function a(e){this.keys=e,this.index=Object.create(null),this.size=e.length,this.last=this.size-1;for(var r=0;r<e.length;)this.index[e[r]]=r,r++}return a.prototype.get=function(e){var r=this.index[e];return r===void 0?-1:r},a})(),d=new t([]),f={},v=(function(){function a(e,r){this.block=e,this.indices=r,this.type=\"origin\"}return a.prototype.getIndex=function(e){var r=this.indices[e];if(r===void 0){/* istanbul ignore next -- @preserve */return f[e]||(console.log('Error: failed to locate index/value set named \"'.concat(e,'\"')),f[e]=!0),d}return r},a.prototype.getValues=function(e){return this.getIndex(e).keys},a})(),g=function(a,e,r){return{type:\"digits\",name:a,dim0:e,values:r}},E=function(a){return{type:\"field\",name:a}},b=function(a,e){return new v(a,e)},C=function(a,e,r){return{type:\"scope\",name:a,identifier:e,block:r}},p=function(a,e,r){return{type:\"scopemap\",name:a,fields:e,block:r}},c=function(a,e){return{type:\"vector\",name:a,dims:e}},T=(function(){function a(e){this.offset=e}return a.prototype.get=function(e){return e.get(this.offset)},a})(),h=(function(){function a(e){this.map=e}return a.prototype.get=function(e){return this.map[e]},a})(),M=(function(){function a(e,r,n){this.offset=e,this.index=r,this.values=n,this.size2=n.length*2}return a.prototype.get=function(e,r,n){if(n>this.values.length&&(n=this.values.length),n>0){var i=this.index.get(r);if(i!==-1){var s=this.offset+i*this.size2+(n-1)*2,u=e.get(s),m=e.get(s+1);return[u,Number(m)]}}return a.EMPTY},a.EMPTY=[\"\",0],a})(),S=(function(){function a(e,r){this.keysets=r,this.offset=e+1,this.len=r.length,this.last=this.len-1,this.factors=new Array(this.len);for(var n=0;n<this.len;n++){for(var i=1,s=n+1;s<this.len;s++)i*=this.keysets[s].size;this.factors[n]=i}}return a.prototype.valid=function(){for(var e=[],r=0;r<arguments.length;r++)e[r]=arguments[r];return this._index(e,0,this.offset)!==-1},a.prototype.exists=function(e){return e.get(this.offset-1)===\"E\"},a.prototype.get=function(e){for(var r=[],n=1;n<arguments.length;n++)r[n-1]=arguments[n];if(r.length!==this.len)throw new Error(\"Warning: impossible vector lookup with keys \".concat(JSON.stringify(r)));return this.exists(e)?this._get(e,r,0,this.offset):\"\"},a.prototype.mapping=function(e){return this.exists(e)?this._mapping(e,0,0):{}},a.prototype._index=function(e,r,n){for(var i=e[r],s=typeof i==\"string\"?[i]:i,u=s.length-1,m=0;m<s.length;m++){var A=s[m],O=this.keysets[r].get(A);if(O===-1){if(m!==u)continue;return-1}var L=n+O*this.factors[r];if(r===this.last)return L;var z=this._index(e,r+1,L);if(z!==-1)return z}return-1},a.prototype._get=function(e,r,n,i){for(var s=r[n],u=typeof s==\"string\"?[s]:s,m=u.length-1,A=0;A<u.length;A++){var O=u[A],L=this.keysets[n].get(O);if(L===-1){if(A!==m)continue;return\"\"}var z=i+L*this.factors[n],q=n===this.last?e.get(z):this._get(e,r,n+1,z);if(q)return q}return\"\"},a.prototype._mapping=function(e,r,n){for(var i={},s=this.keysets[r].keys,u=r===this.last,m=0;m<s.length;m++){var A=s[m];if(u){var O=e.get(this.offset+m+n);O&&(i[A]=O)}else i[A]=this._mapping(e,r+1,n+m*this.factors[r])}return i},a})(),N=new t([\"other\",\"zero\",\"one\",\"two\",\"few\",\"many\"]),x=new t([\"none\",\"short\",\"narrow\",\"variant\",\"stand-alone\",\"long\",\"menu\"]),G=new t([\"none\",\"sensitive\"]),w=new t([\"none\",\"casing\"]),W=[\"era\",\"year\",\"quarter\",\"month\",\"week\",\"weekday\",\"weekdayOfMonth\",\"sun\",\"mon\",\"tue\",\"wed\",\"thu\",\"fri\",\"sat\",\"day\",\"dayperiod\",\"hour\",\"minute\",\"second\",\"zone\"],te=[\"short\",\"narrow\",\"wide\"],I=[\"year\",\"quarter\",\"month\",\"week\",\"day\",\"sun\",\"mon\",\"tue\",\"wed\",\"thu\",\"fri\",\"sat\",\"hour\",\"minute\",\"second\"],D=new t(W),R=new t(te),P=new t(I),j=function(a,e){for(var r=[],n=a;n<=e;n++)r.push(String(n));return new t(r)},F=j(0,0),oe=j(0,1),Z=j(0,236),se=F,Q=j(1,12),we=[\"G\",\"y\",\"M\",\"d\",\"a\",\"B\",\"H\",\"h\",\"m\",\"s\"],Se=[\"noon\",\"midnight\",\"am\",\"pm\",\"morning1\",\"morning2",
+   "replay_status": 200,
+   "replay_ok": true
+  }
+ ]
+}

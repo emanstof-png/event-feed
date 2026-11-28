@@ -2,7 +2,7 @@
  "row": "75",
  "name": "East City Bookshop",
  "page": "https://www.eastcitybookshop.com/events",
- "discovered": "2026-11-28 01:26Z",
+ "discovered": "2026-11-28 01:52Z",
  "error": "",
  "candidates": [
   {
@@ -27,11 +27,11 @@
    "method": "POST",
    "headers": {
     "accept": "*/*",
-    "content-type": "multipart/form-data; boundary=----WebKitFormBoundaryFZAQh1GqUzxwuja3",
+    "content-type": "multipart/form-data; boundary=----WebKitFormBoundarytpoAV0Ll6poayDUz",
     "origin": "https://www.eastcitybookshop.com",
     "referer": "https://www.eastcitybookshop.com/"
    },
-   "post_data": "------WebKitFormBoundaryFZAQh1GqUzxwuja3\r\nContent-Disposition: form-data; name=\"uuid\"\r\n\r\n6ea6e74-e4a0-ac42-e636-62e14b6eb5dc\r\n------WebKitFormBoundaryFZAQh1GqUzxwuja3\r\nContent-Disposition: form-data; name=\"session_id\"\r\n\r\nundefined\r\n------WebKitFormBoundaryFZAQh1GqUzxwuja3\r\nContent-Disposition: form-data; name=\"log_url\"\r\n\r\n/events\r\n------WebKitFormBoundaryFZAQh1GqUzxwuja3\r\nContent-Disposition: form-data; name=\"webstore_name\"\r\n\r\n9900977\r\n------WebKitFormBoundaryFZAQh1GqUzxwuja3--\r\n",
+   "post_data": "------WebKitFormBoundarytpoAV0Ll6poayDUz\r\nContent-Disposition: form-data; name=\"uuid\"\r\n\r\n8c43b55-3522-437f-cbb6-444cb2558e5f\r\n------WebKitFormBoundarytpoAV0Ll6poayDUz\r\nContent-Disposition: form-data; name=\"session_id\"\r\n\r\nundefined\r\n------WebKitFormBoundarytpoAV0Ll6poayDUz\r\nContent-Disposition: form-data; name=\"log_url\"\r\n\r\n/events\r\n------WebKitFormBoundarytpoAV0Ll6poayDUz\r\nContent-Disposition: form-data; name=\"webstore_name\"\r\n\r\n9900977\r\n------WebKitFormBoundarytpoAV0Ll6poayDUz--\r\n",
    "status": 200,
    "content_type": "application/json",
    "bytes": 36313,

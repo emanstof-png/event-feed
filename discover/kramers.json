@@ -2,7 +2,7 @@
  "row": "74",
  "name": "Kramers",
  "page": "https://kramers.com/events?field_event_category_tid=All",
- "discovered": "2026-11-28 01:26Z",
+ "discovered": "2026-11-28 01:52Z",
  "error": "",
  "candidates": [
   {
@@ -10,11 +10,11 @@
    "method": "POST",
    "headers": {
     "accept": "*/*",
-    "content-type": "multipart/form-data; boundary=----WebKitFormBoundaryPUDY4OQRextCCISA",
+    "content-type": "multipart/form-data; boundary=----WebKitFormBoundaryrT8Y07cNBStcSJKB",
     "origin": "https://kramers.com",
     "referer": "https://kramers.com/"
    },
-   "post_data": "------WebKitFormBoundaryPUDY4OQRextCCISA\r\nContent-Disposition: form-data; name=\"uuid\"\r\n\r\n5cbb60b-7d78-d5c-b4a6-72a8bd68bc8\r\n------WebKitFormBoundaryPUDY4OQRextCCISA\r\nContent-Disposition: form-data; name=\"session_id\"\r\n\r\nMw9ZkFAsnqribpZVBj9CgkxDXzai\r\n------WebKitFormBoundaryPUDY4OQRextCCISA\r\nContent-Disposition: form-data; name=\"log_url\"\r\n\r\n/events\r\n------WebKitFormBoundaryPUDY4OQRextCCISA\r\nContent-Disposition: form-data; name=\"store_id\"\r\n\r\n1430969\r\n------WebKitFormBoundaryPUDY4OQRextCCISA\r\nContent-Disposition: form-data; name=\"page_id\"\r\n\r\n25382\r\n------WebKitFormBoundaryPUDY4OQRextCCISA--\r\n",
+   "post_data": "------WebKitFormBoundaryrT8Y07cNBStcSJKB\r\nContent-Disposition: form-data; name=\"uuid\"\r\n\r\n4110ad-05a2-4334-84b-16b28786048\r\n------WebKitFormBoundaryrT8Y07cNBStcSJKB\r\nContent-Disposition: form-data; name=\"session_id\"\r\n\r\na3Zmxhlz88xMNSEByJNYa_3wzp-S\r\n------WebKitFormBoundaryrT8Y07cNBStcSJKB\r\nContent-Disposition: form-data; name=\"log_url\"\r\n\r\n/events\r\n------WebKitFormBoundaryrT8Y07cNBStcSJKB\r\nContent-Disposition: form-data; name=\"store_id\"\r\n\r\n1430969\r\n------WebKitFormBoundaryrT8Y07cNBStcSJKB\r\nContent-Disposition: form-data; name=\"page_id\"\r\n\r\n25382\r\n------WebKitFormBoundaryrT8Y07cNBStcSJKB--\r\n",
    "status": 200,
    "content_type": "application/json",
    "bytes": 51192,
@@ -28,11 +28,11 @@
    "method": "POST",
    "headers": {
     "accept": "*/*",
-    "content-type": "multipart/form-data; boundary=----WebKitFormBoundaryYt8qusd5dA2D1WKv",
+    "content-type": "multipart/form-data; boundary=----WebKitFormBoundaryLSg4EK5Ewla795vb",
     "origin": "https://kramers.com",
     "referer": "https://kramers.com/"
    },
-   "post_data": "------WebKitFormBoundaryYt8qusd5dA2D1WKv\r\nContent-Disposition: form-data; name=\"uuid\"\r\n\r\n5cbb60b-7d78-d5c-b4a6-72a8bd68bc8\r\n------WebKitFormBoundaryYt8qusd5dA2D1WKv\r\nContent-Disposition: form-data; name=\"session_id\"\r\n\r\nMw9ZkFAsnqribpZVBj9CgkxDXzai\r\n------WebKitFormBoundaryYt8qusd5dA2D1WKv\r\nContent-Disposition: form-data; name=\"log_url\"\r\n\r\n/events\r\n------WebKitFormBoundaryYt8qusd5dA2D1WKv\r\nContent-Disposition: form-data; name=\"store_id\"\r\n\r\n1430969\r\n------WebKitFormBoundaryYt8qusd5dA2D1WKv\r\nContent-Disposition: form-data; name=\"start_date\"\r\n\r\n20261128\r\n------WebKitFormBoundaryYt8qusd5dA2D1WKv\r\nContent-Disposition: form-data; name=\"offset\"\r\n\r\n0\r\n------WebKitFormBoundaryYt8qusd5dA2D1WKv\r\nContent-Disposition: form-data; name=\"limit\"\r\n\r\n20\r\n------WebKitFormBoundaryYt8qusd5dA2D1WKv--\r\n",
+   "post_data": "------WebKitFormBoundaryLSg4EK5Ewla795vb\r\nContent-Disposition: form-data; name=\"uuid\"\r\n\r\n4110ad-05a2-4334-84b-16b28786048\r\n------WebKitFormBoundaryLSg4EK5Ewla795vb\r\nContent-Disposition: form-data; name=\"session_id\"\r\n\r\na3Zmxhlz88xMNSEByJNYa_3wzp-S\r\n------WebKitFormBoundaryLSg4EK5Ewla795vb\r\nContent-Disposition: form-data; name=\"log_url\"\r\n\r\n/events\r\n------WebKitFormBoundaryLSg4EK5Ewla795vb\r\nContent-Disposition: form-data; name=\"store_id\"\r\n\r\n1430969\r\n------WebKitFormBoundaryLSg4EK5Ewla795vb\r\nContent-Disposition: form-data; name=\"start_date\"\r\n\r\n20261128\r\n------WebKitFormBoundaryLSg4EK5Ewla795vb\r\nContent-Disposition: form-data; name=\"offset\"\r\n\r\n0\r\n------WebKitFormBoundaryLSg4EK5Ewla795vb\r\nContent-Disposition: form-data; name=\"limit\"\r\n\r\n20\r\n------WebKitFormBoundaryLSg4EK5Ewla795vb--\r\n",
    "status": 200,
    "content_type": "application/json",
    "bytes": 26123,
@@ -46,11 +46,11 @@
    "method": "POST",
    "headers": {
     "accept": "*/*",
-    "content-type": "multipart/form-data; boundary=----WebKitFormBoundaryyjBvfA0OBrRRNUxu",
+    "content-type": "multipart/form-data; boundary=----WebKitFormBoundarytlZo6yQGqiVnMf5R",
     "origin": "https://kramers.com",
     "referer": "https://kramers.com/"
    },
-   "post_data": "------WebKitFormBoundaryyjBvfA0OBrRRNUxu\r\nContent-Disposition: form-data; name=\"uuid\"\r\n\r\n5cbb60b-7d78-d5c-b4a6-72a8bd68bc8\r\n------WebKitFormBoundaryyjBvfA0OBrRRNUxu\r\nContent-Disposition: form-data; name=\"session_id\"\r\n\r\nundefined\r\n------WebKitFormBoundaryyjBvfA0OBrRRNUxu\r\nContent-Disposition: form-data; name=\"log_url\"\r\n\r\n/events\r\n------WebKitFormBoundaryyjBvfA0OBrRRNUxu\r\nContent-Disposition: form-data; name=\"webstore_name\"\r\n\r\n1562584\r\n------WebKitFormBoundaryyjBvfA0OBrRRNUxu--\r\n",
+   "post_data": "------WebKitFormBoundarytlZo6yQGqiVnMf5R\r\nContent-Disposition: form-data; name=\"uuid\"\r\n\r\n4110ad-05a2-4334-84b-16b28786048\r\n------WebKitFormBoundarytlZo6yQGqiVnMf5R\r\nContent-Disposition: form-data; name=\"session_id\"\r\n\r\nundefined\r\n------WebKitFormBoundarytlZo6yQGqiVnMf5R\r\nContent-Disposition: form-data; name=\"log_url\"\r\n\r\n/events\r\n------WebKitFormBoundarytlZo6yQGqiVnMf5R\r\nContent-Disposition: form-data; name=\"webstore_name\"\r\n\r\n1562584\r\n------WebKitFormBoundarytlZo6yQGqiVnMf5R--\r\n",
    "status": 200,
    "content_type": "application/json",
    "bytes": 42175,
