@@ -1,0 +1,25 @@
+{
+ "row": "188",
+ "name": "Jewish Vegan Life (DC Tikkun Circle)",
+ "page": "https://jewishveganlife.org/events/dc-cheshvan",
+ "discovered": "2026-11-28 03:04Z",
+ "error": "",
+ "candidates": [
+  {
+   "url": "https://jewishveganlife.org/wp-content/plugins/ajax-search-lite/js/min/plugin/merged/asl.min.js?ver=4790",
+   "method": "GET",
+   "headers": {
+    "accept": "*/*",
+    "referer": "https://jewishveganlife.org/events/dc-cheshvan/"
+   },
+   "post_data": null,
+   "status": 200,
+   "content_type": "application/javascript",
+   "bytes": 83199,
+   "date_count": 7,
+   "body": "(function(){var ee={589:(function(P,u){(function(C,D){typeof u==\"object\"&&typeof P==\"object\"?P.exports=D():typeof define==\"function\"&&define.amd?define(\"DoMini\",[],D):typeof u==\"object\"?u.DoMini=D():C.DoMini=D()})(window,(()=>(()=>{\"use strict\";var C={d:(t,i)=>{for(var r in i)C.o(i,r)&&!C.o(t,r)&&Object.defineProperty(t,r,{enumerable:!0,get:i[r]})},o:(t,i)=>Object.prototype.hasOwnProperty.call(t,i)},D={};let h;C.d(D,{default:()=>k}),window.DoMini===void 0?(h=function(t,i){return arguments[2]!==void 0?this.constructor.call(this,t,i):arguments.length!==1||typeof arguments[0]!=\"function\"?new h(t,i,!0):void(document.readyState===\"complete\"||document.readyState===\"loaded\"||document.readyState===\"interactive\"?arguments[0].apply(this,[h]):window.addEventListener(\"DOMContentLoaded\",(()=>{arguments[0].apply(this,[h])})))},h.prototype=h.fn={constructor:function(t,i){if(this.length=0,i!==void 0){if(i instanceof h)return i.find(t);if(this.isValidNode(i)||typeof i==\"string\")return h(i).find(t)}else if(typeof t==\"string\"&&t!==\"\")this.push(...this._(t));else{if(t instanceof h)return t;this.isValidNode(t)&&this.push(t)}return this},_:function(t){return t.charAt(0)===\"<\"?h._fn.createElementsFromHTML(t):[...document.querySelectorAll(t)]},isValidNode:t=>t instanceof Element||t instanceof Document||t instanceof Window,push:Array.prototype.push,pop:Array.prototype.pop,sort:Array.prototype.sort,splice:Array.prototype.splice},h.prototype[Symbol.iterator]=Array.prototype[Symbol.iterator],h._fn={},h.version=\"0.2.8\"):h=window.DoMini;const c=h;c.fn.get=function(t){return t===void 0?Array.from(this):this[t]},c.fn.extend=function(){for(let t=1;t<arguments.length;t++)for(let i in arguments[t])arguments[t].hasOwnProperty(i)&&(arguments[0][i]=arguments[t][i]);return arguments[0]},c.fn.forEach=function(t){return this.get().forEach((function(i,r,s){t.apply(i,[i,r,s])})),this},c.fn.each=function(t){return this.get().forEach((function(i,r,s){t.apply(i,[r,i,s])})),this},c.fn.css=function(t,i){for(const r of this)if(arguments.length===1){if(typeof t!=\"object\")return window.getComputedStyle(r)[t];Object.keys(t).forEach((function(s){r.style[s]=t[s]}))}else r.style[t]=i;return this},c.fn.hasClass=function(t){let i=this.get(0);return i!=null&&i.classList.contains(t)},c.fn.addClass=function(t){let i=t;return typeof t==\"string\"&&(i=t.split(\" \")),i=i.filter((function(r){return r.trim()!==\"\"})),i.length>0&&this.forEach((function(r){r.classList.add.apply(r.classList,i)})),this},c.fn.removeClass=function(t){if(t!==void 0){let i=t;typeof t==\"string\"&&(i=t.split(\" \")),i=i.filter((function(r){return r.trim()!==\"\"})),i.length>0&&this.forEach((function(r){r.classList.remove.apply(r.classList,i)}))}else this.forEach((function(i){i.classList.length>0&&i.classList.remove.apply(i.classList,i.classList)}));return this},c.fn.isVisible=function(){let t,i=this.get(0),r=!0;for(;i!==null;){if(t=window.getComputedStyle(i),t.display===\"none\"||t.visibility===\"hidden\"||parseInt(t.opacity)===0){r=!1;break}i=i.parentElement}return r},c.fn.val=function(t){let i;if(arguments.length===1){for(const r of this)if(r.type===\"select-multiple\"){t=typeof t==\"string\"?t.split(\",\"):t;for(let s,m=0,y=r.options.length;m<y;m++)s=r.options[m],s.selected=t.indexOf(s.value)!==-1}else r.value=t;i=this}else{let r=this.get(0);r!=null&&(i=r.type===\"select-multiple\"?Array.prototype.map.call(r.selectedOptions,(function(s){return s.value})):r.value)}return i},c.fn.attr=function(t,i){let r;for(const s of this)if(arguments.length===2)s.setAttribute(t,i),r=this;else{if(typeof t!=\"object\"){r=s.getAttribute(t);break}Object.keys(t).forEach((function(m){s.setAttribute(m,t[m])}))}return r},c.fn.removeAttr=function(t){for(const i of this)i.removeAttribute(t);return this},c.fn.prop=function(t,i){let r;for(const s of this){if(arguments.length!==2){r=s[t]!==void 0?s[t]:null;break}s[t]=i}return arguments.length===2?this:r},c.fn.data=function(t,i){const r=t.replace(/-([a-z])/g,(function(s){return s[1].toUpperCase()}));if(arguments.len",
+   "replay_status": 200,
+   "replay_ok": true
+  }
+ ]
+}

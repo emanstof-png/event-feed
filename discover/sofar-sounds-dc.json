@@ -2,7 +2,7 @@
  "row": "146",
  "name": "Sofar Sounds DC",
  "page": "https://seed-unknown.invalid/",
- "discovered": "2026-11-28 01:59Z",
+ "discovered": "2026-11-28 02:55Z",
  "error": "Error: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://seed-unknown.invalid/\nCall log:\nnavigating to \"https://seed-unknown.invalid/\", waiting until \"domcontentloaded\"\n",
  "candidates": []
 }

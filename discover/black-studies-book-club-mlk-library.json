@@ -1,0 +1,25 @@
+{
+ "row": "169",
+ "name": "Black Studies Book Club (MLK Library)",
+ "page": "https://dclibrary.libnet.info/event/15624105",
+ "discovered": "2026-11-28 02:59Z",
+ "error": "",
+ "candidates": [
+  {
+   "url": "https://dclibrary.libnet.info/js/am-events-listings.js?v=1530",
+   "method": "GET",
+   "headers": {
+    "accept": "*/*",
+    "referer": "https://dclibrary.libnet.info/event/15624105"
+   },
+   "post_data": null,
+   "status": 200,
+   "content_type": "application/javascript",
+   "bytes": 84519,
+   "date_count": 4,
+   "body": "(function ($, window, document, undefined) {\n\t$.support.cors = true;\n\n\t// bootstrap-datepicker puts aria-selected on its day cells, but those cells have\n\t// role=\"button\" -- and aria-selected is only valid on gridcell/option/row/tab/treeitem.\n\t// The selected state is already carried by aria-pressed on the same cell, so dropping\n\t// aria-selected is lossless for AT users and clears axe's aria-allowed-attr rule.\n\tfunction installCalendarAriaFix(root) {\n\t\tif (window.__amEventsCalendarAriaFixInstalled) return;\n\t\twindow.__amEventsCalendarAriaFixInstalled = true;\n\t\tvar target = root && root.querySelectorAll ? root : (document.body || document.documentElement);\n\t\tvar strip = function () {\n\t\t\tvar tds = target.querySelectorAll('td.day[aria-selected]');\n\t\t\tfor (var i = 0; i < tds.length; i++) tds[i].removeAttribute('aria-selected');\n\t\t};\n\t\tstrip();\n\t\tif (window.MutationObserver) {\n\t\t\tvar scheduled = false;\n\t\t\tvar flush = function () {\n\t\t\t\tscheduled = false;\n\t\t\t\tstrip();\n\t\t\t};\n\t\t\tvar schedule = function () {\n\t\t\t\tif (scheduled) return;\n\t\t\t\tscheduled = true;\n\t\t\t\tif (window.requestAnimationFrame) {\n\t\t\t\t\twindow.requestAnimationFrame(flush);\n\t\t\t\t\treturn;\n\t\t\t\t}\n\t\t\t\twindow.setTimeout(flush, 0);\n\t\t\t};\n\t\t\tvar obs = new MutationObserver(schedule);\n\t\t\tobs.observe(target, { childList: true, subtree: true });\n\t\t}\n\t}\n\n\tfunction escapeHtml(value) {\n\t\treturn String(value == null ? '' : value)\n\t\t\t.replace(/&/g, '&amp;')\n\t\t\t.replace(/</g, '&lt;')\n\t\t\t.replace(/>/g, '&gt;')\n\t\t\t.replace(/\"/g, '&quot;')\n\t\t\t.replace(/'/g, '&#39;');\n\t}\n\n\tvar pluginName = \"amEvents\",\n\t\tdefaults = {\n\t\t\ttitle: '',\n\t\t\tview: 'list',\n\t\t\trange: 'today',\n\t\t\tages: [],\n\t\t\texcludedAges: [],\n\t\t\ttypes: [],\n\t\t\texcludedTypes: [],\n\t\t\tlocale: 'en-US',\n\t\t\ttimezone: 'America/New_York',\n\t\t\tlocations: [],\n\t\t\texcludedLocations: [],\n\t\t\tlinkTarget: '_blank',\n\t\t\tinCellEvents: 3,\n\t\t\tprivate: false,\n\t\t\teventsGroupCalenderBAge: false,\n\t\t\tterm: '',\n\t\t\tend: '',\n\t\t\tstart: '',\n\t\t\tgridDate: '',\n\t\t\tfilters: {}, // added for brochure\n\t\t\tfilterOptions: {},\n\t\t\tfilterMaxItems: 15,\n\t\t\tfilterCurrentColumn: null,\n\t\t\tfilterCurrentColumnCount: 0,\n\t\t\tshowBrochure: false,\n\t\t\tshowRSS: false,\n\t\t\tshowICAL: false,\n\t\t\tsingleBranch: false,\n\t\t\tlimitWaitlist: false,\n\t\t\tallowWaitlistSubscription: false,\n\t\t\tcustomInterestedText: '',\n\t\t\tbrochuredata: null,\n\t\t\tallowSubs: false,\n\t\t\tbrochureNoPopup: false,\n\t\t\tshowImagesInListGrid: false,\n\t\t\ttestMode: 0,\n\t\t\tduration: '',\n\t\t\temitEvents: false,\n\t\t\tembeddedMode: false,\n\t\t\tembedSource: '',\n\t\t\tparentOrigin: '',\n\t\t};\n\n\tfunction Plugin(element, options) {\n\t\tvar self = this;\n\t\tthis.element = element;\n\t\tthis.$element = $(element);\n\n\t\tif (!options.view) options.view = self._readCookie('eventsView') ? self._readCookie('eventsView') : 'list';\n\t\tthis.settings = $.extend({}, defaults, options);\n\t\tthis._defaults = defaults;\n\t\tthis._name = pluginName;\n\t\tthis.paused = false;\n\t\tthis.rangeUpdating = false;\n\t\tthis.tagsLoaded = false;\n\t\tthis.locationsLoaded = false;\n\t\tthis.agesLoaded = false;\n\t\tthis._init();\n\t}\n\n\t$.extend(Plugin.prototype, {\n\t\t_init: function () {\n\t\t\tvar self = this;\n\t\t\tvar customEventLabel = escapeHtml(self.settings.customEventLabel);\n\t\t\tvar customEventsLabel = escapeHtml(self.settings.customEventsLabel);\n\t\t\tvar params = self._getURLSearchParameters();\n\t\t\tif (params.l) {\n\t\t\t\tself.settings.locations = params.l\n\t\t\t\t\t.split(',')\n\t\t\t\t\t.map(s => s.trim().toLowerCase().replace(/,/g, ''))\n\t\t\t\t\t.filter(Boolean);\n\t\t\t}\n\t\t\tif (params.et) {\n\t\t\t\tself.settings.excludedTypes = params.et.split(',').map(s => s.trim().toLowerCase());\n\t\t\t}\n\t\t\tif (params.t) {\n\t\t\t\ttry {\n\t\t\t\t\tconst decodedTypes = JSON.parse(decodeURIComponent(params.t));\n\t\t\t\t\tself.settings.types = decodedTypes.map(s => s.trim().toLowerCase());\n\t\t\t\t} catch (e) {\n\t\t\t\t\tconst splitTypes = decodeURIComponent(params.t).split(',').map(s => s.trim().toLowerCase());\n\t\t\t\t\tself.settings.types = [...new Set(splitTypes)];\n\t\t\t\t}\n\t\t\t}\n\t\t\tself.initComplete = false;\n\t\t\tself._embeddedHeightFrame = null;\n\t\t\tself._lastEmbeddedHeight = 0;\n\t\t\tself._embeddedHeightOb",
+   "replay_status": 200,
+   "replay_ok": true
+  }
+ ]
+}

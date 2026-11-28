@@ -1,0 +1,27 @@
+{
+ "row": "172",
+ "name": "Jewish Monthly Article Club (JMAC)",
+ "page": "https://partiful.com/u/hYzvqZPt4uRGS3UqvVh2",
+ "discovered": "2026-11-28 03:00Z",
+ "error": "",
+ "candidates": [
+  {
+   "url": "https://api.lab.amplitude.com/sdk/v2/vardata?v=0",
+   "method": "GET",
+   "headers": {
+    "accept": "*/*",
+    "authorization": "Api-Key 7f212e8d272682f437ff2740d3ddd739",
+    "origin": "https://partiful.com",
+    "referer": "https://partiful.com/"
+   },
+   "post_data": null,
+   "status": 200,
+   "content_type": "application/json;charset=utf-8",
+   "bytes": 122505,
+   "date_count": 267,
+   "body": "{\"add_mutuals_onboarding_contacts_illustration\":{\"key\":\"off\",\"metadata\":{\"default\":true,\"evaluationId\":\"1796833190808_1795834814805_1315481186\",\"segmentName\":\"default\",\"testInstrumentation\":true}},\"add_mutuals_onboarding_ghostavatars_slotcount\":{\"key\":\"off\",\"metadata\":{\"default\":true,\"evaluationId\":\"1796833190808_1795834814805_1315481186\",\"segmentName\":\"default\",\"testInstrumentation\":true}},\"add_mutuals_onboarding_select_all_enabled\":{\"key\":\"off\",\"metadata\":{\"default\":true,\"evaluationId\":\"1796833190808_1795834814805_1315481186\",\"segmentName\":\"All Other Users\"}},\"add_mutuals_onboarding_skip\":{\"key\":\"off\",\"metadata\":{\"default\":true,\"evaluationId\":\"1796833190808_1795834814805_1315481186\",\"segmentName\":\"All Other Users\"}},\"add_mutuals_onboarding_v4\":{\"key\":\"new_primer_updated_v4\",\"metadata\":{\"evaluationId\":\"1796833190808_1795834814805_1315481186\",\"experimentKey\":\"exp-1\",\"segmentName\":\"All Other Users\"},\"value\":\"new_primer_updated_v4\"},\"advanced_host_view_enabled\":{\"key\":\"off\",\"metadata\":{\"default\":true,\"evaluationId\":\"1796833190808_1795834814805_1315481186\",\"segmentName\":\"default\",\"testInstrumentation\":true}},\"afterparty_2025_enabled\":{\"key\":\"off\",\"metadata\":{\"default\":true,\"evaluationId\":\"1796833190808_1795834814805_1315481186\",\"segmentName\":\"All Other Users\"}},\"all_users_subscription_survey_campaign\":{\"key\":\"off\",\"metadata\":{\"default\":true,\"evaluationId\":\"1796833190808_1795834814805_1315481186\",\"segmentName\":\"All Other Users\"}},\"allow_disable_maybe\":{\"key\":\"on\",\"metadata\":{\"evaluationId\":\"1796833190808_1795834814805_1315481186\",\"segmentName\":\"All Other Users\"},\"value\":\"on\"},\"amb_auth_enabled\":{\"key\":\"on\",\"metadata\":{\"evaluationId\":\"1796833190808_1795834814805_1315481186\",\"segmentName\":\"All Other Users\"},\"value\":\"on\"},\"amb_business_invite_campaign\":{\"key\":\"off\",\"metadata\":{\"default\":true,\"evaluationId\":\"1796833190808_1795834814805_1315481186\",\"segmentName\":\"All Other Users\"}},\"amb_enabled\":{\"key\":\"on\",\"metadata\":{\"evaluationId\":\"1796833190808_1795834814805_1315481186\",\"segmentName\":\"All Other Users\"},\"value\":\"on\"},\"amb_opt_in_app_upsell_web\":{\"key\":\"control\",\"metadata\":{\"evaluationId\":\"1796833190808_1795834814805_1315481186\",\"experimentKey\":\"exp-2\",\"segmentName\":\"All Other Users\"},\"value\":\"control\"},\"amb_opt_in_app_upsell_web_v2\":{\"key\":\"control\",\"metadata\":{\"evaluationId\":\"1796833190808_1795834814805_1315481186\",\"experimentKey\":\"exp-1\",\"segmentName\":\"All Other Users\"},\"value\":\"control\"},\"amb_opt_in_click_business_update_enabled\":{\"key\":\"off\",\"metadata\":{\"default\":true,\"evaluationId\":\"1796833190808_1795834814805_1315481186\",\"segmentName\":\"All Other Users\"}},\"amb_upsell_alert_enabled\":{\"key\":\"off\",\"metadata\":{\"default\":true,\"evaluationId\":\"1796833190808_1795834814805_1315481186\",\"segmentName\":\"All Other Users\"}},\"amb_web_upsell_alert_enabled\":{\"key\":\"off\",\"metadata\":{\"default\":true,\"evaluationId\":\"1796833190808_1795834814805_1315481186\",\"segmentName\":\"All Other Users\"}},\"app_clip_event\":{\"key\":\"off\",\"metadata\":{\"default\":true,\"evaluationId\":\"1796833190808_1795834814805_1315481186\",\"segmentName\":\"All Other Users\"}},\"app_clip_live_activity_enabled\":{\"key\":\"off\",\"metadata\":{\"default\":true,\"evaluationId\":\"1796833190808_1795834814805_1315481186\",\"segmentName\":\"All Other Users\"}},\"app_save_for_later_enabled\":{\"key\":\"treatment\",\"metadata\":{\"evaluationId\":\"1796833190808_1795834814805_1315481186\",\"segmentName\":\"All Other Users\"},\"value\":\"treatment\"},\"app_upsell_notifs_web_enabled\":{\"key\":\"off\",\"metadata\":{\"default\":true,\"evaluationId\":\"1796833190808_1795834814805_1315481186\",\"segmentName\":\"All Other Users\"}},\"apple_wallet_pass_enabled\":{\"key\":\"on\",\"metadata\":{\"evaluationId\":\"1796833190808_1795834814805_1315481186\",\"segmentName\":\"All Other Users\"},\"value\":\"on\"},\"approximate_location_before_rsvp_enabled\":{\"key\":\"on\",\"metadata\":{\"evaluationId\":\"1796833190808_1795834814805_1315481186\",\"segmentName\":\"All Other Users\"},\"value\":\"on\"},\"auth_cookie_persistence_enabled\":{\"key\":\"control\",\"metadata\":{\"evaluationId\":\"1796833190808_1795834814805_1315481",
+   "replay_status": 200,
+   "replay_ok": true
+  }
+ ]
+}

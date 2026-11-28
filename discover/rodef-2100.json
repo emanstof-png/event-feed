@@ -1,0 +1,26 @@
+{
+ "row": "173",
+ "name": "Rodef 2100",
+ "page": "https://templerodefshalom.org/events?tribe_eventcategory%5B%5D=277",
+ "discovered": "2026-11-28 03:00Z",
+ "error": "",
+ "candidates": [
+  {
+   "url": "https://www.googleadservices.com/pagead/conversion/16645987587/?random=1795834830798&cv=11&fst=1795834830798&fmt=7&bg=ffffff&guid=ON&async=1&en=conversion&gtm=45je6bh1v9177773117za200zd9177773117xecxf1&gcd=13l3l3l3l1l1&dma=0&tag_exp=115616986~115938465~115938469~120213116~120385422~120469145~120469153~121246026~121246034~123785233&u_w=1366&u_h=900&url=https%3A%2F%2Fwww.templerodefshalom.org%2Fevents%2F%3Ftribe_eventcategory%255B%255D%3D277&rcb=10&label=SWFiCIjzk8cZEIO6toE-&capi=1&gtm_ee=1&frm=0&tiba=Events%20%7C%20Temple%20Rodef%20Shalom&did=dZGIzZG&gdid=dZGIzZG&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=1466396866.1795834831&uaa=x64&uab=64&uafvl=Chromium%3B130.0.6723.31%7CHeadlessChrome%3B130.0.6723.31%7CNot%253FA_Brand%3B99.0.0.0&uamb=0&uam=&uap=macOS&uapv=10_15_7&uaw=0&ec_mode=a&oid=GG_2026174859.1795834831&oidsrc=3&ecsid2=1317372264.1795834831&_tu=ABA&gcl_ctr=1~0~0~0&data=event%3Dconversion&category=acrcp_v1_512&em=tv.1&emd=tvd.1&ept=5",
+   "method": "GET",
+   "headers": {
+    "accept": "*/*",
+    "origin": "https://www.templerodefshalom.org",
+    "referer": "https://www.templerodefshalom.org/"
+   },
+   "post_data": null,
+   "status": 200,
+   "content_type": "application/json; charset=UTF-8",
+   "bytes": 3540,
+   "date_count": 6,
+   "body": "event: message\ndata: {\"fetch\":[\"https://googleads.g.doubleclick.net/pagead/viewthroughconversion/16645987587/?random=1794026433&cv=11&fst=1795834830798&fmt=8&bg=ffffff&guid=ON&async=1&en=conversion&gtm=45je6bh1v9177773117za200zd9177773117xecxf1&gcd=13l3l3l3l1l1&dma=0&tag_exp=115616986~115938465~115938469~120213116~120385422~120469145~120469153~121246026~121246034~123785233&u_w=1366&u_h=900&url=https%3A%2F%2Fwww.templerodefshalom.org%2Fevents%2F%3Ftribe_eventcategory%255B%255D%3D277&rcb=10&label=SWFiCIjzk8cZEIO6toE-&capi=1&gtm_ee=1&frm=0&tiba=Events%20%7C%20Temple%20Rodef%20Shalom&did=dZGIzZG&gdid=dZGIzZG&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=1466396866.1795834831&uaa=x64&uab=64&uafvl=Chromium%3B130.0.6723.31%7CHeadlessChrome%3B130.0.6723.31%7CNot%253FA_Brand%3B99.0.0.0&uamb=0&uam=&uap=macOS&uapv=10_15_7&uaw=0&ec_mode=a&oidsrc=3&ecsid2=1317372264.1795834831&_tu=ABA&gcl_ctr=1~0~0~0&data=event%3Dconversion&category=acrcp_v1_512&em=tv.1&emd=tvd.1&ept=5&ct_cookie_present=false&eoid=CkgKEQiA8aTYBhCS28mrzPrdq9UBEjMAgLuOUFjfcaYiruInGNCWWUs95yDMqyLxwQ1pJJYR81AubrNjlzROx1cKVqhJfcZdSSLw_wcB&crd=CLTesQII8t-xAgit4bECCK_hsQIIobixAgixwbECCLDBsQIIscOxAgiKxbECCMLJsQII1-ixAgi0xrECCOHTsQIIh9uxAgjTxbECCOvMsQII7c6xAgjVz7ECCIrysQII9NqxAgji6rECCOjusQIIuPKxAgiS67ECCPnqsQIInPSxAgiX1LECCMnbsQIIpt2xAgiw3rECCIDbsQIIzeGxAkowbm90LWV2ZW50LXNvdXJjZSwgbm90LW5hdmlnYXRpb24tc291cmNlLCB0cmlnZ2VyWgMKAQFiAwoBAw&cerd=ChTI7L4tuf6-LaGdvy2_pb8txq2_LQ&fsk=ChAIgPGk2AYQ75SA74P-6boJEiwAXl-eAN4QRrsqxvF0s_BRYidPO1w520UtiF4ZdgJk5cEsYK1xFLgl3FLD0hoCn0s&pscrd=IhMIt6aridapmAMVTyKsAB3COSqxOiJodHRwczovL3d3dy50ZW1wbGVyb2RlZnNoYWxvbS5vcmcvQldDaEVJZ1BHazJBWVF3cl9rdEtxUnNZNnpBUklzQUxtN0R0TVNxNmhuMGp5a0JYNVhNVk1meEJIdEt2enAzcHdTbmxHZERvZXk4ZTZQWXUzcWNiZmJUMEV6DAgJYggIABAAGAAgAA\"],\"options\":{\"fallback_url\":\"https://www.google.com/pagead/1p-conversion/16645987587/?random=1794026433&cv=11&fst=1795834830798&fmt=8&bg=ffffff&guid=ON&async=1&en=conversion&gtm=45je6bh1v9177773117za200zd9177773117xecxf1&gcd=13l3l3l3l1l1&dma=0&tag_exp=115616986~115938465~115938469~120213116~120385422~120469145~120469153~121246026~121246034~123785233&u_w=1366&u_h=900&url=https%3A%2F%2Fwww.templerodefshalom.org%2Fevents%2F%3Ftribe_eventcategory%255B%255D%3D277&rcb=10&label=SWFiCIjzk8cZEIO6toE-&capi=1&gtm_ee=1&frm=0&tiba=Events%20%7C%20Temple%20Rodef%20Shalom&did=dZGIzZG&gdid=dZGIzZG&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=1466396866.1795834831&uaa=x64&uab=64&uafvl=Chromium%3B130.0.6723.31%7CHeadlessChrome%3B130.0.6723.31%7CNot%253FA_Brand%3B99.0.0.0&uamb=0&uam=&uap=macOS&uapv=10_15_7&uaw=0&ec_mode=a&oidsrc=3&ecsid2=1317372264.1795834831&_tu=ABA&gcl_ctr=1~0~0~0&data=event%3Dconversion&category=acrcp_v1_512&em=tv.1&emd=tvd.1&ept=5&ct_cookie_present=false&eoid=CkgKEQiA8aTYBhCS28mrzPrdq9UBEjMAgLuOUFjfcaYiruInGNCWWUs95yDMqyLxwQ1pJJYR81AubrNjlzROx1cKVqhJfcZdSSLw_wcB&crd=CLTesQII8t-xAgit4bECCK_hsQIIobixAgixwbECCLDBsQIIscOxAgiKxbECCMLJsQII1-ixAgi0xrECCOHTsQIIh9uxAgjTxbECCOvMsQII7c6xAgjVz7ECCIrysQII9NqxAgji6rECCOjusQIIuPKxAgiS67ECCPnqsQIInPSxAgiX1LECCMnbsQIIpt2xAgiw3rECCIDbsQIIzeGxAkowbm90LWV2ZW50LXNvdXJjZSwgbm90LW5hdmlnYXRpb24tc291cmNlLCB0cmlnZ2VyWgMKAQFiAwoBAw&cerd=ChTI7L4tuf6-LaGdvy2_pb8txq2_LQ&fsk=ChAIgPGk2AYQ75SA74P-6boJEiwAXl-eAN4QRrsqxvF0s_BRYidPO1w520UtiF4ZdgJk5cEsYK1xFLgl3FLD0hoCn0s&pscrd=IhMIt6aridapmAMVTyKsAB3COSqxOiJodHRwczovL3d3dy50ZW1wbGVyb2RlZnNoYWxvbS5vcmcvQldDaEVJZ1BHazJBWVF3cl9rdEtxUnNZNnpBUklzQUxtN0R0TVNxNmhuMGp5a0JYNVhNVk1meEJIdEt2enAzcHdTbmxHZERvZXk4ZTZQWXUzcWNiZmJUMEV6DAgJYggIABAAGAAgAA&gcp=3\",\"fallback_url_method\":\"fetch\"}}\n\n",
+   "replay_status": 200,
+   "replay_ok": true
+  }
+ ]
+}

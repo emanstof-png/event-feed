@@ -1,0 +1,26 @@
+{
+ "row": "185",
+ "name": "Jewish Community Relations Council of Greater Washington",
+ "page": "https://jcouncil.org/events/israels-2026-elections-three-part-educational-series-0",
+ "discovered": "2026-11-28 03:03Z",
+ "error": "",
+ "candidates": [
+  {
+   "url": "https://actions.everyaction.com/v1/Forms/UtlAob_bNk2njr1a-wR69Q2",
+   "method": "GET",
+   "headers": {
+    "accept": "application/json, text/javascript, */*; q=0.01",
+    "origin": "https://jcouncil.org",
+    "referer": "https://jcouncil.org/"
+   },
+   "post_data": null,
+   "status": 200,
+   "content_type": "application/json; charset=utf-8",
+   "bytes": 11067,
+   "date_count": 6,
+   "body": "{\"tenantDisplayName\":\"ngpvan://van/JCRCW/JCRCW/1/77801\",\"submissionUrl\":\"https://actions.everyaction.com/v2/Forms/UtlAob_bNk2njr1a-wR69Q2\",\"autoFastAction\":false,\"created\":\"2026-07-31 18:03:59Z\",\"formVersion\":\"10/16/2026 7:45:22 AM|\",\"fastAction\":true,\"form_elements\":[{\"name\":\"HeaderHtml\",\"type\":\"markup\",\"markup\":\"<p><strong>Location information will be sent 48-72 hours before the event. To ensure you receive JCRC emails with this important information:<br />\\n1) Do not opt out of JCRC emails<br />\\n2) Check your spam folder<br />\\n3) Email <a href=\\\"mailto:abrody@jcouncil.org\\\">Alan Brody</a> with questions.</strong></p>\\n\\n<p><strong>Your information will not be shared with or sold to any external entities.</strong></p>\\n\"},{\"name\":\"FooterHtml\",\"type\":\"markup\",\"markup\":\"<p><span style=\\\"font-size:14px;\\\"><strong>Consent to use of photo, video and email.</strong><br />\\nBy registering for and attending this program, I consent to JCRC taking, posting and sharing pictures and/or video of me on the JCRC website, social media or other promotional materials for advertising and marketing&nbsp;purposes.</span></p>\\n\\n<p><span style=\\\"font-size:14px;\\\">By registering for this event, you agree to receive email communications from the JCRC of Greater Washington, <strong>including location details about this event</strong> and other organizational updates. If you have previously unsubscribed from JCRC communications, you may have to resubscribe in order to receive the location or other event information.</span></p>\\n\"},{\"name\":\"submitForm\",\"type\":\"submit\",\"value\":\"Submit\"},{\"name\":\"ContactInformation\",\"type\":\"fieldset\",\"title\":\"Contact Information\",\"children\":[{\"name\":\"FirstName\",\"type\":\"textfield\",\"title\":\"First Name\",\"queryString\":\"fn\",\"required\":true,\"maxlength\":20},{\"name\":\"LastName\",\"type\":\"textfield\",\"title\":\"Last Name\",\"queryString\":\"ln\",\"required\":true,\"maxlength\":25},{\"name\":\"AddressLine1\",\"type\":\"textfield\",\"title\":\"Street Address\",\"queryString\":\"add1\",\"required\":false,\"maxlength\":99},{\"name\":\"City\",\"type\":\"textfield\",\"title\":\"City\",\"queryString\":\"ci\",\"required\":true,\"maxlength\":25},{\"name\":\"StateProvince\",\"type\":\"select\",\"title\":\"State\",\"queryString\":\"st\",\"required\":true,\"options\":\"table_stateprovinces\"},{\"name\":\"PostalCode\",\"type\":\"textfield\",\"title\":\"Postal Code\",\"queryString\":\"pc\",\"required\":true,\"maxlength\":10,\"validation\":\"postalCode\"},{\"name\":\"MobilePhone\",\"type\":\"textfield\",\"title\":\"Mobile Phone\",\"default_country_code\":\"US\",\"queryString\":\"mp\",\"required\":true,\"validation\":\"phone\",\"options\":\"table_countries\"},{\"name\":\"SmsSubscribeMobilePhone\",\"type\":\"hidden\",\"value\":false,\"default_value\":false,\"queryString\":\"SmsSubscribeMobilePhone\"},{\"name\":\"SmsLegalDisclaimer\",\"type\":\"markup\",\"markup\":\"\\r\\n        <p>By submitting your cell phone number you are agreeing to receive periodic text messages from this organization. Message and data rates may apply. Text HELP for more information. Text STOP to stop receiving messages.</p>\\r\\n    \"},{\"name\":\"EmailAddress\",\"type\":\"textfield\",\"title\":\"Email\",\"queryString\":\"em\",\"required\":true,\"maxlength\":100,\"validation\":\"email\"},{\"name\":\"YesSignMeUpForUpdatesForBinder\",\"type\":\"checkbox\",\"title\":\"By registering for this event, you agree to receive email communications from the JCRC.\",\"default_value\":true,\"queryString\":\"ae\",\"required\":false},{\"name\":\"PersonalUrl\",\"type\":\"textfield\",\"queryString\":\"PersonalUrl\",\"required\":false},{\"name\":\"SocialNetworkTrackingId\",\"type\":\"hidden\",\"queryString\":\"ref\"},{\"name\":\"SocialNetwork\",\"type\":\"hidden\",\"queryString\":\"snw\"},{\"name\":\"TrackingPixel\",\"type\":\"markup\",\"markup\":\"<img alt='' src='https://actions.everyaction.com/v1/Track/UtlAob_bNk2njr1a-wR69Q2' style='display:none'/>\"}]},{\"name\":\"EventSignup\",\"type\":\"fieldset\",\"title\":\"\",\"children\":[]},{\"name\":\"AdditionalInformation\",\"type\":\"fieldset\",\"title\":\"Follow-up Questions\",\"children\":[{\"name\":\"CustomFormFieldQuestion_1810232397229607_MappedCustomFormFieldQuestion_26\",\"type\":\"textfield\",\"title\":\"Confirm Email Add",
+   "replay_status": 200,
+   "replay_ok": true
+  }
+ ]
+}

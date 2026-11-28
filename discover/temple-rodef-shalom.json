@@ -1,0 +1,26 @@
+{
+ "row": "167",
+ "name": "Temple Rodef Shalom",
+ "page": "https://templerodefshalom.org/events",
+ "discovered": "2026-11-28 02:59Z",
+ "error": "",
+ "candidates": [
+  {
+   "url": "https://www.googleadservices.com/pagead/conversion/16645987587/?random=1795834744625&cv=11&fst=1795834744625&fmt=7&bg=ffffff&guid=ON&async=1&en=conversion&gtm=45be6bh1h1v9177773117za200zd9177773117xecxf1&gcd=13l3l3l3l1l1&dma=0&tag_exp=115938466~115938469~117776796~120213116~120385423~120469145~120469153~121246026~121246034&u_w=1366&u_h=900&url=https%3A%2F%2Fwww.templerodefshalom.org%2Fevents%2F&ref=https%3A%2F%2Fwww.templerodefshalom.org%2Fcalendar%2F&rcb=3&label=SWFiCIjzk8cZEIO6toE-&capi=1&gtm_ee=1&frm=0&tiba=Events%20%7C%20Temple%20Rodef%20Shalom&did=dZGIzZG&gdid=dZGIzZG&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=1607990325.1795834745&uaa=x64&uab=64&uafvl=Chromium%3B130.0.6723.31%7CHeadlessChrome%3B130.0.6723.31%7CNot%253FA_Brand%3B99.0.0.0&uamb=0&uam=&uap=macOS&uapv=10_15_7&uaw=0&ec_mode=a&oid=GG_703284061.1795834745&oidsrc=3&ecsid2=773667343.1795834745&_tu=ABA&gcl_ctr=1~0~0~0&data=event%3Dconversion&category=acrcp_v1_512&em=tv.1&emd=tvd.1&ept=5",
+   "method": "GET",
+   "headers": {
+    "accept": "*/*",
+    "origin": "https://www.templerodefshalom.org",
+    "referer": "https://www.templerodefshalom.org/"
+   },
+   "post_data": null,
+   "status": 200,
+   "content_type": "application/json; charset=UTF-8",
+   "bytes": 3500,
+   "date_count": 4,
+   "body": "event: message\ndata: {\"fetch\":[\"https://googleads.g.doubleclick.net/pagead/viewthroughconversion/16645987587/?random=976514660&cv=11&fst=1795834744625&fmt=8&bg=ffffff&guid=ON&async=1&en=conversion&gtm=45be6bh1h1v9177773117za200zd9177773117xecxf1&gcd=13l3l3l3l1l1&dma=0&tag_exp=115938466~115938469~117776796~120213116~120385423~120469145~120469153~121246026~121246034&u_w=1366&u_h=900&url=https%3A%2F%2Fwww.templerodefshalom.org%2Fevents%2F&ref=https%3A%2F%2Fwww.templerodefshalom.org%2Fcalendar%2F&rcb=3&label=SWFiCIjzk8cZEIO6toE-&capi=1&gtm_ee=1&frm=0&tiba=Events%20%7C%20Temple%20Rodef%20Shalom&did=dZGIzZG&gdid=dZGIzZG&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=1607990325.1795834745&uaa=x64&uab=64&uafvl=Chromium%3B130.0.6723.31%7CHeadlessChrome%3B130.0.6723.31%7CNot%253FA_Brand%3B99.0.0.0&uamb=0&uam=&uap=macOS&uapv=10_15_7&uaw=0&ec_mode=a&oidsrc=3&ecsid2=773667343.1795834745&_tu=ABA&gcl_ctr=1~0~0~0&data=event%3Dconversion&category=acrcp_v1_512&em=tv.1&emd=tvd.1&ept=5&ct_cookie_present=false&eoid=CkcKEQiA8aTYBhCS28mrzPrdq9UBEjIAgLuOUHpHKb34BVAeerkUYfJF-wRo0fRNzoFVckbftNJ5TZFMxLC4slPJv4eAMIEjHPD_BwE&crd=CLTesQII8t-xAgit4bECCK_hsQIIobixAgixwbECCLDBsQIIscOxAgiKxbECCMLJsQII1-ixAgi0xrECCOHTsQIIh9uxAgjTxbECCOvMsQII7c6xAgjVz7ECCIrysQII9NqxAgji6rECCOjusQIIuPKxAgiS67ECCPnqsQIInPSxAgiX1LECCMnbsQIIpt2xAgiw3rECCIDbsQIIzeGxAkoZdHJpZ2dlcj1uYXZpZ2F0aW9uLXNvdXJjZVoDCgEBYgMKAQM&cerd=ChiCsL4tyOy-Lbn-vi2inb8tvqW_Lcatvy0&fsk=ChAIgPGk2AYQ75SA74P-6boJEiwAXl-eAFpJh_TQTc85wNcnsFDH9Ub2XZ3kccPzI-BREyfhQhgW4iqRfezYoRoC62g&pscrd=IhMI-eWf4NWpmAMVdvlJBR1yBCzsOiJodHRwczovL3d3dy50ZW1wbGVyb2RlZnNoYWxvbS5vcmcvQlZDaEVJZ1BHazJBWVF3cl9rdEtxUnNZNnpBUklyQUxtN0R0TkxxajFpYTVjcEo3c01aNDB6TzVsWUNEUWtMOWt1eC1JazdpczJtcWZOVVFYMFJjSnJ5Z3oMCAliCAgAEAAYACAA\"],\"options\":{\"fallback_url\":\"https://www.google.com/pagead/1p-conversion/16645987587/?random=976514660&cv=11&fst=1795834744625&fmt=8&bg=ffffff&guid=ON&async=1&en=conversion&gtm=45be6bh1h1v9177773117za200zd9177773117xecxf1&gcd=13l3l3l3l1l1&dma=0&tag_exp=115938466~115938469~117776796~120213116~120385423~120469145~120469153~121246026~121246034&u_w=1366&u_h=900&url=https%3A%2F%2Fwww.templerodefshalom.org%2Fevents%2F&ref=https%3A%2F%2Fwww.templerodefshalom.org%2Fcalendar%2F&rcb=3&label=SWFiCIjzk8cZEIO6toE-&capi=1&gtm_ee=1&frm=0&tiba=Events%20%7C%20Temple%20Rodef%20Shalom&did=dZGIzZG&gdid=dZGIzZG&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=1607990325.1795834745&uaa=x64&uab=64&uafvl=Chromium%3B130.0.6723.31%7CHeadlessChrome%3B130.0.6723.31%7CNot%253FA_Brand%3B99.0.0.0&uamb=0&uam=&uap=macOS&uapv=10_15_7&uaw=0&ec_mode=a&oidsrc=3&ecsid2=773667343.1795834745&_tu=ABA&gcl_ctr=1~0~0~0&data=event%3Dconversion&category=acrcp_v1_512&em=tv.1&emd=tvd.1&ept=5&ct_cookie_present=false&eoid=CkcKEQiA8aTYBhCS28mrzPrdq9UBEjIAgLuOUHpHKb34BVAeerkUYfJF-wRo0fRNzoFVckbftNJ5TZFMxLC4slPJv4eAMIEjHPD_BwE&crd=CLTesQII8t-xAgit4bECCK_hsQIIobixAgixwbECCLDBsQIIscOxAgiKxbECCMLJsQII1-ixAgi0xrECCOHTsQIIh9uxAgjTxbECCOvMsQII7c6xAgjVz7ECCIrysQII9NqxAgji6rECCOjusQIIuPKxAgiS67ECCPnqsQIInPSxAgiX1LECCMnbsQIIpt2xAgiw3rECCIDbsQIIzeGxAkoZdHJpZ2dlcj1uYXZpZ2F0aW9uLXNvdXJjZVoDCgEBYgMKAQM&cerd=ChiCsL4tyOy-Lbn-vi2inb8tvqW_Lcatvy0&fsk=ChAIgPGk2AYQ75SA74P-6boJEiwAXl-eAFpJh_TQTc85wNcnsFDH9Ub2XZ3kccPzI-BREyfhQhgW4iqRfezYoRoC62g&pscrd=IhMI-eWf4NWpmAMVdvlJBR1yBCzsOiJodHRwczovL3d3dy50ZW1wbGVyb2RlZnNoYWxvbS5vcmcvQlZDaEVJZ1BHazJBWVF3cl9rdEtxUnNZNnpBUklyQUxtN0R0TkxxajFpYTVjcEo3c01aNDB6TzVsWUNEUWtMOWt1eC1JazdpczJtcWZOVVFYMFJjSnJ5Z3oMCAliCAgAEAAYACAA&gcp=3\",\"fallback_url_method\":\"fetch\"}}\n\n",
+   "replay_status": 200,
+   "replay_ok": true
+  }
+ ]
+}
