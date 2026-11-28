@@ -4,9 +4,9 @@
  "seed_url": "https://dc.clubs.harvard.edu/events.html",
  "programs": "",
  "access": "",
- "found": "2026-11-28 01:51Z",
+ "found": "2026-11-28 02:47Z",
  "search_hits": [],
- "search_error": "html.duckduckgo.com 0 hits (202, 15176b); www.bing.com 0 hits (200, 127817b); lite.duckduckgo.com 0 hits (202, 15176b)",
+ "search_error": "html.duckduckgo.com 0 hits (202, 15188b); www.bing.com 0 hits (200, 118633b); lite.duckduckgo.com 0 hits (202, 15194b)",
  "probes": [
   {
    "url": "https://dc.clubs.harvard.edu/wp-json/tribe/events/v1/events?per_page=10",

@@ -1,0 +1,154 @@
+{
+ "row": "172",
+ "name": "Jewish Monthly Article Club (JMAC)",
+ "seed_url": "https://partiful.com/u/hYzvqZPt4uRGS3UqvVh2",
+ "programs": "",
+ "access": "",
+ "found": "2026-11-28 03:03Z",
+ "search_hits": [],
+ "search_error": "html.duckduckgo.com Timeout; www.bing.com 0 hits (200, 374920b); lite.duckduckgo.com Timeout",
+ "probes": [
+  {
+   "url": "https://partiful.com/wp-json/tribe/events/v1/events?per_page=10",
+   "status": "HTTPError",
+   "events": 0
+  },
+  {
+   "url": "https://partiful.com/events/?ical=1",
+   "status": 200,
+   "events": 0,
+   "head": "<!DOCTYPE html><html lang=\"en\" prefix=\"og: https://ogp.me/ns#\" class=\"ptf-dark\" data-sentry-element=\"Html\" data-sentry-component=\"Doc\" data-sentry-source-file=\"_document.tsx\" data-dpl-id=\"dpl_AEAps1ieZcYMezwURsDkYZrP8V9p\"><head data-sentry-element=\"Head\" data-sentry-source-file=\"_document.tsx\"><meta"
+  },
+  {
+   "url": "https://partiful.com/?ical=1",
+   "status": 200,
+   "events": 0,
+   "head": "<!doctype html>\r\n<!-- Made in Framer \u00b7 framer.com -->\r\n<!-- Published Nov 25, 2026, 9:07 PM UTC -->\r\n<html lang=\"en\" data-redirect-timezone=\"1\">\r\n<head>\r\n\t<meta charset=\"utf-8\">\r\n\t<meta name=\"viewport\" content=\"width=device-width\">\r\n\t<meta name=\"generator\" content=\"Framer 455fb32\">\r\n\t<title>Partiful"
+  }
+ ],
+ "pages": [
+  {
+   "url": "https://partiful.com/u/hYzvqZPt4uRGS3UqvVh2",
+   "status": 200,
+   "final_url": "https://partiful.com/u/hYzvqZPt4uRGS3UqvVh2",
+   "title": "JMAC (Jewish Monthly Article Club) | Partiful",
+   "dates": 0,
+   "jsonld": 0,
+   "jsonld_samples": [],
+   "hints": [],
+   "iframes": [],
+   "event_links": [
+    {
+     "text": "",
+     "url": "https://partiful.com/events"
+    },
+    {
+     "text": "Explore events",
+     "url": "https://partiful.com/explore"
+    }
+   ],
+   "platform": "",
+   "error": ""
+  },
+  {
+   "url": "https://partiful.com/",
+   "status": 200,
+   "final_url": "https://partiful.com/",
+   "title": "Partiful - Free Online Invitations with RSVP Tracking",
+   "dates": 9,
+   "jsonld": 0,
+   "jsonld_samples": [],
+   "hints": [],
+   "iframes": [],
+   "event_links": [
+    {
+     "text": "Create event",
+     "url": "https://partiful.com/create?referrer=landing"
+    },
+    {
+     "text": "Learn more",
+     "url": "https://partiful.com/sell-tickets"
+    }
+   ],
+   "platform": "eventbrite [Framer 455fb32]",
+   "error": ""
+  },
+  {
+   "url": "https://partiful.com/events",
+   "status": 200,
+   "final_url": "https://partiful.com/events",
+   "title": "Home | Partiful",
+   "dates": 0,
+   "jsonld": 0,
+   "jsonld_samples": [],
+   "hints": [],
+   "iframes": [],
+   "event_links": [
+    {
+     "text": "",
+     "url": "https://partiful.com/events"
+    }
+   ],
+   "platform": "",
+   "error": ""
+  },
+  {
+   "url": "https://partiful.com/explore",
+   "status": 200,
+   "final_url": "https://partiful.com/explore",
+   "title": "Local Events Near You Today and This Weekend | Partiful",
+   "dates": 10,
+   "jsonld": 0,
+   "jsonld_samples": [],
+   "hints": [],
+   "iframes": [],
+   "event_links": [
+    {
+     "text": "",
+     "url": "https://partiful.com/events"
+    }
+   ],
+   "platform": "",
+   "error": ""
+  },
+  {
+   "url": "https://partiful.com/create?referrer=landing",
+   "status": 200,
+   "final_url": "https://partiful.com/create?referrer=landing",
+   "title": "Create Free Invitations | Partiful",
+   "dates": 0,
+   "jsonld": 0,
+   "jsonld_samples": [],
+   "hints": [],
+   "iframes": [],
+   "event_links": [
+    {
+     "text": "",
+     "url": "https://partiful.com/events"
+    }
+   ],
+   "platform": "",
+   "error": ""
+  },
+  {
+   "url": "https://partiful.com/sell-tickets",
+   "status": 200,
+   "final_url": "https://partiful.com/sell-tickets",
+   "title": "Sell Tickets on Partiful",
+   "dates": 0,
+   "jsonld": 0,
+   "jsonld_samples": [],
+   "hints": [],
+   "iframes": [],
+   "event_links": [
+    {
+     "text": "",
+     "url": "https://www.nytimes.com/2022/09/15/style/partiful-event-planning-parties.html"
+    }
+   ],
+   "platform": "eventbrite [Framer 455fb32]",
+   "error": ""
+  }
+ ],
+ "best_page": "https://partiful.com/explore"
+}

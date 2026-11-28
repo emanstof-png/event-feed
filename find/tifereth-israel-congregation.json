@@ -1,0 +1,472 @@
+{
+ "row": "194",
+ "name": "Tifereth Israel Congregation",
+ "seed_url": "https://tifereth-israel.org/event/parashat-hashavua-class9.html",
+ "programs": "",
+ "access": "",
+ "found": "2026-11-28 03:18Z",
+ "search_hits": [],
+ "search_error": "html.duckduckgo.com Timeout; www.bing.com 0 hits (200, 122968b); lite.duckduckgo.com Timeout",
+ "probes": [
+  {
+   "url": "https://www.tifereth-israel.org/wp-json/tribe/events/v1/events?per_page=10",
+   "status": "HTTPError",
+   "events": 0
+  },
+  {
+   "url": "https://www.tifereth-israel.org/events/?ical=1",
+   "status": "HTTPError",
+   "events": 0
+  },
+  {
+   "url": "https://www.tifereth-israel.org/?ical=1",
+   "status": 200,
+   "events": 0,
+   "head": "<!DOCTYPE html>\n<html xmlns=\"http://www.w3.org/1999/xhtml\">\n<head>\n\n    <meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\" />\n        <meta name=\"description\" content=\"Tifereth Israel Congregation\" />\n    <meta name=\"keywords\" content=\"synagogue, egalitarian, Conservative, USCJ, Soci"
+  }
+ ],
+ "pages": [
+  {
+   "url": "https://tifereth-israel.org/event/parashat-hashavua-class9.html",
+   "status": 200,
+   "final_url": "https://www.tifereth-israel.org/event/parashat-hashavua-class9.html",
+   "title": "Parashat HaShavua Class - Event - Tifereth Israel Congregation",
+   "dates": 24,
+   "jsonld": 0,
+   "jsonld_samples": [],
+   "hints": [],
+   "iframes": [],
+   "event_links": [
+    {
+     "text": "Calendar",
+     "url": "https://www.tifereth-israel.org/cal.php"
+    },
+    {
+     "text": "About Our Services",
+     "url": "https://www.tifereth-israel.org/service-schedule.html"
+    },
+    {
+     "text": "",
+     "url": "https://www.tifereth-israel.org/event/parashat-hashavua-class9.html?action=download"
+    },
+    {
+     "text": "All Events",
+     "url": "https://www.tifereth-israel.org/calendar"
+    },
+    {
+     "text": "Mishnah with Rabbi Werbow- Cancelled",
+     "url": "https://www.tifereth-israel.org/event/mishnah-with-rabbi-werbow--cancelled1.html"
+    },
+    {
+     "text": "Shabbat Morning Services",
+     "url": "https://www.tifereth-israel.org/event/shabbat-morning-services1.html"
+    },
+    {
+     "text": "Caf\u00e9 Kehillah",
+     "url": "https://www.tifereth-israel.org/event/kehillah-caf-.html"
+    },
+    {
+     "text": "Directing the Heart: Guided Meditation",
+     "url": "https://www.tifereth-israel.org/event/directing-the-heart-guided-meditation--reflection.html"
+    },
+    {
+     "text": "Mini Minyan",
+     "url": "https://www.tifereth-israel.org/event/mini-minyan2.html"
+    },
+    {
+     "text": "Tot Shabbat",
+     "url": "https://www.tifereth-israel.org/event/tot-shabbat15.html"
+    }
+   ],
+   "platform": "shulcloud",
+   "error": ""
+  },
+  {
+   "url": "https://www.tifereth-israel.org/",
+   "status": 200,
+   "final_url": "https://www.tifereth-israel.org/home",
+   "title": "TI Homepage - Tifereth Israel Congregation",
+   "dates": 4,
+   "jsonld": 0,
+   "jsonld_samples": [],
+   "hints": [],
+   "iframes": [],
+   "event_links": [
+    {
+     "text": "Calendar",
+     "url": "https://www.tifereth-israel.org/cal.php"
+    },
+    {
+     "text": "About Our Services",
+     "url": "https://www.tifereth-israel.org/service-schedule.html"
+    },
+    {
+     "text": "",
+     "url": "https://www.tifereth-israel.org/event/chanukah-extravaganza2.html"
+    },
+    {
+     "text": "",
+     "url": "https://www.tifereth-israel.org/event/congregational-retreat.html"
+    },
+    {
+     "text": "",
+     "url": "https://www.tifereth-israel.org/calendar"
+    },
+    {
+     "text": "Tot Shabbat",
+     "url": "https://www.tifereth-israel.org/event/tot-shabbat15.html"
+    },
+    {
+     "text": "TI Trailblazers Activity",
+     "url": "https://www.tifereth-israel.org/event/c--o-canal-hike.html"
+    },
+    {
+     "text": "Book Burial at the Garden of Remembrance",
+     "url": "https://www.tifereth-israel.org/event/book-burial-day-at-the-garden-of-remembrance.html"
+    },
+    {
+     "text": "Rising Song Kabbalat Shabbat Services and Dinner",
+     "url": "https://www.tifereth-israel.org/event/rising-song-kabbalat-shabbat-services.html"
+    },
+    {
+     "text": "Kabbalat Shabbat & Maariv",
+     "url": "https://www.tifereth-israel.org/event/kabbalat-shabbat--maariv.html"
+    },
+    {
+     "text": "Shabbat Morning Services",
+     "url": "https://www.tifereth-israel.org/event/shabbat-morning-services1.html"
+    },
+    {
+     "text": "Mini Minyan",
+     "url": "https://www.tifereth-israel.org/event/mini-minyan2.html"
+    },
+    {
+     "text": "Caf\u00e9 Kehillah",
+     "url": "https://www.tifereth-israel.org/event/kehillah-caf-.html"
+    },
+    {
+     "text": "Parashat Hashavua Class",
+     "url": "https://www.tifereth-israel.org/event/parashat-hashavua-class9.html"
+    },
+    {
+     "text": "Intermediate Hebrew-Beginning Tanach",
+     "url": "https://www.tifereth-israel.org/event/intermediate-hebrew-beginning-tanach3.html"
+    },
+    {
+     "text": "Yarning Club",
+     "url": "https://www.tifereth-israel.org/event/yarning-club.html"
+    },
+    {
+     "text": "Mishnah with Rabbi Werbow- Cancelled",
+     "url": "https://www.tifereth-israel.org/event/mishnah-with-rabbi-werbow--cancelled1.html"
+    }
+   ],
+   "platform": "shulcloud",
+   "error": ""
+  },
+  {
+   "url": "https://www.tifereth-israel.org/cal.php",
+   "status": 200,
+   "final_url": "https://www.tifereth-israel.org/calendar",
+   "title": "Calendar - Tifereth Israel Congregation",
+   "dates": 11,
+   "jsonld": 0,
+   "jsonld_samples": [],
+   "hints": [],
+   "iframes": [],
+   "event_links": [
+    {
+     "text": "Calendar",
+     "url": "https://www.tifereth-israel.org/cal.php"
+    },
+    {
+     "text": "About Our Services",
+     "url": "https://www.tifereth-israel.org/service-schedule.html"
+    },
+    {
+     "text": "Clear",
+     "url": "https://www.tifereth-israel.org/calendar"
+    },
+    {
+     "text": "",
+     "url": "https://www.tifereth-israel.org/calendar?date_start=specific+date&date_start_x=0&date_start_date=2026-10-01"
+    },
+    {
+     "text": "",
+     "url": "https://www.tifereth-israel.org/calendar?date_start=specific+date&date_start_x=0&date_start_date=2026-12-01"
+    },
+    {
+     "text": "9:15am Morning Minyan",
+     "url": "https://www.tifereth-israel.org/event/sunday-morning-service-zoom---tentative.html"
+    },
+    {
+     "text": "1:00pm Capital Jewish Museum Tour: Esther Bubley: Photograph",
+     "url": "https://www.tifereth-israel.org/event/guided-tour-of-esther-bubley-photographing-the-homefront.html"
+    },
+    {
+     "text": "5:00pm Volunteer at Shepherd's Table",
+     "url": "https://www.tifereth-israel.org/event/serving-dinner-at-shepherds-table.html"
+    },
+    {
+     "text": "5:30pm Tzohar- Cancelled",
+     "url": "https://www.tifereth-israel.org/event/tzohar--cancelled.html"
+    },
+    {
+     "text": "11:00am Parashat HaShavua Class",
+     "url": "https://www.tifereth-israel.org/event/parashat-hashavua-class9.html"
+    },
+    {
+     "text": "1:00pm Hebrew Fiction Group",
+     "url": "https://www.tifereth-israel.org/event/hebrew-fiction-group---via-zoom.html"
+    },
+    {
+     "text": "1:45pm Interm. Hebrew-Beg. Tanach",
+     "url": "https://www.tifereth-israel.org/event/intermediate-hebrew-beginning-tanach3.html"
+    },
+    {
+     "text": "4:00pm Advanced Beginning Biblical Hebrew",
+     "url": "https://www.tifereth-israel.org/event/beginning-biblical-hebrew.html"
+    },
+    {
+     "text": "5:00pm Shalem Committee Meeting",
+     "url": "https://www.tifereth-israel.org/event/shalem-committee-meeting1.html"
+    },
+    {
+     "text": "5:30pm Election Eve Candlelight Vigil for Democracy, Peace a",
+     "url": "https://www.tifereth-israel.org/event/election-eve-candlelight-vigils-for-democracy-peace-and-hope.html"
+    },
+    {
+     "text": "7:30pm Yarning Club",
+     "url": "https://www.tifereth-israel.org/event/yarning-club.html"
+    },
+    {
+     "text": "1:00pm 2026 Annual Jewish Book Drive",
+     "url": "https://www.tifereth-israel.org/event/2026-annual-jewish-book-drive.html"
+    },
+    {
+     "text": "7:00pm Finance Committee Meeting",
+     "url": "https://www.tifereth-israel.org/event/finance-committee-meeting10.html"
+    },
+    {
+     "text": "10:30am Yoga for Adults",
+     "url": "https://www.tifereth-israel.org/event/yoga-for-adults.html"
+    },
+    {
+     "text": "4:00pm Vigil Against Racism",
+     "url": "https://www.tifereth-israel.org/event/vigil-against-racism26.html"
+    },
+    {
+     "text": "6:00pm Kabbalat Shabbat & Maariv",
+     "url": "https://www.tifereth-israel.org/event/kabbalat-shabbat--maariv.html"
+    },
+    {
+     "text": "8:15am Mishnah with Rabbi Werbow",
+     "url": "https://www.tifereth-israel.org/event/mishna-with-rabbi-werbow8.html"
+    },
+    {
+     "text": "9:00am Shabbat Morning Services",
+     "url": "https://www.tifereth-israel.org/event/shabbat-morning-services1.html"
+    },
+    {
+     "text": "10:00am Caf\u00e9 Kehillah",
+     "url": "https://www.tifereth-israel.org/event/kehillah-caf-.html"
+    },
+    {
+     "text": "11:00am Junior Minyan",
+     "url": "https://www.tifereth-israel.org/event/junior-minyan7.html"
+    }
+   ],
+   "platform": "shulcloud",
+   "error": ""
+  },
+  {
+   "url": "https://www.tifereth-israel.org/service-schedule.html",
+   "status": 200,
+   "final_url": "https://www.tifereth-israel.org/service-schedule.html",
+   "title": "Weekly Service Schedule - Tifereth Israel Congregation",
+   "dates": 5,
+   "jsonld": 0,
+   "jsonld_samples": [],
+   "hints": [],
+   "iframes": [],
+   "event_links": [
+    {
+     "text": "Calendar",
+     "url": "https://www.tifereth-israel.org/cal.php"
+    },
+    {
+     "text": "About Our Services",
+     "url": "https://www.tifereth-israel.org/service-schedule.html"
+    },
+    {
+     "text": "here",
+     "url": "https://tiferethdc.shulcloud.com/calendar"
+    },
+    {
+     "text": "Kabbalat Shabbat & Maariv",
+     "url": "https://www.tifereth-israel.org/event/kabbalat-shabbat--maariv.html"
+    },
+    {
+     "text": "Shabbat Morning Services",
+     "url": "https://www.tifereth-israel.org/event/shabbat-morning-services1.html"
+    },
+    {
+     "text": "Mini Minyan",
+     "url": "https://www.tifereth-israel.org/event/mini-minyan2.html"
+    },
+    {
+     "text": "Tot Shabbat",
+     "url": "https://www.tifereth-israel.org/event/tot-shabbat15.html"
+    },
+    {
+     "text": "Morning Minyan",
+     "url": "https://www.tifereth-israel.org/event/sunday-morning-service-zoom---tentative.html"
+    },
+    {
+     "text": "All Events",
+     "url": "https://www.tifereth-israel.org/calendar"
+    },
+    {
+     "text": "Mishnah with Rabbi Werbow- Cancelled",
+     "url": "https://www.tifereth-israel.org/event/mishnah-with-rabbi-werbow--cancelled1.html"
+    },
+    {
+     "text": "Caf\u00e9 Kehillah",
+     "url": "https://www.tifereth-israel.org/event/kehillah-caf-.html"
+    }
+   ],
+   "platform": "shulcloud",
+   "error": ""
+  },
+  {
+   "url": "https://www.tifereth-israel.org/event/parashat-hashavua-class9.html?action=download",
+   "status": 200,
+   "final_url": "https://www.tifereth-israel.org/event/parashat-hashavua-class9.html?action=download",
+   "title": "",
+   "dates": 0,
+   "jsonld": 0,
+   "jsonld_samples": [],
+   "hints": [],
+   "iframes": [],
+   "event_links": [],
+   "platform": "shulcloud",
+   "error": ""
+  },
+  {
+   "url": "https://www.tifereth-israel.org/calendar",
+   "status": 200,
+   "final_url": "https://www.tifereth-israel.org/calendar",
+   "title": "Calendar - Tifereth Israel Congregation",
+   "dates": 11,
+   "jsonld": 0,
+   "jsonld_samples": [],
+   "hints": [],
+   "iframes": [],
+   "event_links": [
+    {
+     "text": "Calendar",
+     "url": "https://www.tifereth-israel.org/cal.php"
+    },
+    {
+     "text": "About Our Services",
+     "url": "https://www.tifereth-israel.org/service-schedule.html"
+    },
+    {
+     "text": "Clear",
+     "url": "https://www.tifereth-israel.org/calendar"
+    },
+    {
+     "text": "",
+     "url": "https://www.tifereth-israel.org/calendar?date_start=specific+date&date_start_x=0&date_start_date=2026-10-01"
+    },
+    {
+     "text": "",
+     "url": "https://www.tifereth-israel.org/calendar?date_start=specific+date&date_start_x=0&date_start_date=2026-12-01"
+    },
+    {
+     "text": "9:15am Morning Minyan",
+     "url": "https://www.tifereth-israel.org/event/sunday-morning-service-zoom---tentative.html"
+    },
+    {
+     "text": "1:00pm Capital Jewish Museum Tour: Esther Bubley: Photograph",
+     "url": "https://www.tifereth-israel.org/event/guided-tour-of-esther-bubley-photographing-the-homefront.html"
+    },
+    {
+     "text": "5:00pm Volunteer at Shepherd's Table",
+     "url": "https://www.tifereth-israel.org/event/serving-dinner-at-shepherds-table.html"
+    },
+    {
+     "text": "5:30pm Tzohar- Cancelled",
+     "url": "https://www.tifereth-israel.org/event/tzohar--cancelled.html"
+    },
+    {
+     "text": "11:00am Parashat HaShavua Class",
+     "url": "https://www.tifereth-israel.org/event/parashat-hashavua-class9.html"
+    },
+    {
+     "text": "1:00pm Hebrew Fiction Group",
+     "url": "https://www.tifereth-israel.org/event/hebrew-fiction-group---via-zoom.html"
+    },
+    {
+     "text": "1:45pm Interm. Hebrew-Beg. Tanach",
+     "url": "https://www.tifereth-israel.org/event/intermediate-hebrew-beginning-tanach3.html"
+    },
+    {
+     "text": "4:00pm Advanced Beginning Biblical Hebrew",
+     "url": "https://www.tifereth-israel.org/event/beginning-biblical-hebrew.html"
+    },
+    {
+     "text": "5:00pm Shalem Committee Meeting",
+     "url": "https://www.tifereth-israel.org/event/shalem-committee-meeting1.html"
+    },
+    {
+     "text": "5:30pm Election Eve Candlelight Vigil for Democracy, Peace a",
+     "url": "https://www.tifereth-israel.org/event/election-eve-candlelight-vigils-for-democracy-peace-and-hope.html"
+    },
+    {
+     "text": "7:30pm Yarning Club",
+     "url": "https://www.tifereth-israel.org/event/yarning-club.html"
+    },
+    {
+     "text": "1:00pm 2026 Annual Jewish Book Drive",
+     "url": "https://www.tifereth-israel.org/event/2026-annual-jewish-book-drive.html"
+    },
+    {
+     "text": "7:00pm Finance Committee Meeting",
+     "url": "https://www.tifereth-israel.org/event/finance-committee-meeting10.html"
+    },
+    {
+     "text": "10:30am Yoga for Adults",
+     "url": "https://www.tifereth-israel.org/event/yoga-for-adults.html"
+    },
+    {
+     "text": "4:00pm Vigil Against Racism",
+     "url": "https://www.tifereth-israel.org/event/vigil-against-racism26.html"
+    },
+    {
+     "text": "6:00pm Kabbalat Shabbat & Maariv",
+     "url": "https://www.tifereth-israel.org/event/kabbalat-shabbat--maariv.html"
+    },
+    {
+     "text": "8:15am Mishnah with Rabbi Werbow",
+     "url": "https://www.tifereth-israel.org/event/mishna-with-rabbi-werbow8.html"
+    },
+    {
+     "text": "9:00am Shabbat Morning Services",
+     "url": "https://www.tifereth-israel.org/event/shabbat-morning-services1.html"
+    },
+    {
+     "text": "10:00am Caf\u00e9 Kehillah",
+     "url": "https://www.tifereth-israel.org/event/kehillah-caf-.html"
+    },
+    {
+     "text": "11:00am Junior Minyan",
+     "url": "https://www.tifereth-israel.org/event/junior-minyan7.html"
+    }
+   ],
+   "platform": "shulcloud",
+   "error": ""
+  }
+ ],
+ "best_page": "https://tifereth-israel.org/event/parashat-hashavua-class9.html"
+}

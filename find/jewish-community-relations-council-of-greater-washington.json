@@ -1,0 +1,231 @@
+{
+ "row": "185",
+ "name": "Jewish Community Relations Council of Greater Washington",
+ "seed_url": "https://jcouncil.org/events/israels-2026-elections-three-part-educational-series-0",
+ "programs": "",
+ "access": "",
+ "found": "2026-11-28 03:12Z",
+ "search_hits": [],
+ "search_error": "html.duckduckgo.com Timeout; www.bing.com 0 hits (200, 141293b); lite.duckduckgo.com Timeout",
+ "probes": [
+  {
+   "url": "https://jcouncil.org/wp-json/tribe/events/v1/events?per_page=10",
+   "status": "HTTPError",
+   "events": 0
+  },
+  {
+   "url": "https://jcouncil.org/events/?ical=1",
+   "status": "HTTPError",
+   "events": 0
+  },
+  {
+   "url": "https://jcouncil.org/?ical=1",
+   "status": 200,
+   "events": 0,
+   "head": "<!DOCTYPE html>\n<html lang=\"en\" dir=\"ltr\" prefix=\"og: https://ogp.me/ns#\">\n  <head>\n    <meta charset=\"utf-8\" />\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-76144545-1\"></script>\n<script>window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments)};gtag(\""
+  }
+ ],
+ "pages": [
+  {
+   "url": "https://jcouncil.org/events/israels-2026-elections-three-part-educational-series-0",
+   "status": 200,
+   "final_url": "https://jcouncil.org/events/israels-2026-elections-three-part-educational-series-0",
+   "title": "Israel's 2026 Elections: A Three-Part Educational Series | Jewish Community Relations Council of Greater Washington",
+   "dates": 2,
+   "jsonld": 0,
+   "jsonld_samples": [],
+   "hints": [],
+   "iframes": [],
+   "event_links": [
+    {
+     "text": "JCRC Internship Program",
+     "url": "https://jcouncil.org/get-involved/internship"
+    },
+    {
+     "text": "Holiday Calendar",
+     "url": "https://jcouncil.org/get-involved/education/holiday-calendar"
+    },
+    {
+     "text": "Events",
+     "url": "https://jcouncil.org/calendar"
+    },
+    {
+     "text": "2026 Gala",
+     "url": "https://jcouncil.org/events/2026-annual-gala"
+    }
+   ],
+   "platform": "drupal",
+   "error": ""
+  },
+  {
+   "url": "https://jcouncil.org/",
+   "status": 200,
+   "final_url": "https://jcouncil.org/",
+   "title": "Welcome to the Jewish Community Relations Council of Greater Washington | Jewish Community Relations Council of Greater ",
+   "dates": 0,
+   "jsonld": 0,
+   "jsonld_samples": [],
+   "hints": [],
+   "iframes": [],
+   "event_links": [
+    {
+     "text": "JCRC Internship Program",
+     "url": "https://jcouncil.org/get-involved/internship"
+    },
+    {
+     "text": "Holiday Calendar",
+     "url": "https://jcouncil.org/get-involved/education/holiday-calendar"
+    },
+    {
+     "text": "Events",
+     "url": "https://jcouncil.org/calendar"
+    },
+    {
+     "text": "2026 Gala",
+     "url": "https://jcouncil.org/events/2026-annual-gala"
+    },
+    {
+     "text": "",
+     "url": "https://jcouncil.org/events/partners-peace-presents-across-table-tech2peace"
+    }
+   ],
+   "platform": "drupal",
+   "error": ""
+  },
+  {
+   "url": "https://jcouncil.org/get-involved/internship",
+   "status": 200,
+   "final_url": "https://jcouncil.org/get-involved/internship",
+   "title": "The JCRC Internship Program | Jewish Community Relations Council of Greater Washington",
+   "dates": 0,
+   "jsonld": 0,
+   "jsonld_samples": [],
+   "hints": [],
+   "iframes": [],
+   "event_links": [
+    {
+     "text": "Holiday Calendar",
+     "url": "https://jcouncil.org/get-involved/education/holiday-calendar"
+    },
+    {
+     "text": "Events",
+     "url": "https://jcouncil.org/calendar"
+    },
+    {
+     "text": "2026 Gala",
+     "url": "https://jcouncil.org/events/2026-annual-gala"
+    }
+   ],
+   "platform": "drupal",
+   "error": ""
+  },
+  {
+   "url": "https://jcouncil.org/get-involved/education/holiday-calendar",
+   "status": 200,
+   "final_url": "https://jcouncil.org/get-involved/education/holiday-calendar",
+   "title": "Holiday Calendar | Jewish Community Relations Council of Greater Washington",
+   "dates": 0,
+   "jsonld": 0,
+   "jsonld_samples": [],
+   "hints": [],
+   "iframes": [],
+   "event_links": [
+    {
+     "text": "JCRC Internship Program",
+     "url": "https://jcouncil.org/get-involved/internship"
+    },
+    {
+     "text": "Events",
+     "url": "https://jcouncil.org/calendar"
+    },
+    {
+     "text": "2026 Gala",
+     "url": "https://jcouncil.org/events/2026-annual-gala"
+    },
+    {
+     "text": "calendar  of Jewish holidays",
+     "url": "https://jcouncil.org/sites/default/files/documents/JCRC%202026-2028%20Holiday%20Calendar.pdf"
+    },
+    {
+     "text": "interfaith calendar",
+     "url": "https://www.jcouncil.org/media/2517"
+    }
+   ],
+   "platform": "drupal",
+   "error": ""
+  },
+  {
+   "url": "https://jcouncil.org/calendar",
+   "status": 200,
+   "final_url": "https://jcouncil.org/calendar",
+   "title": "Events Calendar | Jewish Community Relations Council of Greater Washington",
+   "dates": 4,
+   "jsonld": 0,
+   "jsonld_samples": [],
+   "hints": [],
+   "iframes": [],
+   "event_links": [
+    {
+     "text": "JCRC Internship Program",
+     "url": "https://jcouncil.org/get-involved/internship"
+    },
+    {
+     "text": "Holiday Calendar",
+     "url": "https://jcouncil.org/get-involved/education/holiday-calendar"
+    },
+    {
+     "text": "2026 Gala",
+     "url": "https://jcouncil.org/events/2026-annual-gala"
+    },
+    {
+     "text": "",
+     "url": "https://jcouncil.org/events/2026-maryland-lox-legislators-breakfast"
+    },
+    {
+     "text": "",
+     "url": "https://jcouncil.org/events/2026-virginia-lox-legislators-breakfast"
+    },
+    {
+     "text": "",
+     "url": "https://jcouncil.org/events/2026-dc-lox-legislators-breakfast"
+    },
+    {
+     "text": "",
+     "url": "https://jcouncil.org/events/partners-peace-presents-across-table-tech2peace"
+    }
+   ],
+   "platform": "drupal",
+   "error": ""
+  },
+  {
+   "url": "https://jcouncil.org/events/2026-annual-gala",
+   "status": 200,
+   "final_url": "https://jcouncil.org/events/2026-annual-gala",
+   "title": "2026 Annual Gala | Jewish Community Relations Council of Greater Washington",
+   "dates": 2,
+   "jsonld": 0,
+   "jsonld_samples": [],
+   "hints": [],
+   "iframes": [
+    "https://jcouncil.org/media/oembed?url=https%3A//vimeo.com/1227173323%3Fshare%3Dcopy%26fl%3Dsv%26fe%3Dci&max_width=0&max_height=0&hash=BYWkE_Pp9uBgHhonFlO8yohnT0k6B5Z7QK2-8Q5-fgw"
+   ],
+   "event_links": [
+    {
+     "text": "JCRC Internship Program",
+     "url": "https://jcouncil.org/get-involved/internship"
+    },
+    {
+     "text": "Holiday Calendar",
+     "url": "https://jcouncil.org/get-involved/education/holiday-calendar"
+    },
+    {
+     "text": "Events",
+     "url": "https://jcouncil.org/calendar"
+    }
+   ],
+   "platform": "drupal",
+   "error": ""
+  }
+ ],
+ "best_page": "https://jcouncil.org/calendar"
+}

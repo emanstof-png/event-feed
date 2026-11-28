@@ -1,0 +1,61 @@
+{
+ "row": "199",
+ "name": "Northstar Tutoring",
+ "seed_url": "https://northstartutoring.org/programming/location/reading-all-stars",
+ "programs": "",
+ "access": "",
+ "found": "2026-11-28 03:21Z",
+ "search_hits": [],
+ "search_error": "html.duckduckgo.com Timeout; www.bing.com 0 hits (200, 123389b); lite.duckduckgo.com Timeout",
+ "probes": [
+  {
+   "url": "https://northstartutoring.org/wp-json/tribe/events/v1/events?per_page=10",
+   "status": "HTTPError",
+   "events": 0
+  },
+  {
+   "url": "https://northstartutoring.org/events/?ical=1",
+   "status": "HTTPError",
+   "events": 0
+  },
+  {
+   "url": "https://northstartutoring.org/?ical=1",
+   "status": 200,
+   "events": 0,
+   "head": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n\n<meta charset=\"utf-8\">\n<meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\">\n<title>Northstar Tutoring in Washington, DC</title>\n\t<meta name=\"copyright\" content=\"Copyright &#169; 2025 Northstar Tutoring. All rights reserved.\">\n\t<meta name=\"description\" conten"
+  }
+ ],
+ "pages": [
+  {
+   "url": "https://northstartutoring.org/programming/location/reading-all-stars",
+   "status": 200,
+   "final_url": "https://northstartutoring.org/programming/location/reading-all-stars",
+   "title": "Programming :: Northstar Tutoring",
+   "dates": 0,
+   "jsonld": 0,
+   "jsonld_samples": [],
+   "hints": [],
+   "iframes": [],
+   "event_links": [],
+   "platform": "",
+   "error": ""
+  },
+  {
+   "url": "https://northstartutoring.org/",
+   "status": 200,
+   "final_url": "https://northstartutoring.org/",
+   "title": "Northstar Tutoring in Washington, DC",
+   "dates": 0,
+   "jsonld": 0,
+   "jsonld_samples": [],
+   "hints": [
+    "https://northstartutoring.org/es/"
+   ],
+   "iframes": [],
+   "event_links": [],
+   "platform": "",
+   "error": ""
+  }
+ ],
+ "best_page": "https://northstartutoring.org/programming/location/reading-all-stars"
+}

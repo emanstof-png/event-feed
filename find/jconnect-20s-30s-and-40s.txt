@@ -1,6 +1,6 @@
 JConnect (20s, 30s and 40s)
 best page: https://www.shalomdc.org/news-and-events/community-calendar/ (status 200, 246 date strings, 224 JSON-LD events)
-fetched 2026-11-28 01:51Z
+fetched 2026-11-28 02:48Z
 
 
 Community Calendar - Jewish Federation of Greater Washington

@@ -4,9 +4,9 @@
  "seed_url": "https://dc.alumni.columbia.edu/past_events",
  "programs": "",
  "access": "",
- "found": "2026-11-28 01:50Z",
+ "found": "2026-11-28 02:45Z",
  "search_hits": [],
- "search_error": "html.duckduckgo.com 0 hits (202, 15184b); www.bing.com 0 hits (200, 132115b); lite.duckduckgo.com 0 hits (202, 15172b)",
+ "search_error": "html.duckduckgo.com 0 hits (202, 15184b); www.bing.com 0 hits (200, 150396b); lite.duckduckgo.com 0 hits (202, 15183b)",
  "probes": [
   {
    "url": "https://dc.alumni.columbia.edu/wp-json/tribe/events/v1/events?per_page=10",

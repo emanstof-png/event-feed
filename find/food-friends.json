@@ -4,9 +4,9 @@
  "seed_url": "https://foodandfriends.org/volunteer/volunteer-with-us/",
  "programs": "",
  "access": "",
- "found": "2026-11-28 01:49Z",
+ "found": "2026-11-28 02:44Z",
  "search_hits": [],
- "search_error": "html.duckduckgo.com 0 hits (202, 15166b); www.bing.com 0 hits (200, 135834b); lite.duckduckgo.com 0 hits (202, 15160b)",
+ "search_error": "html.duckduckgo.com 0 hits (202, 15148b); www.bing.com 0 hits (200, 131345b); lite.duckduckgo.com 0 hits (202, 15154b)",
  "probes": [
   {
    "url": "https://foodandfriends.org/wp-json/tribe/events/v1/events?per_page=10",

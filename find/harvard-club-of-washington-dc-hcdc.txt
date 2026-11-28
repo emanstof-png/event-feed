@@ -1,6 +1,6 @@
 Harvard Club of Washington DC (hcdc)
 best page: https://dc.clubs.harvard.edu/events.html (status 200, 1 date strings, 0 JSON-LD events)
-fetched 2026-11-28 01:51Z
+fetched 2026-11-28 02:47Z
 
 
 Harvard Club of Washington, DC

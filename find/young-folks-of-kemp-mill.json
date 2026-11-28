@@ -4,9 +4,9 @@
  "seed_url": "https://gatherdc.org/event/chanukah-shabbat-stay-cation-begins-with-young-folks-of-kemp-mill/",
  "programs": "",
  "access": "",
- "found": "2026-11-28 01:54Z",
+ "found": "2026-11-28 02:50Z",
  "search_hits": [],
- "search_error": "html.duckduckgo.com Timeout; www.bing.com 0 hits (200, 128574b); lite.duckduckgo.com Timeout",
+ "search_error": "html.duckduckgo.com Timeout; www.bing.com 0 hits (200, 150638b); lite.duckduckgo.com Timeout",
  "probes": [
   {
    "url": "https://gatherdc.org/wp-json/tribe/events/v1/events?per_page=10",

@@ -4,9 +4,9 @@
  "seed_url": "https://washingtondc.korean-culture.org/en/1129/board/893/list",
  "programs": "",
  "access": "",
- "found": "2026-11-28 01:49Z",
+ "found": "2026-11-28 02:44Z",
  "search_hits": [],
- "search_error": "html.duckduckgo.com 0 hits (202, 15190b); www.bing.com 0 hits (200, 131517b); lite.duckduckgo.com 0 hits (202, 15196b)",
+ "search_error": "html.duckduckgo.com 0 hits (202, 15189b); www.bing.com 0 hits (200, 135686b); lite.duckduckgo.com 0 hits (202, 15190b)",
  "probes": [
   {
    "url": "https://washingtondc.korean-culture.org/wp-json/tribe/events/v1/events?per_page=10",

@@ -1,6 +1,6 @@
 Arlington Meditation and Modern Buddhism Meetup
 best page: https://www.meetup.com/ (status 200, 36 date strings, 12 JSON-LD events)
-fetched 2026-11-28 01:50Z
+fetched 2026-11-28 02:45Z
 
 Meetup | Find Local Groups, Events, and Activities Near You
 Skip to content
@@ -29,215 +29,221 @@ The
 Whatever your interest, from hiking and reading to networking and skill sharing, there are thousands of people who share it on Meetup. Events are happening every day—sign up to join the fun.
 Join Meetup
 Events near 
-Paradise Valley, AZ
+Windsor Heights, IA
 See all events
 Free
-Welcome Gathering: An Evening of Wonder & Connection
-Wed, Dec 9 · 1:00 AM UTC
-by Ascended Masters Study & Inner Growth
+NixOS: Functional Programming for Your Operating System
+Thu, Dec 3 · 12:00 AM UTC
+by DevOpsDSM
+11 attendees
+Free
+Hybrid .NET@ Night- GitHub Copilot: from Prompt to Pull Request Workshop
+Thu, Dec 10 · 11:00 PM UTC
+·
+Hybrid
+by Iowa .NET User Group
+1 attendee
+Free
+Celebrate the season of at Exile's Snow Globe with White Elephant
+Sun, Dec 6 · 12:45 AM UTC
+by Everyone Knows Your Name Cocktail Group 35 years and up
+10 attendees
+Free
+Hike at Purple Martin Lake
+Sat, Dec 5 · 3:00 PM UTC
+by Centering Nature
+13 attendees
+Free
+Being Social #FridayEve
+Fri, Dec 4 · 12:00 AM UTC
+by Being Social Meetup
+3 attendees
+Free
+Wordle Solving Strategies in Rust and Python
+Tue, Dec 1 · 11:30 PM UTC
+by Iowa Python User Group
+7 attendees
+Free
+Relax, at Starbucks in Clive
+Sat, Nov 28 · 3:00 PM UTC
+by Relax, It's Just Coffee
 6 attendees
 Free
-Christmas Party - Ugly Sweater
-Wed, Dec 16 · 1:00 AM UTC
-by The Social Entrepreneur
-46 attendees
+Single and Mingles First Event @ Lachele’s on 6th
+Fri, Dec 4 · 12:00 AM UTC
+by Single & Mingle
+11 attendees
 Free
-AZ OFFLINE MIXER
-Wed, Dec 2 · 1:00 AM UTC
-by AZ OFFLINE
-52 attendees
+NixOS: Functional Programming for Your Operating System
+Thu, Dec 3 · 12:00 AM UTC
+by DevOpsDSM
+11 attendees
 Free
-Phoenix Tech Holiday Networking 2-Year Anniversary Celebration!
-Thu, Dec 10 · 12:30 AM UTC
-by Phoenix Tech Group
-36 attendees
+Hybrid .NET@ Night- GitHub Copilot: from Prompt to Pull Request Workshop
+Thu, Dec 10 · 11:00 PM UTC
+·
+Hybrid
+by Iowa .NET User Group
+1 attendee
 Free
-Saturday Coffee @ Kahvi
-Sat, Nov 28 · 7:00 PM UTC
-by Coffee Collective
-9 attendees
+Celebrate the season of at Exile's Snow Globe with White Elephant
+Sun, Dec 6 · 12:45 AM UTC
+by Everyone Knows Your Name Cocktail Group 35 years and up
+10 attendees
 Free
-AI Psychosis: Sorting Real Risk from Media Hype
-Fri, Dec 18 · 1:00 AM UTC
-by Arizona AI & Emerging Technology
-49 attendees
+Hike at Purple Martin Lake
+Sat, Dec 5 · 3:00 PM UTC
+by Centering Nature
+13 attendees
 Free
-Board Game Cafe
-Tue, Dec 1 · 12:30 AM UTC
-by Tempe Public Library
-33 attendees
+Being Social #FridayEve
+Fri, Dec 4 · 12:00 AM UTC
+by Being Social Meetup
+3 attendees
 Free
-Tempe Library Improv Club
-Thu, Dec 3 · 1:00 AM UTC
-by Tempe Public Library
-27 attendees
+Wordle Solving Strategies in Rust and Python
+Tue, Dec 1 · 11:30 PM UTC
+by Iowa Python User Group
+7 attendees
 Free
-Welcome Gathering: An Evening of Wonder & Connection
-Wed, Dec 9 · 1:00 AM UTC
-by Ascended Masters Study & Inner Growth
+Relax, at Starbucks in Clive
+Sat, Nov 28 · 3:00 PM UTC
+by Relax, It's Just Coffee
 6 attendees
 Free
-Christmas Party - Ugly Sweater
-Wed, Dec 16 · 1:00 AM UTC
-by The Social Entrepreneur
-46 attendees
+Single and Mingles First Event @ Lachele’s on 6th
+Fri, Dec 4 · 12:00 AM UTC
+by Single & Mingle
+11 attendees
 Free
-AZ OFFLINE MIXER
-Wed, Dec 2 · 1:00 AM UTC
-by AZ OFFLINE
-52 attendees
+NixOS: Functional Programming for Your Operating System
+Thu, Dec 3 · 12:00 AM UTC
+by DevOpsDSM
+11 attendees
 Free
-Phoenix Tech Holiday Networking 2-Year Anniversary Celebration!
-Thu, Dec 10 · 12:30 AM UTC
-by Phoenix Tech Group
-36 attendees
+Hybrid .NET@ Night- GitHub Copilot: from Prompt to Pull Request Workshop
+Thu, Dec 10 · 11:00 PM UTC
+·
+Hybrid
+by Iowa .NET User Group
+1 attendee
 Free
-Saturday Coffee @ Kahvi
-Sat, Nov 28 · 7:00 PM UTC
-by Coffee Collective
-9 attendees
+Celebrate the season of at Exile's Snow Globe with White Elephant
+Sun, Dec 6 · 12:45 AM UTC
+by Everyone Knows Your Name Cocktail Group 35 years and up
+10 attendees
 Free
-AI Psychosis: Sorting Real Risk from Media Hype
-Fri, Dec 18 · 1:00 AM UTC
-by Arizona AI & Emerging Technology
-49 attendees
+Hike at Purple Martin Lake
+Sat, Dec 5 · 3:00 PM UTC
+by Centering Nature
+13 attendees
 Free
-Board Game Cafe
-Tue, Dec 1 · 12:30 AM UTC
-by Tempe Public Library
-33 attendees
+Being Social #FridayEve
+Fri, Dec 4 · 12:00 AM UTC
+by Being Social Meetup
+3 attendees
 Free
-Tempe Library Improv Club
-Thu, Dec 3 · 1:00 AM UTC
-by Tempe Public Library
-27 attendees
+Wordle Solving Strategies in Rust and Python
+Tue, Dec 1 · 11:30 PM UTC
+by Iowa Python User Group
+7 attendees
 Free
-Welcome Gathering: An Evening of Wonder & Connection
-Wed, Dec 9 · 1:00 AM UTC
-by Ascended Masters Study & Inner Growth
+Relax, at Starbucks in Clive
+Sat, Nov 28 · 3:00 PM UTC
+by Relax, It's Just Coffee
 6 attendees
 Free
-Christmas Party - Ugly Sweater
-Wed, Dec 16 · 1:00 AM UTC
-by The Social Entrepreneur
-46 attendees
-Free
-AZ OFFLINE MIXER
-Wed, Dec 2 · 1:00 AM UTC
-by AZ OFFLINE
-52 attendees
-Free
-Phoenix Tech Holiday Networking 2-Year Anniversary Celebration!
-Thu, Dec 10 · 12:30 AM UTC
-by Phoenix Tech Group
-36 attendees
-Free
-Saturday Coffee @ Kahvi
-Sat, Nov 28 · 7:00 PM UTC
-by Coffee Collective
-9 attendees
-Free
-AI Psychosis: Sorting Real Risk from Media Hype
-Fri, Dec 18 · 1:00 AM UTC
-by Arizona AI & Emerging Technology
-49 attendees
-Free
-Board Game Cafe
-Tue, Dec 1 · 12:30 AM UTC
-by Tempe Public Library
-33 attendees
-Free
-Tempe Library Improv Club
-Thu, Dec 3 · 1:00 AM UTC
-by Tempe Public Library
-27 attendees
+Single and Mingles First Event @ Lachele’s on 6th
+Fri, Dec 4 · 12:00 AM UTC
+by Single & Mingle
+11 attendees
 See all events
 Upcoming online events
 See all events
 Free
-FREE Bipolar & Depression Peer-Run Support Group
-Sat, Nov 28 · 2:30 AM UTC
-·
-Online
-by FREE Depression & Bipolar Support Peer-Run Group
-1 attendee
-Free
-FREE DAILY Online 30-minute Meditation Session
+🗣️ English Practice | Meet Friends (Professional Host)
 Sat, Nov 28 · 2:00 AM UTC
 ·
 Online
-by Himalayan Samarpan Meditation
-2 attendees
+by 🌎 Winnipeg Conversation Exchange
+8 attendees
 Free
-Hell Yeah! It's Game Night
-Sat, Nov 28 · 2:30 AM UTC
+Accountability & Movement Week
+Sat, Nov 28 · 5:00 PM UTC
 ·
 Online
-by The Atheist Odyssey
-15 attendees
-Free
-Midweek Mind Reset 
-Sat, Nov 28 · 2:30 AM UTC
-·
-Online
-by Secrets for Higher Dimensional Living
+by Women Ending Emotional Eating Group (Online Meetings)
 10 attendees
 Free
-FREE Bipolar & Depression Peer-Run Support Group
-Sat, Nov 28 · 2:30 AM UTC
+AI for Developers: Productivity, Building, and Dev Setup
+Sat, Nov 28 · 3:30 PM UTC
 ·
 Online
-by FREE Depression & Bipolar Support Peer-Run Group
-1 attendee
+by The Ubuntu TechHive North America
+62 attendees
 Free
-FREE DAILY Online 30-minute Meditation Session
+✨ Saturday Sparkle Spree: Let’s Clean Together
+Sat, Nov 28 · 4:30 PM UTC
+·
+Online
+by Adult ADHD Community: That Exactly
+15 attendees
+Free
+🗣️ English Practice | Meet Friends (Professional Host)
 Sat, Nov 28 · 2:00 AM UTC
 ·
 Online
-by Himalayan Samarpan Meditation
-2 attendees
+by 🌎 Winnipeg Conversation Exchange
+8 attendees
 Free
-Hell Yeah! It's Game Night
-Sat, Nov 28 · 2:30 AM UTC
+Accountability & Movement Week
+Sat, Nov 28 · 5:00 PM UTC
 ·
 Online
-by The Atheist Odyssey
-15 attendees
-Free
-Midweek Mind Reset 
-Sat, Nov 28 · 2:30 AM UTC
-·
-Online
-by Secrets for Higher Dimensional Living
+by Women Ending Emotional Eating Group (Online Meetings)
 10 attendees
 Free
-FREE Bipolar & Depression Peer-Run Support Group
-Sat, Nov 28 · 2:30 AM UTC
+AI for Developers: Productivity, Building, and Dev Setup
+Sat, Nov 28 · 3:30 PM UTC
 ·
 Online
-by FREE Depression & Bipolar Support Peer-Run Group
-1 attendee
+by The Ubuntu TechHive North America
+62 attendees
 Free
-FREE DAILY Online 30-minute Meditation Session
+✨ Saturday Sparkle Spree: Let’s Clean Together
+Sat, Nov 28 · 4:30 PM UTC
+·
+Online
+by Adult ADHD Community: That Exactly
+15 attendees
+Free
+🗣️ English Practice | Meet Friends (Professional Host)
 Sat, Nov 28 · 2:00 AM UTC
 ·
 Online
-by Himalayan Samarpan Meditation
-2 attendees
+by 🌎 Winnipeg Conversation Exchange
+8 attendees
 Free
-Hell Yeah! It's Game Night
-Sat, Nov 28 · 2:30 AM UTC
+Accountability & Movement Week
+Sat, Nov 28 · 5:00 PM UTC
 ·
 Online
-by The Atheist Odyssey
-15 attendees
-Free
-Midweek Mind Reset 
-Sat, Nov 28 · 2:30 AM UTC
-·
-Online
-by Secrets for Higher Dimensional Living
+by Women Ending Emotional Eating Group (Online Meetings)
 10 attendees
+Free
+AI for Developers: Productivity, Building, and Dev Setup
+Sat, Nov 28 · 3:30 PM UTC
+·
+Online
+by The Ubuntu TechHive North America
+62 attendees
+Free
+✨ Saturday Sparkle Spree: Let’s Clean Together
+Sat, Nov 28 · 4:30 PM UTC
+·
+Online
+by Adult ADHD Community: That Exactly
+15 attendees
 See all events
 Meet new
 people!
@@ -280,25 +286,4 @@ Science and Education
 Popular cities on Meetup
 We're
 everywhere!
-Looking for fun things to do near you? See what Meetup organizers are planning in cities around the country.
-New York
-New York
-San Francisco
-San Francisco
-Chicago
-Chicago
-Nashville
-Nashville
-Miami
-Miami
-How Meetup works
-Discover events and groups
-See who's hosting local events for all the things you love
-Start exploring
-Find your people
-Connect over shared interests, and enjoy meaningful experiences.
-Start a group to host events
-Create your own Meetup group, and draw from a community of millions
-Start group
-Discover events and groups
-See who's hos
+Looking for fun things to do near you? See wha

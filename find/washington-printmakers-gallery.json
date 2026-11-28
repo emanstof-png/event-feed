@@ -4,9 +4,9 @@
  "seed_url": "https://www.washingtonprintmakers.com/classes-and-workshops",
  "programs": "",
  "access": "",
- "found": "2026-11-28 01:58Z",
+ "found": "2026-11-28 02:54Z",
  "search_hits": [],
- "search_error": "html.duckduckgo.com Timeout; www.bing.com 0 hits (200, 128275b); lite.duckduckgo.com Timeout",
+ "search_error": "html.duckduckgo.com Timeout; www.bing.com 0 hits (200, 563221b); lite.duckduckgo.com Timeout",
  "probes": [
   {
    "url": "https://www.washingtonprintmakers.com/wp-json/tribe/events/v1/events?per_page=10",

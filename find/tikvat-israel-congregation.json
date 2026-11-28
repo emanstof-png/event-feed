@@ -1,0 +1,281 @@
+{
+ "row": "195",
+ "name": "Tikvat Israel Congregation",
+ "seed_url": "https://tikvatisrael.org/community-activities",
+ "programs": "",
+ "access": "",
+ "found": "2026-11-28 03:18Z",
+ "search_hits": [],
+ "search_error": "html.duckduckgo.com Timeout; www.bing.com 0 hits (200, 138325b); lite.duckduckgo.com Timeout",
+ "probes": [
+  {
+   "url": "https://www.tikvatisrael.org/wp-json/tribe/events/v1/events?per_page=10",
+   "status": "HTTPError",
+   "events": 0
+  },
+  {
+   "url": "https://www.tikvatisrael.org/events/?ical=1",
+   "status": 200,
+   "events": 0,
+   "head": "<!DOCTYPE html>\r\n<!--[if IEMobile 7 ]> <html dir=\"ltr\" lang=\"en-US\" prefix=\"og: https://ogp.me/ns#\"class=\"no-js iem7\"> <![endif]-->\r\n<!--[if lt IE 7 ]> <html dir=\"ltr\" lang=\"en-US\" prefix=\"og: https://ogp.me/ns#\" class=\"no-js ie6\"> <![endif]-->\r\n<!--[if IE 7 ]>    <html dir=\"ltr\" lang=\"en-US\" prefix"
+  },
+  {
+   "url": "https://www.tikvatisrael.org/?ical=1",
+   "status": 200,
+   "events": 0,
+   "head": "<!DOCTYPE html>\r\n<!--[if IEMobile 7 ]> <html dir=\"ltr\" lang=\"en-US\" prefix=\"og: https://ogp.me/ns#\"class=\"no-js iem7\"> <![endif]-->\r\n<!--[if lt IE 7 ]> <html dir=\"ltr\" lang=\"en-US\" prefix=\"og: https://ogp.me/ns#\" class=\"no-js ie6\"> <![endif]-->\r\n<!--[if IE 7 ]>    <html dir=\"ltr\" lang=\"en-US\" prefix"
+  }
+ ],
+ "pages": [
+  {
+   "url": "https://tikvatisrael.org/community-activities",
+   "status": 200,
+   "final_url": "https://www.tikvatisrael.org/",
+   "title": "Welcome to Tikvat Israel Congregation in Rockville, MDTikvat Israel Congregation",
+   "dates": 8,
+   "jsonld": 0,
+   "jsonld_samples": [],
+   "hints": [
+    "https://www.tikvatisrael.org/feed/",
+    "https://www.tikvatisrael.org/feed/atom/",
+    "https://www.tikvatisrael.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.tikvatisrael.org%2F",
+    "https://www.tikvatisrael.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.tikvatisrael.org%2F&format=xml",
+    "https://www.tikvatisrael.org/wp-json/wp/v2/pages/2914",
+    "https://www.tikvatisrael.org/wp-content/plugins/nextgen-gallery/src/Legacy/xml/media-rss.php"
+   ],
+   "iframes": [],
+   "event_links": [
+    {
+     "text": "Calendar",
+     "url": "https://www.tikvatisrael.org/happenings/full-calendar/"
+    },
+    {
+     "text": "Teen Group",
+     "url": "https://www.tikvatisrael.org/get-involved/youth-programs/"
+    },
+    {
+     "text": "Havurah Programs",
+     "url": "https://www.tikvatisrael.org/get-involved/havurah-program/"
+    },
+    {
+     "text": "Communicate",
+     "url": "https://www.tikvatisrael.org/happenings/"
+    },
+    {
+     "text": "Tikvat Israel Bulletin",
+     "url": "https://www.tikvatisrael.org/happenings/bulletins/"
+    },
+    {
+     "text": "Connect With Us",
+     "url": "https://www.tikvatisrael.org/happenings/connect-with-us/"
+    },
+    {
+     "text": "Upcoming Events",
+     "url": "https://www.tikvatisrael.org/happenings/upcoming-events/"
+    },
+    {
+     "text": "",
+     "url": "https://www.tikvatisrael.org/sea-change-announces-upcoming-events/"
+    },
+    {
+     "text": "Click Here to learn About additional upcoming Events",
+     "url": "https://www.tikvatisrael.org/whats-happening/"
+    }
+   ],
+   "platform": "wordpress shulcloud [All in One SEO (AIOSEO) 5.0.6.1]",
+   "error": ""
+  },
+  {
+   "url": "https://www.tikvatisrael.org/happenings/full-calendar/",
+   "status": 200,
+   "final_url": "https://www.tikvatisrael.org/happenings/full-calendar/",
+   "title": "Full Calendar | Tikvat Israel Congregation - Conservative Synagogue in Rockville, MDTikvat Israel Congregation",
+   "dates": 1,
+   "jsonld": 0,
+   "jsonld_samples": [],
+   "hints": [
+    "https://www.tikvatisrael.org/feed/",
+    "https://www.tikvatisrael.org/feed/atom/",
+    "https://www.tikvatisrael.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.tikvatisrael.org%2Fhappenings%2Ffull-calendar%2F",
+    "https://www.tikvatisrael.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.tikvatisrael.org%2Fhappenings%2Ffull-calendar%2F&format=xml",
+    "https://www.tikvatisrael.org/wp-json/wp/v2/pages/2919",
+    "https://www.tikvatisrael.org/wp-content/plugins/nextgen-gallery/src/Legacy/xml/media-rss.php",
+    "https://calendar.google.com/calendar/embed?height=1400&wkst=1&ctz=America%2FNew_York&title=Tikvat%20Israel%20Calendar&showTz=0&mode=AGENDA&src=ZnYwYWJuc2s0ZDZoNjBtc3FyOHBibnY2b2dAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&src=Y19hcmhwZWUwY3ZxY2RuYjdqbTEyYjY0M2lva0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t&src=YzBuYW41NWIxdmRxbDg4Y3NlOGVyMmxsbGtAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&color=%23e67c73&color=%23d50000&color=%230b8043"
+   ],
+   "iframes": [
+    "https://calendar.google.com/calendar/embed?height=1400&wkst=1&ctz=America%2FNew_York&title=Tikvat%20Israel%20Calendar&showTz=0&mode=AGENDA&src=ZnYwYWJuc2s0ZDZoNjBtc3FyOHBibnY2b2dAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&src=Y19hcmhwZWUwY3ZxY2RuYjdqbTEyYjY0M2lva0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t&src=YzBuYW41NWIxdmRxbDg4Y3NlOGVyMmxsbGtAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&color=%23e67c73&color=%23d50000&color=%230b8043"
+   ],
+   "event_links": [
+    {
+     "text": "Teen Group",
+     "url": "https://www.tikvatisrael.org/get-involved/youth-programs/"
+    },
+    {
+     "text": "Havurah Programs",
+     "url": "https://www.tikvatisrael.org/get-involved/havurah-program/"
+    },
+    {
+     "text": "Communicate",
+     "url": "https://www.tikvatisrael.org/happenings/"
+    },
+    {
+     "text": "Tikvat Israel Bulletin",
+     "url": "https://www.tikvatisrael.org/happenings/bulletins/"
+    },
+    {
+     "text": "Connect With Us",
+     "url": "https://www.tikvatisrael.org/happenings/connect-with-us/"
+    },
+    {
+     "text": "Upcoming Events",
+     "url": "https://www.tikvatisrael.org/happenings/upcoming-events/"
+    }
+   ],
+   "platform": "wordpress shulcloud [All in One SEO (AIOSEO) 5.0.6.1]",
+   "error": ""
+  },
+  {
+   "url": "https://www.tikvatisrael.org/get-involved/youth-programs/",
+   "status": 200,
+   "final_url": "https://www.tikvatisrael.org/get-involved/youth-programs/",
+   "title": "Teen Group | Tikvat Israel Congregation - Conservative Synagogue in Rockville, MDTikvat Israel Congregation",
+   "dates": 1,
+   "jsonld": 0,
+   "jsonld_samples": [],
+   "hints": [
+    "https://www.tikvatisrael.org/feed/",
+    "https://www.tikvatisrael.org/feed/atom/",
+    "https://www.tikvatisrael.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.tikvatisrael.org%2Fget-involved%2Fyouth-programs%2F",
+    "https://www.tikvatisrael.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.tikvatisrael.org%2Fget-involved%2Fyouth-programs%2F&format=xml",
+    "https://www.tikvatisrael.org/wp-json/wp/v2/pages/4217",
+    "https://www.tikvatisrael.org/wp-content/plugins/nextgen-gallery/src/Legacy/xml/media-rss.php"
+   ],
+   "iframes": [],
+   "event_links": [
+    {
+     "text": "Calendar",
+     "url": "https://www.tikvatisrael.org/happenings/full-calendar/"
+    },
+    {
+     "text": "Havurah Programs",
+     "url": "https://www.tikvatisrael.org/get-involved/havurah-program/"
+    },
+    {
+     "text": "Communicate",
+     "url": "https://www.tikvatisrael.org/happenings/"
+    },
+    {
+     "text": "Tikvat Israel Bulletin",
+     "url": "https://www.tikvatisrael.org/happenings/bulletins/"
+    },
+    {
+     "text": "Connect With Us",
+     "url": "https://www.tikvatisrael.org/happenings/connect-with-us/"
+    },
+    {
+     "text": "Upcoming Events",
+     "url": "https://www.tikvatisrael.org/happenings/upcoming-events/"
+    },
+    {
+     "text": "Tikvat Israel Calendar",
+     "url": "http://tikvatisrael.org/calendar/"
+    }
+   ],
+   "platform": "wordpress shulcloud [All in One SEO (AIOSEO) 5.0.6.1]",
+   "error": ""
+  },
+  {
+   "url": "https://www.tikvatisrael.org/get-involved/havurah-program/",
+   "status": 200,
+   "final_url": "https://www.tikvatisrael.org/get-involved/havurah-program/",
+   "title": "Havurah Programs | Tikvat Israel Congregation - Conservative Synagogue in Rockville, MDTikvat Israel Congregation",
+   "dates": 1,
+   "jsonld": 0,
+   "jsonld_samples": [],
+   "hints": [
+    "https://www.tikvatisrael.org/feed/",
+    "https://www.tikvatisrael.org/feed/atom/",
+    "https://www.tikvatisrael.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.tikvatisrael.org%2Fget-involved%2Fhavurah-program%2F",
+    "https://www.tikvatisrael.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.tikvatisrael.org%2Fget-involved%2Fhavurah-program%2F&format=xml",
+    "https://www.tikvatisrael.org/wp-json/wp/v2/pages/4240",
+    "https://www.tikvatisrael.org/wp-content/plugins/nextgen-gallery/src/Legacy/xml/media-rss.php"
+   ],
+   "iframes": [],
+   "event_links": [
+    {
+     "text": "Calendar",
+     "url": "https://www.tikvatisrael.org/happenings/full-calendar/"
+    },
+    {
+     "text": "Teen Group",
+     "url": "https://www.tikvatisrael.org/get-involved/youth-programs/"
+    },
+    {
+     "text": "Communicate",
+     "url": "https://www.tikvatisrael.org/happenings/"
+    },
+    {
+     "text": "Tikvat Israel Bulletin",
+     "url": "https://www.tikvatisrael.org/happenings/bulletins/"
+    },
+    {
+     "text": "Connect With Us",
+     "url": "https://www.tikvatisrael.org/happenings/connect-with-us/"
+    },
+    {
+     "text": "Upcoming Events",
+     "url": "https://www.tikvatisrael.org/happenings/upcoming-events/"
+    }
+   ],
+   "platform": "wordpress shulcloud [All in One SEO (AIOSEO) 5.0.6.1]",
+   "error": ""
+  },
+  {
+   "url": "https://www.tikvatisrael.org/happenings/",
+   "status": 200,
+   "final_url": "https://www.tikvatisrael.org/happenings/connect-with-us/",
+   "title": "Connect With Us | Tikvat Israel Congregation - Conservative Synagogue in Rockville, MDTikvat Israel Congregation",
+   "dates": 1,
+   "jsonld": 0,
+   "jsonld_samples": [],
+   "hints": [
+    "https://www.tikvatisrael.org/feed/",
+    "https://www.tikvatisrael.org/feed/atom/",
+    "https://www.tikvatisrael.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.tikvatisrael.org%2Fhappenings%2Fconnect-with-us%2F",
+    "https://www.tikvatisrael.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.tikvatisrael.org%2Fhappenings%2Fconnect-with-us%2F&format=xml",
+    "https://www.tikvatisrael.org/wp-json/wp/v2/pages/4507",
+    "https://www.tikvatisrael.org/wp-content/plugins/nextgen-gallery/src/Legacy/xml/media-rss.php"
+   ],
+   "iframes": [],
+   "event_links": [
+    {
+     "text": "Calendar",
+     "url": "https://www.tikvatisrael.org/happenings/full-calendar/"
+    },
+    {
+     "text": "Teen Group",
+     "url": "https://www.tikvatisrael.org/get-involved/youth-programs/"
+    },
+    {
+     "text": "Havurah Programs",
+     "url": "https://www.tikvatisrael.org/get-involved/havurah-program/"
+    },
+    {
+     "text": "Communicate",
+     "url": "https://www.tikvatisrael.org/happenings/"
+    },
+    {
+     "text": "Tikvat Israel Bulletin",
+     "url": "https://www.tikvatisrael.org/happenings/bulletins/"
+    },
+    {
+     "text": "Upcoming Events",
+     "url": "https://www.tikvatisrael.org/happenings/upcoming-events/"
+    }
+   ],
+   "platform": "wordpress shulcloud [All in One SEO (AIOSEO) 5.0.6.1]",
+   "error": ""
+  }
+ ],
+ "best_page": "https://tikvatisrael.org/community-activities"
+}

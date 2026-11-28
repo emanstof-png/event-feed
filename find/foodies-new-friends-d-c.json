@@ -1,0 +1,703 @@
+{
+ "row": "179",
+ "name": "Foodies + New Friends: D.C.",
+ "seed_url": "https://eventbrite.com/e/dc-social-club-monthly-foodies-new-friends-tickets-1991797637351",
+ "programs": "",
+ "access": "",
+ "found": "2026-11-28 03:08Z",
+ "search_hits": [],
+ "search_error": "html.duckduckgo.com Timeout; www.bing.com 0 hits (200, 129028b); lite.duckduckgo.com Timeout",
+ "probes": [
+  {
+   "url": "https://www.eventbrite.com/wp-json/tribe/events/v1/events?per_page=10",
+   "status": "HTTPError",
+   "events": 0
+  },
+  {
+   "url": "https://www.eventbrite.com/events/?ical=1",
+   "status": "HTTPError",
+   "events": 0
+  },
+  {
+   "url": "https://www.eventbrite.com/?ical=1",
+   "status": 200,
+   "events": 0,
+   "head": "<!DOCTYPE html><html lang=\"en\" class=\"homepageGlobal-module-scss-module__4uyRBq__homepageSurface\"><head><meta charSet=\"utf-8\" data-next-head=\"\"/><meta name=\"viewport\" content=\"width=device-width, initial-scale=1, viewport-fit=cover\" data-next-head=\"\"/><link rel=\"icon\" type=\"image/png\" href=\"https://"
+  }
+ ],
+ "pages": [
+  {
+   "url": "https://eventbrite.com/e/dc-social-club-monthly-foodies-new-friends-tickets-1991797637351",
+   "status": 200,
+   "final_url": "https://www.eventbrite.com/e/dc-social-club-monthly-foodies-new-friends-tickets-1991797637351",
+   "title": "D.C. Social Club Monthly | Foodies + New Friends Tickets, Multiple dates | Eventbrite",
+   "dates": 0,
+   "jsonld": 1,
+   "jsonld_samples": [
+    {
+     "name": "D.C. Social Club Monthly | Foodies + New Friends",
+     "start": "2026-06-20T19:00:00-04:00",
+     "url": "https://www.eventbrite.com/e/dc-social-club-monthly-foodies-new-friends-tickets-1991797637351"
+    }
+   ],
+   "hints": [
+    "https://www.eventbrite.com/e/dc-social-club-monthly-foodies-new-friends-tickets-1991797637351",
+    "android-app://com.eventbrite.attendee/http/www.eventbrite.com/e/1991797637351?referrer=eandurlxgoog",
+    "https://www.eventbrite.com/e/200-cities-project-frankfort-dinner-with-strangers-109-tickets-1296383149899?aff=oddtdtcreator",
+    "https://www.eventbrite.com/o/120349926331"
+   ],
+   "iframes": [],
+   "event_links": [
+    {
+     "text": "Eventbrite",
+     "url": "https://www.eventbrite.com/"
+    },
+    {
+     "text": "Find Events",
+     "url": "https://www.eventbrite.com/d/local/events/"
+    },
+    {
+     "text": "Event Ticketing",
+     "url": "https://www.eventbrite.com/l/sell-tickets/"
+    },
+    {
+     "text": "Event Marketing Platform",
+     "url": "https://www.eventbrite.com/l/event-marketing-platform/"
+    },
+    {
+     "text": "Eventbrite Ads",
+     "url": "https://www.eventbrite.com/l/eventbrite-ads/"
+    },
+    {
+     "text": "Payments",
+     "url": "https://www.eventbrite.com/l/event-payment/"
+    },
+    {
+     "text": "Food & Beverage",
+     "url": "https://www.eventbrite.com/l/food-drink-event-ticketing/"
+    },
+    {
+     "text": "Retail",
+     "url": "https://www.eventbrite.com/l/host-retail-events/"
+    },
+    {
+     "text": "Corporate Events",
+     "url": "https://www.eventbrite.com/l/eventbrite-for-business/"
+    },
+    {
+     "text": "Online Events",
+     "url": "https://www.eventbrite.com/l/virtual-events-platform/"
+    },
+    {
+     "text": "Create Events",
+     "url": "https://www.eventbrite.com/organizer/overview/"
+    },
+    {
+     "text": "Find your tickets",
+     "url": "https://www.eventbrite.com/help/en-us/articles/319355/where-are-my-tickets/"
+    },
+    {
+     "text": "Contact your event organiser",
+     "url": "https://www.eventbrite.com/help/en-us/articles/647151/how-to-contact-the-event-organizer/"
+    },
+    {
+     "text": "Eventbrite's 2025 TRNDS report",
+     "url": "https://www.eventbrite.com/blog/wp-content/uploads/2025/01/Eventbrite-TRNDS-2025-UKI.pdf?utm_campaign=6747205-TRNDS%202025%20Campaign&utm_medium=email&_hsenc=p2ANqtz-9WpoZybeaMwyBjZ08sKKMKeanj_udKGTJ5JoEfJZO_ZH6bfePBT1CUFuDJujWoFvwuWcHPe8lg9YKlfo2w9LFEaZyfhg&_hsmi=346114938&utm_content=346114938&utm_source=hs_email"
+    },
+    {
+     "text": "ermantourageimpact@gmail.com",
+     "url": "https://www.eventbrite.com/e/200-cities-project-frankfort-dinner-with-strangers-109-tickets-1296383149899?aff=oddtdtcreator"
+    },
+    {
+     "text": "United States Events",
+     "url": "https://www.eventbrite.com/d/united-states/events"
+    },
+    {
+     "text": "District of Columbia Events",
+     "url": "https://www.eventbrite.com/d/united-states--district-of-columbia/events"
+    },
+    {
+     "text": "Event Blog",
+     "url": "https://www.eventbrite.com/blog/"
+    },
+    {
+     "text": "Eventbrite + Yoga",
+     "url": "https://www.eventbrite.com/l/host-yoga-event/"
+    },
+    {
+     "text": "Event Management & Planning",
+     "url": "https://www.eventbrite.com/l/event-management-software/"
+    },
+    {
+     "text": "Online Event Registration",
+     "url": "https://www.eventbrite.com/l/registration-online/"
+    },
+    {
+     "text": "Event Equipment & Staffing",
+     "url": "https://www.eventbrite.com/l/onsite/"
+    },
+    {
+     "text": "Eventbrite Sales Number",
+     "url": "https://www.eventbrite.com/l/eventbrite-sales-contact/"
+    },
+    {
+     "text": "Browse Online Events",
+     "url": "https://www.eventbrite.com/d/online/events/"
+    },
+    {
+     "text": "Get the Eventbrite App",
+     "url": "https://www.eventbrite.com/l/eventbrite-app/"
+    }
+   ],
+   "platform": "wordpress eventbrite",
+   "error": ""
+  },
+  {
+   "url": "https://www.eventbrite.com/",
+   "status": 200,
+   "final_url": "https://www.eventbrite.com/",
+   "title": "Eventbrite - Discover the Best Local Events & Things to Do",
+   "dates": 0,
+   "jsonld": 0,
+   "jsonld_samples": [],
+   "hints": [
+    "https://www.eventbrite.ca/",
+    "https://www.eventbrite.ca/fr_CA/",
+    "https://www.eventbrite.com.ar/",
+    "https://www.eventbrite.com.br/",
+    "https://www.eventbrite.cl/",
+    "https://www.eventbrite.com.mx/",
+    "https://www.eventbrite.com.pe/",
+    "https://www.eventbrite.co/",
+    "https://www.eventbrite.co.uk/",
+    "https://www.eventbrite.ie/",
+    "https://www.eventbrite.de/",
+    "https://www.eventbrite.at/",
+    "https://www.eventbrite.nl/",
+    "https://www.eventbrite.be/",
+    "https://www.eventbrite.es/",
+    "https://www.eventbrite.fr/",
+    "https://www.eventbrite.be/fr_BE/",
+    "https://www.eventbrite.it/",
+    "https://www.eventbrite.pt/",
+    "https://www.eventbrite.se/",
+    "https://www.eventbrite.com.au/",
+    "https://www.eventbrite.co.nz/",
+    "https://www.eventbrite.sg/",
+    "https://www.eventbrite.hk/",
+    "https://www.eventbrite.dk/"
+   ],
+   "iframes": [],
+   "event_links": [
+    {
+     "text": "Find my tickets",
+     "url": "https://www.eventbrite.com/signin/signup?referrer=%2Fmytickets"
+    },
+    {
+     "text": "Find Events",
+     "url": "https://www.eventbrite.com/d/local/events/"
+    },
+    {
+     "text": "Event Ticketing",
+     "url": "https://www.eventbrite.com/l/sell-tickets/"
+    },
+    {
+     "text": "Event Marketing Platform",
+     "url": "https://www.eventbrite.com/l/event-marketing-platform/"
+    },
+    {
+     "text": "Eventbrite Ads",
+     "url": "https://www.eventbrite.com/l/eventbrite-ads/"
+    },
+    {
+     "text": "Payments",
+     "url": "https://www.eventbrite.com/l/event-payment/"
+    },
+    {
+     "text": "Food & Beverage",
+     "url": "https://www.eventbrite.com/l/food-drink-event-ticketing/"
+    },
+    {
+     "text": "Retail",
+     "url": "https://www.eventbrite.com/l/host-retail-events/"
+    },
+    {
+     "text": "Corporate Events",
+     "url": "https://www.eventbrite.com/l/eventbrite-for-business/"
+    },
+    {
+     "text": "Online Events",
+     "url": "https://www.eventbrite.com/l/virtual-events-platform/"
+    },
+    {
+     "text": "Create Events",
+     "url": "https://www.eventbrite.com/organizer/overview/"
+    },
+    {
+     "text": "Find your tickets",
+     "url": "https://www.eventbrite.com/help/en-us/articles/319355/where-are-my-tickets/"
+    },
+    {
+     "text": "Contact your event organizer",
+     "url": "https://www.eventbrite.com/help/en-us/articles/647151/how-to-contact-the-event-organizer/"
+    },
+    {
+     "text": "",
+     "url": "https://www.eventbrite.com/d/local/music--events--this-week/"
+    },
+    {
+     "text": "New York",
+     "url": "https://www.eventbrite.com/d/ny--new-york/events/"
+    },
+    {
+     "text": "San Francisco",
+     "url": "https://www.eventbrite.com/d/ca--san-francisco/events/"
+    },
+    {
+     "text": "Los Angeles",
+     "url": "https://www.eventbrite.com/d/ca--los-angeles/events/"
+    },
+    {
+     "text": "Chicago",
+     "url": "https://www.eventbrite.com/d/il--chicago/events/"
+    },
+    {
+     "text": "Washington, D.C.",
+     "url": "https://www.eventbrite.com/d/dc--washington/events/"
+    },
+    {
+     "text": "Atlanta",
+     "url": "https://www.eventbrite.com/d/ga--atlanta/events/"
+    },
+    {
+     "text": "Houston",
+     "url": "https://www.eventbrite.com/d/tx--houston/events/"
+    },
+    {
+     "text": "Boston",
+     "url": "https://www.eventbrite.com/d/ma--boston/events/"
+    },
+    {
+     "text": "Dallas",
+     "url": "https://www.eventbrite.com/d/tx--dallas/events/"
+    },
+    {
+     "text": "Austin",
+     "url": "https://www.eventbrite.com/d/tx--austin/events/"
+    },
+    {
+     "text": "Miami",
+     "url": "https://www.eventbrite.com/d/fl--miami/events/"
+    }
+   ],
+   "platform": "eventbrite",
+   "error": ""
+  },
+  {
+   "url": "https://www.eventbrite.com/d/local/events/",
+   "status": null,
+   "final_url": "",
+   "title": "",
+   "dates": 0,
+   "jsonld": 0,
+   "jsonld_samples": [],
+   "hints": [],
+   "iframes": [],
+   "event_links": [],
+   "platform": "",
+   "error": "HTTPError: HTTP Error 405: "
+  },
+  {
+   "url": "https://www.eventbrite.com/l/sell-tickets/",
+   "status": 200,
+   "final_url": "https://www.eventbrite.com/organizer/features/sell-tickets/",
+   "title": "Sell Tickets Online with Our Ticketing Platform | Eventbrite",
+   "dates": 0,
+   "jsonld": 0,
+   "jsonld_samples": [],
+   "hints": [
+    "https://www.eventbrite.ca/organizer/features/sell-tickets/",
+    "https://www.eventbrite.co.uk/organizer/features/sell-tickets/",
+    "https://www.eventbrite.fr/organizer/features/sell-tickets/",
+    "https://www.eventbrite.nl/organizer/features/sell-tickets/",
+    "https://www.eventbrite.com.au/organizer/features/sell-tickets/",
+    "https://www.eventbrite.ie/organizer/features/sell-tickets/",
+    "https://www.eventbrite.co.nz/organizer/features/sell-tickets/",
+    "https://www.eventbrite.de/organizer/features/sell-tickets/",
+    "https://www.eventbrite.it/organizer/features/sell-tickets/",
+    "https://www.eventbrite.pt/organizer/features/sell-tickets/",
+    "https://www.eventbrite.com.br/organizer/features/sell-tickets/",
+    "https://www.eventbrite.es/organizer/features/sell-tickets/",
+    "https://www.eventbrite.com.mx/organizer/features/sell-tickets/",
+    "https://www.eventbrite.com/o/eventbrite-webinars-30396073460"
+   ],
+   "iframes": [
+    "https://www.youtube.com/embed/dh2eLhJ0Zjc?color=white&playsinline=1"
+   ],
+   "event_links": [
+    {
+     "text": "Event Page Builder",
+     "url": "https://www.eventbrite.com/organizer/features/event-listing/"
+    },
+    {
+     "text": "Event Registration",
+     "url": "https://www.eventbrite.com/organizer/features/registration-online/"
+    },
+    {
+     "text": "Event Payments",
+     "url": "https://www.eventbrite.com/organizer/features/event-payment/"
+    },
+    {
+     "text": "Eventbrite Ads",
+     "url": "https://www.eventbrite.com/organizer/features/eventbrite-ads/"
+    },
+    {
+     "text": "Music Events",
+     "url": "https://www.eventbrite.com/organizer/event-industry/music/"
+    },
+    {
+     "text": "Nightlife Events",
+     "url": "https://www.eventbrite.com/organizer/event-industry/nightlife-events-management-software/"
+    },
+    {
+     "text": "Food & Drinks Events",
+     "url": "https://www.eventbrite.com/organizer/event-industry/food-drink-event-ticketing/"
+    },
+    {
+     "text": "Performing and Visual Arts Events",
+     "url": "https://www.eventbrite.com/organizer/event-industry/performing-arts/"
+    },
+    {
+     "text": "Corporate Events",
+     "url": "https://www.eventbrite.com/organizer/event-type/eventbrite-for-business/"
+    },
+    {
+     "text": "Health and Fitness Events",
+     "url": "https://www.eventbrite.com/organizer/event-industry/health-fitness-software/"
+    },
+    {
+     "text": "Music Concerts",
+     "url": "https://www.eventbrite.com/organizer/event-type/music-venues/"
+    },
+    {
+     "text": "Music Festivals",
+     "url": "https://www.eventbrite.com/organizer/event-type/music-festivals/"
+    },
+    {
+     "text": "Nonprofit Events",
+     "url": "https://www.eventbrite.com/organizer/event-type/npo/"
+    },
+    {
+     "text": "Parties and Gatherings",
+     "url": "https://www.eventbrite.com/organizer/event-type/plan-a-party/"
+    },
+    {
+     "text": "Virtual Events",
+     "url": "https://www.eventbrite.com/organizer/event-type/virtual-events-platform/"
+    },
+    {
+     "text": "Halloween Events",
+     "url": "https://www.eventbrite.com/organizer/event-type/halloween-event/"
+    },
+    {
+     "text": "St. Patrick's Day Events",
+     "url": "https://www.eventbrite.com/organizer/event-type/st-patricks-day/"
+    },
+    {
+     "text": "Christmas Events",
+     "url": "https://www.eventbrite.com/organizer/event-type/christmas-party/"
+    },
+    {
+     "text": "Valentine's Day Events",
+     "url": "https://www.eventbrite.com/organizer/event-type/valentines-day/"
+    },
+    {
+     "text": "How to use Eventbrite",
+     "url": "https://www.eventbrite.com/organizer/hub/learn/how-to-use-eventbrite/"
+    },
+    {
+     "text": "Eventbrite for Developers",
+     "url": "https://www.eventbrite.com/platform/"
+    },
+    {
+     "text": "Webinars",
+     "url": "https://www.eventbrite.com/o/eventbrite-webinars-30396073460"
+    },
+    {
+     "text": "Sell Tickets",
+     "url": "https://www.eventbrite.com/organizer/features/sell-tickets"
+    },
+    {
+     "text": "Publish your event",
+     "url": "https://www.eventbrite.com/organizer/features/post-events/"
+    },
+    {
+     "text": "smart audience targeting",
+     "url": "https://www.eventbrite.com/blog/sell-events-smart-audiences/"
+    }
+   ],
+   "platform": "eventbrite",
+   "error": ""
+  },
+  {
+   "url": "https://www.eventbrite.com/l/event-marketing-platform/",
+   "status": 200,
+   "final_url": "https://www.eventbrite.com/organizer/features/event-marketing-platform/",
+   "title": "Event Marketing Software & Tools to Sell Out | Eventbrite",
+   "dates": 0,
+   "jsonld": 0,
+   "jsonld_samples": [],
+   "hints": [
+    "https://www.eventbrite.ca/organizer/features/event-marketing-platform/",
+    "https://www.eventbrite.com.br/organizer/features/event-marketing-platform/",
+    "https://www.eventbrite.com.mx/organizer/features/event-marketing-platform/",
+    "https://www.eventbrite.co.uk/organizer/features/event-marketing-platform/",
+    "https://www.eventbrite.ie/organizer/features/event-marketing-platform/",
+    "https://www.eventbrite.de/organizer/features/event-marketing-platform/",
+    "https://www.eventbrite.nl/organizer/features/event-marketing-platform/",
+    "https://www.eventbrite.es/organizer/features/event-marketing-platform/",
+    "https://www.eventbrite.fr/organizer/features/event-marketing-platform/",
+    "https://www.eventbrite.it/organizer/features/event-marketing-platform/",
+    "https://www.eventbrite.pt/organizer/features/event-marketing-platform/",
+    "https://www.eventbrite.com.au/organizer/features/event-marketing-platform/",
+    "https://www.eventbrite.co.nz/organizer/features/event-marketing-platform/"
+   ],
+   "iframes": [],
+   "event_links": [
+    {
+     "text": "Eventbrite",
+     "url": "https://www.eventbrite.com/"
+    },
+    {
+     "text": "Find my tickets",
+     "url": "https://www.eventbrite.com/signin/signup/?referrer=%2Fmytickets"
+    },
+    {
+     "text": "Find Events",
+     "url": "https://www.eventbrite.com/d/local/events/"
+    },
+    {
+     "text": "Event Ticketing",
+     "url": "https://www.eventbrite.com/organizer/features/sell-tickets/"
+    },
+    {
+     "text": "Eventbrite Ads",
+     "url": "https://www.eventbrite.com/organizer/features/eventbrite-ads/"
+    },
+    {
+     "text": "Payments",
+     "url": "https://www.eventbrite.com/organizer/features/event-payment/"
+    },
+    {
+     "text": "Music",
+     "url": "https://www.eventbrite.com/organizer/event-industry/music/"
+    },
+    {
+     "text": "Food & Beverage",
+     "url": "https://www.eventbrite.com/organizer/event-industry/food-drink-event-ticketing/"
+    },
+    {
+     "text": "Performing Arts",
+     "url": "https://www.eventbrite.com/organizer/event-industry/performing-arts/"
+    },
+    {
+     "text": "Charity & Causes",
+     "url": "https://www.eventbrite.com/organizer/event-type/npo/"
+    },
+    {
+     "text": "Retail",
+     "url": "https://www.eventbrite.com/organizer/event-format/host-retail-events/"
+    },
+    {
+     "text": "Concerts",
+     "url": "https://www.eventbrite.com/organizer/event-type/music-venues/"
+    },
+    {
+     "text": "Classes & Workshops",
+     "url": "https://www.eventbrite.com/organizer/event-type/create-a-workshop/"
+    },
+    {
+     "text": "Festivals & Fairs",
+     "url": "https://www.eventbrite.com/organizer/event-type/festival-solutions/"
+    },
+    {
+     "text": "Conferences",
+     "url": "https://www.eventbrite.com/organizer/event-type/conferences/"
+    },
+    {
+     "text": "Corporate Events",
+     "url": "https://www.eventbrite.com/organizer/event-type/eventbrite-for-business/"
+    },
+    {
+     "text": "Online Events",
+     "url": "https://www.eventbrite.com/organizer/event-type/virtual-events-platform/"
+    },
+    {
+     "text": "Create Events",
+     "url": "https://www.eventbrite.com/organizer/overview/"
+    },
+    {
+     "text": "Find your tickets",
+     "url": "https://www.eventbrite.com/help/en-us/articles/319355/where-are-my-tickets/"
+    },
+    {
+     "text": "Contact your event organizer",
+     "url": "https://www.eventbrite.com/help/en-us/articles/647151/how-to-contact-the-event-organizer/"
+    },
+    {
+     "text": "Automated multi-events ads",
+     "url": "https://www.eventbrite.com/blog/boost-marketing-multi-event-ads/"
+    },
+    {
+     "text": "Design on Canva",
+     "url": "https://www.eventbrite.com/organizer/features/post-events/"
+    },
+    {
+     "text": "Discover custom tickets",
+     "url": "https://www.eventbrite.com/organizer/features/custom-tickets/"
+    },
+    {
+     "text": "Eventbrite Mobile Ticket App",
+     "url": "https://www.eventbrite.com/l/eventbrite-app/"
+    },
+    {
+     "text": "Eventbrite Check-In App",
+     "url": "https://www.eventbrite.com/organizer/features/organizer-check-in-app/"
+    }
+   ],
+   "platform": "eventbrite",
+   "error": ""
+  },
+  {
+   "url": "https://www.eventbrite.com/l/eventbrite-ads/",
+   "status": 200,
+   "final_url": "https://www.eventbrite.com/organizer/features/eventbrite-ads/",
+   "title": "Event Advertising Platform to Sell More Tickets | Eventbrite",
+   "dates": 0,
+   "jsonld": 0,
+   "jsonld_samples": [],
+   "hints": [
+    "https://www.eventbrite.ca/organizer/features/eventbrite-ads/",
+    "https://www.eventbrite.co.uk/organizer/features/eventbrite-ads/",
+    "https://www.eventbrite.fr/organizer/features/eventbrite-ads/",
+    "https://www.eventbrite.nl/organizer/features/eventbrite-ads/",
+    "https://www.eventbrite.com.au/organizer/features/eventbrite-ads/",
+    "https://www.eventbrite.de/organizer/features/eventbrite-ads/",
+    "https://www.eventbrite.it/organizer/features/eventbrite-ads/",
+    "https://www.eventbrite.pt/organizer/features/eventbrite-ads/",
+    "https://www.eventbrite.com.br/organizer/features/eventbrite-ads/",
+    "https://www.eventbrite.es/organizer/features/eventbrite-ads/",
+    "https://www.eventbrite.com.mx/organizer/features/eventbrite-ads/",
+    "https://www.eventbrite.com/o/eventbrite-webinars-30396073460"
+   ],
+   "iframes": [
+    "https://www.youtube.com/embed/yVJC3BZuTJA?color=white&playsinline=1"
+   ],
+   "event_links": [
+    {
+     "text": "Event Page Builder",
+     "url": "https://www.eventbrite.com/organizer/features/event-listing/"
+    },
+    {
+     "text": "Event Registration",
+     "url": "https://www.eventbrite.com/organizer/features/registration-online/"
+    },
+    {
+     "text": "Event Payments",
+     "url": "https://www.eventbrite.com/organizer/features/event-payment/"
+    },
+    {
+     "text": "Sell Tickets Online",
+     "url": "https://www.eventbrite.com/organizer/features/sell-tickets/"
+    },
+    {
+     "text": "Music Events",
+     "url": "https://www.eventbrite.com/organizer/event-industry/music/"
+    },
+    {
+     "text": "Nightlife Events",
+     "url": "https://www.eventbrite.com/organizer/event-industry/nightlife-events-management-software/"
+    },
+    {
+     "text": "Food & Drinks Events",
+     "url": "https://www.eventbrite.com/organizer/event-industry/food-drink-event-ticketing/"
+    },
+    {
+     "text": "Performing and Visual Arts Events",
+     "url": "https://www.eventbrite.com/organizer/event-industry/performing-arts/"
+    },
+    {
+     "text": "Corporate Events",
+     "url": "https://www.eventbrite.com/organizer/event-type/eventbrite-for-business/"
+    },
+    {
+     "text": "Health and Fitness Events",
+     "url": "https://www.eventbrite.com/organizer/event-industry/health-fitness-software/"
+    },
+    {
+     "text": "Music Concerts",
+     "url": "https://www.eventbrite.com/organizer/event-type/music-venues/"
+    },
+    {
+     "text": "Music Festivals",
+     "url": "https://www.eventbrite.com/organizer/event-type/music-festivals/"
+    },
+    {
+     "text": "Nonprofit Events",
+     "url": "https://www.eventbrite.com/organizer/event-type/npo/"
+    },
+    {
+     "text": "Parties and Gatherings",
+     "url": "https://www.eventbrite.com/organizer/event-type/plan-a-party/"
+    },
+    {
+     "text": "Virtual Events",
+     "url": "https://www.eventbrite.com/organizer/event-type/virtual-events-platform/"
+    },
+    {
+     "text": "Halloween Events",
+     "url": "https://www.eventbrite.com/organizer/event-type/halloween-event/"
+    },
+    {
+     "text": "St. Patrick's Day Events",
+     "url": "https://www.eventbrite.com/organizer/event-type/st-patricks-day/"
+    },
+    {
+     "text": "Christmas Events",
+     "url": "https://www.eventbrite.com/organizer/event-type/christmas-party/"
+    },
+    {
+     "text": "Valentine's Day Events",
+     "url": "https://www.eventbrite.com/organizer/event-type/valentines-day/"
+    },
+    {
+     "text": "How to use Eventbrite",
+     "url": "https://www.eventbrite.com/organizer/hub/learn/how-to-use-eventbrite/"
+    },
+    {
+     "text": "Eventbrite for Developers",
+     "url": "https://www.eventbrite.com/platform/"
+    },
+    {
+     "text": "Webinars",
+     "url": "https://www.eventbrite.com/o/eventbrite-webinars-30396073460"
+    },
+    {
+     "text": "Eventbrite Ads",
+     "url": "https://www.eventbrite.com/organizer/features/eventbrite-ads"
+    },
+    {
+     "text": "Get started",
+     "url": "https://www.eventbrite.com/organizations/marketing/eventbrite-ads"
+    },
+    {
+     "text": "Read our full guide for more tips",
+     "url": "https://www.eventbrite.com/blog/eventbrite-listing-marketing-tools-tips/"
+    }
+   ],
+   "platform": "eventbrite",
+   "error": ""
+  }
+ ],
+ "best_page": "https://eventbrite.com/e/dc-social-club-monthly-foodies-new-friends-tickets-1991797637351"
+}

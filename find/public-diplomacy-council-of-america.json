@@ -1,0 +1,665 @@
+{
+ "row": "181",
+ "name": "Public Diplomacy Council of America",
+ "seed_url": "https://allevents.in/org/the-public-diplomacy-council-of-america/20984882",
+ "programs": "",
+ "access": "",
+ "found": "2026-11-28 03:09Z",
+ "search_hits": [],
+ "search_error": "html.duckduckgo.com Timeout; www.bing.com 0 hits (200, 121099b); lite.duckduckgo.com Timeout",
+ "probes": [
+  {
+   "url": "https://allevents.in/wp-json/tribe/events/v1/events?per_page=10",
+   "status": "HTTPError",
+   "events": 0
+  },
+  {
+   "url": "https://allevents.in/events/?ical=1",
+   "status": 200,
+   "events": 0,
+   "head": "\n\n<!DOCTYPE html>\n<html lang=\"en\">\n  <head>\n    <meta charset=\"utf-8\"><script type=\"text/javascript\">(window.NREUM||(NREUM={})).init={\"ajax\":{\"deny_list\":[\"bam.nr-data.net\"]},\"feature_flags\":[\"rum_v2\"]};(window.NREUM||(NREUM={})).loader_config={\"licenseKey\":\"ea025ea6a0\",\"applicationID\":\"339581800\",\""
+  },
+  {
+   "url": "https://allevents.in/?ical=1",
+   "status": 200,
+   "events": 0,
+   "head": "<!DOCTYPE html>\n<html lang=\"en\">\n  <head>\n    <meta charset=\"utf-8\"><script type=\"text/javascript\">(window.NREUM||(NREUM={})).init={\"ajax\":{\"deny_list\":[\"bam.nr-data.net\"]},\"feature_flags\":[\"rum_v2\"]};(window.NREUM||(NREUM={})).loader_config={\"licenseKey\":\"ea025ea6a0\",\"applicationID\":\"339581800\",\"br"
+  }
+ ],
+ "pages": [
+  {
+   "url": "https://allevents.in/org/the-public-diplomacy-council-of-america/20984882",
+   "status": 200,
+   "final_url": "https://allevents.in/org/the-public-diplomacy-council-of-america/20984882",
+   "title": "Discover The Public Diplomacy Council of America Events | Tickets & Details | AllEvents",
+   "dates": 3,
+   "jsonld": 2,
+   "jsonld_samples": [
+    {
+     "name": "PDCA Annual Holiday Party",
+     "start": "2026-12-15",
+     "url": "https://allevents.in/washington/pdca-annual-holiday-party/100002004089372261"
+    },
+    {
+     "name": "December FMF: Sports Diplomacy Award Recipients To Be Honored",
+     "start": "2026-12-07",
+     "url": "https://allevents.in/washington/december-fmf-sports-diplomacy-award-recipients-to-be-honored/100002004167446784"
+    }
+   ],
+   "hints": [],
+   "iframes": [],
+   "event_links": [
+    {
+     "text": "Create an event",
+     "url": "https://allevents.in/manage/create.php?ref=topbar-dropdown"
+    },
+    {
+     "text": "Manage events",
+     "url": "https://allevents.in/manage/manage-events.php?ref=topbar-dropdown"
+    },
+    {
+     "text": "Get the AllEventsApp New",
+     "url": "https://allevents.in/app?ref=topbar-dropdown&utm_source=allevents&utm_medium=topbar&utm_campaign=topbar_get_app&utm_content=topbar-dropdown&ct=topbar-dropdown"
+    },
+    {
+     "text": "Create Event",
+     "url": "https://allevents.in/manage/create.php?ref=organizer-topbar"
+    },
+    {
+     "text": "Events for You",
+     "url": "https://allevents.in/recommended?ref=footer-n-organizer"
+    },
+    {
+     "text": "Virtual Events",
+     "url": "https://allevents.in/online?ref=footer-n-organizer"
+    },
+    {
+     "text": "Get Event Updates",
+     "url": "https://allevents.in/pages/subscribe?ref=footer-n-organizer"
+    },
+    {
+     "text": "Event Discovery App",
+     "url": "https://allevents.in/app?ref=footer-n-organizer"
+    },
+    {
+     "text": "List Your Event",
+     "url": "https://allevents.in/pages/event-listing?ref=footer-n-organizer"
+    },
+    {
+     "text": "Promote Your Event",
+     "url": "https://allevents.in/pages/event-marketing?ref=footer-n-organizer"
+    },
+    {
+     "text": "Event Ticketing Software",
+     "url": "https://allevents.in/pages/event-ticketing?ref=footer-n-organizer"
+    },
+    {
+     "text": "Event Manager App",
+     "url": "https://allevents.in/pages/event-manager-app?ref=footer-n-organizer"
+    },
+    {
+     "text": "Host Recorded Events",
+     "url": "https://allevents.in/pages/events-on-demand?ref=footer-n-organizer"
+    },
+    {
+     "text": "Learn Event Marketing",
+     "url": "https://allevents.in/pages/event-promotion?ref=footer-n-organizer"
+    },
+    {
+     "text": "Event Listing Plugin",
+     "url": "https://allevents.in/pages/events-listing-plugin?ref=footer-n-organizer"
+    },
+    {
+     "text": "Affiliate Program",
+     "url": "https://allevents.in/pages/affiliate-program?ref=footer-n-organizer"
+    },
+    {
+     "text": "Events API",
+     "url": "https://allevents.in/pages/events-api?ref=footer-n-organizer"
+    }
+   ],
+   "platform": "",
+   "error": ""
+  },
+  {
+   "url": "https://allevents.in/",
+   "status": 200,
+   "final_url": "https://allevents.in/",
+   "title": "AllEvents \u2013 Discover Events Happening in Your City",
+   "dates": 1,
+   "jsonld": 24,
+   "jsonld_samples": [
+    {
+     "name": "TOTALLY TOM PETTY at Melbourne Auditorium, FL. | Fri Dec 11, 2026",
+     "start": "2026-12-11",
+     "url": "https://allevents.in/melbourne/totally-tom-petty-at-melbourne-auditorium-fl-fri-dec-11-2026-tickets/80001679911468"
+    },
+    {
+     "name": "JM Productions Presents &quot;A Swinging Christmas",
+     "start": "2026-11-28",
+     "url": "https://allevents.in/quincy/jm-productions-presents-a-swinging-christmas/80003602945761"
+    },
+    {
+     "name": "Operation White-Out",
+     "start": "2026-11-27",
+     "url": "https://allevents.in/salisbury/operation-white-out-tickets/80002247896329"
+    },
+    {
+     "name": "41st Annual Cookie Tour of Historic Homes",
+     "start": "2026-12-13",
+     "url": "https://allevents.in/baltimore/41st-annual-cookie-tour-of-historic-homes-tickets/80001637824123"
+    },
+    {
+     "name": "LEAVENWORTH SNOW BUS",
+     "start": "2026-12-05",
+     "url": "https://allevents.in/olympia/leavenworth-snow-bus-tickets/80002251584264"
+    }
+   ],
+   "hints": [
+    "android-app://com.amitech.allevents/http/allevents.in"
+   ],
+   "iframes": [],
+   "event_links": [
+    {
+     "text": "Create an event",
+     "url": "https://allevents.in/manage/create.php?ref=topbar-dropdown"
+    },
+    {
+     "text": "Manage events",
+     "url": "https://allevents.in/manage/manage-events.php?ref=topbar-dropdown"
+    },
+    {
+     "text": "Get the AllEventsApp New",
+     "url": "https://allevents.in/app?ref=topbar-dropdown&utm_source=allevents&utm_medium=topbar&utm_campaign=topbar_get_app&utm_content=topbar-dropdown&ct=topbar-dropdown"
+    },
+    {
+     "text": "Create Event",
+     "url": "https://allevents.in/manage/create.php?ref=home-page-topbar"
+    },
+    {
+     "text": "Kansas City \n 2,242+ Events",
+     "url": "https://allevents.in/kansas-city"
+    },
+    {
+     "text": "Omaha \n 2,714+ Events",
+     "url": "https://allevents.in/omaha"
+    },
+    {
+     "text": "Lincoln \n 1,584+ Events",
+     "url": "https://allevents.in/lincoln"
+    },
+    {
+     "text": "View all events in Des Moines",
+     "url": "https://allevents.in/des moines?ref=home-page"
+    },
+    {
+     "text": "Green Friday: Brunch & Bliss",
+     "url": "https://allevents.in/tampa/green-friday-brunch-and-bliss-tickets/80002345315713?ref=hpp-event-country"
+    },
+    {
+     "text": "19th Annual St. Nicholas European Christmas Market",
+     "url": "https://allevents.in/raleigh/19th-annual-st-nicholas-european-christmas-market-tickets/80001380151936?ref=hpp-event-country"
+    },
+    {
+     "text": "HOLIDAY MARKET AT THE OMNI DALLAS",
+     "url": "https://allevents.in/dallas/holiday-market-at-the-omni-dallas-tickets/80003002459723?ref=hpp-event-country"
+    },
+    {
+     "text": "BLACKOUT ATLANTA: All Black Affair \u2013 First 500 RSVPs FREE!",
+     "url": "https://allevents.in/atlanta/blackout-atlanta-all-black-affair-first-500-rsvps-free-tickets/80006172267535?ref=hpp-event-country"
+    },
+    {
+     "text": "Huge Holiday Market - Meet The Grinch - Shop Small",
+     "url": "https://allevents.in/austin/huge-holiday-market-meet-the-grinch-shop-small-tickets/80003283463164?ref=hpp-event-country"
+    },
+    {
+     "text": "Global Fusion fashion week SE02",
+     "url": "https://allevents.in/charlotte/global-fusion-fashion-week-se02-tickets/80001397466854?ref=hpp-event-country"
+    },
+    {
+     "text": "LEAVENWORTH SNOW BUS",
+     "url": "https://allevents.in/olympia/leavenworth-snow-bus-tickets/80002251584264?ref=hpp-event-country"
+    },
+    {
+     "text": "41st Annual Cookie Tour of Historic Homes",
+     "url": "https://allevents.in/baltimore/41st-annual-cookie-tour-of-historic-homes-tickets/80001637824123?ref=hpp-event-country"
+    },
+    {
+     "text": "Operation White-Out",
+     "url": "https://allevents.in/salisbury/operation-white-out-tickets/80002247896329?ref=hpp-event-country"
+    },
+    {
+     "text": "TOTALLY TOM PETTY at Melbourne Auditorium, FL. | Fri Dec 11,",
+     "url": "https://allevents.in/melbourne/totally-tom-petty-at-melbourne-auditorium-fl-fri-dec-11-2026-tickets/80001679911468?ref=hpp-event-country"
+    },
+    {
+     "text": "Explore Events across the Globe",
+     "url": "https://allevents.in/location.php"
+    },
+    {
+     "text": "Search Events",
+     "url": "https://allevents.in/events"
+    },
+    {
+     "text": "Run for EVERY Child \u2013 Fun Run",
+     "url": "https://allevents.in/ahmedabad/run-for-every-child-fun-run-tickets/80002577053301?ref=hp-worldwide-event"
+    },
+    {
+     "text": "Exploring Life\u2019s Mysteries: A Dialogue between Philosophy & ",
+     "url": "https://allevents.in/mumbai/exploring-lifes-mysteries-a-dialogue-between-philosophy-and-science-tickets/80009203236286?ref=hp-worldwide-event"
+    },
+    {
+     "text": "GITEX GLOBAL 2026",
+     "url": "https://allevents.in/dubai/gitex-global-2026-tickets/80002354633829?ref=hp-worldwide-event"
+    },
+    {
+     "text": "The Great Figgy Pudding Caroling Competition",
+     "url": "https://allevents.in/seattle/the-great-figgy-pudding-caroling-competition-tickets/80009938088360?ref=hp-worldwide-event"
+    },
+    {
+     "text": "Green Friday: Brunch & Bliss",
+     "url": "https://allevents.in/tampa/green-friday-brunch-and-bliss-tickets/80002345315713?ref=hp-worldwide-event"
+    }
+   ],
+   "platform": "",
+   "error": ""
+  },
+  {
+   "url": "https://allevents.in/manage/create.php?ref=topbar-dropdown",
+   "status": 200,
+   "final_url": "https://allevents.in/pages/sign-in?ref=create",
+   "title": "Sign In | Allevents.in",
+   "dates": 0,
+   "jsonld": 0,
+   "jsonld_samples": [],
+   "hints": [],
+   "iframes": [],
+   "event_links": [
+    {
+     "text": "Create an event",
+     "url": "https://allevents.in/manage/create.php?ref=topbar-dropdown"
+    },
+    {
+     "text": "Manage events",
+     "url": "https://allevents.in/pages/event-listing?ref=topbar-dropdown"
+    },
+    {
+     "text": "Get Event discovery App New",
+     "url": "https://play.google.com/store/apps/details?id=com.amitech.allevents&utm_source=Mobile_topbar&utm_medium=topbar&utm_campaign=topbar"
+    },
+    {
+     "text": "Create Event",
+     "url": "https://allevents.in/manage/create.php?ref=sign-in-topbar"
+    },
+    {
+     "text": "Events for You",
+     "url": "https://allevents.in/recommended?ref=footer-n-sign-in"
+    },
+    {
+     "text": "Virtual Events",
+     "url": "https://allevents.in/online?ref=footer-n-sign-in"
+    },
+    {
+     "text": "Get Event Updates",
+     "url": "https://allevents.in/pages/subscribe?ref=footer-n-sign-in"
+    },
+    {
+     "text": "Event Discovery App",
+     "url": "https://allevents.in/app?ref=footer-n-sign-in"
+    },
+    {
+     "text": "List Your Event",
+     "url": "https://allevents.in/pages/event-listing?ref=footer-n-sign-in"
+    },
+    {
+     "text": "Promote Your Event",
+     "url": "https://allevents.in/pages/event-marketing?ref=footer-n-sign-in"
+    },
+    {
+     "text": "Event Ticketing Software",
+     "url": "https://allevents.in/pages/event-ticketing?ref=footer-n-sign-in"
+    },
+    {
+     "text": "Event Manager App",
+     "url": "https://allevents.in/pages/event-manager-app?ref=footer-n-sign-in"
+    },
+    {
+     "text": "Host Recorded Events",
+     "url": "https://allevents.in/pages/events-on-demand?ref=footer-n-sign-in"
+    },
+    {
+     "text": "Learn Event Marketing",
+     "url": "https://allevents.in/pages/event-promotion?ref=footer-n-sign-in"
+    },
+    {
+     "text": "Event Listing Plugin",
+     "url": "https://allevents.in/pages/events-listing-plugin?ref=footer-n-sign-in"
+    },
+    {
+     "text": "Affiliate Program",
+     "url": "https://allevents.in/pages/affiliate-program?ref=footer-n-sign-in"
+    },
+    {
+     "text": "Events API",
+     "url": "https://allevents.in/pages/events-api?ref=footer-n-sign-in"
+    }
+   ],
+   "platform": "",
+   "error": ""
+  },
+  {
+   "url": "https://allevents.in/manage/manage-events.php?ref=topbar-dropdown",
+   "status": 200,
+   "final_url": "https://allevents.in/manage/manage-events.php?ref=topbar-dropdown",
+   "title": "Manage your Events - AllEvents.in",
+   "dates": 0,
+   "jsonld": 0,
+   "jsonld_samples": [],
+   "hints": [],
+   "iframes": [],
+   "event_links": [
+    {
+     "text": "Create an event",
+     "url": "https://allevents.in/manage/create.php?ref=topbar-dropdown"
+    },
+    {
+     "text": "Manage events",
+     "url": "https://allevents.in/manage/manage-events.php?ref=topbar-dropdown"
+    },
+    {
+     "text": "Get the AllEventsApp New",
+     "url": "https://allevents.in/app?ref=topbar-dropdown&utm_source=allevents&utm_medium=topbar&utm_campaign=topbar_get_app&utm_content=topbar-dropdown&ct=topbar-dropdown"
+    },
+    {
+     "text": "Create Event",
+     "url": "https://allevents.in/manage/create.php?ref=manage-events-topbar"
+    },
+    {
+     "text": "Schedule a meeting",
+     "url": "https://calendly.com/jhanavi-allevents/connect-with-our-team?utm_source=allevents&utm_medium=topbar&utm_campaign=topbar_schedule_meeting&utm_content=manage-events"
+    },
+    {
+     "text": "Atlanta Events",
+     "url": "https://allevents.in/atlanta"
+    },
+    {
+     "text": "Bangalore Events",
+     "url": "https://allevents.in/bangalore"
+    },
+    {
+     "text": "Las Vegas Events",
+     "url": "https://allevents.in/las-vegas"
+    },
+    {
+     "text": "New York Events",
+     "url": "https://allevents.in/new-york"
+    },
+    {
+     "text": "Dallas Events",
+     "url": "https://allevents.in/dallas"
+    },
+    {
+     "text": "Connect & Multiply Business Networking Event",
+     "url": "https://allevents.in/ahmedabad/connect-and-multiply-business-networking-event-tickets/80002211762195"
+    },
+    {
+     "text": "Christmas Without Borders / Ziemassv\u0113tki bez robe\u017e\u0101m",
+     "url": "https://allevents.in/riga/christmas-without-borders-ziemassv\u0113tki-bez-robe\u017e\u0101m-tickets/80004289607430"
+    },
+    {
+     "text": "Christmas Craft Fair @ The Lion",
+     "url": "https://allevents.in/kingston-upon-thames/christmas-craft-fair-the-lion-tickets/200031035470039"
+    },
+    {
+     "text": "Rustomjee presents SoundRise at the Park | Cooperage Garden ",
+     "url": "https://allevents.in/mumbai/rustomjee-presents-soundrise-at-the-park-cooperage-garden-9-30am-tickets/80002904371426"
+    },
+    {
+     "text": "Giant Puppets - A large puppet making workshop",
+     "url": "https://allevents.in/ahmedabad/giant-puppets-a-large-puppet-making-workshop-tickets/80001949599875"
+    },
+    {
+     "text": "Utkarsh Walkathon 2026: Human Rights Day Edition",
+     "url": "https://allevents.in/ahmedabad/utkarsh-walkathon-2026-human-rights-day-edition-tickets/80001643203218"
+    },
+    {
+     "text": "Publish Your Events",
+     "url": "https://allevents.in/pages/publish-events"
+    },
+    {
+     "text": "Promote Your Events",
+     "url": "https://allevents.in/pages/event-marketing"
+    },
+    {
+     "text": "Sell Tickets Online",
+     "url": "https://allevents.in/pages/event-ticketing"
+    },
+    {
+     "text": "Host Recorded Events",
+     "url": "https://allevents.in/pages/events-on-demand"
+    },
+    {
+     "text": "Event Manager App",
+     "url": "https://allevents.in/pages/event-manager-app"
+    },
+    {
+     "text": "Events API",
+     "url": "https://allevents.in/pages/events-api"
+    },
+    {
+     "text": "Event Listing",
+     "url": "https://allevents.in/pages/event-listing"
+    },
+    {
+     "text": "Learn Event Marketing",
+     "url": "https://allevents.in/pages/event-promotion"
+    },
+    {
+     "text": "Event Creation Guidelines",
+     "url": "https://support.allevents.in/article/198-event-creation-guidelines"
+    }
+   ],
+   "platform": "",
+   "error": ""
+  },
+  {
+   "url": "https://allevents.in/app?ref=topbar-dropdown&utm_source=allevents&utm_medium=topbar&utm_campaign=topbar_get_app&utm_content=topbar-dropdown&ct=topbar-dropdown",
+   "status": 200,
+   "final_url": "https://allevents.in/app?ref=topbar-dropdown&utm_source=allevents&utm_medium=topbar&utm_campaign=topbar_get_app&utm_content=topbar-dropdown&ct=topbar-dropdown",
+   "title": "Explore Events Happening Around You | Mobile App",
+   "dates": 0,
+   "jsonld": 0,
+   "jsonld_samples": [],
+   "hints": [],
+   "iframes": [],
+   "event_links": [
+    {
+     "text": "Create an event",
+     "url": "https://allevents.in/manage/create.php?ref=topbar-dropdown"
+    },
+    {
+     "text": "Manage events",
+     "url": "https://allevents.in/manage/manage-events.php?ref=topbar-dropdown"
+    },
+    {
+     "text": "Get the AllEventsApp New",
+     "url": "https://allevents.in/app?ref=topbar-dropdown&utm_source=allevents&utm_medium=topbar&utm_campaign=topbar_get_app&utm_content=topbar-dropdown&ct=topbar-dropdown"
+    },
+    {
+     "text": "Create Event",
+     "url": "https://allevents.in/manage/create.php?ref=home-page-topbar"
+    },
+    {
+     "text": "Hyderabad Events",
+     "url": "https://allevents.in/hyderabad"
+    },
+    {
+     "text": "Online Events",
+     "url": "https://allevents.in/online"
+    },
+    {
+     "text": "Cheney Events",
+     "url": "https://allevents.in/cheney-ks"
+    },
+    {
+     "text": "Las Vegas Events",
+     "url": "https://allevents.in/las-vegas"
+    },
+    {
+     "text": "Surat Events",
+     "url": "https://allevents.in/surat"
+    },
+    {
+     "text": "Handel's Messiah",
+     "url": "https://allevents.in/collingwood/handels-messiah-tickets/80001312974334"
+    },
+    {
+     "text": "Run for EVERY Child \u2013 Fun Run",
+     "url": "https://allevents.in/ahmedabad/run-for-every-child-fun-run-tickets/80002577053301"
+    },
+    {
+     "text": "Giant Puppets - A large puppet making workshop",
+     "url": "https://allevents.in/ahmedabad/giant-puppets-a-large-puppet-making-workshop-tickets/80001949599875"
+    },
+    {
+     "text": "The Nightlight | La Veilleuse",
+     "url": "https://allevents.in/ahmedabad/the-nightlight-la-veilleuse-tickets/80001588223896"
+    },
+    {
+     "text": "Rustomjee presents SoundRise at the Park | Cooperage Garden ",
+     "url": "https://allevents.in/mumbai/rustomjee-presents-soundrise-at-the-park-cooperage-garden-9-30am-tickets/80002904371426"
+    },
+    {
+     "text": "Publish Your Events",
+     "url": "https://allevents.in/pages/publish-events"
+    },
+    {
+     "text": "Promote Your Events",
+     "url": "https://allevents.in/pages/event-marketing"
+    },
+    {
+     "text": "Sell Tickets Online",
+     "url": "https://allevents.in/pages/event-ticketing"
+    },
+    {
+     "text": "Host Recorded Events",
+     "url": "https://allevents.in/pages/events-on-demand"
+    },
+    {
+     "text": "Event Manager App",
+     "url": "https://allevents.in/pages/event-manager-app"
+    },
+    {
+     "text": "Events API",
+     "url": "https://allevents.in/pages/events-api"
+    },
+    {
+     "text": "Event Listing",
+     "url": "https://allevents.in/pages/event-listing"
+    },
+    {
+     "text": "Learn Event Marketing",
+     "url": "https://allevents.in/pages/event-promotion"
+    },
+    {
+     "text": "Event Creation Guidelines",
+     "url": "https://support.allevents.in/article/198-event-creation-guidelines"
+    },
+    {
+     "text": "Events for You",
+     "url": "https://allevents.in/recommended"
+    },
+    {
+     "text": "Get Event Updates",
+     "url": "https://allevents.in/pages/subscribe"
+    }
+   ],
+   "platform": "",
+   "error": ""
+  },
+  {
+   "url": "https://allevents.in/manage/create.php?ref=organizer-topbar",
+   "status": 200,
+   "final_url": "https://allevents.in/pages/sign-in?ref=create",
+   "title": "Sign In | Allevents.in",
+   "dates": 0,
+   "jsonld": 0,
+   "jsonld_samples": [],
+   "hints": [],
+   "iframes": [],
+   "event_links": [
+    {
+     "text": "Create an event",
+     "url": "https://allevents.in/manage/create.php?ref=topbar-dropdown"
+    },
+    {
+     "text": "Manage events",
+     "url": "https://allevents.in/pages/event-listing?ref=topbar-dropdown"
+    },
+    {
+     "text": "Get Event discovery App New",
+     "url": "https://play.google.com/store/apps/details?id=com.amitech.allevents&utm_source=Mobile_topbar&utm_medium=topbar&utm_campaign=topbar"
+    },
+    {
+     "text": "Create Event",
+     "url": "https://allevents.in/manage/create.php?ref=sign-in-topbar"
+    },
+    {
+     "text": "Events for You",
+     "url": "https://allevents.in/recommended?ref=footer-n-sign-in"
+    },
+    {
+     "text": "Virtual Events",
+     "url": "https://allevents.in/online?ref=footer-n-sign-in"
+    },
+    {
+     "text": "Get Event Updates",
+     "url": "https://allevents.in/pages/subscribe?ref=footer-n-sign-in"
+    },
+    {
+     "text": "Event Discovery App",
+     "url": "https://allevents.in/app?ref=footer-n-sign-in"
+    },
+    {
+     "text": "List Your Event",
+     "url": "https://allevents.in/pages/event-listing?ref=footer-n-sign-in"
+    },
+    {
+     "text": "Promote Your Event",
+     "url": "https://allevents.in/pages/event-marketing?ref=footer-n-sign-in"
+    },
+    {
+     "text": "Event Ticketing Software",
+     "url": "https://allevents.in/pages/event-ticketing?ref=footer-n-sign-in"
+    },
+    {
+     "text": "Event Manager App",
+     "url": "https://allevents.in/pages/event-manager-app?ref=footer-n-sign-in"
+    },
+    {
+     "text": "Host Recorded Events",
+     "url": "https://allevents.in/pages/events-on-demand?ref=footer-n-sign-in"
+    },
+    {
+     "text": "Learn Event Marketing",
+     "url": "https://allevents.in/pages/event-promotion?ref=footer-n-sign-in"
+    },
+    {
+     "text": "Event Listing Plugin",
+     "url": "https://allevents.in/pages/events-listing-plugin?ref=footer-n-sign-in"
+    },
+    {
+     "text": "Affiliate Program",
+     "url": "https://allevents.in/pages/affiliate-program?ref=footer-n-sign-in"
+    },
+    {
+     "text": "Events API",
+     "url": "https://allevents.in/pages/events-api?ref=footer-n-sign-in"
+    }
+   ],
+   "platform": "",
+   "error": ""
+  }
+ ],
+ "best_page": "https://allevents.in/"
+}

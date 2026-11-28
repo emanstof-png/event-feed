@@ -1,6 +1,6 @@
 Yale Club of Washington DC
 best page: https://ycwd.memberclicks.net/other-ivy-connected-events (status 200, 14 date strings, 0 JSON-LD events)
-fetched 2026-11-28 01:53Z
+fetched 2026-11-28 02:49Z
 
 
 Other Ivy-Connected Events

@@ -4,9 +4,9 @@
  "seed_url": "https://ycwd.memberclicks.net/programs-and-events",
  "programs": "",
  "access": "",
- "found": "2026-11-28 01:53Z",
+ "found": "2026-11-28 02:49Z",
  "search_hits": [],
- "search_error": "html.duckduckgo.com 0 hits (202, 15102b); www.bing.com 0 hits (200, 143043b); lite.duckduckgo.com 0 hits (202, 15170b)",
+ "search_error": "html.duckduckgo.com 0 hits (202, 15090b); www.bing.com 0 hits (200, 134647b); lite.duckduckgo.com 0 hits (202, 15176b)",
  "probes": [
   {
    "url": "https://ycwd.memberclicks.net/wp-json/tribe/events/v1/events?per_page=10",

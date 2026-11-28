@@ -1,6 +1,6 @@
 The Dinner Table Club
 best page: https://luma.com/thedinnertable_club (status 200, 0 date strings, 13 JSON-LD events)
-fetched 2026-11-28 01:49Z
+fetched 2026-11-28 02:45Z
 
 The Dinner Table Club · Events Calendar
 Skip to Content

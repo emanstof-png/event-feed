@@ -4,9 +4,9 @@
  "seed_url": "https://law.stanford.edu/washington-dc-alumni-community/",
  "programs": "",
  "access": "",
- "found": "2026-11-28 01:52Z",
+ "found": "2026-11-28 02:49Z",
  "search_hits": [],
- "search_error": "html.duckduckgo.com 0 hits (202, 15136b); www.bing.com 0 hits (200, 129292b); lite.duckduckgo.com 0 hits (202, 15203b)",
+ "search_error": "html.duckduckgo.com 0 hits (202, 15130b); www.bing.com 0 hits (200, 135253b); lite.duckduckgo.com 0 hits (202, 15216b)",
  "probes": [
   {
    "url": "https://law.stanford.edu/wp-json/tribe/events/v1/events?per_page=10",

@@ -1,6 +1,6 @@
 Zen Buddhist Sangha of Washington
 best page: https://www.washingtonzen.org/retreats-and-events.html (status 200, 3 date strings, 0 JSON-LD events)
-fetched 2026-11-28 02:00Z
+fetched 2026-11-28 02:56Z
 
 
 Retreats and events - Ka Shin Zendo Genzo-Ji

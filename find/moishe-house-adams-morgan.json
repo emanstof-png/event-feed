@@ -4,9 +4,9 @@
  "seed_url": "https://www.tribester.com/organizer/moishe-house-adams-morgan/",
  "programs": "",
  "access": "",
- "found": "2026-11-28 02:00Z",
+ "found": "2026-11-28 02:56Z",
  "search_hits": [],
- "search_error": "html.duckduckgo.com Timeout; www.bing.com 0 hits (200, 134148b); lite.duckduckgo.com Timeout",
+ "search_error": "html.duckduckgo.com Timeout; www.bing.com 0 hits (200, 130188b); lite.duckduckgo.com Timeout",
  "probes": [
   {
    "url": "https://www.tribester.com/wp-json/tribe/events/v1/events?per_page=10",
@@ -152,7 +152,7 @@
    "status": 200,
    "final_url": "https://www.tribester.com/",
    "title": "Jewish Events, Experiences and Community | Tribester Jewish Experiences",
-   "dates": 33,
+   "dates": 32,
    "jsonld": 0,
    "jsonld_samples": [],
    "hints": [
@@ -191,16 +191,24 @@
      "url": "https://www.tribester.com/event/ai-technology-through-the-lens-of-kabbalah-chassidus/"
     },
     {
-     "text": "Mon, Nov 30 Chicago The Jewish Dating Course",
-     "url": "https://www.tribester.com/event/the-jewish-dating-course-2/"
-    },
-    {
      "text": "Mon, Nov 30 NYC MJE\u2019s Pre-Chanukah Happy Hour | Music, Open ",
      "url": "https://www.tribester.com/event/mjes-pre-chanukah-happy-hour-music-open-bar-20s-30s/"
     },
     {
      "text": "Mon, Nov 30 LA Mizrahi Heritage Month",
      "url": "https://www.tribester.com/event/mizrahi-heritage-month/"
+    },
+    {
+     "text": "Mon, Nov 30 Chicago The Jewish Dating Course",
+     "url": "https://www.tribester.com/event/the-jewish-dating-course-2/"
+    },
+    {
+     "text": "Mon, Nov 30 DC Small Groups, Big Questions",
+     "url": "https://www.tribester.com/event/small-groups-big-questions-2/"
+    },
+    {
+     "text": "Mon, Nov 30 Phoenix Oy to the World: A Hanukkah Musical Revu",
+     "url": "https://www.tribester.com/event/oy-to-the-world-a-hanukkah-musical-revue/"
     },
     {
      "text": "Mon, Nov 30 Montreal Chanukraft",
@@ -215,20 +223,12 @@
      "url": "https://www.tribester.com/event/monday-game-night/"
     },
     {
-     "text": "Mon, Nov 30 DC Small Groups, Big Questions",
-     "url": "https://www.tribester.com/event/small-groups-big-questions-2/"
-    },
-    {
-     "text": "Mon, Nov 30 Phoenix Oy to the World: A Hanukkah Musical Revu",
-     "url": "https://www.tribester.com/event/oy-to-the-world-a-hanukkah-musical-revue/"
+     "text": "Mon, Nov 30 Boston Riverway Bar Trivia (20s & 30s)",
+     "url": "https://www.tribester.com/event/riverway-bar-trivia-20s-30s-3/"
     },
     {
      "text": "Mon, Nov 30 NYC Lox Club at 92NY: Live Dating Show",
      "url": "https://www.tribester.com/event/lox-club-at-92ny-live-dating-show/"
-    },
-    {
-     "text": "Mon, Nov 30 Boston Riverway Bar Trivia (20s & 30s)",
-     "url": "https://www.tribester.com/event/riverway-bar-trivia-20s-30s-3/"
     },
     {
      "text": "Tue, Dec 1 Las Vegas December Chai Cycle Reno Ride",

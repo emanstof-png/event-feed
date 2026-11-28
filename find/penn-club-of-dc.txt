@@ -1,6 +1,6 @@
 Penn Club of DC
 best page: https://upenn.imodules.com/s/1587/gid2/16/interior.aspx?sid=1587&gid=7&pgid=33442 (status 200, 2 date strings, 0 JSON-LD events)
-fetched 2026-11-28 01:59Z
+fetched 2026-11-28 02:55Z
 
  
 	Penn Club of DC - Event Recordings

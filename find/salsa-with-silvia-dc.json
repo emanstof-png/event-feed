@@ -1,0 +1,353 @@
+{
+ "row": "184",
+ "name": "Salsa With Silvia DC",
+ "seed_url": "https://salsawithsilvia.com/events/salsa-bachata-workshops-events-dc-bethesda",
+ "programs": "",
+ "access": "",
+ "found": "2026-11-28 03:11Z",
+ "search_hits": [],
+ "search_error": "html.duckduckgo.com Timeout; www.bing.com 0 hits (200, 131742b); lite.duckduckgo.com Timeout",
+ "probes": [
+  {
+   "url": "https://salsawithsilvia.com/wp-json/tribe/events/v1/events?per_page=10",
+   "status": "HTTPError",
+   "events": 0
+  },
+  {
+   "url": "https://salsawithsilvia.com/events/?ical=1",
+   "status": 200,
+   "events": 0,
+   "head": "<!DOCTYPE html>\n<html class=\"avada-html-layout-wide avada-html-header-position-top avada-is-100-percent-template\" dir=\"ltr\" lang=\"en-US\" prefix=\"og: https://ogp.me/ns#\">\n<head>\n\t<meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\" />\n\t<meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8"
+  },
+  {
+   "url": "https://salsawithsilvia.com/?ical=1",
+   "status": 200,
+   "events": 0,
+   "head": "<!DOCTYPE html>\n<html class=\"avada-html-layout-wide avada-html-header-position-top avada-is-100-percent-template\" dir=\"ltr\" lang=\"en-US\" prefix=\"og: https://ogp.me/ns#\">\n<head>\n\t<meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\" />\n\t<meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8"
+  }
+ ],
+ "pages": [
+  {
+   "url": "https://salsawithsilvia.com/events/salsa-bachata-workshops-events-dc-bethesda",
+   "status": 200,
+   "final_url": "https://salsawithsilvia.com/events/salsa-bachata-workshops-events-dc-bethesda/",
+   "title": "Dance Workshops & Events \u2014 DC & Bethesda | Salsa With Silvia",
+   "dates": 4,
+   "jsonld": 0,
+   "jsonld_samples": [],
+   "hints": [
+    "https://salsawithsilvia.com/feed/",
+    "https://salsawithsilvia.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fsalsawithsilvia.com%2Fevents%2Fsalsa-bachata-workshops-events-dc-bethesda%2F",
+    "https://salsawithsilvia.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fsalsawithsilvia.com%2Fevents%2Fsalsa-bachata-workshops-events-dc-bethesda%2F&format=xml",
+    "https://salsawithsilvia.com/wp-json/wp/v2/pages/1321",
+    "https://www.eventbrite.com/e/2004916624595?aff=oddtdtcreator"
+   ],
+   "iframes": [],
+   "event_links": [
+    {
+     "text": "Corporate & Special Events",
+     "url": "https://salsawithsilvia.com/events/"
+    },
+    {
+     "text": "Corporate Dance Services",
+     "url": "https://salsawithsilvia.com/events/corporate/"
+    },
+    {
+     "text": "Master Classes & Workshops",
+     "url": "https://salsawithsilvia.com/events/specialized-workshops-dc-bethesda/"
+    },
+    {
+     "text": "First Friday Date Nights",
+     "url": "https://salsawithsilvia.com/events/dance-date-nights-bethesda/"
+    },
+    {
+     "text": "Speed Dating Dance Events",
+     "url": "https://salsawithsilvia.com/events/speed-dating-event/"
+    },
+    {
+     "text": "Rewards Program",
+     "url": "https://salsawithsilvia.com/pricing/milestone-rewards/"
+    },
+    {
+     "text": "A Red & White Christmas Social in Bethesda, Fri 12/18",
+     "url": "https://salsawithsilvia.com/events/salsa-bachata-workshops-events-dc-bethesda/#christmassocial"
+    },
+    {
+     "text": "Sensual Bachata Intensives with Jeff & Mayra in Bethesda, Sa",
+     "url": "https://salsawithsilvia.com/events/specialized-workshops-dc-bethesda/#jeffandmayra"
+    },
+    {
+     "text": "Get Your Ticket",
+     "url": "https://www.wellnessliving.com/schedule/salsa_with_silvia_llc?id_class_tab=1&k_class=1048095&k_class_tab=73282"
+    },
+    {
+     "text": "Guest ticket (Eventbrite)",
+     "url": "https://www.eventbrite.com/e/2004916624595?aff=oddtdtcreator"
+    },
+    {
+     "text": "See the full calendar \u2192",
+     "url": "https://salsawithsilvia.com/events/salsa-bachata-workshop-weekenders-dc-bethesda/"
+    }
+   ],
+   "platform": "wordpress eventbrite [All in One SEO (AIOSEO) 5.0.6.1]",
+   "error": ""
+  },
+  {
+   "url": "https://salsawithsilvia.com/",
+   "status": 200,
+   "final_url": "https://salsawithsilvia.com/",
+   "title": "The Salsa With Silvia Studios - Where You Dance To Be Happy",
+   "dates": 28,
+   "jsonld": 0,
+   "jsonld_samples": [],
+   "hints": [
+    "https://salsawithsilvia.com/feed/",
+    "https://salsawithsilvia.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fsalsawithsilvia.com%2F",
+    "https://salsawithsilvia.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fsalsawithsilvia.com%2F&format=xml",
+    "https://salsawithsilvia.com/wp-json/wp/v2/pages/882"
+   ],
+   "iframes": [],
+   "event_links": [
+    {
+     "text": "Corporate & Special Events",
+     "url": "https://salsawithsilvia.com/events/"
+    },
+    {
+     "text": "Corporate Dance Services",
+     "url": "https://salsawithsilvia.com/events/corporate/"
+    },
+    {
+     "text": "Master Classes & Workshops",
+     "url": "https://salsawithsilvia.com/events/specialized-workshops-dc-bethesda/"
+    },
+    {
+     "text": "Social Events",
+     "url": "https://salsawithsilvia.com/events/salsa-bachata-workshops-events-dc-bethesda/"
+    },
+    {
+     "text": "First Friday Date Nights",
+     "url": "https://salsawithsilvia.com/events/dance-date-nights-bethesda/"
+    },
+    {
+     "text": "Speed Dating Dance Events",
+     "url": "https://salsawithsilvia.com/events/speed-dating-event/"
+    },
+    {
+     "text": "Rewards Program",
+     "url": "https://salsawithsilvia.com/pricing/milestone-rewards/"
+    },
+    {
+     "text": "Book Your Date Night",
+     "url": "https://www.wellnessliving.com/rs/schedule/salsa_with_silvia_llc?k_business=740373&k_class_tab=73283"
+    },
+    {
+     "text": "See the schedule",
+     "url": "https://salsawithsilvia.com/group/#location"
+    },
+    {
+     "text": "Get Your Ticket",
+     "url": "https://salsawithsilvia.com/events/salsa-bachata-workshops-events-dc-bethesda/#christmassocial"
+    },
+    {
+     "text": "Get your spot",
+     "url": "https://salsawithsilvia.com/events/specialized-workshops-dc-bethesda/#jeffandmayra"
+    },
+    {
+     "text": "Book my free class",
+     "url": "https://www.wellnessliving.com/schedule/salsa_with_silvia_llc?id_class_tab=1&k_class=873543&k_class_tab=73285"
+    },
+    {
+     "text": "See the full calendar \u2192",
+     "url": "https://salsawithsilvia.com/events/salsa-bachata-workshop-weekenders-dc-bethesda/"
+    }
+   ],
+   "platform": "wordpress [All in One SEO (AIOSEO) 5.0.6.1]",
+   "error": ""
+  },
+  {
+   "url": "https://salsawithsilvia.com/events/",
+   "status": 200,
+   "final_url": "https://salsawithsilvia.com/events/",
+   "title": "Dance Events & Workshops in the DMV | Salsa With Silvia",
+   "dates": 0,
+   "jsonld": 0,
+   "jsonld_samples": [],
+   "hints": [
+    "https://salsawithsilvia.com/feed/",
+    "https://salsawithsilvia.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fsalsawithsilvia.com%2Fevents%2F",
+    "https://salsawithsilvia.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fsalsawithsilvia.com%2Fevents%2F&format=xml",
+    "https://salsawithsilvia.com/wp-json/wp/v2/pages/1488"
+   ],
+   "iframes": [],
+   "event_links": [
+    {
+     "text": "Corporate Dance Services",
+     "url": "https://salsawithsilvia.com/events/corporate/"
+    },
+    {
+     "text": "Master Classes & Workshops",
+     "url": "https://salsawithsilvia.com/events/specialized-workshops-dc-bethesda/"
+    },
+    {
+     "text": "Social Events",
+     "url": "https://salsawithsilvia.com/events/salsa-bachata-workshops-events-dc-bethesda/"
+    },
+    {
+     "text": "First Friday Date Nights",
+     "url": "https://salsawithsilvia.com/events/dance-date-nights-bethesda/"
+    },
+    {
+     "text": "Speed Dating Dance Events",
+     "url": "https://salsawithsilvia.com/events/speed-dating-event/"
+    },
+    {
+     "text": "Rewards Program",
+     "url": "https://salsawithsilvia.com/pricing/milestone-rewards/"
+    }
+   ],
+   "platform": "wordpress [All in One SEO (AIOSEO) 5.0.6.1]",
+   "error": ""
+  },
+  {
+   "url": "https://salsawithsilvia.com/events/corporate/",
+   "status": 200,
+   "final_url": "https://salsawithsilvia.com/events/corporate/",
+   "title": "Hire A Dance Teacher And Performers For Your Event - Salsa with Silvia",
+   "dates": 0,
+   "jsonld": 0,
+   "jsonld_samples": [],
+   "hints": [
+    "https://salsawithsilvia.com/feed/",
+    "https://salsawithsilvia.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fsalsawithsilvia.com%2Fevents%2Fcorporate%2F",
+    "https://salsawithsilvia.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fsalsawithsilvia.com%2Fevents%2Fcorporate%2F&format=xml",
+    "https://salsawithsilvia.com/wp-json/wp/v2/pages/4423"
+   ],
+   "iframes": [],
+   "event_links": [
+    {
+     "text": "Corporate & Special Events",
+     "url": "https://salsawithsilvia.com/events/"
+    },
+    {
+     "text": "Master Classes & Workshops",
+     "url": "https://salsawithsilvia.com/events/specialized-workshops-dc-bethesda/"
+    },
+    {
+     "text": "Social Events",
+     "url": "https://salsawithsilvia.com/events/salsa-bachata-workshops-events-dc-bethesda/"
+    },
+    {
+     "text": "First Friday Date Nights",
+     "url": "https://salsawithsilvia.com/events/dance-date-nights-bethesda/"
+    },
+    {
+     "text": "Speed Dating Dance Events",
+     "url": "https://salsawithsilvia.com/events/speed-dating-event/"
+    },
+    {
+     "text": "Rewards Program",
+     "url": "https://salsawithsilvia.com/pricing/milestone-rewards/"
+    }
+   ],
+   "platform": "wordpress [All in One SEO (AIOSEO) 5.0.6.1]",
+   "error": ""
+  },
+  {
+   "url": "https://salsawithsilvia.com/events/specialized-workshops-dc-bethesda/",
+   "status": 200,
+   "final_url": "https://salsawithsilvia.com/events/specialized-workshops-dc-bethesda/",
+   "title": "Salsa & Bachata Workshops | DC & Bethesda | Salsa With Silvia",
+   "dates": 5,
+   "jsonld": 0,
+   "jsonld_samples": [],
+   "hints": [
+    "https://salsawithsilvia.com/feed/",
+    "https://salsawithsilvia.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fsalsawithsilvia.com%2Fevents%2Fspecialized-workshops-dc-bethesda%2F",
+    "https://salsawithsilvia.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fsalsawithsilvia.com%2Fevents%2Fspecialized-workshops-dc-bethesda%2F&format=xml",
+    "https://salsawithsilvia.com/wp-json/wp/v2/pages/4883"
+   ],
+   "iframes": [],
+   "event_links": [
+    {
+     "text": "Corporate & Special Events",
+     "url": "https://salsawithsilvia.com/events/"
+    },
+    {
+     "text": "Corporate Dance Services",
+     "url": "https://salsawithsilvia.com/events/corporate/"
+    },
+    {
+     "text": "Social Events",
+     "url": "https://salsawithsilvia.com/events/salsa-bachata-workshops-events-dc-bethesda/"
+    },
+    {
+     "text": "First Friday Date Nights",
+     "url": "https://salsawithsilvia.com/events/dance-date-nights-bethesda/"
+    },
+    {
+     "text": "Speed Dating Dance Events",
+     "url": "https://salsawithsilvia.com/events/speed-dating-event/"
+    },
+    {
+     "text": "Rewards Program",
+     "url": "https://salsawithsilvia.com/pricing/milestone-rewards/"
+    },
+    {
+     "text": "Register",
+     "url": "https://app.wellnessliving.com/rs/event/salsa_with_silvia_llc?k_class=1051877&k_class_tab=73458"
+    },
+    {
+     "text": "Book the Social",
+     "url": "https://app.wellnessliving.com/rs/event/salsa_with_silvia_llc?k_class=1051900&k_class_tab=73458"
+    }
+   ],
+   "platform": "wordpress [All in One SEO (AIOSEO) 5.0.6.1]",
+   "error": ""
+  },
+  {
+   "url": "https://salsawithsilvia.com/events/dance-date-nights-bethesda/",
+   "status": 200,
+   "final_url": "https://salsawithsilvia.com/events/dance-date-nights-bethesda/",
+   "title": "Date Night Romantic Classes for couples in the DMV area! - Salsa with Silvia",
+   "dates": 0,
+   "jsonld": 0,
+   "jsonld_samples": [],
+   "hints": [
+    "https://salsawithsilvia.com/feed/",
+    "https://salsawithsilvia.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fsalsawithsilvia.com%2Fevents%2Fdance-date-nights-bethesda%2F",
+    "https://salsawithsilvia.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fsalsawithsilvia.com%2Fevents%2Fdance-date-nights-bethesda%2F&format=xml",
+    "https://salsawithsilvia.com/wp-json/wp/v2/pages/1349"
+   ],
+   "iframes": [],
+   "event_links": [
+    {
+     "text": "Corporate & Special Events",
+     "url": "https://salsawithsilvia.com/events/"
+    },
+    {
+     "text": "Corporate Dance Services",
+     "url": "https://salsawithsilvia.com/events/corporate/"
+    },
+    {
+     "text": "Master Classes & Workshops",
+     "url": "https://salsawithsilvia.com/events/specialized-workshops-dc-bethesda/"
+    },
+    {
+     "text": "Social Events",
+     "url": "https://salsawithsilvia.com/events/salsa-bachata-workshops-events-dc-bethesda/"
+    },
+    {
+     "text": "Speed Dating Dance Events",
+     "url": "https://salsawithsilvia.com/events/speed-dating-event/"
+    },
+    {
+     "text": "Rewards Program",
+     "url": "https://salsawithsilvia.com/pricing/milestone-rewards/"
+    }
+   ],
+   "platform": "wordpress [All in One SEO (AIOSEO) 5.0.6.1]",
+   "error": ""
+  }
+ ],
+ "best_page": "https://salsawithsilvia.com/"
+}

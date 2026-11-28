@@ -4,9 +4,9 @@
  "seed_url": "https://alumni.umich.edu/communities-clubs/washington-dc/events",
  "programs": "",
  "access": "",
- "found": "2026-11-28 01:52Z",
+ "found": "2026-11-28 02:48Z",
  "search_hits": [],
- "search_error": "html.duckduckgo.com 0 hits (202, 15172b); www.bing.com 0 hits (200, 144506b); lite.duckduckgo.com 0 hits (202, 15172b)",
+ "search_error": "html.duckduckgo.com 0 hits (202, 15178b); www.bing.com 0 hits (200, 119338b); lite.duckduckgo.com 0 hits (202, 15201b)",
  "probes": [
   {
    "url": "https://alumni.umich.edu/wp-json/tribe/events/v1/events?per_page=10",
@@ -21,8 +21,9 @@
   },
   {
    "url": "https://alumni.umich.edu/?ical=1",
-   "status": "HTTPError",
-   "events": 0
+   "status": 200,
+   "events": 0,
+   "head": "<!DOCTYPE html>\n<!-- tempdir = --><html lang=\"en-US\">\n<head>\n\t<script type='text/javascript' src='//static.queue-it.net/script/queueclient.min.js'></script>\n\t<script\n\tdata-queueit-c='umich'\n\ttype='text/javascript'\n\tsrc='//static.queue-it.net/script/queueconfigloader.min.js'>\n\t</script>\n\t<!-- Google "
   }
  ],
  "pages": [

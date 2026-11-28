@@ -1,0 +1,111 @@
+{
+ "row": "200",
+ "name": "Lioudmilla Dance Studio",
+ "seed_url": "https://dancestudiolioudmila.com/calendar",
+ "programs": "",
+ "access": "",
+ "found": "2026-11-28 03:22Z",
+ "search_hits": [],
+ "search_error": "html.duckduckgo.com Timeout; www.bing.com 0 hits (200, 134162b); lite.duckduckgo.com Timeout",
+ "probes": [
+  {
+   "url": "https://www.dancestudiolioudmila.com/wp-json/tribe/events/v1/events?per_page=10",
+   "status": "HTTPError",
+   "events": 0
+  },
+  {
+   "url": "https://www.dancestudiolioudmila.com/events/?ical=1",
+   "status": "HTTPError",
+   "events": 0
+  },
+  {
+   "url": "https://www.dancestudiolioudmila.com/?ical=1",
+   "status": 200,
+   "events": 0,
+   "head": "<!doctype html>\n<html xmlns:og=\"http://opengraphprotocol.org/schema/\" xmlns:fb=\"http://www.facebook.com/2008/fbml\" lang=\"en-US\"  >\n  <head>\n    <meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge,chrome=1\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">\n    <!-- This is Squ"
+  }
+ ],
+ "pages": [
+  {
+   "url": "https://dancestudiolioudmila.com/calendar",
+   "status": 200,
+   "final_url": "https://www.dancestudiolioudmila.com/calendar",
+   "title": "Dance Lessons in Alexandria, VA",
+   "dates": 5,
+   "jsonld": 0,
+   "jsonld_samples": [],
+   "hints": [],
+   "iframes": [],
+   "event_links": [
+    {
+     "text": "Buy Admission",
+     "url": "https://www.dancestudiolioudmila.com/online-store/events"
+    }
+   ],
+   "platform": "squarespace",
+   "error": ""
+  },
+  {
+   "url": "https://www.dancestudiolioudmila.com/",
+   "status": 200,
+   "final_url": "https://www.dancestudiolioudmila.com/",
+   "title": "Dance Studio Lioudmila | Ballroom & Latin Dance Classes in Alexandria, VA",
+   "dates": 0,
+   "jsonld": 0,
+   "jsonld_samples": [],
+   "hints": [],
+   "iframes": [],
+   "event_links": [
+    {
+     "text": "Calendar",
+     "url": "https://www.dancestudiolioudmila.com/calendar"
+    }
+   ],
+   "platform": "squarespace",
+   "error": ""
+  },
+  {
+   "url": "https://www.dancestudiolioudmila.com/online-store/events",
+   "status": 200,
+   "final_url": "https://www.dancestudiolioudmila.com/online-store/events",
+   "title": "Events \u2014 Dance Lessons in Alexandria, VA",
+   "dates": 0,
+   "jsonld": 0,
+   "jsonld_samples": [],
+   "hints": [],
+   "iframes": [],
+   "event_links": [
+    {
+     "text": "Calendar",
+     "url": "https://www.dancestudiolioudmila.com/calendar"
+    },
+    {
+     "text": "Saturdays Dance Party  - See Calendar\n         \n \n          ",
+     "url": "https://www.dancestudiolioudmila.com/online-store/p/events"
+    }
+   ],
+   "platform": "squarespace",
+   "error": ""
+  },
+  {
+   "url": "https://www.dancestudiolioudmila.com/calendar",
+   "status": 200,
+   "final_url": "https://www.dancestudiolioudmila.com/calendar",
+   "title": "Dance Lessons in Alexandria, VA",
+   "dates": 5,
+   "jsonld": 0,
+   "jsonld_samples": [],
+   "hints": [],
+   "iframes": [],
+   "event_links": [
+    {
+     "text": "Buy Admission",
+     "url": "https://www.dancestudiolioudmila.com/online-store/events"
+    }
+   ],
+   "platform": "squarespace",
+   "error": ""
+  }
+ ],
+ "best_page": "https://dancestudiolioudmila.com/calendar"
+}

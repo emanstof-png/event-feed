@@ -1,6 +1,6 @@
 Moishe House Adams Morgan
 best page: https://www.tribester.com/jewish-events/category/holiday/hanukkah/ (status 200, 44 date strings, 0 JSON-LD events)
-fetched 2026-11-28 02:00Z
+fetched 2026-11-28 02:56Z
 
 
 Hanukkah Events – Tribester Jewish Experiences

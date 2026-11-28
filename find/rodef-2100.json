@@ -1,0 +1,297 @@
+{
+ "row": "173",
+ "name": "Rodef 2100",
+ "seed_url": "https://templerodefshalom.org/events?tribe_eventcategory%5B%5D=277",
+ "programs": "",
+ "access": "",
+ "found": "2026-11-28 03:04Z",
+ "search_hits": [],
+ "search_error": "html.duckduckgo.com Timeout; www.bing.com 0 hits (200, 129820b); lite.duckduckgo.com Timeout",
+ "probes": [
+  {
+   "url": "https://www.templerodefshalom.org/wp-json/tribe/events/v1/events?per_page=10",
+   "status": 200,
+   "events": 10,
+   "head": "{\"events\":[{\"id\":10001763,\"global_id\":\"www.templerodefshalom.org?id=10001763\",\"global_id_lineage\":[\"www.templerodefshalom.org?id=10001763\"],\"author\":\"22\",\"status\":\"publish\",\"date\":\"2026-03-27 08:36:24\",\"date_utc\":\"2026-03-27 12:36:24\",\"modified\":\"2026-11-25 10:32:26\",\"modified_utc\":\"2026-11-25 15:32"
+  },
+  {
+   "url": "https://www.templerodefshalom.org/events/?ical=1",
+   "status": 200,
+   "events": 30,
+   "head": "BEGIN:VCALENDAR\r\nVERSION:2.0\r\nPRODID:-//Temple Rodef Shalom - ECPv6.18.4.1//NONSGML v1.0//EN\r\nCALSCALE:GREGORIAN\r\nMETHOD:PUBLISH\r\nX-WR-CALNAME:Temple Rodef Shalom\r\nX-ORIGINAL-URL:https://www.templerodefshalom.org\r\nX-WR-CALDESC:Events for Temple Rodef Shalom\r\nREFRESH-INTERVAL;VALUE=DURATION:PT1H\r\nX-R"
+  },
+  {
+   "url": "https://www.templerodefshalom.org/?ical=1",
+   "status": 200,
+   "events": 30,
+   "head": "BEGIN:VCALENDAR\r\nVERSION:2.0\r\nPRODID:-//Temple Rodef Shalom - ECPv6.18.4.1//NONSGML v1.0//EN\r\nCALSCALE:GREGORIAN\r\nMETHOD:PUBLISH\r\nX-WR-CALNAME:Temple Rodef Shalom\r\nX-ORIGINAL-URL:https://www.templerodefshalom.org\r\nX-WR-CALDESC:Events for Temple Rodef Shalom\r\nREFRESH-INTERVAL;VALUE=DURATION:PT1H\r\nX-R"
+  }
+ ],
+ "pages": [
+  {
+   "url": "https://templerodefshalom.org/events?tribe_eventcategory%5B%5D=277",
+   "status": 200,
+   "final_url": "https://www.templerodefshalom.org/events/?tribe_eventcategory%5B%5D=277",
+   "title": "Events | Temple Rodef Shalom",
+   "dates": 0,
+   "jsonld": 2,
+   "jsonld_samples": [
+    {
+     "name": "Rodef 2100 (20s &#038; 30s): Prepare and Serve Dinner for the Hypothermia Shelter",
+     "start": "2026-12-20T16:00:00-05:00",
+     "url": "https://www.templerodefshalom.org/event/rodef-2100-20s-30s-prepare-and-serve-dinner-for-the-hypothermia-shelter/"
+    },
+    {
+     "name": "The Great Latke Bake-Off! Celebrate Chanukah With Rodef 2100 (20s &#038; 30s)",
+     "start": "2026-12-06T18:00:00-05:00",
+     "url": "https://www.templerodefshalom.org/event/the-great-latke-bake-off-celebrate-chanukah-with-rodef-2100-20s-30s/"
+    }
+   ],
+   "hints": [
+    "https://www.templerodefshalom.org/feed/",
+    "https://www.templerodefshalom.org/feed/atom/",
+    "https://www.templerodefshalom.org/events/feed/",
+    "https://www.templerodefshalom.org/wp-json/tribe/events/v1/",
+    "webcal://www.templerodefshalom.org/?post_type=tribe_events&tribe_eventcategory%5B0%5D=277&ical=1&eventDisplay=list",
+    "https://www.templerodefshalom.org/events/photo/?tribe_eventcategory%5B0%5D=277&ical=1",
+    "https://www.templerodefshalom.org/events/photo/?tribe_eventcategory%5B0%5D=277&outlook-ical=1#038;ical=1"
+   ],
+   "iframes": [],
+   "event_links": [
+    {
+     "text": "Calendar",
+     "url": "https://www.templerodefshalom.org/calendar/"
+    },
+    {
+     "text": "Program Guide",
+     "url": "https://www.templerodefshalom.org/about/program-guide/"
+    },
+    {
+     "text": "Photo",
+     "url": "https://www.templerodefshalom.org/events/photo/?tribe_eventcategory%5B0%5D=277"
+    },
+    {
+     "text": "",
+     "url": "https://www.templerodefshalom.org/events/photo/?tribe_eventcategory%5B0%5D=277&eventDisplay=past"
+    },
+    {
+     "text": "The Great Latke Bake-Off! Celebrate Chanukah With Rodef 2100",
+     "url": "https://www.templerodefshalom.org/event/the-great-latke-bake-off-celebrate-chanukah-with-rodef-2100-20s-30s/"
+    },
+    {
+     "text": "Rodef 2100 (20s & 30s): Prepare and Serve Dinner for the Hyp",
+     "url": "https://www.templerodefshalom.org/event/rodef-2100-20s-30s-prepare-and-serve-dinner-for-the-hypothermia-shelter/"
+    },
+    {
+     "text": "Google Calendar",
+     "url": "https://www.google.com/calendar/render?cid=webcal%3A%2F%2Fwww.templerodefshalom.org%2F%3Fpost_type%3Dtribe_events%26tribe_eventcategory%255B0%255D%3D277%26ical%3D1%26eventDisplay%3Dlist"
+    },
+    {
+     "text": "iCalendar",
+     "url": "webcal://www.templerodefshalom.org/?post_type=tribe_events&tribe_eventcategory%5B0%5D=277&ical=1&eventDisplay=list"
+    },
+    {
+     "text": "Export .ics file",
+     "url": "https://www.templerodefshalom.org/events/photo/?tribe_eventcategory%5B0%5D=277&ical=1"
+    },
+    {
+     "text": "Export Outlook .ics file",
+     "url": "https://www.templerodefshalom.org/events/photo/?tribe_eventcategory%5B0%5D=277&outlook-ical=1#038;ical=1"
+    }
+   ],
+   "platform": "wordpress tribe-events shulcloud [All in One SEO (AIOSEO) 5.0.5.1]",
+   "error": ""
+  },
+  {
+   "url": "https://www.templerodefshalom.org/",
+   "status": 200,
+   "final_url": "https://www.templerodefshalom.org/",
+   "title": "Temple Rodef Shalom - Reform Temple in Northern VA",
+   "dates": 1,
+   "jsonld": 0,
+   "jsonld_samples": [],
+   "hints": [
+    "https://www.templerodefshalom.org/feed/",
+    "https://www.templerodefshalom.org/feed/atom/",
+    "https://www.templerodefshalom.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.templerodefshalom.org%2F",
+    "https://www.templerodefshalom.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.templerodefshalom.org%2F&format=xml",
+    "https://www.templerodefshalom.org/wp-json/wp/v2/pages/2",
+    "https://www.templerodefshalom.org/wp-json/tribe/events/v1/"
+   ],
+   "iframes": [],
+   "event_links": [
+    {
+     "text": "Calendar",
+     "url": "https://www.templerodefshalom.org/calendar/"
+    },
+    {
+     "text": "Events",
+     "url": "https://www.templerodefshalom.org/events/"
+    },
+    {
+     "text": "Program Guide",
+     "url": "https://www.templerodefshalom.org/about/program-guide/"
+    }
+   ],
+   "platform": "wordpress tribe-events shulcloud [All in One SEO (AIOSEO) 5.0.5.1]",
+   "error": ""
+  },
+  {
+   "url": "https://www.templerodefshalom.org/calendar/",
+   "status": 200,
+   "final_url": "https://www.templerodefshalom.org/calendar/",
+   "title": "Calendar | Temple Rodef Shalom - Reform Temple in Northern VA",
+   "dates": 0,
+   "jsonld": 0,
+   "jsonld_samples": [],
+   "hints": [
+    "https://www.templerodefshalom.org/feed/",
+    "https://www.templerodefshalom.org/feed/atom/",
+    "https://www.templerodefshalom.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.templerodefshalom.org%2Fcalendar%2F",
+    "https://www.templerodefshalom.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.templerodefshalom.org%2Fcalendar%2F&format=xml",
+    "https://www.templerodefshalom.org/wp-json/wp/v2/pages/8",
+    "https://www.templerodefshalom.org/wp-json/tribe/events/v1/"
+   ],
+   "iframes": [
+    "https://templerodefshalom.mhsoftware.com/ViewCal.html?dropdown=1&calendar_id=2"
+   ],
+   "event_links": [
+    {
+     "text": "Events",
+     "url": "https://www.templerodefshalom.org/events/"
+    },
+    {
+     "text": "Program Guide",
+     "url": "https://www.templerodefshalom.org/about/program-guide/"
+    }
+   ],
+   "platform": "wordpress tribe-events shulcloud [All in One SEO (AIOSEO) 5.0.5.1]",
+   "error": ""
+  },
+  {
+   "url": "https://www.templerodefshalom.org/about/program-guide/",
+   "status": 200,
+   "final_url": "https://www.templerodefshalom.org/about/program-guide/",
+   "title": "Program Guide | Temple Rodef Shalom - Reform Temple in Northern VA",
+   "dates": 1,
+   "jsonld": 0,
+   "jsonld_samples": [],
+   "hints": [
+    "https://www.templerodefshalom.org/feed/",
+    "https://www.templerodefshalom.org/feed/atom/",
+    "https://www.templerodefshalom.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.templerodefshalom.org%2Fabout%2Fprogram-guide%2F",
+    "https://www.templerodefshalom.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.templerodefshalom.org%2Fabout%2Fprogram-guide%2F&format=xml",
+    "https://www.templerodefshalom.org/wp-json/wp/v2/pages/133",
+    "https://www.templerodefshalom.org/wp-json/tribe/events/v1/"
+   ],
+   "iframes": [
+    "about:blank"
+   ],
+   "event_links": [
+    {
+     "text": "Calendar",
+     "url": "https://www.templerodefshalom.org/calendar/"
+    },
+    {
+     "text": "Events",
+     "url": "https://www.templerodefshalom.org/events/"
+    }
+   ],
+   "platform": "wordpress tribe-events shulcloud [All in One SEO (AIOSEO) 5.0.5.1]",
+   "error": ""
+  },
+  {
+   "url": "https://www.templerodefshalom.org/events/photo/?tribe_eventcategory%5B0%5D=277",
+   "status": 200,
+   "final_url": "https://www.templerodefshalom.org/events/photo/?tribe_eventcategory%5B0%5D=277",
+   "title": "Events | Temple Rodef Shalom",
+   "dates": 0,
+   "jsonld": 2,
+   "jsonld_samples": [
+    {
+     "name": "Rodef 2100 (20s &#038; 30s): Prepare and Serve Dinner for the Hypothermia Shelter",
+     "start": "2026-12-20T16:00:00-05:00",
+     "url": "https://www.templerodefshalom.org/event/rodef-2100-20s-30s-prepare-and-serve-dinner-for-the-hypothermia-shelter/"
+    },
+    {
+     "name": "The Great Latke Bake-Off! Celebrate Chanukah With Rodef 2100 (20s &#038; 30s)",
+     "start": "2026-12-06T18:00:00-05:00",
+     "url": "https://www.templerodefshalom.org/event/the-great-latke-bake-off-celebrate-chanukah-with-rodef-2100-20s-30s/"
+    }
+   ],
+   "hints": [
+    "https://www.templerodefshalom.org/feed/",
+    "https://www.templerodefshalom.org/feed/atom/",
+    "https://www.templerodefshalom.org/events/feed/",
+    "https://www.templerodefshalom.org/wp-json/tribe/events/v1/",
+    "webcal://www.templerodefshalom.org/?post_type=tribe_events&tribe_eventcategory%5B0%5D=277&ical=1&eventDisplay=list",
+    "https://www.templerodefshalom.org/events/photo/?tribe_eventcategory%5B0%5D=277&ical=1",
+    "https://www.templerodefshalom.org/events/photo/?tribe_eventcategory%5B0%5D=277&outlook-ical=1#038;ical=1"
+   ],
+   "iframes": [],
+   "event_links": [
+    {
+     "text": "Calendar",
+     "url": "https://www.templerodefshalom.org/calendar/"
+    },
+    {
+     "text": "Events",
+     "url": "https://www.templerodefshalom.org/events/"
+    },
+    {
+     "text": "Program Guide",
+     "url": "https://www.templerodefshalom.org/about/program-guide/"
+    },
+    {
+     "text": "Photo",
+     "url": "https://www.templerodefshalom.org/events/photo/?tribe_eventcategory%5B0%5D=277"
+    },
+    {
+     "text": "",
+     "url": "https://www.templerodefshalom.org/events/photo/?tribe_eventcategory%5B0%5D=277&eventDisplay=past"
+    },
+    {
+     "text": "The Great Latke Bake-Off! Celebrate Chanukah With Rodef 2100",
+     "url": "https://www.templerodefshalom.org/event/the-great-latke-bake-off-celebrate-chanukah-with-rodef-2100-20s-30s/"
+    },
+    {
+     "text": "Rodef 2100 (20s & 30s): Prepare and Serve Dinner for the Hyp",
+     "url": "https://www.templerodefshalom.org/event/rodef-2100-20s-30s-prepare-and-serve-dinner-for-the-hypothermia-shelter/"
+    },
+    {
+     "text": "Google Calendar",
+     "url": "https://www.google.com/calendar/render?cid=webcal%3A%2F%2Fwww.templerodefshalom.org%2F%3Fpost_type%3Dtribe_events%26tribe_eventcategory%255B0%255D%3D277%26ical%3D1%26eventDisplay%3Dlist"
+    },
+    {
+     "text": "iCalendar",
+     "url": "webcal://www.templerodefshalom.org/?post_type=tribe_events&tribe_eventcategory%5B0%5D=277&ical=1&eventDisplay=list"
+    },
+    {
+     "text": "Export .ics file",
+     "url": "https://www.templerodefshalom.org/events/photo/?tribe_eventcategory%5B0%5D=277&ical=1"
+    },
+    {
+     "text": "Export Outlook .ics file",
+     "url": "https://www.templerodefshalom.org/events/photo/?tribe_eventcategory%5B0%5D=277&outlook-ical=1#038;ical=1"
+    }
+   ],
+   "platform": "wordpress tribe-events shulcloud [All in One SEO (AIOSEO) 5.0.5.1]",
+   "error": ""
+  },
+  {
+   "url": "https://www.templerodefshalom.org/events/photo/?tribe_eventcategory%5B0%5D=277&eventDisplay=past",
+   "status": 301,
+   "final_url": "https://www.templerodefshalom.org/events/photo/?tribe_eventcategory%5B0%5D=277&eventDisplay=past",
+   "title": "",
+   "dates": 0,
+   "jsonld": 0,
+   "jsonld_samples": [],
+   "hints": [],
+   "iframes": [],
+   "event_links": [],
+   "platform": "",
+   "error": ""
+  }
+ ],
+ "best_page": "https://templerodefshalom.org/events?tribe_eventcategory%5B%5D=277"
+}

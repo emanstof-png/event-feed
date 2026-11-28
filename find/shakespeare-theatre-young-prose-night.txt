@@ -1,87 +1,69 @@
 Shakespeare Theatre Young Prose Night
-best page: https://www.shakespearetheatre.org/ (status 200, 7 date strings, 0 JSON-LD events)
-fetched 2026-11-28 01:58Z
+best page: https://www.shakespearetheatre.org/tickets-and-events/special-offers/under-35 (status 200, 0 date strings, 0 JSON-LD events)
+fetched 2026-11-28 02:54Z
 
 
-STC HOME - Shakespeare Theatre Company
+35 and Under - Shakespeare Theatre Company
 What’s On
 Learn
 Give Now
 Account
 View Cart
-A Midsummer Night's Dream
-DEC 4, 2026–JAN 10, 2027
-Harman Hall
-GET TICKETS
-SUBSCRIBE
-THE BLACK FRIDAY SALE IS HERE
-This week only, 
-no fees on any show, any date, any seat
-, at STC with code 
-THANKS
-. Bundle and save more with a 3- or 4-play package. Details on eligible show pages.
-26/27 Season
-Music. Magic. Memories.
-SUBSCRIBE
-A Raisin in the Sun
-EXTENDED—Jan 23–Mar 7, 2027
-Klein Theatre
-TICKETS
+35 and Under
+Photo of the cast of 2016’s 
 Romeo and Juliet
-Apr 13–May 16, 2027
-Klein Theatre
-TICKETS
-Follies
-A Co-Production with Signature Theatre
-MAY 18–JUN 20, 2027
-Harman Hall
-TICKETS
-DOUBLE YOUR Impact
-Your gift will be matched dollar for dollar up to $100,000 before December 31.
-GIVE NOW
-The Merry Wives of Windsor
-STC Academy Winter Repertory
-Dec 6 & 8 | 7:30pm
-Revada Arts Center
-TICKETS
-Pericles
-STC Academy Winter Repertory
-Dec 7 & 9 | 7:30pm
-Revada Arts Center
-TICKETS
-Camp Shakespeare
-Winter Revels (Ages 6–11)
-DECEMBER 28–30, 2026
-REGISTER
-Youth & Teen Classes
-Fall Classes Now on Sale
-Winter 2027
-Education Classes and Camps
-REGISTER NOW
-Adult Classes
-Fall Classes Now on Sale
-WINTER 2027
-Education Classes and Camps
-REGISTER NOW
-STC Salon
-Engage with the Art and Artists
-Go beyond the stage. Step into the story.
-Harman Hall
-SALON SESSIONS
-School Programs
-In Class and Online
-Group Sales
-26/27 Season On Sale Now
-BOOK NOW
-35 and Under?
-Get discounted tickets all season long
-LEARN MORE
-Gift Certificates
-Give the Gift of Tickets, Camp, or Classes
-PURCHASE
-What News?
-Join STC's Email List
-SIGN UP
+ by Scott Suchman.
+35 or Under? Get discounted tickets all season long.
+35 and Under Subscriptions
+35 and Under Subscriptions are now on sale for the 
+26/27 Season
+. At only $35 a ticket, lock in your full six-show season at STC's best prices.
+Subscribe to the 
+Young Prose Night
+ Friday Evening series and join us after each show for a free drink and a chance to win prizes.
+35 and Under Discounts for Individual Performances
+Single tickets for the 
+26/27 Season
+ are now on sale. Enter code 
+35U27 
+in the promo code box before selecting your seats to unlock 35 and under pricing for select seating zones, subject to availability.
+Young Prose Night
+Hosted by Sebastian D. Pineapple, Young Prose Night (YPN) offers the best of STC with a built-in afterparty for theatre lovers 35 and under. Stick around after the show to enjoy a free drink courtesy of STC and enter to win tickets, merch, and the grand prize: Sebastian.
+26/27 Season YPN dates:
+THE SCORE
+ — 
+Friday, SEP 25, 2026
+ | 7:30pm
+FRIDA...A SELF PORTRAIT
+ — 
+Friday, OCT 16, 2026
+ | 7:30pm
+A MIDSUMMER NIGHT'S DREAM
+ — 
+Friday, DEC 18, 2026
+ | 7:30pm
+A RAISIN IN THE SUN
+ — 
+Friday, FEB 5, 2026
+ | 7:30pm
+ROMEO AND JULIET
+ — 
+Friday, APR 30, 2026
+ | 7:30pm
+FOLLIES
+ — 
+Friday, MAY 28, 2026
+ | 7:30pm
+The Fine Print
+Valid IDs proving age are required for all individuals attending in order to pick up tickets.
+Discounts are subject to availability and for select seating. Tickets may not be available for every performance.
+Individual 35 or Under tickets and YPN tickets are eligible for C, D, and E zones only.
+Questions?
+Our friendly Box Office is open daily from 12–6pm. Call 
+202.547.1122
+ or email 
+STCBox@ShakespeareTheatre.org
+.
 Quick Links
 Customer Service
 Gift Certificates

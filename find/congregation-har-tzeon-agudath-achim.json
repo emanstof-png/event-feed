@@ -1,0 +1,70 @@
+{
+ "row": "198",
+ "name": "Congregation Har Tzeon-Agudath Achim",
+ "seed_url": "http://htaa.org",
+ "programs": "",
+ "access": "",
+ "found": "2026-11-28 03:20Z",
+ "search_hits": [],
+ "search_error": "html.duckduckgo.com Timeout; www.bing.com 0 hits (200, 131304b); lite.duckduckgo.com Timeout",
+ "probes": [
+  {
+   "url": "https://www.htaa.org:443/wp-json/tribe/events/v1/events?per_page=10",
+   "status": "HTTPError",
+   "events": 0
+  },
+  {
+   "url": "https://www.htaa.org:443/events/?ical=1",
+   "status": "HTTPError",
+   "events": 0
+  },
+  {
+   "url": "https://www.htaa.org:443/?ical=1",
+   "status": 200,
+   "events": 0,
+   "head": "<!DOCTYPE html>\n<html xmlns=\"http://www.w3.org/1999/xhtml\">\n<head>\n\n    <meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\" />\n        <meta name=\"description\" content=\"A warm and welcoming  Jewish traditional congregation in Silver Spring Maryland. We are an inclusive community and w"
+  }
+ ],
+ "pages": [
+  {
+   "url": "http://htaa.org",
+   "status": 200,
+   "final_url": "https://www.htaa.org:443/",
+   "title": "Har Tzeon-Agudath Achim",
+   "dates": 1,
+   "jsonld": 0,
+   "jsonld_samples": [],
+   "hints": [],
+   "iframes": [],
+   "event_links": [
+    {
+     "text": "Service Schedule",
+     "url": "https://www.htaa.org/pray"
+    },
+    {
+     "text": "Events",
+     "url": "https://www.htaa.org/events"
+    },
+    {
+     "text": "Main Calendar",
+     "url": "https://www.htaa.org/cal.php"
+    },
+    {
+     "text": "HERE",
+     "url": "https://www.htaa.org/event/RSD"
+    },
+    {
+     "text": "Rabbi's Talmud Study Group",
+     "url": "https://www.htaa.org/event/talmudstudygroup"
+    },
+    {
+     "text": "View Calendar",
+     "url": "https://www.htaa.org/calendar"
+    }
+   ],
+   "platform": "shulcloud",
+   "error": ""
+  }
+ ],
+ "best_page": "http://htaa.org"
+}

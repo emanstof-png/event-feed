@@ -1,6 +1,6 @@
 Classical Arts Society of Washington
 best page: https://classicalartssociety.org/concert-schedule (status 200, 27 date strings, 0 JSON-LD events)
-fetched 2026-11-28 01:56Z
+fetched 2026-11-28 02:52Z
 
 
 Concert Schedule — Classical Arts Society of Washington

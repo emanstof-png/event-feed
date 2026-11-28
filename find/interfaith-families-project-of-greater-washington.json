@@ -1,0 +1,48 @@
+{
+ "row": "171",
+ "name": "Interfaith Families Project of Greater Washington",
+ "seed_url": "https://iffp.net/couples",
+ "programs": "",
+ "access": "",
+ "found": "2026-11-28 03:02Z",
+ "search_hits": [],
+ "search_error": "html.duckduckgo.com Timeout; www.bing.com 0 hits (200, 135137b); lite.duckduckgo.com Timeout",
+ "probes": [
+  {
+   "url": "https://iffp.net/wp-json/tribe/events/v1/events?per_page=10",
+   "status": "Timeout",
+   "events": 0
+  }
+ ],
+ "pages": [
+  {
+   "url": "https://iffp.net/couples",
+   "status": null,
+   "final_url": "",
+   "title": "",
+   "dates": 0,
+   "jsonld": 0,
+   "jsonld_samples": [],
+   "hints": [],
+   "iframes": [],
+   "event_links": [],
+   "platform": "",
+   "error": "Timeout: Failed to perform, curl: (28) Connection timed out after 20001 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+  },
+  {
+   "url": "https://iffp.net/",
+   "status": null,
+   "final_url": "",
+   "title": "",
+   "dates": 0,
+   "jsonld": 0,
+   "jsonld_samples": [],
+   "hints": [],
+   "iframes": [],
+   "event_links": [],
+   "platform": "",
+   "error": "Timeout: Failed to perform, curl: (28) Connection timed out after 20001 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+  }
+ ],
+ "best_page": "https://iffp.net/couples"
+}

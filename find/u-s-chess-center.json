@@ -1,0 +1,148 @@
+{
+ "row": "196",
+ "name": "U.S. Chess Center",
+ "seed_url": "https://chessctr.org/calendar",
+ "programs": "",
+ "access": "",
+ "found": "2026-11-28 03:19Z",
+ "search_hits": [],
+ "search_error": "html.duckduckgo.com Timeout; www.bing.com 0 hits (200, 120950b); lite.duckduckgo.com Timeout",
+ "probes": [
+  {
+   "url": "https://chessctr.org/wp-json/tribe/events/v1/events?per_page=10",
+   "status": "HTTPError",
+   "events": 0
+  },
+  {
+   "url": "https://chessctr.org/events/?ical=1",
+   "status": "HTTPError",
+   "events": 0
+  },
+  {
+   "url": "https://chessctr.org/?ical=1",
+   "status": 200,
+   "events": 0,
+   "head": "<!DOCTYPE html>\n<html dir=\"ltr\" lang=\"en-US\" prefix=\"og: https://ogp.me/ns#\">\n\n<head>\n\t\n\t<meta charset=\"UTF-8\">\n\t<meta name=\"viewport\" content=\"width=device-width, initial-scale=1, minimum-scale=1\">\n\t<link rel=\"profile\" href=\"http://gmpg.org/xfn/11\">\n\t\t<title>U.S. Chess Center</title>\n\n\t\t<!-- All in"
+  }
+ ],
+ "pages": [
+  {
+   "url": "https://chessctr.org/calendar",
+   "status": 200,
+   "final_url": "https://chessctr.org/calendar/",
+   "title": "Events - U.S. Chess Center",
+   "dates": 0,
+   "jsonld": 10,
+   "jsonld_samples": [
+    {
+     "name": "Saturday Afternoon Chess: Open Play at the Chess Center: 1:00-5:00pm ET",
+     "start": "2026-11-28",
+     "url": "https://chessctr.org/calendar/saturday_afternoon_chess_open_play_at_the_chess_center_100-500pmet-756/"
+    },
+    {
+     "name": "McNair December Scholastic 2026",
+     "start": "2026-12-05",
+     "url": "https://caissachess.net/register/11114932"
+    },
+    {
+     "name": "Saturday Afternoon Chess: Open Play at the Chess Center: 1:00-5:00pm ET",
+     "start": "2026-12-05",
+     "url": "https://chessctr.org/calendar/saturday_afternoon_chess_open_play_at_the_chess_center_100-500pmet-756/"
+    },
+    {
+     "name": "Saturday Afternoon Chess: Open Play at the Chess Center: 1:00-5:00pm ET",
+     "start": "2026-12-12",
+     "url": "https://chessctr.org/calendar/saturday_afternoon_chess_open_play_at_the_chess_center_100-500pmet-756/"
+    },
+    {
+     "name": "Saturday Afternoon Chess: Open Play at the Chess Center: 1:00-5:00pm ET",
+     "start": "2026-12-19",
+     "url": "https://chessctr.org/calendar/saturday_afternoon_chess_open_play_at_the_chess_center_100-500pmet-756/"
+    }
+   ],
+   "hints": [
+    "https://chessctr.org/feed/",
+    "https://chessctr.org/comments/feed/",
+    "https://chessctr.org/calendar/feed/",
+    "https://www.meetup.com/us-chess-center/"
+   ],
+   "iframes": [],
+   "event_links": [
+    {
+     "text": "",
+     "url": "https://chessctr.org/calendar/saturday_afternoon_chess_open_play_at_the_chess_center_100-500pmet-756/"
+    }
+   ],
+   "platform": "wordpress [All in One SEO (AIOSEO) 5.0.5.1]",
+   "error": ""
+  },
+  {
+   "url": "https://chessctr.org/",
+   "status": 200,
+   "final_url": "https://chessctr.org/",
+   "title": "U.S. Chess Center",
+   "dates": 1,
+   "jsonld": 0,
+   "jsonld_samples": [],
+   "hints": [
+    "https://chessctr.org/feed/",
+    "https://chessctr.org/comments/feed/",
+    "https://chessctr.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fchessctr.org%2F",
+    "https://chessctr.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fchessctr.org%2F&format=xml",
+    "https://chessctr.org/wp-json/wp/v2/pages/42",
+    "https://www.meetup.com/us-chess-center/"
+   ],
+   "iframes": [],
+   "event_links": [
+    {
+     "text": "",
+     "url": "https://chessctr.org/wp-content/uploads/2021/02/2004-05-26-Letter-FR-Herbert-Boyd-Jr.-Moten-Center-Program-scaled.jpg"
+    }
+   ],
+   "platform": "wordpress [All in One SEO (AIOSEO) 5.0.5.1]",
+   "error": ""
+  },
+  {
+   "url": "https://chessctr.org/calendar/saturday_afternoon_chess_open_play_at_the_chess_center_100-500pmet-756/",
+   "status": 200,
+   "final_url": "https://chessctr.org/calendar/saturday_afternoon_chess_open_play_at_the_chess_center_100-500pmet-756/",
+   "title": "Saturday Afternoon Chess: Open Play at the Chess Center: 1:00-5:00pm ET - U.S. Chess Center",
+   "dates": 0,
+   "jsonld": 1,
+   "jsonld_samples": [
+    {
+     "name": "Saturday Afternoon Chess: Open Play at the Chess Center: 1:00-5:00pm ET",
+     "start": "2026-11-28",
+     "url": "https://chessctr.org/calendar/saturday_afternoon_chess_open_play_at_the_chess_center_100-500pmet-756/"
+    }
+   ],
+   "hints": [
+    "https://chessctr.org/feed/",
+    "https://chessctr.org/comments/feed/",
+    "https://chessctr.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fchessctr.org%2Fcalendar%2Fsaturday_afternoon_chess_open_play_at_the_chess_center_100-500pmet-756%2F",
+    "https://chessctr.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fchessctr.org%2Fcalendar%2Fsaturday_afternoon_chess_open_play_at_the_chess_center_100-500pmet-756%2F&format=xml",
+    "https://chessctr.org/wp-json/wp/v2/mec-events/11029",
+    "https://www.meetup.com/us-chess-center/"
+   ],
+   "iframes": [],
+   "event_links": [],
+   "platform": "wordpress [All in One SEO (AIOSEO) 5.0.5.1]",
+   "error": ""
+  },
+  {
+   "url": "https://chessctr.org/wp-content/uploads/2021/02/2004-05-26-Letter-FR-Herbert-Boyd-Jr.-Moten-Center-Program-scaled.jpg",
+   "status": 200,
+   "final_url": "https://chessctr.org/wp-content/uploads/2021/02/2004-05-26-Letter-FR-Herbert-Boyd-Jr.-Moten-Center-Program-scaled.jpg",
+   "title": "",
+   "dates": 0,
+   "jsonld": 0,
+   "jsonld_samples": [],
+   "hints": [],
+   "iframes": [],
+   "event_links": [],
+   "platform": "",
+   "error": ""
+  }
+ ],
+ "best_page": "https://chessctr.org/calendar"
+}

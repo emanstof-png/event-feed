@@ -1,0 +1,440 @@
+{
+ "row": "192",
+ "name": "Hill Havurah",
+ "seed_url": "https://hillhavurah.org/events/2026-11-07",
+ "programs": "",
+ "access": "",
+ "found": "2026-11-28 03:16Z",
+ "search_hits": [],
+ "search_error": "html.duckduckgo.com Timeout; www.bing.com 0 hits (200, 134237b); lite.duckduckgo.com Timeout",
+ "probes": [
+  {
+   "url": "https://www.hillhavurah.org/wp-json/tribe/events/v1/events?per_page=10",
+   "status": "HTTPError",
+   "events": 0
+  },
+  {
+   "url": "https://www.hillhavurah.org/events/?ical=1",
+   "status": 200,
+   "events": 50,
+   "head": "BEGIN:VCALENDAR\r\nVERSION:2.0\r\nPRODID:-//wp-events-plugin.com//7.7.1//EN\r\nTZID:America/New_York\r\nX-WR-TIMEZONE:America/New_York\r\nBEGIN:VEVENT\r\nUID:1@hillhavurah.org\r\nDTSTART;TZID=America/New_York:20260303T180000\r\nDTEND;TZID=America/New_York:20260303T210000\r\nDTSTAMP:20260218T174735Z\r\nURL:https://www.h"
+  },
+  {
+   "url": "https://www.hillhavurah.org/?ical=1",
+   "status": 200,
+   "events": 50,
+   "head": "BEGIN:VCALENDAR\r\nVERSION:2.0\r\nPRODID:-//wp-events-plugin.com//7.7.1//EN\r\nTZID:America/New_York\r\nX-WR-TIMEZONE:America/New_York\r\nBEGIN:VEVENT\r\nUID:95@hillhavurah.org\r\nDTSTART;TZID=America/New_York:20261205T090000\r\nDTEND;TZID=America/New_York:20261205T100000\r\nDTSTAMP:20261016T145025Z\r\nURL:https://www."
+  }
+ ],
+ "pages": [
+  {
+   "url": "https://hillhavurah.org/events/2026-11-07",
+   "status": 200,
+   "final_url": "https://www.hillhavurah.org/events/2026-11-07/",
+   "title": "Events | Hill Havurah",
+   "dates": 10,
+   "jsonld": 0,
+   "jsonld_samples": [],
+   "hints": [
+    "https://www.hillhavurah.org/feed/",
+    "https://www.hillhavurah.org/feed/atom/",
+    "https://www.hillhavurah.org/events/feed/"
+   ],
+   "iframes": [],
+   "event_links": [
+    {
+     "text": "Calendar",
+     "url": "https://www.hillhavurah.org/get-involved/calendar-of-events/"
+    },
+    {
+     "text": "Life Cycle Events",
+     "url": "https://www.hillhavurah.org/jewish-life/life-cycle-events/"
+    },
+    {
+     "text": "10th Grade Chizuk Program",
+     "url": "https://www.hillhavurah.org/youth/teens/10th-grade-chizuk-confirmation-program/"
+    },
+    {
+     "text": "Tiny Torah Early Learning Program",
+     "url": "https://www.hillhavurah.org/youth/tiny-torah-early-learning-program/"
+    },
+    {
+     "text": "B\u2019Mitzvah Program",
+     "url": "https://www.hillhavurah.org/youth/bmitzvah-program/"
+    },
+    {
+     "text": "Kabbalat Shabbat with Student Rabbi Lev",
+     "url": "https://www.hillhavurah.org/events/kabbalat-shabbat-with-student-rabbi-lev/"
+    },
+    {
+     "text": "Adult Education with Rabbi Hannah",
+     "url": "https://www.hillhavurah.org/events/adult-education-with-rabbi-hannah/"
+    },
+    {
+     "text": "Tot Shabbat",
+     "url": "https://www.hillhavurah.org/events/tot-shabbat-3-2026-11-07/"
+    },
+    {
+     "text": "Shabbat Morning Service & Thomas Simon\u2019s B\u2019Mitzvah",
+     "url": "https://www.hillhavurah.org/events/shabbat-morning-service-thomas-simons-bmitzvah/"
+    }
+   ],
+   "platform": "wordpress shulcloud [All in One SEO (AIOSEO) 5.0.6.1]",
+   "error": ""
+  },
+  {
+   "url": "https://www.hillhavurah.org/",
+   "status": 200,
+   "final_url": "https://www.hillhavurah.org/",
+   "title": "Hill Havurah - An Independent Congregation on Capitol Hill",
+   "dates": 42,
+   "jsonld": 0,
+   "jsonld_samples": [],
+   "hints": [
+    "https://www.hillhavurah.org/feed/",
+    "https://www.hillhavurah.org/feed/atom/",
+    "https://www.hillhavurah.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.hillhavurah.org%2F",
+    "https://www.hillhavurah.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.hillhavurah.org%2F&format=xml",
+    "https://www.hillhavurah.org/wp-json/wp/v2/pages/2"
+   ],
+   "iframes": [],
+   "event_links": [
+    {
+     "text": "Calendar",
+     "url": "https://www.hillhavurah.org/get-involved/calendar-of-events/"
+    },
+    {
+     "text": "Life Cycle Events",
+     "url": "https://www.hillhavurah.org/jewish-life/life-cycle-events/"
+    },
+    {
+     "text": "10th Grade Chizuk Program",
+     "url": "https://www.hillhavurah.org/youth/teens/10th-grade-chizuk-confirmation-program/"
+    },
+    {
+     "text": "Tiny Torah Early Learning Program",
+     "url": "https://www.hillhavurah.org/youth/tiny-torah-early-learning-program/"
+    },
+    {
+     "text": "B\u2019Mitzvah Program",
+     "url": "https://www.hillhavurah.org/youth/bmitzvah-program/"
+    },
+    {
+     "text": "",
+     "url": "https://www.hillhavurah.org/events/tot-shabbat-3-2026-12-05/"
+    },
+    {
+     "text": "",
+     "url": "https://www.hillhavurah.org/events/shabbat-morning-service-isaac-spykermans-bar-mitzvah/"
+    },
+    {
+     "text": "",
+     "url": "https://www.hillhavurah.org/events/tiny-torahs-hannukah-havdalah-pj-party/"
+    },
+    {
+     "text": "",
+     "url": "https://www.hillhavurah.org/events/13th-annual-capitol-hill-menorah-light/"
+    },
+    {
+     "text": "",
+     "url": "https://www.hillhavurah.org/events/adult-education-with-rabbi-hannah/"
+    },
+    {
+     "text": "",
+     "url": "https://www.hillhavurah.org/events/board-meeting-2-2026-12-08/"
+    },
+    {
+     "text": "",
+     "url": "https://www.hillhavurah.org/events/yoga-kabbalat-shabbat-2026-12-11/"
+    },
+    {
+     "text": "",
+     "url": "https://www.hillhavurah.org/events/shabbat-morning-service-and-felix-dentons-bmitzvah/"
+    },
+    {
+     "text": "",
+     "url": "https://www.hillhavurah.org/events/tot-shabbat-4-2026-12-12/"
+    },
+    {
+     "text": "",
+     "url": "https://www.hillhavurah.org/events/yavneh-katan/"
+    },
+    {
+     "text": "",
+     "url": "https://www.hillhavurah.org/events/the-greater-washington-peacebuilders-symposium-pathways-forward-with-israeli-palestinian-and-american-peacebuilders/"
+    },
+    {
+     "text": "",
+     "url": "https://www.hillhavurah.org/events/kabbalat-shabbat-service-potluck-dinner-2026-12-18/"
+    },
+    {
+     "text": "",
+     "url": "https://www.hillhavurah.org/events/shabbat-morning-service-elias-yabuts-bar-mitzvah/"
+    },
+    {
+     "text": "",
+     "url": "https://www.hillhavurah.org/events/kabbalat-shabbat-with-student-rabbi-lev/"
+    },
+    {
+     "text": "",
+     "url": "https://www.hillhavurah.org/events/kabbalat-shabbat-service-potluck-dinner-2027-01-15/"
+    },
+    {
+     "text": "",
+     "url": "https://www.hillhavurah.org/events/dvar-torah-session-for-bmitzvah-students-2/"
+    },
+    {
+     "text": "",
+     "url": "https://www.hillhavurah.org/events/shabbat-morning-service-nora-williams-bat-mitzvah/"
+    },
+    {
+     "text": "",
+     "url": "https://www.hillhavurah.org/events/shabbat-morning-service-ione-roths-bat-mitzvah/"
+    },
+    {
+     "text": "",
+     "url": "https://www.hillhavurah.org/events/shabbat-morning-service-mathaias-sokolovs-bar-mitzvah/"
+    },
+    {
+     "text": "",
+     "url": "https://www.hillhavurah.org/events/shabbat-morning-service-jane-fardens-bat-mitzvah/"
+    }
+   ],
+   "platform": "wordpress shulcloud [All in One SEO (AIOSEO) 5.0.6.1]",
+   "error": ""
+  },
+  {
+   "url": "https://www.hillhavurah.org/get-involved/calendar-of-events/",
+   "status": 200,
+   "final_url": "https://www.hillhavurah.org/get-involved/calendar-of-events/",
+   "title": "Calendar of Events | Hill Havurah - An Independent Congregation on Capitol Hill",
+   "dates": 48,
+   "jsonld": 0,
+   "jsonld_samples": [],
+   "hints": [
+    "https://www.hillhavurah.org/feed/",
+    "https://www.hillhavurah.org/feed/atom/",
+    "https://www.hillhavurah.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.hillhavurah.org%2Fget-involved%2Fcalendar-of-events%2F",
+    "https://www.hillhavurah.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.hillhavurah.org%2Fget-involved%2Fcalendar-of-events%2F&format=xml",
+    "https://www.hillhavurah.org/wp-json/wp/v2/pages/54"
+   ],
+   "iframes": [],
+   "event_links": [
+    {
+     "text": "Life Cycle Events",
+     "url": "https://www.hillhavurah.org/jewish-life/life-cycle-events/"
+    },
+    {
+     "text": "10th Grade Chizuk Program",
+     "url": "https://www.hillhavurah.org/youth/teens/10th-grade-chizuk-confirmation-program/"
+    },
+    {
+     "text": "Tiny Torah Early Learning Program",
+     "url": "https://www.hillhavurah.org/youth/tiny-torah-early-learning-program/"
+    },
+    {
+     "text": "B\u2019Mitzvah Program",
+     "url": "https://www.hillhavurah.org/youth/bmitzvah-program/"
+    },
+    {
+     "text": "",
+     "url": "https://www.hillhavurah.org/get-involved/calendar-of-events/?mo=10&yr=2026"
+    },
+    {
+     "text": "",
+     "url": "https://www.hillhavurah.org/get-involved/calendar-of-events/?mo=12&yr=2026"
+    },
+    {
+     "text": "2",
+     "url": "https://www.hillhavurah.org/events/black-jewish-america/"
+    },
+    {
+     "text": "6",
+     "url": "https://www.hillhavurah.org/events/yoga-kabbalat-shabbat-2-2026-11-06/"
+    },
+    {
+     "text": "7",
+     "url": "https://www.hillhavurah.org/events/2026-11-07/"
+    },
+    {
+     "text": "Tot Shabbat",
+     "url": "https://www.hillhavurah.org/events/tot-shabbat-3-2026-11-07/"
+    },
+    {
+     "text": "Shabbat Morning Service & Thomas Simon's B'Mitzvah",
+     "url": "https://www.hillhavurah.org/events/shabbat-morning-service-thomas-simons-bmitzvah/"
+    },
+    {
+     "text": "10",
+     "url": "https://www.hillhavurah.org/events/adult-education-with-rabbi-hannah/"
+    },
+    {
+     "text": "13",
+     "url": "https://www.hillhavurah.org/events/kabbalat-shabbat-with-student-rabbi-lev/"
+    },
+    {
+     "text": "14",
+     "url": "https://www.hillhavurah.org/events/2026-11-14/"
+    },
+    {
+     "text": "Tot Shabbat",
+     "url": "https://www.hillhavurah.org/events/tot-shabbat-4-2026-11-14/"
+    },
+    {
+     "text": "Shabbat Morning Service & Polly Sperber-Epp's Bat Mitzvah",
+     "url": "https://www.hillhavurah.org/events/shabbat-morning-service-polly-sperber-epps-bat-mitzvah/"
+    },
+    {
+     "text": "15",
+     "url": "https://www.hillhavurah.org/events/2026-11-15/"
+    },
+    {
+     "text": "SAGES Gathering",
+     "url": "https://www.hillhavurah.org/events/sages-gathering/"
+    },
+    {
+     "text": "Tiny Torah Kickoff Party for Young Families",
+     "url": "https://www.hillhavurah.org/events/tiny-torah-kickoff-party-for-young-families/"
+    },
+    {
+     "text": "16",
+     "url": "https://www.hillhavurah.org/events/2026-11-16/"
+    },
+    {
+     "text": "D'var Torah Session for B'Mitzvah Students",
+     "url": "https://www.hillhavurah.org/events/dvar-torah-session-for-bmitzvah-students/"
+    },
+    {
+     "text": "Board Meeting",
+     "url": "https://www.hillhavurah.org/events/board-meeting-2-2026-11-10/"
+    },
+    {
+     "text": "20",
+     "url": "https://www.hillhavurah.org/events/kabbalat-shabbat-service-potluck-dinner-2026-11-20/"
+    },
+    {
+     "text": "21",
+     "url": "https://www.hillhavurah.org/events/shabbat-morning-service-robert-millstones-bar-mitzvah/"
+    },
+    {
+     "text": "5",
+     "url": "https://www.hillhavurah.org/events/2026-12-05/"
+    }
+   ],
+   "platform": "wordpress shulcloud [All in One SEO (AIOSEO) 5.0.6.1]",
+   "error": ""
+  },
+  {
+   "url": "https://www.hillhavurah.org/jewish-life/life-cycle-events/",
+   "status": 200,
+   "final_url": "https://www.hillhavurah.org/jewish-life/life-cycle-events/",
+   "title": "Life Cycle Events | Hill Havurah - An Independent Congregation on Capitol Hill",
+   "dates": 0,
+   "jsonld": 0,
+   "jsonld_samples": [],
+   "hints": [
+    "https://www.hillhavurah.org/feed/",
+    "https://www.hillhavurah.org/feed/atom/",
+    "https://www.hillhavurah.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.hillhavurah.org%2Fjewish-life%2Flife-cycle-events%2F",
+    "https://www.hillhavurah.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.hillhavurah.org%2Fjewish-life%2Flife-cycle-events%2F&format=xml",
+    "https://www.hillhavurah.org/wp-json/wp/v2/pages/37"
+   ],
+   "iframes": [],
+   "event_links": [
+    {
+     "text": "Calendar",
+     "url": "https://www.hillhavurah.org/get-involved/calendar-of-events/"
+    },
+    {
+     "text": "10th Grade Chizuk Program",
+     "url": "https://www.hillhavurah.org/youth/teens/10th-grade-chizuk-confirmation-program/"
+    },
+    {
+     "text": "Tiny Torah Early Learning Program",
+     "url": "https://www.hillhavurah.org/youth/tiny-torah-early-learning-program/"
+    },
+    {
+     "text": "B\u2019Mitzvah Program",
+     "url": "https://www.hillhavurah.org/youth/bmitzvah-program/"
+    }
+   ],
+   "platform": "wordpress shulcloud [All in One SEO (AIOSEO) 5.0.6.1]",
+   "error": ""
+  },
+  {
+   "url": "https://www.hillhavurah.org/youth/teens/10th-grade-chizuk-confirmation-program/",
+   "status": 200,
+   "final_url": "https://www.hillhavurah.org/youth/teens/10th-grade-chizuk-confirmation-program/",
+   "title": "10th Grade Chizuk Program | Hill Havurah - An Independent Congregation on Capitol Hill",
+   "dates": 0,
+   "jsonld": 0,
+   "jsonld_samples": [],
+   "hints": [
+    "https://www.hillhavurah.org/feed/",
+    "https://www.hillhavurah.org/feed/atom/",
+    "https://www.hillhavurah.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.hillhavurah.org%2Fyouth%2Fteens%2F10th-grade-chizuk-confirmation-program%2F",
+    "https://www.hillhavurah.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.hillhavurah.org%2Fyouth%2Fteens%2F10th-grade-chizuk-confirmation-program%2F&format=xml",
+    "https://www.hillhavurah.org/wp-json/wp/v2/pages/52"
+   ],
+   "iframes": [],
+   "event_links": [
+    {
+     "text": "Calendar",
+     "url": "https://www.hillhavurah.org/get-involved/calendar-of-events/"
+    },
+    {
+     "text": "Life Cycle Events",
+     "url": "https://www.hillhavurah.org/jewish-life/life-cycle-events/"
+    },
+    {
+     "text": "Tiny Torah Early Learning Program",
+     "url": "https://www.hillhavurah.org/youth/tiny-torah-early-learning-program/"
+    },
+    {
+     "text": "B\u2019Mitzvah Program",
+     "url": "https://www.hillhavurah.org/youth/bmitzvah-program/"
+    }
+   ],
+   "platform": "wordpress shulcloud [All in One SEO (AIOSEO) 5.0.6.1]",
+   "error": ""
+  },
+  {
+   "url": "https://www.hillhavurah.org/youth/tiny-torah-early-learning-program/",
+   "status": 200,
+   "final_url": "https://www.hillhavurah.org/youth/tiny-torah-early-learning-program/",
+   "title": "Tiny Torah Early Learning Program | Hill Havurah - An Independent Congregation on Capitol Hill",
+   "dates": 0,
+   "jsonld": 0,
+   "jsonld_samples": [],
+   "hints": [
+    "https://www.hillhavurah.org/feed/",
+    "https://www.hillhavurah.org/feed/atom/",
+    "https://www.hillhavurah.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.hillhavurah.org%2Fyouth%2Ftiny-torah-early-learning-program%2F",
+    "https://www.hillhavurah.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.hillhavurah.org%2Fyouth%2Ftiny-torah-early-learning-program%2F&format=xml",
+    "https://www.hillhavurah.org/wp-json/wp/v2/pages/1367"
+   ],
+   "iframes": [],
+   "event_links": [
+    {
+     "text": "Calendar",
+     "url": "https://www.hillhavurah.org/get-involved/calendar-of-events/"
+    },
+    {
+     "text": "Life Cycle Events",
+     "url": "https://www.hillhavurah.org/jewish-life/life-cycle-events/"
+    },
+    {
+     "text": "10th Grade Chizuk Program",
+     "url": "https://www.hillhavurah.org/youth/teens/10th-grade-chizuk-confirmation-program/"
+    },
+    {
+     "text": "B\u2019Mitzvah Program",
+     "url": "https://www.hillhavurah.org/youth/bmitzvah-program/"
+    }
+   ],
+   "platform": "wordpress shulcloud [All in One SEO (AIOSEO) 5.0.6.1]",
+   "error": ""
+  }
+ ],
+ "best_page": "https://www.hillhavurah.org/get-involved/calendar-of-events/"
+}

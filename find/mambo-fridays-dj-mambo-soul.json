@@ -1,0 +1,527 @@
+{
+ "row": "201",
+ "name": "Mambo Fridays (DJ Mambo Soul)",
+ "seed_url": "https://meetup.com/meetup-group-yacvdrhh",
+ "programs": "",
+ "access": "",
+ "found": "2026-11-28 03:22Z",
+ "search_hits": [],
+ "search_error": "html.duckduckgo.com Timeout; www.bing.com 0 hits (200, 118001b); lite.duckduckgo.com Timeout",
+ "probes": [
+  {
+   "url": "https://www.meetup.com/wp-json/tribe/events/v1/events?per_page=10",
+   "status": "HTTPError",
+   "events": 0
+  },
+  {
+   "url": "https://www.meetup.com/events/?ical=1",
+   "status": 200,
+   "events": 0,
+   "head": "<!DOCTYPE html><html lang=\"en-US\"><head><meta charSet=\"utf-8\" data-next-head=\"\"/><style data-fullcalendar=\"true\" data-next-head=\"\"></style><meta name=\"viewport\" content=\"width=device-width, initial-scale=1\" data-next-head=\"\"/><meta http-equiv=\"Content-Type\" content=\"text/html; charset=UTF-8\" data-ne"
+  },
+  {
+   "url": "https://www.meetup.com/?ical=1",
+   "status": 200,
+   "events": 0,
+   "head": "<!DOCTYPE html><html lang=\"en-US\"><head><meta charSet=\"utf-8\" data-next-head=\"\"/><style data-fullcalendar=\"true\" data-next-head=\"\"></style><meta name=\"viewport\" content=\"width=device-width, initial-scale=1\" data-next-head=\"\"/><meta http-equiv=\"Content-Type\" content=\"text/html; charset=UTF-8\" data-ne"
+  }
+ ],
+ "pages": [
+  {
+   "url": "https://meetup.com/meetup-group-yacvdrhh",
+   "status": 200,
+   "final_url": "https://www.meetup.com/meetup-group-yacvdrhh/",
+   "title": "Mambo DMV Meetup | Meetup",
+   "dates": 6,
+   "jsonld": 4,
+   "jsonld_samples": [
+    {
+     "name": "Uzume Salsa Lessons",
+     "start": "2026-12-17T00:30:00.000Z",
+     "url": "https://www.meetup.com/meetup-group-yacvdrhh/events/317547023/"
+    },
+    {
+     "name": "Mambo Fridays at Bryant St Market featuring DJ Mambo Soul",
+     "start": "2026-12-12T00:30:00.000Z",
+     "url": "https://www.meetup.com/meetup-group-yacvdrhh/events/317439844/"
+    },
+    {
+     "name": "Uzume Salsa Lessons",
+     "start": "2026-12-10T00:30:00.000Z",
+     "url": "https://www.meetup.com/meetup-group-yacvdrhh/events/317507407/"
+    },
+    {
+     "name": "Uzume Salsa Lessons",
+     "start": "2026-12-03T00:30:00.000Z",
+     "url": "https://www.meetup.com/meetup-group-yacvdrhh/events/317404695/"
+    }
+   ],
+   "hints": [
+    "https://www.meetup.com/_next/static/media/NeuSans-Regular.1ca3b39b.woff2",
+    "https://www.meetup.com/_next/static/media/NeuSans-Medium.7b11edcf.woff2",
+    "https://www.meetup.com/_next/static/media/NeuSans-Bold.5c45f750.woff2",
+    "https://www.meetup.com/_next/static/media/NeuSans-Book.27256a60.woff2",
+    "https://www.meetup.com/_next/static/media/Boyrun-Regular.woff2",
+    "https://www.meetup.com/meetup-group-yacvdrhh/",
+    "https://www.meetup.com/_next/static/css/4f3c5c8e994eb55f.css",
+    "https://www.meetup.com/_next/static/css/8b9c4a9cfe52c6ba.css",
+    "https://www.meetup.com/meetup-group-yacvdrhh/feedback-overview/",
+    "https://www.meetup.com/find/us--dc--washington/",
+    "https://www.meetup.com/meetup-group-yacvdrhh/members/",
+    "https://www.meetup.com/meetup-group-yacvdrhh/events/",
+    "https://www.meetup.com/meetup-group-yacvdrhh/photos/",
+    "https://www.meetup.com/meetup-group-yacvdrhh/discussions/",
+    "https://www.meetup.com/meetup-group-yacvdrhh/events/317404695/?eventOrigin=group_upcoming_events",
+    "https://www.meetup.com/meetup-group-yacvdrhh/events/317507407/?eventOrigin=group_upcoming_events",
+    "https://www.meetup.com/meetup-group-yacvdrhh/events/317439844/?eventOrigin=group_upcoming_events",
+    "https://www.meetup.com/meetup-group-yacvdrhh/events/317547023/?eventOrigin=group_upcoming_events",
+    "https://www.meetup.com/meetup-group-yacvdrhh/events/past/",
+    "https://www.meetup.com/meetup-group-yacvdrhh/events/317198657/?eventOrigin=group_past_events",
+    "https://www.meetup.com/meetup-group-yacvdrhh/events/316935784/?eventOrigin=group_past_events",
+    "https://www.meetup.com/meetup-group-yacvdrhh/members/?op=leaders",
+    "https://www.meetup.com/find/?keywords=Salsa",
+    "https://www.meetup.com/find/?keywords=Ballroom",
+    "https://www.meetup.com/find/?keywords=Dancing"
+   ],
+   "iframes": [],
+   "event_links": [
+    {
+     "text": "Events",
+     "url": "https://www.meetup.com/meetup-group-yacvdrhh/events/"
+    },
+    {
+     "text": "Uzume Salsa Lessons Wed, Dec 2 \u00b7 7:30 PM EST Bryant st marke",
+     "url": "https://www.meetup.com/meetup-group-yacvdrhh/events/317404695/?eventOrigin=group_upcoming_events"
+    },
+    {
+     "text": "www.uzumeproduction.com/tickets/",
+     "url": "http://www.uzumeproduction.com/tickets/"
+    },
+    {
+     "text": "Uzume Salsa Lessons Wed, Dec 9 \u00b7 7:30 PM EST Bryant st marke",
+     "url": "https://www.meetup.com/meetup-group-yacvdrhh/events/317507407/?eventOrigin=group_upcoming_events"
+    },
+    {
+     "text": "$15.00 Mambo Fridays at Bryant St Market featuring DJ Mambo ",
+     "url": "https://www.meetup.com/meetup-group-yacvdrhh/events/317439844/?eventOrigin=group_upcoming_events"
+    },
+    {
+     "text": "Uzume Salsa Lessons Wed, Dec 16 \u00b7 7:30 PM EST Bryant st mark",
+     "url": "https://www.meetup.com/meetup-group-yacvdrhh/events/317547023/?eventOrigin=group_upcoming_events"
+    },
+    {
+     "text": "See all",
+     "url": "https://www.meetup.com/meetup-group-yacvdrhh/events/past/"
+    },
+    {
+     "text": "Uzume Salsa Lessons Wed, Nov 18 \u00b7 7:30 PM EST Bryant st mark",
+     "url": "https://www.meetup.com/meetup-group-yacvdrhh/events/317198657/?eventOrigin=group_past_events"
+    },
+    {
+     "text": "$15.00 Mambo Fridays at Bryant St Market featuring DJ Mambo ",
+     "url": "https://www.meetup.com/meetup-group-yacvdrhh/events/316935784/?eventOrigin=group_past_events"
+    },
+    {
+     "text": "Events",
+     "url": "https://www.meetup.com/find/?source=EVENTS"
+    },
+    {
+     "text": "Online events",
+     "url": "https://www.meetup.com/find/online-events/"
+    }
+   ],
+   "platform": "",
+   "error": ""
+  },
+  {
+   "url": "https://www.meetup.com/",
+   "status": 200,
+   "final_url": "https://www.meetup.com/",
+   "title": "Meetup | Find Local Groups, Events, and Activities Near You",
+   "dates": 36,
+   "jsonld": 12,
+   "jsonld_samples": [
+    {
+     "name": "Single and Mingles First Event @ Lachele\u2019s on 6th",
+     "start": "2026-12-04T00:00:00.000Z",
+     "url": "https://www.meetup.com/meetup-group-midaqumd/events/317309118/"
+    },
+    {
+     "name": "Relax, at Starbucks in Clive",
+     "start": "2026-11-28T15:00:00.000Z",
+     "url": "https://www.meetup.com/relax-its-just-coffee/events/317440391/"
+    },
+    {
+     "name": "Wordle Solving Strategies in Rust and Python",
+     "start": "2026-12-01T23:30:00.000Z",
+     "url": "https://www.meetup.com/pyowa-iowa-python-user-group/events/317271099/"
+    },
+    {
+     "name": "Being Social #FridayEve",
+     "start": "2026-12-04T00:00:00.000Z",
+     "url": "https://www.meetup.com/being-social-meetup/events/317508371/"
+    },
+    {
+     "name": "Hike at Purple Martin Lake",
+     "start": "2026-12-05T15:00:00.000Z",
+     "url": "https://www.meetup.com/centering-nature-walks/events/317459421/"
+    }
+   ],
+   "hints": [
+    "https://www.meetup.com/_next/static/media/NeuSans-Regular.1ca3b39b.woff2",
+    "https://www.meetup.com/_next/static/media/NeuSans-Medium.7b11edcf.woff2",
+    "https://www.meetup.com/_next/static/media/NeuSans-Bold.5c45f750.woff2",
+    "https://www.meetup.com/_next/static/media/NeuSans-Book.27256a60.woff2",
+    "https://www.meetup.com/_next/static/media/Boyrun-Regular.woff2",
+    "https://www.meetup.com/en-AU/",
+    "https://www.meetup.com/de-DE/",
+    "https://www.meetup.com/es/",
+    "https://www.meetup.com/es-ES/",
+    "https://www.meetup.com/fr-FR/",
+    "https://www.meetup.com/it-IT/",
+    "https://www.meetup.com/ja-JP/",
+    "https://www.meetup.com/ko-KR/",
+    "https://www.meetup.com/nl-NL/",
+    "https://www.meetup.com/pl-PL/",
+    "https://www.meetup.com/pt-BR/",
+    "https://www.meetup.com/ru-RU/",
+    "https://www.meetup.com/th-TH/",
+    "https://www.meetup.com/tr-TR/",
+    "https://www.meetup.com/",
+    "https://www.meetup.com/_next/static/css/4f3c5c8e994eb55f.css",
+    "https://www.meetup.com/_next/static/css/aa6c4640b6f2d0a7.css",
+    "https://www.meetup.com/register/",
+    "https://www.meetup.com/find/?source=EVENTS&eventType=inPerson&sortField=DATETIME&location=us--ia--Windsor+Heights",
+    "https://www.meetup.com/devopsdsm/events/317271205/?eventOrigin=home_logged_out_near_location"
+   ],
+   "iframes": [],
+   "event_links": [
+    {
+     "text": "Free NixOS: Functional Programming for Your Operating System",
+     "url": "https://www.meetup.com/devopsdsm/events/317271205/?eventOrigin=home_logged_out_near_location"
+    },
+    {
+     "text": "Free Hybrid .NET@ Night- GitHub Copilot: from Prompt to Pull",
+     "url": "https://www.meetup.com/iadnug/events/317493551/?eventOrigin=home_logged_out_near_location"
+    },
+    {
+     "text": "Free Celebrate the season of at Exile's Snow Globe with Whit",
+     "url": "https://www.meetup.com/waukee-wine-tasting-group/events/316655078/?eventOrigin=home_logged_out_near_location"
+    },
+    {
+     "text": "Free Hike at Purple Martin Lake Sat, Dec 5 \u00b7 3:00 PM UTC by ",
+     "url": "https://www.meetup.com/centering-nature-walks/events/317459421/?eventOrigin=home_logged_out_near_location"
+    },
+    {
+     "text": "Free Being Social #FridayEve Fri, Dec 4 \u00b7 12:00 AM UTC by Be",
+     "url": "https://www.meetup.com/being-social-meetup/events/317508371/?eventOrigin=home_logged_out_near_location"
+    },
+    {
+     "text": "Free Wordle Solving Strategies in Rust and Python Tue, Dec 1",
+     "url": "https://www.meetup.com/pyowa-iowa-python-user-group/events/317271099/?eventOrigin=home_logged_out_near_location"
+    },
+    {
+     "text": "Free Relax, at Starbucks in Clive Sat, Nov 28 \u00b7 3:00 PM UTC ",
+     "url": "https://www.meetup.com/relax-its-just-coffee/events/317440391/?eventOrigin=home_logged_out_near_location"
+    },
+    {
+     "text": "Free Single and Mingles First Event @ Lachele\u2019s on 6th Fri, ",
+     "url": "https://www.meetup.com/meetup-group-midaqumd/events/317309118/?eventOrigin=home_logged_out_near_location"
+    },
+    {
+     "text": "See all events",
+     "url": "https://www.meetup.com/find/?source=EVENTS&eventType=online&customStartDate=2026-11-27T21%3A39%3A44-05%3A00&customEndDate=2026-11-28T23%3A59%3A59-05%3A00&location=us--ia--Windsor+Heights"
+    },
+    {
+     "text": "Free \ud83d\udde3\ufe0f English Practice | Meet Friends (Professional Host) ",
+     "url": "https://www.meetup.com/winnipeg-english/events/317335963/?eventOrigin=home_logged_out_online"
+    },
+    {
+     "text": "Free Accountability & Movement Week Sat, Nov 28 \u00b7 5:00 PM UT",
+     "url": "https://www.meetup.com/mountain-view-women-ending-emotional-eating-group/events/317515955/?eventOrigin=home_logged_out_online"
+    },
+    {
+     "text": "Free AI for Developers: Productivity, Building, and Dev Setu",
+     "url": "https://www.meetup.com/the-ubuntu-techhive-north-america/events/316847250/?eventOrigin=home_logged_out_online"
+    },
+    {
+     "text": "Free \u2728 Saturday Sparkle Spree: Let\u2019s Clean Together Sat, Nov",
+     "url": "https://www.meetup.com/thatexactly/events/317547264/?eventOrigin=home_logged_out_online"
+    },
+    {
+     "text": "Discover events and groups See who's hosting local events fo",
+     "url": "https://www.meetup.com/find/?location=us--ia--Windsor+Heights"
+    },
+    {
+     "text": "Start a group to host events Create your own Meetup group, a",
+     "url": "https://www.meetup.com/how-to-group-start/"
+    },
+    {
+     "text": "Events",
+     "url": "https://www.meetup.com/find/?source=EVENTS"
+    },
+    {
+     "text": "Online events",
+     "url": "https://www.meetup.com/find/online-events/"
+    }
+   ],
+   "platform": "",
+   "error": ""
+  },
+  {
+   "url": "https://www.meetup.com/meetup-group-yacvdrhh/events/",
+   "status": 200,
+   "final_url": "https://www.meetup.com/meetup-group-yacvdrhh/events/",
+   "title": "Mambo DMV Meetup Events",
+   "dates": 0,
+   "jsonld": 0,
+   "jsonld_samples": [],
+   "hints": [
+    "https://www.meetup.com/_next/static/media/NeuSans-Regular.1ca3b39b.woff2",
+    "https://www.meetup.com/_next/static/media/NeuSans-Medium.7b11edcf.woff2",
+    "https://www.meetup.com/_next/static/media/NeuSans-Bold.5c45f750.woff2",
+    "https://www.meetup.com/_next/static/media/NeuSans-Book.27256a60.woff2",
+    "https://www.meetup.com/_next/static/media/Boyrun-Regular.woff2",
+    "https://www.meetup.com/meetup-group-yacvdrhh/",
+    "https://www.meetup.com/_next/static/css/4f3c5c8e994eb55f.css",
+    "https://www.meetup.com/_next/static/css/aa6c4640b6f2d0a7.css",
+    "https://www.meetup.com/meetup-group-yacvdrhh/feedback-overview/",
+    "https://www.meetup.com/find/us--dc--washington/",
+    "https://www.meetup.com/meetup-group-yacvdrhh/members/",
+    "https://www.meetup.com/meetup-group-yacvdrhh/events/",
+    "https://www.meetup.com/meetup-group-yacvdrhh/photos/",
+    "https://www.meetup.com/meetup-group-yacvdrhh/discussions/",
+    "https://www.meetup.com/meetup-group-yacvdrhh/events/calendar/",
+    "https://www.meetup.com/start?origin=groups&eventOrigin=page-footer",
+    "https://www.meetup.com/register/?returnUri=https%3A%2F%2Fwww.meetup.com%2Fmeetup-group-yacvdrhh%2Fevents%2F",
+    "https://www.meetup.com/login/?returnUri=https%3A%2F%2Fwww.meetup.com%2Fmeetup-group-yacvdrhh%2Fevents%2F",
+    "https://help.meetup.com/hc",
+    "https://www.meetup.com/find/?source=GROUPS",
+    "https://www.meetup.com/find/?source=EVENTS",
+    "https://www.meetup.com/topics/",
+    "https://www.meetup.com/cities/",
+    "https://www.meetup.com/find/online-events/",
+    "https://www.meetup.com/blog/category/local-guides/"
+   ],
+   "iframes": [],
+   "event_links": [
+    {
+     "text": "Events",
+     "url": "https://www.meetup.com/meetup-group-yacvdrhh/events/"
+    },
+    {
+     "text": "Calendar",
+     "url": "https://www.meetup.com/meetup-group-yacvdrhh/events/calendar/"
+    },
+    {
+     "text": "Events",
+     "url": "https://www.meetup.com/find/?source=EVENTS"
+    },
+    {
+     "text": "Online events",
+     "url": "https://www.meetup.com/find/online-events/"
+    }
+   ],
+   "platform": "",
+   "error": ""
+  },
+  {
+   "url": "https://www.meetup.com/meetup-group-yacvdrhh/events/317404695/?eventOrigin=group_upcoming_events",
+   "status": 200,
+   "final_url": "https://www.meetup.com/meetup-group-yacvdrhh/events/317404695/?eventOrigin=group_upcoming_events",
+   "title": "Uzume Salsa Lessons, Wed, Dec 2, 2026, 7:30 PM   | Meetup",
+   "dates": 3,
+   "jsonld": 1,
+   "jsonld_samples": [
+    {
+     "name": "Uzume Salsa Lessons",
+     "start": "2026-12-02T19:30:00-05:00",
+     "url": "https://www.meetup.com/meetup-group-yacvdrhh/events/317404695/"
+    }
+   ],
+   "hints": [
+    "https://www.meetup.com/_next/static/media/NeuSans-Regular.1ca3b39b.woff2",
+    "https://www.meetup.com/_next/static/media/NeuSans-Medium.7b11edcf.woff2",
+    "https://www.meetup.com/_next/static/media/NeuSans-Bold.5c45f750.woff2",
+    "https://www.meetup.com/_next/static/media/NeuSans-Book.27256a60.woff2",
+    "https://www.meetup.com/_next/static/media/Boyrun-Regular.woff2",
+    "https://www.meetup.com/meetup-group-yacvdrhh/events/cvwbcvyjcqbdb/",
+    "https://www.meetup.com/_next/static/css/4f3c5c8e994eb55f.css",
+    "https://www.meetup.com/_next/static/css/3ea30ba50f8d84f8.css",
+    "https://www.meetup.com/meetup-group-yacvdrhh/events/317404695/attendees/",
+    "https://www.meetup.com/meetup-group-yacvdrhh/",
+    "https://www.meetup.com/find/us--dc--washington/",
+    "https://www.meetup.com/start?origin=groups&eventOrigin=page-footer",
+    "https://www.meetup.com/register/?returnUri=https%3A%2F%2Fwww.meetup.com%2Fmeetup-group-yacvdrhh%2Fevents%2F317404695%2F%3FeventOrigin%3Dgroup_upcoming_events",
+    "https://www.meetup.com/login/?returnUri=https%3A%2F%2Fwww.meetup.com%2Fmeetup-group-yacvdrhh%2Fevents%2F317404695%2F%3FeventOrigin%3Dgroup_upcoming_events",
+    "https://help.meetup.com/hc",
+    "https://www.meetup.com/find/?source=GROUPS",
+    "https://www.meetup.com/find/?source=EVENTS",
+    "https://www.meetup.com/topics/",
+    "https://www.meetup.com/cities/",
+    "https://www.meetup.com/find/online-events/",
+    "https://www.meetup.com/blog/category/local-guides/",
+    "https://www.meetup.com/lp/friendship-and-socializing/",
+    "https://www.meetup.com/sitemap",
+    "https://www.meetup.com/about/",
+    "https://www.meetup.com/blog/"
+   ],
+   "iframes": [],
+   "event_links": [
+    {
+     "text": "Hosted by  Chika",
+     "url": "https://www.meetup.com/meetup-group-yacvdrhh/events/317404695/attendees/"
+    },
+    {
+     "text": "www.uzumeproduction.com/tickets/",
+     "url": "http://www.uzumeproduction.com/tickets/"
+    },
+    {
+     "text": "Events in Washington, DC",
+     "url": "https://www.meetup.com/find/us--dc--washington/"
+    },
+    {
+     "text": "Events",
+     "url": "https://www.meetup.com/find/?source=EVENTS"
+    },
+    {
+     "text": "Online events",
+     "url": "https://www.meetup.com/find/online-events/"
+    }
+   ],
+   "platform": "",
+   "error": ""
+  },
+  {
+   "url": "https://www.meetup.com/meetup-group-yacvdrhh/events/317507407/?eventOrigin=group_upcoming_events",
+   "status": 200,
+   "final_url": "https://www.meetup.com/meetup-group-yacvdrhh/events/317507407/?eventOrigin=group_upcoming_events",
+   "title": "Uzume Salsa Lessons, Wed, Dec 9, 2026, 7:30 PM   | Meetup",
+   "dates": 3,
+   "jsonld": 1,
+   "jsonld_samples": [
+    {
+     "name": "Uzume Salsa Lessons",
+     "start": "2026-12-09T19:30:00-05:00",
+     "url": "https://www.meetup.com/meetup-group-yacvdrhh/events/317507407/"
+    }
+   ],
+   "hints": [
+    "https://www.meetup.com/_next/static/media/NeuSans-Regular.1ca3b39b.woff2",
+    "https://www.meetup.com/_next/static/media/NeuSans-Medium.7b11edcf.woff2",
+    "https://www.meetup.com/_next/static/media/NeuSans-Bold.5c45f750.woff2",
+    "https://www.meetup.com/_next/static/media/NeuSans-Book.27256a60.woff2",
+    "https://www.meetup.com/_next/static/media/Boyrun-Regular.woff2",
+    "https://www.meetup.com/meetup-group-yacvdrhh/events/cvwbcvyjcqbmb/",
+    "https://www.meetup.com/_next/static/css/4f3c5c8e994eb55f.css",
+    "https://www.meetup.com/_next/static/css/3ea30ba50f8d84f8.css",
+    "https://www.meetup.com/meetup-group-yacvdrhh/events/317507407/attendees/",
+    "https://www.meetup.com/meetup-group-yacvdrhh/",
+    "https://www.meetup.com/find/us--dc--washington/",
+    "https://www.meetup.com/start?origin=groups&eventOrigin=page-footer",
+    "https://www.meetup.com/register/?returnUri=https%3A%2F%2Fwww.meetup.com%2Fmeetup-group-yacvdrhh%2Fevents%2F317507407%2F%3FeventOrigin%3Dgroup_upcoming_events",
+    "https://www.meetup.com/login/?returnUri=https%3A%2F%2Fwww.meetup.com%2Fmeetup-group-yacvdrhh%2Fevents%2F317507407%2F%3FeventOrigin%3Dgroup_upcoming_events",
+    "https://help.meetup.com/hc",
+    "https://www.meetup.com/find/?source=GROUPS",
+    "https://www.meetup.com/find/?source=EVENTS",
+    "https://www.meetup.com/topics/",
+    "https://www.meetup.com/cities/",
+    "https://www.meetup.com/find/online-events/",
+    "https://www.meetup.com/blog/category/local-guides/",
+    "https://www.meetup.com/lp/friendship-and-socializing/",
+    "https://www.meetup.com/sitemap",
+    "https://www.meetup.com/about/",
+    "https://www.meetup.com/blog/"
+   ],
+   "iframes": [],
+   "event_links": [
+    {
+     "text": "Hosted by  Chika",
+     "url": "https://www.meetup.com/meetup-group-yacvdrhh/events/317507407/attendees/"
+    },
+    {
+     "text": "www.uzumeproduction.com/tickets/",
+     "url": "http://www.uzumeproduction.com/tickets/"
+    },
+    {
+     "text": "Events in Washington, DC",
+     "url": "https://www.meetup.com/find/us--dc--washington/"
+    },
+    {
+     "text": "Events",
+     "url": "https://www.meetup.com/find/?source=EVENTS"
+    },
+    {
+     "text": "Online events",
+     "url": "https://www.meetup.com/find/online-events/"
+    }
+   ],
+   "platform": "",
+   "error": ""
+  },
+  {
+   "url": "https://www.meetup.com/meetup-group-yacvdrhh/events/317439844/?eventOrigin=group_upcoming_events",
+   "status": 200,
+   "final_url": "https://www.meetup.com/meetup-group-yacvdrhh/events/317439844/?eventOrigin=group_upcoming_events",
+   "title": "Mambo Fridays at Bryant St Market featuring DJ Mambo Soul, Fri, Dec 11, 2026, 7:30 PM   | Meetup",
+   "dates": 3,
+   "jsonld": 1,
+   "jsonld_samples": [
+    {
+     "name": "Mambo Fridays at Bryant St Market featuring DJ Mambo Soul",
+     "start": "2026-12-11T19:30:00-05:00",
+     "url": "https://www.meetup.com/meetup-group-yacvdrhh/events/317439844/"
+    }
+   ],
+   "hints": [
+    "https://www.meetup.com/_next/static/media/NeuSans-Regular.1ca3b39b.woff2",
+    "https://www.meetup.com/_next/static/media/NeuSans-Medium.7b11edcf.woff2",
+    "https://www.meetup.com/_next/static/media/NeuSans-Bold.5c45f750.woff2",
+    "https://www.meetup.com/_next/static/media/NeuSans-Book.27256a60.woff2",
+    "https://www.meetup.com/_next/static/media/Boyrun-Regular.woff2",
+    "https://www.meetup.com/meetup-group-yacvdrhh/events/smxgbvyjcqbpb/",
+    "https://www.meetup.com/_next/static/css/4f3c5c8e994eb55f.css",
+    "https://www.meetup.com/_next/static/css/3ea30ba50f8d84f8.css",
+    "https://www.meetup.com/meetup-group-yacvdrhh/events/317439844/attendees/",
+    "https://www.meetup.com/meetup-group-yacvdrhh/",
+    "https://www.meetup.com/find/us--dc--washington/",
+    "https://www.meetup.com/start?origin=groups&eventOrigin=page-footer",
+    "https://www.meetup.com/register/?returnUri=https%3A%2F%2Fwww.meetup.com%2Fmeetup-group-yacvdrhh%2Fevents%2F317439844%2F%3FeventOrigin%3Dgroup_upcoming_events",
+    "https://www.meetup.com/login/?returnUri=https%3A%2F%2Fwww.meetup.com%2Fmeetup-group-yacvdrhh%2Fevents%2F317439844%2F%3FeventOrigin%3Dgroup_upcoming_events",
+    "https://help.meetup.com/hc",
+    "https://www.meetup.com/find/?source=GROUPS",
+    "https://www.meetup.com/find/?source=EVENTS",
+    "https://www.meetup.com/topics/",
+    "https://www.meetup.com/cities/",
+    "https://www.meetup.com/find/online-events/",
+    "https://www.meetup.com/blog/category/local-guides/",
+    "https://www.meetup.com/lp/friendship-and-socializing/",
+    "https://www.meetup.com/sitemap",
+    "https://www.meetup.com/about/",
+    "https://www.meetup.com/blog/"
+   ],
+   "iframes": [],
+   "event_links": [
+    {
+     "text": "Hosted by  Chika",
+     "url": "https://www.meetup.com/meetup-group-yacvdrhh/events/317439844/attendees/"
+    },
+    {
+     "text": "Events in Washington, DC",
+     "url": "https://www.meetup.com/find/us--dc--washington/"
+    },
+    {
+     "text": "Events",
+     "url": "https://www.meetup.com/find/?source=EVENTS"
+    },
+    {
+     "text": "Online events",
+     "url": "https://www.meetup.com/find/online-events/"
+    }
+   ],
+   "platform": "",
+   "error": ""
+  }
+ ],
+ "best_page": "https://www.meetup.com/"
+}

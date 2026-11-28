@@ -1,0 +1,322 @@
+{
+ "row": "174",
+ "name": "Washington Studio School",
+ "seed_url": "https://washingtonstudioschool.org/events/11-19-third-thursday-artist-talk-reflections-on-prototypes-and-simulacra-with-milena-spasic",
+ "programs": "",
+ "access": "",
+ "found": "2026-11-28 03:04Z",
+ "search_hits": [],
+ "search_error": "html.duckduckgo.com Timeout; www.bing.com 0 hits (200, 123731b); lite.duckduckgo.com Timeout",
+ "probes": [
+  {
+   "url": "https://www.washingtonstudioschool.org/wp-json/tribe/events/v1/events?per_page=10",
+   "status": "HTTPError",
+   "events": 0
+  },
+  {
+   "url": "https://www.washingtonstudioschool.org/events/?ical=1",
+   "status": 200,
+   "events": 0,
+   "head": "\n<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n  <meta charset='utf-8'>\n  <meta name=\"viewport\" content=\"width=device-width, initial-scale=1\" id=\"wixDesktopViewport\" />\n  <meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\">\n  <meta name=\"generator\" content=\"Wix.com Website Builder\"/>\n  <meta name=\"format"
+  },
+  {
+   "url": "https://www.washingtonstudioschool.org/?ical=1",
+   "status": 200,
+   "events": 0,
+   "head": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n  \n  <meta charset='utf-8'>\n  <meta name=\"viewport\" content=\"width=device-width, initial-scale=1\" id=\"wixDesktopViewport\" />\n  <meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\">\n  <meta name=\"generator\" content=\"Wix.com Website Builder\"/>\n\n  <link rel=\"icon"
+  }
+ ],
+ "pages": [
+  {
+   "url": "https://washingtonstudioschool.org/events/11-19-third-thursday-artist-talk-reflections-on-prototypes-and-simulacra-with-milena-spasic",
+   "status": 200,
+   "final_url": "https://www.washingtonstudioschool.org/events/11-19-third-thursday-artist-talk-reflections-on-prototypes-and-simulacra-with-milena-spasic",
+   "title": "11/19: Third Thursday Artist Talk: Reflections on Prototypes and Simulacra with Milena Spasic | WSS: DC Art School",
+   "dates": 4,
+   "jsonld": 1,
+   "jsonld_samples": [
+    {
+     "name": "11/19: Third Thursday Artist Talk: Reflections on Prototypes and Simulacra with Milena Spasic",
+     "start": "2026-11-19T19:00:00-05:00",
+     "url": null
+    }
+   ],
+   "hints": [],
+   "iframes": [],
+   "event_links": [
+    {
+     "text": "Teen Summer Program",
+     "url": "https://www.washingtonstudioschool.org/summerteenprogram"
+    },
+    {
+     "text": "WSS Certificate Programs",
+     "url": "https://www.washingtonstudioschool.org/certificate-programs"
+    },
+    {
+     "text": "Academic Calendar",
+     "url": "https://www.washingtonstudioschool.org/academic-calendar"
+    },
+    {
+     "text": "Public Programs",
+     "url": "https://www.washingtonstudioschool.org/pubilc-programming-events"
+    },
+    {
+     "text": "Exhibitions",
+     "url": "https://www.washingtonstudioschool.org/on-view"
+    }
+   ],
+   "platform": "wix eventbrite [Wix.com Website Builder]",
+   "error": ""
+  },
+  {
+   "url": "https://www.washingtonstudioschool.org/",
+   "status": 200,
+   "final_url": "https://www.washingtonstudioschool.org/",
+   "title": "Washington Studio School | DC Art School | Painting, Drawing, and Printmaking",
+   "dates": 5,
+   "jsonld": 0,
+   "jsonld_samples": [],
+   "hints": [
+    "https://www.washingtonstudioschool.org/blog-feed.xml"
+   ],
+   "iframes": [],
+   "event_links": [
+    {
+     "text": "Teen Summer Program",
+     "url": "https://www.washingtonstudioschool.org/summerteenprogram"
+    },
+    {
+     "text": "WSS Certificate Programs",
+     "url": "https://www.washingtonstudioschool.org/certificate-programs"
+    },
+    {
+     "text": "Academic Calendar",
+     "url": "https://www.washingtonstudioschool.org/academic-calendar"
+    },
+    {
+     "text": "Public Programs",
+     "url": "https://www.washingtonstudioschool.org/pubilc-programming-events"
+    },
+    {
+     "text": "12/4 First Friday ArtWalk: Alvaro Peralta's \"Tamarindo\"",
+     "url": "https://www.washingtonstudioschool.org/events/12-4-first-friday-artwalk-alvaro-peraltas-tamarindo"
+    },
+    {
+     "text": "Masters Old & New: a Curator's Perspective.  A Conversation ",
+     "url": "https://www.washingtonstudioschool.org/events/masters-old-new-a-curators-perspective-a-conversation-with-dr-anke-van-wagenberg"
+    }
+   ],
+   "platform": "wix eventbrite [Wix.com Website Builder]",
+   "error": ""
+  },
+  {
+   "url": "https://www.washingtonstudioschool.org/summerteenprogram",
+   "status": 200,
+   "final_url": "https://www.washingtonstudioschool.org/summerteenprogram",
+   "title": "Summer Teen Intensive Program | Washington Studio School | Washington",
+   "dates": 2,
+   "jsonld": 0,
+   "jsonld_samples": [],
+   "hints": [],
+   "iframes": [],
+   "event_links": [
+    {
+     "text": "WSS Certificate Programs",
+     "url": "https://www.washingtonstudioschool.org/certificate-programs"
+    },
+    {
+     "text": "Academic Calendar",
+     "url": "https://www.washingtonstudioschool.org/academic-calendar"
+    },
+    {
+     "text": "Public Programs",
+     "url": "https://www.washingtonstudioschool.org/pubilc-programming-events"
+    },
+    {
+     "text": "Exhibitions",
+     "url": "https://www.washingtonstudioschool.org/on-view"
+    }
+   ],
+   "platform": "wix eventbrite [Wix.com Website Builder]",
+   "error": ""
+  },
+  {
+   "url": "https://www.washingtonstudioschool.org/certificate-programs",
+   "status": 200,
+   "final_url": "https://www.washingtonstudioschool.org/certificate-programs",
+   "title": "WSS Certificate Programs | Washington Studio School | Washington",
+   "dates": 4,
+   "jsonld": 0,
+   "jsonld_samples": [],
+   "hints": [],
+   "iframes": [],
+   "event_links": [
+    {
+     "text": "Teen Summer Program",
+     "url": "https://www.washingtonstudioschool.org/summerteenprogram"
+    },
+    {
+     "text": "Academic Calendar",
+     "url": "https://www.washingtonstudioschool.org/academic-calendar"
+    },
+    {
+     "text": "Public Programs",
+     "url": "https://www.washingtonstudioschool.org/pubilc-programming-events"
+    },
+    {
+     "text": "APPLY TO WSS FOUNDATION CERTIFICATE PROGRAM",
+     "url": "https://docs.google.com/forms/d/e/1FAIpQLSevnwjG_wawjGajXXYeCeOh-AG8UCcLytACJpKrXDRHehsSnA/viewform"
+    },
+    {
+     "text": "Exhibitions",
+     "url": "https://www.washingtonstudioschool.org/on-view"
+    }
+   ],
+   "platform": "wix eventbrite [Wix.com Website Builder]",
+   "error": ""
+  },
+  {
+   "url": "https://www.washingtonstudioschool.org/academic-calendar",
+   "status": 200,
+   "final_url": "https://www.washingtonstudioschool.org/academic-calendar",
+   "title": "Academic Calendar Washington Studio School",
+   "dates": 39,
+   "jsonld": 0,
+   "jsonld_samples": [],
+   "hints": [],
+   "iframes": [],
+   "event_links": [
+    {
+     "text": "Teen Summer Program",
+     "url": "https://www.washingtonstudioschool.org/summerteenprogram"
+    },
+    {
+     "text": "WSS Certificate Programs",
+     "url": "https://www.washingtonstudioschool.org/certificate-programs"
+    },
+    {
+     "text": "Public Programs",
+     "url": "https://www.washingtonstudioschool.org/pubilc-programming-events"
+    },
+    {
+     "text": "Exhibitions",
+     "url": "https://www.washingtonstudioschool.org/on-view"
+    }
+   ],
+   "platform": "wix eventbrite [Wix.com Website Builder]",
+   "error": ""
+  },
+  {
+   "url": "https://www.washingtonstudioschool.org/pubilc-programming-events",
+   "status": 200,
+   "final_url": "https://www.washingtonstudioschool.org/pubilc-programming-events",
+   "title": "Public Programs | WSS: DC Art School",
+   "dates": 41,
+   "jsonld": 0,
+   "jsonld_samples": [],
+   "hints": [],
+   "iframes": [],
+   "event_links": [
+    {
+     "text": "Teen Summer Program",
+     "url": "https://www.washingtonstudioschool.org/summerteenprogram"
+    },
+    {
+     "text": "WSS Certificate Programs",
+     "url": "https://www.washingtonstudioschool.org/certificate-programs"
+    },
+    {
+     "text": "Academic Calendar",
+     "url": "https://www.washingtonstudioschool.org/academic-calendar"
+    },
+    {
+     "text": "12/4 First Friday ArtWalk: Alvaro Peralta's \"Tamarindo\"",
+     "url": "https://www.washingtonstudioschool.org/events/12-4-first-friday-artwalk-alvaro-peraltas-tamarindo"
+    },
+    {
+     "text": "Masters Old & New: a Curator's Perspective.  A Conversation ",
+     "url": "https://www.washingtonstudioschool.org/events/masters-old-new-a-curators-perspective-a-conversation-with-dr-anke-van-wagenberg"
+    },
+    {
+     "text": "Past Event",
+     "url": "https://www.washingtonstudioschool.org/events/11-20-november-open-art-critiques"
+    },
+    {
+     "text": "Details",
+     "url": "https://www.washingtonstudioschool.org/events/11-19-third-thursday-artist-talk-reflections-on-prototypes-and-simulacra-with-milena-spasic"
+    },
+    {
+     "text": "Details",
+     "url": "https://www.washingtonstudioschool.org/events/collapse-to-belong-experimental-cinema-memory-and-identity-a-film-screening-and-artist-talk-with-diana-orduna"
+    },
+    {
+     "text": "Details",
+     "url": "https://www.washingtonstudioschool.org/events/11-12-winter-open-house"
+    },
+    {
+     "text": "Details",
+     "url": "https://www.washingtonstudioschool.org/events/11-7-wss-x-jackson-art-center-present-an-artist-talk-with-spencer-reinhard"
+    },
+    {
+     "text": "Details",
+     "url": "https://www.washingtonstudioschool.org/events/11-6-first-friday-artwalk-milena-spasics-prototypes-and-simulacra"
+    },
+    {
+     "text": "Past Event",
+     "url": "https://www.washingtonstudioschool.org/events/10-30-october-open-art-critiques"
+    },
+    {
+     "text": "Details",
+     "url": "https://www.washingtonstudioschool.org/events/10-22-third-thursday-artist-talk-reflections-on-drawing-the-dark-with-barbara-sobol"
+    },
+    {
+     "text": "Details",
+     "url": "https://www.washingtonstudioschool.org/events/10-11-wss-x-jackson-art-center-present-an-artist-talk-with-erika-cleveland"
+    },
+    {
+     "text": "Details",
+     "url": "https://www.washingtonstudioschool.org/events/10-2-first-friday-artwalk-wss-master-certificate-exhibition-opening-featuring-the-works-of-graduate-barbara-sobol"
+    },
+    {
+     "text": "Details",
+     "url": "https://www.washingtonstudioschool.org/events/jackson-art-center-x-wss-artist-talk-with-amy-kaslow"
+    },
+    {
+     "text": "Details",
+     "url": "https://www.washingtonstudioschool.org/events/art-all-night-at-wss-bauhaus-collage-night-with-district-collage"
+    },
+    {
+     "text": "Details",
+     "url": "https://www.washingtonstudioschool.org/events/first-friday-artwalk-art-is-not-decoration-exhibition-opening"
+    },
+    {
+     "text": "Details",
+     "url": "https://www.washingtonstudioschool.org/events/monday-evening-online-drop-in-figure-drawing-2026-08-31-19-00"
+    },
+    {
+     "text": "Details",
+     "url": "https://www.washingtonstudioschool.org/events/8-29-botanical-embroidery-at-u-s-botanic-garden"
+    },
+    {
+     "text": "Details",
+     "url": "https://www.washingtonstudioschool.org/events/8-27-fall-open-house"
+    },
+    {
+     "text": "Details",
+     "url": "https://www.washingtonstudioschool.org/events/8-26-8-27-ikebana-making-and-drawing-workshop-with-louise-worner-and-teresa-oaxaca-1"
+    },
+    {
+     "text": "Past Event",
+     "url": "https://www.washingtonstudioschool.org/events/8-25-image-politics-gardens-and-the-human-condition-with-reem-bassous"
+    },
+    {
+     "text": "Exhibitions",
+     "url": "https://www.washingtonstudioschool.org/on-view"
+    }
+   ],
+   "platform": "wix eventbrite [Wix.com Website Builder]",
+   "error": ""
+  }
+ ],
+ "best_page": "https://www.washingtonstudioschool.org/pubilc-programming-events"
+}

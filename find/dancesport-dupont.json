@@ -1,0 +1,292 @@
+{
+ "row": "190",
+ "name": "DanceSport Dupont",
+ "seed_url": "https://dancesportdupont.com/social-dance-events-calender",
+ "programs": "",
+ "access": "",
+ "found": "2026-11-28 03:15Z",
+ "search_hits": [],
+ "search_error": "html.duckduckgo.com Timeout; www.bing.com 0 hits (200, 134630b); lite.duckduckgo.com Timeout",
+ "probes": [
+  {
+   "url": "https://www.dancesportdupont.com/wp-json/tribe/events/v1/events?per_page=10",
+   "status": "HTTPError",
+   "events": 0
+  },
+  {
+   "url": "https://www.dancesportdupont.com/events/?ical=1",
+   "status": 200,
+   "events": 0,
+   "head": "\n<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n  <meta charset='utf-8'>\n  <meta name=\"viewport\" content=\"width=device-width, initial-scale=1\" id=\"wixDesktopViewport\" />\n  <meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\">\n  <meta name=\"generator\" content=\"Wix.com Website Builder\"/>\n  <meta name=\"format"
+  },
+  {
+   "url": "https://www.dancesportdupont.com/?ical=1",
+   "status": 200,
+   "events": 0,
+   "head": "\n<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n  <meta charset='utf-8'>\n  <meta name=\"viewport\" content=\"width=device-width, initial-scale=1\" id=\"wixDesktopViewport\" />\n  <meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\">\n  <meta name=\"generator\" content=\"Wix.com Website Builder\"/>\n  <meta name=\"format"
+  }
+ ],
+ "pages": [
+  {
+   "url": "https://dancesportdupont.com/social-dance-events-calender",
+   "status": 200,
+   "final_url": "https://www.dancesportdupont.com/social-dance-events-calender",
+   "title": "Social Dance Events Calender | DanceSport Dupont",
+   "dates": 0,
+   "jsonld": 0,
+   "jsonld_samples": [],
+   "hints": [],
+   "iframes": [],
+   "event_links": [
+    {
+     "text": "Class & Event Calendar",
+     "url": "https://www.dancesportdupont.com/book-online"
+    },
+    {
+     "text": "Class Schedule",
+     "url": "https://www.dancesportdupont.com/classs-schedule"
+    },
+    {
+     "text": "Corporate Events",
+     "url": "https://www.dancesportdupont.com/corporate-events"
+    }
+   ],
+   "platform": "wix eventbrite [Wix.com Website Builder]",
+   "error": ""
+  },
+  {
+   "url": "https://www.dancesportdupont.com/",
+   "status": 200,
+   "final_url": "https://www.dancesportdupont.com/",
+   "title": "washington dc dance studios | DanceSport Dupont in Washington, DC",
+   "dates": 0,
+   "jsonld": 0,
+   "jsonld_samples": [],
+   "hints": [
+    "https://www.dancesportdupont.com/blog-feed.xml"
+   ],
+   "iframes": [],
+   "event_links": [
+    {
+     "text": "Class & Event Calendar",
+     "url": "https://www.dancesportdupont.com/book-online"
+    },
+    {
+     "text": "Class Schedule",
+     "url": "https://www.dancesportdupont.com/classs-schedule"
+    },
+    {
+     "text": "Social Dance Events",
+     "url": "https://www.dancesportdupont.com/social-dance-events-calender"
+    },
+    {
+     "text": "Corporate Events",
+     "url": "https://www.dancesportdupont.com/corporate-events"
+    },
+    {
+     "text": "BOOK NOW",
+     "url": "https://www.dancesportdupont.com/booking-calendar/fri-dance-at-your-wedding-workshop-5-15"
+    },
+    {
+     "text": "BOOK NOW",
+     "url": "https://www.dancesportdupont.com/booking-calendar/salsa-level-1-absolute-beginners"
+    },
+    {
+     "text": "BOOK NOW",
+     "url": "https://www.dancesportdupont.com/booking-calendar/salsa-level-2-drop-in-welcome-class"
+    },
+    {
+     "text": "BOOK NOW",
+     "url": "https://www.dancesportdupont.com/booking-calendar/bachata-fundamentals-for-beginners"
+    },
+    {
+     "text": "BOOK NOW",
+     "url": "https://www.dancesportdupont.com/booking-calendar/salsa-for-beginners-saturday-class"
+    },
+    {
+     "text": "BOOK NOW",
+     "url": "https://www.dancesportdupont.com/booking-calendar/beginner-bachata-footwork-styling"
+    },
+    {
+     "text": "BOOK NOW",
+     "url": "https://www.dancesportdupont.com/booking-calendar/social-partner-dancing-2"
+    },
+    {
+     "text": "BOOK NOW",
+     "url": "https://www.dancesportdupont.com/booking-calendar/country-western-two-step-dance"
+    },
+    {
+     "text": "BOOK NOW",
+     "url": "https://www.dancesportdupont.com/booking-calendar/line-dance-made-easy-country-to-club"
+    },
+    {
+     "text": "BOOK NOW",
+     "url": "https://www.dancesportdupont.com/booking-calendar/int-l-ballroom-latin-beginner-level"
+    },
+    {
+     "text": "BOOK NOW",
+     "url": "https://www.dancesportdupont.com/booking-calendar/argentine-tango-beginner-level"
+    },
+    {
+     "text": "Tonight: Salsa Level 1 & 2 are ON as scheduled!",
+     "url": "https://www.dancesportdupont.com/post/tonight-salsa-level-1-2-are-on-as-scheduled"
+    }
+   ],
+   "platform": "wix eventbrite [Wix.com Website Builder]",
+   "error": ""
+  },
+  {
+   "url": "https://www.dancesportdupont.com/book-online",
+   "status": 200,
+   "final_url": "https://www.dancesportdupont.com/book-online",
+   "title": "Salsa Night DC in Dupont Circle | DanceSport Dupont",
+   "dates": 0,
+   "jsonld": 0,
+   "jsonld_samples": [],
+   "hints": [],
+   "iframes": [],
+   "event_links": [
+    {
+     "text": "Class Schedule",
+     "url": "https://www.dancesportdupont.com/classs-schedule"
+    },
+    {
+     "text": "Social Dance Events",
+     "url": "https://www.dancesportdupont.com/social-dance-events-calender"
+    },
+    {
+     "text": "Corporate Events",
+     "url": "https://www.dancesportdupont.com/corporate-events"
+    },
+    {
+     "text": "Book Now",
+     "url": "https://www.dancesportdupont.com/booking-calendar/fri-dance-at-your-wedding-workshop-5-15"
+    },
+    {
+     "text": "Book Now",
+     "url": "https://www.dancesportdupont.com/booking-calendar/salsa-level-1-absolute-beginners"
+    },
+    {
+     "text": "Book Now",
+     "url": "https://www.dancesportdupont.com/booking-calendar/salsa-level-2-drop-in-welcome-class"
+    },
+    {
+     "text": "Book Now",
+     "url": "https://www.dancesportdupont.com/booking-calendar/bachata-fundamentals-for-beginners"
+    },
+    {
+     "text": "Book Now",
+     "url": "https://www.dancesportdupont.com/booking-calendar/salsa-for-beginners-saturday-class"
+    },
+    {
+     "text": "Book Now",
+     "url": "https://www.dancesportdupont.com/booking-calendar/beginner-bachata-footwork-styling"
+    },
+    {
+     "text": "Book Now",
+     "url": "https://www.dancesportdupont.com/booking-calendar/social-partner-dancing-2"
+    },
+    {
+     "text": "Book Now",
+     "url": "https://www.dancesportdupont.com/booking-calendar/country-western-two-step-dance"
+    },
+    {
+     "text": "Book Now",
+     "url": "https://www.dancesportdupont.com/booking-calendar/line-dance-made-easy-country-to-club"
+    },
+    {
+     "text": "Book Now",
+     "url": "https://www.dancesportdupont.com/booking-calendar/int-l-ballroom-latin-beginner-level"
+    },
+    {
+     "text": "Book Now",
+     "url": "https://www.dancesportdupont.com/booking-calendar/argentine-tango-beginner-level"
+    }
+   ],
+   "platform": "wix eventbrite [Wix.com Website Builder]",
+   "error": ""
+  },
+  {
+   "url": "https://www.dancesportdupont.com/classs-schedule",
+   "status": 200,
+   "final_url": "https://www.dancesportdupont.com/classs-schedule",
+   "title": "Class Schedule | DanceSport Dupont",
+   "dates": 2,
+   "jsonld": 0,
+   "jsonld_samples": [],
+   "hints": [],
+   "iframes": [],
+   "event_links": [
+    {
+     "text": "Class & Event Calendar",
+     "url": "https://www.dancesportdupont.com/book-online"
+    },
+    {
+     "text": "Social Dance Events",
+     "url": "https://www.dancesportdupont.com/social-dance-events-calender"
+    },
+    {
+     "text": "Corporate Events",
+     "url": "https://www.dancesportdupont.com/corporate-events"
+    }
+   ],
+   "platform": "wix eventbrite [Wix.com Website Builder]",
+   "error": ""
+  },
+  {
+   "url": "https://www.dancesportdupont.com/corporate-events",
+   "status": 200,
+   "final_url": "https://www.dancesportdupont.com/corporate-events",
+   "title": "Corporate Events | DanceSport Dupont Circle | Washington",
+   "dates": 0,
+   "jsonld": 0,
+   "jsonld_samples": [],
+   "hints": [],
+   "iframes": [],
+   "event_links": [
+    {
+     "text": "Class & Event Calendar",
+     "url": "https://www.dancesportdupont.com/book-online"
+    },
+    {
+     "text": "Class Schedule",
+     "url": "https://www.dancesportdupont.com/classs-schedule"
+    },
+    {
+     "text": "Social Dance Events",
+     "url": "https://www.dancesportdupont.com/social-dance-events-calender"
+    }
+   ],
+   "platform": "wix eventbrite [Wix.com Website Builder]",
+   "error": ""
+  },
+  {
+   "url": "https://www.dancesportdupont.com/social-dance-events-calender",
+   "status": 200,
+   "final_url": "https://www.dancesportdupont.com/social-dance-events-calender",
+   "title": "Social Dance Events Calender | DanceSport Dupont",
+   "dates": 0,
+   "jsonld": 0,
+   "jsonld_samples": [],
+   "hints": [],
+   "iframes": [],
+   "event_links": [
+    {
+     "text": "Class & Event Calendar",
+     "url": "https://www.dancesportdupont.com/book-online"
+    },
+    {
+     "text": "Class Schedule",
+     "url": "https://www.dancesportdupont.com/classs-schedule"
+    },
+    {
+     "text": "Corporate Events",
+     "url": "https://www.dancesportdupont.com/corporate-events"
+    }
+   ],
+   "platform": "wix eventbrite [Wix.com Website Builder]",
+   "error": ""
+  }
+ ],
+ "best_page": "https://www.dancesportdupont.com/classs-schedule"
+}

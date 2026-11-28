@@ -1,0 +1,262 @@
+{
+ "row": "187",
+ "name": "Women's National Democratic Club",
+ "seed_url": "https://democraticwoman.org/submaster.cfm?CalID=1816&aPage=calendardetails.cfm",
+ "programs": "",
+ "access": "",
+ "found": "2026-11-28 03:13Z",
+ "search_hits": [],
+ "search_error": "html.duckduckgo.com Timeout; www.bing.com 0 hits (200, 118953b); lite.duckduckgo.com Timeout",
+ "probes": [
+  {
+   "url": "https://democraticwoman.org/wp-json/tribe/events/v1/events?per_page=10",
+   "status": "HTTPError",
+   "events": 0
+  },
+  {
+   "url": "https://democraticwoman.org/events/?ical=1",
+   "status": 200,
+   "events": 0,
+   "head": "\n<!DOCTYPE html> \n\t<html class=\"no-js\" lang=\"en\">\n    \t<head>\n\t\t    <meta charset=\"utf-8\">\n\t\t    <meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\">\n<script type=\"text/javascript\" src=\"/cf_scripts/scripts/cfform.js\"></script>\n<script type=\"text/javascript\" src=\"/cf_scripts/scripts/masks.js\"></scri"
+  },
+  {
+   "url": "https://democraticwoman.org/?ical=1",
+   "status": 200,
+   "events": 0,
+   "head": "\n<!DOCTYPE html> \n\t<html class=\"no-js\" lang=\"en\">\n    \t<head>\n\t\t    <meta charset=\"utf-8\">\n\t\t    <meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\">\n\t\t    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">    \n            \t \n\t\t\t<title>Welcome - Woman's National Democratic Club</t"
+  }
+ ],
+ "pages": [
+  {
+   "url": "https://democraticwoman.org/submaster.cfm?CalID=1816&aPage=calendardetails.cfm",
+   "status": 200,
+   "final_url": "https://democraticwoman.org/submaster.cfm?CalID=1816&aPage=calendardetails.cfm",
+   "title": "Woman's National Democratic Club",
+   "dates": 3,
+   "jsonld": 0,
+   "jsonld_samples": [],
+   "hints": [],
+   "iframes": [],
+   "event_links": [
+    {
+     "text": "WNDC Programs Archive",
+     "url": "https://democraticwoman.org/wndc-programs-archive"
+    },
+    {
+     "text": "Exhibitions",
+     "url": "https://democraticwoman.org/exhibitions"
+    },
+    {
+     "text": "Member Events",
+     "url": "https://democraticwoman.org/member-events"
+    },
+    {
+     "text": "Calendar",
+     "url": "https://democraticwoman.org/events"
+    },
+    {
+     "text": "Private Events",
+     "url": "https://democraticwoman.org/private-events"
+    },
+    {
+     "text": "Export to Calendar",
+     "url": "https://democraticwoman.org/submaster.cfm?aPage=icalendar_action.cfm&vID=1816"
+    },
+    {
+     "text": "Add to Google Calendar",
+     "url": "http://www.google.com/calendar/event?\naction=TEMPLATE\n&text=Navigating%20the%20Backlash%3A%20Reclaiming%20Progress%20for%20Women &dates=20260327T163000Z/20260327T190000Z\n&details=\n&location=Woman%27s%20National%20Democratic%20Club\n&trp=false\n&sprop=\n&sprop=name:"
+    }
+   ],
+   "platform": "",
+   "error": ""
+  },
+  {
+   "url": "https://democraticwoman.org/",
+   "status": 200,
+   "final_url": "https://democraticwoman.org/",
+   "title": "Welcome - Woman's National Democratic Club",
+   "dates": 0,
+   "jsonld": 0,
+   "jsonld_samples": [],
+   "hints": [],
+   "iframes": [],
+   "event_links": [
+    {
+     "text": "WNDC Programs Archive",
+     "url": "https://democraticwoman.org/wndc-programs-archive"
+    },
+    {
+     "text": "Exhibitions",
+     "url": "https://democraticwoman.org/exhibitions"
+    },
+    {
+     "text": "Member Events",
+     "url": "https://democraticwoman.org/member-events"
+    },
+    {
+     "text": "Calendar",
+     "url": "https://democraticwoman.org/events"
+    },
+    {
+     "text": "Private Events",
+     "url": "https://democraticwoman.org/private-events"
+    }
+   ],
+   "platform": "",
+   "error": ""
+  },
+  {
+   "url": "https://democraticwoman.org/wndc-programs-archive",
+   "status": 200,
+   "final_url": "https://democraticwoman.org/wndc-programs-archive",
+   "title": "WNDC Programs Archive - Woman's National Democratic Club",
+   "dates": 0,
+   "jsonld": 0,
+   "jsonld_samples": [],
+   "hints": [],
+   "iframes": [],
+   "event_links": [
+    {
+     "text": "Exhibitions",
+     "url": "https://democraticwoman.org/exhibitions"
+    },
+    {
+     "text": "Member Events",
+     "url": "https://democraticwoman.org/member-events"
+    },
+    {
+     "text": "Calendar",
+     "url": "https://democraticwoman.org/events"
+    },
+    {
+     "text": "Private Events",
+     "url": "https://democraticwoman.org/private-events"
+    },
+    {
+     "text": "Listen to Full Program",
+     "url": "https://youtu.be/axBWvkCP8yE"
+    },
+    {
+     "text": "Listen to Full Program",
+     "url": "https://youtu.be/g7jp_1bBjSY"
+    },
+    {
+     "text": "Listen to Full Program",
+     "url": "https://youtu.be/D12QUBaaiwA"
+    },
+    {
+     "text": "Listen to Full Program",
+     "url": "https://youtu.be/6mAs2siimZk"
+    },
+    {
+     "text": "Listen to Full Program",
+     "url": "https://youtu.be/YO-lxeMbDUg"
+    },
+    {
+     "text": "Listen to Full Program",
+     "url": "https://youtu.be/n5dfqPVQyI4"
+    },
+    {
+     "text": "Listen to Full Program",
+     "url": "https://youtu.be/UGJC_yiI2qM"
+    }
+   ],
+   "platform": "",
+   "error": ""
+  },
+  {
+   "url": "https://democraticwoman.org/exhibitions",
+   "status": 200,
+   "final_url": "https://democraticwoman.org/exhibitions",
+   "title": "Exhibitions - Woman's National Democratic Club",
+   "dates": 57,
+   "jsonld": 0,
+   "jsonld_samples": [],
+   "hints": [],
+   "iframes": [],
+   "event_links": [
+    {
+     "text": "WNDC Programs Archive",
+     "url": "https://democraticwoman.org/wndc-programs-archive"
+    },
+    {
+     "text": "Member Events",
+     "url": "https://democraticwoman.org/member-events"
+    },
+    {
+     "text": "Calendar",
+     "url": "https://democraticwoman.org/events"
+    },
+    {
+     "text": "Private Events",
+     "url": "https://democraticwoman.org/private-events"
+    }
+   ],
+   "platform": "",
+   "error": ""
+  },
+  {
+   "url": "https://democraticwoman.org/member-events",
+   "status": 200,
+   "final_url": "https://democraticwoman.org/member-events",
+   "title": "Member Events - Woman's National Democratic Club",
+   "dates": 0,
+   "jsonld": 0,
+   "jsonld_samples": [],
+   "hints": [],
+   "iframes": [],
+   "event_links": [
+    {
+     "text": "WNDC Programs Archive",
+     "url": "https://democraticwoman.org/wndc-programs-archive"
+    },
+    {
+     "text": "Exhibitions",
+     "url": "https://democraticwoman.org/exhibitions"
+    },
+    {
+     "text": "Calendar",
+     "url": "https://democraticwoman.org/events"
+    },
+    {
+     "text": "Private Events",
+     "url": "https://democraticwoman.org/private-events"
+    }
+   ],
+   "platform": "",
+   "error": ""
+  },
+  {
+   "url": "https://democraticwoman.org/events",
+   "status": 200,
+   "final_url": "https://democraticwoman.org/events",
+   "title": "Calendar - Woman's National Democratic Club",
+   "dates": 0,
+   "jsonld": 0,
+   "jsonld_samples": [],
+   "hints": [],
+   "iframes": [],
+   "event_links": [
+    {
+     "text": "WNDC Programs Archive",
+     "url": "https://democraticwoman.org/wndc-programs-archive"
+    },
+    {
+     "text": "Exhibitions",
+     "url": "https://democraticwoman.org/exhibitions"
+    },
+    {
+     "text": "Member Events",
+     "url": "https://democraticwoman.org/member-events"
+    },
+    {
+     "text": "Private Events",
+     "url": "https://democraticwoman.org/private-events"
+    }
+   ],
+   "platform": "",
+   "error": ""
+  }
+ ],
+ "best_page": "https://democraticwoman.org/exhibitions"
+}

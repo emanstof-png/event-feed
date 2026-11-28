@@ -1,0 +1,96 @@
+{
+ "row": "177",
+ "name": "ABComedy Lab",
+ "seed_url": "https://crowdwork.com/e/the-monoscene",
+ "programs": "",
+ "access": "",
+ "found": "2026-11-28 03:06Z",
+ "search_hits": [],
+ "search_error": "html.duckduckgo.com Timeout; www.bing.com 0 hits (200, 104400b); lite.duckduckgo.com Timeout",
+ "probes": [
+  {
+   "url": "https://crowdwork.com/wp-json/tribe/events/v1/events?per_page=10",
+   "status": "HTTPError",
+   "events": 0
+  },
+  {
+   "url": "https://crowdwork.com/events/?ical=1",
+   "status": "HTTPError",
+   "events": 0
+  },
+  {
+   "url": "https://crowdwork.com/?ical=1",
+   "status": 200,
+   "events": 0,
+   "head": "<!DOCTYPE html>\n<html lang=\"en\">\n\n  <head>\n    <meta charset=\"utf-8\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">\n    <meta name=\"fw-currency\" content=\"USD\">\n    <!-- <meta name=\"turbo-visit-control\" content=\"reload\"> -->\n    <!-- <meta name=\"turbo-cache-control\" content"
+  }
+ ],
+ "pages": [
+  {
+   "url": "https://crowdwork.com/e/the-monoscene",
+   "status": 200,
+   "final_url": "https://crowdwork.com/e/the-monoscene",
+   "title": "The Monoscene  \u2022 ABComedy Lab",
+   "dates": 5,
+   "jsonld": 0,
+   "jsonld_samples": [],
+   "hints": [],
+   "iframes": [],
+   "event_links": [
+    {
+     "text": "",
+     "url": "https://www.erickacuna.com/upcoming-classes/"
+    }
+   ],
+   "platform": "",
+   "error": ""
+  },
+  {
+   "url": "https://crowdwork.com/",
+   "status": 200,
+   "final_url": "https://crowdwork.com/",
+   "title": "CrowdWork",
+   "dates": 0,
+   "jsonld": 0,
+   "jsonld_samples": [],
+   "hints": [],
+   "iframes": [],
+   "event_links": [
+    {
+     "text": "Features",
+     "url": "https://crowdwork.com/features/events"
+    },
+    {
+     "text": "Schedule a Demo",
+     "url": "https://calendly.com/d/335-t7n-cz4/crowdwork-demo"
+    }
+   ],
+   "platform": "",
+   "error": ""
+  },
+  {
+   "url": "https://crowdwork.com/features/events",
+   "status": 200,
+   "final_url": "https://crowdwork.com/features/events",
+   "title": "Ticketing & Classes \u2022 CrowdWork",
+   "dates": 0,
+   "jsonld": 0,
+   "jsonld_samples": [],
+   "hints": [],
+   "iframes": [],
+   "event_links": [
+    {
+     "text": "Features",
+     "url": "https://crowdwork.com/features/events"
+    },
+    {
+     "text": "Schedule a Demo",
+     "url": "https://calendly.com/d/335-t7n-cz4/crowdwork-demo"
+    }
+   ],
+   "platform": "",
+   "error": ""
+  }
+ ],
+ "best_page": "https://crowdwork.com/e/the-monoscene"
+}

@@ -1,0 +1,416 @@
+{
+ "row": "182",
+ "name": "Reading Rhythms",
+ "seed_url": "https://readingrhythms.co/events",
+ "programs": "",
+ "access": "",
+ "found": "2026-11-28 03:10Z",
+ "search_hits": [],
+ "search_error": "html.duckduckgo.com Timeout; www.bing.com 0 hits (200, 129079b); lite.duckduckgo.com Timeout",
+ "probes": [
+  {
+   "url": "https://readingrhythms.co/wp-json/tribe/events/v1/events?per_page=10",
+   "status": "HTTPError",
+   "events": 0
+  },
+  {
+   "url": "https://readingrhythms.co/events/?ical=1",
+   "status": 200,
+   "events": 0,
+   "head": "<!DOCTYPE html><html lang=\"en\" style=\"background-color: #F8F2E6;\"><head><meta charset=\"utf-8\"><meta name=\"viewport\" content=\"width=device-width, initial-scale=1\"><meta name=\"generator\" content=\"Astro v7.4.12\"><!-- Primary Meta Tags --><title>Reading Party Events &amp; Tickets by City | Reading Rhyth"
+  },
+  {
+   "url": "https://readingrhythms.co/?ical=1",
+   "status": 200,
+   "events": 0,
+   "head": "<!DOCTYPE html><html lang=\"en\" style=\"background-color: #F8F2E6;\"><head><meta charset=\"utf-8\"><meta name=\"viewport\" content=\"width=device-width, initial-scale=1\"><meta name=\"generator\" content=\"Astro v7.4.12\"><!-- Primary Meta Tags --><title>Reading Rhythms | Not a book club. A reading party.</title"
+  }
+ ],
+ "pages": [
+  {
+   "url": "https://readingrhythms.co/events",
+   "status": 200,
+   "final_url": "https://readingrhythms.co/events",
+   "title": "Reading Party Events & Tickets by City | Reading Rhythms",
+   "dates": 1,
+   "jsonld": 27,
+   "jsonld_samples": [
+    {
+     "name": "Reading Rhythms Toronto: Another Story Bookshop",
+     "start": "2026-12-07T19:00:00-05:00",
+     "url": "https://readingrhythms.co/events/toronto/reading-rhythms-toronto-another-story-bookshop-dec-8-2c741285/"
+    },
+    {
+     "name": "WRITING RHYTHMS DC PARTY",
+     "start": "2026-12-29T19:00:00-05:00",
+     "url": "https://readingrhythms.co/events/washington-dc/writing-rhythms-dc-party-dec-30-6b1d3363/"
+    },
+    {
+     "name": "NPG X RR Monthly Series",
+     "start": "2026-12-17T17:15:00-05:00",
+     "url": "https://readingrhythms.co/events/washington-dc/npg-x-rr-monthly-series-dec-17-69ad87b1/"
+    },
+    {
+     "name": "Reading Rhythms at Folger Shakespeare Library!",
+     "start": "2026-12-04T18:30:00-05:00",
+     "url": "https://readingrhythms.co/events/washington-dc/reading-rhythms-at-folger-shakespeare-library-dec-4-c536dedf/"
+    },
+    {
+     "name": "Season's Readings - Ugly Sweater Reading Party at The Polished Pigeon",
+     "start": "2026-12-10T18:30:00-08:00",
+     "url": "https://readingrhythms.co/events/san-diego/season-s-readings-ugly-sweater-reading-party-at-the-polished-pigeon-dec-11-69d01576/"
+    }
+   ],
+   "hints": [
+    "https://readingrhythms.co/agents/events.md",
+    "https://readingrhythms.co/events/?lang=en",
+    "https://readingrhythms.co/events/?lang=it",
+    "https://readingrhythms.co/events/?lang=es",
+    "https://readingrhythms.co/events/?lang=fr",
+    "https://readingrhythms.co/events/?lang=de",
+    "https://readingrhythms.co/events/?lang=pt"
+   ],
+   "iframes": [],
+   "event_links": [
+    {
+     "text": "Get Tickets NOV 30 Bronx Mon \u00b7 6:30 PM ET \u00b7 Bronx Reading Rh",
+     "url": "https://readingrhythms.co/events/bronx/reading-rhythms-bronx-november-30th-nov-30-59a63184/"
+    },
+    {
+     "text": "Get Tickets NOV 30 Upper West Side Mon \u00b7 6:30 PM ET \u00b7 Upper ",
+     "url": "https://readingrhythms.co/events/upper-west-side/reading-rhythms-upper-west-side-november-30th-nov-30-b60b9cb3/"
+    },
+    {
+     "text": "Get Tickets DEC 1 Greenpoint Tue \u00b7 7:00 PM ET \u00b7 Greenpoint F",
+     "url": "https://readingrhythms.co/events/greenpoint/flannel-fiction-a-winter-pajama-party-dec-2-0db75863/"
+    },
+    {
+     "text": "Get Tickets DEC 2 Bushwick Wed \u00b7 7:00 PM ET \u00b7 Bushwick Readi",
+     "url": "https://readingrhythms.co/events/bushwick/reading-rhythms-bushwick-december-2nd-dec-3-29097d33/"
+    },
+    {
+     "text": "Get Tickets DEC 8 Queens Tue \u00b7 6:30 PM ET \u00b7 Queens RR Queens",
+     "url": "https://readingrhythms.co/events/queens/rr-queens-december-pages-dec-8-865466cf/"
+    },
+    {
+     "text": "Get Tickets DEC 8 Williamsburg Tue \u00b7 7:00 PM ET \u00b7 Williamsbu",
+     "url": "https://readingrhythms.co/events/williamsburg/reading-rhythms-williamsburg-december-8th-dec-9-9d37c928/"
+    },
+    {
+     "text": "Get Membership DEC 12 Members only Sat \u00b7 12:00 PM ET \u00b7 Midto",
+     "url": "https://readingrhythms.co/events/midtown/reflections-at-the-moma-a-member-exclusive-event-dec-12-8200c012/"
+    },
+    {
+     "text": "Get Tickets DEC 14 Upper West Side Mon \u00b7 6:30 PM ET \u00b7 Upper ",
+     "url": "https://readingrhythms.co/events/upper-west-side/reading-rhythms-upper-west-side-december-14th-dec-14-861a82d4/"
+    },
+    {
+     "text": "Get Tickets DEC 14 Midtown Mon \u00b7 6:30 PM ET \u00b7 Midtown Writin",
+     "url": "https://readingrhythms.co/events/midtown/writing-rhythms-hotel-alameda-dec-14-a6eb8a02/"
+    },
+    {
+     "text": "Sold Out DEC 14 Sold Out Mon \u00b7 6:30 PM ET \u00b7 Sponsored Readin",
+     "url": "https://readingrhythms.co/events/new-york-sponsored/reading-rhythms-x-amazon-books-best-books-of-2026-reading-party-featuring-min-jin-lee-dec-14-7744ed3e/"
+    },
+    {
+     "text": "Get Tickets DEC 14 Lower Manhattan Mon \u00b7 6:30 PM ET \u00b7 Lower ",
+     "url": "https://readingrhythms.co/events/lower-manhattan/reading-rhythms-lower-manhattan-december-14-dec-14-0331af6c/"
+    },
+    {
+     "text": "Get Tickets DEC 15 Bronx Tue \u00b7 6:30 PM ET \u00b7 Bronx Reading Rh",
+     "url": "https://readingrhythms.co/events/bronx/reading-rhythms-bronx-december-15th-dec-15-e39c7c74/"
+    },
+    {
+     "text": "Get Tickets DEC 15 Midtown Tue \u00b7 6:30 PM ET \u00b7 Midtown Readin",
+     "url": "https://readingrhythms.co/events/midtown/reading-rhythms-midtown-december-15th-dec-15-9cceda1b/"
+    },
+    {
+     "text": "Get Tickets DEC 15 Harlem Tue \u00b7 6:45 PM ET \u00b7 Harlem Reading ",
+     "url": "https://readingrhythms.co/events/harlem/reading-rhythms-harlem-december-15th-dec-15-2b03ca62/"
+    },
+    {
+     "text": "Get Tickets DEC 16 Queens Wed \u00b7 6:00 PM ET \u00b7 Queens Reading ",
+     "url": "https://readingrhythms.co/events/queens/reading-rhythms-queens-december-16th-dec-16-59e6bb51/"
+    },
+    {
+     "text": "Get Tickets DEC 17 Long Island Thu \u00b7 6:30 PM ET \u00b7 Long Islan",
+     "url": "https://readingrhythms.co/events/long-island/reading-rhythms-long-island-december-17th-dec-17-1007dd83/"
+    },
+    {
+     "text": "Get Tickets DEC 21 Lower Manhattan Mon \u00b7 6:30 PM ET \u00b7 Lower ",
+     "url": "https://readingrhythms.co/events/lower-manhattan/writing-rhythms-lightning-society-dec-21-92a4ef1d/"
+    },
+    {
+     "text": "Get Tickets DEC 29 Harlem Tue \u00b7 6:45 PM ET \u00b7 Harlem Reading ",
+     "url": "https://readingrhythms.co/events/harlem/reading-rhythms-harlem-december-29th-dec-29-d0fba200/"
+    },
+    {
+     "text": "Get Tickets JAN 6 Queens Wed \u00b7 6:30 PM ET \u00b7 Queens Craft & L",
+     "url": "https://readingrhythms.co/events/queens/craft-listen-an-audiobook-and-crafting-reading-party-long-island-city-jan-6-edda11b0/"
+    },
+    {
+     "text": "Get Tickets JAN 11 Williamsburg Mon \u00b7 6:30 PM ET \u00b7 Williamsb",
+     "url": "https://readingrhythms.co/events/williamsburg/book-trivia-night-brooklyn-january-11th-jan-11-6dd2bcc6/"
+    },
+    {
+     "text": "Get Tickets DEC 8 Tue \u00b7 6:30 PM CT \u00b7 Austin Reading Rhythms ",
+     "url": "https://readingrhythms.co/events/austin/reading-rhythms-austin-holiday-reading-party-book-swap-dec-9-e5710428/"
+    },
+    {
+     "text": "Get Tickets NOV 29 Sun \u00b7 12:00 PM ET \u00b7 Boston Reading Rhythm",
+     "url": "https://readingrhythms.co/events/boston/reading-rhythms-boston-november-29th-nov-29-fcdff835/"
+    },
+    {
+     "text": "Get Tickets DEC 10 Thu \u00b7 6:30 PM PT \u00b7 San Diego Season's Rea",
+     "url": "https://readingrhythms.co/events/san-diego/season-s-readings-ugly-sweater-reading-party-at-the-polished-pigeon-dec-11-69d01576/"
+    },
+    {
+     "text": "Get Tickets DEC 4 Fri \u00b7 6:30 PM ET \u00b7 Washington DC Reading R",
+     "url": "https://readingrhythms.co/events/washington-dc/reading-rhythms-at-folger-shakespeare-library-dec-4-c536dedf/"
+    },
+    {
+     "text": "Get Tickets DEC 17 Thu \u00b7 5:15 PM ET \u00b7 Washington DC NPG X RR",
+     "url": "https://readingrhythms.co/events/washington-dc/npg-x-rr-monthly-series-dec-17-69ad87b1/"
+    }
+   ],
+   "platform": " [Astro v7.4.12]",
+   "error": ""
+  },
+  {
+   "url": "https://readingrhythms.co/",
+   "status": 200,
+   "final_url": "https://readingrhythms.co/",
+   "title": "Reading Rhythms | Not a book club. A reading party.",
+   "dates": 0,
+   "jsonld": 0,
+   "jsonld_samples": [],
+   "hints": [
+    "https://readingrhythms.co/agents/index.md",
+    "https://readingrhythms.co/?lang=en",
+    "https://readingrhythms.co/?lang=it",
+    "https://readingrhythms.co/?lang=es",
+    "https://readingrhythms.co/?lang=fr",
+    "https://readingrhythms.co/?lang=de",
+    "https://readingrhythms.co/?lang=pt"
+   ],
+   "iframes": [],
+   "event_links": [
+    {
+     "text": "Events Events",
+     "url": "https://readingrhythms.co/events/"
+    },
+    {
+     "text": "Get Tickets NOV 29 Sun \u00b7 12:00 PM ET \u00b7 Boston Reading Rhythm",
+     "url": "https://readingrhythms.co/events/boston/reading-rhythms-boston-november-29th-nov-29-fcdff835/"
+    },
+    {
+     "text": "Get Tickets NOV 30 Mon \u00b7 6:30 PM ET \u00b7 Bronx Reading Rhythms ",
+     "url": "https://readingrhythms.co/events/bronx/reading-rhythms-bronx-november-30th-nov-30-59a63184/"
+    },
+    {
+     "text": "Get Tickets NOV 30 Mon \u00b7 6:30 PM ET \u00b7 Upper West Side Readin",
+     "url": "https://readingrhythms.co/events/upper-west-side/reading-rhythms-upper-west-side-november-30th-nov-30-b60b9cb3/"
+    },
+    {
+     "text": "Get Tickets DEC 1 Tue \u00b7 7:00 PM ET \u00b7 Greenpoint Flannel & Fi",
+     "url": "https://readingrhythms.co/events/greenpoint/flannel-fiction-a-winter-pajama-party-dec-2-0db75863/"
+    },
+    {
+     "text": "Get Tickets DEC 2 Wed \u00b7 7:00 PM ET \u00b7 Bushwick Reading Rhythm",
+     "url": "https://readingrhythms.co/events/bushwick/reading-rhythms-bushwick-december-2nd-dec-3-29097d33/"
+    },
+    {
+     "text": "Get Tickets DEC 4 Fri \u00b7 6:30 PM ET \u00b7 Washington DC Reading R",
+     "url": "https://readingrhythms.co/events/washington-dc/reading-rhythms-at-folger-shakespeare-library-dec-4-c536dedf/"
+    },
+    {
+     "text": "Forget the apps: NYC singles are finding love and lust at th",
+     "url": "https://www.timeout.com/newyork/news/forget-the-apps-nyc-singles-are-finding-love-and-lust-at-these-in-person-events-020224"
+    }
+   ],
+   "platform": " [Astro v7.4.12]",
+   "error": ""
+  },
+  {
+   "url": "https://readingrhythms.co/events/bronx/reading-rhythms-bronx-november-30th-nov-30-59a63184/",
+   "status": 200,
+   "final_url": "https://readingrhythms.co/events/bronx/reading-rhythms-bronx-november-30th-nov-30-59a63184/",
+   "title": "Reading party in Bronx, New York City, Mon Nov 30: Reading Rhythms Bronx: November 30th | Reading Rhythms",
+   "dates": 2,
+   "jsonld": 1,
+   "jsonld_samples": [
+    {
+     "name": "Reading Rhythms Bronx: November 30th",
+     "start": "2026-11-30T18:30:00-05:00",
+     "url": "https://readingrhythms.co/events/bronx/reading-rhythms-bronx-november-30th-nov-30-59a63184/"
+    }
+   ],
+   "hints": [
+    "https://readingrhythms.co/events/bronx/reading-rhythms-bronx-november-30th-nov-30-59a63184/?lang=en",
+    "https://readingrhythms.co/events/bronx/reading-rhythms-bronx-november-30th-nov-30-59a63184/?lang=it",
+    "https://readingrhythms.co/events/bronx/reading-rhythms-bronx-november-30th-nov-30-59a63184/?lang=es",
+    "https://readingrhythms.co/events/bronx/reading-rhythms-bronx-november-30th-nov-30-59a63184/?lang=fr",
+    "https://readingrhythms.co/events/bronx/reading-rhythms-bronx-november-30th-nov-30-59a63184/?lang=de",
+    "https://readingrhythms.co/events/bronx/reading-rhythms-bronx-november-30th-nov-30-59a63184/?lang=pt",
+    "https://embed.lu.ma/checkout-button.js",
+    "https://luma.com/reading-hx0w"
+   ],
+   "iframes": [
+    "https://www.google.com/maps/embed/v1/place?key=AIzaSyDxG_k2MupWK-WaCa7dhD2JZCrTOqwIh1Y&q=place_id%3AChIJtZVuasz1wokRriwAVP9h1o0",
+    "https://pay.rev.cat/icaltehougcnrnfq/?utm_source=website&utm_medium=modal&utm_campaign=passport_signup&utm_content=event_page"
+   ],
+   "event_links": [
+    {
+     "text": "Events Events",
+     "url": "https://readingrhythms.co/events/"
+    },
+    {
+     "text": "All Events",
+     "url": "https://readingrhythms.co/events#bronx"
+    },
+    {
+     "text": "Get Tickets",
+     "url": "https://luma.com/reading-hx0w"
+    }
+   ],
+   "platform": " [Astro v7.4.12]",
+   "error": ""
+  },
+  {
+   "url": "https://readingrhythms.co/events/upper-west-side/reading-rhythms-upper-west-side-november-30th-nov-30-b60b9cb3/",
+   "status": 200,
+   "final_url": "https://readingrhythms.co/events/upper-west-side/reading-rhythms-upper-west-side-november-30th-nov-30-b60b9cb3/",
+   "title": "Reading party in Upper West Side, New York City, Mon Nov 30: Reading Rhythms Upper West Side: November 30th | Reading Rh",
+   "dates": 2,
+   "jsonld": 1,
+   "jsonld_samples": [
+    {
+     "name": "Reading Rhythms Upper West Side: November 30th",
+     "start": "2026-11-30T18:30:00-05:00",
+     "url": "https://readingrhythms.co/events/upper-west-side/reading-rhythms-upper-west-side-november-30th-nov-30-b60b9cb3/"
+    }
+   ],
+   "hints": [
+    "https://readingrhythms.co/events/upper-west-side/reading-rhythms-upper-west-side-november-30th-nov-30-b60b9cb3/?lang=en",
+    "https://readingrhythms.co/events/upper-west-side/reading-rhythms-upper-west-side-november-30th-nov-30-b60b9cb3/?lang=it",
+    "https://readingrhythms.co/events/upper-west-side/reading-rhythms-upper-west-side-november-30th-nov-30-b60b9cb3/?lang=es",
+    "https://readingrhythms.co/events/upper-west-side/reading-rhythms-upper-west-side-november-30th-nov-30-b60b9cb3/?lang=fr",
+    "https://readingrhythms.co/events/upper-west-side/reading-rhythms-upper-west-side-november-30th-nov-30-b60b9cb3/?lang=de",
+    "https://readingrhythms.co/events/upper-west-side/reading-rhythms-upper-west-side-november-30th-nov-30-b60b9cb3/?lang=pt",
+    "https://embed.lu.ma/checkout-button.js",
+    "https://luma.com/reading-1ltx"
+   ],
+   "iframes": [
+    "https://www.google.com/maps/embed/v1/place?key=AIzaSyDxG_k2MupWK-WaCa7dhD2JZCrTOqwIh1Y&q=place_id%3AChIJQ_9CkDv2wokR4luLdCr0Jo8",
+    "https://pay.rev.cat/icaltehougcnrnfq/?utm_source=website&utm_medium=modal&utm_campaign=passport_signup&utm_content=event_page"
+   ],
+   "event_links": [
+    {
+     "text": "Events Events",
+     "url": "https://readingrhythms.co/events/"
+    },
+    {
+     "text": "All Events",
+     "url": "https://readingrhythms.co/events#new-york-city"
+    },
+    {
+     "text": "Get Tickets",
+     "url": "https://luma.com/reading-1ltx"
+    }
+   ],
+   "platform": " [Astro v7.4.12]",
+   "error": ""
+  },
+  {
+   "url": "https://readingrhythms.co/events/greenpoint/flannel-fiction-a-winter-pajama-party-dec-2-0db75863/",
+   "status": 200,
+   "final_url": "https://readingrhythms.co/events/greenpoint/flannel-fiction-a-winter-pajama-party-dec-2-0db75863/",
+   "title": "Reading party in Greenpoint, New York City, Tue Dec 1: Flannel & Fiction: A Winter Pajama Party | Reading Rhythms",
+   "dates": 2,
+   "jsonld": 1,
+   "jsonld_samples": [
+    {
+     "name": "Flannel & Fiction: A Winter Pajama Party",
+     "start": "2026-12-01T19:00:00-05:00",
+     "url": "https://readingrhythms.co/events/greenpoint/flannel-fiction-a-winter-pajama-party-dec-2-0db75863/"
+    }
+   ],
+   "hints": [
+    "https://readingrhythms.co/events/greenpoint/flannel-fiction-a-winter-pajama-party-dec-2-0db75863/?lang=en",
+    "https://readingrhythms.co/events/greenpoint/flannel-fiction-a-winter-pajama-party-dec-2-0db75863/?lang=it",
+    "https://readingrhythms.co/events/greenpoint/flannel-fiction-a-winter-pajama-party-dec-2-0db75863/?lang=es",
+    "https://readingrhythms.co/events/greenpoint/flannel-fiction-a-winter-pajama-party-dec-2-0db75863/?lang=fr",
+    "https://readingrhythms.co/events/greenpoint/flannel-fiction-a-winter-pajama-party-dec-2-0db75863/?lang=de",
+    "https://readingrhythms.co/events/greenpoint/flannel-fiction-a-winter-pajama-party-dec-2-0db75863/?lang=pt",
+    "https://embed.lu.ma/checkout-button.js",
+    "https://luma.com/reading-pxge"
+   ],
+   "iframes": [
+    "https://www.google.com/maps/embed/v1/place?key=AIzaSyDxG_k2MupWK-WaCa7dhD2JZCrTOqwIh1Y&q=place_id%3AChIJoR8SsQ5ZwokRZUuMIpgCrDA",
+    "https://pay.rev.cat/icaltehougcnrnfq/?utm_source=website&utm_medium=modal&utm_campaign=passport_signup&utm_content=event_page"
+   ],
+   "event_links": [
+    {
+     "text": "Events Events",
+     "url": "https://readingrhythms.co/events/"
+    },
+    {
+     "text": "All Events",
+     "url": "https://readingrhythms.co/events#new-york-city"
+    },
+    {
+     "text": "Get Tickets",
+     "url": "https://luma.com/reading-pxge"
+    }
+   ],
+   "platform": " [Astro v7.4.12]",
+   "error": ""
+  },
+  {
+   "url": "https://readingrhythms.co/events/bushwick/reading-rhythms-bushwick-december-2nd-dec-3-29097d33/",
+   "status": 200,
+   "final_url": "https://readingrhythms.co/events/bushwick/reading-rhythms-bushwick-december-2nd-dec-3-29097d33/",
+   "title": "Reading party in Bushwick, New York City, Wed Dec 2: Reading Rhythms Bushwick: December 2nd | Reading Rhythms",
+   "dates": 2,
+   "jsonld": 1,
+   "jsonld_samples": [
+    {
+     "name": "Reading Rhythms Bushwick: December 2nd",
+     "start": "2026-12-02T19:00:00-05:00",
+     "url": "https://readingrhythms.co/events/bushwick/reading-rhythms-bushwick-december-2nd-dec-3-29097d33/"
+    }
+   ],
+   "hints": [
+    "https://readingrhythms.co/events/bushwick/reading-rhythms-bushwick-december-2nd-dec-3-29097d33/?lang=en",
+    "https://readingrhythms.co/events/bushwick/reading-rhythms-bushwick-december-2nd-dec-3-29097d33/?lang=it",
+    "https://readingrhythms.co/events/bushwick/reading-rhythms-bushwick-december-2nd-dec-3-29097d33/?lang=es",
+    "https://readingrhythms.co/events/bushwick/reading-rhythms-bushwick-december-2nd-dec-3-29097d33/?lang=fr",
+    "https://readingrhythms.co/events/bushwick/reading-rhythms-bushwick-december-2nd-dec-3-29097d33/?lang=de",
+    "https://readingrhythms.co/events/bushwick/reading-rhythms-bushwick-december-2nd-dec-3-29097d33/?lang=pt",
+    "https://embed.lu.ma/checkout-button.js",
+    "https://luma.com/reading-49ws"
+   ],
+   "iframes": [
+    "https://www.google.com/maps/embed/v1/place?key=AIzaSyDxG_k2MupWK-WaCa7dhD2JZCrTOqwIh1Y&q=place_id%3AChIJb6ZVSB1cwokRES6FZ2WAMAA",
+    "https://pay.rev.cat/icaltehougcnrnfq/?utm_source=website&utm_medium=modal&utm_campaign=passport_signup&utm_content=event_page"
+   ],
+   "event_links": [
+    {
+     "text": "Events Events",
+     "url": "https://readingrhythms.co/events/"
+    },
+    {
+     "text": "All Events",
+     "url": "https://readingrhythms.co/events#new-york-city"
+    },
+    {
+     "text": "Get Tickets",
+     "url": "https://luma.com/reading-49ws"
+    }
+   ],
+   "platform": " [Astro v7.4.12]",
+   "error": ""
+  }
+ ],
+ "best_page": "https://readingrhythms.co/events"
+}

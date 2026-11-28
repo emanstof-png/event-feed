@@ -1,0 +1,623 @@
+{
+ "row": "186",
+ "name": "Washington Hebrew Congregation",
+ "seed_url": "https://shalomdc.org/organizer/washington-hebrew-congregation",
+ "programs": "",
+ "access": "",
+ "found": "2026-11-28 03:12Z",
+ "search_hits": [],
+ "search_error": "html.duckduckgo.com Timeout; www.bing.com 0 hits (200, 128187b); lite.duckduckgo.com Timeout",
+ "probes": [
+  {
+   "url": "https://www.shalomdc.org/wp-json/tribe/events/v1/events?per_page=10",
+   "status": 200,
+   "events": 10,
+   "head": "{\"events\":[{\"id\":10006709,\"global_id\":\"www.shalomdc.org?id=10006709\",\"global_id_lineage\":[\"www.shalomdc.org?id=10006709\"],\"author\":\"39\",\"status\":\"publish\",\"date\":\"2025-11-03 12:14:38\",\"date_utc\":\"2025-11-03 17:14:38\",\"modified\":\"2025-11-03 12:14:38\",\"modified_utc\":\"2025-11-03 17:14:38\",\"url\":\"https:"
+  },
+  {
+   "url": "https://www.shalomdc.org/events/?ical=1",
+   "status": 200,
+   "events": 30,
+   "head": "BEGIN:VCALENDAR\r\nVERSION:2.0\r\nPRODID:-//Jewish Federation of Greater Washington - ECPv6.18.4.1//NONSGML v1.0//EN\r\nCALSCALE:GREGORIAN\r\nMETHOD:PUBLISH\r\nX-WR-CALNAME:Jewish Federation of Greater Washington\r\nX-ORIGINAL-URL:https://www.shalomdc.org\r\nX-WR-CALDESC:Events for Jewish Federation of Greater Wa"
+  },
+  {
+   "url": "https://www.shalomdc.org/?ical=1",
+   "status": 200,
+   "events": 30,
+   "head": "BEGIN:VCALENDAR\r\nVERSION:2.0\r\nPRODID:-//Jewish Federation of Greater Washington - ECPv6.18.4.1//NONSGML v1.0//EN\r\nCALSCALE:GREGORIAN\r\nMETHOD:PUBLISH\r\nX-WR-CALNAME:Jewish Federation of Greater Washington\r\nX-ORIGINAL-URL:https://www.shalomdc.org\r\nX-WR-CALDESC:Events for Jewish Federation of Greater Wa"
+  }
+ ],
+ "pages": [
+  {
+   "url": "https://shalomdc.org/organizer/washington-hebrew-congregation",
+   "status": 200,
+   "final_url": "https://www.shalomdc.org/organizer/washington-hebrew-congregation",
+   "title": "Washington Hebrew Congregation - Jewish Federation of Greater Washington",
+   "dates": 9,
+   "jsonld": 6,
+   "jsonld_samples": [
+    {
+     "name": "Caregiver and Me Group",
+     "start": "2026-12-16T09:30:00-05:00",
+     "url": "https://www.shalomdc.org/event/caregiver-and-me-group/2026-12-16/"
+    },
+    {
+     "name": "Amram Scholar Series: Roy Altman, &#8220;Israel on Trial&#8221;",
+     "start": "2026-12-13T09:30:00-05:00",
+     "url": "https://www.shalomdc.org/event/amram-scholar-series-roy-altman-israel-on-trial/"
+    },
+    {
+     "name": "2239 Dreidel After Dark",
+     "start": "2026-12-11T20:00:00-05:00",
+     "url": "https://www.shalomdc.org/event/2239-dreidel-after-dark/"
+    },
+    {
+     "name": "Caregiver and Me Group",
+     "start": "2026-12-09T09:30:00-05:00",
+     "url": "https://www.shalomdc.org/event/caregiver-and-me-group/2026-12-09/"
+    },
+    {
+     "name": "Hanukkah Concert &amp; Carnival with The LeeVees",
+     "start": "2026-12-06T15:00:00-05:00",
+     "url": "https://www.shalomdc.org/event/hanukkah-concert-carnival-with-the-leevees/"
+    }
+   ],
+   "hints": [
+    "https://www.shalomdc.org/feed/",
+    "https://www.shalomdc.org/comments/feed/",
+    "https://www.shalomdc.org/all-events/?ical=1",
+    "https://www.shalomdc.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.shalomdc.org%2Forganizer%2Fwashington-hebrew-congregation%2F",
+    "https://www.shalomdc.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.shalomdc.org%2Forganizer%2Fwashington-hebrew-congregation%2F&format=xml",
+    "https://www.shalomdc.org/wp-json/wp/v2/tribe_organizer/3309",
+    "https://www.shalomdc.org/wp-json/tribe/events/v1/"
+   ],
+   "iframes": [],
+   "event_links": [
+    {
+     "text": "Federal Tax Credit Scholarship Program",
+     "url": "https://www.shalomdc.org/get-involved/families-with-children/day-schools/federal-tax-credit-scholarship-program/"
+    },
+    {
+     "text": "News & Events",
+     "url": "https://www.shalomdc.org/news-and-events/"
+    },
+    {
+     "text": "Community Calendar",
+     "url": "https://www.shalomdc.org/news-and-events/community-calendar/"
+    },
+    {
+     "text": "Federation Events",
+     "url": "https://www.shalomdc.org/news-and-events/federation-events/"
+    },
+    {
+     "text": "Holidays in Greater Washington",
+     "url": "https://www.shalomdc.org/news-and-events/community-calendar/holidays-in-greater-washington/"
+    },
+    {
+     "text": "The Roundup",
+     "url": "https://www.shalomdc.org/news-and-events/the-roundup/"
+    },
+    {
+     "text": "\u00ab All Events",
+     "url": "https://www.shalomdc.org/all-events/"
+    },
+    {
+     "text": "Caregiver and Me Group",
+     "url": "https://www.shalomdc.org/event/caregiver-and-me-group/2026-12-02/"
+    },
+    {
+     "text": "Hanukkah Concert & Carnival with The LeeVees",
+     "url": "https://www.shalomdc.org/event/hanukkah-concert-carnival-with-the-leevees/"
+    },
+    {
+     "text": "Caregiver and Me Group",
+     "url": "https://www.shalomdc.org/event/caregiver-and-me-group/2026-12-09/"
+    },
+    {
+     "text": "2239 Dreidel After Dark",
+     "url": "https://www.shalomdc.org/event/2239-dreidel-after-dark/"
+    },
+    {
+     "text": "Amram Scholar Series: Roy Altman, \u201cIsrael on Trial\u201d",
+     "url": "https://www.shalomdc.org/event/amram-scholar-series-roy-altman-israel-on-trial/"
+    },
+    {
+     "text": "Caregiver and Me Group",
+     "url": "https://www.shalomdc.org/event/caregiver-and-me-group/2026-12-16/"
+    }
+   ],
+   "platform": "wordpress tribe-events [WP Rocket 3.24.2]",
+   "error": ""
+  },
+  {
+   "url": "https://www.shalomdc.org/",
+   "status": 200,
+   "final_url": "https://www.shalomdc.org/",
+   "title": "The Jewish Federation of Greater Washington - Building a Stronger Jewish Future",
+   "dates": 22,
+   "jsonld": 0,
+   "jsonld_samples": [],
+   "hints": [
+    "https://www.shalomdc.org/feed/",
+    "https://www.shalomdc.org/comments/feed/",
+    "https://www.shalomdc.org/all-events/?ical=1",
+    "https://www.shalomdc.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.shalomdc.org%2F",
+    "https://www.shalomdc.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.shalomdc.org%2F&format=xml",
+    "https://www.shalomdc.org/wp-json/wp/v2/pages/14",
+    "https://www.shalomdc.org/wp-json/tribe/events/v1/"
+   ],
+   "iframes": [],
+   "event_links": [
+    {
+     "text": "Federal Tax Credit Scholarship Program",
+     "url": "https://www.shalomdc.org/get-involved/families-with-children/day-schools/federal-tax-credit-scholarship-program/"
+    },
+    {
+     "text": "News & Events",
+     "url": "https://www.shalomdc.org/news-and-events/"
+    },
+    {
+     "text": "Community Calendar",
+     "url": "https://www.shalomdc.org/news-and-events/community-calendar/"
+    },
+    {
+     "text": "Federation Events",
+     "url": "https://www.shalomdc.org/news-and-events/federation-events/"
+    },
+    {
+     "text": "Holidays in Greater Washington",
+     "url": "https://www.shalomdc.org/news-and-events/community-calendar/holidays-in-greater-washington/"
+    },
+    {
+     "text": "The Roundup",
+     "url": "https://www.shalomdc.org/news-and-events/the-roundup/"
+    },
+    {
+     "text": "Read the roundup",
+     "url": "https://www.shalomdc.org/news-and-events/the-roundup/#roundup"
+    },
+    {
+     "text": "",
+     "url": "https://www.shalomdc.org/event/wp-mitzvah-meetup/"
+    },
+    {
+     "text": "",
+     "url": "https://www.shalomdc.org/event/womens-philanthropy-chanukah-celebration/"
+    },
+    {
+     "text": "",
+     "url": "https://www.shalomdc.org/event/a-hanukkah-party-featuring-michael-winograd-and-the-honorable-mentshn/"
+    },
+    {
+     "text": "",
+     "url": "https://www.shalomdc.org/event/wp-meetup-cookie-exchange/"
+    },
+    {
+     "text": "",
+     "url": "https://www.shalomdc.org/event/understanding-israel-secure-jewish-and-democratic-application-deadline/"
+    },
+    {
+     "text": "",
+     "url": "https://www.shalomdc.org/event/understanding-israel-session-1-shaping-the-future-understanding-israel-in-the-region/"
+    },
+    {
+     "text": "",
+     "url": "https://www.shalomdc.org/event/understanding-israel-session-2-this-moment-for-israel/"
+    },
+    {
+     "text": "",
+     "url": "https://www.shalomdc.org/event/understanding-israel-session-3-understanding-the-territorial-issues-in-the-israeli-palestinian-conflict/"
+    },
+    {
+     "text": "",
+     "url": "https://www.shalomdc.org/event/understanding-israel-session-4-the-past-present-and-future-of-israeli-and-palestinian-identities/"
+    }
+   ],
+   "platform": "wordpress tribe-events [WP Rocket 3.24.2]",
+   "error": ""
+  },
+  {
+   "url": "https://www.shalomdc.org/get-involved/families-with-children/day-schools/federal-tax-credit-scholarship-program/",
+   "status": 200,
+   "final_url": "https://www.shalomdc.org/get-involved/families-with-children/day-schools/federal-tax-credit-scholarship-program/",
+   "title": "Federal Tax Credit Scholarship Program - Jewish Federation of Greater Washington",
+   "dates": 2,
+   "jsonld": 0,
+   "jsonld_samples": [],
+   "hints": [
+    "https://www.shalomdc.org/feed/",
+    "https://www.shalomdc.org/comments/feed/",
+    "https://www.shalomdc.org/all-events/?ical=1",
+    "https://www.shalomdc.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.shalomdc.org%2Fget-involved%2Ffamilies-with-children%2Fday-schools%2Ffederal-tax-credit-scholarship-program%2F",
+    "https://www.shalomdc.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.shalomdc.org%2Fget-involved%2Ffamilies-with-children%2Fday-schools%2Ffederal-tax-credit-scholarship-program%2F&format=xml",
+    "https://www.shalomdc.org/wp-json/wp/v2/pages/50124",
+    "https://www.shalomdc.org/wp-json/tribe/events/v1/"
+   ],
+   "iframes": [],
+   "event_links": [
+    {
+     "text": "Giving Tuesday is December 1, but you don't have to wait! Ma",
+     "url": "https://www.shalomdc.org/get-involved/families-with-children/day-schools/federal-tax-credit-scholarship-program/?form=giving-tuesday"
+    },
+    {
+     "text": "News & Events",
+     "url": "https://www.shalomdc.org/news-and-events/"
+    },
+    {
+     "text": "Community Calendar",
+     "url": "https://www.shalomdc.org/news-and-events/community-calendar/"
+    },
+    {
+     "text": "Federation Events",
+     "url": "https://www.shalomdc.org/news-and-events/federation-events/"
+    },
+    {
+     "text": "Holidays in Greater Washington",
+     "url": "https://www.shalomdc.org/news-and-events/community-calendar/holidays-in-greater-washington/"
+    },
+    {
+     "text": "The Roundup",
+     "url": "https://www.shalomdc.org/news-and-events/the-roundup/"
+    },
+    {
+     "text": "Contact us",
+     "url": "https://www.shalomdc.org/get-involved/families-with-children/day-schools/federal-tax-credit-scholarship-program/info@shalomdc.org"
+    }
+   ],
+   "platform": "wordpress tribe-events [WP Rocket 3.24.2]",
+   "error": ""
+  },
+  {
+   "url": "https://www.shalomdc.org/news-and-events/",
+   "status": 200,
+   "final_url": "https://www.shalomdc.org/news-and-events/",
+   "title": "News - Jewish Federation of Greater Washington",
+   "dates": 45,
+   "jsonld": 0,
+   "jsonld_samples": [],
+   "hints": [
+    "https://www.shalomdc.org/feed/",
+    "https://www.shalomdc.org/comments/feed/",
+    "https://www.shalomdc.org/all-events/?ical=1",
+    "https://www.shalomdc.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.shalomdc.org%2Fnews-and-events%2F",
+    "https://www.shalomdc.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.shalomdc.org%2Fnews-and-events%2F&format=xml",
+    "https://www.shalomdc.org/wp-json/wp/v2/pages/29",
+    "https://www.shalomdc.org/wp-json/tribe/events/v1/"
+   ],
+   "iframes": [],
+   "event_links": [
+    {
+     "text": "Giving Tuesday is December 1, but you don't have to wait! Ma",
+     "url": "https://www.shalomdc.org/news-and-events/?form=giving-tuesday"
+    },
+    {
+     "text": "Federal Tax Credit Scholarship Program",
+     "url": "https://www.shalomdc.org/get-involved/families-with-children/day-schools/federal-tax-credit-scholarship-program/"
+    },
+    {
+     "text": "Community Calendar",
+     "url": "https://www.shalomdc.org/news-and-events/community-calendar/"
+    },
+    {
+     "text": "Federation Events",
+     "url": "https://www.shalomdc.org/news-and-events/federation-events/"
+    },
+    {
+     "text": "Holidays in Greater Washington",
+     "url": "https://www.shalomdc.org/news-and-events/community-calendar/holidays-in-greater-washington/"
+    },
+    {
+     "text": "The Roundup",
+     "url": "https://www.shalomdc.org/news-and-events/the-roundup/"
+    }
+   ],
+   "platform": "wordpress tribe-events [WP Rocket 3.24.2]",
+   "error": ""
+  },
+  {
+   "url": "https://www.shalomdc.org/news-and-events/community-calendar/",
+   "status": 200,
+   "final_url": "https://www.shalomdc.org/news-and-events/community-calendar/",
+   "title": "Community Calendar - Jewish Federation of Greater Washington",
+   "dates": 246,
+   "jsonld": 224,
+   "jsonld_samples": [
+    {
+     "name": "Theater J&#8217;s The Flying Lovers of Vitebsk",
+     "start": "2026-12-05T19:30:00-05:00",
+     "url": "https://www.shalomdc.org/event/theater-js-the-flying-lovers-of-vitebsk/2026-12-05/"
+    },
+    {
+     "name": "Theater J&#8217;s Tropical Secrets",
+     "start": "2026-12-05T19:00:00-05:00",
+     "url": "https://www.shalomdc.org/event/theater-js-tropical-secrets/2026-12-05/"
+    },
+    {
+     "name": "A Hanukkah Party featuring Michael Winograd and The Honorable Mentshn",
+     "start": "2026-12-05T18:30:00-05:00",
+     "url": "https://www.shalomdc.org/event/a-hanukkah-party-featuring-michael-winograd-and-the-honorable-mentshn/"
+    },
+    {
+     "name": "Latkes &amp; L\u2019Chaims: A Chanukah Gathering for Our 65+ Community",
+     "start": "2026-12-05T17:00:00-05:00",
+     "url": "https://www.shalomdc.org/event/latkes-lchaims-a-chanukah-gathering-for-our-65-community/"
+    },
+    {
+     "name": "Family-Friendly Chanukah Festival",
+     "start": "2026-12-05T17:00:00-05:00",
+     "url": "https://www.shalomdc.org/event/family-friendly-chanukah-festival/"
+    }
+   ],
+   "hints": [
+    "https://www.shalomdc.org/feed/",
+    "https://www.shalomdc.org/comments/feed/",
+    "https://www.shalomdc.org/all-events/?ical=1",
+    "https://www.shalomdc.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.shalomdc.org%2Fnews-and-events%2Fcommunity-calendar%2F",
+    "https://www.shalomdc.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.shalomdc.org%2Fnews-and-events%2Fcommunity-calendar%2F&format=xml",
+    "https://www.shalomdc.org/wp-json/wp/v2/pages/28441",
+    "https://www.shalomdc.org/wp-json/tribe/events/v1/",
+    "webcal://www.shalomdc.org/?post_type=tribe_events&ical=1&eventDisplay=list",
+    "https://www.shalomdc.org/all-events/month/?shortcode=e00d7d56&ical=1",
+    "https://www.shalomdc.org/all-events/month/?shortcode=e00d7d56&outlook-ical=1#038;ical=1"
+   ],
+   "iframes": [],
+   "event_links": [
+    {
+     "text": "Giving Tuesday is December 1, but you don't have to wait! Ma",
+     "url": "https://www.shalomdc.org/news-and-events/community-calendar/?form=giving-tuesday"
+    },
+    {
+     "text": "Federal Tax Credit Scholarship Program",
+     "url": "https://www.shalomdc.org/get-involved/families-with-children/day-schools/federal-tax-credit-scholarship-program/"
+    },
+    {
+     "text": "News & Events",
+     "url": "https://www.shalomdc.org/news-and-events/"
+    },
+    {
+     "text": "Federation Events",
+     "url": "https://www.shalomdc.org/news-and-events/federation-events/"
+    },
+    {
+     "text": "Holidays in Greater Washington",
+     "url": "https://www.shalomdc.org/news-and-events/community-calendar/holidays-in-greater-washington/"
+    },
+    {
+     "text": "The Roundup",
+     "url": "https://www.shalomdc.org/news-and-events/the-roundup/"
+    },
+    {
+     "text": "submit it for possible inclusion here.",
+     "url": "https://www.shalomdc.org/all-events/community/add/"
+    },
+    {
+     "text": "submit a partnership request here",
+     "url": "https://www.shalomdc.org/news-and-events/partnering-with-federation/"
+    },
+    {
+     "text": "List",
+     "url": "https://www.shalomdc.org/all-events/list/?shortcode=e00d7d56"
+    },
+    {
+     "text": "Month",
+     "url": "https://www.shalomdc.org/all-events/month/?shortcode=e00d7d56"
+    },
+    {
+     "text": "Day",
+     "url": "https://www.shalomdc.org/all-events/today/?shortcode=e00d7d56"
+    },
+    {
+     "text": "Photo",
+     "url": "https://www.shalomdc.org/all-events/photo/?shortcode=e00d7d56"
+    },
+    {
+     "text": "",
+     "url": "https://www.shalomdc.org/all-events/month/2026-10/?shortcode=e00d7d56"
+    },
+    {
+     "text": "",
+     "url": "https://www.shalomdc.org/all-events/month/2026-12/?shortcode=e00d7d56"
+    },
+    {
+     "text": "This Month",
+     "url": "https://www.shalomdc.org/all-events/month/?pagename=news-and-events%2Fcommunity-calendar&shortcode=e00d7d56"
+    },
+    {
+     "text": "1",
+     "url": "https://www.shalomdc.org/all-events/2026-11-01/?shortcode=e00d7d56"
+    },
+    {
+     "text": "BCGW Hope and Healing Gala",
+     "url": "https://www.shalomdc.org/event/bcgw-hope-and-healing-gala/"
+    },
+    {
+     "text": "",
+     "url": "https://www.shalomdc.org/series/womens-philanthropy-fall-community-gatherings/"
+    },
+    {
+     "text": "Women\u2019s Philanthropy Fall Community Gathering \u2022 Arlington, V",
+     "url": "https://www.shalomdc.org/event/womens-philanthropy-fall-community-gathering-2026-va/"
+    },
+    {
+     "text": "Women\u2019s Philanthropy Fall Community Gathering \u2022 Chevy Chase,",
+     "url": "https://www.shalomdc.org/event/womens-philanthropy-welcome-gathering-2026-md/"
+    },
+    {
+     "text": "2",
+     "url": "https://www.shalomdc.org/all-events/2026-11-02/?shortcode=e00d7d56"
+    },
+    {
+     "text": "",
+     "url": "https://www.shalomdc.org/series/break-out-day-camp/"
+    },
+    {
+     "text": "Break Out Day Camp",
+     "url": "https://www.shalomdc.org/event/break-out-day-camp/2026-11-02/"
+    },
+    {
+     "text": "",
+     "url": "https://www.shalomdc.org/series/baby-and-me-yoga/"
+    },
+    {
+     "text": "Baby and Me Yoga",
+     "url": "https://www.shalomdc.org/event/baby-and-me-yoga-108/2026-11-02/"
+    }
+   ],
+   "platform": "wordpress tribe-events shulcloud",
+   "error": ""
+  },
+  {
+   "url": "https://www.shalomdc.org/news-and-events/federation-events/",
+   "status": 200,
+   "final_url": "https://www.shalomdc.org/news-and-events/federation-events/",
+   "title": "Federation Events - Jewish Federation of Greater Washington",
+   "dates": 4,
+   "jsonld": 17,
+   "jsonld_samples": [
+    {
+     "name": "The Network Builders\u2019 Society Reception",
+     "start": "2027-05-20T00:00:00-04:00",
+     "url": "https://www.shalomdc.org/event/the-network-builders-society-reception/"
+    },
+    {
+     "name": "Women&#8217;s Philanthropy Ruby Lion Event",
+     "start": "2027-05-10T00:00:00-04:00",
+     "url": "https://www.shalomdc.org/event/womens-philanthropy-ruby-lion-event/"
+    },
+    {
+     "name": "Spring Cocktails &#038; Conversation with The Network",
+     "start": "2027-04-08T00:00:00-04:00",
+     "url": "https://www.shalomdc.org/event/spring-cocktails-conversation-with-the-network/"
+    },
+    {
+     "name": "Third Annual JShield Security Summit",
+     "start": "2027-03-30T10:00:00-04:00",
+     "url": "https://www.shalomdc.org/event/third-annual-jshield-security-summit/"
+    },
+    {
+     "name": "International Lion of Judah Conference 2027",
+     "start": "2027-02-28T00:00:00-05:00",
+     "url": "https://www.shalomdc.org/event/international-lion-of-judah-conference-2027/"
+    }
+   ],
+   "hints": [
+    "https://www.shalomdc.org/feed/",
+    "https://www.shalomdc.org/comments/feed/",
+    "https://www.shalomdc.org/all-events/?ical=1",
+    "https://www.shalomdc.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.shalomdc.org%2Fnews-and-events%2Ffederation-events%2F",
+    "https://www.shalomdc.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.shalomdc.org%2Fnews-and-events%2Ffederation-events%2F&format=xml",
+    "https://www.shalomdc.org/wp-json/wp/v2/pages/14527",
+    "https://www.shalomdc.org/wp-json/tribe/events/v1/",
+    "webcal://www.shalomdc.org/?post_type=tribe_events&ical=1&eventDisplay=list",
+    "https://www.shalomdc.org/all-events/photo/?shortcode=9e89917b&ical=1",
+    "https://www.shalomdc.org/all-events/photo/?shortcode=9e89917b&outlook-ical=1#038;ical=1"
+   ],
+   "iframes": [],
+   "event_links": [
+    {
+     "text": "Giving Tuesday is December 1, but you don't have to wait! Ma",
+     "url": "https://www.shalomdc.org/news-and-events/federation-events/?form=giving-tuesday"
+    },
+    {
+     "text": "Federal Tax Credit Scholarship Program",
+     "url": "https://www.shalomdc.org/get-involved/families-with-children/day-schools/federal-tax-credit-scholarship-program/"
+    },
+    {
+     "text": "News & Events",
+     "url": "https://www.shalomdc.org/news-and-events/"
+    },
+    {
+     "text": "Community Calendar",
+     "url": "https://www.shalomdc.org/news-and-events/community-calendar/"
+    },
+    {
+     "text": "Holidays in Greater Washington",
+     "url": "https://www.shalomdc.org/news-and-events/community-calendar/holidays-in-greater-washington/"
+    },
+    {
+     "text": "The Roundup",
+     "url": "https://www.shalomdc.org/news-and-events/the-roundup/"
+    },
+    {
+     "text": "List",
+     "url": "https://www.shalomdc.org/all-events/list/?shortcode=9e89917b"
+    },
+    {
+     "text": "Month",
+     "url": "https://www.shalomdc.org/all-events/month/?shortcode=9e89917b"
+    },
+    {
+     "text": "Day",
+     "url": "https://www.shalomdc.org/all-events/today/?shortcode=9e89917b"
+    },
+    {
+     "text": "Photo",
+     "url": "https://www.shalomdc.org/all-events/photo/?shortcode=9e89917b"
+    },
+    {
+     "text": "",
+     "url": "https://www.shalomdc.org/all-events/photo/?pagename=news-and-events%2Ffederation-events&shortcode=9e89917b&eventDisplay=past"
+    },
+    {
+     "text": "Today",
+     "url": "https://www.shalomdc.org/all-events/photo/?pagename=news-and-events%2Ffederation-events&shortcode=9e89917b"
+    },
+    {
+     "text": "WP Mitzvah Meetup",
+     "url": "https://www.shalomdc.org/event/wp-mitzvah-meetup/"
+    },
+    {
+     "text": "Women\u2019s Philanthropy Chanukah Celebration",
+     "url": "https://www.shalomdc.org/event/womens-philanthropy-chanukah-celebration/"
+    },
+    {
+     "text": "A Hanukkah Party featuring Michael Winograd and The Honorabl",
+     "url": "https://www.shalomdc.org/event/a-hanukkah-party-featuring-michael-winograd-and-the-honorable-mentshn/"
+    },
+    {
+     "text": "WP Meetup: Cookie Exchange",
+     "url": "https://www.shalomdc.org/event/wp-meetup-cookie-exchange/"
+    },
+    {
+     "text": "Understanding Israel: Secure, Jewish, and Democratic \u2022 Appli",
+     "url": "https://www.shalomdc.org/event/understanding-israel-secure-jewish-and-democratic-application-deadline/"
+    },
+    {
+     "text": "",
+     "url": "https://www.shalomdc.org/series/understanding-israel-secure-jewish-and-democratic/"
+    },
+    {
+     "text": "Understanding Israel Session 1: Shaping the Future: Understa",
+     "url": "https://www.shalomdc.org/event/understanding-israel-session-1-shaping-the-future-understanding-israel-in-the-region/"
+    },
+    {
+     "text": "Understanding Israel Session 2: This Moment for Israel",
+     "url": "https://www.shalomdc.org/event/understanding-israel-session-2-this-moment-for-israel/"
+    },
+    {
+     "text": "Understanding Israel Session 3: Understanding the Territoria",
+     "url": "https://www.shalomdc.org/event/understanding-israel-session-3-understanding-the-territorial-issues-in-the-israeli-palestinian-conflict/"
+    },
+    {
+     "text": "Understanding Israel Session 4: The Past, Present and Future",
+     "url": "https://www.shalomdc.org/event/understanding-israel-session-4-the-past-present-and-future-of-israeli-and-palestinian-identities/"
+    },
+    {
+     "text": "Understanding Israel Session 5: The Future of the US-Israel ",
+     "url": "https://www.shalomdc.org/event/understanding-israel-session-5-the-future-of-the-us-israel-relationship/"
+    },
+    {
+     "text": "Understanding Israel Session 6: Israel Engagement Rooted in ",
+     "url": "https://www.shalomdc.org/event/understanding-israel-session-6-israel-engagement-rooted-in-data-and-reality/"
+    },
+    {
+     "text": "The Network\u2019s Winter Real Estate Breakfast",
+     "url": "https://www.shalomdc.org/event/the-networks-winter-real-estate-breakfast/"
+    }
+   ],
+   "platform": "wordpress tribe-events",
+   "error": ""
+  }
+ ],
+ "best_page": "https://www.shalomdc.org/news-and-events/community-calendar/"
+}

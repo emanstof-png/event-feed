@@ -1,0 +1,364 @@
+{
+ "row": "169",
+ "name": "Black Studies Book Club (MLK Library)",
+ "seed_url": "https://dclibrary.libnet.info/event/15624105",
+ "programs": "",
+ "access": "",
+ "found": "2026-11-28 03:00Z",
+ "search_hits": [],
+ "search_error": "html.duckduckgo.com Timeout; www.bing.com 0 hits (200, 119123b); lite.duckduckgo.com Timeout",
+ "probes": [
+  {
+   "url": "https://dclibrary.libnet.info/wp-json/tribe/events/v1/events?per_page=10",
+   "status": "HTTPError",
+   "events": 0
+  },
+  {
+   "url": "https://dclibrary.libnet.info/events/?ical=1",
+   "status": 200,
+   "events": 0,
+   "head": "<!doctype html>\n<html lang=\"en\">\n\t<!--Page served by ip-172-31-23-73.us-east-2.compute.internal, 1530 (800c316ae8e4e7541ac5a5fda2a18a9b8d28ab39) -->\n\n\t<head>\n\t\t<meta http-equiv=\"X-UA-Compatible\" content=\"IE=EDGE\" />\n\t\t<title>Events - DC Public Library</title>\n\t\t<link rel=\"shortcut icon\" href=\"/favic"
+  },
+  {
+   "url": "https://dclibrary.libnet.info/?ical=1",
+   "status": 200,
+   "events": 0,
+   "head": "<!DOCTYPE html>\n<html lang=\"en\">\n\t<!--Page served by ip-172-31-36-201.us-east-2.compute.internal, 1530 (800c316ae8e4e7541ac5a5fda2a18a9b8d28ab39) -->\n\n\t<head>\n\t\t<meta http-equiv=\"Content-Type\" content=\"text/html;charset=utf-8\">\n\t\t<meta http-equiv=\"X-UA-Compatible\" content=\"IE=EDGE\">\n\t\t<title>Attend "
+  }
+ ],
+ "pages": [
+  {
+   "url": "https://dclibrary.libnet.info/event/15624105",
+   "status": 200,
+   "final_url": "https://dclibrary.libnet.info/event/15624105",
+   "title": "Black Studies Book Club - DC Public Library",
+   "dates": 801,
+   "jsonld": 1,
+   "jsonld_samples": [
+    {
+     "name": "Black Studies Book Club",
+     "start": "2026-06-06T14:00",
+     "url": "https://dclibrary.libnet.info/event/15624105"
+    }
+   ],
+   "hints": [
+    "https://www.eventbrite.com/o/strong-start-dc-early-intervention-program-16765002241",
+    "https://www.eventbrite.com/e/dc-probate-transferring-property-after-death-tickets-2001396456678?aff=oddtdtcreator"
+   ],
+   "iframes": [
+    "https://www.google.com/maps/embed/v1/place?q=Martin%20Luther%20King%20Jr.%20Memorial%20Library%20-%20Central%20Library,901%20G%20Street%20Northwest,,DC,20001&key=AIzaSyBIswHRc1E1cJ0rOY7JpZIo-KPCh9OMgJY"
+   ],
+   "event_links": [
+    {
+     "text": "Attend an Event",
+     "url": "https://www.dclibrary.org/attend-event"
+    },
+    {
+     "text": "Add to Calendar",
+     "url": "https://calendar-generator.communico.co/attend/15624105"
+    },
+    {
+     "text": "Adults",
+     "url": "https://dclibrary.libnet.info/events?a=Adults"
+    },
+    {
+     "text": "Book Club",
+     "url": "https://dclibrary.libnet.info/events?t=Book+Club"
+    },
+    {
+     "text": "Special Collections",
+     "url": "https://dclibrary.libnet.info/events?t=Special+Collections"
+    },
+    {
+     "text": "Tai Chi  - Gentle Tai Chi",
+     "url": "https://dclibrary.libnet.info/event/15386578"
+    },
+    {
+     "text": "Gentle Yoga for Seniors  - IONA Partner Program",
+     "url": "https://dclibrary.libnet.info/event/17738541"
+    },
+    {
+     "text": "Chair Yoga with Beth  - Chair Yoga for adults of all ages",
+     "url": "https://dclibrary.libnet.info/event/17865481"
+    },
+    {
+     "text": "Play Day",
+     "url": "https://dclibrary.libnet.info/event/17976472"
+    },
+    {
+     "text": "Tech 101",
+     "url": "https://dclibrary.libnet.info/event/17717934"
+    },
+    {
+     "text": "Here's the Stitchuation!  - Come stitch with us \u2013 one thread",
+     "url": "https://dclibrary.libnet.info/event/17163769"
+    },
+    {
+     "text": "Movie Matinee",
+     "url": "https://dclibrary.libnet.info/event/17842163"
+    },
+    {
+     "text": "Shepherd Park Coat Drive   - Friends of Shepherd Park Coat D",
+     "url": "https://dclibrary.libnet.info/event/17670607"
+    },
+    {
+     "text": "Friends Book Sale  - So Many Items for Sale: Books, CD's, Dv",
+     "url": "https://dclibrary.libnet.info/event/16028346"
+    },
+    {
+     "text": "Georgetown Library English Conversation Club  - A weekly con",
+     "url": "https://dclibrary.libnet.info/event/16193713"
+    },
+    {
+     "text": "English Conversation Group",
+     "url": "https://dclibrary.libnet.info/event/17315369"
+    },
+    {
+     "text": "Beginner Braille",
+     "url": "https://dclibrary.libnet.info/event/17675760"
+    },
+    {
+     "text": "Books and Boxing",
+     "url": "https://dclibrary.libnet.info/event/17864151"
+    },
+    {
+     "text": "Yoga With NZINGA  - Chair Yoga for Seniors",
+     "url": "https://dclibrary.libnet.info/event/15794877"
+    },
+    {
+     "text": "Family Story Time With ASL Interpreter",
+     "url": "https://dclibrary.libnet.info/event/15280031"
+    },
+    {
+     "text": "Coffee & Conversation  - A Conversation Circle",
+     "url": "https://dclibrary.libnet.info/event/15930357"
+    },
+    {
+     "text": "Preschool Story Time",
+     "url": "https://dclibrary.libnet.info/event/17589202"
+    },
+    {
+     "text": "Typing Practice  - Improve Your Typing Skills",
+     "url": "https://dclibrary.libnet.info/event/17674272"
+    },
+    {
+     "text": "Family Story Time - For Ages 0-5",
+     "url": "https://dclibrary.libnet.info/event/17701495"
+    },
+    {
+     "text": "Music & Movement  - It\u2019s a dance party in the Children\u2019s Roo",
+     "url": "https://dclibrary.libnet.info/event/17848869"
+    }
+   ],
+   "platform": "drupal eventbrite",
+   "error": ""
+  },
+  {
+   "url": "https://dclibrary.libnet.info/",
+   "status": 200,
+   "final_url": "https://dclibrary.libnet.info/",
+   "title": "Attend / Reserve - DC Public Library",
+   "dates": 0,
+   "jsonld": 0,
+   "jsonld_samples": [],
+   "hints": [],
+   "iframes": [],
+   "event_links": [
+    {
+     "text": "Attend an Event",
+     "url": "https://www.dclibrary.org/attend-event"
+    },
+    {
+     "text": "View Events",
+     "url": "https://dclibrary.libnet.info/events"
+    }
+   ],
+   "platform": "drupal",
+   "error": ""
+  },
+  {
+   "url": "https://dclibrary.libnet.info/events?a=Adults",
+   "status": 200,
+   "final_url": "https://dclibrary.libnet.info/events?a=Adults",
+   "title": "Events - DC Public Library",
+   "dates": 0,
+   "jsonld": 0,
+   "jsonld_samples": [],
+   "hints": [],
+   "iframes": [],
+   "event_links": [
+    {
+     "text": "Attend an Event",
+     "url": "https://www.dclibrary.org/attend-event"
+    }
+   ],
+   "platform": "drupal",
+   "error": ""
+  },
+  {
+   "url": "https://dclibrary.libnet.info/events?t=Book+Club",
+   "status": 200,
+   "final_url": "https://dclibrary.libnet.info/events?t=Book+Club",
+   "title": "Events - DC Public Library",
+   "dates": 0,
+   "jsonld": 0,
+   "jsonld_samples": [],
+   "hints": [],
+   "iframes": [],
+   "event_links": [
+    {
+     "text": "Attend an Event",
+     "url": "https://www.dclibrary.org/attend-event"
+    }
+   ],
+   "platform": "drupal",
+   "error": ""
+  },
+  {
+   "url": "https://dclibrary.libnet.info/events?t=Special+Collections",
+   "status": 200,
+   "final_url": "https://dclibrary.libnet.info/events?t=Special+Collections",
+   "title": "Events - DC Public Library",
+   "dates": 0,
+   "jsonld": 0,
+   "jsonld_samples": [],
+   "hints": [],
+   "iframes": [],
+   "event_links": [
+    {
+     "text": "Attend an Event",
+     "url": "https://www.dclibrary.org/attend-event"
+    }
+   ],
+   "platform": "drupal",
+   "error": ""
+  },
+  {
+   "url": "https://dclibrary.libnet.info/event/15386578",
+   "status": 200,
+   "final_url": "https://dclibrary.libnet.info/event/15386578",
+   "title": "Tai Chi - DC Public Library",
+   "dates": 798,
+   "jsonld": 1,
+   "jsonld_samples": [
+    {
+     "name": "Tai Chi",
+     "start": "2026-11-27T11:00",
+     "url": "https://dclibrary.libnet.info/event/15386578"
+    }
+   ],
+   "hints": [
+    "https://www.eventbrite.com/o/strong-start-dc-early-intervention-program-16765002241",
+    "https://www.eventbrite.com/e/dc-probate-transferring-property-after-death-tickets-2001396456678?aff=oddtdtcreator"
+   ],
+   "iframes": [
+    "https://www.google.com/maps/embed/v1/place?q=Palisades%20Neighborhood%20Library,4901%20V%20Street%20Northwest,,DC,20007&key=AIzaSyBIswHRc1E1cJ0rOY7JpZIo-KPCh9OMgJY"
+   ],
+   "event_links": [
+    {
+     "text": "Attend an Event",
+     "url": "https://www.dclibrary.org/attend-event"
+    },
+    {
+     "text": "Seniors",
+     "url": "https://dclibrary.libnet.info/events?a=Seniors"
+    },
+    {
+     "text": "Age-Friendly DC",
+     "url": "https://dclibrary.libnet.info/events?t=Age-Friendly+DC"
+    },
+    {
+     "text": "Health",
+     "url": "https://dclibrary.libnet.info/events?t=Health"
+    },
+    {
+     "text": "Tai Chi  - Gentle Tai Chi",
+     "url": "https://dclibrary.libnet.info/event/15386578"
+    },
+    {
+     "text": "Gentle Yoga for Seniors  - IONA Partner Program",
+     "url": "https://dclibrary.libnet.info/event/17738541"
+    },
+    {
+     "text": "Chair Yoga with Beth  - Chair Yoga for adults of all ages",
+     "url": "https://dclibrary.libnet.info/event/17865481"
+    },
+    {
+     "text": "Play Day",
+     "url": "https://dclibrary.libnet.info/event/17976472"
+    },
+    {
+     "text": "Tech 101",
+     "url": "https://dclibrary.libnet.info/event/17717934"
+    },
+    {
+     "text": "Here's the Stitchuation!  - Come stitch with us \u2013 one thread",
+     "url": "https://dclibrary.libnet.info/event/17163769"
+    },
+    {
+     "text": "Movie Matinee",
+     "url": "https://dclibrary.libnet.info/event/17842163"
+    },
+    {
+     "text": "Shepherd Park Coat Drive   - Friends of Shepherd Park Coat D",
+     "url": "https://dclibrary.libnet.info/event/17670607"
+    },
+    {
+     "text": "Friends Book Sale  - So Many Items for Sale: Books, CD's, Dv",
+     "url": "https://dclibrary.libnet.info/event/16028346"
+    },
+    {
+     "text": "Georgetown Library English Conversation Club  - A weekly con",
+     "url": "https://dclibrary.libnet.info/event/16193713"
+    },
+    {
+     "text": "English Conversation Group",
+     "url": "https://dclibrary.libnet.info/event/17315369"
+    },
+    {
+     "text": "Beginner Braille",
+     "url": "https://dclibrary.libnet.info/event/17675760"
+    },
+    {
+     "text": "Books and Boxing",
+     "url": "https://dclibrary.libnet.info/event/17864151"
+    },
+    {
+     "text": "Yoga With NZINGA  - Chair Yoga for Seniors",
+     "url": "https://dclibrary.libnet.info/event/15794877"
+    },
+    {
+     "text": "Family Story Time With ASL Interpreter",
+     "url": "https://dclibrary.libnet.info/event/15280031"
+    },
+    {
+     "text": "Coffee & Conversation  - A Conversation Circle",
+     "url": "https://dclibrary.libnet.info/event/15930357"
+    },
+    {
+     "text": "Preschool Story Time",
+     "url": "https://dclibrary.libnet.info/event/17589202"
+    },
+    {
+     "text": "Typing Practice  - Improve Your Typing Skills",
+     "url": "https://dclibrary.libnet.info/event/17674272"
+    },
+    {
+     "text": "Family Story Time - For Ages 0-5",
+     "url": "https://dclibrary.libnet.info/event/17701495"
+    },
+    {
+     "text": "Music & Movement  - It\u2019s a dance party in the Children\u2019s Roo",
+     "url": "https://dclibrary.libnet.info/event/17848869"
+    },
+    {
+     "text": "Play Day",
+     "url": "https://dclibrary.libnet.info/event/17976476"
+    }
+   ],
+   "platform": "drupal eventbrite",
+   "error": ""
+  }
+ ],
+ "best_page": "https://dclibrary.libnet.info/event/15624105"
+}

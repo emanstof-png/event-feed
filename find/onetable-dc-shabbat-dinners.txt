@@ -1,5 +1,5 @@
 OneTable (DC Shabbat dinners)
 best page: https://dinners.onetable.org/landing/dc_metro_area (status 200, 0 date strings, 0 JSON-LD events)
-fetched 2026-11-28 01:52Z
+fetched 2026-11-28 02:48Z
 
 OneTable | A New Way To Friday

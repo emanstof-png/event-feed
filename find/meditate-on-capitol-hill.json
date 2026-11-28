@@ -4,9 +4,9 @@
  "seed_url": "https://meetup.com/meditate-on-capitol-hill-washington-dc",
  "programs": "",
  "access": "",
- "found": "2026-11-28 01:52Z",
+ "found": "2026-11-28 02:48Z",
  "search_hits": [],
- "search_error": "html.duckduckgo.com 0 hits (202, 15172b); www.bing.com 0 hits (200, 133881b); lite.duckduckgo.com 0 hits (202, 15178b)",
+ "search_error": "html.duckduckgo.com 0 hits (202, 15166b); www.bing.com 0 hits (200, 161747b); lite.duckduckgo.com 0 hits (202, 15172b)",
  "probes": [
   {
    "url": "https://www.meetup.com/wp-json/tribe/events/v1/events?per_page=10",
@@ -85,29 +85,29 @@
    "jsonld": 12,
    "jsonld_samples": [
     {
-     "name": "Tempe Library Improv Club",
-     "start": "2026-12-03T01:00:00.000Z",
-     "url": "https://www.meetup.com/tempe-public-library/events/317299346/"
+     "name": "Single and Mingles First Event @ Lachele\u2019s on 6th",
+     "start": "2026-12-04T00:00:00.000Z",
+     "url": "https://www.meetup.com/meetup-group-midaqumd/events/317309118/"
     },
     {
-     "name": "Board Game Cafe",
-     "start": "2026-12-01T00:30:00.000Z",
-     "url": "https://www.meetup.com/tempe-public-library/events/317147027/"
+     "name": "Relax, at Starbucks in Clive",
+     "start": "2026-11-28T15:00:00.000Z",
+     "url": "https://www.meetup.com/relax-its-just-coffee/events/317440391/"
     },
     {
-     "name": "AI Psychosis: Sorting Real Risk from Media Hype",
-     "start": "2026-12-18T01:00:00.000Z",
-     "url": "https://www.meetup.com/azemergingtech/events/315041459/"
+     "name": "Wordle Solving Strategies in Rust and Python",
+     "start": "2026-12-01T23:30:00.000Z",
+     "url": "https://www.meetup.com/pyowa-iowa-python-user-group/events/317271099/"
     },
     {
-     "name": "Saturday Coffee @ Kahvi",
-     "start": "2026-11-28T19:00:00.000Z",
-     "url": "https://www.meetup.com/coffee-collective/events/317446147/"
+     "name": "Being Social #FridayEve",
+     "start": "2026-12-04T00:00:00.000Z",
+     "url": "https://www.meetup.com/being-social-meetup/events/317508371/"
     },
     {
-     "name": "Phoenix Tech Holiday Networking 2-Year Anniversary Celebration!",
-     "start": "2026-12-10T00:30:00.000Z",
-     "url": "https://www.meetup.com/phoenix-tech-group/events/317305723/"
+     "name": "Hike at Purple Martin Lake",
+     "start": "2026-12-05T15:00:00.000Z",
+     "url": "https://www.meetup.com/centering-nature-walks/events/317459421/"
     }
    ],
    "hints": [
@@ -134,66 +134,66 @@
     "https://www.meetup.com/_next/static/css/4f3c5c8e994eb55f.css",
     "https://www.meetup.com/_next/static/css/aa6c4640b6f2d0a7.css",
     "https://www.meetup.com/register/",
-    "https://www.meetup.com/find/?source=EVENTS&eventType=inPerson&sortField=DATETIME&location=us--az--Paradise+Valley",
-    "https://www.meetup.com/ascended-masters-study-inner-growth/events/317497416/?eventOrigin=home_logged_out_near_location"
+    "https://www.meetup.com/find/?source=EVENTS&eventType=inPerson&sortField=DATETIME&location=us--ia--Windsor+Heights",
+    "https://www.meetup.com/devopsdsm/events/317271205/?eventOrigin=home_logged_out_near_location"
    ],
    "iframes": [],
    "event_links": [
     {
-     "text": "Free Welcome Gathering: An Evening of Wonder & Connection We",
-     "url": "https://www.meetup.com/ascended-masters-study-inner-growth/events/317497416/?eventOrigin=home_logged_out_near_location"
+     "text": "Free NixOS: Functional Programming for Your Operating System",
+     "url": "https://www.meetup.com/devopsdsm/events/317271205/?eventOrigin=home_logged_out_near_location"
     },
     {
-     "text": "Free Christmas Party - Ugly Sweater Wed, Dec 16 \u00b7 1:00 AM UT",
-     "url": "https://www.meetup.com/the-entrepreneur-social/events/317491104/?eventOrigin=home_logged_out_near_location"
+     "text": "Free Hybrid .NET@ Night- GitHub Copilot: from Prompt to Pull",
+     "url": "https://www.meetup.com/iadnug/events/317493551/?eventOrigin=home_logged_out_near_location"
     },
     {
-     "text": "Free AZ OFFLINE MIXER Wed, Dec 2 \u00b7 1:00 AM UTC by AZ OFFLINE",
-     "url": "https://www.meetup.com/az-offline/events/317361166/?eventOrigin=home_logged_out_near_location"
+     "text": "Free Celebrate the season of at Exile's Snow Globe with Whit",
+     "url": "https://www.meetup.com/waukee-wine-tasting-group/events/316655078/?eventOrigin=home_logged_out_near_location"
     },
     {
-     "text": "Free Phoenix Tech Holiday Networking 2-Year Anniversary Cele",
-     "url": "https://www.meetup.com/phoenix-tech-group/events/317305723/?eventOrigin=home_logged_out_near_location"
+     "text": "Free Hike at Purple Martin Lake Sat, Dec 5 \u00b7 3:00 PM UTC by ",
+     "url": "https://www.meetup.com/centering-nature-walks/events/317459421/?eventOrigin=home_logged_out_near_location"
     },
     {
-     "text": "Free Saturday Coffee @ Kahvi Sat, Nov 28 \u00b7 7:00 PM UTC by Co",
-     "url": "https://www.meetup.com/coffee-collective/events/317446147/?eventOrigin=home_logged_out_near_location"
+     "text": "Free Being Social #FridayEve Fri, Dec 4 \u00b7 12:00 AM UTC by Be",
+     "url": "https://www.meetup.com/being-social-meetup/events/317508371/?eventOrigin=home_logged_out_near_location"
     },
     {
-     "text": "Free AI Psychosis: Sorting Real Risk from Media Hype Fri, De",
-     "url": "https://www.meetup.com/azemergingtech/events/315041459/?eventOrigin=home_logged_out_near_location"
+     "text": "Free Wordle Solving Strategies in Rust and Python Tue, Dec 1",
+     "url": "https://www.meetup.com/pyowa-iowa-python-user-group/events/317271099/?eventOrigin=home_logged_out_near_location"
     },
     {
-     "text": "Free Board Game Cafe Tue, Dec 1 \u00b7 12:30 AM UTC by Tempe Publ",
-     "url": "https://www.meetup.com/tempe-public-library/events/317147027/?eventOrigin=home_logged_out_near_location"
+     "text": "Free Relax, at Starbucks in Clive Sat, Nov 28 \u00b7 3:00 PM UTC ",
+     "url": "https://www.meetup.com/relax-its-just-coffee/events/317440391/?eventOrigin=home_logged_out_near_location"
     },
     {
-     "text": "Free Tempe Library Improv Club Thu, Dec 3 \u00b7 1:00 AM UTC by T",
-     "url": "https://www.meetup.com/tempe-public-library/events/317299346/?eventOrigin=home_logged_out_near_location"
+     "text": "Free Single and Mingles First Event @ Lachele\u2019s on 6th Fri, ",
+     "url": "https://www.meetup.com/meetup-group-midaqumd/events/317309118/?eventOrigin=home_logged_out_near_location"
     },
     {
      "text": "See all events",
-     "url": "https://www.meetup.com/find/?source=EVENTS&eventType=online&customStartDate=2026-11-27T20%3A18%3A48-05%3A00&customEndDate=2026-11-28T23%3A59%3A59-05%3A00&location=us--az--Paradise+Valley"
+     "url": "https://www.meetup.com/find/?source=EVENTS&eventType=online&customStartDate=2026-11-27T21%3A39%3A44-05%3A00&customEndDate=2026-11-28T23%3A59%3A59-05%3A00&location=us--ia--Windsor+Heights"
     },
     {
-     "text": "Free FREE Bipolar & Depression Peer-Run Support Group Sat, N",
-     "url": "https://www.meetup.com/free-depression-bipolar-support-peer-run-group/events/317335673/?eventOrigin=home_logged_out_online"
+     "text": "Free \ud83d\udde3\ufe0f English Practice | Meet Friends (Professional Host) ",
+     "url": "https://www.meetup.com/winnipeg-english/events/317335963/?eventOrigin=home_logged_out_online"
     },
     {
-     "text": "Free FREE DAILY Online 30-minute Meditation Session Sat, Nov",
-     "url": "https://www.meetup.com/himalayan-samarpan-meditation/events/317533666/?eventOrigin=home_logged_out_online"
+     "text": "Free Accountability & Movement Week Sat, Nov 28 \u00b7 5:00 PM UT",
+     "url": "https://www.meetup.com/mountain-view-women-ending-emotional-eating-group/events/317515955/?eventOrigin=home_logged_out_online"
     },
     {
-     "text": "Free Hell Yeah! It's Game Night Sat, Nov 28 \u00b7 2:30 AM UTC \u00b7 ",
-     "url": "https://www.meetup.com/the-atheist-odyssey/events/317323937/?eventOrigin=home_logged_out_online"
+     "text": "Free AI for Developers: Productivity, Building, and Dev Setu",
+     "url": "https://www.meetup.com/the-ubuntu-techhive-north-america/events/316847250/?eventOrigin=home_logged_out_online"
     },
     {
-     "text": "Free Midweek Mind Reset  Sat, Nov 28 \u00b7 2:30 AM UTC \u00b7 Online ",
-     "url": "https://www.meetup.com/secrets-for-higher-dimensional-living/events/317320897/?eventOrigin=home_logged_out_online"
+     "text": "Free \u2728 Saturday Sparkle Spree: Let\u2019s Clean Together Sat, Nov",
+     "url": "https://www.meetup.com/thatexactly/events/317547264/?eventOrigin=home_logged_out_online"
     },
     {
      "text": "Discover events and groups See who's hosting local events fo",
-     "url": "https://www.meetup.com/find/?location=us--az--Paradise+Valley"
+     "url": "https://www.meetup.com/find/?location=us--ia--Windsor+Heights"
     },
     {
      "text": "Start a group to host events Create your own Meetup group, a",
@@ -217,32 +217,32 @@
    "final_url": "https://www.meetup.com/find/?source=EVENTS",
    "title": "Find Events & Groups | Meetup",
    "dates": 8,
-   "jsonld": 10,
+   "jsonld": 11,
    "jsonld_samples": [
     {
-     "name": "\ud83e\udd99 RESCHEDULED: Alpacas & Gal Pals 40+\u2014  2 Days After Thanksgiving Adventure!",
-     "start": "2026-11-28T16:00:00.000Z",
-     "url": "https://www.meetup.com/gal-pals-40-central-jersey/events/317080503/"
+     "name": "Gratitude",
+     "start": "2026-11-28T03:00:00.000Z",
+     "url": "https://www.meetup.com/self-society/events/316093072/"
     },
     {
-     "name": "Winter Accessories Drive",
-     "start": "2026-12-10T23:00:00.000Z",
-     "url": "https://www.meetup.com/womens-empowerment-of-princeton/events/317137264/"
+     "name": "Breaking Models \ud83d\udea8AI Security",
+     "start": "2026-11-28T22:30:00.000Z",
+     "url": "https://www.meetup.com/hackerdojo/events/316465042/"
     },
     {
-     "name": "Ladies Sip and Shop For The Holidays! ",
-     "start": "2026-12-04T21:30:00.000Z",
-     "url": "https://www.meetup.com/princeton-vip-s-local-events-throughout-central-nj/events/317078585/"
+     "name": "Young Professionals Mixer Meetup",
+     "start": "2026-12-10T03:00:00.000Z",
+     "url": "https://www.meetup.com/bay-area-social-networking-group/events/317365797/"
     },
     {
-     "name": "Tis The Season! Eddie V\u2019s Holiday Happy Hour \ud83e\udd42\ud83c\udfbc\ud83c\udf84\ud83e\ude85\u26c4\ufe0f\ud83c\udf81",
-     "start": "2026-12-08T21:30:00.000Z",
-     "url": "https://www.meetup.com/princeton-vip-s-local-events-throughout-central-nj/events/316478631/"
+     "name": "Dinner & Street Music Fest in Los Altos Downtown!",
+     "start": "2026-12-05T02:00:00.000Z",
+     "url": "https://www.meetup.com/i-wanna-do-it-but-not-alone/events/317324059/"
     },
     {
-     "name": "\u2615 Casual Coffee Connections at Jersey Girl Cafe \u2615",
-     "start": "2026-11-29T16:30:00.000Z",
-     "url": "https://www.meetup.com/trying-our-best-to-adult-central-nj-20s-30s-social-club/events/317302755/"
+     "name": "Singles' Coffee Mixer | Saturday | 3 PM | Maison Alyz\u00e9e, Mountain View",
+     "start": "2026-12-05T23:00:00.000Z",
+     "url": "https://www.meetup.com/zelo-chat/events/314210374/"
     }
    ],
    "hints": [
@@ -254,51 +254,51 @@
     "https://www.meetup.com/find/",
     "https://www.meetup.com/_next/static/css/4f3c5c8e994eb55f.css",
     "https://www.meetup.com/_next/static/css/873f7fff7cff85a1.css",
-    "https://www.meetup.com/quantum-driven-new-jersey/events/317387952/?recId=ecbe9e48-8ef1-4ccd-a5e4-80164b959f52&recSource=ml-popular-events-nearby-offline&searchId=7e5818c8-e7c8-4052-8ab0-3052325f34f7&eventOrigin=find_page%24all",
-    "https://www.meetup.com/sociallyy/events/316742654/?recId=ecbe9e48-8ef1-4ccd-a5e4-80164b959f52&recSource=ml-popular-events-nearby-offline&searchId=7e5818c8-e7c8-4052-8ab0-3052325f34f7&eventOrigin=find_page%24all",
-    "https://www.meetup.com/ieee-princeton-central-jersey-section/events/317447199/?recId=ecbe9e48-8ef1-4ccd-a5e4-80164b959f52&recSource=ml-popular-events-nearby-offline&searchId=7e5818c8-e7c8-4052-8ab0-3052325f34f7&eventOrigin=find_page%24all",
-    "https://www.meetup.com/anti-racism-international-usa-canada-and-europe/events/317526272/?recId=ecbe9e48-8ef1-4ccd-a5e4-80164b959f52&recSource=ml-popular-events-nearby-online&searchId=7e5818c8-e7c8-4052-8ab0-3052325f34f7&eventOrigin=find_page%24all",
-    "https://www.meetup.com/princeton-fine-dining-club/events/317147977/?recId=ecbe9e48-8ef1-4ccd-a5e4-80164b959f52&recSource=ml-popular-events-nearby-offline&searchId=7e5818c8-e7c8-4052-8ab0-3052325f34f7&eventOrigin=find_page%24all",
-    "https://www.meetup.com/trying-our-best-to-adult-central-nj-20s-30s-social-club/events/317302755/?recId=ecbe9e48-8ef1-4ccd-a5e4-80164b959f52&recSource=ml-popular-events-nearby-offline&searchId=7e5818c8-e7c8-4052-8ab0-3052325f34f7&eventOrigin=find_page%24all",
-    "https://www.meetup.com/princeton-vip-s-local-events-throughout-central-nj/events/316478631/?recId=ecbe9e48-8ef1-4ccd-a5e4-80164b959f52&recSource=ml-popular-events-nearby-offline&searchId=7e5818c8-e7c8-4052-8ab0-3052325f34f7&eventOrigin=find_page%24all",
-    "https://www.meetup.com/princeton-vip-s-local-events-throughout-central-nj/events/317078585/?recId=ecbe9e48-8ef1-4ccd-a5e4-80164b959f52&recSource=ml-popular-events-nearby-offline&searchId=7e5818c8-e7c8-4052-8ab0-3052325f34f7&eventOrigin=find_page%24all"
+    "https://www.meetup.com/the-wondering-hour/events/317559328/?recId=17d5f5f8-8356-4d35-acc1-2b77fb8ea85d&recSource=ml-popular-events-nearby-new-chapter-injected&searchId=7bb79737-2f99-40e1-a2ac-f2376140456f&eventOrigin=find_page%24all",
+    "https://www.meetup.com/bay-area-active-social-20s-30s/events/317193494/?recId=17d5f5f8-8356-4d35-acc1-2b77fb8ea85d&recSource=ml-popular-events-nearby-offline&searchId=7bb79737-2f99-40e1-a2ac-f2376140456f&eventOrigin=find_page%24all",
+    "https://www.meetup.com/singles-mingle-getting-people-together/events/317024482/?recId=17d5f5f8-8356-4d35-acc1-2b77fb8ea85d&recSource=ml-popular-events-nearby-offline&searchId=7bb79737-2f99-40e1-a2ac-f2376140456f&eventOrigin=find_page%24all",
+    "https://www.meetup.com/i-wanna-do-it-but-not-alone/events/317583784/?recId=17d5f5f8-8356-4d35-acc1-2b77fb8ea85d&recSource=ml-popular-events-nearby-offline&searchId=7bb79737-2f99-40e1-a2ac-f2376140456f&eventOrigin=find_page%24all",
+    "https://www.meetup.com/how-to-take-control/events/317453293/?recId=17d5f5f8-8356-4d35-acc1-2b77fb8ea85d&recSource=ml-popular-events-nearby-online&searchId=7bb79737-2f99-40e1-a2ac-f2376140456f&eventOrigin=find_page%24all",
+    "https://www.meetup.com/bay-area-active-social-20s-30s/events/317543718/?recId=17d5f5f8-8356-4d35-acc1-2b77fb8ea85d&recSource=ml-popular-events-nearby-offline&searchId=7bb79737-2f99-40e1-a2ac-f2376140456f&eventOrigin=find_page%24all",
+    "https://www.meetup.com/zelo-chat/events/314210374/?recId=17d5f5f8-8356-4d35-acc1-2b77fb8ea85d&recSource=ml-popular-events-nearby-offline&searchId=7bb79737-2f99-40e1-a2ac-f2376140456f&eventOrigin=find_page%24all",
+    "https://www.meetup.com/i-wanna-do-it-but-not-alone/events/317324059/?recId=17d5f5f8-8356-4d35-acc1-2b77fb8ea85d&recSource=ml-popular-events-nearby-offline&searchId=7bb79737-2f99-40e1-a2ac-f2376140456f&eventOrigin=find_page%24all"
    ],
    "iframes": [],
    "event_links": [
     {
-     "text": "Pasqal (Quantum Computing Hardware and Software) Tue, Dec 15",
-     "url": "https://www.meetup.com/quantum-driven-new-jersey/events/317387952/?recId=ecbe9e48-8ef1-4ccd-a5e4-80164b959f52&recSource=ml-popular-events-nearby-offline&searchId=7e5818c8-e7c8-4052-8ab0-3052325f34f7&eventOrigin=find_page%24all"
+     "text": "5 seats left The Age of Aquarius & our transition from Pisce",
+     "url": "https://www.meetup.com/the-wondering-hour/events/317559328/?recId=17d5f5f8-8356-4d35-acc1-2b77fb8ea85d&recSource=ml-popular-events-nearby-new-chapter-injected&searchId=7bb79737-2f99-40e1-a2ac-f2376140456f&eventOrigin=find_page%24all"
     },
     {
-     "text": "Waitlist The Night Before The Orchestra Played. \ud83c\udfb6\ud83c\udfbc\ud83c\udfbb Sun, Dec",
-     "url": "https://www.meetup.com/sociallyy/events/316742654/?recId=ecbe9e48-8ef1-4ccd-a5e4-80164b959f52&recSource=ml-popular-events-nearby-offline&searchId=7e5818c8-e7c8-4052-8ab0-3052325f34f7&eventOrigin=find_page%24all"
+     "text": "Board Games in Mountain View Sat, Nov 28 \u00b7 5:30 PM PST by Ba",
+     "url": "https://www.meetup.com/bay-area-active-social-20s-30s/events/317193494/?recId=17d5f5f8-8356-4d35-acc1-2b77fb8ea85d&recSource=ml-popular-events-nearby-offline&searchId=7bb79737-2f99-40e1-a2ac-f2376140456f&eventOrigin=find_page%24all"
     },
     {
-     "text": "ACM / IEEE Computer Society: \"Writing Safe and Efficient C++",
-     "url": "https://www.meetup.com/ieee-princeton-central-jersey-section/events/317447199/?recId=ecbe9e48-8ef1-4ccd-a5e4-80164b959f52&recSource=ml-popular-events-nearby-offline&searchId=7e5818c8-e7c8-4052-8ab0-3052325f34f7&eventOrigin=find_page%24all"
+     "text": "Singles Mingle @ The Office Bar in Willow Glen 21+ FREE ENTR",
+     "url": "https://www.meetup.com/singles-mingle-getting-people-together/events/317024482/?recId=17d5f5f8-8356-4d35-acc1-2b77fb8ea85d&recSource=ml-popular-events-nearby-offline&searchId=7bb79737-2f99-40e1-a2ac-f2376140456f&eventOrigin=find_page%24all"
     },
     {
-     "text": "8 seats left Trauma-Informed Care: Understanding the Impact ",
-     "url": "https://www.meetup.com/anti-racism-international-usa-canada-and-europe/events/317526272/?recId=ecbe9e48-8ef1-4ccd-a5e4-80164b959f52&recSource=ml-popular-events-nearby-online&searchId=7e5818c8-e7c8-4052-8ab0-3052325f34f7&eventOrigin=find_page%24all"
+     "text": "\u2728 50th Festival of Lights Parade \u2014 Let's Celebrate the Holid",
+     "url": "https://www.meetup.com/i-wanna-do-it-but-not-alone/events/317583784/?recId=17d5f5f8-8356-4d35-acc1-2b77fb8ea85d&recSource=ml-popular-events-nearby-offline&searchId=7bb79737-2f99-40e1-a2ac-f2376140456f&eventOrigin=find_page%24all"
     },
     {
-     "text": "Pizza & Wine at Hopewell Valley Vineyards Sun, Dec 6 \u00b7 2:30 ",
-     "url": "https://www.meetup.com/princeton-fine-dining-club/events/317147977/?recId=ecbe9e48-8ef1-4ccd-a5e4-80164b959f52&recSource=ml-popular-events-nearby-offline&searchId=7e5818c8-e7c8-4052-8ab0-3052325f34f7&eventOrigin=find_page%24all"
+     "text": "Trust & Find Love Again! Loss of Love & Loneliness Can be a ",
+     "url": "https://www.meetup.com/how-to-take-control/events/317453293/?recId=17d5f5f8-8356-4d35-acc1-2b77fb8ea85d&recSource=ml-popular-events-nearby-online&searchId=7bb79737-2f99-40e1-a2ac-f2376140456f&eventOrigin=find_page%24all"
     },
     {
-     "text": "\u2615 Casual Coffee Connections at Jersey Girl Cafe \u2615 Sun, Nov 2",
-     "url": "https://www.meetup.com/trying-our-best-to-adult-central-nj-20s-30s-social-club/events/317302755/?recId=ecbe9e48-8ef1-4ccd-a5e4-80164b959f52&recSource=ml-popular-events-nearby-offline&searchId=7e5818c8-e7c8-4052-8ab0-3052325f34f7&eventOrigin=find_page%24all"
+     "text": "Seratonin Saturdays \ud83c\udf84\ud83d\udea6\ud83e\uddd1\ud83c\udffd\u200d\ud83c\udf84: Tamale Bar, Holiday Lights, Chri",
+     "url": "https://www.meetup.com/bay-area-active-social-20s-30s/events/317543718/?recId=17d5f5f8-8356-4d35-acc1-2b77fb8ea85d&recSource=ml-popular-events-nearby-offline&searchId=7bb79737-2f99-40e1-a2ac-f2376140456f&eventOrigin=find_page%24all"
     },
     {
-     "text": "Tis The Season! Eddie V\u2019s Holiday Happy Hour \ud83e\udd42\ud83c\udfbc\ud83c\udf84\ud83e\ude85\u26c4\ufe0f\ud83c\udf81 Tue, De",
-     "url": "https://www.meetup.com/princeton-vip-s-local-events-throughout-central-nj/events/316478631/?recId=ecbe9e48-8ef1-4ccd-a5e4-80164b959f52&recSource=ml-popular-events-nearby-offline&searchId=7e5818c8-e7c8-4052-8ab0-3052325f34f7&eventOrigin=find_page%24all"
+     "text": "Singles' Coffee Mixer | Saturday | 3 PM | Maison Alyz\u00e9e, Mou",
+     "url": "https://www.meetup.com/zelo-chat/events/314210374/?recId=17d5f5f8-8356-4d35-acc1-2b77fb8ea85d&recSource=ml-popular-events-nearby-offline&searchId=7bb79737-2f99-40e1-a2ac-f2376140456f&eventOrigin=find_page%24all"
     },
     {
-     "text": "Ladies Sip and Shop For The Holidays!  Fri, Dec 4 \u00b7 4:30 PM ",
-     "url": "https://www.meetup.com/princeton-vip-s-local-events-throughout-central-nj/events/317078585/?recId=ecbe9e48-8ef1-4ccd-a5e4-80164b959f52&recSource=ml-popular-events-nearby-offline&searchId=7e5818c8-e7c8-4052-8ab0-3052325f34f7&eventOrigin=find_page%24all"
+     "text": "$8.00 4 seats left Dinner & Street Music Fest in Los Altos D",
+     "url": "https://www.meetup.com/i-wanna-do-it-but-not-alone/events/317324059/?recId=17d5f5f8-8356-4d35-acc1-2b77fb8ea85d&recSource=ml-popular-events-nearby-offline&searchId=7bb79737-2f99-40e1-a2ac-f2376140456f&eventOrigin=find_page%24all"
     }
    ],
-   "platform": "",
+   "platform": "eventbrite",
    "error": ""
   },
   {
@@ -387,17 +387,17 @@
    "error": ""
   },
   {
-   "url": "https://www.meetup.com/ascended-masters-study-inner-growth/events/317497416/?eventOrigin=home_logged_out_near_location",
+   "url": "https://www.meetup.com/devopsdsm/events/317271205/?eventOrigin=home_logged_out_near_location",
    "status": 200,
-   "final_url": "https://www.meetup.com/ascended-masters-study-inner-growth/events/317497416/?eventOrigin=home_logged_out_near_location",
-   "title": "Welcome Gathering: An Evening of Wonder & Connection, Tue, Dec 8, 2026, 6:00 PM   | Meetup",
+   "final_url": "https://www.meetup.com/devopsdsm/events/317271205/?eventOrigin=home_logged_out_near_location",
+   "title": "NixOS: Functional Programming for Your Operating System, Wed, Dec 2, 2026, 6:00 PM   | Meetup",
    "dates": 2,
    "jsonld": 1,
    "jsonld_samples": [
     {
-     "name": "Welcome Gathering: An Evening of Wonder & Connection",
-     "start": "2026-12-08T18:00:00-07:00",
-     "url": "https://www.meetup.com/ascended-masters-study-inner-growth/events/317497416/"
+     "name": "NixOS: Functional Programming for Your Operating System",
+     "start": "2026-12-02T18:00:00-06:00",
+     "url": "https://www.meetup.com/devopsdsm/events/317271205/"
     }
    ],
    "hints": [
@@ -406,15 +406,15 @@
     "https://www.meetup.com/_next/static/media/NeuSans-Bold.5c45f750.woff2",
     "https://www.meetup.com/_next/static/media/NeuSans-Book.27256a60.woff2",
     "https://www.meetup.com/_next/static/media/Boyrun-Regular.woff2",
-    "https://www.meetup.com/ascended-masters-study-inner-growth/events/317497416/",
+    "https://www.meetup.com/devopsdsm/events/317271205/",
     "https://www.meetup.com/_next/static/css/4f3c5c8e994eb55f.css",
     "https://www.meetup.com/_next/static/css/3ea30ba50f8d84f8.css",
-    "https://www.meetup.com/ascended-masters-study-inner-growth/events/317497416/attendees/",
-    "https://www.meetup.com/ascended-masters-study-inner-growth/",
-    "https://www.meetup.com/find/us--az--tempe/",
+    "https://www.meetup.com/devopsdsm/events/317271205/attendees/",
+    "https://www.meetup.com/devopsdsm/",
+    "https://www.meetup.com/find/us--ia--urbandale/",
     "https://www.meetup.com/start?origin=groups&eventOrigin=page-footer",
-    "https://www.meetup.com/register/?returnUri=https%3A%2F%2Fwww.meetup.com%2Fascended-masters-study-inner-growth%2Fevents%2F317497416%2F%3FeventOrigin%3Dhome_logged_out_near_location",
-    "https://www.meetup.com/login/?returnUri=https%3A%2F%2Fwww.meetup.com%2Fascended-masters-study-inner-growth%2Fevents%2F317497416%2F%3FeventOrigin%3Dhome_logged_out_near_location",
+    "https://www.meetup.com/register/?returnUri=https%3A%2F%2Fwww.meetup.com%2Fdevopsdsm%2Fevents%2F317271205%2F%3FeventOrigin%3Dhome_logged_out_near_location",
+    "https://www.meetup.com/login/?returnUri=https%3A%2F%2Fwww.meetup.com%2Fdevopsdsm%2Fevents%2F317271205%2F%3FeventOrigin%3Dhome_logged_out_near_location",
     "https://help.meetup.com/hc",
     "https://www.meetup.com/find/?source=GROUPS",
     "https://www.meetup.com/find/?source=EVENTS",
@@ -430,12 +430,12 @@
    "iframes": [],
    "event_links": [
     {
-     "text": "Hosted by  Gina R.",
-     "url": "https://www.meetup.com/ascended-masters-study-inner-growth/events/317497416/attendees/"
+     "text": "Hosted by  SourceAllies Super Organizer",
+     "url": "https://www.meetup.com/devopsdsm/events/317271205/attendees/"
     },
     {
-     "text": "Events in Tempe, AZ",
-     "url": "https://www.meetup.com/find/us--az--tempe/"
+     "text": "Events in Urbandale, IA",
+     "url": "https://www.meetup.com/find/us--ia--urbandale/"
     },
     {
      "text": "Events",
@@ -450,17 +450,17 @@
    "error": ""
   },
   {
-   "url": "https://www.meetup.com/the-entrepreneur-social/events/317491104/?eventOrigin=home_logged_out_near_location",
+   "url": "https://www.meetup.com/iadnug/events/317493551/?eventOrigin=home_logged_out_near_location",
    "status": 200,
-   "final_url": "https://www.meetup.com/the-entrepreneur-social/events/317491104/?eventOrigin=home_logged_out_near_location",
-   "title": "Christmas Party - Ugly Sweater, Tue, Dec 15, 2026, 6:00 PM   | Meetup",
-   "dates": 2,
+   "final_url": "https://www.meetup.com/iadnug/events/317493551/?eventOrigin=home_logged_out_near_location",
+   "title": "Hybrid .NET@ Night- GitHub Copilot: from Prompt to Pull Request Workshop, Thu, Dec 10, 2026, 5:00 PM   | Meetup",
+   "dates": 3,
    "jsonld": 1,
    "jsonld_samples": [
     {
-     "name": "Christmas Party - Ugly Sweater",
-     "start": "2026-12-15T18:00:00-07:00",
-     "url": "https://www.meetup.com/the-entrepreneur-social/events/317491104/"
+     "name": "Hybrid .NET@ Night- GitHub Copilot: from Prompt to Pull Request Workshop",
+     "start": "2026-12-10T17:00:00-06:00",
+     "url": "https://www.meetup.com/iadnug/events/317493551/"
     }
    ],
    "hints": [
@@ -469,15 +469,15 @@
     "https://www.meetup.com/_next/static/media/NeuSans-Bold.5c45f750.woff2",
     "https://www.meetup.com/_next/static/media/NeuSans-Book.27256a60.woff2",
     "https://www.meetup.com/_next/static/media/Boyrun-Regular.woff2",
-    "https://www.meetup.com/the-entrepreneur-social/events/317491104/",
+    "https://www.meetup.com/iadnug/events/317493551/",
     "https://www.meetup.com/_next/static/css/4f3c5c8e994eb55f.css",
     "https://www.meetup.com/_next/static/css/3ea30ba50f8d84f8.css",
-    "https://www.meetup.com/the-entrepreneur-social/events/317491104/attendees/",
-    "https://www.meetup.com/the-entrepreneur-social/",
-    "https://www.meetup.com/find/us--az--phoenix/",
+    "https://www.meetup.com/iadnug/events/317493551/attendees/",
+    "https://www.meetup.com/iadnug/",
+    "https://www.meetup.com/find/us--ia--johnston/",
     "https://www.meetup.com/start?origin=groups&eventOrigin=page-footer",
-    "https://www.meetup.com/register/?returnUri=https%3A%2F%2Fwww.meetup.com%2Fthe-entrepreneur-social%2Fevents%2F317491104%2F%3FeventOrigin%3Dhome_logged_out_near_location",
-    "https://www.meetup.com/login/?returnUri=https%3A%2F%2Fwww.meetup.com%2Fthe-entrepreneur-social%2Fevents%2F317491104%2F%3FeventOrigin%3Dhome_logged_out_near_location",
+    "https://www.meetup.com/register/?returnUri=https%3A%2F%2Fwww.meetup.com%2Fiadnug%2Fevents%2F317493551%2F%3FeventOrigin%3Dhome_logged_out_near_location",
+    "https://www.meetup.com/login/?returnUri=https%3A%2F%2Fwww.meetup.com%2Fiadnug%2Fevents%2F317493551%2F%3FeventOrigin%3Dhome_logged_out_near_location",
     "https://help.meetup.com/hc",
     "https://www.meetup.com/find/?source=GROUPS",
     "https://www.meetup.com/find/?source=EVENTS",
@@ -493,12 +493,12 @@
    "iframes": [],
    "event_links": [
     {
-     "text": "Hosted by  Noah S. Super Organizer",
-     "url": "https://www.meetup.com/the-entrepreneur-social/events/317491104/attendees/"
+     "text": "Hosted by  Scott S.",
+     "url": "https://www.meetup.com/iadnug/events/317493551/attendees/"
     },
     {
-     "text": "Events in Phoenix, AZ",
-     "url": "https://www.meetup.com/find/us--az--phoenix/"
+     "text": "Events in Johnston, IA",
+     "url": "https://www.meetup.com/find/us--ia--johnston/"
     },
     {
      "text": "Events",

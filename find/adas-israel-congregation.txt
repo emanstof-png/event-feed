@@ -1,6 +1,6 @@
 Adas Israel Congregation
 best page: https://calendar.adasisrael.org/events/ (status 200, 9 date strings, 20 JSON-LD events)
-fetched 2026-11-28 01:55Z
+fetched 2026-11-28 02:51Z
 
 
 Events from February 26, 2027 – February 25, 2027 – Adas Israel Congregation

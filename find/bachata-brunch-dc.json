@@ -1,0 +1,58 @@
+{
+ "row": "189",
+ "name": "Bachata Brunch DC",
+ "seed_url": "https://getbailar.com/events/bachata-brunch-washington-dc-2026-11-29",
+ "programs": "",
+ "access": "",
+ "found": "2026-11-28 03:14Z",
+ "search_hits": [],
+ "search_error": "html.duckduckgo.com Timeout; www.bing.com 0 hits (200, 129392b); lite.duckduckgo.com Timeout",
+ "probes": [
+  {
+   "url": "https://getbailar.com/wp-json/tribe/events/v1/events?per_page=10",
+   "status": "HTTPError",
+   "events": 0
+  },
+  {
+   "url": "https://getbailar.com/events/?ical=1",
+   "status": "HTTPError",
+   "events": 0
+  },
+  {
+   "url": "https://getbailar.com/?ical=1",
+   "status": "HTTPError",
+   "events": 0
+  }
+ ],
+ "pages": [
+  {
+   "url": "https://getbailar.com/events/bachata-brunch-washington-dc-2026-11-29",
+   "status": null,
+   "final_url": "",
+   "title": "",
+   "dates": 0,
+   "jsonld": 0,
+   "jsonld_samples": [],
+   "hints": [],
+   "iframes": [],
+   "event_links": [],
+   "platform": "",
+   "error": "HTTPError: HTTP Error 403: "
+  },
+  {
+   "url": "https://getbailar.com/",
+   "status": null,
+   "final_url": "",
+   "title": "",
+   "dates": 0,
+   "jsonld": 0,
+   "jsonld_samples": [],
+   "hints": [],
+   "iframes": [],
+   "event_links": [],
+   "platform": "",
+   "error": "HTTPError: HTTP Error 403: "
+  }
+ ],
+ "best_page": "https://getbailar.com/events/bachata-brunch-washington-dc-2026-11-29"
+}

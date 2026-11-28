@@ -1,0 +1,238 @@
+{
+ "row": "202",
+ "name": "Shepherd Park Friends",
+ "seed_url": "http://dcbythebook.org",
+ "programs": "",
+ "access": "",
+ "found": "2026-11-28 03:23Z",
+ "search_hits": [],
+ "search_error": "html.duckduckgo.com Timeout; www.bing.com 0 hits (200, 121992b); lite.duckduckgo.com Timeout",
+ "probes": [
+  {
+   "url": "https://www.dclibrary.org/wp-json/tribe/events/v1/events?per_page=10",
+   "status": "HTTPError",
+   "events": 0
+  },
+  {
+   "url": "https://www.dclibrary.org/events/?ical=1",
+   "status": "HTTPError",
+   "events": 0
+  },
+  {
+   "url": "https://www.dclibrary.org/?ical=1",
+   "status": 200,
+   "events": 0,
+   "head": "\n<!DOCTYPE html>\n<html  lang=\"en\" dir=\"ltr\" prefix=\"og: https://ogp.me/ns#\">\n  <head>\n          \n        <meta charset=\"utf-8\" />\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=G-ESGR85FNK5\"></script>\n<script>window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(ar"
+  }
+ ],
+ "pages": [
+  {
+   "url": "http://dcbythebook.org",
+   "status": 200,
+   "final_url": "https://www.dclibrary.org/",
+   "title": "Homepage | District of Columbia Public Library",
+   "dates": 4,
+   "jsonld": 0,
+   "jsonld_samples": [],
+   "hints": [
+    "https://www.dclibrary.org/event.rss"
+   ],
+   "iframes": [],
+   "event_links": [
+    {
+     "text": "Attend an Event",
+     "url": "https://www.dclibrary.org/attend-event"
+    },
+    {
+     "text": "Explore All Events",
+     "url": "https://dclibrary.libnet.info/events"
+    },
+    {
+     "text": "Play Day",
+     "url": "https://dclibrary.libnet.info/event/17976472"
+    },
+    {
+     "text": "Petworth Neighborhood Library",
+     "url": "https://dclibrary.libnet.info/event/17976472#branch"
+    },
+    {
+     "text": "Tech 101",
+     "url": "https://dclibrary.libnet.info/event/17717934"
+    },
+    {
+     "text": "Woodridge Neighborhood Library",
+     "url": "https://dclibrary.libnet.info/event/17717934#branch"
+    },
+    {
+     "text": "Here's the Stitchuation!",
+     "url": "https://dclibrary.libnet.info/event/17163769"
+    },
+    {
+     "text": "Lamond-Riggs/Lillian J. Huff Neighborhood Library",
+     "url": "https://dclibrary.libnet.info/event/17163769#branch"
+    },
+    {
+     "text": "Movie Matinee",
+     "url": "https://dclibrary.libnet.info/event/17842163"
+    },
+    {
+     "text": "Bellevue (William O. Lockridge) Neighborhood Library",
+     "url": "https://dclibrary.libnet.info/event/17842163#branch"
+    },
+    {
+     "text": "Reserve a room or hold an event",
+     "url": "https://www.dclibrary.org/node/42"
+    }
+   ],
+   "platform": "drupal",
+   "error": ""
+  },
+  {
+   "url": "https://www.dclibrary.org/attend-event",
+   "status": 200,
+   "final_url": "https://www.dclibrary.org/attend-event",
+   "title": "Attend an Event | District of Columbia Public Library",
+   "dates": 8,
+   "jsonld": 0,
+   "jsonld_samples": [],
+   "hints": [
+    "https://www.dclibrary.org/event.rss"
+   ],
+   "iframes": [],
+   "event_links": [
+    {
+     "text": "Book Clubs \n See our wide variety of book clubs for resident",
+     "url": "https://www.dclibrary.org/attend-event/book-clubs"
+    },
+    {
+     "text": "DC Public Library Speaker Series \n Explore DC Public Library",
+     "url": "https://www.dclibrary.org/speaker-series-library"
+    },
+    {
+     "text": "Explore All Events",
+     "url": "https://dclibrary.libnet.info/events"
+    },
+    {
+     "text": "Play Day",
+     "url": "https://dclibrary.libnet.info/event/17976472"
+    },
+    {
+     "text": "Petworth Neighborhood Library",
+     "url": "https://dclibrary.libnet.info/event/17976472#branch"
+    },
+    {
+     "text": "Tech 101",
+     "url": "https://dclibrary.libnet.info/event/17717934"
+    },
+    {
+     "text": "Woodridge Neighborhood Library",
+     "url": "https://dclibrary.libnet.info/event/17717934#branch"
+    },
+    {
+     "text": "Here's the Stitchuation!",
+     "url": "https://dclibrary.libnet.info/event/17163769"
+    },
+    {
+     "text": "Lamond-Riggs/Lillian J. Huff Neighborhood Library",
+     "url": "https://dclibrary.libnet.info/event/17163769#branch"
+    },
+    {
+     "text": "Movie Matinee",
+     "url": "https://dclibrary.libnet.info/event/17842163"
+    },
+    {
+     "text": "Bellevue (William O. Lockridge) Neighborhood Library",
+     "url": "https://dclibrary.libnet.info/event/17842163#branch"
+    },
+    {
+     "text": "Shepherd Park Coat Drive",
+     "url": "https://dclibrary.libnet.info/event/17670607"
+    },
+    {
+     "text": "Shepherd Park (Juanita E. Thornton) Neighborhood Library",
+     "url": "https://dclibrary.libnet.info/event/17670607#branch"
+    },
+    {
+     "text": "Friends Book Sale",
+     "url": "https://dclibrary.libnet.info/event/16028346"
+    },
+    {
+     "text": "Palisades Neighborhood Library",
+     "url": "https://dclibrary.libnet.info/event/16028346#branch"
+    },
+    {
+     "text": "Georgetown Library English Conversation Club",
+     "url": "https://dclibrary.libnet.info/event/16193713"
+    },
+    {
+     "text": "Georgetown Neighborhood Library",
+     "url": "https://dclibrary.libnet.info/event/16193713#branch"
+    },
+    {
+     "text": "English Conversation Group",
+     "url": "https://dclibrary.libnet.info/event/17315369"
+    },
+    {
+     "text": "Tenley-Friendship Neighborhood Library",
+     "url": "https://dclibrary.libnet.info/event/17315369#branch"
+    },
+    {
+     "text": "Birth - 5",
+     "url": "https://dclibrary.libnet.info/events?a=Birth+-+5"
+    },
+    {
+     "text": "5 - 12 Years Old",
+     "url": "https://dclibrary.libnet.info/events?a=5+-+12+Years+Old"
+    },
+    {
+     "text": "13 - 19 Years Old (Teens)",
+     "url": "https://dclibrary.libnet.info/events?a=13+-+19+Years+Old+%28Teens%29"
+    },
+    {
+     "text": "Adults",
+     "url": "https://dclibrary.libnet.info/events?a=Adults"
+    },
+    {
+     "text": "Seniors",
+     "url": "https://dclibrary.libnet.info/events?a=Seniors"
+    },
+    {
+     "text": "Anacostia Neighborhood Library",
+     "url": "https://dclibrary.libnet.info/events?l=Anacostia+Neighborhood+Library"
+    }
+   ],
+   "platform": "drupal",
+   "error": ""
+  },
+  {
+   "url": "https://www.dclibrary.org/node/42",
+   "status": 200,
+   "final_url": "https://www.dclibrary.org/reserve-room",
+   "title": "Reserve a Room | District of Columbia Public Library",
+   "dates": 0,
+   "jsonld": 0,
+   "jsonld_samples": [],
+   "hints": [
+    "https://www.dclibrary.org/event.rss"
+   ],
+   "iframes": [],
+   "event_links": [
+    {
+     "text": "Attend an Event",
+     "url": "https://www.dclibrary.org/attend-event"
+    },
+    {
+     "text": "Event Rentals \n We have a variety of room rentals available ",
+     "url": "https://www.dclibrary.org/using-the-library/event-rentals-mlk"
+    },
+    {
+     "text": "Reserve a room or hold an event",
+     "url": "https://www.dclibrary.org/node/42"
+    }
+   ],
+   "platform": "drupal",
+   "error": ""
+  }
+ ],
+ "best_page": "https://www.dclibrary.org/attend-event"
+}

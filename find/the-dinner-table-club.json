@@ -4,9 +4,9 @@
  "seed_url": "https://luma.com/thedinnertable_club",
  "programs": "",
  "access": "",
- "found": "2026-11-28 01:49Z",
+ "found": "2026-11-28 02:45Z",
  "search_hits": [],
- "search_error": "html.duckduckgo.com 0 hits (202, 15160b); www.bing.com 0 hits (200, 132531b); lite.duckduckgo.com 0 hits (202, 15172b)",
+ "search_error": "html.duckduckgo.com 0 hits (202, 15178b); www.bing.com 0 hits (200, 137782b); lite.duckduckgo.com 0 hits (202, 15166b)",
  "probes": [
   {
    "url": "https://luma.com/wp-json/tribe/events/v1/events?per_page=10",
@@ -182,15 +182,15 @@
    "iframes": [],
    "event_links": [
     {
-     "text": "Family 562  Events",
+     "text": "Family 560  Events",
      "url": "https://luma.com/family?k=t"
     },
     {
-     "text": "Books 644  Events",
+     "text": "Books 643  Events",
      "url": "https://luma.com/books?k=t"
     },
     {
-     "text": "Games 491  Events",
+     "text": "Games 492  Events",
      "url": "https://luma.com/games?k=t"
     },
     {
@@ -198,7 +198,7 @@
      "url": "https://luma.com/tech?k=t"
     },
     {
-     "text": "Food & Drink 528  Events",
+     "text": "Food & Drink 526  Events",
      "url": "https://luma.com/food?k=t"
     },
     {
@@ -206,7 +206,7 @@
      "url": "https://luma.com/ai?k=t"
     },
     {
-     "text": "Running 553  Events",
+     "text": "Running 548  Events",
      "url": "https://luma.com/running?k=t"
     },
     {
@@ -222,11 +222,11 @@
      "url": "https://luma.com/fitness?k=t"
     },
     {
-     "text": "Wellness 892  Events",
+     "text": "Wellness 890  Events",
      "url": "https://luma.com/wellness?k=t"
     },
     {
-     "text": "Crypto 439  Events",
+     "text": "Crypto 437  Events",
      "url": "https://luma.com/crypto?k=t"
     },
     {
@@ -278,7 +278,7 @@
      "url": "https://luma.com/detroit?k=p"
     },
     {
-     "text": "Edmonton 7 Events",
+     "text": "Edmonton 6 Events",
      "url": "https://luma.com/edmonton?k=p"
     }
    ],
@@ -302,7 +302,7 @@
     "https://luma.com/",
     "https://luma.com/discover",
     "https://luma.com/signin?next=%2Fcreate",
-    "https://luma.com/fonts/departure.css"
+    "https://luma.com/fonts/ivypresto.css"
    ],
    "iframes": [],
    "event_links": [

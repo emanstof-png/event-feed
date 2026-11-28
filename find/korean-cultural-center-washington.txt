@@ -1,6 +1,6 @@
 Korean Cultural Center Washington
 best page: https://washingtondc.korean-culture.org/en/1126/board/890/list (status 200, 39 date strings, 0 JSON-LD events)
-fetched 2026-11-28 01:49Z
+fetched 2026-11-28 02:44Z
 
 
 Korean Cultural Center Washington, D.C.

@@ -1,0 +1,226 @@
+{
+ "row": "180",
+ "name": "Le Cercle Francophone de Georgetown",
+ "seed_url": "https://oazis.app/en/event/le-cercle-francophone-de-georgetown",
+ "programs": "",
+ "access": "",
+ "found": "2026-11-28 03:08Z",
+ "search_hits": [],
+ "search_error": "html.duckduckgo.com Timeout; www.bing.com 0 hits (200, 132109b); lite.duckduckgo.com Timeout",
+ "probes": [
+  {
+   "url": "https://oazis.app/wp-json/tribe/events/v1/events?per_page=10",
+   "status": "HTTPError",
+   "events": 0
+  },
+  {
+   "url": "https://oazis.app/events/?ical=1",
+   "status": "HTTPError",
+   "events": 0
+  },
+  {
+   "url": "https://oazis.app/?ical=1",
+   "status": 200,
+   "events": 0,
+   "head": "<!DOCTYPE html><html lang=\"en\" class=\"_4K9MCG_variable DQmeoq_variable AiI2Qa_variable DzDpBa_variable h-full antialiased\"><head><meta charSet=\"utf-8\"/><meta name=\"viewport\" content=\"width=device-width, initial-scale=1, viewport-fit=cover\"/><link rel=\"preload\" href=\"/_next/static/media/237858b39a327"
+  }
+ ],
+ "pages": [
+  {
+   "url": "https://oazis.app/en/event/le-cercle-francophone-de-georgetown",
+   "status": null,
+   "final_url": "",
+   "title": "",
+   "dates": 0,
+   "jsonld": 0,
+   "jsonld_samples": [],
+   "hints": [],
+   "iframes": [],
+   "event_links": [],
+   "platform": "",
+   "error": "HTTPError: HTTP Error 403: "
+  },
+  {
+   "url": "https://oazis.app/",
+   "status": 200,
+   "final_url": "https://oazis.app/en",
+   "title": "Oazis \u00b7 Find your next outing",
+   "dates": 0,
+   "jsonld": 0,
+   "jsonld_samples": [],
+   "hints": [
+    "https://oazis.app",
+    "https://oazis.app/nl",
+    "https://oazis.app/de",
+    "https://oazis.app/es",
+    "https://oazis.app/it",
+    "https://oazis.app/pt",
+    "https://oazis.app/pl",
+    "https://oazis.app/tr",
+    "https://oazis.app/ja"
+   ],
+   "iframes": [],
+   "event_links": [
+    {
+     "text": "London",
+     "url": "https://oazis.app/en/whats-on/london"
+    },
+    {
+     "text": "Manchester",
+     "url": "https://oazis.app/en/whats-on/manchester"
+    },
+    {
+     "text": "Glasgow",
+     "url": "https://oazis.app/en/whats-on/glasgow"
+    },
+    {
+     "text": "Bristol",
+     "url": "https://oazis.app/en/whats-on/bristol"
+    },
+    {
+     "text": "New York",
+     "url": "https://oazis.app/en/whats-on/new-york"
+    },
+    {
+     "text": "Los Angeles",
+     "url": "https://oazis.app/en/whats-on/los-angeles"
+    },
+    {
+     "text": "Chicago",
+     "url": "https://oazis.app/en/whats-on/chicago"
+    },
+    {
+     "text": "San Francisco",
+     "url": "https://oazis.app/en/whats-on/san-francisco"
+    },
+    {
+     "text": "Paris",
+     "url": "https://oazis.app/en/whats-on/paris"
+    },
+    {
+     "text": "Berlin",
+     "url": "https://oazis.app/en/whats-on/berlin"
+    },
+    {
+     "text": "Madrid",
+     "url": "https://oazis.app/en/whats-on/madrid"
+    },
+    {
+     "text": "Amsterdam",
+     "url": "https://oazis.app/en/whats-on/amsterdam"
+    },
+    {
+     "text": "Music",
+     "url": "https://oazis.app/en/whats-on/music"
+    },
+    {
+     "text": "Parties",
+     "url": "https://oazis.app/en/whats-on/parties"
+    },
+    {
+     "text": "Stage",
+     "url": "https://oazis.app/en/whats-on/stage"
+    },
+    {
+     "text": "Comedy",
+     "url": "https://oazis.app/en/whats-on/comedy"
+    },
+    {
+     "text": "Art & Culture",
+     "url": "https://oazis.app/en/whats-on/art-culture"
+    },
+    {
+     "text": "Activism",
+     "url": "https://oazis.app/en/whats-on/activism"
+    },
+    {
+     "text": "Kids",
+     "url": "https://oazis.app/en/whats-on/kids"
+    },
+    {
+     "text": "Games",
+     "url": "https://oazis.app/en/whats-on/games"
+    },
+    {
+     "text": "Tourism",
+     "url": "https://oazis.app/en/whats-on/tourism"
+    },
+    {
+     "text": "Sport",
+     "url": "https://oazis.app/en/whats-on/sport"
+    },
+    {
+     "text": "Workshops",
+     "url": "https://oazis.app/en/whats-on/workshops"
+    },
+    {
+     "text": "Markets & flea markets",
+     "url": "https://oazis.app/en/whats-on/markets-flea-markets"
+    },
+    {
+     "text": "Dance",
+     "url": "https://oazis.app/en/whats-on/dance"
+    }
+   ],
+   "platform": "wordpress eventbrite",
+   "error": ""
+  },
+  {
+   "url": "https://oazis.app/en/whats-on/london",
+   "status": null,
+   "final_url": "",
+   "title": "",
+   "dates": 0,
+   "jsonld": 0,
+   "jsonld_samples": [],
+   "hints": [],
+   "iframes": [],
+   "event_links": [],
+   "platform": "",
+   "error": "HTTPError: HTTP Error 403: "
+  },
+  {
+   "url": "https://oazis.app/en/whats-on/manchester",
+   "status": null,
+   "final_url": "",
+   "title": "",
+   "dates": 0,
+   "jsonld": 0,
+   "jsonld_samples": [],
+   "hints": [],
+   "iframes": [],
+   "event_links": [],
+   "platform": "",
+   "error": "HTTPError: HTTP Error 403: "
+  },
+  {
+   "url": "https://oazis.app/en/whats-on/glasgow",
+   "status": null,
+   "final_url": "",
+   "title": "",
+   "dates": 0,
+   "jsonld": 0,
+   "jsonld_samples": [],
+   "hints": [],
+   "iframes": [],
+   "event_links": [],
+   "platform": "",
+   "error": "HTTPError: HTTP Error 403: "
+  },
+  {
+   "url": "https://oazis.app/en/whats-on/bristol",
+   "status": null,
+   "final_url": "",
+   "title": "",
+   "dates": 0,
+   "jsonld": 0,
+   "jsonld_samples": [],
+   "hints": [],
+   "iframes": [],
+   "event_links": [],
+   "platform": "",
+   "error": "HTTPError: HTTP Error 403: "
+  }
+ ],
+ "best_page": "https://oazis.app/"
+}

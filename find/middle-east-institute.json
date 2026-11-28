@@ -1,0 +1,376 @@
+{
+ "row": "165",
+ "name": "Middle East Institute",
+ "seed_url": "https://mei.edu/events/mei-report-launch-the-middle-east-beyond-the-iran-war",
+ "programs": "",
+ "access": "",
+ "found": "2026-11-28 02:57Z",
+ "search_hits": [],
+ "search_error": "html.duckduckgo.com Timeout; www.bing.com 0 hits (200, 445859b); lite.duckduckgo.com Timeout",
+ "probes": [
+  {
+   "url": "https://mei.edu/wp-json/tribe/events/v1/events?per_page=10",
+   "status": "HTTPError",
+   "events": 0
+  },
+  {
+   "url": "https://mei.edu/events/?ical=1",
+   "status": 200,
+   "events": 0,
+   "head": "\t\n\t\t\t\t\t<!DOCTYPE html>\n\t\t<html lang=\"en-US\">\n\t\t\t<head>\n\t\t\t\t<script>\n\t\t\t\t\t['js'].forEach(attr => {\n\t\t\t\t\t\tdocument.documentElement.setAttribute(attr, '');\n\t\t\t\t\t});\n\t\t\t\t</script>\n\t\t\t\t<meta charset=\"UTF-8\" />\n<script>\nvar gform;gform||(document.addEventListener(\"gform_main_scripts_loaded\",function(){gfo"
+  },
+  {
+   "url": "https://mei.edu/?ical=1",
+   "status": 200,
+   "events": 0,
+   "head": "\t\n\t\t\t\t\t<!DOCTYPE html>\n\t\t<html lang=\"en-US\">\n\t\t\t<head>\n\t\t\t\t<script>\n\t\t\t\t\t['js'].forEach(attr => {\n\t\t\t\t\t\tdocument.documentElement.setAttribute(attr, '');\n\t\t\t\t\t});\n\t\t\t\t</script>\n\t\t\t\t<meta charset=\"UTF-8\" />\n<script>\nvar gform;gform||(document.addEventListener(\"gform_main_scripts_loaded\",function(){gfo"
+  }
+ ],
+ "pages": [
+  {
+   "url": "https://mei.edu/events/mei-report-launch-the-middle-east-beyond-the-iran-war",
+   "status": 200,
+   "final_url": "https://mei.edu/events/mei-report-launch-the-middle-east-beyond-the-iran-war/",
+   "title": "MEI Report Launch | The Middle East Beyond the Iran War - Middle East Institute",
+   "dates": 5,
+   "jsonld": 0,
+   "jsonld_samples": [],
+   "hints": [
+    "https://mei.edu/feed/",
+    "https://mei.edu/comments/feed/",
+    "https://mei.edu/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fmei.edu%2Fevents%2Fmei-report-launch-the-middle-east-beyond-the-iran-war%2F",
+    "https://mei.edu/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fmei.edu%2Fevents%2Fmei-report-launch-the-middle-east-beyond-the-iran-war%2F&format=xml",
+    "https://mei.edu/wp-json/wp/v2/event/60855",
+    "https://mei.edu/ar/events/mei-report-launch-the-middle-east-beyond-the-iran-war/"
+   ],
+   "iframes": [
+    "about:blank"
+   ],
+   "event_links": [
+    {
+     "text": "Events",
+     "url": "https://mei.edu/events/"
+    },
+    {
+     "text": "Schedule a Visit",
+     "url": "https://app.acuityscheduling.com/schedule.php?owner=20905902"
+    },
+    {
+     "text": "Current Exhibition",
+     "url": "https://mei.edu/exhibition/el-marsam-modern-and-contemporary-art-from-egypt/"
+    },
+    {
+     "text": "Security Fellowship Program",
+     "url": "https://mei.edu/mei-security-fellowship-program/"
+    }
+   ],
+   "platform": "wordpress",
+   "error": ""
+  },
+  {
+   "url": "https://mei.edu/",
+   "status": 200,
+   "final_url": "https://mei.edu/",
+   "title": "Home - Middle East Institute",
+   "dates": 17,
+   "jsonld": 0,
+   "jsonld_samples": [],
+   "hints": [
+    "https://mei.edu/feed/",
+    "https://mei.edu/comments/feed/",
+    "https://mei.edu/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fmei.edu%2F",
+    "https://mei.edu/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fmei.edu%2F&format=xml",
+    "https://mei.edu/wp-json/wp/v2/pages/13",
+    "https://mei.edu/ar/"
+   ],
+   "iframes": [
+    "about:blank"
+   ],
+   "event_links": [
+    {
+     "text": "Events",
+     "url": "https://mei.edu/events/"
+    },
+    {
+     "text": "Schedule a Visit",
+     "url": "https://app.acuityscheduling.com/schedule.php?owner=20905902"
+    },
+    {
+     "text": "Current Exhibition",
+     "url": "https://mei.edu/exhibition/el-marsam-modern-and-contemporary-art-from-egypt/"
+    },
+    {
+     "text": "Security Fellowship Program",
+     "url": "https://mei.edu/mei-security-fellowship-program/"
+    },
+    {
+     "text": "The Direction of Israeli Foreign Policy Under the Next Gover",
+     "url": "https://mei.edu/events/the-direction-of-israeli-foreign-policy-under-the-next-government/"
+    },
+    {
+     "text": "Should We Stay Or Should We Go? The Future of the US Presenc",
+     "url": "https://mei.edu/events/should-we-stay-or-should-we-go-the-future-of-the-us-presence-in-the-gulf/"
+    },
+    {
+     "text": "US Tech Policy Toward the Middle East After the Midterms",
+     "url": "https://mei.edu/events/us-tech-policy-toward-the-middle-east-after-the-midterms/"
+    },
+    {
+     "text": "New York Arabic Orchestra at Wolf Trap",
+     "url": "https://mei.edu/events/new-york-arabic-orchestra-at-wolf-trap/"
+    }
+   ],
+   "platform": "wordpress",
+   "error": ""
+  },
+  {
+   "url": "https://mei.edu/events/",
+   "status": 200,
+   "final_url": "https://mei.edu/events/",
+   "title": "Events - Middle East Institute",
+   "dates": 19,
+   "jsonld": 0,
+   "jsonld_samples": [],
+   "hints": [
+    "https://mei.edu/feed/",
+    "https://mei.edu/comments/feed/",
+    "https://mei.edu/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fmei.edu%2Fevents%2F",
+    "https://mei.edu/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fmei.edu%2Fevents%2F&format=xml",
+    "https://mei.edu/wp-json/wp/v2/pages/19",
+    "https://mei.edu/ar/events/"
+   ],
+   "iframes": [
+    "about:blank"
+   ],
+   "event_links": [
+    {
+     "text": "Schedule a Visit",
+     "url": "https://app.acuityscheduling.com/schedule.php?owner=20905902"
+    },
+    {
+     "text": "Current Exhibition",
+     "url": "https://mei.edu/exhibition/el-marsam-modern-and-contemporary-art-from-egypt/"
+    },
+    {
+     "text": "Security Fellowship Program",
+     "url": "https://mei.edu/mei-security-fellowship-program/"
+    },
+    {
+     "text": "US Tech Policy Toward the Middle East After the Midterms",
+     "url": "https://mei.edu/events/us-tech-policy-toward-the-middle-east-after-the-midterms/"
+    },
+    {
+     "text": "New York Arabic Orchestra at Wolf Trap",
+     "url": "https://mei.edu/events/new-york-arabic-orchestra-at-wolf-trap/"
+    },
+    {
+     "text": "Learn more",
+     "url": "https://mei.edu/virtual-briefing-series/"
+    },
+    {
+     "text": "A Century of Egyptian Art",
+     "url": "https://mei.edu/events/a-century-of-egyptian-art/"
+    },
+    {
+     "text": "The Direction of Israeli Foreign Policy Under the Next Gover",
+     "url": "https://mei.edu/events/the-direction-of-israeli-foreign-policy-under-the-next-government/"
+    },
+    {
+     "text": "The Cauldron: The Making of the Modern Middle East with Simo",
+     "url": "https://mei.edu/events/the-cauldron-the-making-of-the-modern-middle-east-with-simon-sebag-montefiore/"
+    },
+    {
+     "text": "Should We Stay Or Should We Go? The Future of the US Presenc",
+     "url": "https://mei.edu/events/should-we-stay-or-should-we-go-the-future-of-the-us-presence-in-the-gulf/"
+    },
+    {
+     "text": "Mediterranean Maritime Security Conference",
+     "url": "https://mei.edu/events/mediterranean-maritime-security-conference/"
+    },
+    {
+     "text": "Post-Election Escalation? The Midterms and US Middle East St",
+     "url": "https://mei.edu/events/post-election-escalation-the-midterms-and-us-middle-east-strategy/"
+    },
+    {
+     "text": "The Gulf Today: A Discussion in Memory of Aziz Alghashian",
+     "url": "https://mei.edu/events/the-gulf-today-a-discussion-in-memory-of-aziz-alghashian/"
+    },
+    {
+     "text": "The Iran War\u2019s Impact on MENA Economies: What Is the Cost?",
+     "url": "https://mei.edu/events/the-iran-wars-impact-on-mena-economies-what-is-the-cost/"
+    },
+    {
+     "text": "El Sett \u2013 Film Screening",
+     "url": "https://mei.edu/events/el-sett-film-screening/"
+    },
+    {
+     "text": "Senator Chris Murphy: Debrief on His Recent Travel to the Gu",
+     "url": "https://mei.edu/events/senator-chris-murphy-debrief-on-his-recent-travel-to-the-gulf/"
+    },
+    {
+     "text": "Israel\u2019s First Post-October 7 Election: What Could Change?",
+     "url": "https://mei.edu/events/israels-first-post-october-7-election-what-could-change/"
+    },
+    {
+     "text": "MEI Report Launch | The Middle East Beyond the Iran War",
+     "url": "https://mei.edu/events/mei-report-launch-the-middle-east-beyond-the-iran-war/"
+    },
+    {
+     "text": "The Future of the US AI \u201cStack\u201d in the Middle East",
+     "url": "https://mei.edu/events/the-future-of-the-us-ai-stack-in-the-middle-east/"
+    },
+    {
+     "text": "Riyadh\u2019s Yemen Dilemma: Allies, Risks and Regional Stakes",
+     "url": "https://mei.edu/events/riyadhs-yemen-dilemma-allies-risks-and-regional-stakes/"
+    },
+    {
+     "text": "The Mecca Defense Alliance and the Potential for a New Regio",
+     "url": "https://mei.edu/events/the-mecca-defense-alliance-and-the-potential-for-a-new-regional-security-framework/"
+    },
+    {
+     "text": "Load More",
+     "url": "https://mei.edu/events/?pg=2"
+    }
+   ],
+   "platform": "wordpress",
+   "error": ""
+  },
+  {
+   "url": "https://mei.edu/exhibition/el-marsam-modern-and-contemporary-art-from-egypt/",
+   "status": 200,
+   "final_url": "https://mei.edu/exhibition/el-marsam-modern-and-contemporary-art-from-egypt/",
+   "title": "El Marsam: Modern and Contemporary Art from Egypt - Middle East Institute",
+   "dates": 2,
+   "jsonld": 0,
+   "jsonld_samples": [],
+   "hints": [
+    "https://mei.edu/feed/",
+    "https://mei.edu/comments/feed/",
+    "https://mei.edu/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fmei.edu%2Fexhibition%2Fel-marsam-modern-and-contemporary-art-from-egypt%2F",
+    "https://mei.edu/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fmei.edu%2Fexhibition%2Fel-marsam-modern-and-contemporary-art-from-egypt%2F&format=xml",
+    "https://mei.edu/wp-json/wp/v2/exhibition/57043",
+    "https://mei.edu/ar/exhibition/el-marsam-modern-and-contemporary-art-from-egypt/"
+   ],
+   "iframes": [
+    "about:blank"
+   ],
+   "event_links": [
+    {
+     "text": "Events",
+     "url": "https://mei.edu/events/"
+    },
+    {
+     "text": "Schedule a Visit",
+     "url": "https://app.acuityscheduling.com/schedule.php?owner=20905902"
+    },
+    {
+     "text": "Security Fellowship Program",
+     "url": "https://mei.edu/mei-security-fellowship-program/"
+    },
+    {
+     "text": "Exhibition Catalog",
+     "url": "https://mei.edu/wp-content/uploads/2026/08/El-Marsam-Modern-and-Contemporary-Art-from-Egypt_MEI-Art-Gallery-2026_Catalog.pdf"
+    },
+    {
+     "text": "Egyptian modern art takes center stage at Washington exhibit",
+     "url": "https://www.arabnews.com/lifestyle/egyptian-modern-art-takes-center-stage-at-washington-exhibition-3008793"
+    },
+    {
+     "text": "Washington exhibition showcases nearly 90 years of modern an",
+     "url": "https://english.ahram.org.eg/UI/Front/Inner.aspx?NewsContentID=576985"
+    },
+    {
+     "text": "A Century of Egyptian Art",
+     "url": "https://mei.edu/events/a-century-of-egyptian-art/"
+    },
+    {
+     "text": "El Sett \u2013 Film Screening",
+     "url": "https://mei.edu/events/el-sett-film-screening/"
+    },
+    {
+     "text": "Public Opening | El Marsam: Modern and Contemporary Art from",
+     "url": "https://mei.edu/events/public-opening-el-marsam-modern-and-contemporary-art-from-egypt/"
+    }
+   ],
+   "platform": "wordpress",
+   "error": ""
+  },
+  {
+   "url": "https://mei.edu/mei-security-fellowship-program/",
+   "status": 200,
+   "final_url": "https://mei.edu/mei-security-fellowship-program/",
+   "title": "MEI Security Fellowship Program - Middle East Institute",
+   "dates": 4,
+   "jsonld": 0,
+   "jsonld_samples": [],
+   "hints": [
+    "https://mei.edu/feed/",
+    "https://mei.edu/comments/feed/",
+    "https://mei.edu/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fmei.edu%2Fmei-security-fellowship-program%2F",
+    "https://mei.edu/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fmei.edu%2Fmei-security-fellowship-program%2F&format=xml",
+    "https://mei.edu/wp-json/wp/v2/pages/53363",
+    "https://mei.edu/ar/mei-security-fellowship-program/"
+   ],
+   "iframes": [
+    "about:blank"
+   ],
+   "event_links": [
+    {
+     "text": "Events",
+     "url": "https://mei.edu/events/"
+    },
+    {
+     "text": "Schedule a Visit",
+     "url": "https://app.acuityscheduling.com/schedule.php?owner=20905902"
+    },
+    {
+     "text": "Current Exhibition",
+     "url": "https://mei.edu/exhibition/el-marsam-modern-and-contemporary-art-from-egypt/"
+    }
+   ],
+   "platform": "wordpress",
+   "error": ""
+  },
+  {
+   "url": "https://mei.edu/events/the-direction-of-israeli-foreign-policy-under-the-next-government/",
+   "status": 200,
+   "final_url": "https://mei.edu/events/the-direction-of-israeli-foreign-policy-under-the-next-government/",
+   "title": "The Direction of Israeli Foreign Policy Under the Next Government - Middle East Institute",
+   "dates": 5,
+   "jsonld": 0,
+   "jsonld_samples": [],
+   "hints": [
+    "https://mei.edu/feed/",
+    "https://mei.edu/comments/feed/",
+    "https://mei.edu/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fmei.edu%2Fevents%2Fthe-direction-of-israeli-foreign-policy-under-the-next-government%2F",
+    "https://mei.edu/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fmei.edu%2Fevents%2Fthe-direction-of-israeli-foreign-policy-under-the-next-government%2F&format=xml",
+    "https://mei.edu/wp-json/wp/v2/event/61834",
+    "https://mei.edu/ar/events/the-direction-of-israeli-foreign-policy-under-the-next-government/"
+   ],
+   "iframes": [
+    "about:blank"
+   ],
+   "event_links": [
+    {
+     "text": "Events",
+     "url": "https://mei.edu/events/"
+    },
+    {
+     "text": "Schedule a Visit",
+     "url": "https://app.acuityscheduling.com/schedule.php?owner=20905902"
+    },
+    {
+     "text": "Current Exhibition",
+     "url": "https://mei.edu/exhibition/el-marsam-modern-and-contemporary-art-from-egypt/"
+    },
+    {
+     "text": "Security Fellowship Program",
+     "url": "https://mei.edu/mei-security-fellowship-program/"
+    }
+   ],
+   "platform": "wordpress",
+   "error": ""
+  }
+ ],
+ "best_page": "https://mei.edu/events/"
+}

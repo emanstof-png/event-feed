@@ -4,9 +4,9 @@
  "seed_url": "https://www.shakespearetheatre.org/tickets-and-events/special-offers/under-35",
  "programs": "",
  "access": "",
- "found": "2026-11-28 01:58Z",
+ "found": "2026-11-28 02:54Z",
  "search_hits": [],
- "search_error": "html.duckduckgo.com Timeout; www.bing.com 0 hits (200, 135366b); lite.duckduckgo.com Timeout",
+ "search_error": "html.duckduckgo.com Timeout; www.bing.com 0 hits (200, 134489b); lite.duckduckgo.com Timeout",
  "probes": [
   {
    "url": "https://www.shakespearetheatre.org/wp-json/tribe/events/v1/events?per_page=10",
@@ -71,8 +71,8 @@
    "url": "https://www.shakespearetheatre.org/",
    "status": 200,
    "final_url": "https://www.shakespearetheatre.org/",
-   "title": "STC HOME - Shakespeare Theatre Company",
-   "dates": 7,
+   "title": "Shakespeare Theatre Company",
+   "dates": 0,
    "jsonld": 0,
    "jsonld_samples": [],
    "hints": [],
@@ -87,62 +87,6 @@
      "url": "https://www.shakespearetheatre.org/education/learning-programs/"
     },
     {
-     "text": "GET TICKETS",
-     "url": "https://www.shakespearetheatre.org/events/a-midsummer-nights-dream-26-27/"
-    },
-    {
-     "text": "SUBSCRIBE",
-     "url": "https://www.shakespearetheatre.org/events/26-27-season/"
-    },
-    {
-     "text": "TICKETS",
-     "url": "https://www.shakespearetheatre.org/events/a-raisin-in-the-sun-26-27/"
-    },
-    {
-     "text": "TICKETS",
-     "url": "https://www.shakespearetheatre.org/events/romeo-and-juliet-26-27/"
-    },
-    {
-     "text": "TICKETS",
-     "url": "https://www.shakespearetheatre.org/events/follies-26-27/"
-    },
-    {
-     "text": "TICKETS",
-     "url": "https://www.shakespearetheatre.org/events/stca-the-merry-wives-of-windsor-27/"
-    },
-    {
-     "text": "TICKETS",
-     "url": "https://www.shakespearetheatre.org/events/stca-pericles-27/"
-    },
-    {
-     "text": "REGISTER NOW",
-     "url": "https://www.shakespearetheatre.org/events/youth-teen-classes-26-27/"
-    },
-    {
-     "text": "REGISTER NOW",
-     "url": "https://www.shakespearetheatre.org/events/adult-classes-26-27/"
-    },
-    {
-     "text": "SALON SESSIONS",
-     "url": "https://www.shakespearetheatre.org/events/stc-salon-26-27/"
-    },
-    {
-     "text": "School Programs In Class and Online",
-     "url": "https://www.shakespearetheatre.org/education/school-programs/"
-    },
-    {
-     "text": "BOOK NOW",
-     "url": "https://www.shakespearetheatre.org/tickets-and-events/special-offers/group-sales/"
-    },
-    {
-     "text": "LEARN MORE",
-     "url": "https://www.shakespearetheatre.org/tickets-and-events/special-offers/under-35"
-    },
-    {
-     "text": "PURCHASE",
-     "url": "https://www.shakespearetheatre.org/tickets-and-events/customer-service/gift-certificates"
-    },
-    {
      "text": "Customer Service",
      "url": "https://www.shakespearetheatre.org/tickets-and-events/customer-service/"
     },
@@ -155,7 +99,7 @@
      "url": "https://www.shakespearetheatre.org/whats-on"
     }
    ],
-   "platform": "wordpress",
+   "platform": "",
    "error": ""
   },
   {
@@ -365,5 +309,5 @@
    "error": ""
   }
  ],
- "best_page": "https://www.shakespearetheatre.org/"
+ "best_page": "https://www.shakespearetheatre.org/tickets-and-events/special-offers/under-35"
 }

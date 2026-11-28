@@ -1,0 +1,443 @@
+{
+ "row": "167",
+ "name": "Temple Rodef Shalom",
+ "seed_url": "https://templerodefshalom.org/events",
+ "programs": "",
+ "access": "",
+ "found": "2026-11-28 02:59Z",
+ "search_hits": [],
+ "search_error": "html.duckduckgo.com Timeout; www.bing.com 0 hits (200, 120674b); lite.duckduckgo.com Timeout",
+ "probes": [
+  {
+   "url": "https://www.templerodefshalom.org/wp-json/tribe/events/v1/events?per_page=10",
+   "status": 200,
+   "events": 10,
+   "head": "{\"events\":[{\"id\":10001763,\"global_id\":\"www.templerodefshalom.org?id=10001763\",\"global_id_lineage\":[\"www.templerodefshalom.org?id=10001763\"],\"author\":\"22\",\"status\":\"publish\",\"date\":\"2026-03-27 08:36:24\",\"date_utc\":\"2026-03-27 12:36:24\",\"modified\":\"2026-11-25 10:32:26\",\"modified_utc\":\"2026-11-25 15:32"
+  },
+  {
+   "url": "https://www.templerodefshalom.org/events/?ical=1",
+   "status": 200,
+   "events": 30,
+   "head": "BEGIN:VCALENDAR\r\nVERSION:2.0\r\nPRODID:-//Temple Rodef Shalom - ECPv6.18.4.1//NONSGML v1.0//EN\r\nCALSCALE:GREGORIAN\r\nMETHOD:PUBLISH\r\nX-WR-CALNAME:Temple Rodef Shalom\r\nX-ORIGINAL-URL:https://www.templerodefshalom.org\r\nX-WR-CALDESC:Events for Temple Rodef Shalom\r\nREFRESH-INTERVAL;VALUE=DURATION:PT1H\r\nX-R"
+  },
+  {
+   "url": "https://www.templerodefshalom.org/?ical=1",
+   "status": 200,
+   "events": 30,
+   "head": "BEGIN:VCALENDAR\r\nVERSION:2.0\r\nPRODID:-//Temple Rodef Shalom - ECPv6.18.4.1//NONSGML v1.0//EN\r\nCALSCALE:GREGORIAN\r\nMETHOD:PUBLISH\r\nX-WR-CALNAME:Temple Rodef Shalom\r\nX-ORIGINAL-URL:https://www.templerodefshalom.org\r\nX-WR-CALDESC:Events for Temple Rodef Shalom\r\nREFRESH-INTERVAL;VALUE=DURATION:PT1H\r\nX-R"
+  }
+ ],
+ "pages": [
+  {
+   "url": "https://templerodefshalom.org/events",
+   "status": 200,
+   "final_url": "https://www.templerodefshalom.org/events/",
+   "title": "Events | Temple Rodef Shalom",
+   "dates": 4,
+   "jsonld": 21,
+   "jsonld_samples": [
+    {
+     "name": "Tent: Movement Mavens: Chair Yoga (virtual, weekly most Fridays)",
+     "start": "2026-12-04T10:00:00-05:00",
+     "url": "https://www.templerodefshalom.org/event/tent-movement-mavens-chair-yoga-in-person/2026-12-04/"
+    },
+    {
+     "name": "First Year Mom&#8217;s Group (Ages 0-1) (Fridays, weekly during the school year)",
+     "start": "2026-12-04T09:30:00-05:00",
+     "url": "https://www.templerodefshalom.org/event/first-year-moms-group-weekly-during-the-school-year-2/2026-12-04/"
+    },
+    {
+     "name": "Support Group: Caring for Someone with Cognitive and/or Mobility Changes",
+     "start": "2026-12-03T14:00:00-05:00",
+     "url": "https://www.templerodefshalom.org/event/caring-cohort-caring-for-someone-with-cognitive-and-or-mobility-changes/2026-12-03/"
+    },
+    {
+     "name": "Treasures Chanukah Bazaar",
+     "start": "2026-12-03T11:00:00-05:00",
+     "url": "https://www.templerodefshalom.org/event/treasures-chanukah-bazaar-2/2026-12-03/"
+    },
+    {
+     "name": "Men of TRS (MoTRS) Walk &#038; Talk (every other Thursday)",
+     "start": "2026-12-03T10:30:00-05:00",
+     "url": "https://www.templerodefshalom.org/event/men-of-trs-motrs-walk-talk-every-other-thursday/2026-12-03/"
+    }
+   ],
+   "hints": [
+    "https://www.templerodefshalom.org/feed/",
+    "https://www.templerodefshalom.org/feed/atom/",
+    "https://www.templerodefshalom.org/events/feed/",
+    "https://www.templerodefshalom.org/wp-json/tribe/events/v1/",
+    "webcal://www.templerodefshalom.org/?post_type=tribe_events&ical=1&eventDisplay=list",
+    "https://www.templerodefshalom.org/events/photo/?ical=1",
+    "https://www.templerodefshalom.org/events/photo/?outlook-ical=1"
+   ],
+   "iframes": [],
+   "event_links": [
+    {
+     "text": "Calendar",
+     "url": "https://www.templerodefshalom.org/calendar/"
+    },
+    {
+     "text": "Program Guide",
+     "url": "https://www.templerodefshalom.org/about/program-guide/"
+    },
+    {
+     "text": "Photo",
+     "url": "https://www.templerodefshalom.org/events/photo/"
+    },
+    {
+     "text": "",
+     "url": "https://www.templerodefshalom.org/events/photo/?eventDisplay=past"
+    },
+    {
+     "text": "",
+     "url": "https://www.templerodefshalom.org/events/photo/page/2/"
+    },
+    {
+     "text": "WoTRS Mah Jongg Card Sales",
+     "url": "https://www.templerodefshalom.org/event/wotrs-mah-jongg-card-sales/"
+    },
+    {
+     "text": "Tot Shabbat (4th Saturdays)",
+     "url": "https://www.templerodefshalom.org/event/lay-led-torah-study-weekly-in-person-virtual/2026-11-28/"
+    },
+    {
+     "text": "",
+     "url": "https://www.templerodefshalom.org/series/lay-led-torah-study-weekly-in-person-virtual/"
+    },
+    {
+     "text": "Torah Study (In Person & Virtual)",
+     "url": "https://www.templerodefshalom.org/event/torah-study-weekly-during-the-school-year/2026-11-28/"
+    },
+    {
+     "text": "",
+     "url": "https://www.templerodefshalom.org/series/torah-study-weekly-during-the-school-year/"
+    },
+    {
+     "text": "Arlington Food Assistance Center (AFAC) Volunteer Shift (Mon",
+     "url": "https://www.templerodefshalom.org/event/arlington-food-assistance-center-afac-volunteer-shift-4/2026-11-29/"
+    },
+    {
+     "text": "",
+     "url": "https://www.templerodefshalom.org/series/arlington-food-assistance-center-afac-volunteer-shift-2/"
+    },
+    {
+     "text": "Treasures Chanukah Bazaar",
+     "url": "https://www.templerodefshalom.org/event/treasures-chanukah-bazaar-2/2026-11-30/"
+    },
+    {
+     "text": "",
+     "url": "https://www.templerodefshalom.org/series/treasures-chanukah-bazaar-2/"
+    },
+    {
+     "text": "Treasures Chanukah Bazaar",
+     "url": "https://www.templerodefshalom.org/event/treasures-chanukah-bazaar-2/2026-12-01/"
+    },
+    {
+     "text": "Tent: Roll & Rule Board Gamers",
+     "url": "https://www.templerodefshalom.org/event/tent-roll-rule-board-gamers-every-other-week/2026-12-01/"
+    },
+    {
+     "text": "",
+     "url": "https://www.templerodefshalom.org/series/tent-roll-rule-board-gamers-every-other-week/"
+    },
+    {
+     "text": "An Evening with Rula Daood and Alon-Lee Green of Standing To",
+     "url": "https://www.templerodefshalom.org/event/an-evening-with-rula-daood-and-alon-lee-green-of-standing-together/"
+    },
+    {
+     "text": "Tent: The American Jewish Community \u2013 What\u2019s Next? (Virtual,",
+     "url": "https://www.templerodefshalom.org/event/tent-the-american-jewish-diaspora-whats-next-virtual-bi-weekly/2026-12-01/"
+    },
+    {
+     "text": "",
+     "url": "https://www.templerodefshalom.org/series/tent-the-american-jewish-diaspora-whats-next-virtual-bi-weekly/"
+    },
+    {
+     "text": "Rally at the Supreme Court to Support Bans on Assault Weapon",
+     "url": "https://www.templerodefshalom.org/event/rally-at-the-supreme-court-to-support-bans-on-assault-weapons/"
+    },
+    {
+     "text": "First Friends (1-2 years + Caregiver)",
+     "url": "https://www.templerodefshalom.org/event/first-friends-1-2-years-caregiver/2026-12-02/"
+    },
+    {
+     "text": "",
+     "url": "https://www.templerodefshalom.org/series/first-friends-1-2-years-caregiver/"
+    },
+    {
+     "text": "Treasures Chanukah Bazaar",
+     "url": "https://www.templerodefshalom.org/event/treasures-chanukah-bazaar-2/2026-12-02/"
+    },
+    {
+     "text": "WoTRS Wednesday Drop-In Mah Jongg (weekly)",
+     "url": "https://www.templerodefshalom.org/event/wotrs-wednesday-drop-in-mah-jongg/2026-12-02/"
+    }
+   ],
+   "platform": "wordpress tribe-events shulcloud [All in One SEO (AIOSEO) 5.0.5.1]",
+   "error": ""
+  },
+  {
+   "url": "https://www.templerodefshalom.org/",
+   "status": 200,
+   "final_url": "https://www.templerodefshalom.org/",
+   "title": "Temple Rodef Shalom - Reform Temple in Northern VA",
+   "dates": 1,
+   "jsonld": 0,
+   "jsonld_samples": [],
+   "hints": [
+    "https://www.templerodefshalom.org/feed/",
+    "https://www.templerodefshalom.org/feed/atom/",
+    "https://www.templerodefshalom.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.templerodefshalom.org%2F",
+    "https://www.templerodefshalom.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.templerodefshalom.org%2F&format=xml",
+    "https://www.templerodefshalom.org/wp-json/wp/v2/pages/2",
+    "https://www.templerodefshalom.org/wp-json/tribe/events/v1/"
+   ],
+   "iframes": [],
+   "event_links": [
+    {
+     "text": "Calendar",
+     "url": "https://www.templerodefshalom.org/calendar/"
+    },
+    {
+     "text": "Events",
+     "url": "https://www.templerodefshalom.org/events/"
+    },
+    {
+     "text": "Program Guide",
+     "url": "https://www.templerodefshalom.org/about/program-guide/"
+    }
+   ],
+   "platform": "wordpress tribe-events shulcloud [All in One SEO (AIOSEO) 5.0.5.1]",
+   "error": ""
+  },
+  {
+   "url": "https://www.templerodefshalom.org/calendar/",
+   "status": 200,
+   "final_url": "https://www.templerodefshalom.org/calendar/",
+   "title": "Calendar | Temple Rodef Shalom - Reform Temple in Northern VA",
+   "dates": 0,
+   "jsonld": 0,
+   "jsonld_samples": [],
+   "hints": [
+    "https://www.templerodefshalom.org/feed/",
+    "https://www.templerodefshalom.org/feed/atom/",
+    "https://www.templerodefshalom.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.templerodefshalom.org%2Fcalendar%2F",
+    "https://www.templerodefshalom.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.templerodefshalom.org%2Fcalendar%2F&format=xml",
+    "https://www.templerodefshalom.org/wp-json/wp/v2/pages/8",
+    "https://www.templerodefshalom.org/wp-json/tribe/events/v1/"
+   ],
+   "iframes": [
+    "https://templerodefshalom.mhsoftware.com/ViewCal.html?dropdown=1&calendar_id=2"
+   ],
+   "event_links": [
+    {
+     "text": "Events",
+     "url": "https://www.templerodefshalom.org/events/"
+    },
+    {
+     "text": "Program Guide",
+     "url": "https://www.templerodefshalom.org/about/program-guide/"
+    }
+   ],
+   "platform": "wordpress tribe-events shulcloud [All in One SEO (AIOSEO) 5.0.5.1]",
+   "error": ""
+  },
+  {
+   "url": "https://www.templerodefshalom.org/about/program-guide/",
+   "status": 200,
+   "final_url": "https://www.templerodefshalom.org/about/program-guide/",
+   "title": "Program Guide | Temple Rodef Shalom - Reform Temple in Northern VA",
+   "dates": 1,
+   "jsonld": 0,
+   "jsonld_samples": [],
+   "hints": [
+    "https://www.templerodefshalom.org/feed/",
+    "https://www.templerodefshalom.org/feed/atom/",
+    "https://www.templerodefshalom.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.templerodefshalom.org%2Fabout%2Fprogram-guide%2F",
+    "https://www.templerodefshalom.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.templerodefshalom.org%2Fabout%2Fprogram-guide%2F&format=xml",
+    "https://www.templerodefshalom.org/wp-json/wp/v2/pages/133",
+    "https://www.templerodefshalom.org/wp-json/tribe/events/v1/"
+   ],
+   "iframes": [
+    "about:blank"
+   ],
+   "event_links": [
+    {
+     "text": "Calendar",
+     "url": "https://www.templerodefshalom.org/calendar/"
+    },
+    {
+     "text": "Events",
+     "url": "https://www.templerodefshalom.org/events/"
+    }
+   ],
+   "platform": "wordpress tribe-events shulcloud [All in One SEO (AIOSEO) 5.0.5.1]",
+   "error": ""
+  },
+  {
+   "url": "https://www.templerodefshalom.org/events/photo/",
+   "status": 200,
+   "final_url": "https://www.templerodefshalom.org/events/photo/",
+   "title": "Events | Temple Rodef Shalom",
+   "dates": 4,
+   "jsonld": 21,
+   "jsonld_samples": [
+    {
+     "name": "Tent: Movement Mavens: Chair Yoga (virtual, weekly most Fridays)",
+     "start": "2026-12-04T10:00:00-05:00",
+     "url": "https://www.templerodefshalom.org/event/tent-movement-mavens-chair-yoga-in-person/2026-12-04/"
+    },
+    {
+     "name": "First Year Mom&#8217;s Group (Ages 0-1) (Fridays, weekly during the school year)",
+     "start": "2026-12-04T09:30:00-05:00",
+     "url": "https://www.templerodefshalom.org/event/first-year-moms-group-weekly-during-the-school-year-2/2026-12-04/"
+    },
+    {
+     "name": "Support Group: Caring for Someone with Cognitive and/or Mobility Changes",
+     "start": "2026-12-03T14:00:00-05:00",
+     "url": "https://www.templerodefshalom.org/event/caring-cohort-caring-for-someone-with-cognitive-and-or-mobility-changes/2026-12-03/"
+    },
+    {
+     "name": "Treasures Chanukah Bazaar",
+     "start": "2026-12-03T11:00:00-05:00",
+     "url": "https://www.templerodefshalom.org/event/treasures-chanukah-bazaar-2/2026-12-03/"
+    },
+    {
+     "name": "Men of TRS (MoTRS) Walk &#038; Talk (every other Thursday)",
+     "start": "2026-12-03T10:30:00-05:00",
+     "url": "https://www.templerodefshalom.org/event/men-of-trs-motrs-walk-talk-every-other-thursday/2026-12-03/"
+    }
+   ],
+   "hints": [
+    "https://www.templerodefshalom.org/feed/",
+    "https://www.templerodefshalom.org/feed/atom/",
+    "https://www.templerodefshalom.org/events/feed/",
+    "https://www.templerodefshalom.org/wp-json/tribe/events/v1/",
+    "webcal://www.templerodefshalom.org/?post_type=tribe_events&ical=1&eventDisplay=list",
+    "https://www.templerodefshalom.org/events/photo/?ical=1",
+    "https://www.templerodefshalom.org/events/photo/?outlook-ical=1"
+   ],
+   "iframes": [],
+   "event_links": [
+    {
+     "text": "Calendar",
+     "url": "https://www.templerodefshalom.org/calendar/"
+    },
+    {
+     "text": "Events",
+     "url": "https://www.templerodefshalom.org/events/"
+    },
+    {
+     "text": "Program Guide",
+     "url": "https://www.templerodefshalom.org/about/program-guide/"
+    },
+    {
+     "text": "",
+     "url": "https://www.templerodefshalom.org/events/photo/?eventDisplay=past"
+    },
+    {
+     "text": "WoTRS Mah Jongg Card Sales",
+     "url": "https://www.templerodefshalom.org/event/wotrs-mah-jongg-card-sales/"
+    },
+    {
+     "text": "Tot Shabbat (4th Saturdays)",
+     "url": "https://www.templerodefshalom.org/event/lay-led-torah-study-weekly-in-person-virtual/2026-11-28/"
+    },
+    {
+     "text": "",
+     "url": "https://www.templerodefshalom.org/series/lay-led-torah-study-weekly-in-person-virtual/"
+    },
+    {
+     "text": "Torah Study (In Person & Virtual)",
+     "url": "https://www.templerodefshalom.org/event/torah-study-weekly-during-the-school-year/2026-11-28/"
+    },
+    {
+     "text": "",
+     "url": "https://www.templerodefshalom.org/series/torah-study-weekly-during-the-school-year/"
+    },
+    {
+     "text": "Arlington Food Assistance Center (AFAC) Volunteer Shift (Mon",
+     "url": "https://www.templerodefshalom.org/event/arlington-food-assistance-center-afac-volunteer-shift-4/2026-11-29/"
+    },
+    {
+     "text": "",
+     "url": "https://www.templerodefshalom.org/series/arlington-food-assistance-center-afac-volunteer-shift-2/"
+    },
+    {
+     "text": "Treasures Chanukah Bazaar",
+     "url": "https://www.templerodefshalom.org/event/treasures-chanukah-bazaar-2/2026-11-30/"
+    },
+    {
+     "text": "",
+     "url": "https://www.templerodefshalom.org/series/treasures-chanukah-bazaar-2/"
+    },
+    {
+     "text": "Treasures Chanukah Bazaar",
+     "url": "https://www.templerodefshalom.org/event/treasures-chanukah-bazaar-2/2026-12-01/"
+    },
+    {
+     "text": "Tent: Roll & Rule Board Gamers",
+     "url": "https://www.templerodefshalom.org/event/tent-roll-rule-board-gamers-every-other-week/2026-12-01/"
+    },
+    {
+     "text": "",
+     "url": "https://www.templerodefshalom.org/series/tent-roll-rule-board-gamers-every-other-week/"
+    },
+    {
+     "text": "An Evening with Rula Daood and Alon-Lee Green of Standing To",
+     "url": "https://www.templerodefshalom.org/event/an-evening-with-rula-daood-and-alon-lee-green-of-standing-together/"
+    },
+    {
+     "text": "Tent: The American Jewish Community \u2013 What\u2019s Next? (Virtual,",
+     "url": "https://www.templerodefshalom.org/event/tent-the-american-jewish-diaspora-whats-next-virtual-bi-weekly/2026-12-01/"
+    },
+    {
+     "text": "",
+     "url": "https://www.templerodefshalom.org/series/tent-the-american-jewish-diaspora-whats-next-virtual-bi-weekly/"
+    },
+    {
+     "text": "Rally at the Supreme Court to Support Bans on Assault Weapon",
+     "url": "https://www.templerodefshalom.org/event/rally-at-the-supreme-court-to-support-bans-on-assault-weapons/"
+    },
+    {
+     "text": "First Friends (1-2 years + Caregiver)",
+     "url": "https://www.templerodefshalom.org/event/first-friends-1-2-years-caregiver/2026-12-02/"
+    },
+    {
+     "text": "",
+     "url": "https://www.templerodefshalom.org/series/first-friends-1-2-years-caregiver/"
+    },
+    {
+     "text": "Treasures Chanukah Bazaar",
+     "url": "https://www.templerodefshalom.org/event/treasures-chanukah-bazaar-2/2026-12-02/"
+    },
+    {
+     "text": "WoTRS Wednesday Drop-In Mah Jongg (weekly)",
+     "url": "https://www.templerodefshalom.org/event/wotrs-wednesday-drop-in-mah-jongg/2026-12-02/"
+    },
+    {
+     "text": "",
+     "url": "https://www.templerodefshalom.org/series/wotrs-wednesday-drop-in-mah-jongg/"
+    }
+   ],
+   "platform": "wordpress tribe-events shulcloud [All in One SEO (AIOSEO) 5.0.5.1]",
+   "error": ""
+  },
+  {
+   "url": "https://www.templerodefshalom.org/events/photo/?eventDisplay=past",
+   "status": 301,
+   "final_url": "https://www.templerodefshalom.org/events/photo/?eventDisplay=past",
+   "title": "",
+   "dates": 0,
+   "jsonld": 0,
+   "jsonld_samples": [],
+   "hints": [],
+   "iframes": [],
+   "event_links": [],
+   "platform": "",
+   "error": ""
+  }
+ ],
+ "best_page": "https://templerodefshalom.org/events"
+}

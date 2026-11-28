@@ -1,0 +1,427 @@
+{
+ "row": "170",
+ "name": "Hadar DC",
+ "seed_url": "https://hadar.org/learn/classes-events/hadar-dc-home-hosted-learning-downtown",
+ "programs": "",
+ "access": "",
+ "found": "2026-11-28 03:01Z",
+ "search_hits": [],
+ "search_error": "html.duckduckgo.com Timeout; www.bing.com 0 hits (200, 119001b); lite.duckduckgo.com Timeout",
+ "probes": [
+  {
+   "url": "https://hadar.org/wp-json/tribe/events/v1/events?per_page=10",
+   "status": "HTTPError",
+   "events": 0
+  },
+  {
+   "url": "https://hadar.org/events/?ical=1",
+   "status": "HTTPError",
+   "events": 0
+  },
+  {
+   "url": "https://hadar.org/?ical=1",
+   "status": 200,
+   "events": 0,
+   "head": "<!DOCTYPE html>\n<html lang=\"en\" dir=\"ltr\" prefix=\"content: http://purl.org/rss/1.0/modules/content/  dc: http://purl.org/dc/terms/  foaf: http://xmlns.com/foaf/0.1/  og: http://ogp.me/ns#  rdfs: http://www.w3.org/2000/01/rdf-schema#  schema: http://schema.org/  sioc: http://rdfs.org/sioc/ns#  sioct:"
+  }
+ ],
+ "pages": [
+  {
+   "url": "https://hadar.org/learn/classes-events/hadar-dc-home-hosted-learning-downtown",
+   "status": null,
+   "final_url": "",
+   "title": "",
+   "dates": 0,
+   "jsonld": 0,
+   "jsonld_samples": [],
+   "hints": [],
+   "iframes": [],
+   "event_links": [],
+   "platform": "",
+   "error": "HTTPError: HTTP Error 403: "
+  },
+  {
+   "url": "https://hadar.org/",
+   "status": 200,
+   "final_url": "https://www.hadar.org/",
+   "title": "Home | Hadar Institute",
+   "dates": 100,
+   "jsonld": 0,
+   "jsonld_samples": [],
+   "hints": [],
+   "iframes": [
+    "https://secure.hadar.org/l/1046043/2023-12-08/jr2"
+   ],
+   "event_links": [
+    {
+     "text": "Classes & Events",
+     "url": "https://www.hadar.org/learn/classes-events"
+    },
+    {
+     "text": "Immersive Programs & Fellowships",
+     "url": "https://www.hadar.org/learn/immersives-fellowships"
+    },
+    {
+     "text": "REGISTER NOW",
+     "url": "https://www.hadar.org/learn/classes-events/hadar-virtual-open-house"
+    },
+    {
+     "text": "EXPLORE OFFERINGS",
+     "url": "https://www.hadar.org/learn/classes-events?field_regions_target_id=All&location_type=All&tid%5B686%5D=686"
+    },
+    {
+     "text": "DAILY MINYAN CALENDAR",
+     "url": "https://www.hadar.org/learn/daily-minyan"
+    },
+    {
+     "text": "",
+     "url": "https://www.hadar.org/learn/classes-events/teen-class-lives-jewish-text"
+    },
+    {
+     "text": "",
+     "url": "https://www.hadar.org/learn/classes-events/hadar-chicago-unlocking-siddur"
+    },
+    {
+     "text": "",
+     "url": "https://www.hadar.org/learn/classes-events/hadar-dc-woodley-park-home-hosted-learning-0"
+    },
+    {
+     "text": "",
+     "url": "https://www.hadar.org/learn/classes-events/hadar-dc-womens-parashah"
+    },
+    {
+     "text": "",
+     "url": "https://www.hadar.org/learn/classes-events/you-are-what-you-speak-torah-language"
+    },
+    {
+     "text": "",
+     "url": "https://www.hadar.org/learn/classes-events/hadar-west-prophecy-politics-age-miracles"
+    },
+    {
+     "text": "",
+     "url": "https://www.hadar.org/learn/classes-events/hadar-boston-advanced-leyning-class"
+    },
+    {
+     "text": "",
+     "url": "https://www.hadar.org/learn/classes-events/hadar-atlanta-how-critique-grows-relationships"
+    },
+    {
+     "text": "",
+     "url": "https://www.hadar.org/learn/classes-events/composers-beit-midrash"
+    },
+    {
+     "text": "",
+     "url": "https://www.hadar.org/learn/classes-events/hadar-atlanta-darkness-light-winter-song-circle"
+    },
+    {
+     "text": "",
+     "url": "https://www.hadar.org/learn/classes-events/rising-song-salon-feat-reynhartsik-yiddish-folk"
+    },
+    {
+     "text": "",
+     "url": "https://www.hadar.org/learn/classes-events/joey-weisenberg-concert-spontaneous-jewish-choir"
+    },
+    {
+     "text": "",
+     "url": "https://www.hadar.org/learn/classes-events/singing-our-way-home-rising-song-faculty-gathering"
+    },
+    {
+     "text": "",
+     "url": "https://www.hadar.org/learn/classes-events/hadar-dc-home-hosted-learning-shepherd-park-0"
+    },
+    {
+     "text": "",
+     "url": "https://www.hadar.org/learn/classes-events/weekly-parashah-class-oct-7-dec-16"
+    },
+    {
+     "text": "",
+     "url": "https://www.hadar.org/learn/classes-events/weekly-parashah-class-jan-6-apr-14-2027"
+    },
+    {
+     "text": "",
+     "url": "https://www.hadar.org/learn/classes-events/dr-eddie-scharfman-memorial-keynote"
+    },
+    {
+     "text": "",
+     "url": "https://www.hadar.org/learn/classes-events/hadar-chicago-sing-shevat-rising-song-gathering"
+    },
+    {
+     "text": "",
+     "url": "https://www.hadar.org/learn/classes-events/can-you-come-home-again-exploring-prophecies-ezra-and-nehemiah"
+    },
+    {
+     "text": "",
+     "url": "https://www.hadar.org/learn/classes-events/building-home-your-heart-hassidic-approaches-book-shemot"
+    }
+   ],
+   "platform": "drupal hubspot",
+   "error": ""
+  },
+  {
+   "url": "https://www.hadar.org/learn/classes-events",
+   "status": 200,
+   "final_url": "https://www.hadar.org/learn/classes-events",
+   "title": "Classes & Events | Hadar Institute",
+   "dates": 86,
+   "jsonld": 0,
+   "jsonld_samples": [],
+   "hints": [],
+   "iframes": [
+    "https://secure.hadar.org/l/1046043/2023-12-08/jr2"
+   ],
+   "event_links": [
+    {
+     "text": "Immersive Programs & Fellowships",
+     "url": "https://www.hadar.org/learn/immersives-fellowships"
+    },
+    {
+     "text": "All",
+     "url": "https://www.hadar.org/learn/classes-events?tid%5B0%5D=All"
+    },
+    {
+     "text": "Children & Families",
+     "url": "https://www.hadar.org/learn/classes-events?tid%5B0%5D=6"
+    },
+    {
+     "text": "Fall Zman",
+     "url": "https://www.hadar.org/learn/classes-events?tid%5B0%5D=686"
+    },
+    {
+     "text": "Hanukkah",
+     "url": "https://www.hadar.org/learn/classes-events?tid%5B0%5D=177"
+    },
+    {
+     "text": "Hasidut",
+     "url": "https://www.hadar.org/learn/classes-events?tid%5B0%5D=178"
+    },
+    {
+     "text": "HRSI Concert Series",
+     "url": "https://www.hadar.org/learn/classes-events?tid%5B0%5D=841"
+    },
+    {
+     "text": "Jewish Thought",
+     "url": "https://www.hadar.org/learn/classes-events?tid%5B0%5D=18"
+    },
+    {
+     "text": "Midrash",
+     "url": "https://www.hadar.org/learn/classes-events?tid%5B0%5D=197"
+    },
+    {
+     "text": "Music",
+     "url": "https://www.hadar.org/learn/classes-events?tid%5B0%5D=324"
+    },
+    {
+     "text": "Rising Song Institute",
+     "url": "https://www.hadar.org/learn/classes-events?tid%5B0%5D=73"
+    },
+    {
+     "text": "Talmud at Hadar",
+     "url": "https://www.hadar.org/learn/classes-events?tid%5B0%5D=776"
+    },
+    {
+     "text": "Tanakh",
+     "url": "https://www.hadar.org/learn/classes-events?tid%5B0%5D=239"
+    },
+    {
+     "text": "Teens",
+     "url": "https://www.hadar.org/learn/classes-events?tid%5B0%5D=670"
+    },
+    {
+     "text": "Weekly Parashah",
+     "url": "https://www.hadar.org/learn/classes-events?tid%5B0%5D=16"
+    },
+    {
+     "text": "Winter Zman",
+     "url": "https://www.hadar.org/learn/classes-events?tid%5B0%5D=698"
+    },
+    {
+     "text": "Yeshivat Hadar",
+     "url": "https://www.hadar.org/learn/classes-events?tid%5B0%5D=659"
+    },
+    {
+     "text": "",
+     "url": "https://www.hadar.org/learn/classes-events?mode=block_classes_events_listing"
+    },
+    {
+     "text": "",
+     "url": "https://www.hadar.org/learn/classes-events?mode=calendar"
+    },
+    {
+     "text": "",
+     "url": "https://www.hadar.org/learn/classes-events/teen-class-lives-jewish-text"
+    },
+    {
+     "text": "",
+     "url": "https://www.hadar.org/learn/classes-events/hadar-chicago-unlocking-siddur"
+    },
+    {
+     "text": "",
+     "url": "https://www.hadar.org/learn/classes-events/hadar-dc-woodley-park-home-hosted-learning-0"
+    },
+    {
+     "text": "",
+     "url": "https://www.hadar.org/learn/classes-events/hadar-west-eastside-beit-midrash-0"
+    },
+    {
+     "text": "",
+     "url": "https://www.hadar.org/learn/classes-events/hadar-dc-womens-parashah"
+    },
+    {
+     "text": "",
+     "url": "https://www.hadar.org/learn/classes-events/hadar-west-prophecy-politics-age-miracles"
+    }
+   ],
+   "platform": "drupal hubspot",
+   "error": ""
+  },
+  {
+   "url": "https://www.hadar.org/learn/immersives-fellowships",
+   "status": 200,
+   "final_url": "https://www.hadar.org/learn/immersives-fellowships",
+   "title": "Immersive Programs & Fellowships | Hadar Institute",
+   "dates": 54,
+   "jsonld": 0,
+   "jsonld_samples": [],
+   "hints": [],
+   "iframes": [
+    "https://secure.hadar.org/l/1046043/2023-12-08/jr2"
+   ],
+   "event_links": [
+    {
+     "text": "Classes & Events",
+     "url": "https://www.hadar.org/learn/classes-events"
+    }
+   ],
+   "platform": "drupal hubspot",
+   "error": ""
+  },
+  {
+   "url": "https://www.hadar.org/learn/classes-events/hadar-virtual-open-house",
+   "status": null,
+   "final_url": "",
+   "title": "",
+   "dates": 0,
+   "jsonld": 0,
+   "jsonld_samples": [],
+   "hints": [],
+   "iframes": [],
+   "event_links": [],
+   "platform": "",
+   "error": "HTTPError: HTTP Error 403: "
+  },
+  {
+   "url": "https://www.hadar.org/learn/classes-events?field_regions_target_id=All&location_type=All&tid%5B686%5D=686",
+   "status": 200,
+   "final_url": "https://www.hadar.org/learn/classes-events?field_regions_target_id=All&location_type=All&tid%5B686%5D=686",
+   "title": "Classes & Events | Hadar Institute",
+   "dates": 15,
+   "jsonld": 0,
+   "jsonld_samples": [],
+   "hints": [],
+   "iframes": [
+    "https://secure.hadar.org/l/1046043/2023-12-08/jr2"
+   ],
+   "event_links": [
+    {
+     "text": "Immersive Programs & Fellowships",
+     "url": "https://www.hadar.org/learn/immersives-fellowships"
+    },
+    {
+     "text": "All",
+     "url": "https://www.hadar.org/learn/classes-events?field_regions_target_id=All&location_type=All&tid%5B686%5D=686&tid%5B687%5D=All"
+    },
+    {
+     "text": "Children & Families",
+     "url": "https://www.hadar.org/learn/classes-events?field_regions_target_id=All&location_type=All&tid%5B686%5D=686&tid%5B687%5D=6"
+    },
+    {
+     "text": "Fall Zman",
+     "url": "https://www.hadar.org/learn/classes-events?field_regions_target_id=All&location_type=All"
+    },
+    {
+     "text": "Hanukkah",
+     "url": "https://www.hadar.org/learn/classes-events?field_regions_target_id=All&location_type=All&tid%5B686%5D=686&tid%5B687%5D=177"
+    },
+    {
+     "text": "Hasidut",
+     "url": "https://www.hadar.org/learn/classes-events?field_regions_target_id=All&location_type=All&tid%5B686%5D=686&tid%5B687%5D=178"
+    },
+    {
+     "text": "HRSI Concert Series",
+     "url": "https://www.hadar.org/learn/classes-events?field_regions_target_id=All&location_type=All&tid%5B686%5D=686&tid%5B687%5D=841"
+    },
+    {
+     "text": "Jewish Thought",
+     "url": "https://www.hadar.org/learn/classes-events?field_regions_target_id=All&location_type=All&tid%5B686%5D=686&tid%5B687%5D=18"
+    },
+    {
+     "text": "Midrash",
+     "url": "https://www.hadar.org/learn/classes-events?field_regions_target_id=All&location_type=All&tid%5B686%5D=686&tid%5B687%5D=197"
+    },
+    {
+     "text": "Music",
+     "url": "https://www.hadar.org/learn/classes-events?field_regions_target_id=All&location_type=All&tid%5B686%5D=686&tid%5B687%5D=324"
+    },
+    {
+     "text": "Rising Song Institute",
+     "url": "https://www.hadar.org/learn/classes-events?field_regions_target_id=All&location_type=All&tid%5B686%5D=686&tid%5B687%5D=73"
+    },
+    {
+     "text": "Talmud at Hadar",
+     "url": "https://www.hadar.org/learn/classes-events?field_regions_target_id=All&location_type=All&tid%5B686%5D=686&tid%5B687%5D=776"
+    },
+    {
+     "text": "Tanakh",
+     "url": "https://www.hadar.org/learn/classes-events?field_regions_target_id=All&location_type=All&tid%5B686%5D=686&tid%5B687%5D=239"
+    },
+    {
+     "text": "Teens",
+     "url": "https://www.hadar.org/learn/classes-events?field_regions_target_id=All&location_type=All&tid%5B686%5D=686&tid%5B687%5D=670"
+    },
+    {
+     "text": "Weekly Parashah",
+     "url": "https://www.hadar.org/learn/classes-events?field_regions_target_id=All&location_type=All&tid%5B686%5D=686&tid%5B687%5D=16"
+    },
+    {
+     "text": "Winter Zman",
+     "url": "https://www.hadar.org/learn/classes-events?field_regions_target_id=All&location_type=All&tid%5B686%5D=686&tid%5B687%5D=698"
+    },
+    {
+     "text": "Yeshivat Hadar",
+     "url": "https://www.hadar.org/learn/classes-events?field_regions_target_id=All&location_type=All&tid%5B686%5D=686&tid%5B687%5D=659"
+    },
+    {
+     "text": "",
+     "url": "https://www.hadar.org/learn/classes-events?mode=block_classes_events_listing&field_regions_target_id=All&location_type=All&tid%5B686%5D=686"
+    },
+    {
+     "text": "",
+     "url": "https://www.hadar.org/learn/classes-events?mode=calendar&field_regions_target_id=All&location_type=All&tid%5B686%5D=686"
+    },
+    {
+     "text": "",
+     "url": "https://www.hadar.org/learn/classes-events/you-are-what-you-speak-torah-language"
+    },
+    {
+     "text": "",
+     "url": "https://www.hadar.org/learn/classes-events/weekly-parashah-class-oct-7-dec-16"
+    },
+    {
+     "text": "",
+     "url": "https://www.hadar.org/learn/classes-events/tuesday-night-nigunim-oct-6-dec-15"
+    },
+    {
+     "text": "",
+     "url": "https://www.hadar.org/learn/classes-events/tuesday-night-talmud-oct-6-dec-15"
+    },
+    {
+     "text": "",
+     "url": "https://www.hadar.org/learn/classes-events/unlocking-talmud-kiddushin"
+    }
+   ],
+   "platform": "drupal hubspot",
+   "error": ""
+  }
+ ],
+ "best_page": "https://hadar.org/"
+}

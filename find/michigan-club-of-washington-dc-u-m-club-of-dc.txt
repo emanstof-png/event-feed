@@ -1,6 +1,6 @@
 Michigan Club of Washington DC (U-M Club of DC)
 best page: https://alumni.umich.edu/events/ (status 200, 17 date strings, 0 JSON-LD events)
-fetched 2026-11-28 01:52Z
+fetched 2026-11-28 02:48Z
 
 
 Events - Alumni Association of the University of Michigan

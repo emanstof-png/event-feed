@@ -1,6 +1,6 @@
 Cornell Club of Washington DC
 best page: https://www.cornellclubdc.org/page-1415767 (status 200, 114 date strings, 0 JSON-LD events)
-fetched 2026-11-28 01:50Z
+fetched 2026-11-28 02:45Z
 
  
 Cornell Club of Washington DC - EVENTS
