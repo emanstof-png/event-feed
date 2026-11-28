@@ -1,6 +1,6 @@
 SPAIN arts & culture (Washington)
 https://www.spainculture.us/city/washington-dc/feed/
-fetched 2026-11-27 23:09Z  status=25 items chars=16414 error=
+fetched 2026-11-28 00:48Z  status=25 items chars=16414 error=
 
 Spanish Young Music Talents: José Fraguas at The Kreeger Museum
 Thu, 28 Jan 2027 19:00:00 -0500

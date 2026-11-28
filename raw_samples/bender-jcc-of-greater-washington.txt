@@ -1,6 +1,6 @@
 Bender JCC of Greater Washington
 https://www.benderjccgw.org/calendar/month/
-fetched 2026-11-27 23:09Z  status=200 chars=16094 error=
+fetched 2026-11-28 00:48Z  status=200 chars=16094 error=
 
 2026 - Bender JCC
 Skip navigation and go to main content.
