@@ -1,6 +1,6 @@
 New America
 https://www.newamerica.org/events/
-fetched 2026-11-27 23:09Z  status=200 chars=6903 error=
+fetched 2026-11-28 00:48Z  status=200 chars=6834 error=
 
 Events - New America
 New America
@@ -68,16 +68,12 @@ Events
  [5]
 New America hosts various in-person, virtual, and hybrid events. Join the conversation.
 See Our Events
-December 1, 2026
 New Portrait of Computer Science Majors in the Age of AI
 New Portrait of Computer Science Majors in the Age of AI
-December 2, 2026
 The Best Kind of American
 The Best Kind of American
-December 3, 2026
 The Better Animal: A Hopeful Tale of a Future America
 The Better Animal: A Hopeful Tale of a Future America
-December 11, 2026
 Who Will Govern AI?
 Who Will Govern AI?
 About

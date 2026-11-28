@@ -1,6 +1,6 @@
 Kadampa Meditation Center DC
 https://www.meditation-dc.org/calendar
-fetched 2026-11-27 23:09Z  status=200 chars=1564 error=
+fetched 2026-11-28 00:48Z  status=200 chars=1508 error=
 
 Calendar | Kadampa Meditation Center - DC
 top of page
@@ -67,9 +67,6 @@ Sun
 25
 26
 27
-8:00 AM
-Heart Jewel Prayers & Silent Meditation
-+1 more
 28
 29
 10:00 AM

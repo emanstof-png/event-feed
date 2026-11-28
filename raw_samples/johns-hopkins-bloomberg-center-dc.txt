@@ -1,6 +1,6 @@
 Johns Hopkins Bloomberg Center DC
 https://washingtondc.jhu.edu/events/upcoming-events/
-fetched 2026-11-27 23:09Z  status=200 chars=4687 error=
+fetched 2026-11-28 00:48Z  status=200 chars=4687 error=
 
 Upcoming Events | Johns Hopkins in Washington, D.C.
 Johns Hopkins University

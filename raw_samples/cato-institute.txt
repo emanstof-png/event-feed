@@ -1,6 +1,6 @@
 Cato Institute
 https://www.cato.org/events/upcoming
-fetched 2026-11-27 23:09Z  status=200 chars=6096 error=
+fetched 2026-11-28 00:48Z  status=200 chars=6096 error=
 
 Upcoming Events | Cato Institute
       Skip to main content

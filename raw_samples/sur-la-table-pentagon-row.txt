@@ -1,6 +1,6 @@
 Sur La Table (Pentagon Row)
 https://www.surlatable.com/locations/va/arlington/cooking-classes-24.html
-fetched 2026-11-27 23:09Z  status=200 chars=9014 error=
+fetched 2026-11-28 00:48Z  status=200 chars=9012 error=
 
 Cooking Classes in Arlington | Sur La Table | Pentagon Row | Sur La Table
 Skip to Content
@@ -37,8 +37,6 @@ Your Sur La Table cooking class in Arlington, VA will be led by an expert instru
 Sur La Table cooking classes also make the perfect present for birthdays, anniversaries or any special occasion. Consider treating your loved ones to an unforgettable culinary experience, where they'll create delicious memories in our in-store kitchen.
 Browse All Classes
 		Upcoming Classes Available at Pentagon_Row
-The Croissant Workshop
-Nov 27, 09:00 AM  
 Signature Series: Croquembouche Wreath
 Nov 28, 09:00 AM  
 Date Night: Steakhouse Special
@@ -57,6 +55,8 @@ Signature Series: Cookie Exchange
 Nov 30, 10:00 AM  
 Winter Supper: Rack of Lamb
 Nov 30, 04:00 PM  
+From-Scratch Dim Sum
+Nov 30, 07:00 PM  
 				Browse All Classes
 Questions about a Class?
 Contact 

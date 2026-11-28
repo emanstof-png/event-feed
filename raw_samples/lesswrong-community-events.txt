@@ -1,6 +1,6 @@
 LessWrong community events
 https://www.lesswrong.com/community?filters=SSC
-fetched 2026-11-27 23:09Z  status=200 chars=1102 error=
+fetched 2026-11-28 00:48Z  status=200 chars=1102 error=
 
 Community — LessWrong
 x

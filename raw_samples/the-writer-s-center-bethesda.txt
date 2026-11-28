@@ -1,6 +1,6 @@
 The Writer's Center (Bethesda)
 https://writer.org/free-events-calendar/
-fetched 2026-11-27 23:09Z  status=200 chars=15108 error=
+fetched 2026-11-28 00:48Z  status=200 chars=15113 error=
 
 Events Calendar - The Writer's Center
 Skip to main content
@@ -45,9 +45,9 @@ Events
 														Writer Mixers													
 														Book Club													
 														Curated Conversation(s): a Latinx Poetry Show													
-Friday | 12:00 AM EST-11:59 PM EST|
-														Wet Ink													
-(Wet Ink) DIY Novel Revision
+Tuesday | 7:00 PM EST-9:00 PM EST|
+														Zoom													
+Me Myself and I: Understanding Memoir
 															Workshop														
 Back
 Resources
@@ -101,7 +101,7 @@ Events
             Previous month
             Next month
 	This Month
-				2026-11-26			
+				2026-11-27			
 				November 2026			
 		Select date.	
 						Calendar of Events		
