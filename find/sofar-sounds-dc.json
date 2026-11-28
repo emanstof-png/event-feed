@@ -1,0 +1,44 @@
+{
+ "row": "146",
+ "name": "Sofar Sounds DC",
+ "seed_url": "https://seed-unknown.invalid/",
+ "programs": "",
+ "access": "",
+ "found": "2026-11-28 01:27Z",
+ "search_hits": [],
+ "search_error": "html.duckduckgo.com 0 hits (202, 15074b); www.bing.com 0 hits (200, 118632b); lite.duckduckgo.com 0 hits (202, 15153b)",
+ "probes": [
+  {
+   "url": "https://seed-unknown.invalid/wp-json/tribe/events/v1/events?per_page=10",
+   "status": "DNSError",
+   "events": 0
+  },
+  {
+   "url": "https://seed-unknown.invalid/events/?ical=1",
+   "status": "DNSError",
+   "events": 0
+  },
+  {
+   "url": "https://seed-unknown.invalid/?ical=1",
+   "status": "DNSError",
+   "events": 0
+  }
+ ],
+ "pages": [
+  {
+   "url": "https://seed-unknown.invalid/",
+   "status": null,
+   "final_url": "",
+   "title": "",
+   "dates": 0,
+   "jsonld": 0,
+   "jsonld_samples": [],
+   "hints": [],
+   "iframes": [],
+   "event_links": [],
+   "platform": "",
+   "error": "DNSError: Failed to perform, curl: (6) Could not resolve host: seed-unknown.invalid (Domain name not found). See https://curl.se/libcurl/c/libcurl-errors.html f"
+  }
+ ],
+ "best_page": "https://seed-unknown.invalid/"
+}

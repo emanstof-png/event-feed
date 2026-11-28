@@ -1,0 +1,60 @@
+{
+ "row": "116",
+ "name": "Baila DC (classes)",
+ "seed_url": "https://bailadc.com/classes",
+ "programs": "",
+ "access": "",
+ "found": "2026-11-28 01:23Z",
+ "search_hits": [],
+ "search_error": "html.duckduckgo.com 0 hits (202, 15152b); www.bing.com 0 hits (200, 578267b); lite.duckduckgo.com 0 hits (202, 15146b)",
+ "probes": [
+  {
+   "url": "https://bailadc.com/wp-json/tribe/events/v1/events?per_page=10",
+   "status": "HTTPError",
+   "events": 0
+  },
+  {
+   "url": "https://bailadc.com/events/?ical=1",
+   "status": 200,
+   "events": 0,
+   "head": "<!DOCTYPE html><html  lang=\"en\"><head><meta charset=\"utf-8\"><meta name=\"viewport\" content=\"width=device-width, initial-scale=1\"><link rel=\"preconnect\" href=\"https://fonts.gstatic.com/\" crossorigin=\"anonymous\"><link rel=\"preconnect\" href=\"https://backend.leadconnectorhq.com\" crossorigin=\"anonymous\"><"
+  },
+  {
+   "url": "https://bailadc.com/?ical=1",
+   "status": 200,
+   "events": 0,
+   "head": "<!DOCTYPE html><html  lang=\"en\"><head><meta charset=\"utf-8\"><meta name=\"viewport\" content=\"width=device-width, initial-scale=1\"><title>Baila DC Home Page</title><link rel=\"preconnect\" href=\"https://fonts.gstatic.com/\" crossorigin=\"anonymous\"><link rel=\"preconnect\" href=\"https://backend.leadconnector"
+  }
+ ],
+ "pages": [
+  {
+   "url": "https://bailadc.com/classes",
+   "status": 200,
+   "final_url": "https://bailadc.com/classes",
+   "title": "Baila DC Salsa Classes Schedule",
+   "dates": 0,
+   "jsonld": 0,
+   "jsonld_samples": [],
+   "hints": [],
+   "iframes": [],
+   "event_links": [],
+   "platform": "",
+   "error": ""
+  },
+  {
+   "url": "https://bailadc.com/",
+   "status": 200,
+   "final_url": "https://bailadc.com/",
+   "title": "Baila DC Home Page",
+   "dates": 0,
+   "jsonld": 0,
+   "jsonld_samples": [],
+   "hints": [],
+   "iframes": [],
+   "event_links": [],
+   "platform": "",
+   "error": ""
+  }
+ ],
+ "best_page": "https://bailadc.com/classes"
+}

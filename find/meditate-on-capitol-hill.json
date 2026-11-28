@@ -1,0 +1,505 @@
+{
+ "row": "141",
+ "name": "Meditate on Capitol Hill",
+ "seed_url": "https://meetup.com/meditate-on-capitol-hill-washington-dc",
+ "programs": "",
+ "access": "",
+ "found": "2026-11-28 01:26Z",
+ "search_hits": [],
+ "search_error": "html.duckduckgo.com 0 hits (202, 15184b); www.bing.com 0 hits (200, 134494b); lite.duckduckgo.com 0 hits (202, 15166b)",
+ "probes": [
+  {
+   "url": "https://www.meetup.com/wp-json/tribe/events/v1/events?per_page=10",
+   "status": "HTTPError",
+   "events": 0
+  },
+  {
+   "url": "https://www.meetup.com/events/?ical=1",
+   "status": 200,
+   "events": 0,
+   "head": "<!DOCTYPE html><html lang=\"en-US\"><head><meta charSet=\"utf-8\" data-next-head=\"\"/><style data-fullcalendar=\"true\" data-next-head=\"\"></style><meta name=\"viewport\" content=\"width=device-width, initial-scale=1\" data-next-head=\"\"/><meta http-equiv=\"Content-Type\" content=\"text/html; charset=UTF-8\" data-ne"
+  },
+  {
+   "url": "https://www.meetup.com/?ical=1",
+   "status": 200,
+   "events": 0,
+   "head": "<!DOCTYPE html><html lang=\"en-US\"><head><meta charSet=\"utf-8\" data-next-head=\"\"/><style data-fullcalendar=\"true\" data-next-head=\"\"></style><meta name=\"viewport\" content=\"width=device-width, initial-scale=1\" data-next-head=\"\"/><meta http-equiv=\"Content-Type\" content=\"text/html; charset=UTF-8\" data-ne"
+  }
+ ],
+ "pages": [
+  {
+   "url": "https://meetup.com/meditate-on-capitol-hill-washington-dc",
+   "status": 200,
+   "final_url": "https://www.meetup.com/meditate-on-capitol-hill-washington-dc/",
+   "title": "Meetup | Group not found",
+   "dates": 0,
+   "jsonld": 0,
+   "jsonld_samples": [],
+   "hints": [
+    "https://www.meetup.com/_next/static/media/NeuSans-Regular.1ca3b39b.woff2",
+    "https://www.meetup.com/_next/static/media/NeuSans-Medium.7b11edcf.woff2",
+    "https://www.meetup.com/_next/static/media/NeuSans-Bold.5c45f750.woff2",
+    "https://www.meetup.com/_next/static/media/NeuSans-Book.27256a60.woff2",
+    "https://www.meetup.com/_next/static/media/Boyrun-Regular.woff2",
+    "https://www.meetup.com/_next/static/css/4f3c5c8e994eb55f.css",
+    "https://www.meetup.com/_next/static/css/8b9c4a9cfe52c6ba.css",
+    "https://www.meetup.com/start?origin=groups&eventOrigin=page-footer",
+    "https://www.meetup.com/register/?returnUri=https%3A%2F%2Fwww.meetup.com%2Fmeditate-on-capitol-hill-washington-dc%2F",
+    "https://www.meetup.com/login/?returnUri=https%3A%2F%2Fwww.meetup.com%2Fmeditate-on-capitol-hill-washington-dc%2F",
+    "https://help.meetup.com/hc",
+    "https://www.meetup.com/find/?source=GROUPS",
+    "https://www.meetup.com/find/?source=EVENTS",
+    "https://www.meetup.com/topics/",
+    "https://www.meetup.com/cities/",
+    "https://www.meetup.com/find/online-events/",
+    "https://www.meetup.com/blog/category/local-guides/",
+    "https://www.meetup.com/lp/friendship-and-socializing/",
+    "https://www.meetup.com/sitemap",
+    "https://www.meetup.com/about/",
+    "https://www.meetup.com/blog/",
+    "https://www.meetup.com/meetup-pro/",
+    "https://www.meetup.com/apps/",
+    "https://www.meetup.com/blog/category/keep-connected-podcast/",
+    "https://help.meetup.com/hc/articles/360027447252"
+   ],
+   "iframes": [],
+   "event_links": [
+    {
+     "text": "Events",
+     "url": "https://www.meetup.com/find/?source=EVENTS"
+    },
+    {
+     "text": "Online events",
+     "url": "https://www.meetup.com/find/online-events/"
+    }
+   ],
+   "platform": "",
+   "error": ""
+  },
+  {
+   "url": "https://www.meetup.com/",
+   "status": 200,
+   "final_url": "https://www.meetup.com/",
+   "title": "Meetup | Find Local Groups, Events, and Activities Near You",
+   "dates": 33,
+   "jsonld": 11,
+   "jsonld_samples": [
+    {
+     "name": "Shut Up & Write!\u00ae Novel Coffee & Teas 950 George Washington Way Richland, WA",
+     "start": "2026-11-29T17:00:00.000Z",
+     "url": "https://www.meetup.com/shutupandwritetricities/events/317357906/"
+    },
+    {
+     "name": "Shut Up & Write!\u00ae Novel Coffee & Teas 950 George Washington Way Richland, WA",
+     "start": "2026-12-13T17:00:00.000Z",
+     "url": "https://www.meetup.com/shutupandwritetricities/events/317553861/"
+    },
+    {
+     "name": "Shut Up & Write!\u00ae Novel Coffee & Teas 950 George Washington Way Richland, WA",
+     "start": "2026-12-06T17:00:00.000Z",
+     "url": "https://www.meetup.com/shutupandwritetricities/events/317457400/"
+    },
+    {
+     "name": "Friday Paint-In!",
+     "start": "2026-12-11T18:00:00.000Z",
+     "url": "https://www.meetup.com/collage-in/events/317528448/"
+    },
+    {
+     "name": "Friday Paint-In!",
+     "start": "2026-12-04T18:00:00.000Z",
+     "url": "https://www.meetup.com/collage-in/events/317431059/"
+    }
+   ],
+   "hints": [
+    "https://www.meetup.com/_next/static/media/NeuSans-Regular.1ca3b39b.woff2",
+    "https://www.meetup.com/_next/static/media/NeuSans-Medium.7b11edcf.woff2",
+    "https://www.meetup.com/_next/static/media/NeuSans-Bold.5c45f750.woff2",
+    "https://www.meetup.com/_next/static/media/NeuSans-Book.27256a60.woff2",
+    "https://www.meetup.com/_next/static/media/Boyrun-Regular.woff2",
+    "https://www.meetup.com/en-AU/",
+    "https://www.meetup.com/de-DE/",
+    "https://www.meetup.com/es/",
+    "https://www.meetup.com/es-ES/",
+    "https://www.meetup.com/fr-FR/",
+    "https://www.meetup.com/it-IT/",
+    "https://www.meetup.com/ja-JP/",
+    "https://www.meetup.com/ko-KR/",
+    "https://www.meetup.com/nl-NL/",
+    "https://www.meetup.com/pl-PL/",
+    "https://www.meetup.com/pt-BR/",
+    "https://www.meetup.com/ru-RU/",
+    "https://www.meetup.com/th-TH/",
+    "https://www.meetup.com/tr-TR/",
+    "https://www.meetup.com/",
+    "https://www.meetup.com/_next/static/css/4f3c5c8e994eb55f.css",
+    "https://www.meetup.com/_next/static/css/aa6c4640b6f2d0a7.css",
+    "https://www.meetup.com/register/",
+    "https://www.meetup.com/find/?source=EVENTS&eventType=inPerson&sortField=DATETIME&distance=hundredMiles&location=us--wa--Moses+Lake",
+    "https://www.meetup.com/yvtrekkers/events/317523272/?eventOrigin=home_logged_out_near_location"
+   ],
+   "iframes": [],
+   "event_links": [
+    {
+     "text": "Free \ud83d\udd2d Special Event: Private Tour of LIGO Hanford + Horn Ra",
+     "url": "https://www.meetup.com/yvtrekkers/events/317523272/?eventOrigin=home_logged_out_near_location"
+    },
+    {
+     "text": "Free Forks and Friends Sat, Dec 5 \u00b7 9:15 PM UTC by Tri-Citie",
+     "url": "https://www.meetup.com/tri-cities-together/events/317414600/?eventOrigin=home_logged_out_near_location"
+    },
+    {
+     "text": "Free Friday Paint-In! Fri, Dec 4 \u00b7 6:00 PM UTC by Visual Art",
+     "url": "https://www.meetup.com/collage-in/events/317431059/?eventOrigin=home_logged_out_near_location"
+    },
+    {
+     "text": "Free Friday Paint-In! Fri, Dec 11 \u00b7 6:00 PM UTC by Visual Ar",
+     "url": "https://www.meetup.com/collage-in/events/317528448/?eventOrigin=home_logged_out_near_location"
+    },
+    {
+     "text": "Free Shut Up & Write!\u00ae Novel Coffee & Teas 950 George Washin",
+     "url": "https://www.meetup.com/shutupandwritetricities/events/317457400/?eventOrigin=home_logged_out_near_location"
+    },
+    {
+     "text": "Free Shut Up & Write!\u00ae Novel Coffee & Teas 950 George Washin",
+     "url": "https://www.meetup.com/shutupandwritetricities/events/317553861/?eventOrigin=home_logged_out_near_location"
+    },
+    {
+     "text": "Free Shut Up & Write!\u00ae Novel Coffee & Teas 950 George Washin",
+     "url": "https://www.meetup.com/shutupandwritetricities/events/317357906/?eventOrigin=home_logged_out_near_location"
+    },
+    {
+     "text": "See all events",
+     "url": "https://www.meetup.com/find/?source=EVENTS&eventType=online&customStartDate=2026-11-27T19%3A43%3A25-05%3A00&customEndDate=2026-11-28T23%3A59%3A59-05%3A00&location=us--wa--Moses+Lake"
+    },
+    {
+     "text": "Free Medium Rare: A Multimodality Practice Circle Sat, Nov 2",
+     "url": "https://www.meetup.com/thespiritualcompass/events/316309969/?eventOrigin=home_logged_out_online"
+    },
+    {
+     "text": "Free The Sacred Empowered Feminine Sat, Nov 28 \u00b7 1:00 AM UTC",
+     "url": "https://www.meetup.com/lightworkers-now/events/317209157/?eventOrigin=home_logged_out_online"
+    },
+    {
+     "text": "Free Northlanders Sat, Nov 28 \u00b7 1:45 AM UTC \u00b7 Online by Port",
+     "url": "https://www.meetup.com/meetup-group-philosophy101/events/317008443/?eventOrigin=home_logged_out_online"
+    },
+    {
+     "text": "Free Open Philosophy Discussion Sat, Nov 28 \u00b7 1:00 AM UTC \u00b7 ",
+     "url": "https://www.meetup.com/philosophy-discussions-3/events/317593559/?eventOrigin=home_logged_out_online"
+    },
+    {
+     "text": "Discover events and groups See who's hosting local events fo",
+     "url": "https://www.meetup.com/find/?location=us--wa--Moses+Lake"
+    },
+    {
+     "text": "Start a group to host events Create your own Meetup group, a",
+     "url": "https://www.meetup.com/how-to-group-start/"
+    },
+    {
+     "text": "Events",
+     "url": "https://www.meetup.com/find/?source=EVENTS"
+    },
+    {
+     "text": "Online events",
+     "url": "https://www.meetup.com/find/online-events/"
+    }
+   ],
+   "platform": "",
+   "error": ""
+  },
+  {
+   "url": "https://www.meetup.com/find/?source=EVENTS",
+   "status": 200,
+   "final_url": "https://www.meetup.com/find/?source=EVENTS",
+   "title": "Find Events & Groups | Meetup",
+   "dates": 8,
+   "jsonld": 11,
+   "jsonld_samples": [
+    {
+     "name": "\ud83c\udf84Christmas Special: Meet New People | 25-45 | Happy Hours ",
+     "start": "2026-12-19T08:00:00.000Z",
+     "url": "https://www.meetup.com/sydney-professional-singles-meetup-group/events/317407446/"
+    },
+    {
+     "name": "Cafe Language Exchange Japanese & English\ud83c\uddef\ud83c\uddf5\u21c4\ud83c\udde6\ud83c\uddfa @Incafe (Haymarket)",
+     "start": "2026-12-04T07:00:00.000Z",
+     "url": "https://www.meetup.com/let-s-make-japanese-friends/events/317590433/"
+    },
+    {
+     "name": "Indoor cafe\u2615\ufe0f\ud83c\udf6e\ud83c\udf68: Aspire to inspire with Asian \ud83c\uddef\ud83c\uddf5\ud83c\uddf2\ud83c\uddf3\ud83c\udde8\ud83c\uddf3\ud83c\uddf9\ud83c\uddfc\ud83c\udded\ud83c\uddf0 friends",
+     "start": "2026-11-29T03:45:00.000Z",
+     "url": "https://www.meetup.com/sydney-explorers/events/317380047/"
+    },
+    {
+     "name": "SYDNEY \ud83d\udd25 Awesome Business Networking @ Novotel Sydney on Darling Harbour",
+     "start": "2026-12-02T02:00:00.000Z",
+     "url": "https://www.meetup.com/business-networking-lassie-edwardzia/events/316921176/"
+    },
+    {
+     "name": "Oak Park and Salmon Haul Bay Snorkel.",
+     "start": "2026-11-29T00:00:00.000Z",
+     "url": "https://www.meetup.com/sydney-snorkeling-meetup/events/316015809/"
+    }
+   ],
+   "hints": [
+    "https://www.meetup.com/_next/static/media/NeuSans-Regular.1ca3b39b.woff2",
+    "https://www.meetup.com/_next/static/media/NeuSans-Medium.7b11edcf.woff2",
+    "https://www.meetup.com/_next/static/media/NeuSans-Bold.5c45f750.woff2",
+    "https://www.meetup.com/_next/static/media/NeuSans-Book.27256a60.woff2",
+    "https://www.meetup.com/_next/static/media/Boyrun-Regular.woff2",
+    "https://www.meetup.com/find/",
+    "https://www.meetup.com/_next/static/css/4f3c5c8e994eb55f.css",
+    "https://www.meetup.com/_next/static/css/873f7fff7cff85a1.css",
+    "https://www.meetup.com/it-career-in-australia/events/317217708/?recId=ad93cbf4-39a8-44fa-9ee2-e54e508954ee&recSource=ml-popular-events-nearby-offline&searchId=6b9fc34e-9b3c-4653-b2f0-3968728c44ab&eventOrigin=find_page%24all",
+    "https://www.meetup.com/mindset-mondays-meetup-group/events/316942997/?recId=ad93cbf4-39a8-44fa-9ee2-e54e508954ee&recSource=ml-popular-events-nearby-online&searchId=6b9fc34e-9b3c-4653-b2f0-3968728c44ab&eventOrigin=find_page%24all",
+    "https://www.meetup.com/sydney-explorers/events/316030689/?recId=ad93cbf4-39a8-44fa-9ee2-e54e508954ee&recSource=ml-popular-events-nearby-offline&searchId=6b9fc34e-9b3c-4653-b2f0-3968728c44ab&eventOrigin=find_page%24all",
+    "https://www.meetup.com/international-sydney-meet-up/events/317280920/?recId=ad93cbf4-39a8-44fa-9ee2-e54e508954ee&recSource=ml-popular-events-nearby-offline&searchId=6b9fc34e-9b3c-4653-b2f0-3968728c44ab&eventOrigin=find_page%24all",
+    "https://www.meetup.com/aloha-sydney/events/316775603/?recId=ad93cbf4-39a8-44fa-9ee2-e54e508954ee&recSource=ml-popular-events-nearby-offline&searchId=6b9fc34e-9b3c-4653-b2f0-3968728c44ab&eventOrigin=find_page%24all",
+    "https://www.meetup.com/aussie-explorers/events/317487465/?recId=ad93cbf4-39a8-44fa-9ee2-e54e508954ee&recSource=ml-popular-events-nearby-offline&searchId=6b9fc34e-9b3c-4653-b2f0-3968728c44ab&eventOrigin=find_page%24all",
+    "https://www.meetup.com/sydney-snorkeling-meetup/events/316015809/?recId=ad93cbf4-39a8-44fa-9ee2-e54e508954ee&recSource=ml-popular-events-nearby-offline&searchId=6b9fc34e-9b3c-4653-b2f0-3968728c44ab&eventOrigin=find_page%24all",
+    "https://www.meetup.com/business-networking-lassie-edwardzia/events/316921176/?recId=ad93cbf4-39a8-44fa-9ee2-e54e508954ee&recSource=ml-popular-events-nearby-offline&searchId=6b9fc34e-9b3c-4653-b2f0-3968728c44ab&eventOrigin=find_page%24all"
+   ],
+   "iframes": [],
+   "event_links": [
+    {
+     "text": "TechWalking - Sydney -  Networking Event for Tech Profession",
+     "url": "https://www.meetup.com/it-career-in-australia/events/317217708/?recId=ad93cbf4-39a8-44fa-9ee2-e54e508954ee&recSource=ml-popular-events-nearby-offline&searchId=6b9fc34e-9b3c-4653-b2f0-3968728c44ab&eventOrigin=find_page%24all"
+    },
+    {
+     "text": "Mindset Mondays - Group Mindset exercises & guided Meditatio",
+     "url": "https://www.meetup.com/mindset-mondays-meetup-group/events/316942997/?recId=ad93cbf4-39a8-44fa-9ee2-e54e508954ee&recSource=ml-popular-events-nearby-online&searchId=6b9fc34e-9b3c-4653-b2f0-3968728c44ab&eventOrigin=find_page%24all"
+    },
+    {
+     "text": "English Chat at Chocolate Cafe & Make friends\u2615\ud83c\udf70\ud83c\udf6e Every two w",
+     "url": "https://www.meetup.com/sydney-explorers/events/316030689/?recId=ad93cbf4-39a8-44fa-9ee2-e54e508954ee&recSource=ml-popular-events-nearby-offline&searchId=6b9fc34e-9b3c-4653-b2f0-3968728c44ab&eventOrigin=find_page%24all"
+    },
+    {
+     "text": "7 seats left [Special Event] Make New Friends in Sydney! \ud83c\udf0f S",
+     "url": "https://www.meetup.com/international-sydney-meet-up/events/317280920/?recId=ad93cbf4-39a8-44fa-9ee2-e54e508954ee&recSource=ml-popular-events-nearby-offline&searchId=6b9fc34e-9b3c-4653-b2f0-3968728c44ab&eventOrigin=find_page%24all"
+    },
+    {
+     "text": "Social + Language Exchange + After Party \ud83c\udf0f\ud83c\udf38\ud83e\udd42 Every Sat  \u00b7  N",
+     "url": "https://www.meetup.com/aloha-sydney/events/316775603/?recId=ad93cbf4-39a8-44fa-9ee2-e54e508954ee&recSource=ml-popular-events-nearby-offline&searchId=6b9fc34e-9b3c-4653-b2f0-3968728c44ab&eventOrigin=find_page%24all"
+    },
+    {
+     "text": "Bushwalk from Waterfall to Heathcote Along Heathcote Creek! ",
+     "url": "https://www.meetup.com/aussie-explorers/events/317487465/?recId=ad93cbf4-39a8-44fa-9ee2-e54e508954ee&recSource=ml-popular-events-nearby-offline&searchId=6b9fc34e-9b3c-4653-b2f0-3968728c44ab&eventOrigin=find_page%24all"
+    },
+    {
+     "text": "Oak Park and Salmon Haul Bay Snorkel. Sun, Nov 29 \u00b7 11:00 AM",
+     "url": "https://www.meetup.com/sydney-snorkeling-meetup/events/316015809/?recId=ad93cbf4-39a8-44fa-9ee2-e54e508954ee&recSource=ml-popular-events-nearby-offline&searchId=6b9fc34e-9b3c-4653-b2f0-3968728c44ab&eventOrigin=find_page%24all"
+    },
+    {
+     "text": "SYDNEY \ud83d\udd25 Awesome Business Networking @ Novotel Sydney on Dar",
+     "url": "https://www.meetup.com/business-networking-lassie-edwardzia/events/316921176/?recId=ad93cbf4-39a8-44fa-9ee2-e54e508954ee&recSource=ml-popular-events-nearby-offline&searchId=6b9fc34e-9b3c-4653-b2f0-3968728c44ab&eventOrigin=find_page%24all"
+    }
+   ],
+   "platform": "eventbrite",
+   "error": ""
+  },
+  {
+   "url": "https://www.meetup.com/find/online-events/",
+   "status": 200,
+   "final_url": "https://www.meetup.com/find/online-events/",
+   "title": "Online Events | Attend virtual events from anywhere | Meetup",
+   "dates": 8,
+   "jsonld": 0,
+   "jsonld_samples": [],
+   "hints": [
+    "https://www.meetup.com/_next/static/media/NeuSans-Regular.1ca3b39b.woff2",
+    "https://www.meetup.com/_next/static/media/NeuSans-Medium.7b11edcf.woff2",
+    "https://www.meetup.com/_next/static/media/NeuSans-Bold.5c45f750.woff2",
+    "https://www.meetup.com/_next/static/media/NeuSans-Book.27256a60.woff2",
+    "https://www.meetup.com/_next/static/media/Boyrun-Regular.woff2",
+    "https://www.meetup.com/find/online-events/",
+    "https://www.meetup.com/_next/static/css/4f3c5c8e994eb55f.css",
+    "https://www.meetup.com/_next/static/css/aa6c4640b6f2d0a7.css",
+    "https://www.meetup.com/find/?eventType=online",
+    "https://www.meetup.com/find/?source=EVENTS&eventType=online&keywords=friends",
+    "https://www.meetup.com/find/?source=EVENTS&eventType=online&keywords=meditation",
+    "https://www.meetup.com/find/?source=EVENTS&eventType=online&keywords=photography",
+    "https://www.meetup.com/find/?source=EVENTS&eventType=online&keywords=language",
+    "https://www.meetup.com/find/?source=EVENTS&eventType=online&keywords=networking",
+    "https://www.meetup.com/find/?source=EVENTS&eventType=online",
+    "https://www.meetup.com/first-hello-japanese-english-exchange/events/317246641/",
+    "https://www.meetup.com/creative-writing-meet-up/events/316775136/",
+    "https://www.meetup.com/business-networking-referral-community/events/317253911/",
+    "https://www.meetup.com/support-through-divorce-process/events/317507230/",
+    "https://www.meetup.com/the-chronically-chill-meetup-group/events/317255838/",
+    "https://www.meetup.com/pymc-labs-online-meetup/events/317300966/",
+    "https://www.meetup.com/business-networking-referral-community/events/317389888/",
+    "https://www.meetup.com/the-chronically-chill-meetup-group/events/316898574/",
+    "https://www.meetup.com/blog/five-ways-to-feel-more-connected/",
+    "https://www.meetup.com/blog/4-tips-for-fun-and-frequent-virtual-happy-hours/"
+   ],
+   "iframes": [],
+   "event_links": [
+    {
+     "text": "Find online events",
+     "url": "https://www.meetup.com/find/?eventType=online"
+    },
+    {
+     "text": "First Hello Thu, Nov 26 \u00b7 10:30 AM JST \u00b7 Online by First HEL",
+     "url": "https://www.meetup.com/first-hello-japanese-english-exchange/events/317246641/"
+    },
+    {
+     "text": "Online Earning Session for India and some other countries (F",
+     "url": "https://www.meetup.com/creative-writing-meet-up/events/316775136/"
+    },
+    {
+     "text": "Business Networking & Referral Meetup (7:30 PM EST Evening) ",
+     "url": "https://www.meetup.com/business-networking-referral-community/events/317253911/"
+    },
+    {
+     "text": "4 seats left You Are Not Alone - Group Support During Your D",
+     "url": "https://www.meetup.com/support-through-divorce-process/events/317507230/"
+    },
+    {
+     "text": "Newcomer Orientation Wed, Dec 2 \u00b7 7:00 PM EST \u00b7 Online by Th",
+     "url": "https://www.meetup.com/the-chronically-chill-meetup-group/events/317255838/"
+    },
+    {
+     "text": "Ask Me Anything: Marketing Analytics with PyMC Labs Experts ",
+     "url": "https://www.meetup.com/pymc-labs-online-meetup/events/317300966/"
+    },
+    {
+     "text": "Business Networking & Referral Meetup (7:30 PM EST Evening) ",
+     "url": "https://www.meetup.com/business-networking-referral-community/events/317389888/"
+    },
+    {
+     "text": "Book Club Meeting - The Diving Bell & the Butterfly by Jean-",
+     "url": "https://www.meetup.com/the-chronically-chill-meetup-group/events/316898574/"
+    },
+    {
+     "text": "Meetup Communities Reach 1 Million Online Events We\u2019re celeb",
+     "url": "https://www.meetup.com/blog/meetup-communities-reach-1-million-online-events/"
+    },
+    {
+     "text": "Events",
+     "url": "https://www.meetup.com/find/?source=EVENTS"
+    }
+   ],
+   "platform": "",
+   "error": ""
+  },
+  {
+   "url": "https://www.meetup.com/yvtrekkers/events/317523272/?eventOrigin=home_logged_out_near_location",
+   "status": 200,
+   "final_url": "https://www.meetup.com/yvtrekkers/events/317523272/?eventOrigin=home_logged_out_near_location",
+   "title": "\ud83d\udd2d Special Event: Private Tour of LIGO Hanford + Horn Rapids Park Hike \ud83c\udf0a, Sat, Dec 5, 2026, 8:30 AM   | Meetup",
+   "dates": 3,
+   "jsonld": 1,
+   "jsonld_samples": [
+    {
+     "name": "\ud83d\udd2d Special Event: Private Tour of LIGO Hanford + Horn Rapids Park Hike \ud83c\udf0a",
+     "start": "2026-12-05T08:30:00-08:00",
+     "url": "https://www.meetup.com/yvtrekkers/events/317523272/"
+    }
+   ],
+   "hints": [
+    "https://www.meetup.com/_next/static/media/NeuSans-Regular.1ca3b39b.woff2",
+    "https://www.meetup.com/_next/static/media/NeuSans-Medium.7b11edcf.woff2",
+    "https://www.meetup.com/_next/static/media/NeuSans-Bold.5c45f750.woff2",
+    "https://www.meetup.com/_next/static/media/NeuSans-Book.27256a60.woff2",
+    "https://www.meetup.com/_next/static/media/Boyrun-Regular.woff2",
+    "https://www.meetup.com/yvtrekkers/events/317523272/",
+    "https://www.meetup.com/_next/static/css/4f3c5c8e994eb55f.css",
+    "https://www.meetup.com/_next/static/css/3ea30ba50f8d84f8.css",
+    "https://www.meetup.com/yvtrekkers/",
+    "https://www.meetup.com/start?origin=groups&eventOrigin=page-footer",
+    "https://www.meetup.com/register/?returnUri=https%3A%2F%2Fwww.meetup.com%2Fyvtrekkers%2Fevents%2F317523272%2F%3FeventOrigin%3Dhome_logged_out_near_location",
+    "https://www.meetup.com/login/?returnUri=https%3A%2F%2Fwww.meetup.com%2Fyvtrekkers%2Fevents%2F317523272%2F%3FeventOrigin%3Dhome_logged_out_near_location",
+    "https://help.meetup.com/hc",
+    "https://www.meetup.com/find/?source=GROUPS",
+    "https://www.meetup.com/find/?source=EVENTS",
+    "https://www.meetup.com/topics/",
+    "https://www.meetup.com/cities/",
+    "https://www.meetup.com/find/online-events/",
+    "https://www.meetup.com/blog/category/local-guides/",
+    "https://www.meetup.com/lp/friendship-and-socializing/",
+    "https://www.meetup.com/sitemap",
+    "https://www.meetup.com/about/",
+    "https://www.meetup.com/blog/",
+    "https://www.meetup.com/meetup-pro/",
+    "https://www.meetup.com/apps/"
+   ],
+   "iframes": [],
+   "event_links": [
+    {
+     "text": "Events",
+     "url": "https://www.meetup.com/find/?source=EVENTS"
+    },
+    {
+     "text": "Online events",
+     "url": "https://www.meetup.com/find/online-events/"
+    }
+   ],
+   "platform": "",
+   "error": ""
+  },
+  {
+   "url": "https://www.meetup.com/tri-cities-together/events/317414600/?eventOrigin=home_logged_out_near_location",
+   "status": 200,
+   "final_url": "https://www.meetup.com/tri-cities-together/events/317414600/?eventOrigin=home_logged_out_near_location",
+   "title": "Forks and Friends, Sat, Dec 5, 2026, 1:15 PM   | Meetup",
+   "dates": 3,
+   "jsonld": 1,
+   "jsonld_samples": [
+    {
+     "name": "Forks and Friends",
+     "start": "2026-12-05T13:15:00-08:00",
+     "url": "https://www.meetup.com/tri-cities-together/events/317414600/"
+    }
+   ],
+   "hints": [
+    "https://www.meetup.com/_next/static/media/NeuSans-Regular.1ca3b39b.woff2",
+    "https://www.meetup.com/_next/static/media/NeuSans-Medium.7b11edcf.woff2",
+    "https://www.meetup.com/_next/static/media/NeuSans-Bold.5c45f750.woff2",
+    "https://www.meetup.com/_next/static/media/NeuSans-Book.27256a60.woff2",
+    "https://www.meetup.com/_next/static/media/Boyrun-Regular.woff2",
+    "https://www.meetup.com/tri-cities-together/events/gzstbvyjcqbhb/",
+    "https://www.meetup.com/_next/static/css/4f3c5c8e994eb55f.css",
+    "https://www.meetup.com/_next/static/css/3ea30ba50f8d84f8.css",
+    "https://www.meetup.com/tri-cities-together/events/317414600/attendees/",
+    "https://www.meetup.com/tri-cities-together/",
+    "https://www.meetup.com/find/us--wa--richland/",
+    "https://www.meetup.com/start?origin=groups&eventOrigin=page-footer",
+    "https://www.meetup.com/register/?returnUri=https%3A%2F%2Fwww.meetup.com%2Ftri-cities-together%2Fevents%2F317414600%2F%3FeventOrigin%3Dhome_logged_out_near_location",
+    "https://www.meetup.com/login/?returnUri=https%3A%2F%2Fwww.meetup.com%2Ftri-cities-together%2Fevents%2F317414600%2F%3FeventOrigin%3Dhome_logged_out_near_location",
+    "https://help.meetup.com/hc",
+    "https://www.meetup.com/find/?source=GROUPS",
+    "https://www.meetup.com/find/?source=EVENTS",
+    "https://www.meetup.com/topics/",
+    "https://www.meetup.com/cities/",
+    "https://www.meetup.com/find/online-events/",
+    "https://www.meetup.com/blog/category/local-guides/",
+    "https://www.meetup.com/lp/friendship-and-socializing/",
+    "https://www.meetup.com/sitemap",
+    "https://www.meetup.com/about/",
+    "https://www.meetup.com/blog/"
+   ],
+   "iframes": [],
+   "event_links": [
+    {
+     "text": "Hosted by  Wilhelmina  J.",
+     "url": "https://www.meetup.com/tri-cities-together/events/317414600/attendees/"
+    },
+    {
+     "text": "Events in Richland, WA",
+     "url": "https://www.meetup.com/find/us--wa--richland/"
+    },
+    {
+     "text": "Events",
+     "url": "https://www.meetup.com/find/?source=EVENTS"
+    },
+    {
+     "text": "Online events",
+     "url": "https://www.meetup.com/find/online-events/"
+    }
+   ],
+   "platform": "",
+   "error": ""
+  }
+ ],
+ "best_page": "https://www.meetup.com/"
+}

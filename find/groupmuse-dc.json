@@ -1,0 +1,460 @@
+{
+ "row": "128",
+ "name": "Groupmuse DC",
+ "seed_url": "https://groupmuse.com/dc",
+ "programs": "",
+ "access": "",
+ "found": "2026-11-28 01:23Z",
+ "search_hits": [],
+ "search_error": "html.duckduckgo.com 0 hits (202, 15136b); www.bing.com 0 hits (200, 370265b); lite.duckduckgo.com 0 hits (202, 15148b)",
+ "probes": [
+  {
+   "url": "https://www.groupmuse.com/wp-json/tribe/events/v1/events?per_page=10",
+   "status": "HTTPError",
+   "events": 0
+  },
+  {
+   "url": "https://www.groupmuse.com/events/?ical=1",
+   "status": 200,
+   "events": 0,
+   "head": "<!DOCTYPE html>\n<html class='no-js' lang='en'>\n<head>\n<title>Groupmuse - Live music connects us</title>\n<meta content='width=device-width, initial-scale=1.0' name='viewport'>\n<meta charset='utf-8'>\n<!-- Facebook Open Graph Meta Tags -->\n<meta content='Intimate concerts with music that&#39;s held com"
+  },
+  {
+   "url": "https://www.groupmuse.com/?ical=1",
+   "status": 200,
+   "events": 0,
+   "head": "<!DOCTYPE html>\n<html class='no-js' lang='en'>\n<head>\n<title>Groupmuse - Live music connects us</title>\n<meta content='width=device-width, initial-scale=1.0' name='viewport'>\n<meta charset='utf-8'>\n<!-- Facebook Open Graph Meta Tags -->\n<meta content='Intimate concerts with music that&#39;s held com"
+  }
+ ],
+ "pages": [
+  {
+   "url": "https://groupmuse.com/dc",
+   "status": 200,
+   "final_url": "https://www.groupmuse.com/dc",
+   "title": "Groupmuse - Live music connects us",
+   "dates": 7,
+   "jsonld": 0,
+   "jsonld_samples": [],
+   "hints": [],
+   "iframes": [],
+   "event_links": [
+    {
+     "text": "Attend",
+     "url": "https://www.groupmuse.com/calendar"
+    },
+    {
+     "text": "4hands Sunday 2pm 06dec2026 Kessa Mefford & Brielle Perez vi",
+     "url": "https://www.groupmuse.com/events/15879-4hands-sunday-2pm-06dec2026-kessa-mefford-brielle-perez-virtuoso-pianists-music-begins-3p-potluck-dinner-buffet-107"
+    },
+    {
+     "text": "Cameron Campbell comes to Washington",
+     "url": "https://www.groupmuse.com/events/17309-cameron-campbell-comes-to-washington"
+    },
+    {
+     "text": "10 January 2027 SUNDAY 2pm virtuoso pianist Sandrine Erdely-",
+     "url": "https://www.groupmuse.com/events/15954-10-january-2027-sunday-2pm-virtuoso-pianist-sandrine-erdely-sayo-steinway-artist-pre-concert-talk-potluck-dinner-buffet-108"
+    },
+    {
+     "text": "Please join us for an evening of music as we welcome Junwen ",
+     "url": "https://www.groupmuse.com/events/17213-please-join-us-for-an-evening-of-music-as-we-welcome-junwen-liang-to-our-house-concert"
+    },
+    {
+     "text": "Takoma Park concert - Music for uncertain times - wtih Jerem",
+     "url": "https://www.groupmuse.com/events/17061-takoma-park-concert-music-for-uncertain-times-wtih-jeremy-eig-clarinet-and-joy-mentzel-piano"
+    },
+    {
+     "text": "2027 April 11 Sunday Afternoon 2pm Four Hands Program: Teodo",
+     "url": "https://www.groupmuse.com/events/16184-2027-april-11-sunday-afternoon-2pm-four-hands-program-teodora-adzarova-audrey-andrist-virtuoso-pianists-potluck-dinner-buffet-110-61"
+    },
+    {
+     "text": "02may2027 SUNDAY 2pm Liana Harron, Piano, POTLUCK dinner buf",
+     "url": "https://www.groupmuse.com/events/16058-02may2027-sunday-2pm-liana-harron-piano-potluck-dinner-buffet-pre-concert-talk-q-a-111-62"
+    },
+    {
+     "text": "Sunday 2pm 23 May 2027 Illya Bunyakin, Ukranian Pianist; POT",
+     "url": "https://www.groupmuse.com/events/16101-sunday-2pm-23-may-2027-illya-bunyakin-ukranian-pianist-potluck-dinner-buffet-top-award-finalist-wipac-111-62"
+    },
+    {
+     "text": "POSTPONED 2PM Sunday John Sutherland Earle, solo piano virtu",
+     "url": "https://www.groupmuse.com/events/15953-postponed-2pm-sunday-john-sutherland-earle-solo-piano-virtuoso-potluck-dinner-buffet-109"
+    },
+    {
+     "text": "POSTPONED to Sunday 2pm 24June2029 virtuoso pianist Andrei A",
+     "url": "https://www.groupmuse.com/events/15950-postponed-to-sunday-2pm-24june2029-virtuoso-pianist-andrei-andreev-pre-concert-talk-potluck-dinner-buffet-102-53"
+    }
+   ],
+   "platform": "",
+   "error": ""
+  },
+  {
+   "url": "https://www.groupmuse.com/",
+   "status": 200,
+   "final_url": "https://www.groupmuse.com/",
+   "title": "Groupmuse - Live music connects us",
+   "dates": 18,
+   "jsonld": 0,
+   "jsonld_samples": [],
+   "hints": [],
+   "iframes": [],
+   "event_links": [
+    {
+     "text": "Attend",
+     "url": "https://www.groupmuse.com/calendar"
+    },
+    {
+     "text": "New York Philharmonic Presents: Rouvali Conducts Schubert\u2019s ",
+     "url": "https://www.groupmuse.com/events/17296-new-york-philharmonic-presents-rouvali-conducts-schubert-s-great-symphony"
+    },
+    {
+     "text": "OMNI Foundation for the Performing Arts Presents: ArcoStrum",
+     "url": "https://www.groupmuse.com/events/17286-omni-foundation-for-the-performing-arts-presents-arcostrum"
+    },
+    {
+     "text": "Philadelphia Chamber Music Society Presents: Verona Quartet ",
+     "url": "https://www.groupmuse.com/events/17297-philadelphia-chamber-music-society-presents-verona-quartet-steven-banks-saxophone"
+    },
+    {
+     "text": "Camerata Pacifica Presents: All Beethoven Piano Program with",
+     "url": "https://www.groupmuse.com/events/17300-camerata-pacifica-presents-all-beethoven-piano-program-with-gilles-vonsattel"
+    },
+    {
+     "text": "Handel and Haydn Presents: Handel's Messiah",
+     "url": "https://www.groupmuse.com/events/17239-handel-and-haydn-presents-handel-s-messiah"
+    },
+    {
+     "text": "New York Philharmonic Presents: Rouvali Conducts Schubert\u2019s ",
+     "url": "https://www.groupmuse.com/events/17294-new-york-philharmonic-presents-rouvali-conducts-schubert-s-great-symphony"
+    },
+    {
+     "text": "Handel and Haydn Presents: Handel's Messiah",
+     "url": "https://www.groupmuse.com/events/17240-handel-and-haydn-presents-handel-s-messiah"
+    },
+    {
+     "text": "New York Philharmonic Presents: Rouvali Conducts Schubert\u2019s ",
+     "url": "https://www.groupmuse.com/events/17295-new-york-philharmonic-presents-rouvali-conducts-schubert-s-great-symphony"
+    },
+    {
+     "text": "In Dialogue: Violin & Piano",
+     "url": "https://www.groupmuse.com/events/17327-in-dialogue-violin-piano"
+    },
+    {
+     "text": "When Night Falls",
+     "url": "https://www.groupmuse.com/events/17281-when-night-falls"
+    },
+    {
+     "text": "Ying Li: Bach, Liszt, Beach, Stravinsky, Chen",
+     "url": "https://www.groupmuse.com/events/17111-ying-li-bach-liszt-beach-stravinsky-chen"
+    },
+    {
+     "text": "In Dialogue: Violin & Piano",
+     "url": "https://www.groupmuse.com/events/17322-in-dialogue-violin-piano"
+    },
+    {
+     "text": "Philip Glass for Violin & Cello - Candlelight Cafe Series",
+     "url": "https://www.groupmuse.com/events/17292-philip-glass-for-violin-cello-candlelight-cafe-series"
+    },
+    {
+     "text": "Cocktails and Music Pairings by Aperitono",
+     "url": "https://www.groupmuse.com/events/17325-cocktails-and-music-pairings-by-aperitono"
+    },
+    {
+     "text": "Classical Guitar Supreme",
+     "url": "https://www.groupmuse.com/events/16959-classical-guitar-supreme"
+    },
+    {
+     "text": "Cocktails and Classical Music Pairings by Aperitono",
+     "url": "https://www.groupmuse.com/events/17326-cocktails-and-classical-music-pairings-by-aperitono"
+    },
+    {
+     "text": "Violin and piano in Waban",
+     "url": "https://www.groupmuse.com/events/17283-violin-and-piano-in-waban"
+    },
+    {
+     "text": "Concert",
+     "url": "https://www.groupmuse.com/events/17333-concert"
+    },
+    {
+     "text": "Liu Xi / Willow Stream",
+     "url": "https://www.groupmuse.com/events/17258-liu-xi-willow-stream"
+    },
+    {
+     "text": "Autumn Movements: Bask in the warmth of an autumn themed eve",
+     "url": "https://www.groupmuse.com/events/17202-autumn-movements-bask-in-the-warmth-of-an-autumn-themed-evening-cello-voice-and-piano"
+    },
+    {
+     "text": "My Favorite Things \ud83c\udfad beloved Broadway Jazz Standards",
+     "url": "https://www.groupmuse.com/events/17255-my-favorite-things-beloved-broadway-jazz-standards"
+    },
+    {
+     "text": "A Charlie Brown Xmas by the Coast",
+     "url": "https://www.groupmuse.com/events/16999-a-charlie-brown-xmas-by-the-coast"
+    },
+    {
+     "text": "Bach goes to Broadway- Musical brunch",
+     "url": "https://www.groupmuse.com/events/17277-bach-goes-to-broadway-musical-brunch"
+    },
+    {
+     "text": "Winter chat, music, and wine with Charla Duo",
+     "url": "https://www.groupmuse.com/events/16953-winter-chat-music-and-wine-with-charla-duo"
+    }
+   ],
+   "platform": "",
+   "error": ""
+  },
+  {
+   "url": "https://www.groupmuse.com/calendar",
+   "status": 200,
+   "final_url": "https://www.groupmuse.com/calendar",
+   "title": "Groupmuse - Live music connects us",
+   "dates": 18,
+   "jsonld": 0,
+   "jsonld_samples": [],
+   "hints": [],
+   "iframes": [],
+   "event_links": [
+    {
+     "text": "Attend",
+     "url": "https://www.groupmuse.com/calendar"
+    },
+    {
+     "text": "New York Philharmonic Presents: Rouvali Conducts Schubert\u2019s ",
+     "url": "https://www.groupmuse.com/events/17296-new-york-philharmonic-presents-rouvali-conducts-schubert-s-great-symphony"
+    },
+    {
+     "text": "OMNI Foundation for the Performing Arts Presents: ArcoStrum",
+     "url": "https://www.groupmuse.com/events/17286-omni-foundation-for-the-performing-arts-presents-arcostrum"
+    },
+    {
+     "text": "Philadelphia Chamber Music Society Presents: Verona Quartet ",
+     "url": "https://www.groupmuse.com/events/17297-philadelphia-chamber-music-society-presents-verona-quartet-steven-banks-saxophone"
+    },
+    {
+     "text": "Camerata Pacifica Presents: All Beethoven Piano Program with",
+     "url": "https://www.groupmuse.com/events/17300-camerata-pacifica-presents-all-beethoven-piano-program-with-gilles-vonsattel"
+    },
+    {
+     "text": "Handel and Haydn Presents: Handel's Messiah",
+     "url": "https://www.groupmuse.com/events/17239-handel-and-haydn-presents-handel-s-messiah"
+    },
+    {
+     "text": "New York Philharmonic Presents: Rouvali Conducts Schubert\u2019s ",
+     "url": "https://www.groupmuse.com/events/17294-new-york-philharmonic-presents-rouvali-conducts-schubert-s-great-symphony"
+    },
+    {
+     "text": "Handel and Haydn Presents: Handel's Messiah",
+     "url": "https://www.groupmuse.com/events/17240-handel-and-haydn-presents-handel-s-messiah"
+    },
+    {
+     "text": "New York Philharmonic Presents: Rouvali Conducts Schubert\u2019s ",
+     "url": "https://www.groupmuse.com/events/17295-new-york-philharmonic-presents-rouvali-conducts-schubert-s-great-symphony"
+    },
+    {
+     "text": "In Dialogue: Violin & Piano",
+     "url": "https://www.groupmuse.com/events/17327-in-dialogue-violin-piano"
+    },
+    {
+     "text": "When Night Falls",
+     "url": "https://www.groupmuse.com/events/17281-when-night-falls"
+    },
+    {
+     "text": "Ying Li: Bach, Liszt, Beach, Stravinsky, Chen",
+     "url": "https://www.groupmuse.com/events/17111-ying-li-bach-liszt-beach-stravinsky-chen"
+    },
+    {
+     "text": "In Dialogue: Violin & Piano",
+     "url": "https://www.groupmuse.com/events/17322-in-dialogue-violin-piano"
+    },
+    {
+     "text": "Philip Glass for Violin & Cello - Candlelight Cafe Series",
+     "url": "https://www.groupmuse.com/events/17292-philip-glass-for-violin-cello-candlelight-cafe-series"
+    },
+    {
+     "text": "Cocktails and Music Pairings by Aperitono",
+     "url": "https://www.groupmuse.com/events/17325-cocktails-and-music-pairings-by-aperitono"
+    },
+    {
+     "text": "Classical Guitar Supreme",
+     "url": "https://www.groupmuse.com/events/16959-classical-guitar-supreme"
+    },
+    {
+     "text": "Cocktails and Classical Music Pairings by Aperitono",
+     "url": "https://www.groupmuse.com/events/17326-cocktails-and-classical-music-pairings-by-aperitono"
+    },
+    {
+     "text": "Violin and piano in Waban",
+     "url": "https://www.groupmuse.com/events/17283-violin-and-piano-in-waban"
+    },
+    {
+     "text": "Concert",
+     "url": "https://www.groupmuse.com/events/17333-concert"
+    },
+    {
+     "text": "Liu Xi / Willow Stream",
+     "url": "https://www.groupmuse.com/events/17258-liu-xi-willow-stream"
+    },
+    {
+     "text": "Autumn Movements: Bask in the warmth of an autumn themed eve",
+     "url": "https://www.groupmuse.com/events/17202-autumn-movements-bask-in-the-warmth-of-an-autumn-themed-evening-cello-voice-and-piano"
+    },
+    {
+     "text": "My Favorite Things \ud83c\udfad beloved Broadway Jazz Standards",
+     "url": "https://www.groupmuse.com/events/17255-my-favorite-things-beloved-broadway-jazz-standards"
+    },
+    {
+     "text": "A Charlie Brown Xmas by the Coast",
+     "url": "https://www.groupmuse.com/events/16999-a-charlie-brown-xmas-by-the-coast"
+    },
+    {
+     "text": "Bach goes to Broadway- Musical brunch",
+     "url": "https://www.groupmuse.com/events/17277-bach-goes-to-broadway-musical-brunch"
+    },
+    {
+     "text": "Winter chat, music, and wine with Charla Duo",
+     "url": "https://www.groupmuse.com/events/16953-winter-chat-music-and-wine-with-charla-duo"
+    }
+   ],
+   "platform": "",
+   "error": ""
+  },
+  {
+   "url": "https://www.groupmuse.com/events/15879-4hands-sunday-2pm-06dec2026-kessa-mefford-brielle-perez-virtuoso-pianists-music-begins-3p-potluck-dinner-buffet-107",
+   "status": 200,
+   "final_url": "https://www.groupmuse.com/events/15879-4hands-sunday-2pm-06dec2026-kessa-mefford-brielle-perez-virtuoso-pianists-music-begins-3p-potluck-dinner-buffet-107",
+   "title": "4hands Sunday 2pm 06dec2026 Kessa Mefford & Brielle Perez virtuoso pianists; music begins 3p; POTLUCK dinner buffet 107 ",
+   "dates": 0,
+   "jsonld": 0,
+   "jsonld_samples": [],
+   "hints": [
+    "https://www.groupmuse.com/events/15879-4hands-sunday-2pm-06dec2026-kessa-mefford-brielle-perez-virtuoso-pianists-music-begins-3p-potluck-dinner-buffet-107.ics"
+   ],
+   "iframes": [],
+   "event_links": [
+    {
+     "text": "Attend",
+     "url": "https://www.groupmuse.com/calendar"
+    },
+    {
+     "text": "\u00ab More D.C. events",
+     "url": "https://www.groupmuse.com/dc"
+    },
+    {
+     "text": "Apple Calendar",
+     "url": "https://www.groupmuse.com/events/15879-4hands-sunday-2pm-06dec2026-kessa-mefford-brielle-perez-virtuoso-pianists-music-begins-3p-potluck-dinner-buffet-107.ics"
+    },
+    {
+     "text": "Google Calendar",
+     "url": "https://www.google.com/calendar/render?action=TEMPLATE&dates=20261206T190000Z%2F20261206T213000Z&details=4handsSunday+2pm+06dec2026+Kessa+Mefford+%26+Brielle+Perez+virtuoso+pianists%3B+music+begins+3p%3B+POTLUCK+dinner+buffet+107%0D%0A%0D%0A4hands+%26+solo+piano+program+with+a+fellow+professional+of+works+by+Ravel%2C+Poulenc%2C+Faur%C3%A9%2C+Rachmaninov%2C+and+Montez.+This+program+is+about+65+minutes+of+music.++Guests+are+encouraged+to+bring+READY+TO+SERVE+PREPARED+DISH%2Fwine.%0D%0A%0D%0AKessa+Mefford+is%2C+first+and+foremost%2C+a+champion+of+Ravel.+Kessa+performs+everything+he+wrote+for+piano+%E2%80%94+solo%2C+chamber%2C+art+song%2C+and+concerto.+With+his+ear+for+harmony%2C+his+hunger+for+color%2C+and+his+painstaking+craft%2C+his+music+speaks+in+a+way+that+is+deeply+relatable.++Ravel+believed+his+music+already+existed+and+that+his+role+was+only+to+discover+it.+%E2%80%9CWhen+I+play%2C+I+embark+on+my+own+type+of+discovery.+In+practice%2C+I+can+feel+him+composing+%E2%80%94+him+searching+for+the+perfect+chord+as+I+search+for+the+perfect+sound.+In+performance%2C+I+invite+the+audience+to+search+with+us%2C+discovering+together+the+subtle+tensions+and+quiet+brilliance+that+define+his+music.%E2%80%9D+%22An+exceptional+artist+and+so+lovely+and+charming.+Kessa+put+the+music+within+a+context+as+they+played.+Would+host+Kessa+anytime%21%22%0D%0A%0D%0Ahttps%3A%2F%2Fkessamefford.com%2Fbio%2Findex.html%0D%0A%0D%0ABrielle+Perez+has+performed+on+important+stages+such+as+Alice+Tully+Hall+at+Lincoln+Center%2C+Weill+Recital+Hall+and+Zankel+Hall+at+Carnegie+Hall%2C+Steinway+Hall+in+New+York+City%2C+the+Concertgebouw+in+Amsterdam%2C+the+Mozarteum+in+Salzburg%2C+and+the+Tchaikovsky+Concert+Hall+in+Moscow+among+many+others.+Her+festival+appearances+include+the+Tanglewood+Music+Festival%2C+the+Art+of+Piano+Festival%2C+the+Malaga+International+Piano+Festival+%28FIPMA%29+and+more.+In+Summer+2026%2C+Brielle+will+attend+the+renowned+Aspen+music+Festival+in+the+studio+of+Yoheved+Kaplinsky.++Among+her+recent+engagements%2C+Perez+gave+a+solo+concert+celebrating+her+Puerto+Rican+heritage+at+the+historical+Puerto+Rican+%E2%80%98Pregones+Theater%E2%80%99+in+the+Bronx%2C+New+York.+In+November+2025%2C+she+collaborated+with+the+Juilliard+dance+department+performing+alongside+Nicholas+Britell+with+new+choreography+by+Bobbi+Jene+Smith.+In+the+past+few+years%2C+Perez+has+been+invited+several+times+as+a+featured+artist+.%0D%0A%0D%0Ahttps%3A%2F%2Fwww.brielleperez.com%2Fabout-4%0D%0A%0D%0APoulenc+%E2%80%94+Sonata+for+4+Hands+%0D%0AMontez+%E2%80%94+Suite+in+Eb%0D%0ARavel+%E2%80%94+Ma+m%C3%A9re+l%E2%80%99Oy%C3%A9%0D%0AFaur%C3%A9+%E2%80%94+Dolly+Suite%0D%0A++--+intermission+--%0D%0ARachmaninov+%E2%80%94+6+Morceaux%2C+Op.+11%0D%0A%0D%0AProgram+2+35-45+minute+sets+with+10-15+min+intermission%3B+arrivals+2-3pm+buffet+open+2pm%2C+music+room+seating+opens+3pm+%26+music+begins.%0D%0A%0D%0AAdvance+payment+PLEASE+%28pay+thru+GroupMuse+%2425%2Bcc+Fee%2C+artists+receive+%2420%29+or+use+Zelle+ID%3A+rix.rox.SOLOX%40verizon.net+%2425noFee+%28artists+receive+full+%2425+with+Zelle+or+PayPal%29%0D%0Ahttps%3A%2F%2Fwww.paypal.me%2FSOLOXtheArtSalon%0D%0APlease+include+attendee+names+in+Zelle+or+PayPal.+NO+CASH%2FNo+Checks+at+EVENT--illegal+in+MD.%0D%0A%0D%0APotLuck+Dinner+Buffet.+Host+will+provide+two+hot+hors+d%27oeuvres+%26+punch+for+potluck+reception+during+intermission+%26+beginning%2C+when+doors+open.+Guests+are+encouraged+to+bring+READY+TO+SERVE+PREPARED+DISH%2Fwine+to+share%2Fpotluck%3B+if+considering+a+sweet%2C+think+about+fruit+instead+of+processed+sugar.+Minimize+flimsy+plastic%2C+always+ends+up+in+my+ocean.++Music+begins+at+3pm%2C+please+be+on+time%2C+2+sets+with+1+short+intermission%2C+rarely+one+longer+set.+Guests+most+welcome+and+encouraged+to+bring+dish%2Fdrink+to+share%2Fpotluck%2C+please+consider+bringing+wine+if+you+use+it.+Stemware%2FIce+Buckets%2FFiltered+Water+Provided.%0D%0A%0D%0AAll+guests+will+be+seated+in+Music+Room+%28opens+at+3pm%29.+Accessibility+note%3A+3+steps+walkway+to+entry+hall%2C+30+inch+doors+inside.%0D%0A%0D%0AArrivals+2-2%3A30pm+...%0D%0A-+ready+to+serve+prepared+potluck+dishes+dining+room%0D%0A-wine%2C+beverages%3A+bar+in+galley%0D%0A-important%3A+coats+and+bags+upstairs+please%0D%0A-arrivals%3A+2pm+for+social+hour+and+POTLUCK+DINNER+buffet%0D%0A-+optional+artist+discussion%2FQ%26A+2%3A35-2%3A55pm+PROGRAM+NOTES%2A%2A+BELOW%0D%0A-concert+seating+opens%3A+3pm%2C+music+begins%3B+earlier+at+2%3A35pm+for+those+attending+optional.+artist+discussion%0D%0A-OK+To+take+food%2F+wine+into+Music+Studio%0D%0A-outdoor+cats+live+here%0D%0A-2+upstairs+galleries+open%2C+2+upstairs+lavatories%2C+open+in+addiction+to+DOWNSTAIRS%2C+LAVATORY+IN%0D%0AREAR+OF+MUSIC+STUDIO.%0D%0A-GRATUITIES%3A+most+welcome+for+the+artists+may+NOT+be+offered+at+the+event+but+can+be+sent+via+groupmuse.com+or+by+ZELLE+to+rix.rox.SOLOX%40verizon.net+IMMEDIATELY+AFTER+THE+EVENT--+ALL+forms+of+cash+or+check+transactions+are+strictly+illegal+at+this+event.%0D%0A-+limited+PHOTOGRAPHS+strictly+for+personal+use+may+be+taken%3A+NO+SOCIAL+MEDIA+POSTS%2C+NO+CLOUD+UPLOADS%2C+NO+TRANSMISSION+VIA+EMAIL+OR+TEXTING%3A+PHOTOGRAPHS+are+for+personal+use+ONLY%2C+PLEASE.%0D%0A%0D%0AYour+safety+is+paramount%3A+current+flu+%26+ovid+w%2Fbooster+respectfully+suggested.%0D%0A%0D%0ARefunds%3A+paypal+or+zelle+in+full%2C+GroupMuse+less+cc+Fee+%28SOLOX+suggests+refusing+a+credit+to+your+account+as+you+may+not+use+a+resulting+replacement+free+ticket+to+attend+another+event+at+SOLOX%2C+since+GroupMuse+does+not+pay+musicians+in+this+circumstance+...+request+a+refund+instead+please%29.+SOLOX+requires+that+musician%27s+always+be+paid+for+every+attendee+sea--music+is+not+only+an+art+form%2C+but+also+a+business.+%28See+more+or+reserve+a+spot+at+Groupmuse%3A+https%3A%2F%2Fwww.groupmuse.com%2Fevents%2F15879-4hands-sunday-2pm-06dec2026-kessa-mefford-brielle-perez-virtuoso-pianists-music-begins-3p-potluck-dinner-buffet-107%29&location=Woodacres%2C+Bethesda&sprop=website%3Ahttps%3A%2F%2Fwww.groupmuse.com%2Fevents%2F15879-4hands-sunday-2pm-06dec2026-kessa-mefford-brielle-perez-virtuoso-pianists-music-begins-3p-potluck-dinner-buffet-107%26sprop%3Dname%3AGroupmuse&text=%5BGroupmuse%5D+4hands+Sunday+2pm+06dec2026+Kessa+Mefford+%26+Brielle+Perez+virtuoso+pianists%3B+music+begins+3p%3B+POTLUCK+dinner+buffet+107+-+Hosted+by+Richard+White"
+    },
+    {
+     "text": "Microsoft Office 365",
+     "url": "https://outlook.office.com/calendar/0/deeplink/compose?body=4handsSunday+2pm+06dec2026+Kessa+Mefford+%26+Brielle+Perez+virtuoso+pianists%3B+music+begins+3p%3B+POTLUCK+dinner+buffet+107%0D%0A%0D%0A4hands+%26+solo+piano+program+with+a+fellow+professional+of+works+by+Ravel%2C+Poulenc%2C+Faur%C3%A9%2C+Rachmaninov%2C+and+Montez.+This+program+is+about+65+minutes+of+music.++Guests+are+encouraged+to+bring+READY+TO+SERVE+PREPARED+DISH%2Fwine.%0D%0A%0D%0AKessa+Mefford+is%2C+first+and+foremost%2C+a+champion+of+Ravel.+Kessa+performs+everything+he+wrote+for+piano+%E2%80%94+solo%2C+chamber%2C+art+song%2C+and+concerto.+With+his+ear+for+harmony%2C+his+hunger+for+color%2C+and+his+painstaking+craft%2C+his+music+speaks+in+a+way+that+is+deeply+relatable.++Ravel+believed+his+music+already+existed+and+that+his+role+was+only+to+discover+it.+%E2%80%9CWhen+I+play%2C+I+embark+on+my+own+type+of+discovery.+In+practice%2C+I+can+feel+him+composing+%E2%80%94+him+searching+for+the+perfect+chord+as+I+search+for+the+perfect+sound.+In+performance%2C+I+invite+the+audience+to+search+with+us%2C+discovering+together+the+subtle+tensions+and+quiet+brilliance+that+define+his+music.%E2%80%9D+%22An+exceptional+artist+and+so+lovely+and+charming.+Kessa+put+the+music+within+a+context+as+they+played.+Would+host+Kessa+anytime%21%22%0D%0A%0D%0Ahttps%3A%2F%2Fkessamefford.com%2Fbio%2Findex.html%0D%0A%0D%0ABrielle+Perez+has+performed+on+important+stages+such+as+Alice+Tully+Hall+at+Lincoln+Center%2C+Weill+Recital+Hall+and+Zankel+Hall+at+Carnegie+Hall%2C+Steinway+Hall+in+New+York+City%2C+the+Concertgebouw+in+Amsterdam%2C+the+Mozarteum+in+Salzburg%2C+and+the+Tchaikovsky+Concert+Hall+in+Moscow+among+many+others.+Her+festival+appearances+include+the+Tanglewood+Music+Festival%2C+the+Art+of+Piano+Festival%2C+the+Malaga+International+Piano+Festival+%28FIPMA%29+and+more.+In+Summer+2026%2C+Brielle+will+attend+the+renowned+Aspen+music+Festival+in+the+studio+of+Yoheved+Kaplinsky.++Among+her+recent+engagements%2C+Perez+gave+a+solo+concert+celebrating+her+Puerto+Rican+heritage+at+the+historical+Puerto+Rican+%E2%80%98Pregones+Theater%E2%80%99+in+the+Bronx%2C+New+York.+In+November+2025%2C+she+collaborated+with+the+Juilliard+dance+department+performing+alongside+Nicholas+Britell+with+new+choreography+by+Bobbi+Jene+Smith.+In+the+past+few+years%2C+Perez+has+been+invited+several+times+as+a+featured+artist+.%0D%0A%0D%0Ahttps%3A%2F%2Fwww.brielleperez.com%2Fabout-4%0D%0A%0D%0APoulenc+%E2%80%94+Sonata+for+4+Hands+%0D%0AMontez+%E2%80%94+Suite+in+Eb%0D%0ARavel+%E2%80%94+Ma+m%C3%A9re+l%E2%80%99Oy%C3%A9%0D%0AFaur%C3%A9+%E2%80%94+Dolly+Suite%0D%0A++--+intermission+--%0D%0ARachmaninov+%E2%80%94+6+Morceaux%2C+Op.+11%0D%0A%0D%0AProgram+2+35-45+minute+sets+with+10-15+min+intermission%3B+arrivals+2-3pm+buffet+open+2pm%2C+music+room+seating+opens+3pm+%26+music+begins.%0D%0A%0D%0AAdvance+payment+PLEASE+%28pay+thru+GroupMuse+%2425%2Bcc+Fee%2C+artists+receive+%2420%29+or+use+Zelle+ID%3A+rix.rox.SOLOX%40verizon.net+%2425noFee+%28artists+receive+full+%2425+with+Zelle+or+PayPal%29%0D%0Ahttps%3A%2F%2Fwww.paypal.me%2FSOLOXtheArtSalon%0D%0APlease+include+attendee+names+in+Zelle+or+PayPal.+NO+CASH%2FNo+Checks+at+EVENT--illegal+in+MD.%0D%0A%0D%0APotLuck+Dinner+Buffet.+Host+will+provide+two+hot+hors+d%27oeuvres+%26+punch+for+potluck+reception+during+intermission+%26+beginning%2C+when+doors+open.+Guests+are+encouraged+to+bring+READY+TO+SERVE+PREPARED+DISH%2Fwine+to+share%2Fpotluck%3B+if+considering+a+sweet%2C+think+about+fruit+instead+of+processed+sugar.+Minimize+flimsy+plastic%2C+always+ends+up+in+my+ocean.++Music+begins+at+3pm%2C+please+be+on+time%2C+2+sets+with+1+short+intermission%2C+rarely+one+longer+set.+Guests+most+welcome+and+encouraged+to+bring+dish%2Fdrink+to+share%2Fpotluck%2C+please+consider+bringing+wine+if+you+use+it.+Stemware%2FIce+Buckets%2FFiltered+Water+Provided.%0D%0A%0D%0AAll+guests+will+be+seated+in+Music+Room+%28opens+at+3pm%29.+Accessibility+note%3A+3+steps+walkway+to+entry+hall%2C+30+inch+doors+inside.%0D%0A%0D%0AArrivals+2-2%3A30pm+...%0D%0A-+ready+to+serve+prepared+potluck+dishes+dining+room%0D%0A-wine%2C+beverages%3A+bar+in+galley%0D%0A-important%3A+coats+and+bags+upstairs+please%0D%0A-arrivals%3A+2pm+for+social+hour+and+POTLUCK+DINNER+buffet%0D%0A-+optional+artist+discussion%2FQ%26A+2%3A35-2%3A55pm+PROGRAM+NOTES%2A%2A+BELOW%0D%0A-concert+seating+opens%3A+3pm%2C+music+begins%3B+earlier+at+2%3A35pm+for+those+attending+optional.+artist+discussion%0D%0A-OK+To+take+food%2F+wine+into+Music+Studio%0D%0A-outdoor+cats+live+here%0D%0A-2+upstairs+galleries+open%2C+2+upstairs+lavatories%2C+open+in+addiction+to+DOWNSTAIRS%2C+LAVATORY+IN%0D%0AREAR+OF+MUSIC+STUDIO.%0D%0A-GRATUITIES%3A+most+welcome+for+the+artists+may+NOT+be+offered+at+the+event+but+can+be+sent+via+groupmuse.com+or+by+ZELLE+to+rix.rox.SOLOX%40verizon.net+IMMEDIATELY+AFTER+THE+EVENT--+ALL+forms+of+cash+or+check+transactions+are+strictly+illegal+at+this+event.%0D%0A-+limited+PHOTOGRAPHS+strictly+for+personal+use+may+be+taken%3A+NO+SOCIAL+MEDIA+POSTS%2C+NO+CLOUD+UPLOADS%2C+NO+TRANSMISSION+VIA+EMAIL+OR+TEXTING%3A+PHOTOGRAPHS+are+for+personal+use+ONLY%2C+PLEASE.%0D%0A%0D%0AYour+safety+is+paramount%3A+current+flu+%26+ovid+w%2Fbooster+respectfully+suggested.%0D%0A%0D%0ARefunds%3A+paypal+or+zelle+in+full%2C+GroupMuse+less+cc+Fee+%28SOLOX+suggests+refusing+a+credit+to+your+account+as+you+may+not+use+a+resulting+replacement+free+ticket+to+attend+another+event+at+SOLOX%2C+since+GroupMuse+does+not+pay+musicians+in+this+circumstance+...+request+a+refund+instead+please%29.+SOLOX+requires+that+musician%27s+always+be+paid+for+every+attendee+sea--music+is+not+only+an+art+form%2C+but+also+a+business.+%28See+more+or+reserve+a+spot+at+Groupmuse%3A+https%3A%2F%2Fwww.groupmuse.com%2Fevents%2F15879-4hands-sunday-2pm-06dec2026-kessa-mefford-brielle-perez-virtuoso-pianists-music-begins-3p-potluck-dinner-buffet-107%29&enddt=2026-12-06T21%3A30%3A00Z&location=Woodacres%2C+Bethesda&path=%2Fcalendar%2Faction%2Fcompose&rru=addevent&startdt=2026-12-06T19%3A00%3A00Z&subject=%5BGroupmuse%5D+4hands+Sunday+2pm+06dec2026+Kessa+Mefford+%26+Brielle+Perez+virtuoso+pianists%3B+music+begins+3p%3B+POTLUCK+dinner+buffet+107+-+Hosted+by+Richard+White"
+    },
+    {
+     "text": "Outlook",
+     "url": "https://outlook.live.com/calendar/0/deeplink/compose?body=4handsSunday+2pm+06dec2026+Kessa+Mefford+%26+Brielle+Perez+virtuoso+pianists%3B+music+begins+3p%3B+POTLUCK+dinner+buffet+107%0D%0A%0D%0A4hands+%26+solo+piano+program+with+a+fellow+professional+of+works+by+Ravel%2C+Poulenc%2C+Faur%C3%A9%2C+Rachmaninov%2C+and+Montez.+This+program+is+about+65+minutes+of+music.++Guests+are+encouraged+to+bring+READY+TO+SERVE+PREPARED+DISH%2Fwine.%0D%0A%0D%0AKessa+Mefford+is%2C+first+and+foremost%2C+a+champion+of+Ravel.+Kessa+performs+everything+he+wrote+for+piano+%E2%80%94+solo%2C+chamber%2C+art+song%2C+and+concerto.+With+his+ear+for+harmony%2C+his+hunger+for+color%2C+and+his+painstaking+craft%2C+his+music+speaks+in+a+way+that+is+deeply+relatable.++Ravel+believed+his+music+already+existed+and+that+his+role+was+only+to+discover+it.+%E2%80%9CWhen+I+play%2C+I+embark+on+my+own+type+of+discovery.+In+practice%2C+I+can+feel+him+composing+%E2%80%94+him+searching+for+the+perfect+chord+as+I+search+for+the+perfect+sound.+In+performance%2C+I+invite+the+audience+to+search+with+us%2C+discovering+together+the+subtle+tensions+and+quiet+brilliance+that+define+his+music.%E2%80%9D+%22An+exceptional+artist+and+so+lovely+and+charming.+Kessa+put+the+music+within+a+context+as+they+played.+Would+host+Kessa+anytime%21%22%0D%0A%0D%0Ahttps%3A%2F%2Fkessamefford.com%2Fbio%2Findex.html%0D%0A%0D%0ABrielle+Perez+has+performed+on+important+stages+such+as+Alice+Tully+Hall+at+Lincoln+Center%2C+Weill+Recital+Hall+and+Zankel+Hall+at+Carnegie+Hall%2C+Steinway+Hall+in+New+York+City%2C+the+Concertgebouw+in+Amsterdam%2C+the+Mozarteum+in+Salzburg%2C+and+the+Tchaikovsky+Concert+Hall+in+Moscow+among+many+others.+Her+festival+appearances+include+the+Tanglewood+Music+Festival%2C+the+Art+of+Piano+Festival%2C+the+Malaga+International+Piano+Festival+%28FIPMA%29+and+more.+In+Summer+2026%2C+Brielle+will+attend+the+renowned+Aspen+music+Festival+in+the+studio+of+Yoheved+Kaplinsky.++Among+her+recent+engagements%2C+Perez+gave+a+solo+concert+celebrating+her+Puerto+Rican+heritage+at+the+historical+Puerto+Rican+%E2%80%98Pregones+Theater%E2%80%99+in+the+Bronx%2C+New+York.+In+November+2025%2C+she+collaborated+with+the+Juilliard+dance+department+performing+alongside+Nicholas+Britell+with+new+choreography+by+Bobbi+Jene+Smith.+In+the+past+few+years%2C+Perez+has+been+invited+several+times+as+a+featured+artist+.%0D%0A%0D%0Ahttps%3A%2F%2Fwww.brielleperez.com%2Fabout-4%0D%0A%0D%0APoulenc+%E2%80%94+Sonata+for+4+Hands+%0D%0AMontez+%E2%80%94+Suite+in+Eb%0D%0ARavel+%E2%80%94+Ma+m%C3%A9re+l%E2%80%99Oy%C3%A9%0D%0AFaur%C3%A9+%E2%80%94+Dolly+Suite%0D%0A++--+intermission+--%0D%0ARachmaninov+%E2%80%94+6+Morceaux%2C+Op.+11%0D%0A%0D%0AProgram+2+35-45+minute+sets+with+10-15+min+intermission%3B+arrivals+2-3pm+buffet+open+2pm%2C+music+room+seating+opens+3pm+%26+music+begins.%0D%0A%0D%0AAdvance+payment+PLEASE+%28pay+thru+GroupMuse+%2425%2Bcc+Fee%2C+artists+receive+%2420%29+or+use+Zelle+ID%3A+rix.rox.SOLOX%40verizon.net+%2425noFee+%28artists+receive+full+%2425+with+Zelle+or+PayPal%29%0D%0Ahttps%3A%2F%2Fwww.paypal.me%2FSOLOXtheArtSalon%0D%0APlease+include+attendee+names+in+Zelle+or+PayPal.+NO+CASH%2FNo+Checks+at+EVENT--illegal+in+MD.%0D%0A%0D%0APotLuck+Dinner+Buffet.+Host+will+provide+two+hot+hors+d%27oeuvres+%26+punch+for+potluck+reception+during+intermission+%26+beginning%2C+when+doors+open.+Guests+are+encouraged+to+bring+READY+TO+SERVE+PREPARED+DISH%2Fwine+to+share%2Fpotluck%3B+if+considering+a+sweet%2C+think+about+fruit+instead+of+processed+sugar.+Minimize+flimsy+plastic%2C+always+ends+up+in+my+ocean.++Music+begins+at+3pm%2C+please+be+on+time%2C+2+sets+with+1+short+intermission%2C+rarely+one+longer+set.+Guests+most+welcome+and+encouraged+to+bring+dish%2Fdrink+to+share%2Fpotluck%2C+please+consider+bringing+wine+if+you+use+it.+Stemware%2FIce+Buckets%2FFiltered+Water+Provided.%0D%0A%0D%0AAll+guests+will+be+seated+in+Music+Room+%28opens+at+3pm%29.+Accessibility+note%3A+3+steps+walkway+to+entry+hall%2C+30+inch+doors+inside.%0D%0A%0D%0AArrivals+2-2%3A30pm+...%0D%0A-+ready+to+serve+prepared+potluck+dishes+dining+room%0D%0A-wine%2C+beverages%3A+bar+in+galley%0D%0A-important%3A+coats+and+bags+upstairs+please%0D%0A-arrivals%3A+2pm+for+social+hour+and+POTLUCK+DINNER+buffet%0D%0A-+optional+artist+discussion%2FQ%26A+2%3A35-2%3A55pm+PROGRAM+NOTES%2A%2A+BELOW%0D%0A-concert+seating+opens%3A+3pm%2C+music+begins%3B+earlier+at+2%3A35pm+for+those+attending+optional.+artist+discussion%0D%0A-OK+To+take+food%2F+wine+into+Music+Studio%0D%0A-outdoor+cats+live+here%0D%0A-2+upstairs+galleries+open%2C+2+upstairs+lavatories%2C+open+in+addiction+to+DOWNSTAIRS%2C+LAVATORY+IN%0D%0AREAR+OF+MUSIC+STUDIO.%0D%0A-GRATUITIES%3A+most+welcome+for+the+artists+may+NOT+be+offered+at+the+event+but+can+be+sent+via+groupmuse.com+or+by+ZELLE+to+rix.rox.SOLOX%40verizon.net+IMMEDIATELY+AFTER+THE+EVENT--+ALL+forms+of+cash+or+check+transactions+are+strictly+illegal+at+this+event.%0D%0A-+limited+PHOTOGRAPHS+strictly+for+personal+use+may+be+taken%3A+NO+SOCIAL+MEDIA+POSTS%2C+NO+CLOUD+UPLOADS%2C+NO+TRANSMISSION+VIA+EMAIL+OR+TEXTING%3A+PHOTOGRAPHS+are+for+personal+use+ONLY%2C+PLEASE.%0D%0A%0D%0AYour+safety+is+paramount%3A+current+flu+%26+ovid+w%2Fbooster+respectfully+suggested.%0D%0A%0D%0ARefunds%3A+paypal+or+zelle+in+full%2C+GroupMuse+less+cc+Fee+%28SOLOX+suggests+refusing+a+credit+to+your+account+as+you+may+not+use+a+resulting+replacement+free+ticket+to+attend+another+event+at+SOLOX%2C+since+GroupMuse+does+not+pay+musicians+in+this+circumstance+...+request+a+refund+instead+please%29.+SOLOX+requires+that+musician%27s+always+be+paid+for+every+attendee+sea--music+is+not+only+an+art+form%2C+but+also+a+business.+%28See+more+or+reserve+a+spot+at+Groupmuse%3A+https%3A%2F%2Fwww.groupmuse.com%2Fevents%2F15879-4hands-sunday-2pm-06dec2026-kessa-mefford-brielle-perez-virtuoso-pianists-music-begins-3p-potluck-dinner-buffet-107%29&enddt=2026-12-06T21%3A30%3A00Z&location=Woodacres%2C+Bethesda&path=%2Fcalendar%2Faction%2Fcompose&rru=addevent&startdt=2026-12-06T19%3A00%3A00Z&subject=%5BGroupmuse%5D+4hands+Sunday+2pm+06dec2026+Kessa+Mefford+%26+Brielle+Perez+virtuoso+pianists%3B+music+begins+3p%3B+POTLUCK+dinner+buffet+107+-+Hosted+by+Richard+White"
+    },
+    {
+     "text": "Yahoo Calendar",
+     "url": "https://calendar.yahoo.com/?desc=4handsSunday+2pm+06dec2026+Kessa+Mefford+%26+Brielle+Perez+virtuoso+pianists%3B+music+begins+3p%3B+POTLUCK+dinner+buffet+107%0D%0A%0D%0A4hands+%26+solo+piano+program+with+a+fellow+professional+of+works+by+Ravel%2C+Poulenc%2C+Faur%C3%A9%2C+Rachmaninov%2C+and+Montez.+This+program+is+about+65+minutes+of+music.++Guests+are+encouraged+to+bring+READY+TO+SERVE+PREPARED+DISH%2Fwine.%0D%0A%0D%0AKessa+Mefford+is%2C+first+and+foremost%2C+a+champion+of+Ravel.+Kessa+performs+everything+he+wrote+for+piano+%E2%80%94+solo%2C+chamber%2C+art+song%2C+and+concerto.+With+his+ear+for+harmony%2C+his+hunger+for+color%2C+and+his+painstaking+craft%2C+his+music+speaks+in+a+way+that+is+deeply+relatable.++Ravel+believed+his+music+already+existed+and+that+his+role+was+only+to+discover+it.+%E2%80%9CWhen+I+play%2C+I+embark+on+my+own+type+of+discovery.+In+practice%2C+I+can+feel+him+composing+%E2%80%94+him+searching+for+the+perfect+chord+as+I+search+for+the+perfect+sound.+In+performance%2C+I+invite+the+audience+to+search+with+us%2C+discovering+together+the+subtle+tensions+and+quiet+brilliance+that+define+his+music.%E2%80%9D+%22An+exceptional+artist+and+so+lovely+and+charming.+Kessa+put+the+music+within+a+context+as+they+played.+Would+host+Kessa+anytime%21%22%0D%0A%0D%0Ahttps%3A%2F%2Fkessamefford.com%2Fbio%2Findex.html%0D%0A%0D%0ABrielle+Perez+has+performed+on+important+stages+such+as+Alice+Tully+Hall+at+Lincoln+Center%2C+Weill+Recital+Hall+and+Zankel+Hall+at+Carnegie+Hall%2C+Steinway+Hall+in+New+York+City%2C+the+Concertgebouw+in+Amsterdam%2C+the+Mozarteum+in+Salzburg%2C+and+the+Tchaikovsky+Concert+Hall+in+Moscow+among+many+others.+Her+festival+appearances+include+the+Tanglewood+Music+Festival%2C+the+Art+of+Piano+Festival%2C+the+Malaga+International+Piano+Festival+%28FIPMA%29+and+more.+In+Summer+2026%2C+Brielle+will+attend+the+renowned+Aspen+music+Festival+in+the+studio+of+Yoheved+Kaplinsky.++Among+her+recent+engagements%2C+Perez+gave+a+solo+concert+celebrating+her+Puerto+Rican+heritage+at+the+historical+Puerto+Rican+%E2%80%98Pregones+Theater%E2%80%99+in+the+Bronx%2C+New+York.+In+November+2025%2C+she+collaborated+with+the+Juilliard+dance+department+performing+alongside+Nicholas+Britell+with+new+choreography+by+Bobbi+Jene+Smith.+In+the+past+few+years%2C+Perez+has+been+invited+several+times+as+a+featured+artist+.%0D%0A%0D%0Ahttps%3A%2F%2Fwww.brielleperez.com%2Fabout-4%0D%0A%0D%0APoulenc+%E2%80%94+Sonata+for+4+Hands+%0D%0AMontez+%E2%80%94+Suite+in+Eb%0D%0ARavel+%E2%80%94+Ma+m%C3%A9re+l%E2%80%99Oy%C3%A9%0D%0AFaur%C3%A9+%E2%80%94+Dolly+Suite%0D%0A++--+intermission+--%0D%0ARachmaninov+%E2%80%94+6+Morceaux%2C+Op.+11%0D%0A%0D%0AProgram+2+35-45+minute+sets+with+10-15+min+intermission%3B+arrivals+2-3pm+buffet+open+2pm%2C+music+room+seating+opens+3pm+%26+music+begins.%0D%0A%0D%0AAdvance+payment+PLEASE+%28pay+thru+GroupMuse+%2425%2Bcc+Fee%2C+artists+receive+%2420%29+or+use+Zelle+ID%3A+rix.rox.SOLOX%40verizon.net+%2425noFee+%28artists+receive+full+%2425+with+Zelle+or+PayPal%29%0D%0Ahttps%3A%2F%2Fwww.paypal.me%2FSOLOXtheArtSalon%0D%0APlease+include+attendee+names+in+Zelle+or+PayPal.+NO+CASH%2FNo+Checks+at+EVENT--illegal+in+MD.%0D%0A%0D%0APotLuck+Dinner+Buffet.+Host+will+provide+two+hot+hors+d%27oeuvres+%26+punch+for+potluck+reception+during+intermission+%26+beginning%2C+when+doors+open.+Guests+are+encouraged+to+bring+READY+TO+SERVE+PREPARED+DISH%2Fwine+to+share%2Fpotluck%3B+if+considering+a+sweet%2C+think+about+fruit+instead+of+processed+sugar.+Minimize+flimsy+plastic%2C+always+ends+up+in+my+ocean.++Music+begins+at+3pm%2C+please+be+on+time%2C+2+sets+with+1+short+intermission%2C+rarely+one+longer+set.+Guests+most+welcome+and+encouraged+to+bring+dish%2Fdrink+to+share%2Fpotluck%2C+please+consider+bringing+wine+if+you+use+it.+Stemware%2FIce+Buckets%2FFiltered+Water+Provided.%0D%0A%0D%0AAll+guests+will+be+seated+in+Music+Room+%28opens+at+3pm%29.+Accessibility+note%3A+3+steps+walkway+to+entry+hall%2C+30+inch+doors+inside.%0D%0A%0D%0AArrivals+2-2%3A30pm+...%0D%0A-+ready+to+serve+prepared+potluck+dishes+dining+room%0D%0A-wine%2C+beverages%3A+bar+in+galley%0D%0A-important%3A+coats+and+bags+upstairs+please%0D%0A-arrivals%3A+2pm+for+social+hour+and+POTLUCK+DINNER+buffet%0D%0A-+optional+artist+discussion%2FQ%26A+2%3A35-2%3A55pm+PROGRAM+NOTES%2A%2A+BELOW%0D%0A-concert+seating+opens%3A+3pm%2C+music+begins%3B+earlier+at+2%3A35pm+for+those+attending+optional.+artist+discussion%0D%0A-OK+To+take+food%2F+wine+into+Music+Studio%0D%0A-outdoor+cats+live+here%0D%0A-2+upstairs+galleries+open%2C+2+upstairs+lavatories%2C+open+in+addiction+to+DOWNSTAIRS%2C+LAVATORY+IN%0D%0AREAR+OF+MUSIC+STUDIO.%0D%0A-GRATUITIES%3A+most+welcome+for+the+artists+may+NOT+be+offered+at+the+event+but+can+be+sent+via+groupmuse.com+or+by+ZELLE+to+rix.rox.SOLOX%40verizon.net+IMMEDIATELY+AFTER+THE+EVENT--+ALL+forms+of+cash+or+check+transactions+are+strictly+illegal+at+this+event.%0D%0A-+limited+PHOTOGRAPHS+strictly+for+personal+use+may+be+taken%3A+NO+SOCIAL+MEDIA+POSTS%2C+NO+CLOUD+UPLOADS%2C+NO+TRANSMISSION+VIA+EMAIL+OR+TEXTING%3A+PHOTOGRAPHS+are+for+personal+use+ONLY%2C+PLEASE.%0D%0A%0D%0AYour+safety+is+paramount%3A+current+flu+%26+ovid+w%2Fbooster+respectfully+suggested.%0D%0A%0D%0ARefunds%3A+paypal+or+zelle+in+full%2C+GroupMuse+less+cc+Fee+%28SOLOX+suggests+refusing+a+credit+to+your+account+as+you+may+not+use+a+resulting+replacement+free+ticket+to+attend+another+event+at+SOLOX%2C+since+GroupMuse+does+not+pay+musicians+in+this+circumstance+...+request+a+refund+instead+please%29.+SOLOX+requires+that+musician%27s+always+be+paid+for+every+attendee+sea--music+is+not+only+an+art+form%2C+but+also+a+business.+%28See+more+or+reserve+a+spot+at+Groupmuse%3A+https%3A%2F%2Fwww.groupmuse.com%2Fevents%2F15879-4hands-sunday-2pm-06dec2026-kessa-mefford-brielle-perez-virtuoso-pianists-music-begins-3p-potluck-dinner-buffet-107%29&et=20261206T213000Z&in_loc=Woodacres%2C+Bethesda&st=20261206T190000Z&title=%5BGroupmuse%5D+4hands+Sunday+2pm+06dec2026+Kessa+Mefford+%26+Brielle+Perez+virtuoso+pianists%3B+music+begins+3p%3B+POTLUCK+dinner+buffet+107+-+Hosted+by+Richard+White&v=60"
+    },
+    {
+     "text": "Sync to my calendar",
+     "url": "https://www.groupmuse.com/calendar/export"
+    },
+    {
+     "text": "https://www.paypal.me/SOLOXtheArtSalon",
+     "url": "https://www.paypal.me/SOLOXtheArtSalon"
+    }
+   ],
+   "platform": "",
+   "error": ""
+  },
+  {
+   "url": "https://www.groupmuse.com/events/17309-cameron-campbell-comes-to-washington",
+   "status": 200,
+   "final_url": "https://www.groupmuse.com/events/17309-cameron-campbell-comes-to-washington",
+   "title": "Cameron Campbell comes to Washington - Groupmuse",
+   "dates": 0,
+   "jsonld": 0,
+   "jsonld_samples": [],
+   "hints": [
+    "https://www.groupmuse.com/events/17309-cameron-campbell-comes-to-washington.ics"
+   ],
+   "iframes": [],
+   "event_links": [
+    {
+     "text": "Attend",
+     "url": "https://www.groupmuse.com/calendar"
+    },
+    {
+     "text": "\u00ab More D.C. events",
+     "url": "https://www.groupmuse.com/dc"
+    },
+    {
+     "text": "Apple Calendar",
+     "url": "https://www.groupmuse.com/events/17309-cameron-campbell-comes-to-washington.ics"
+    },
+    {
+     "text": "Google Calendar",
+     "url": "https://www.google.com/calendar/render?action=TEMPLATE&dates=20261209T000000Z%2F20261209T023000Z&details=We+would+love+to+welcome+you+to+our+cozy+living+room+for+this+special+evening+with+NYC-based+jazz+pianist+Cameron+Campbell.++Cameron+is+a+brilliant+jazz+pianist+with+a+unique+sound.++We+hope+you+can+make+it%21%21+%28See+more+or+reserve+a+spot+at+Groupmuse%3A+https%3A%2F%2Fwww.groupmuse.com%2Fevents%2F17309-cameron-campbell-comes-to-washington%29&location=Takoma+Park&sprop=website%3Ahttps%3A%2F%2Fwww.groupmuse.com%2Fevents%2F17309-cameron-campbell-comes-to-washington%26sprop%3Dname%3AGroupmuse&text=%5BGroupmuse%5D+Cameron+Campbell+comes+to+Washington+-+Hosted+by+Stephanie+Kaufman"
+    },
+    {
+     "text": "Microsoft Office 365",
+     "url": "https://outlook.office.com/calendar/0/deeplink/compose?body=We+would+love+to+welcome+you+to+our+cozy+living+room+for+this+special+evening+with+NYC-based+jazz+pianist+Cameron+Campbell.++Cameron+is+a+brilliant+jazz+pianist+with+a+unique+sound.++We+hope+you+can+make+it%21%21+%28See+more+or+reserve+a+spot+at+Groupmuse%3A+https%3A%2F%2Fwww.groupmuse.com%2Fevents%2F17309-cameron-campbell-comes-to-washington%29&enddt=2026-12-09T02%3A30%3A00Z&location=Takoma+Park&path=%2Fcalendar%2Faction%2Fcompose&rru=addevent&startdt=2026-12-09T00%3A00%3A00Z&subject=%5BGroupmuse%5D+Cameron+Campbell+comes+to+Washington+-+Hosted+by+Stephanie+Kaufman"
+    },
+    {
+     "text": "Outlook",
+     "url": "https://outlook.live.com/calendar/0/deeplink/compose?body=We+would+love+to+welcome+you+to+our+cozy+living+room+for+this+special+evening+with+NYC-based+jazz+pianist+Cameron+Campbell.++Cameron+is+a+brilliant+jazz+pianist+with+a+unique+sound.++We+hope+you+can+make+it%21%21+%28See+more+or+reserve+a+spot+at+Groupmuse%3A+https%3A%2F%2Fwww.groupmuse.com%2Fevents%2F17309-cameron-campbell-comes-to-washington%29&enddt=2026-12-09T02%3A30%3A00Z&location=Takoma+Park&path=%2Fcalendar%2Faction%2Fcompose&rru=addevent&startdt=2026-12-09T00%3A00%3A00Z&subject=%5BGroupmuse%5D+Cameron+Campbell+comes+to+Washington+-+Hosted+by+Stephanie+Kaufman"
+    },
+    {
+     "text": "Yahoo Calendar",
+     "url": "https://calendar.yahoo.com/?desc=We+would+love+to+welcome+you+to+our+cozy+living+room+for+this+special+evening+with+NYC-based+jazz+pianist+Cameron+Campbell.++Cameron+is+a+brilliant+jazz+pianist+with+a+unique+sound.++We+hope+you+can+make+it%21%21+%28See+more+or+reserve+a+spot+at+Groupmuse%3A+https%3A%2F%2Fwww.groupmuse.com%2Fevents%2F17309-cameron-campbell-comes-to-washington%29&et=20261209T023000Z&in_loc=Takoma+Park&st=20261209T000000Z&title=%5BGroupmuse%5D+Cameron+Campbell+comes+to+Washington+-+Hosted+by+Stephanie+Kaufman&v=60"
+    },
+    {
+     "text": "Sync to my calendar",
+     "url": "https://www.groupmuse.com/calendar/export"
+    }
+   ],
+   "platform": "",
+   "error": ""
+  },
+  {
+   "url": "https://www.groupmuse.com/events/15954-10-january-2027-sunday-2pm-virtuoso-pianist-sandrine-erdely-sayo-steinway-artist-pre-concert-talk-potluck-dinner-buffet-108",
+   "status": 200,
+   "final_url": "https://www.groupmuse.com/events/15954-10-january-2027-sunday-2pm-virtuoso-pianist-sandrine-erdely-sayo-steinway-artist-pre-concert-talk-potluck-dinner-buffet-108",
+   "title": "10 January 2027 SUNDAY 2pm virtuoso pianist Sandrine Erdely-Sayo Steinway Artist, pre-concert talk, POTLUCK dinner buffe",
+   "dates": 1,
+   "jsonld": 0,
+   "jsonld_samples": [],
+   "hints": [
+    "https://www.groupmuse.com/events/15954-10-january-2027-sunday-2pm-virtuoso-pianist-sandrine-erdely-sayo-steinway-artist-pre-concert-talk-potluck-dinner-buffet-108.ics"
+   ],
+   "iframes": [],
+   "event_links": [
+    {
+     "text": "Attend",
+     "url": "https://www.groupmuse.com/calendar"
+    },
+    {
+     "text": "\u00ab More D.C. events",
+     "url": "https://www.groupmuse.com/dc"
+    },
+    {
+     "text": "Apple Calendar",
+     "url": "https://www.groupmuse.com/events/15954-10-january-2027-sunday-2pm-virtuoso-pianist-sandrine-erdely-sayo-steinway-artist-pre-concert-talk-potluck-dinner-buffet-108.ics"
+    },
+    {
+     "text": "Sync to my calendar",
+     "url": "https://www.groupmuse.com/calendar/export"
+    },
+    {
+     "text": "https://www.paypal.me/SOLOXtheArtSalon",
+     "url": "https://www.paypal.me/SOLOXtheArtSalon"
+    }
+   ],
+   "platform": "",
+   "error": ""
+  }
+ ],
+ "best_page": "https://www.groupmuse.com/"
+}

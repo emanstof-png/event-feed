@@ -1,0 +1,78 @@
+{
+ "row": "149",
+ "name": "The DC Supper Club (DC Urban Oasis)",
+ "seed_url": "https://www.exploretock.com/dc-urban-oasis/event/619754",
+ "programs": "",
+ "access": "",
+ "found": "2026-11-28 01:27Z",
+ "search_hits": [],
+ "search_error": "html.duckduckgo.com 0 hits (202, 15074b); www.bing.com 0 hits (200, 113779b); lite.duckduckgo.com 0 hits (202, 15166b)",
+ "probes": [
+  {
+   "url": "https://www.exploretock.com/wp-json/tribe/events/v1/events?per_page=10",
+   "status": "HTTPError",
+   "events": 0
+  },
+  {
+   "url": "https://www.exploretock.com/events/?ical=1",
+   "status": "HTTPError",
+   "events": 0
+  },
+  {
+   "url": "https://www.exploretock.com/?ical=1",
+   "status": 200,
+   "events": 0,
+   "head": "\n    <!doctype html>\n    <html class=\"no-js\" lang=en>\n      <head>\n      <!-- Trustarc -->\n       <script type=\"text/javascript\" async=\"async\" src=\"//consent.trustarc.com/notice?domain=exploretock.com&c=teconsent&js=nj&noticeType=bb&gtm=1&text=true&language=en-us\" crossorigin=\"\"></script>\n      <!--"
+  }
+ ],
+ "pages": [
+  {
+   "url": "https://www.exploretock.com/dc-urban-oasis/event/619754",
+   "status": 200,
+   "final_url": "https://www.exploretock.com/dc-urban-oasis/event/619754",
+   "title": "The DC Supper Club \u2014 Book Club Edition: The Happiness Reboot by Craig Robinson - DC Urban Oasis - Washington, DC | Tock ",
+   "dates": 1,
+   "jsonld": 0,
+   "jsonld_samples": [],
+   "hints": [],
+   "iframes": [],
+   "event_links": [
+    {
+     "text": "Frequently asked questions",
+     "url": "https://www.exploretock.com/dc-urban-oasis/event/619754/faq"
+    }
+   ],
+   "platform": "",
+   "error": ""
+  },
+  {
+   "url": "https://www.exploretock.com/",
+   "status": null,
+   "final_url": "",
+   "title": "",
+   "dates": 0,
+   "jsonld": 0,
+   "jsonld_samples": [],
+   "hints": [],
+   "iframes": [],
+   "event_links": [],
+   "platform": "",
+   "error": "HTTPError: HTTP Error 403: "
+  },
+  {
+   "url": "https://www.exploretock.com/dc-urban-oasis/event/619754/faq",
+   "status": null,
+   "final_url": "",
+   "title": "",
+   "dates": 0,
+   "jsonld": 0,
+   "jsonld_samples": [],
+   "hints": [],
+   "iframes": [],
+   "event_links": [],
+   "platform": "",
+   "error": "HTTPError: HTTP Error 403: "
+  }
+ ],
+ "best_page": "https://www.exploretock.com/dc-urban-oasis/event/619754"
+}

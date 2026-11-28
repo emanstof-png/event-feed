@@ -1,0 +1,58 @@
+{
+ "row": "133",
+ "name": "Columbia Club of Washington DC (Columbia Alumni DC)",
+ "seed_url": "https://dc.alumni.columbia.edu/past_events",
+ "programs": "",
+ "access": "",
+ "found": "2026-11-28 01:24Z",
+ "search_hits": [],
+ "search_error": "html.duckduckgo.com 0 hits (202, 15196b); www.bing.com 0 hits (200, 134939b); lite.duckduckgo.com 0 hits (202, 15177b)",
+ "probes": [
+  {
+   "url": "https://dc.alumni.columbia.edu/wp-json/tribe/events/v1/events?per_page=10",
+   "status": "HTTPError",
+   "events": 0
+  },
+  {
+   "url": "https://dc.alumni.columbia.edu/events/?ical=1",
+   "status": "HTTPError",
+   "events": 0
+  },
+  {
+   "url": "https://dc.alumni.columbia.edu/?ical=1",
+   "status": "HTTPError",
+   "events": 0
+  }
+ ],
+ "pages": [
+  {
+   "url": "https://dc.alumni.columbia.edu/past_events",
+   "status": null,
+   "final_url": "",
+   "title": "",
+   "dates": 0,
+   "jsonld": 0,
+   "jsonld_samples": [],
+   "hints": [],
+   "iframes": [],
+   "event_links": [],
+   "platform": "",
+   "error": "HTTPError: HTTP Error 403: "
+  },
+  {
+   "url": "https://dc.alumni.columbia.edu/",
+   "status": null,
+   "final_url": "",
+   "title": "",
+   "dates": 0,
+   "jsonld": 0,
+   "jsonld_samples": [],
+   "hints": [],
+   "iframes": [],
+   "event_links": [],
+   "platform": "",
+   "error": "HTTPError: HTTP Error 403: "
+  }
+ ],
+ "best_page": "https://dc.alumni.columbia.edu/past_events"
+}

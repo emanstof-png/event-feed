@@ -1,0 +1,405 @@
+{
+ "row": "147",
+ "name": "Stanford Law Washington DC Regional Chapter",
+ "seed_url": "https://law.stanford.edu/washington-dc-alumni-community/",
+ "programs": "",
+ "access": "",
+ "found": "2026-11-28 01:27Z",
+ "search_hits": [],
+ "search_error": "html.duckduckgo.com 0 hits (202, 15130b); www.bing.com 0 hits (200, 127392b); lite.duckduckgo.com 0 hits (202, 15216b)",
+ "probes": [
+  {
+   "url": "https://law.stanford.edu/wp-json/tribe/events/v1/events?per_page=10",
+   "status": 200,
+   "events": 10,
+   "head": "{\"events\":[{\"id\":561240,\"global_id\":\"law.stanford.edu?id=561240\",\"global_id_lineage\":[\"law.stanford.edu?id=561240\"],\"author\":\"14\",\"status\":\"publish\",\"date\":\"2026-03-13 14:38:13\",\"date_utc\":\"2026-03-13 21:38:13\",\"modified\":\"2026-03-13 14:38:13\",\"modified_utc\":\"2026-03-13 21:38:13\",\"url\":\"https:\\/\\/la"
+  },
+  {
+   "url": "https://law.stanford.edu/events/?ical=1",
+   "status": 200,
+   "events": 100,
+   "head": "BEGIN:VCALENDAR\r\nVERSION:2.0\r\nPRODID:-//Stanford Law School - ECPv6.18.4.1//NONSGML v1.0//EN\r\nCALSCALE:GREGORIAN\r\nMETHOD:PUBLISH\r\nX-WR-CALNAME:Stanford Law School\r\nX-ORIGINAL-URL:https://law.stanford.edu\r\nX-WR-CALDESC:Events for Stanford Law School\r\nREFRESH-INTERVAL;VALUE=DURATION:PT1H\r\nX-Robots-Tag"
+  },
+  {
+   "url": "https://law.stanford.edu/?ical=1",
+   "status": 200,
+   "events": 100,
+   "head": "BEGIN:VCALENDAR\r\nVERSION:2.0\r\nPRODID:-//Stanford Law School - ECPv6.18.4.1//NONSGML v1.0//EN\r\nCALSCALE:GREGORIAN\r\nMETHOD:PUBLISH\r\nX-WR-CALNAME:Stanford Law School\r\nX-ORIGINAL-URL:https://law.stanford.edu\r\nX-WR-CALDESC:Events for Stanford Law School\r\nREFRESH-INTERVAL;VALUE=DURATION:PT1H\r\nX-Robots-Tag"
+  }
+ ],
+ "pages": [
+  {
+   "url": "https://law.stanford.edu/washington-dc-alumni-community/",
+   "status": 200,
+   "final_url": "https://law.stanford.edu/washington-dc-alumni-community/",
+   "title": "Washington, DC Alumni Community - Alumni Regional Chapters - Stanford Law School",
+   "dates": 0,
+   "jsonld": 0,
+   "jsonld_samples": [],
+   "hints": [
+    "https://law.stanford.edu/wp-json/oembed/1.0/embed?url=https%3A%2F%2Flaw.stanford.edu%2Fwashington-dc-alumni-community%2F",
+    "https://law.stanford.edu/wp-json/oembed/1.0/embed?url=https%3A%2F%2Flaw.stanford.edu%2Fwashington-dc-alumni-community%2F&format=xml",
+    "https://law.stanford.edu/wp-json/wp/v2/organization/4247",
+    "https://law.stanford.edu/wp-json/tribe/events/v1/",
+    "https://law.stanford.edu/rss-feeds/"
+   ],
+   "iframes": [],
+   "event_links": [
+    {
+     "text": "Events",
+     "url": "https://law.stanford.edu/events"
+    }
+   ],
+   "platform": "wordpress tribe-events",
+   "error": ""
+  },
+  {
+   "url": "https://law.stanford.edu/",
+   "status": 200,
+   "final_url": "https://law.stanford.edu/",
+   "title": "Welcome to SLS - Stanford Law School",
+   "dates": 0,
+   "jsonld": 0,
+   "jsonld_samples": [],
+   "hints": [
+    "https://law.stanford.edu/wp-json/oembed/1.0/embed?url=https%3A%2F%2Flaw.stanford.edu%2F",
+    "https://law.stanford.edu/wp-json/oembed/1.0/embed?url=https%3A%2F%2Flaw.stanford.edu%2F&format=xml",
+    "https://law.stanford.edu/wp-json/wp/v2/pages/4258",
+    "https://law.stanford.edu/wp-json/tribe/events/v1/",
+    "https://law.stanford.edu/rss-feeds/"
+   ],
+   "iframes": [],
+   "event_links": [
+    {
+     "text": "",
+     "url": "https://law.stanford.edu/education/degrees/jd-program/"
+    },
+    {
+     "text": "",
+     "url": "https://law.stanford.edu/education/degrees/advanced-degree-programs/"
+    },
+    {
+     "text": "Learn More\n\t\t\t\t\t\t  : 1L Discussion Seminars",
+     "url": "https://law.stanford.edu/faculty-salon-discussion-groups/"
+    },
+    {
+     "text": "Learn More\n\t\t\t\t\t\t  : W. A. Franke Global Law Program",
+     "url": "https://law.stanford.edu/education/only-at-sls/global-law-program/"
+    },
+    {
+     "text": "Events",
+     "url": "https://law.stanford.edu/events"
+    }
+   ],
+   "platform": "wordpress tribe-events",
+   "error": ""
+  },
+  {
+   "url": "https://law.stanford.edu/events",
+   "status": 200,
+   "final_url": "https://law.stanford.edu/events/",
+   "title": "Events from November 27 \u2013 January 4, 2027 \u2013 Stanford Law School",
+   "dates": 111,
+   "jsonld": 25,
+   "jsonld_samples": [
+    {
+     "name": "Last day to annul Winter Registration",
+     "start": "2027-01-04T00:00:00-08:00",
+     "url": "https://law.stanford.edu/event/last-day-to-annul-winter-registration/"
+    },
+    {
+     "name": "All other students \u2013 Last day to submit written work (unless instructor has set an earlier deadline)",
+     "start": "2027-01-04T00:00:00-08:00",
+     "url": "https://law.stanford.edu/event/all-other-students-last-day-to-submit-written-work-unless-instructor-has-set-an-earlier-deadline/"
+    },
+    {
+     "name": "First Day of Classes",
+     "start": "2027-01-04T00:00:00-08:00",
+     "url": "https://law.stanford.edu/event/first-day-of-classes-3/"
+    },
+    {
+     "name": "Kwanzaa (Pan-African)",
+     "start": "2026-12-26T00:00:00-08:00",
+     "url": "https://law.stanford.edu/event/kwanzaa/"
+    },
+    {
+     "name": "Christmas (Christian)",
+     "start": "2026-12-25T00:00:00-08:00",
+     "url": "https://law.stanford.edu/event/christmas/"
+    }
+   ],
+   "hints": [
+    "https://law.stanford.edu/wp-json/tribe/events/v1/",
+    "https://law.stanford.edu/event/thanksgiving-recess/?ical=1",
+    "https://law.stanford.edu/event/last-day-of-classes-4/?ical=1",
+    "https://law.stanford.edu/event/students-graduating-winter-quarter-last-day-to-submit-written-work-unless-instructor-has-set-an-earlier-deadline/?ical=1",
+    "https://law.stanford.edu/event/reading-period-begins/?ical=1",
+    "https://law.stanford.edu/event/swearing-in-ceremony-2/?ical=1",
+    "https://law.stanford.edu/event/axess-opens-for-winter-quarter-course-enrollment/?ical=1",
+    "https://law.stanford.edu/event/axess-opens-for-winter-quarter-course-enrollment-2/?ical=1",
+    "https://law.stanford.edu/event/donut-stress-snackteus-reus-in-the-library-2/?ical=1",
+    "https://law.stanford.edu/event/reading-period-ends/?ical=1",
+    "https://law.stanford.edu/event/27th-annual-berkeley-stanford-advanced-patent-law-institute/?ical=1",
+    "https://law.stanford.edu/event/a-conversation-with-jake-sullivan/?ical=1",
+    "https://law.stanford.edu/event/an-evening-with-ai-with-stanford-law-school/?ical=1",
+    "https://law.stanford.edu/event/exams-begin/?ical=1",
+    "https://law.stanford.edu/event/hanukkah-chanukah/?ical=1",
+    "https://law.stanford.edu/event/osa-exam-break/?ical=1",
+    "https://law.stanford.edu/event/osa-exam-break-2/?ical=1",
+    "https://law.stanford.edu/event/donut-stress-snackteus-reus-in-the-library-3/?ical=1",
+    "https://law.stanford.edu/event/osa-exam-break-3/?ical=1",
+    "https://law.stanford.edu/event/exams-end/?ical=1",
+    "https://law.stanford.edu/event/los-angeles-alumni-holiday-gathering/?ical=1",
+    "https://law.stanford.edu/event/christmas/?ical=1",
+    "https://law.stanford.edu/event/kwanzaa/?ical=1",
+    "https://law.stanford.edu/event/first-day-of-classes-3/?ical=1",
+    "https://law.stanford.edu/event/all-other-students-last-day-to-submit-written-work-unless-instructor-has-set-an-earlier-deadline/?ical=1"
+   ],
+   "iframes": [],
+   "event_links": [
+    {
+     "text": "Events",
+     "url": "https://law.stanford.edu/events/"
+    },
+    {
+     "text": "List",
+     "url": "https://law.stanford.edu/events/list/"
+    },
+    {
+     "text": "Month",
+     "url": "https://law.stanford.edu/events/month/"
+    },
+    {
+     "text": "Day",
+     "url": "https://law.stanford.edu/events/today/"
+    },
+    {
+     "text": "Week",
+     "url": "https://law.stanford.edu/events/week/"
+    },
+    {
+     "text": "Event Archive.",
+     "url": "https://law.stanford.edu/events-archive"
+    },
+    {
+     "text": "",
+     "url": "https://law.stanford.edu/events/list/?eventDisplay=past"
+    },
+    {
+     "text": "",
+     "url": "https://law.stanford.edu/events/list/page/2/"
+    },
+    {
+     "text": "Thanksgiving Recess : November 23",
+     "url": "https://law.stanford.edu/event/thanksgiving-recess/"
+    },
+    {
+     "text": "+ Google Calendar              : Thanksgiving Recess, Novemb",
+     "url": "https://www.google.com/calendar/event?action=TEMPLATE&dates=20261123T000000/20261127T235959&text=Thanksgiving%20Recess&trp=false&ctz=America/Los_Angeles&sprop=website:https://law.stanford.edu"
+    },
+    {
+     "text": "+ iCal Export              : Thanksgiving Recess, November 2",
+     "url": "https://law.stanford.edu/event/thanksgiving-recess/?ical=1"
+    },
+    {
+     "text": "Last Day of Classes : November 30",
+     "url": "https://law.stanford.edu/event/last-day-of-classes-4/"
+    },
+    {
+     "text": "+ Google Calendar              : Last Day of Classes, Novemb",
+     "url": "https://www.google.com/calendar/event?action=TEMPLATE&dates=20261130T000000/20261130T235959&text=Last%20Day%20of%20Classes&trp=false&ctz=America/Los_Angeles&sprop=website:https://law.stanford.edu"
+    },
+    {
+     "text": "+ iCal Export              : Last Day of Classes, November 3",
+     "url": "https://law.stanford.edu/event/last-day-of-classes-4/?ical=1"
+    },
+    {
+     "text": "Students graduating winter quarter \u2013 Last day to submit writ",
+     "url": "https://law.stanford.edu/event/students-graduating-winter-quarter-last-day-to-submit-written-work-unless-instructor-has-set-an-earlier-deadline/"
+    },
+    {
+     "text": "+ Google Calendar              : Students graduating winter ",
+     "url": "https://www.google.com/calendar/event?action=TEMPLATE&dates=20261130T000000/20261130T235959&text=Students%20graduating%20winter%20quarter%20%E2%80%93%20Last%20day%20to%20submit%20written%20work%20%28unless%20instructor%20has%20set%20an%20earlier%20deadline%29&trp=false&ctz=America/Los_Angeles&sprop=website:https://law.stanford.edu"
+    },
+    {
+     "text": "+ iCal Export              : Students graduating winter quar",
+     "url": "https://law.stanford.edu/event/students-graduating-winter-quarter-last-day-to-submit-written-work-unless-instructor-has-set-an-earlier-deadline/?ical=1"
+    },
+    {
+     "text": "Reading Period Begins : December 1",
+     "url": "https://law.stanford.edu/event/reading-period-begins/"
+    },
+    {
+     "text": "+ Google Calendar              : Reading Period Begins, Dece",
+     "url": "https://www.google.com/calendar/event?action=TEMPLATE&dates=20261201T000000/20261201T235959&text=Reading%20Period%20Begins&trp=false&ctz=America/Los_Angeles&sprop=website:https://law.stanford.edu"
+    },
+    {
+     "text": "+ iCal Export              : Reading Period Begins, December",
+     "url": "https://law.stanford.edu/event/reading-period-begins/?ical=1"
+    },
+    {
+     "text": "Swearing-In Ceremony : December 1",
+     "url": "https://law.stanford.edu/event/swearing-in-ceremony-2/"
+    },
+    {
+     "text": "+ Google Calendar              : Swearing-In Ceremony, Decem",
+     "url": "https://www.google.com/calendar/event?action=TEMPLATE&dates=20261201T180000/20261201T200000&text=Swearing-In%20Ceremony&details=%3Cdiv+class%3D%22carina-rte-left-aligned-block%22%3E%0D%0A%3Cp+class%3D%22public-DraftStyleDefault-block+public-DraftStyleDefault-ltr%22%3E%3Cspan%3EThis+annual+event+celebrates+our+recent+graduates+being+admitted+to+the+California+State+Bar+as+they+take+the+state+oath+and+also+a+ceremonial+federal+oath+for+the+United+States+District+Court+for+the+Northern+District+of+California.+We+are+pleased+to+welcome+The+Honorable+Haywood+S.+Gilliam%2C+Jr.%2C+JD%2C+%2794%2C+United+States+District+Court+for+the+Northern+District+of+California+and+The+Honorable+Vivian+Wang%2C+%E2%80%9905%2C+JD+%E2%80%9910%2C+San+Mateo+County+Superior+Court+for+this+event.%3C%2Fspan%3E%3C%2Fp%3E+%0D%0A%0D%0A%3C%2Fdiv%3E%0D%0A%3Cspan%3EInductees%2C+their+families%2C+and+supporters+are+invited+to+attend+this+special+event.%C2%A0%3C%2Fspan%3E%0D%0A%0D%0A%3Cstrong%3ESchedule+of+Events%3C%2Fstrong%3E%0D%0A%3Cul%3E%0D%0A+%09%3Cli%3E6%3A00+pm+%E2%80%93+Check-in+at+Moot+Court+%2F+Crown+Building%2C+Room+80%3C%2Fli%3E%0D%0A+%09%3Cli%3E6%3A30+pm+%E2%80%93+Ceremony+begins%3C%2Fli%3E%0D%0A+%09%3Cli%3E7%3A15+pm+%E2%80%93+Reception+in+Russo+Commons%3C%2Fli%3E%0D%0A+%09%3Cli%3E8%3A00+pm+%E2%80%93+Event+ends%3C%2Fli%3E%0D%0A%3C%2Ful%3E%0D%0AFor+students%2C+faculty+and+s+%28View+Full+event+Description+Here%3A+https%3A%2F%2Flaw.stanford.edu%2Fevent%2Fswearing-in-ceremony-2%2F%29&location=@ SLS: Room 80 Moot Courtroom, Crown Quadrangle 559 Nathan Abbott Way, Stanford, CA, 94305-8610, United States&trp=false&ctz=America/Los_Angeles&sprop=website:https://law.stanford.edu"
+    },
+    {
+     "text": "+ iCal Export              : Swearing-In Ceremony, December ",
+     "url": "https://law.stanford.edu/event/swearing-in-ceremony-2/?ical=1"
+    },
+    {
+     "text": "Axess opens for winter quarter course enrollment : December ",
+     "url": "https://law.stanford.edu/event/axess-opens-for-winter-quarter-course-enrollment/"
+    },
+    {
+     "text": "+ Google Calendar              : Axess opens for winter quar",
+     "url": "https://www.google.com/calendar/event?action=TEMPLATE&dates=20261202T000000/20261202T235959&text=Axess%20opens%20for%20winter%20quarter%20course%20enrollment&trp=false&ctz=America/Los_Angeles&sprop=website:https://law.stanford.edu"
+    }
+   ],
+   "platform": "wordpress tribe-events cvent",
+   "error": ""
+  },
+  {
+   "url": "https://law.stanford.edu/education/degrees/jd-program/",
+   "status": 200,
+   "final_url": "https://law.stanford.edu/education/degrees/jd-program/",
+   "title": "JD Program - Degrees - Stanford Law School",
+   "dates": 0,
+   "jsonld": 0,
+   "jsonld_samples": [],
+   "hints": [
+    "https://law.stanford.edu/wp-json/oembed/1.0/embed?url=https%3A%2F%2Flaw.stanford.edu%2Feducation%2Fdegrees%2Fjd-program%2F",
+    "https://law.stanford.edu/wp-json/oembed/1.0/embed?url=https%3A%2F%2Flaw.stanford.edu%2Feducation%2Fdegrees%2Fjd-program%2F&format=xml",
+    "https://law.stanford.edu/wp-json/wp/v2/pages/24536",
+    "https://law.stanford.edu/wp-json/tribe/events/v1/",
+    "https://law.stanford.edu/rss-feeds/"
+   ],
+   "iframes": [],
+   "event_links": [
+    {
+     "text": "Joint Degree and Cooperative Programs",
+     "url": "https://law.stanford.edu/education/degrees/joint-degrees-within-stanford-university/"
+    },
+    {
+     "text": "Advanced Degree Programs",
+     "url": "https://law.stanford.edu/education/degrees/advanced-degree-programs/"
+    },
+    {
+     "text": "Visiting Student Application Procedure",
+     "url": "https://law.stanford.edu/apply/how-to-apply/visiting-student-program/"
+    },
+    {
+     "text": "up to three years of funding",
+     "url": "https://knight-hennessy.stanford.edu/program-overview/funding"
+    },
+    {
+     "text": "Events",
+     "url": "https://law.stanford.edu/events"
+    }
+   ],
+   "platform": "wordpress tribe-events",
+   "error": ""
+  },
+  {
+   "url": "https://law.stanford.edu/education/degrees/advanced-degree-programs/",
+   "status": 200,
+   "final_url": "https://law.stanford.edu/education/degrees/advanced-degree-programs/",
+   "title": "Advanced Degree Programs - Degrees - Stanford Law School",
+   "dates": 0,
+   "jsonld": 0,
+   "jsonld_samples": [],
+   "hints": [
+    "https://law.stanford.edu/wp-json/oembed/1.0/embed?url=https%3A%2F%2Flaw.stanford.edu%2Feducation%2Fdegrees%2Fadvanced-degree-programs%2F",
+    "https://law.stanford.edu/wp-json/oembed/1.0/embed?url=https%3A%2F%2Flaw.stanford.edu%2Feducation%2Fdegrees%2Fadvanced-degree-programs%2F&format=xml",
+    "https://law.stanford.edu/wp-json/wp/v2/pages/24544",
+    "https://law.stanford.edu/wp-json/tribe/events/v1/",
+    "https://law.stanford.edu/rss-feeds/"
+   ],
+   "iframes": [],
+   "event_links": [
+    {
+     "text": "Doctor of Science of Law (JSD)",
+     "url": "https://law.stanford.edu/education/degrees/advanced-degree-programs/doctor-of-science-of-law-jsd/"
+    },
+    {
+     "text": "LLM in Corporate Governance & Practice",
+     "url": "https://law.stanford.edu/education/degrees/advanced-degree-programs/llm-in-corporate-governance-practice/"
+    },
+    {
+     "text": "LLM in Environmental Law & Policy",
+     "url": "https://law.stanford.edu/education/degrees/advanced-degree-programs/llm-in-environmental-law-policy/"
+    },
+    {
+     "text": "LLM in International Economic Law, Business & Policy",
+     "url": "https://law.stanford.edu/education/degrees/advanced-degree-programs/llm-in-international-economic-law-business-policy/"
+    },
+    {
+     "text": "LLM in Law, Science & Technology",
+     "url": "https://law.stanford.edu/education/degrees/advanced-degree-programs/llm-in-law-science-technology/"
+    },
+    {
+     "text": "SPILS",
+     "url": "https://law.stanford.edu/education/degrees/advanced-degree-programs/spils/"
+    },
+    {
+     "text": "CORPORATE GOVERNANCE & PRACTICE",
+     "url": "https://law.stanford.edu/education/degrees/advanced-degree-programs/llm-in-corporate-governance-practice/?utm_source=llm&utm_medium=overview&utm_content=button-corporate-governance-and-practice&utm_campaign=advdegreeprogram"
+    },
+    {
+     "text": "SPILS PROGRAM",
+     "url": "https://law.stanford.edu/education/degrees/advanced-degree-programs/spils/?utm_source=spils&utm_medium=overview&utm_content=button-spils-program&utm_campaign=advdegreeprogram"
+    },
+    {
+     "text": "KHS funding page",
+     "url": "https://knight-hennessy.stanford.edu/program-overview/funding"
+    },
+    {
+     "text": "Knight Hennessy Program",
+     "url": "https://knight-hennessy.stanford.edu/"
+    },
+    {
+     "text": "Events",
+     "url": "https://law.stanford.edu/events"
+    }
+   ],
+   "platform": "wordpress tribe-events",
+   "error": ""
+  },
+  {
+   "url": "https://law.stanford.edu/faculty-salon-discussion-groups/",
+   "status": 200,
+   "final_url": "https://law.stanford.edu/discussion-seminars/",
+   "title": "Discussion Seminars - Stanford Law School",
+   "dates": 0,
+   "jsonld": 0,
+   "jsonld_samples": [],
+   "hints": [
+    "https://law.stanford.edu/wp-json/oembed/1.0/embed?url=https%3A%2F%2Flaw.stanford.edu%2Fdiscussion-seminars%2F",
+    "https://law.stanford.edu/wp-json/oembed/1.0/embed?url=https%3A%2F%2Flaw.stanford.edu%2Fdiscussion-seminars%2F&format=xml",
+    "https://law.stanford.edu/wp-json/wp/v2/pages/1375",
+    "https://law.stanford.edu/wp-json/tribe/events/v1/",
+    "https://law.stanford.edu/rss-feeds/"
+   ],
+   "iframes": [],
+   "event_links": [
+    {
+     "text": "Legal Research and Writing Program",
+     "url": "https://law.stanford.edu/education/legal-research-and-writing-program/"
+    },
+    {
+     "text": "Special Programs",
+     "url": "https://law.stanford.edu/education/special-programs/"
+    },
+    {
+     "text": "Events",
+     "url": "https://law.stanford.edu/events"
+    }
+   ],
+   "platform": "wordpress tribe-events",
+   "error": ""
+  }
+ ],
+ "best_page": "https://law.stanford.edu/events"
+}

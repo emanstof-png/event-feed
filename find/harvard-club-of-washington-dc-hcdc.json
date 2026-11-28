@@ -1,0 +1,111 @@
+{
+ "row": "138",
+ "name": "Harvard Club of Washington DC (hcdc)",
+ "seed_url": "https://hcdc.clubs.harvard.edu/article.html?aid=1787",
+ "programs": "",
+ "access": "",
+ "found": "2026-11-28 01:25Z",
+ "search_hits": [],
+ "search_error": "html.duckduckgo.com 0 hits (202, 15188b); www.bing.com 0 hits (200, 113411b); lite.duckduckgo.com 0 hits (202, 15175b)",
+ "probes": [
+  {
+   "url": "https://hcdc.clubs.harvard.edu/wp-json/tribe/events/v1/events?per_page=10",
+   "status": "HTTPError",
+   "events": 0
+  },
+  {
+   "url": "https://hcdc.clubs.harvard.edu/events/?ical=1",
+   "status": "HTTPError",
+   "events": 0
+  },
+  {
+   "url": "https://hcdc.clubs.harvard.edu/?ical=1",
+   "status": 200,
+   "events": 0,
+   "head": "\t\t<!doctype html>\n<html lang=\"en\">\n<head>\n    <meta charset=\"utf-8\">\n    <title>Harvard Club of Washington, DC</title>\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n    <!-- Bootstrap -->\n    <link href=\"js/_responsive_bts/css/bootstrap.min.css\" rel=\"stylesheet\">\n    <li"
+  }
+ ],
+ "pages": [
+  {
+   "url": "https://hcdc.clubs.harvard.edu/article.html?aid=1787",
+   "status": 200,
+   "final_url": "https://hcdc.clubs.harvard.edu/article.html?aid=1787",
+   "title": "Harvard Club of Washington, DC",
+   "dates": 1,
+   "jsonld": 0,
+   "jsonld_samples": [],
+   "hints": [
+    "https://www.eventbrite.com/e/international-networking-soiree-with-champagne-art-and-live-jazz-at-the-luxurious-embassy-row-hotel-tickets-60616797473"
+   ],
+   "iframes": [],
+   "event_links": [
+    {
+     "text": "https://www.eventbrite.com/e/international-networking-soiree",
+     "url": "https://www.eventbrite.com/e/international-networking-soiree-with-champagne-art-and-live-jazz-at-the-luxurious-embassy-row-hotel-tickets-60616797473"
+    },
+    {
+     "text": "Apple",
+     "url": "https://hcdc.clubs.harvard.edu//events.html?vcal=1787"
+    },
+    {
+     "text": "Google",
+     "url": "https://calendar.google.com/calendar/r/eventedit?text=International+Networking+Soiree+with+Champagne%2C+Art%2C+and+Live+Jazz&dates=20190516T190000/20190516T210000&ctz=America/New_York&details=International+Networking+Soiree+with+Champagne%2C+Art%2C+and+Live+Jazz&location=Embassy+Row+Hotel%2C+2015+Massachusetts+Avenue+NW%2C+Washington%2C+DC%2C+20036%2C&pli=1&uid=https%3A%2F%2Fhcdc.clubs.harvard.edu%2F%2Farticle.html%3Faid%3D1787&sf=true&output=xml"
+    },
+    {
+     "text": "Harvard Program and Events",
+     "url": "http://alumni.harvard.edu/programs-events"
+    }
+   ],
+   "platform": "eventbrite",
+   "error": ""
+  },
+  {
+   "url": "https://hcdc.clubs.harvard.edu/",
+   "status": 200,
+   "final_url": "https://hcdc.clubs.harvard.edu/",
+   "title": "Harvard Club of Washington, DC",
+   "dates": 0,
+   "jsonld": 0,
+   "jsonld_samples": [],
+   "hints": [],
+   "iframes": [],
+   "event_links": [
+    {
+     "text": "Harvard Program and Events",
+     "url": "http://alumni.harvard.edu/programs-events"
+    }
+   ],
+   "platform": "",
+   "error": ""
+  },
+  {
+   "url": "https://hcdc.clubs.harvard.edu//events.html?vcal=1787",
+   "status": 200,
+   "final_url": "https://hcdc.clubs.harvard.edu//events.html?vcal=1787",
+   "title": "",
+   "dates": 0,
+   "jsonld": 0,
+   "jsonld_samples": [],
+   "hints": [],
+   "iframes": [],
+   "event_links": [],
+   "platform": "",
+   "error": ""
+  },
+  {
+   "url": "http://alumni.harvard.edu/programs-events",
+   "status": null,
+   "final_url": "",
+   "title": "",
+   "dates": 0,
+   "jsonld": 0,
+   "jsonld_samples": [],
+   "hints": [],
+   "iframes": [],
+   "event_links": [],
+   "platform": "",
+   "error": "HTTPError: HTTP Error 403: "
+  }
+ ],
+ "best_page": "https://hcdc.clubs.harvard.edu/article.html?aid=1787"
+}

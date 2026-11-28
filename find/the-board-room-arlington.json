@@ -1,0 +1,58 @@
+{
+ "row": "111",
+ "name": "The Board Room (Arlington)",
+ "seed_url": "https://www.theboardroomva.com/br-happenings",
+ "programs": "",
+ "access": "",
+ "found": "2026-11-28 01:23Z",
+ "search_hits": [],
+ "search_error": "html.duckduckgo.com 0 hits (202, 15146b); www.bing.com 0 hits (200, 125978b); lite.duckduckgo.com 0 hits (202, 15140b)",
+ "probes": [
+  {
+   "url": "https://www.theboardroomva.com/wp-json/tribe/events/v1/events?per_page=10",
+   "status": "HTTPError",
+   "events": 0
+  },
+  {
+   "url": "https://www.theboardroomva.com/events/?ical=1",
+   "status": "HTTPError",
+   "events": 0
+  },
+  {
+   "url": "https://www.theboardroomva.com/?ical=1",
+   "status": "HTTPError",
+   "events": 0
+  }
+ ],
+ "pages": [
+  {
+   "url": "https://www.theboardroomva.com/br-happenings",
+   "status": null,
+   "final_url": "",
+   "title": "",
+   "dates": 0,
+   "jsonld": 0,
+   "jsonld_samples": [],
+   "hints": [],
+   "iframes": [],
+   "event_links": [],
+   "platform": "",
+   "error": "HTTPError: HTTP Error 403: "
+  },
+  {
+   "url": "https://www.theboardroomva.com/",
+   "status": null,
+   "final_url": "",
+   "title": "",
+   "dates": 0,
+   "jsonld": 0,
+   "jsonld_samples": [],
+   "hints": [],
+   "iframes": [],
+   "event_links": [],
+   "platform": "",
+   "error": "HTTPError: HTTP Error 403: "
+  }
+ ],
+ "best_page": "https://www.theboardroomva.com/br-happenings"
+}

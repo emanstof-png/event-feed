@@ -1,0 +1,232 @@
+Stanford Law Washington DC Regional Chapter
+best page: https://law.stanford.edu/events (status 200, 111 date strings, 25 JSON-LD events)
+fetched 2026-11-28 01:27Z
+
+
+Events from November 27 – January 4, 2027 – Stanford Law School
+logo-footer
+logo-full
+logo-stanford-university
+logo
+menu-close
+menu
+Close Icon
+Icon with an X to denote closing.
+Play Icon
+Play icon in a circular border.
+		Skip to main content	
+Menu
+								SLS							
+|
+Events
+Events
+Search
+Events
+		25 events found.	
+		Events Search and Views Navigation	
+		Search	
+		Enter Keyword. Search for Events by Keyword.	
+	Find Events
+			Hide filters		
+		Event Views Navigation	
+				List			
+			List		
+			Month		
+			Day		
+			Week		
+			Filters		
+			Changing any of the form inputs will cause the list of events to refresh with the filtered results.		
+		Done	
+		Clear	
+Organization
+:
+					Open filter				
+					Close filter				
+					Remove filters				
+				Organization			
+						Close filter					
+Event Category
+:
+					Open filter				
+					Close filter				
+					Remove filters				
+				Event Category			
+						Close filter					
+Venues
+:
+					Open filter				
+					Close filter				
+					Remove filters				
+				Venues			
+						Close filter					
+Organization
+:
+			Remove filters		
+Event Category
+:
+			Remove filters		
+Venues
+:
+			Remove filters		
+The SLS Events Calendar displays this year's events. Events from previous academic years can be found in the 
+Event Archive.
+	Today
+					Now				
+					Now				
+ - 
+					1/4/2027				
+					January 4, 2027				
+		Select date.	
+			November 2026		
+			Fri		
+			27		
+November 23
+ - 
+November 27
+		Thanksgiving Recess
+: November 23
+			+ Google Calendar            
+ : Thanksgiving Recess, November 23
+         | 
+			+ iCal Export            
+ : Thanksgiving Recess, November 23
+			Mon		
+			30		
+November 30
+		Last Day of Classes
+: November 30
+			+ Google Calendar            
+ : Last Day of Classes, November 30
+         | 
+			+ iCal Export            
+ : Last Day of Classes, November 30
+			Mon		
+			30		
+November 30
+		Students graduating winter quarter – Last day to submit written work (unless instructor has set an earlier deadline)
+: November 30
+			+ Google Calendar            
+ : Students graduating winter quarter – Last day to submit written work (unless instructor has set an earlier deadline), November 30
+         | 
+			+ iCal Export            
+ : Students graduating winter quarter – Last day to submit written work (unless instructor has set an earlier deadline), November 30
+			December 2026		
+			Tue		
+			1		
+December 1
+		Reading Period Begins
+: December 1
+			+ Google Calendar            
+ : Reading Period Begins, December 1
+         | 
+			+ iCal Export            
+ : Reading Period Begins, December 1
+			Tue		
+			1		
+December 1 @ 6:00 pm
+ - 
+8:00 pm
+ PST 
+		Swearing-In Ceremony
+: December 1
+		@ SLS: Room 80 Moot Courtroom	
+		Crown Quadrangle 559 Nathan Abbott Way, Stanford, CA, United States	
+This annual event celebrates our recent graduates being admitted to the California State Bar as they take the state oath and also a ceremonial federal oath for the United States […]
+			+ Google Calendar            
+ : Swearing-In Ceremony, December 1
+         | 
+			+ iCal Export            
+ : Swearing-In Ceremony, December 1
+			Wed		
+			2		
+December 2
+		Axess opens for winter quarter course enrollment
+: December 2
+			+ Google Calendar            
+ : Axess opens for winter quarter course enrollment, December 2
+         | 
+			+ iCal Export            
+ : Axess opens for winter quarter course enrollment, December 2
+			Wed		
+			2		
+December 2
+		Axess opens for winter quarter course enrollment
+: December 2
+			+ Google Calendar            
+ : Axess opens for winter quarter course enrollment, December 2
+         | 
+			+ iCal Export            
+ : Axess opens for winter quarter course enrollment, December 2
+			Wed		
+			2		
+December 2 @ 9:00 am
+ - 
+12:00 pm
+ PST 
+		DoNut Stress/Snackteus Reus in the Library
+: December 2
+		@ Stanford Law School	
+		559 Nathan Abbott Way, Stanford, CA, United States	
+Take a study break and stop by the library for donuts! The library will be serving donuts on the first and second floors from 9am-12pm, or until supplies last.
+			+ Google Calendar            
+ : DoNut Stress/Snackteus Reus in the Library, December 2
+         | 
+			+ iCal Export            
+ : DoNut Stress/Snackteus Reus in the Library, December 2
+			Thu		
+			3		
+December 3
+		Reading Period Ends
+: December 3
+			+ Google Calendar            
+ : Reading Period Ends, December 3
+         | 
+			+ iCal Export            
+ : Reading Period Ends, December 3
+			Thu		
+			3		
+December 3
+ - 
+December 4
+		27th Annual Berkeley-Stanford Advanced Patent Law Institute
+: December 3
+		@ Stanford: Paul Brest Hall	
+		555 Salvatierra Walk, Stanford, CA, United States	
+The Berkeley-Stanford APLI is the premier patent law event in the US. APLI convenes an unparalleled roster of the leading academics, litigators, patent prosecutors, senior IP counsel from major corporations, […]
+			+ Google Calendar            
+ : 27th Annual Berkeley-Stanford Advanced Patent Law Institute, December 3
+         | 
+			+ iCal Export            
+ : 27th Annual Berkeley-Stanford Advanced Patent Law Institute, December 3
+         | 
+Register
+: 27th Annual Berkeley-Stanford Advanced Patent Law Institute, December 3
+			Thu		
+			3		
+December 3 @ 10:30 am
+ - 
+11:30 am
+ PST 
+		A Conversation with Jake Sullivan
+: December 3
+		@ SLS: Room 270	
+		Crown Quadrangle, 559 Nathan Abbott Way, Stanford, CA, United States	
+The AI Governance Lab is hosting former National Security Advisor Jake Sullivan for a wide-ranging conversation on AI, national security, and public policy with Professor Rob Reich.
+			+ Google Calendar            
+ : A Conversation with Jake Sullivan, December 3
+         | 
+			+ iCal Export            
+ : A Conversation with Jake Sullivan, December 3
+         | 
+Register Here!
+: A Conversation with Jake Sullivan, December 3
+			Thu		
+			3		
+December 3 @ 5:30 pm
+ - 
+8:15 pm
+ PST 
+		An Evening with AI with Stanford Law School
+: December 3
+		Offsite/Private Location	
+This event is open to all Stanford Law School alumni, including guests. Join fellow alumni for an enga

@@ -1,0 +1,578 @@
+{
+ "row": "134",
+ "name": "Cornell Club of Washington DC",
+ "seed_url": "https://www.cornellclubdc.org/page-1415767",
+ "programs": "",
+ "access": "",
+ "found": "2026-11-28 01:24Z",
+ "search_hits": [],
+ "search_error": "html.duckduckgo.com 0 hits (202, 15182b); www.bing.com 0 hits (200, 143410b); lite.duckduckgo.com 0 hits (202, 15176b)",
+ "probes": [
+  {
+   "url": "https://www.cornellclubdc.org/wp-json/tribe/events/v1/events?per_page=10",
+   "status": "HTTPError",
+   "events": 0
+  },
+  {
+   "url": "https://www.cornellclubdc.org/events/?ical=1",
+   "status": 200,
+   "events": 0,
+   "head": "<!DOCTYPE html>\n<!--[if lt IE 7 ]><html lang=\"en\" class=\"no-js ie6 \"><![endif]-->\n<!--[if IE 7 ]><html lang=\"en\" class=\"no-js ie7 \"> <![endif]-->\n<!--[if IE 8 ]><html lang=\"en\" class=\"no-js ie8 \"> <![endif]-->\n<!--[if IE 9 ]><html lang=\"en\" class=\"no-js ie9 \"><![endif]-->\n<!--[if (gt IE 9)|!(IE)]><!"
+  },
+  {
+   "url": "https://www.cornellclubdc.org/?ical=1",
+   "status": 200,
+   "events": 0,
+   "head": "<!DOCTYPE html>\n<!--[if lt IE 7 ]><html lang=\"en\" class=\"no-js ie6 \"><![endif]-->\n<!--[if IE 7 ]><html lang=\"en\" class=\"no-js ie7 \"> <![endif]-->\n<!--[if IE 8 ]><html lang=\"en\" class=\"no-js ie8 \"> <![endif]-->\n<!--[if IE 9 ]><html lang=\"en\" class=\"no-js ie9 \"><![endif]-->\n<!--[if (gt IE 9)|!(IE)]><!"
+  }
+ ],
+ "pages": [
+  {
+   "url": "https://www.cornellclubdc.org/page-1415767",
+   "status": 200,
+   "final_url": "https://www.cornellclubdc.org/events/",
+   "title": "Cornell Club of Washington DC - EVENTS",
+   "dates": 114,
+   "jsonld": 0,
+   "jsonld_samples": [],
+   "hints": [
+    "https://www.cornellclubdc.org/events/RSS"
+   ],
+   "iframes": [],
+   "event_links": [
+    {
+     "text": "EVENTS",
+     "url": "https://www.cornellclubdc.org/events"
+    },
+    {
+     "text": "CALENDAR",
+     "url": "https://www.cornellclubdc.org/calendar"
+    },
+    {
+     "text": "Switch to Calendar View",
+     "url": "https://www.cornellclubdc.org/events?EventViewMode=1&EventListViewMode=2"
+    },
+    {
+     "text": "Blacksmithing Workshop Thanksgiving Weekend",
+     "url": "https://www.cornellclubdc.org/event-6907734"
+    },
+    {
+     "text": "https://sites.google.com/view/ccw-event-details/logistics",
+     "url": "https://sites.google.com/view/ccw-event-details/logistics"
+    },
+    {
+     "text": "Big Red Athletics Pre-Game at Frozen Apple",
+     "url": "https://www.cornellclubdc.org/event-6891666"
+    },
+    {
+     "text": "Get your tickets today!",
+     "url": "https://click.m.cornell.edu/?qs=ABp7ImQiOjUwMzgsInQiOjE1NDksInMiOjEyfQAMAAAAAAOzjeU_Oh5U9aME6NGiYL6o8kGP6PeDDx4VO12QkR0ek_q9ucumwa6KeMfI2l39A4YZay_1BYrDvkZUH0JRJq29lo_5Oyz0uu1ZOsAwgg"
+    },
+    {
+     "text": "2026 Frozen Apple Cornell Big Red vs. Maine Black Bears",
+     "url": "https://www.cornellclubdc.org/event-6839382"
+    },
+    {
+     "text": "Purchase Frozen Apple Tickets",
+     "url": "https://us.list-manage.com/aqfIlQpcEzI?e=2d63253c08&c2id=05b39b4f00996f8fe5215c993272467b"
+    },
+    {
+     "text": "Community Service Committee Monthly Meeting",
+     "url": "https://www.cornellclubdc.org/event-6907717"
+    },
+    {
+     "text": "Register",
+     "url": "https://www.cornellclubdc.org/event-6907717/Registration"
+    },
+    {
+     "text": "https://sites.google.com/view/ccw-event-details/zoom-links",
+     "url": "https://sites.google.com/view/ccw-event-details/zoom-links"
+    },
+    {
+     "text": "Airmarking: Show Me the Way to Go Home",
+     "url": "https://www.cornellclubdc.org/event-6906254"
+    },
+    {
+     "text": "Register",
+     "url": "https://www.cornellclubdc.org/event-6906254/Registration"
+    },
+    {
+     "text": "U.S. Army Band \u2013 American Holiday Festival - Friday evening",
+     "url": "https://www.cornellclubdc.org/event-6905430"
+    },
+    {
+     "text": "Join waitlist",
+     "url": "https://www.cornellclubdc.org/event-6905430/JoinWaitlist"
+    },
+    {
+     "text": "REGISTER for Dec 5 3PM",
+     "url": "https://www.cornellclubdc.org/event-6905427"
+    },
+    {
+     "text": "REGISTER for Dec 5 8PM",
+     "url": "https://www.cornellclubdc.org/event-6905423"
+    },
+    {
+     "text": "REGISTER for Dec 6 3PM",
+     "url": "https://www.cornellclubdc.org/event-6905428"
+    },
+    {
+     "text": "Register",
+     "url": "https://www.cornellclubdc.org/event-6905427/Registration"
+    },
+    {
+     "text": "Register",
+     "url": "https://www.cornellclubdc.org/event-6905423/Registration"
+    },
+    {
+     "text": "Virtual Event: Cornell Club Mixer - Make friends with Cornel",
+     "url": "https://www.cornellclubdc.org/event-6891663"
+    },
+    {
+     "text": "Register",
+     "url": "https://www.cornellclubdc.org/event-6891663/Registration"
+    },
+    {
+     "text": "Small Potluck Dinner - Vienna",
+     "url": "https://www.cornellclubdc.org/event-6882451"
+    },
+    {
+     "text": "Join waitlist",
+     "url": "https://www.cornellclubdc.org/event-6882451/JoinWaitlist"
+    }
+   ],
+   "platform": "wild apricot",
+   "error": ""
+  },
+  {
+   "url": "https://www.cornellclubdc.org/",
+   "status": 200,
+   "final_url": "https://www.cornellclubdc.org/",
+   "title": "Cornell Club of Washington DC - HOME",
+   "dates": 11,
+   "jsonld": 0,
+   "jsonld_samples": [],
+   "hints": [],
+   "iframes": [],
+   "event_links": [
+    {
+     "text": "EVENTS",
+     "url": "https://www.cornellclubdc.org/events"
+    },
+    {
+     "text": "CALENDAR",
+     "url": "https://www.cornellclubdc.org/calendar"
+    },
+    {
+     "text": "Carolina Hurricanes (Stanley Cup Champs) vs. Capitals",
+     "url": "https://www.cornellclubdc.org/event-6894614"
+    },
+    {
+     "text": "Cornell Reunion 2027",
+     "url": "https://www.cornellclubdc.org/event-5175628"
+    },
+    {
+     "text": "Blacksmithing Workshop Thanksgiving Weekend",
+     "url": "https://www.cornellclubdc.org/event-6907734"
+    },
+    {
+     "text": "Big Red Athletics Pre-Game at Frozen Apple",
+     "url": "https://www.cornellclubdc.org/event-6891666"
+    },
+    {
+     "text": "2026 Frozen Apple Cornell Big Red vs. Maine Black Bears",
+     "url": "https://www.cornellclubdc.org/event-6839382"
+    },
+    {
+     "text": "Community Service Committee Monthly Meeting",
+     "url": "https://www.cornellclubdc.org/event-6907717"
+    },
+    {
+     "text": "Airmarking: Show Me the Way to Go Home",
+     "url": "https://www.cornellclubdc.org/event-6906254"
+    },
+    {
+     "text": "U.S. Army Band \u2013 American Holiday Festival - Friday evening",
+     "url": "https://www.cornellclubdc.org/event-6905430"
+    },
+    {
+     "text": "U.S. Army Band \u2013 American Holiday Festival - Saturday aftern",
+     "url": "https://www.cornellclubdc.org/event-6905427"
+    },
+    {
+     "text": "Help organize the next stop with this support",
+     "url": "https://sites.google.com/view/ccw-event-details/big-red-food-tour"
+    }
+   ],
+   "platform": "wild apricot",
+   "error": ""
+  },
+  {
+   "url": "https://www.cornellclubdc.org/events",
+   "status": 200,
+   "final_url": "https://www.cornellclubdc.org/events",
+   "title": "Cornell Club of Washington DC - EVENTS",
+   "dates": 114,
+   "jsonld": 0,
+   "jsonld_samples": [],
+   "hints": [
+    "https://www.cornellclubdc.org/events/RSS"
+   ],
+   "iframes": [],
+   "event_links": [
+    {
+     "text": "EVENTS",
+     "url": "https://www.cornellclubdc.org/events"
+    },
+    {
+     "text": "CALENDAR",
+     "url": "https://www.cornellclubdc.org/calendar"
+    },
+    {
+     "text": "Switch to Calendar View",
+     "url": "https://www.cornellclubdc.org/events?EventViewMode=1&EventListViewMode=2"
+    },
+    {
+     "text": "Blacksmithing Workshop Thanksgiving Weekend",
+     "url": "https://www.cornellclubdc.org/event-6907734"
+    },
+    {
+     "text": "https://sites.google.com/view/ccw-event-details/logistics",
+     "url": "https://sites.google.com/view/ccw-event-details/logistics"
+    },
+    {
+     "text": "Big Red Athletics Pre-Game at Frozen Apple",
+     "url": "https://www.cornellclubdc.org/event-6891666"
+    },
+    {
+     "text": "Get your tickets today!",
+     "url": "https://click.m.cornell.edu/?qs=ABp7ImQiOjUwMzgsInQiOjE1NDksInMiOjEyfQAMAAAAAAOzjeU_Oh5U9aME6NGiYL6o8kGP6PeDDx4VO12QkR0ek_q9ucumwa6KeMfI2l39A4YZay_1BYrDvkZUH0JRJq29lo_5Oyz0uu1ZOsAwgg"
+    },
+    {
+     "text": "2026 Frozen Apple Cornell Big Red vs. Maine Black Bears",
+     "url": "https://www.cornellclubdc.org/event-6839382"
+    },
+    {
+     "text": "Purchase Frozen Apple Tickets",
+     "url": "https://us.list-manage.com/aqfIlQpcEzI?e=2d63253c08&c2id=05b39b4f00996f8fe5215c993272467b"
+    },
+    {
+     "text": "Community Service Committee Monthly Meeting",
+     "url": "https://www.cornellclubdc.org/event-6907717"
+    },
+    {
+     "text": "Register",
+     "url": "https://www.cornellclubdc.org/event-6907717/Registration"
+    },
+    {
+     "text": "https://sites.google.com/view/ccw-event-details/zoom-links",
+     "url": "https://sites.google.com/view/ccw-event-details/zoom-links"
+    },
+    {
+     "text": "Airmarking: Show Me the Way to Go Home",
+     "url": "https://www.cornellclubdc.org/event-6906254"
+    },
+    {
+     "text": "Register",
+     "url": "https://www.cornellclubdc.org/event-6906254/Registration"
+    },
+    {
+     "text": "U.S. Army Band \u2013 American Holiday Festival - Friday evening",
+     "url": "https://www.cornellclubdc.org/event-6905430"
+    },
+    {
+     "text": "Join waitlist",
+     "url": "https://www.cornellclubdc.org/event-6905430/JoinWaitlist"
+    },
+    {
+     "text": "REGISTER for Dec 5 3PM",
+     "url": "https://www.cornellclubdc.org/event-6905427"
+    },
+    {
+     "text": "REGISTER for Dec 5 8PM",
+     "url": "https://www.cornellclubdc.org/event-6905423"
+    },
+    {
+     "text": "REGISTER for Dec 6 3PM",
+     "url": "https://www.cornellclubdc.org/event-6905428"
+    },
+    {
+     "text": "Register",
+     "url": "https://www.cornellclubdc.org/event-6905427/Registration"
+    },
+    {
+     "text": "Register",
+     "url": "https://www.cornellclubdc.org/event-6905423/Registration"
+    },
+    {
+     "text": "Virtual Event: Cornell Club Mixer - Make friends with Cornel",
+     "url": "https://www.cornellclubdc.org/event-6891663"
+    },
+    {
+     "text": "Register",
+     "url": "https://www.cornellclubdc.org/event-6891663/Registration"
+    },
+    {
+     "text": "Small Potluck Dinner - Vienna",
+     "url": "https://www.cornellclubdc.org/event-6882451"
+    },
+    {
+     "text": "Join waitlist",
+     "url": "https://www.cornellclubdc.org/event-6882451/JoinWaitlist"
+    }
+   ],
+   "platform": "wild apricot",
+   "error": ""
+  },
+  {
+   "url": "https://www.cornellclubdc.org/calendar",
+   "status": 200,
+   "final_url": "https://www.cornellclubdc.org/calendar",
+   "title": "Cornell Club of Washington DC - CALENDAR",
+   "dates": 2,
+   "jsonld": 0,
+   "jsonld_samples": [],
+   "hints": [
+    "https://www.cornellclubdc.org/calendar/RSS"
+   ],
+   "iframes": [],
+   "event_links": [
+    {
+     "text": "EVENTS",
+     "url": "https://www.cornellclubdc.org/events"
+    },
+    {
+     "text": "CALENDAR",
+     "url": "https://www.cornellclubdc.org/calendar"
+    },
+    {
+     "text": "Switch to List View",
+     "url": "https://www.cornellclubdc.org/calendar?EventViewMode=1&EventListViewMode=1"
+    },
+    {
+     "text": "Week",
+     "url": "https://www.cornellclubdc.org/calendar?EventViewMode=1&EventListViewMode=2&SelectedDate=11/27/2026&CalendarViewType=4"
+    },
+    {
+     "text": "Year",
+     "url": "https://www.cornellclubdc.org/calendar?EventViewMode=1&EventListViewMode=2&SelectedDate=11/27/2026&CalendarViewType=0"
+    },
+    {
+     "text": "< Previous Month",
+     "url": "https://www.cornellclubdc.org/calendar?EventViewMode=1&EventListViewMode=2&SelectedDate=10/27/2026&CalendarViewType=1"
+    },
+    {
+     "text": "Today",
+     "url": "https://www.cornellclubdc.org/calendar?EventViewMode=1&EventListViewMode=2&SelectedDate=11/27/2026&CalendarViewType=1"
+    },
+    {
+     "text": "Next Month >",
+     "url": "https://www.cornellclubdc.org/calendar?EventViewMode=1&EventListViewMode=2&SelectedDate=12/27/2026&CalendarViewType=1"
+    },
+    {
+     "text": "The Drone Revolution? How Robotics and AI are Shifting the G",
+     "url": "https://www.cornellclubdc.org/event-6855954?CalendarViewType=1&SelectedDate=11/27/2026"
+    },
+    {
+     "text": "Small Potluck Dinner - West Alexandria",
+     "url": "https://www.cornellclubdc.org/event-6811703?CalendarViewType=1&SelectedDate=11/27/2026"
+    },
+    {
+     "text": "Virtual Event: Cornell Club Mixer - Make friends with Cornel",
+     "url": "https://www.cornellclubdc.org/event-6891653?CalendarViewType=1&SelectedDate=11/27/2026"
+    },
+    {
+     "text": "Next Practical Career Conversation Series - Part 1 of 2",
+     "url": "https://www.cornellclubdc.org/event-6893156?CalendarViewType=1&SelectedDate=11/27/2026"
+    },
+    {
+     "text": "D.C. Area Veterans Social - Cornell Military Network in DC -",
+     "url": "https://www.cornellclubdc.org/event-6909047?CalendarViewType=1&SelectedDate=11/27/2026"
+    },
+    {
+     "text": "Warm Cider and De-vining at Glen Echo Park.",
+     "url": "https://www.cornellclubdc.org/event-6894302?CalendarViewType=1&SelectedDate=11/27/2026"
+    },
+    {
+     "text": "CCW Monthly Board Meeting",
+     "url": "https://www.cornellclubdc.org/event-6822336?CalendarViewType=1&SelectedDate=11/27/2026"
+    },
+    {
+     "text": "Scholarship Gala From the Capital to the Hill: Paving the Pa",
+     "url": "https://www.cornellclubdc.org/event-6636692?CalendarViewType=1&SelectedDate=11/27/2026"
+    },
+    {
+     "text": "Online Meeting: Tech Advisory Committee",
+     "url": "https://www.cornellclubdc.org/event-6917169?CalendarViewType=1&SelectedDate=11/27/2026"
+    },
+    {
+     "text": "Tony Chen hosts 4 small gatherings of Cornellians in DC/Balt",
+     "url": "https://www.cornellclubdc.org/event-6898969?CalendarViewType=1&SelectedDate=11/27/2026"
+    },
+    {
+     "text": "Virtual Event: Cornell Club Mixer - Make friends with Cornel",
+     "url": "https://www.cornellclubdc.org/event-6891662?CalendarViewType=1&SelectedDate=11/27/2026"
+    },
+    {
+     "text": "Turkey Trot to support SOME on THANKSGIVING MORNING",
+     "url": "https://www.cornellclubdc.org/event-6927826?CalendarViewType=1&SelectedDate=11/27/2026"
+    },
+    {
+     "text": "Blacksmithing Workshop Thanksgiving Weekend",
+     "url": "https://www.cornellclubdc.org/event-6907734?CalendarViewType=1&SelectedDate=11/27/2026"
+    },
+    {
+     "text": "Big Red Athletics Pre-Game at Frozen Apple",
+     "url": "https://www.cornellclubdc.org/event-6891666?CalendarViewType=1&SelectedDate=11/27/2026"
+    },
+    {
+     "text": "2026 Frozen Apple Cornell Big Red vs. Maine Black Bears",
+     "url": "https://www.cornellclubdc.org/event-6839382?CalendarViewType=1&SelectedDate=11/27/2026"
+    },
+    {
+     "text": "Community Service Committee Monthly Meeting",
+     "url": "https://www.cornellclubdc.org/event-6907717?CalendarViewType=1&SelectedDate=11/27/2026"
+    },
+    {
+     "text": "Airmarking: Show Me the Way to Go Home",
+     "url": "https://www.cornellclubdc.org/event-6906254?CalendarViewType=1&SelectedDate=11/27/2026"
+    }
+   ],
+   "platform": "wild apricot",
+   "error": ""
+  },
+  {
+   "url": "https://www.cornellclubdc.org/events?EventViewMode=1&EventListViewMode=2",
+   "status": 200,
+   "final_url": "https://www.cornellclubdc.org/events?EventViewMode=1&EventListViewMode=2",
+   "title": "Cornell Club of Washington DC - EVENTS",
+   "dates": 2,
+   "jsonld": 0,
+   "jsonld_samples": [],
+   "hints": [
+    "https://www.cornellclubdc.org/events/RSS"
+   ],
+   "iframes": [],
+   "event_links": [
+    {
+     "text": "EVENTS",
+     "url": "https://www.cornellclubdc.org/events"
+    },
+    {
+     "text": "CALENDAR",
+     "url": "https://www.cornellclubdc.org/calendar"
+    },
+    {
+     "text": "Switch to List View",
+     "url": "https://www.cornellclubdc.org/events?EventViewMode=1&EventListViewMode=1"
+    },
+    {
+     "text": "Week",
+     "url": "https://www.cornellclubdc.org/events?EventViewMode=1&EventListViewMode=2&SelectedDate=11/27/2026&CalendarViewType=4"
+    },
+    {
+     "text": "Year",
+     "url": "https://www.cornellclubdc.org/events?EventViewMode=1&EventListViewMode=2&SelectedDate=11/27/2026&CalendarViewType=0"
+    },
+    {
+     "text": "< Previous Month",
+     "url": "https://www.cornellclubdc.org/events?EventViewMode=1&EventListViewMode=2&SelectedDate=10/27/2026&CalendarViewType=1"
+    },
+    {
+     "text": "Today",
+     "url": "https://www.cornellclubdc.org/events?EventViewMode=1&EventListViewMode=2&SelectedDate=11/27/2026&CalendarViewType=1"
+    },
+    {
+     "text": "Next Month >",
+     "url": "https://www.cornellclubdc.org/events?EventViewMode=1&EventListViewMode=2&SelectedDate=12/27/2026&CalendarViewType=1"
+    },
+    {
+     "text": "Blacksmithing Workshop Thanksgiving Weekend",
+     "url": "https://www.cornellclubdc.org/event-6907734?CalendarViewType=1&SelectedDate=11/27/2026"
+    },
+    {
+     "text": "Big Red Athletics Pre-Game at Frozen Apple",
+     "url": "https://www.cornellclubdc.org/event-6891666?CalendarViewType=1&SelectedDate=11/27/2026"
+    },
+    {
+     "text": "2026 Frozen Apple Cornell Big Red vs. Maine Black Bears",
+     "url": "https://www.cornellclubdc.org/event-6839382?CalendarViewType=1&SelectedDate=11/27/2026"
+    },
+    {
+     "text": "Community Service Committee Monthly Meeting",
+     "url": "https://www.cornellclubdc.org/event-6907717?CalendarViewType=1&SelectedDate=11/27/2026"
+    },
+    {
+     "text": "Airmarking: Show Me the Way to Go Home",
+     "url": "https://www.cornellclubdc.org/event-6906254?CalendarViewType=1&SelectedDate=11/27/2026"
+    },
+    {
+     "text": "U.S. Army Band \u2013 American Holiday Festival - Friday evening",
+     "url": "https://www.cornellclubdc.org/event-6905430?CalendarViewType=1&SelectedDate=11/27/2026"
+    },
+    {
+     "text": "U.S. Army Band \u2013 American Holiday Festival - Saturday aftern",
+     "url": "https://www.cornellclubdc.org/event-6905427?CalendarViewType=1&SelectedDate=11/27/2026"
+    },
+    {
+     "text": "U.S. Army Band \u2013 American Holiday Festival - Saturday evenin",
+     "url": "https://www.cornellclubdc.org/event-6905423?CalendarViewType=1&SelectedDate=11/27/2026"
+    },
+    {
+     "text": "Virtual Event: Cornell Club Mixer - Make friends with Cornel",
+     "url": "https://www.cornellclubdc.org/event-6891663?CalendarViewType=1&SelectedDate=11/27/2026"
+    },
+    {
+     "text": "Small Potluck Dinner - Vienna",
+     "url": "https://www.cornellclubdc.org/event-6882451?CalendarViewType=1&SelectedDate=11/27/2026"
+    },
+    {
+     "text": "CCW Monthly Board Meeting",
+     "url": "https://www.cornellclubdc.org/event-6822337?CalendarViewType=1&SelectedDate=11/27/2026"
+    },
+    {
+     "text": "Next Practical Career Conversation Series - Part 2 of 2",
+     "url": "https://www.cornellclubdc.org/event-6893161?CalendarViewType=1&SelectedDate=11/27/2026"
+    },
+    {
+     "text": "Big Red movie night",
+     "url": "https://www.cornellclubdc.org/event-6918932?CalendarViewType=1&SelectedDate=11/27/2026"
+    },
+    {
+     "text": "U.S. Army Band \u2013 American Holiday Festival - Sunday afternoo",
+     "url": "https://www.cornellclubdc.org/event-6905428?CalendarViewType=1&SelectedDate=11/27/2026"
+    }
+   ],
+   "platform": "wild apricot",
+   "error": ""
+  },
+  {
+   "url": "https://www.cornellclubdc.org/event-6907734",
+   "status": 200,
+   "final_url": "https://www.cornellclubdc.org/event-6907734",
+   "title": "Cornell Club of Washington DC - Blacksmithing Workshop Thanksgiving Weekend",
+   "dates": 2,
+   "jsonld": 0,
+   "jsonld_samples": [],
+   "hints": [],
+   "iframes": [],
+   "event_links": [
+    {
+     "text": "EVENTS",
+     "url": "https://www.cornellclubdc.org/events"
+    },
+    {
+     "text": "CALENDAR",
+     "url": "https://www.cornellclubdc.org/calendar"
+    },
+    {
+     "text": "https://sites.google.com/view/ccw-event-details/logistics",
+     "url": "https://sites.google.com/view/ccw-event-details/logistics"
+    }
+   ],
+   "platform": "wild apricot",
+   "error": ""
+  }
+ ],
+ "best_page": "https://www.cornellclubdc.org/page-1415767"
+}

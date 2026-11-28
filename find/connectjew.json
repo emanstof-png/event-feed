@@ -1,0 +1,79 @@
+{
+ "row": "5",
+ "name": "ConnectJew",
+ "seed_url": "https://connectjew.org/events",
+ "programs": "",
+ "access": "",
+ "found": "2026-11-28 01:23Z",
+ "search_hits": [],
+ "search_error": "html.duckduckgo.com 0 hits (202, 15150b); www.bing.com 0 hits (200, 136494b); lite.duckduckgo.com 0 hits (202, 15138b)",
+ "probes": [
+  {
+   "url": "https://connectjew.org/wp-json/tribe/events/v1/events?per_page=10",
+   "status": "HTTPError",
+   "events": 0
+  },
+  {
+   "url": "https://connectjew.org/events/?ical=1",
+   "status": 200,
+   "events": 0,
+   "head": "<!DOCTYPE html><html lang=\"en\"><head><meta charSet=\"utf-8\"/><meta name=\"viewport\" content=\"width=device-width, initial-scale=1\"/><link rel=\"stylesheet\" href=\"/_next/static/css/d4229222da5d74c0.css\" data-precedence=\"next\"/><link rel=\"preload\" as=\"script\" fetchPriority=\"low\" href=\"/_next/static/chunks"
+  },
+  {
+   "url": "https://connectjew.org/?ical=1",
+   "status": 200,
+   "events": 0,
+   "head": "<!DOCTYPE html><html lang=\"en\"><head><meta charSet=\"utf-8\"/><meta name=\"viewport\" content=\"width=device-width, initial-scale=1\"/><link rel=\"stylesheet\" href=\"/_next/static/css/d4229222da5d74c0.css\" data-precedence=\"next\"/><link rel=\"preload\" as=\"script\" fetchPriority=\"low\" href=\"/_next/static/chunks"
+  }
+ ],
+ "pages": [
+  {
+   "url": "https://connectjew.org/events",
+   "status": 200,
+   "final_url": "https://connectjew.org/events",
+   "title": "Jewish Events in DC, Maryland & Virginia (DMV) | ConnectJew",
+   "dates": 0,
+   "jsonld": 0,
+   "jsonld_samples": [],
+   "hints": [],
+   "iframes": [],
+   "event_links": [
+    {
+     "text": "Submit an Event",
+     "url": "https://connectjew.org/submit-event"
+    }
+   ],
+   "platform": "",
+   "error": ""
+  },
+  {
+   "url": "https://connectjew.org/",
+   "status": 200,
+   "final_url": "https://connectjew.org/",
+   "title": "ConnectJew: DC/MD/VA Jewish Young Adults",
+   "dates": 0,
+   "jsonld": 0,
+   "jsonld_samples": [],
+   "hints": [],
+   "iframes": [],
+   "event_links": [],
+   "platform": "",
+   "error": ""
+  },
+  {
+   "url": "https://connectjew.org/submit-event",
+   "status": 200,
+   "final_url": "https://connectjew.org/submit-event",
+   "title": "ConnectJew: DC/MD/VA Jewish Young Adults",
+   "dates": 0,
+   "jsonld": 0,
+   "jsonld_samples": [],
+   "hints": [],
+   "iframes": [],
+   "event_links": [],
+   "platform": "",
+   "error": ""
+  }
+ ],
+ "best_page": "https://connectjew.org/events"
+}

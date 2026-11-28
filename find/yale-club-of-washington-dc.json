@@ -1,0 +1,412 @@
+{
+ "row": "152",
+ "name": "Yale Club of Washington DC",
+ "seed_url": "https://ycwd.memberclicks.net/index.php",
+ "programs": "",
+ "access": "",
+ "found": "2026-11-28 01:28Z",
+ "search_hits": [],
+ "search_error": "html.duckduckgo.com 0 hits (202, 15096b); www.bing.com 0 hits (200, 114611b); lite.duckduckgo.com 0 hits (202, 15182b)",
+ "probes": [
+  {
+   "url": "https://ycwd.memberclicks.net/wp-json/tribe/events/v1/events?per_page=10",
+   "status": "HTTPError",
+   "events": 0
+  },
+  {
+   "url": "https://ycwd.memberclicks.net/events/?ical=1",
+   "status": "HTTPError",
+   "events": 0
+  },
+  {
+   "url": "https://ycwd.memberclicks.net/?ical=1",
+   "status": 200,
+   "events": 0,
+   "head": "<!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Transitional//EN\" \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd\">\r\n<html xmlns=\"http://www.w3.org/1999/xhtml\" xml:lang=\"en-us\" lang=\"en-us\" >\r\n<head>\r\n<link rel=\"stylesheet\" href=\"https://cdn.icomoon.io/2584/MCFrontEnd/style-cf.css?p279bq\">\r\n<l"
+  }
+ ],
+ "pages": [
+  {
+   "url": "https://ycwd.memberclicks.net/index.php",
+   "status": 200,
+   "final_url": "https://ycwd.memberclicks.net/index.php",
+   "title": "Yale Club of Washington, D.C.",
+   "dates": 10,
+   "jsonld": 0,
+   "jsonld_samples": [],
+   "hints": [
+    "https://www.eventbrite.com/e/volunteer-with-a-wider-circle-tickets-2004230210512?aff=oddtdtcreator&keep_tld=true",
+    "https://www.eventbrite.com/e/yale-club-of-dc-holiday-reception-and-community-service-fundraiser-2026-tickets-2004233365950?aff=oddtdtcreator"
+   ],
+   "iframes": [],
+   "event_links": [
+    {
+     "text": "Programs and Events",
+     "url": "https://ycwd.memberclicks.net/programs-and-events"
+    },
+    {
+     "text": "Event Calendar",
+     "url": "https://ycwd.memberclicks.net/event-calendar"
+    },
+    {
+     "text": "Suggest an Event!",
+     "url": "https://ycwd.memberclicks.net/suggest-an-event"
+    },
+    {
+     "text": "Other Ivy-Connected Events",
+     "url": "https://ycwd.memberclicks.net/other-ivy-connected-events"
+    },
+    {
+     "text": "Spring 2026 Career Series Event Recordings",
+     "url": "https://ycwd.memberclicks.net/spring-2026-career-series-event-recordings"
+    },
+    {
+     "text": "Fall 2025 and Spring 2025 Career Series Event Recordings",
+     "url": "https://ycwd.memberclicks.net/fall-2025-and-spring-2025-career-series-event-recordings"
+    },
+    {
+     "text": "register here",
+     "url": "https://my.edcjcc.org/s/free-events?Contact.TREX1__Registration__c.A.Course_Option__c=a4GUT000000lgev&Contact.TREX1__Registration__c.A.TREX1__reg_Course_Session__c=a4I5f000000pevC&formName=Free%20Events%20-%20Experience%20Cloud&_gl=1*1ww1mbm*_ga*MTcwMjY3NDU5MS4xNzkzMzE0NTgz*_ga_N184RY1MGG*czE3OTMzNjM1NzEkbzUkZzEkdDE3OTMzNjU4NjUkajEzJGwwJGgw*_ga_PEBR02RM9W*czE3OTMzNjM1NzEkbzUkZzEkdDE3OTMzNjU4NjUkajEzJGwwJGgw*_ga_W44365S0VD*czE3OTMzNjM1NzEkbzUkZzEkdDE3OTMzNjU4NjUkajEzJGwwJGgw"
+    },
+    {
+     "text": "",
+     "url": "https://www.eventbrite.com/e/volunteer-with-a-wider-circle-tickets-2004230210512?aff=oddtdtcreator&keep_tld=true"
+    },
+    {
+     "text": "",
+     "url": "https://ycwd.memberclicks.net/index.php%3Foption=com_jevents&task=icalevent.detail&evid=1903&year=2026&month=11&day=16&uid=3775d200214b9471902bbc28dfb0f577"
+    },
+    {
+     "text": "",
+     "url": "https://www.eventbrite.com/e/yale-club-of-dc-holiday-reception-and-community-service-fundraiser-2026-tickets-2004233365950?aff=oddtdtcreator"
+    },
+    {
+     "text": "Attend an event",
+     "url": "http://clicks.memberclicks-mail.net/ls/click?upn=u001.7KU4Chi-2F5wJB0YewqkWHQQfThdIl-2FU3SZGkJ-2BAHAcohokQ-2BYGKDs0uMXo7N1AbSDigmG69s-2FKEBeWhiIBC6Pk1NTTb0Rqt2aNaVXCc-2FB0N2hoDFyjsvI-2B0eSTZmMQMEjFUD9_8nN-2FTMUUBzCRm0ClTbTnSKJh-2BghC5BOUhqhg9-2B68mVvPdUIuH24D0RHn47I1-2FHkbRt7MnV3mf8RDkT0w-2FtREVtbogpcn-2BPP7IaLDNMZxRB-2B465guzX-2FnqGEUIE8jqg1IHuuHhMGCFXeiN-2F8BruIR3eAdiCDAwELYTdUWZ4ugU-2BzfthRWSihi3ifbTrA1Yi-2FevwQR523NDtgvJM1LoK9cuCcBZVnGNuzUJYjzT8Q-2F8tKFItb-2F4pXmTj23PMoyXzYAN7py6LU43R7KIxs6sBPDJhCwqUrLHDzM3Jv7shITH50uxwtRvvxj467kpF-2F1t3J-2FSK9A921fXeH3GHkOFoBDFw-3D-3D"
+    },
+    {
+     "text": "Join Us for the Next Practical Career Conversation Series - ",
+     "url": "https://ycwd.memberclicks.net/index.php?option=com_jevents&task=icalrepeat.detail&evid=1979&Itemid=162&year=2026&month=12&day=10&title=join-us-for-the-next-practical-career-conversation-series-melissa-reitkopp-is-back-for-a-two-part-series&uid=ddc93c5a967f071c986b3a4266936b2c"
+    },
+    {
+     "text": "View Full Calendar",
+     "url": "https://ycwd.memberclicks.net/index.php?option=com_jevents&Itemid=162&task=year.listevents"
+    },
+    {
+     "text": "Event Calendar",
+     "url": "https://ycwd.memberclicks.net/event-calendar-ql"
+    }
+   ],
+   "platform": "eventbrite [MemberClicks Content Management System]",
+   "error": ""
+  },
+  {
+   "url": "https://ycwd.memberclicks.net/",
+   "status": 200,
+   "final_url": "https://ycwd.memberclicks.net/",
+   "title": "Yale Club of Washington, D.C.",
+   "dates": 10,
+   "jsonld": 0,
+   "jsonld_samples": [],
+   "hints": [
+    "https://www.eventbrite.com/e/volunteer-with-a-wider-circle-tickets-2004230210512?aff=oddtdtcreator&keep_tld=true",
+    "https://www.eventbrite.com/e/yale-club-of-dc-holiday-reception-and-community-service-fundraiser-2026-tickets-2004233365950?aff=oddtdtcreator"
+   ],
+   "iframes": [],
+   "event_links": [
+    {
+     "text": "Programs and Events",
+     "url": "https://ycwd.memberclicks.net/programs-and-events"
+    },
+    {
+     "text": "Event Calendar",
+     "url": "https://ycwd.memberclicks.net/event-calendar"
+    },
+    {
+     "text": "Suggest an Event!",
+     "url": "https://ycwd.memberclicks.net/suggest-an-event"
+    },
+    {
+     "text": "Other Ivy-Connected Events",
+     "url": "https://ycwd.memberclicks.net/other-ivy-connected-events"
+    },
+    {
+     "text": "Spring 2026 Career Series Event Recordings",
+     "url": "https://ycwd.memberclicks.net/spring-2026-career-series-event-recordings"
+    },
+    {
+     "text": "Fall 2025 and Spring 2025 Career Series Event Recordings",
+     "url": "https://ycwd.memberclicks.net/fall-2025-and-spring-2025-career-series-event-recordings"
+    },
+    {
+     "text": "register here",
+     "url": "https://my.edcjcc.org/s/free-events?Contact.TREX1__Registration__c.A.Course_Option__c=a4GUT000000lgev&Contact.TREX1__Registration__c.A.TREX1__reg_Course_Session__c=a4I5f000000pevC&formName=Free%20Events%20-%20Experience%20Cloud&_gl=1*1ww1mbm*_ga*MTcwMjY3NDU5MS4xNzkzMzE0NTgz*_ga_N184RY1MGG*czE3OTMzNjM1NzEkbzUkZzEkdDE3OTMzNjU4NjUkajEzJGwwJGgw*_ga_PEBR02RM9W*czE3OTMzNjM1NzEkbzUkZzEkdDE3OTMzNjU4NjUkajEzJGwwJGgw*_ga_W44365S0VD*czE3OTMzNjM1NzEkbzUkZzEkdDE3OTMzNjU4NjUkajEzJGwwJGgw"
+    },
+    {
+     "text": "",
+     "url": "https://www.eventbrite.com/e/volunteer-with-a-wider-circle-tickets-2004230210512?aff=oddtdtcreator&keep_tld=true"
+    },
+    {
+     "text": "",
+     "url": "https://ycwd.memberclicks.net/index.php%3Foption=com_jevents&task=icalevent.detail&evid=1903&year=2026&month=11&day=16&uid=3775d200214b9471902bbc28dfb0f577"
+    },
+    {
+     "text": "",
+     "url": "https://www.eventbrite.com/e/yale-club-of-dc-holiday-reception-and-community-service-fundraiser-2026-tickets-2004233365950?aff=oddtdtcreator"
+    },
+    {
+     "text": "Attend an event",
+     "url": "http://clicks.memberclicks-mail.net/ls/click?upn=u001.7KU4Chi-2F5wJB0YewqkWHQQfThdIl-2FU3SZGkJ-2BAHAcohokQ-2BYGKDs0uMXo7N1AbSDigmG69s-2FKEBeWhiIBC6Pk1NTTb0Rqt2aNaVXCc-2FB0N2hoDFyjsvI-2B0eSTZmMQMEjFUD9_8nN-2FTMUUBzCRm0ClTbTnSKJh-2BghC5BOUhqhg9-2B68mVvPdUIuH24D0RHn47I1-2FHkbRt7MnV3mf8RDkT0w-2FtREVtbogpcn-2BPP7IaLDNMZxRB-2B465guzX-2FnqGEUIE8jqg1IHuuHhMGCFXeiN-2F8BruIR3eAdiCDAwELYTdUWZ4ugU-2BzfthRWSihi3ifbTrA1Yi-2FevwQR523NDtgvJM1LoK9cuCcBZVnGNuzUJYjzT8Q-2F8tKFItb-2F4pXmTj23PMoyXzYAN7py6LU43R7KIxs6sBPDJhCwqUrLHDzM3Jv7shITH50uxwtRvvxj467kpF-2F1t3J-2FSK9A921fXeH3GHkOFoBDFw-3D-3D"
+    },
+    {
+     "text": "Join Us for the Next Practical Career Conversation Series - ",
+     "url": "https://ycwd.memberclicks.net/index.php?option=com_jevents&task=icalrepeat.detail&evid=1979&Itemid=162&year=2026&month=12&day=10&title=join-us-for-the-next-practical-career-conversation-series-melissa-reitkopp-is-back-for-a-two-part-series&uid=ddc93c5a967f071c986b3a4266936b2c"
+    },
+    {
+     "text": "View Full Calendar",
+     "url": "https://ycwd.memberclicks.net/index.php?option=com_jevents&Itemid=162&task=year.listevents"
+    },
+    {
+     "text": "Event Calendar",
+     "url": "https://ycwd.memberclicks.net/event-calendar-ql"
+    }
+   ],
+   "platform": "eventbrite [MemberClicks Content Management System]",
+   "error": ""
+  },
+  {
+   "url": "https://ycwd.memberclicks.net/programs-and-events",
+   "status": 200,
+   "final_url": "https://ycwd.memberclicks.net/programs-and-events",
+   "title": "Programs and Events",
+   "dates": 5,
+   "jsonld": 0,
+   "jsonld_samples": [],
+   "hints": [],
+   "iframes": [],
+   "event_links": [
+    {
+     "text": "Programs and Events",
+     "url": "https://ycwd.memberclicks.net/programs-and-events"
+    },
+    {
+     "text": "Event Calendar",
+     "url": "https://ycwd.memberclicks.net/event-calendar"
+    },
+    {
+     "text": "Suggest an Event!",
+     "url": "https://ycwd.memberclicks.net/suggest-an-event"
+    },
+    {
+     "text": "Other Ivy-Connected Events",
+     "url": "https://ycwd.memberclicks.net/other-ivy-connected-events"
+    },
+    {
+     "text": "Spring 2026 Career Series Event Recordings",
+     "url": "https://ycwd.memberclicks.net/spring-2026-career-series-event-recordings"
+    },
+    {
+     "text": "Fall 2025 and Spring 2025 Career Series Event Recordings",
+     "url": "https://ycwd.memberclicks.net/fall-2025-and-spring-2025-career-series-event-recordings"
+    },
+    {
+     "text": "Join Us for the Next Practical Career Conversation Series - ",
+     "url": "https://ycwd.memberclicks.net/index.php?option=com_jevents&task=icalrepeat.detail&evid=1979&Itemid=162&year=2026&month=12&day=10&title=join-us-for-the-next-practical-career-conversation-series-melissa-reitkopp-is-back-for-a-two-part-series&uid=ddc93c5a967f071c986b3a4266936b2c"
+    },
+    {
+     "text": "View Full Calendar",
+     "url": "https://ycwd.memberclicks.net/index.php?option=com_jevents&Itemid=162&task=year.listevents"
+    },
+    {
+     "text": "Event Calendar",
+     "url": "https://ycwd.memberclicks.net/event-calendar-ql"
+    }
+   ],
+   "platform": " [MemberClicks Content Management System]",
+   "error": ""
+  },
+  {
+   "url": "https://ycwd.memberclicks.net/event-calendar",
+   "status": 200,
+   "final_url": "https://ycwd.memberclicks.net/event-calendar",
+   "title": "Event Calendar",
+   "dates": 11,
+   "jsonld": 0,
+   "jsonld_samples": [],
+   "hints": [
+    "https://ycwd.memberclicks.net/index.php?option=com_jevents&task=modlatest.rss&format=feed&type=rss&Itemid=77&modid=0",
+    "https://ycwd.memberclicks.net/index.php?option=com_jevents&task=modlatest.rss&format=feed&type=atom&Itemid=77&modid=0"
+   ],
+   "iframes": [],
+   "event_links": [
+    {
+     "text": "Programs and Events",
+     "url": "https://ycwd.memberclicks.net/programs-and-events"
+    },
+    {
+     "text": "Event Calendar",
+     "url": "https://ycwd.memberclicks.net/event-calendar"
+    },
+    {
+     "text": "Suggest an Event!",
+     "url": "https://ycwd.memberclicks.net/suggest-an-event"
+    },
+    {
+     "text": "Other Ivy-Connected Events",
+     "url": "https://ycwd.memberclicks.net/other-ivy-connected-events"
+    },
+    {
+     "text": "Spring 2026 Career Series Event Recordings",
+     "url": "https://ycwd.memberclicks.net/spring-2026-career-series-event-recordings"
+    },
+    {
+     "text": "Fall 2025 and Spring 2025 Career Series Event Recordings",
+     "url": "https://ycwd.memberclicks.net/fall-2025-and-spring-2025-career-series-event-recordings"
+    },
+    {
+     "text": "Events",
+     "url": "https://ycwd.memberclicks.net/index.php?servId=10728&Itemid=77&option=com_jevents&view=&isMenu=true&catids=23"
+    },
+    {
+     "text": "Join Us for the Next Practical Career Conversation Series - ",
+     "url": "https://ycwd.memberclicks.net/index.php?option=com_jevents&task=icalrepeat.detail&evid=1979&Itemid=77&year=2026&month=12&day=10&title=join-us-for-the-next-practical-career-conversation-series-melissa-reitkopp-is-back-for-a-two-part-series&uid=ddc93c5a967f071c986b3a4266936b2c"
+    },
+    {
+     "text": "View Full Calendar",
+     "url": "https://ycwd.memberclicks.net/index.php?option=com_jevents&Itemid=77&task=year.listevents"
+    },
+    {
+     "text": "Event Calendar",
+     "url": "https://ycwd.memberclicks.net/event-calendar-ql"
+    }
+   ],
+   "platform": " [MemberClicks Content Management System]",
+   "error": ""
+  },
+  {
+   "url": "https://ycwd.memberclicks.net/suggest-an-event",
+   "status": 200,
+   "final_url": "https://ycwd.memberclicks.net/index.php?option=com_mcform&view=ngforms&id=2065554",
+   "title": "Yale Club of Washington DC",
+   "dates": 5,
+   "jsonld": 0,
+   "jsonld_samples": [],
+   "hints": [],
+   "iframes": [],
+   "event_links": [
+    {
+     "text": "Programs and Events",
+     "url": "https://ycwd.memberclicks.net/programs-and-events"
+    },
+    {
+     "text": "Event Calendar",
+     "url": "https://ycwd.memberclicks.net/event-calendar"
+    },
+    {
+     "text": "Suggest an Event!",
+     "url": "https://ycwd.memberclicks.net/suggest-an-event"
+    },
+    {
+     "text": "Other Ivy-Connected Events",
+     "url": "https://ycwd.memberclicks.net/other-ivy-connected-events"
+    },
+    {
+     "text": "Spring 2026 Career Series Event Recordings",
+     "url": "https://ycwd.memberclicks.net/spring-2026-career-series-event-recordings"
+    },
+    {
+     "text": "Fall 2025 and Spring 2025 Career Series Event Recordings",
+     "url": "https://ycwd.memberclicks.net/fall-2025-and-spring-2025-career-series-event-recordings"
+    },
+    {
+     "text": "Join Us for the Next Practical Career Conversation Series - ",
+     "url": "https://ycwd.memberclicks.net/index.php?option=com_jevents&task=icalrepeat.detail&evid=1979&Itemid=162&year=2026&month=12&day=10&title=join-us-for-the-next-practical-career-conversation-series-melissa-reitkopp-is-back-for-a-two-part-series&uid=ddc93c5a967f071c986b3a4266936b2c"
+    },
+    {
+     "text": "View Full Calendar",
+     "url": "https://ycwd.memberclicks.net/index.php?option=com_jevents&Itemid=162&task=year.listevents"
+    },
+    {
+     "text": "Event Calendar",
+     "url": "https://ycwd.memberclicks.net/event-calendar-ql"
+    }
+   ],
+   "platform": " [MemberClicks Content Management System]",
+   "error": ""
+  },
+  {
+   "url": "https://ycwd.memberclicks.net/other-ivy-connected-events",
+   "status": 200,
+   "final_url": "https://ycwd.memberclicks.net/other-ivy-connected-events",
+   "title": "Other Ivy-Connected Events",
+   "dates": 14,
+   "jsonld": 0,
+   "jsonld_samples": [],
+   "hints": [
+    "https://www.eventbrite.com/e/1994398706218?aff=oddtdtcreator",
+    "https://www.eventbrite.com/e/prepare-food-for-the-homeless-tickets-1983783014398?aff=oddtdtcreator",
+    "https://www.eventbrite.com/e/1990517314872?aff=oddtdtcreator",
+    "https://www.eventbrite.com/e/1988259471602?aff=oddtdtcreator",
+    "https://www.eventbrite.com/e/1093099212169?aff=oddtdtcreator"
+   ],
+   "iframes": [],
+   "event_links": [
+    {
+     "text": "Programs and Events",
+     "url": "https://ycwd.memberclicks.net/programs-and-events"
+    },
+    {
+     "text": "Event Calendar",
+     "url": "https://ycwd.memberclicks.net/event-calendar"
+    },
+    {
+     "text": "Suggest an Event!",
+     "url": "https://ycwd.memberclicks.net/suggest-an-event"
+    },
+    {
+     "text": "Other Ivy-Connected Events",
+     "url": "https://ycwd.memberclicks.net/other-ivy-connected-events"
+    },
+    {
+     "text": "Spring 2026 Career Series Event Recordings",
+     "url": "https://ycwd.memberclicks.net/spring-2026-career-series-event-recordings"
+    },
+    {
+     "text": "Fall 2025 and Spring 2025 Career Series Event Recordings",
+     "url": "https://ycwd.memberclicks.net/fall-2025-and-spring-2025-career-series-event-recordings"
+    },
+    {
+     "text": "https://www.eventbrite.com/e/1994398706218?aff=oddtdtcreator",
+     "url": "https://www.eventbrite.com/e/1994398706218?aff=oddtdtcreator"
+    },
+    {
+     "text": "https://www.eventbrite.com/e/prepare-food-for-the-homeless-t",
+     "url": "https://www.eventbrite.com/e/prepare-food-for-the-homeless-tickets-1983783014398?aff=oddtdtcreator"
+    },
+    {
+     "text": "https://www.eventbrite.com/e/1990517314872?aff=oddtdtcreator",
+     "url": "https://www.eventbrite.com/e/1990517314872?aff=oddtdtcreator"
+    },
+    {
+     "text": "https://www.eventbrite.com/e/1988259471602?aff=oddtdtcreator",
+     "url": "https://www.eventbrite.com/e/1988259471602?aff=oddtdtcreator"
+    },
+    {
+     "text": "Join Us for the Next Practical Career Conversation Series - ",
+     "url": "https://ycwd.memberclicks.net/index.php?option=com_jevents&task=icalrepeat.detail&evid=1979&Itemid=162&year=2026&month=12&day=10&title=join-us-for-the-next-practical-career-conversation-series-melissa-reitkopp-is-back-for-a-two-part-series&uid=ddc93c5a967f071c986b3a4266936b2c"
+    },
+    {
+     "text": "View Full Calendar",
+     "url": "https://ycwd.memberclicks.net/index.php?option=com_jevents&Itemid=162&task=year.listevents"
+    },
+    {
+     "text": "Event Calendar",
+     "url": "https://ycwd.memberclicks.net/event-calendar-ql"
+    }
+   ],
+   "platform": "eventbrite [MemberClicks Content Management System]",
+   "error": ""
+  }
+ ],
+ "best_page": "https://ycwd.memberclicks.net/other-ivy-connected-events"
+}

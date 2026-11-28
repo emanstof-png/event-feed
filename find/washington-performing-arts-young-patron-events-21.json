@@ -1,0 +1,559 @@
+{
+ "row": "151",
+ "name": "Washington Performing Arts Young Patron Events (21+)",
+ "seed_url": "https://www.washingtonperformingarts.org/event/pub-grub/",
+ "programs": "",
+ "access": "",
+ "found": "2026-11-28 01:28Z",
+ "search_hits": [],
+ "search_error": "html.duckduckgo.com 0 hits (202, 15136b); www.bing.com 0 hits (200, 128854b); lite.duckduckgo.com 0 hits (202, 15210b)",
+ "probes": [
+  {
+   "url": "https://www.washingtonperformingarts.org/wp-json/tribe/events/v1/events?per_page=10",
+   "status": "HTTPError",
+   "events": 0
+  },
+  {
+   "url": "https://www.washingtonperformingarts.org/events/?ical=1",
+   "status": "HTTPError",
+   "events": 0
+  },
+  {
+   "url": "https://www.washingtonperformingarts.org/?ical=1",
+   "status": 200,
+   "events": 0,
+   "head": "<!doctype html>\n<html lang=\"en-US\">\n<head>\n\n\t<!-- Google tag (gtag.js) -->\n\t<script async src=\"https://www.googletagmanager.com/gtag/js?id=G-0H2HP8L2S7\"></script>\n\t<script>\n\twindow.dataLayer = window.dataLayer || [];\n\tfunction gtag(){dataLayer.push(arguments);}\n\tgtag('js', new Date());\n\n\tgtag('confi"
+  }
+ ],
+ "pages": [
+  {
+   "url": "https://www.washingtonperformingarts.org/event/pub-grub/",
+   "status": 200,
+   "final_url": "https://www.washingtonperformingarts.org/event/pub-grub-2024/",
+   "title": "Pub & Grub | Washington Performing Arts",
+   "dates": 6,
+   "jsonld": 0,
+   "jsonld_samples": [],
+   "hints": [
+    "https://www.washingtonperformingarts.org/feed/"
+   ],
+   "iframes": [],
+   "event_links": [
+    {
+     "text": "Calendar",
+     "url": "https://my.washingtonperformingarts.org/events"
+    },
+    {
+     "text": "Upcoming Events",
+     "url": "https://www.washingtonperformingarts.org/upcoming-events/"
+    },
+    {
+     "text": "Past Events",
+     "url": "https://www.washingtonperformingarts.org/past/"
+    },
+    {
+     "text": "Choir Tickets & Events",
+     "url": "https://www.washingtonperformingarts.org/about-the-choirs/choir-tickets-events/"
+    },
+    {
+     "text": "Free Programs",
+     "url": "https://www.washingtonperformingarts.org/free-programs/"
+    },
+    {
+     "text": "Education Programs",
+     "url": "https://www.washingtonperformingarts.org/education-programs/"
+    },
+    {
+     "text": "Embassy Adoption Program",
+     "url": "https://www.washingtonperformingarts.org/embassy-adoption-program/"
+    },
+    {
+     "text": "Tickets & Subscriptions",
+     "url": "https://www.washingtonperformingarts.org/tickets-subscriptions/"
+    },
+    {
+     "text": "Tickets",
+     "url": "https://www.washingtonperformingarts.org/current"
+    },
+    {
+     "text": "Login",
+     "url": "https://my.washingtonperformingarts.org/account/upcomingevents"
+    },
+    {
+     "text": "Learn More",
+     "url": "https://www.washingtonperformingarts.org/event/hayato-sumino/"
+    },
+    {
+     "text": "Learn More",
+     "url": "https://www.washingtonperformingarts.org/event/educarte/"
+    },
+    {
+     "text": "Tregaron Uplugged",
+     "url": "https://www.washingtonperformingarts.org/event/tregaron-unplugged-24/"
+    },
+    {
+     "text": "",
+     "url": "https://www.washingtonperformingarts.org/event/akua-allrich/"
+    },
+    {
+     "text": "",
+     "url": "https://www.washingtonperformingarts.org/event/tregaron-meadow-concert-25/"
+    }
+   ],
+   "platform": "wordpress",
+   "error": ""
+  },
+  {
+   "url": "https://www.washingtonperformingarts.org/",
+   "status": 200,
+   "final_url": "https://www.washingtonperformingarts.org/",
+   "title": "Washington Performing Arts | The Arts as a Unifying Force",
+   "dates": 9,
+   "jsonld": 0,
+   "jsonld_samples": [],
+   "hints": [
+    "https://www.washingtonperformingarts.org/feed/"
+   ],
+   "iframes": [],
+   "event_links": [
+    {
+     "text": "Calendar",
+     "url": "https://my.washingtonperformingarts.org/events"
+    },
+    {
+     "text": "Upcoming Events",
+     "url": "https://www.washingtonperformingarts.org/upcoming-events/"
+    },
+    {
+     "text": "Past Events",
+     "url": "https://www.washingtonperformingarts.org/past/"
+    },
+    {
+     "text": "Choir Tickets & Events",
+     "url": "https://www.washingtonperformingarts.org/about-the-choirs/choir-tickets-events/"
+    },
+    {
+     "text": "Free Programs",
+     "url": "https://www.washingtonperformingarts.org/free-programs/"
+    },
+    {
+     "text": "Education Programs",
+     "url": "https://www.washingtonperformingarts.org/education-programs/"
+    },
+    {
+     "text": "Embassy Adoption Program",
+     "url": "https://www.washingtonperformingarts.org/embassy-adoption-program/"
+    },
+    {
+     "text": "Tickets & Subscriptions",
+     "url": "https://www.washingtonperformingarts.org/tickets-subscriptions/"
+    },
+    {
+     "text": "Tickets",
+     "url": "https://www.washingtonperformingarts.org/current"
+    },
+    {
+     "text": "Login",
+     "url": "https://my.washingtonperformingarts.org/account/upcomingevents"
+    },
+    {
+     "text": "Learn More",
+     "url": "https://www.washingtonperformingarts.org/event/hayato-sumino/"
+    },
+    {
+     "text": "Learn More",
+     "url": "https://www.washingtonperformingarts.org/event/educarte/"
+    },
+    {
+     "text": "Learn More",
+     "url": "https://www.washingtonperformingarts.org/event/daniil-trifonov-26/"
+    },
+    {
+     "text": "Listen",
+     "url": "https://www.washingtonperformingarts.org/tickets-subscriptions/#listen"
+    },
+    {
+     "text": "",
+     "url": "https://www.washingtonperformingarts.org/event/norwegian-tree-lighting-26/"
+    },
+    {
+     "text": "",
+     "url": "https://www.washingtonperformingarts.org/event/dc-bushwick-book-club/"
+    },
+    {
+     "text": "Register",
+     "url": "https://www.washingtonperformingarts.org/www.11elevengallery.com/events"
+    },
+    {
+     "text": "Purchase Tickets",
+     "url": "https://my.washingtonperformingarts.org/5000"
+    },
+    {
+     "text": "",
+     "url": "https://www.washingtonperformingarts.org/event/downton-dc-holiday-market-26/"
+    },
+    {
+     "text": "",
+     "url": "https://www.washingtonperformingarts.org/event/elin/"
+    },
+    {
+     "text": "Purchase Tickets",
+     "url": "https://my.washingtonperformingarts.org/5100"
+    },
+    {
+     "text": "Purchase Tickets",
+     "url": "https://my.washingtonperformingarts.org/5028"
+    }
+   ],
+   "platform": "wordpress",
+   "error": ""
+  },
+  {
+   "url": "https://my.washingtonperformingarts.org/events",
+   "status": 200,
+   "final_url": "https://my.washingtonperformingarts.org/events",
+   "title": "Events | Washington Performing Arts",
+   "dates": 0,
+   "jsonld": 0,
+   "jsonld_samples": [],
+   "hints": [],
+   "iframes": [],
+   "event_links": [
+    {
+     "text": "Tickets",
+     "url": "https://www.washingtonperformingarts.org/upcoming"
+    }
+   ],
+   "platform": "wordpress",
+   "error": ""
+  },
+  {
+   "url": "https://www.washingtonperformingarts.org/upcoming-events/",
+   "status": 200,
+   "final_url": "https://www.washingtonperformingarts.org/upcoming-events/",
+   "title": "Upcoming Events | Washington Performing Arts",
+   "dates": 29,
+   "jsonld": 0,
+   "jsonld_samples": [],
+   "hints": [
+    "https://www.washingtonperformingarts.org/feed/"
+   ],
+   "iframes": [],
+   "event_links": [
+    {
+     "text": "Calendar",
+     "url": "https://my.washingtonperformingarts.org/events"
+    },
+    {
+     "text": "Past Events",
+     "url": "https://www.washingtonperformingarts.org/past/"
+    },
+    {
+     "text": "Choir Tickets & Events",
+     "url": "https://www.washingtonperformingarts.org/about-the-choirs/choir-tickets-events/"
+    },
+    {
+     "text": "Free Programs",
+     "url": "https://www.washingtonperformingarts.org/free-programs/"
+    },
+    {
+     "text": "Education Programs",
+     "url": "https://www.washingtonperformingarts.org/education-programs/"
+    },
+    {
+     "text": "Embassy Adoption Program",
+     "url": "https://www.washingtonperformingarts.org/embassy-adoption-program/"
+    },
+    {
+     "text": "Tickets & Subscriptions",
+     "url": "https://www.washingtonperformingarts.org/tickets-subscriptions/"
+    },
+    {
+     "text": "Tickets",
+     "url": "https://www.washingtonperformingarts.org/current"
+    },
+    {
+     "text": "Login",
+     "url": "https://my.washingtonperformingarts.org/account/upcomingevents"
+    },
+    {
+     "text": "Learn More",
+     "url": "https://www.washingtonperformingarts.org/event/hayato-sumino/"
+    },
+    {
+     "text": "Learn More",
+     "url": "https://www.washingtonperformingarts.org/event/educarte/"
+    },
+    {
+     "text": "",
+     "url": "https://www.washingtonperformingarts.org/event/norwegian-tree-lighting-26/"
+    },
+    {
+     "text": "",
+     "url": "https://www.washingtonperformingarts.org/event/dc-bushwick-book-club/"
+    },
+    {
+     "text": "Register",
+     "url": "https://www.washingtonperformingarts.org/upcoming-events/www.11elevengallery.com/events"
+    },
+    {
+     "text": "",
+     "url": "https://www.washingtonperformingarts.org/event/daniil-trifonov-26/"
+    },
+    {
+     "text": "Purchase Tickets",
+     "url": "https://my.washingtonperformingarts.org/5000"
+    },
+    {
+     "text": "",
+     "url": "https://www.washingtonperformingarts.org/event/downton-dc-holiday-market-26/"
+    },
+    {
+     "text": "",
+     "url": "https://www.washingtonperformingarts.org/event/elin/"
+    },
+    {
+     "text": "Purchase Tickets",
+     "url": "https://my.washingtonperformingarts.org/5100"
+    },
+    {
+     "text": "Purchase Tickets",
+     "url": "https://my.washingtonperformingarts.org/5028"
+    },
+    {
+     "text": "",
+     "url": "https://www.washingtonperformingarts.org/event/pranav-shikarpur/"
+    },
+    {
+     "text": "Purchase Tickets",
+     "url": "https://my.washingtonperformingarts.org/5102"
+    },
+    {
+     "text": "",
+     "url": "https://www.washingtonperformingarts.org/event/seth-parker-woods/"
+    },
+    {
+     "text": "Purchase Tickets",
+     "url": "https://my.washingtonperformingarts.org/5050"
+    },
+    {
+     "text": "",
+     "url": "https://www.washingtonperformingarts.org/event/living-the-dream-27/"
+    }
+   ],
+   "platform": "wordpress",
+   "error": ""
+  },
+  {
+   "url": "https://www.washingtonperformingarts.org/past/",
+   "status": 200,
+   "final_url": "https://www.washingtonperformingarts.org/past/",
+   "title": "Past Events | Washington Performing Arts",
+   "dates": 173,
+   "jsonld": 0,
+   "jsonld_samples": [],
+   "hints": [
+    "https://www.washingtonperformingarts.org/feed/"
+   ],
+   "iframes": [],
+   "event_links": [
+    {
+     "text": "Calendar",
+     "url": "https://my.washingtonperformingarts.org/events"
+    },
+    {
+     "text": "Upcoming Events",
+     "url": "https://www.washingtonperformingarts.org/upcoming-events/"
+    },
+    {
+     "text": "Choir Tickets & Events",
+     "url": "https://www.washingtonperformingarts.org/about-the-choirs/choir-tickets-events/"
+    },
+    {
+     "text": "Free Programs",
+     "url": "https://www.washingtonperformingarts.org/free-programs/"
+    },
+    {
+     "text": "Education Programs",
+     "url": "https://www.washingtonperformingarts.org/education-programs/"
+    },
+    {
+     "text": "Embassy Adoption Program",
+     "url": "https://www.washingtonperformingarts.org/embassy-adoption-program/"
+    },
+    {
+     "text": "Tickets & Subscriptions",
+     "url": "https://www.washingtonperformingarts.org/tickets-subscriptions/"
+    },
+    {
+     "text": "Tickets",
+     "url": "https://www.washingtonperformingarts.org/current"
+    },
+    {
+     "text": "Login",
+     "url": "https://my.washingtonperformingarts.org/account/upcomingevents"
+    },
+    {
+     "text": "Learn More",
+     "url": "https://www.washingtonperformingarts.org/event/hayato-sumino/"
+    },
+    {
+     "text": "Learn More",
+     "url": "https://www.washingtonperformingarts.org/event/educarte/"
+    },
+    {
+     "text": "",
+     "url": "https://www.washingtonperformingarts.org/event/terence-blanchard-ravi-coltrane/"
+    },
+    {
+     "text": "",
+     "url": "https://www.washingtonperformingarts.org/event/aga-khan-master-musicians/"
+    },
+    {
+     "text": "",
+     "url": "https://www.washingtonperformingarts.org/event/minsoo-sohn/"
+    },
+    {
+     "text": "",
+     "url": "https://www.washingtonperformingarts.org/event/juan-manu/"
+    },
+    {
+     "text": "",
+     "url": "https://www.washingtonperformingarts.org/event/junior-board-anniversary/"
+    },
+    {
+     "text": "",
+     "url": "https://www.washingtonperformingarts.org/event/niladri-kumaar/"
+    },
+    {
+     "text": "",
+     "url": "https://www.washingtonperformingarts.org/event/simone-dinnerstein-26/"
+    },
+    {
+     "text": "",
+     "url": "https://www.washingtonperformingarts.org/event/tregaron-unplugged-26/"
+    },
+    {
+     "text": "",
+     "url": "https://www.washingtonperformingarts.org/event/taisha-estrada/"
+    },
+    {
+     "text": "",
+     "url": "https://www.washingtonperformingarts.org/event/itzhak-perlman-26/"
+    },
+    {
+     "text": "",
+     "url": "https://www.washingtonperformingarts.org/event/somewhere-over-the-border-2/"
+    },
+    {
+     "text": "",
+     "url": "https://www.washingtonperformingarts.org/event/elisabeth-pion/"
+    },
+    {
+     "text": "",
+     "url": "https://www.washingtonperformingarts.org/event/somewhere-over-the-border/"
+    },
+    {
+     "text": "",
+     "url": "https://www.washingtonperformingarts.org/event/dance-theatre-harlem-26/"
+    }
+   ],
+   "platform": "wordpress",
+   "error": ""
+  },
+  {
+   "url": "https://www.washingtonperformingarts.org/about-the-choirs/choir-tickets-events/",
+   "status": 200,
+   "final_url": "https://www.washingtonperformingarts.org/about-the-choirs/choir-tickets-events/",
+   "title": "Choir Tickets & Events | Washington Performing Arts",
+   "dates": 7,
+   "jsonld": 0,
+   "jsonld_samples": [],
+   "hints": [
+    "https://www.washingtonperformingarts.org/feed/"
+   ],
+   "iframes": [],
+   "event_links": [
+    {
+     "text": "Calendar",
+     "url": "https://my.washingtonperformingarts.org/events"
+    },
+    {
+     "text": "Upcoming Events",
+     "url": "https://www.washingtonperformingarts.org/upcoming-events/"
+    },
+    {
+     "text": "Past Events",
+     "url": "https://www.washingtonperformingarts.org/past/"
+    },
+    {
+     "text": "Free Programs",
+     "url": "https://www.washingtonperformingarts.org/free-programs/"
+    },
+    {
+     "text": "Education Programs",
+     "url": "https://www.washingtonperformingarts.org/education-programs/"
+    },
+    {
+     "text": "Embassy Adoption Program",
+     "url": "https://www.washingtonperformingarts.org/embassy-adoption-program/"
+    },
+    {
+     "text": "Tickets & Subscriptions",
+     "url": "https://www.washingtonperformingarts.org/tickets-subscriptions/"
+    },
+    {
+     "text": "Tickets",
+     "url": "https://www.washingtonperformingarts.org/current"
+    },
+    {
+     "text": "Login",
+     "url": "https://my.washingtonperformingarts.org/account/upcomingevents"
+    },
+    {
+     "text": "Learn More",
+     "url": "https://www.washingtonperformingarts.org/event/hayato-sumino/"
+    },
+    {
+     "text": "Learn More",
+     "url": "https://www.washingtonperformingarts.org/event/educarte/"
+    },
+    {
+     "text": "",
+     "url": "https://www.washingtonperformingarts.org/event/norwegian-tree-lighting-26/"
+    },
+    {
+     "text": "",
+     "url": "https://www.washingtonperformingarts.org/event/living-the-dream-27/"
+    },
+    {
+     "text": "Purchase Tickets",
+     "url": "https://my.washingtonperformingarts.org/5001"
+    },
+    {
+     "text": "",
+     "url": "https://www.washingtonperformingarts.org/event/matthew-whitaker-27/"
+    },
+    {
+     "text": "Purchase Tickets",
+     "url": "https://my.washingtonperformingarts.org/5070"
+    },
+    {
+     "text": "",
+     "url": "https://www.washingtonperformingarts.org/event/sounds-of-legacy/"
+    },
+    {
+     "text": "",
+     "url": "https://www.washingtonperformingarts.org/event/children-of-the-gospel-choir-27/"
+    },
+    {
+     "text": "Purchase Tickets",
+     "url": "https://my.washingtonperformingarts.org/5072"
+    }
+   ],
+   "platform": "wordpress",
+   "error": ""
+  }
+ ],
+ "best_page": "https://www.washingtonperformingarts.org/past/"
+}

@@ -1,0 +1,318 @@
+{
+ "row": "129",
+ "name": "The Dinner Table Club",
+ "seed_url": "https://luma.com/thedinnertable_club",
+ "programs": "",
+ "access": "",
+ "found": "2026-11-28 01:24Z",
+ "search_hits": [],
+ "search_error": "html.duckduckgo.com 0 hits (202, 15165b); www.bing.com 0 hits (200, 490939b); lite.duckduckgo.com 0 hits (202, 15172b)",
+ "probes": [
+  {
+   "url": "https://luma.com/wp-json/tribe/events/v1/events?per_page=10",
+   "status": "HTTPError",
+   "events": 0
+  },
+  {
+   "url": "https://luma.com/events/?ical=1",
+   "status": 200,
+   "events": 0,
+   "head": "<!DOCTYPE html><html class=\"theme-root\" lang=\"en\" translate=\"no\"><head><meta charSet=\"utf-8\" data-next-head=\"\"/><meta name=\"viewport\" content=\"width=device-width,height=device-height,initial-scale=1,maximum-scale=1,user-scalable=no,shrink-to-fit=no,viewport-fit=cover\" data-next-head=\"\"/><link rel=\"s"
+  },
+  {
+   "url": "https://luma.com/?ical=1",
+   "status": 200,
+   "events": 0,
+   "head": "<!DOCTYPE html><html class=\"theme-root\" lang=\"en\" translate=\"no\"><head><meta charSet=\"utf-8\" data-next-head=\"\"/><meta name=\"viewport\" content=\"width=device-width,height=device-height,initial-scale=1,maximum-scale=1,user-scalable=no,shrink-to-fit=no,viewport-fit=cover\" data-next-head=\"\"/><link rel=\"s"
+  }
+ ],
+ "pages": [
+  {
+   "url": "https://luma.com/thedinnertable_club",
+   "status": 200,
+   "final_url": "https://luma.com/thedinnertable_club",
+   "title": "The Dinner Table Club \u00b7 Events Calendar",
+   "dates": 0,
+   "jsonld": 13,
+   "jsonld_samples": [
+    {
+     "name": "The Dinner Table Club at Venice Steakhouse (Venice)",
+     "start": "2027-02-18T19:00:00.000-08:00",
+     "url": "https://luma.com/DinnerTableVeniceSteakhouse2"
+    },
+    {
+     "name": "The Dinner Table Club at Michael's Genuine (Design District)",
+     "start": "2027-02-04T19:00:00.000-05:00",
+     "url": "https://luma.com/uy2ziyj6"
+    },
+    {
+     "name": "The Dinner Table Club at Immigrant Food (Planet Word)",
+     "start": "2027-02-04T19:00:00.000-05:00",
+     "url": "https://luma.com/DinnerTableImmigrantFood3"
+    },
+    {
+     "name": "The Dinner Table Club at Ferdi Ristorante (West Village)",
+     "start": "2027-01-28T19:00:00.000-05:00",
+     "url": "https://luma.com/DinnerTableFerdi5"
+    },
+    {
+     "name": "The Dinner Table Club at Xuntos (Santa Monica)",
+     "start": "2027-01-07T19:00:00.000-08:00",
+     "url": "https://luma.com/DinnerTableXUNTOS2"
+    }
+   ],
+   "hints": [
+    "https://luma.com/apple-touch-icon.png",
+    "https://luma.com/thedinnertable_club",
+    "https://luma.com/pwa.webmanifest",
+    "https://luma.com/_next/static/chunks/0ovarg8hab9u0.css",
+    "https://luma.com/",
+    "https://luma.com/discover",
+    "https://luma.com/signin?next=%2Fthedinnertable_club",
+    "https://luma.com/thedinnertable_club?k=c",
+    "https://luma.com/thedinnertable_club/map?k=c",
+    "https://luma.com/DinnerTableMediumRare",
+    "https://luma.com/DinnerTableUrbaniTruffle2",
+    "https://luma.com/DinnerTablePizzana1",
+    "https://luma.com/DinnerTableLittleBasil",
+    "https://luma.com/DinnerTabledoma",
+    "https://luma.com/DinnerTableDAHLA",
+    "https://luma.com/DinnerTableAJAVinyards",
+    "https://luma.com/DinnerTableUnconventionalDiner2",
+    "https://luma.com/DinnerTableXUNTOS2",
+    "https://luma.com/DinnerTableFerdi5",
+    "https://luma.com/DinnerTableImmigrantFood3",
+    "https://luma.com/uy2ziyj6",
+    "https://luma.com/DinnerTableVeniceSteakhouse2"
+   ],
+   "iframes": [],
+   "event_links": [
+    {
+     "text": "Discover Events",
+     "url": "https://luma.com/discover"
+    }
+   ],
+   "platform": "",
+   "error": ""
+  },
+  {
+   "url": "https://luma.com/",
+   "status": 200,
+   "final_url": "https://luma.com/",
+   "title": "Luma",
+   "dates": 0,
+   "jsonld": 0,
+   "jsonld_samples": [],
+   "hints": [
+    "https://luma.com/favicon.ico",
+    "https://luma.com/apple-touch-icon.png",
+    "https://luma.com/",
+    "https://luma.com/?locale=af",
+    "https://luma.com/?locale=bg",
+    "https://luma.com/?locale=ca",
+    "https://luma.com/?locale=cs",
+    "https://luma.com/?locale=da",
+    "https://luma.com/?locale=de",
+    "https://luma.com/?locale=el",
+    "https://luma.com/?locale=en-AU",
+    "https://luma.com/?locale=en-CA",
+    "https://luma.com/?locale=en-GB",
+    "https://luma.com/?locale=en-IN",
+    "https://luma.com/?locale=en-NZ",
+    "https://luma.com/?locale=en-SG",
+    "https://luma.com/?locale=es",
+    "https://luma.com/?locale=es-ES",
+    "https://luma.com/?locale=et",
+    "https://luma.com/?locale=fi",
+    "https://luma.com/?locale=fr",
+    "https://luma.com/?locale=hi",
+    "https://luma.com/?locale=hr",
+    "https://luma.com/?locale=hu",
+    "https://luma.com/?locale=id"
+   ],
+   "iframes": [],
+   "event_links": [
+    {
+     "text": "Create Your First Event",
+     "url": "https://luma.com/create"
+    },
+    {
+     "text": "Discover Events",
+     "url": "https://luma.com/discover"
+    }
+   ],
+   "platform": "",
+   "error": ""
+  },
+  {
+   "url": "https://luma.com/discover",
+   "status": 200,
+   "final_url": "https://luma.com/discover",
+   "title": "Discover Events \u00b7 Luma",
+   "dates": 0,
+   "jsonld": 0,
+   "jsonld_samples": [],
+   "hints": [
+    "https://luma.com/favicon.ico",
+    "https://luma.com/apple-touch-icon.png",
+    "https://luma.com/discover",
+    "https://luma.com/discover?locale=af",
+    "https://luma.com/discover?locale=bg",
+    "https://luma.com/discover?locale=ca",
+    "https://luma.com/discover?locale=cs",
+    "https://luma.com/discover?locale=da",
+    "https://luma.com/discover?locale=de",
+    "https://luma.com/discover?locale=el",
+    "https://luma.com/discover?locale=en-AU",
+    "https://luma.com/discover?locale=en-CA",
+    "https://luma.com/discover?locale=en-GB",
+    "https://luma.com/discover?locale=en-IN",
+    "https://luma.com/discover?locale=en-NZ",
+    "https://luma.com/discover?locale=en-SG",
+    "https://luma.com/discover?locale=es",
+    "https://luma.com/discover?locale=es-ES",
+    "https://luma.com/discover?locale=et",
+    "https://luma.com/discover?locale=fi",
+    "https://luma.com/discover?locale=fr",
+    "https://luma.com/discover?locale=hi",
+    "https://luma.com/discover?locale=hr",
+    "https://luma.com/discover?locale=hu",
+    "https://luma.com/discover?locale=id"
+   ],
+   "iframes": [],
+   "event_links": [
+    {
+     "text": "Family 562  Events",
+     "url": "https://luma.com/family?k=t"
+    },
+    {
+     "text": "Books 645  Events",
+     "url": "https://luma.com/books?k=t"
+    },
+    {
+     "text": "Games 491  Events",
+     "url": "https://luma.com/games?k=t"
+    },
+    {
+     "text": "Tech 3K  Events",
+     "url": "https://luma.com/tech?k=t"
+    },
+    {
+     "text": "Food & Drink 528  Events",
+     "url": "https://luma.com/food?k=t"
+    },
+    {
+     "text": "AI 3K  Events",
+     "url": "https://luma.com/ai?k=t"
+    },
+    {
+     "text": "Running 556  Events",
+     "url": "https://luma.com/running?k=t"
+    },
+    {
+     "text": "Arts & Culture 3K  Events",
+     "url": "https://luma.com/arts?k=t"
+    },
+    {
+     "text": "Climate 439  Events",
+     "url": "https://luma.com/climate?k=t"
+    },
+    {
+     "text": "Fitness 1K  Events",
+     "url": "https://luma.com/fitness?k=t"
+    },
+    {
+     "text": "Wellness 892  Events",
+     "url": "https://luma.com/wellness?k=t"
+    },
+    {
+     "text": "Crypto 440  Events",
+     "url": "https://luma.com/crypto?k=t"
+    },
+    {
+     "text": "Follow South Park Commons SPC is a home for frontier technol",
+     "url": "https://luma.com/southparkcommons-events?k=c"
+    },
+    {
+     "text": "Follow Design Buddies Events for all creatives across SF/LA,",
+     "url": "https://luma.com/design?k=c"
+    },
+    {
+     "text": "Follow SpaceXSI Community SpaceXSI community events in 250+ ",
+     "url": "https://luma.com/spacexsi-community?k=c"
+    },
+    {
+     "text": "Atlanta 12 Events",
+     "url": "https://luma.com/atlanta?k=p"
+    },
+    {
+     "text": "Austin 11 Events",
+     "url": "https://luma.com/austin?k=p"
+    },
+    {
+     "text": "Boston 17 Events",
+     "url": "https://luma.com/boston?k=p"
+    },
+    {
+     "text": "Calgary 6 Events",
+     "url": "https://luma.com/calgary?k=p"
+    },
+    {
+     "text": "Chicago 15 Events",
+     "url": "https://luma.com/chicago?k=p"
+    },
+    {
+     "text": "Cincinnati 3 Events",
+     "url": "https://luma.com/cincinnati?k=p"
+    },
+    {
+     "text": "Dallas 9 Events",
+     "url": "https://luma.com/dallas?k=p"
+    },
+    {
+     "text": "Denver 14 Events",
+     "url": "https://luma.com/denver?k=p"
+    },
+    {
+     "text": "Detroit 4 Events",
+     "url": "https://luma.com/detroit?k=p"
+    },
+    {
+     "text": "Edmonton 7 Events",
+     "url": "https://luma.com/edmonton?k=p"
+    }
+   ],
+   "platform": "",
+   "error": ""
+  },
+  {
+   "url": "https://luma.com/create",
+   "status": 200,
+   "final_url": "https://luma.com/create",
+   "title": "Create Event \u00b7 Luma",
+   "dates": 0,
+   "jsonld": 0,
+   "jsonld_samples": [],
+   "hints": [
+    "https://luma.com/favicon.ico",
+    "https://luma.com/apple-touch-icon.png",
+    "https://luma.com/create",
+    "https://luma.com/pwa.webmanifest",
+    "https://luma.com/_next/static/chunks/0ovarg8hab9u0.css",
+    "https://luma.com/",
+    "https://luma.com/discover",
+    "https://luma.com/signin?next=%2Fcreate"
+   ],
+   "iframes": [],
+   "event_links": [
+    {
+     "text": "Discover Events",
+     "url": "https://luma.com/discover"
+    }
+   ],
+   "platform": "",
+   "error": ""
+  }
+ ],
+ "best_page": "https://luma.com/thedinnertable_club"
+}

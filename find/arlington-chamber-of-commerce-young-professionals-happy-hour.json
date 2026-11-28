@@ -1,0 +1,557 @@
+{
+ "row": "130",
+ "name": "Arlington Chamber of Commerce Young Professionals Happy Hour",
+ "seed_url": "https://nationallanding.org/do/young-professionals-happy-hour",
+ "programs": "",
+ "access": "",
+ "found": "2026-11-28 01:24Z",
+ "search_hits": [],
+ "search_error": "html.duckduckgo.com 0 hits (202, 15232b); www.bing.com 0 hits (200, 122697b); lite.duckduckgo.com 0 hits (202, 15232b)",
+ "probes": [
+  {
+   "url": "https://www.nationallanding.org/wp-json/tribe/events/v1/events?per_page=10",
+   "status": "HTTPError",
+   "events": 0
+  },
+  {
+   "url": "https://www.nationallanding.org/events/?ical=1",
+   "status": 200,
+   "events": 0,
+   "head": "<!DOCTYPE html>\n<html lang=\"en\" dir=\"ltr\" class=\"no-js\">\n    <head>\n                    \n\n<meta charset=\"utf-8\" />\n<meta\n    name=\"viewport\"\n    content=\"width=device-width, initial-scale=1.0, viewport-fit=cover\"\n/>\n<title>\n    Events in National Landing | Arlington, VA\n</title>\n<meta name=\"descript"
+  },
+  {
+   "url": "https://www.nationallanding.org/?ical=1",
+   "status": 200,
+   "events": 0,
+   "head": "<!DOCTYPE html>\n<html lang=\"en\" dir=\"ltr\" class=\"no-js\">\n    <head>\n                    \n\n<meta charset=\"utf-8\" />\n<meta\n    name=\"viewport\"\n    content=\"width=device-width, initial-scale=1.0, viewport-fit=cover\"\n/>\n<title>\n    National Landing | Urban Community in Arlington, VA\n</title>\n<meta name="
+  }
+ ],
+ "pages": [
+  {
+   "url": "https://nationallanding.org/do/young-professionals-happy-hour",
+   "status": 200,
+   "final_url": "https://www.nationallanding.org/events",
+   "title": "Events in National Landing | Arlington, VA",
+   "dates": 27,
+   "jsonld": 0,
+   "jsonld_samples": [],
+   "hints": [],
+   "iframes": [],
+   "event_links": [
+    {
+     "text": "The Lodge: December 5",
+     "url": "https://www.nationallanding.org/events/thelodge"
+    },
+    {
+     "text": "Food + Drink",
+     "url": "https://www.nationallanding.org/events?category=food-and-drink"
+    },
+    {
+     "text": "Arts + Entertainment",
+     "url": "https://www.nationallanding.org/events?category=arts-and-entertainment"
+    },
+    {
+     "text": "Family Friendly",
+     "url": "https://www.nationallanding.org/events?category=family-friendly"
+    },
+    {
+     "text": "Shopping",
+     "url": "https://www.nationallanding.org/events?category=shopping"
+    },
+    {
+     "text": "Classes + Workshops",
+     "url": "https://www.nationallanding.org/events?category=classes-and-workshops"
+    },
+    {
+     "text": "Networking",
+     "url": "https://www.nationallanding.org/events?category=networking"
+    },
+    {
+     "text": "Business + Innovation",
+     "url": "https://www.nationallanding.org/events?category=business-and-innovation"
+    },
+    {
+     "text": "Met Park",
+     "url": "https://www.nationallanding.org/events?category=met-park"
+    },
+    {
+     "text": "Water Park",
+     "url": "https://www.nationallanding.org/events?category=water-park"
+    },
+    {
+     "text": "All",
+     "url": "https://www.nationallanding.org/events?date=all"
+    },
+    {
+     "text": "Weekly events",
+     "url": "https://www.nationallanding.org/events?date=weekly"
+    },
+    {
+     "text": "Today",
+     "url": "https://www.nationallanding.org/events?date=today"
+    },
+    {
+     "text": "Tomorrow",
+     "url": "https://www.nationallanding.org/events?date=tomorrow"
+    },
+    {
+     "text": "Next 7 days",
+     "url": "https://www.nationallanding.org/events?date=next7days"
+    },
+    {
+     "text": "Black Friday Brunch @ Makers Union \u2192",
+     "url": "https://www.nationallanding.org/events/black-friday-brunch-makers-union"
+    },
+    {
+     "text": "$5 Weekly Friday Wine Classes \u2192",
+     "url": "https://www.nationallanding.org/events/5-weekly-friday-wine-classes-at-pentagon-city-wine-merchant/2026-11-27"
+    },
+    {
+     "text": "Friday Night Karaoke at Highline RxR \u2192",
+     "url": "https://www.nationallanding.org/events/friday-night-karaoke-2/2026-11-27"
+    },
+    {
+     "text": "Live Comedy Starring Dewayne White (Apple TV) \u2192",
+     "url": "https://www.nationallanding.org/events/live-comedy-starring-dewayne-white-apple-tv"
+    },
+    {
+     "text": "Saturday Night Comedy at Highline RxR \u2192",
+     "url": "https://www.nationallanding.org/events/saturday-night-comedy/2026-11-28"
+    },
+    {
+     "text": "Freddie's Follies Drag Show \u2192",
+     "url": "https://www.nationallanding.org/events/freddies-follies-drag-show/2026-11-28"
+    },
+    {
+     "text": "Freddie's Fabulous Buffet Brunch \u2192",
+     "url": "https://www.nationallanding.org/events/freddies-fabulous-buffet-brunch/2026-11-29"
+    },
+    {
+     "text": "Trivia Monday @ McNamara's Pub & Restaurant \u2192",
+     "url": "https://www.nationallanding.org/events/trivia-monday/2026-11-30"
+    },
+    {
+     "text": "Monday Night Trivia at Highline RxR \u2192",
+     "url": "https://www.nationallanding.org/events/monday-night-trivia-5/2026-11-30"
+    },
+    {
+     "text": "Young Explorers @ MoCA Arlington's Innovation Studio + Store",
+     "url": "https://www.nationallanding.org/events/young-explorers-moca-arlingtons-innovation-studio-store/2026-12-01"
+    }
+   ],
+   "platform": "",
+   "error": ""
+  },
+  {
+   "url": "https://www.nationallanding.org/",
+   "status": 200,
+   "final_url": "https://www.nationallanding.org/",
+   "title": "National Landing | Urban Community in Arlington, VA",
+   "dates": 1,
+   "jsonld": 0,
+   "jsonld_samples": [],
+   "hints": [],
+   "iframes": [],
+   "event_links": [
+    {
+     "text": "Events",
+     "url": "https://www.nationallanding.org/events"
+    },
+    {
+     "text": "Learn more",
+     "url": "https://www.nationallanding.org/events/thelodge"
+    },
+    {
+     "text": "Holiday Events",
+     "url": "https://www.nationallanding.org/guides/nala-day-specials/#events"
+    }
+   ],
+   "platform": "",
+   "error": ""
+  },
+  {
+   "url": "https://www.nationallanding.org/events/thelodge",
+   "status": 200,
+   "final_url": "https://www.nationallanding.org/events/thelodge",
+   "title": "The Lodge: Winter Festival | December 5, 2026 | Arlington, VA | National Landing",
+   "dates": 4,
+   "jsonld": 0,
+   "jsonld_samples": [],
+   "hints": [
+    "https://www.eventbrite.com/e/the-lodge-national-landings-winter-festival-tickets-2003631710382?aff=oddtdtcreator",
+    "https://www.eventbrite.com/e/the-lodge-national-landing-tickets-1872667782749?utm-campaign=social&utm-content=attendeeshare&utm-medium=discovery&utm-term=listing&utm-source=cp&aff=ebdsshcopyurl"
+   ],
+   "iframes": [],
+   "event_links": [
+    {
+     "text": "Events",
+     "url": "https://www.nationallanding.org/events"
+    },
+    {
+     "text": "View event FAQs",
+     "url": "https://www.nationallanding.org/events/thelodge/#faqs"
+    },
+    {
+     "text": "Free to RSVP",
+     "url": "https://www.eventbrite.com/e/the-lodge-national-landings-winter-festival-tickets-2003631710382?aff=oddtdtcreator"
+    },
+    {
+     "text": "Go to item: The Yellow Door Concert Series Sextet",
+     "url": "https://yellowdoorconcertseries.com/"
+    },
+    {
+     "text": "RSVP\u00a0via Eventbrite",
+     "url": "https://www.eventbrite.com/e/the-lodge-national-landing-tickets-1872667782749?utm-campaign=social&utm-content=attendeeshare&utm-medium=discovery&utm-term=listing&utm-source=cp&aff=ebdsshcopyurl"
+    }
+   ],
+   "platform": "eventbrite",
+   "error": ""
+  },
+  {
+   "url": "https://www.nationallanding.org/events?category=food-and-drink",
+   "status": 200,
+   "final_url": "https://www.nationallanding.org/events?category=food-and-drink",
+   "title": "Events in National Landing | Arlington, VA",
+   "dates": 27,
+   "jsonld": 0,
+   "jsonld_samples": [],
+   "hints": [],
+   "iframes": [],
+   "event_links": [
+    {
+     "text": "Events",
+     "url": "https://www.nationallanding.org/events"
+    },
+    {
+     "text": "The Lodge: December 5",
+     "url": "https://www.nationallanding.org/events/thelodge"
+    },
+    {
+     "text": "Arts + Entertainment",
+     "url": "https://www.nationallanding.org/events?category=arts-and-entertainment"
+    },
+    {
+     "text": "Family Friendly",
+     "url": "https://www.nationallanding.org/events?category=family-friendly"
+    },
+    {
+     "text": "Shopping",
+     "url": "https://www.nationallanding.org/events?category=shopping"
+    },
+    {
+     "text": "Classes + Workshops",
+     "url": "https://www.nationallanding.org/events?category=classes-and-workshops"
+    },
+    {
+     "text": "Networking",
+     "url": "https://www.nationallanding.org/events?category=networking"
+    },
+    {
+     "text": "Business + Innovation",
+     "url": "https://www.nationallanding.org/events?category=business-and-innovation"
+    },
+    {
+     "text": "Met Park",
+     "url": "https://www.nationallanding.org/events?category=met-park"
+    },
+    {
+     "text": "Water Park",
+     "url": "https://www.nationallanding.org/events?category=water-park"
+    },
+    {
+     "text": "All",
+     "url": "https://www.nationallanding.org/events?category=food-and-drink&date=all"
+    },
+    {
+     "text": "Weekly events",
+     "url": "https://www.nationallanding.org/events?category=food-and-drink&date=weekly"
+    },
+    {
+     "text": "Today",
+     "url": "https://www.nationallanding.org/events?category=food-and-drink&date=today"
+    },
+    {
+     "text": "Tomorrow",
+     "url": "https://www.nationallanding.org/events?category=food-and-drink&date=tomorrow"
+    },
+    {
+     "text": "Next 7 days",
+     "url": "https://www.nationallanding.org/events?category=food-and-drink&date=next7days"
+    },
+    {
+     "text": "Black Friday Brunch @ Makers Union \u2192",
+     "url": "https://www.nationallanding.org/events/black-friday-brunch-makers-union"
+    },
+    {
+     "text": "$5 Weekly Friday Wine Classes \u2192",
+     "url": "https://www.nationallanding.org/events/5-weekly-friday-wine-classes-at-pentagon-city-wine-merchant/2026-11-27"
+    },
+    {
+     "text": "Friday Night Karaoke at Highline RxR \u2192",
+     "url": "https://www.nationallanding.org/events/friday-night-karaoke-2/2026-11-27"
+    },
+    {
+     "text": "Live Comedy Starring Dewayne White (Apple TV) \u2192",
+     "url": "https://www.nationallanding.org/events/live-comedy-starring-dewayne-white-apple-tv"
+    },
+    {
+     "text": "Saturday Night Comedy at Highline RxR \u2192",
+     "url": "https://www.nationallanding.org/events/saturday-night-comedy/2026-11-28"
+    },
+    {
+     "text": "Freddie's Follies Drag Show \u2192",
+     "url": "https://www.nationallanding.org/events/freddies-follies-drag-show/2026-11-28"
+    },
+    {
+     "text": "Freddie's Fabulous Buffet Brunch \u2192",
+     "url": "https://www.nationallanding.org/events/freddies-fabulous-buffet-brunch/2026-11-29"
+    },
+    {
+     "text": "Trivia Monday @ McNamara's Pub & Restaurant \u2192",
+     "url": "https://www.nationallanding.org/events/trivia-monday/2026-11-30"
+    },
+    {
+     "text": "Tuesday Trivia Night @ Crystal City Sports Pub \u2192",
+     "url": "https://www.nationallanding.org/events/tuesday-trivia-night-crystal-city-sports/2026-12-01"
+    },
+    {
+     "text": "Tuesday Night Trivia at Highline RxR \u2192",
+     "url": "https://www.nationallanding.org/events/tuesday-night-trivia/2026-12-01"
+    }
+   ],
+   "platform": "",
+   "error": ""
+  },
+  {
+   "url": "https://www.nationallanding.org/events?category=arts-and-entertainment",
+   "status": 200,
+   "final_url": "https://www.nationallanding.org/events?category=arts-and-entertainment",
+   "title": "Events in National Landing | Arlington, VA",
+   "dates": 27,
+   "jsonld": 0,
+   "jsonld_samples": [],
+   "hints": [],
+   "iframes": [],
+   "event_links": [
+    {
+     "text": "Events",
+     "url": "https://www.nationallanding.org/events"
+    },
+    {
+     "text": "The Lodge: December 5",
+     "url": "https://www.nationallanding.org/events/thelodge"
+    },
+    {
+     "text": "Food + Drink",
+     "url": "https://www.nationallanding.org/events?category=food-and-drink"
+    },
+    {
+     "text": "Family Friendly",
+     "url": "https://www.nationallanding.org/events?category=family-friendly"
+    },
+    {
+     "text": "Shopping",
+     "url": "https://www.nationallanding.org/events?category=shopping"
+    },
+    {
+     "text": "Classes + Workshops",
+     "url": "https://www.nationallanding.org/events?category=classes-and-workshops"
+    },
+    {
+     "text": "Networking",
+     "url": "https://www.nationallanding.org/events?category=networking"
+    },
+    {
+     "text": "Business + Innovation",
+     "url": "https://www.nationallanding.org/events?category=business-and-innovation"
+    },
+    {
+     "text": "Met Park",
+     "url": "https://www.nationallanding.org/events?category=met-park"
+    },
+    {
+     "text": "Water Park",
+     "url": "https://www.nationallanding.org/events?category=water-park"
+    },
+    {
+     "text": "All",
+     "url": "https://www.nationallanding.org/events?category=arts-and-entertainment&date=all"
+    },
+    {
+     "text": "Weekly events",
+     "url": "https://www.nationallanding.org/events?category=arts-and-entertainment&date=weekly"
+    },
+    {
+     "text": "Today",
+     "url": "https://www.nationallanding.org/events?category=arts-and-entertainment&date=today"
+    },
+    {
+     "text": "Tomorrow",
+     "url": "https://www.nationallanding.org/events?category=arts-and-entertainment&date=tomorrow"
+    },
+    {
+     "text": "Next 7 days",
+     "url": "https://www.nationallanding.org/events?category=arts-and-entertainment&date=next7days"
+    },
+    {
+     "text": "Friday Night Karaoke at Highline RxR \u2192",
+     "url": "https://www.nationallanding.org/events/friday-night-karaoke-2/2026-11-27"
+    },
+    {
+     "text": "Live Comedy Starring Dewayne White (Apple TV) \u2192",
+     "url": "https://www.nationallanding.org/events/live-comedy-starring-dewayne-white-apple-tv"
+    },
+    {
+     "text": "Saturday Night Comedy at Highline RxR \u2192",
+     "url": "https://www.nationallanding.org/events/saturday-night-comedy/2026-11-28"
+    },
+    {
+     "text": "Freddie's Follies Drag Show \u2192",
+     "url": "https://www.nationallanding.org/events/freddies-follies-drag-show/2026-11-28"
+    },
+    {
+     "text": "Monday Night Trivia at Highline RxR \u2192",
+     "url": "https://www.nationallanding.org/events/monday-night-trivia-5/2026-11-30"
+    },
+    {
+     "text": "Tuesday Night Trivia at Highline RxR \u2192",
+     "url": "https://www.nationallanding.org/events/tuesday-night-trivia/2026-12-01"
+    },
+    {
+     "text": "MoCA on the Move: Handcrafted Holidays - Drip\u00a0Paint a Festiv",
+     "url": "https://www.nationallanding.org/events/moca-on-the-move-handcrafted-holidays-2-2-2"
+    },
+    {
+     "text": "Friday Night Karaoke at Highline RxR \u2192",
+     "url": "https://www.nationallanding.org/events/friday-night-karaoke-2/2026-12-04"
+    },
+    {
+     "text": "The Lodge: National Landing\u2019s Winter Festival \u2192",
+     "url": "https://www.nationallanding.org/events/the-lodge"
+    },
+    {
+     "text": "Holiday Movie Parties at Alamo Drafthouse: Elf \u2192",
+     "url": "https://www.nationallanding.org/events/holiday-movie-parties-at-alamo-drafthouse-elf"
+    }
+   ],
+   "platform": "",
+   "error": ""
+  },
+  {
+   "url": "https://www.nationallanding.org/events?category=family-friendly",
+   "status": 200,
+   "final_url": "https://www.nationallanding.org/events?category=family-friendly",
+   "title": "Events in National Landing | Arlington, VA",
+   "dates": 23,
+   "jsonld": 0,
+   "jsonld_samples": [],
+   "hints": [],
+   "iframes": [],
+   "event_links": [
+    {
+     "text": "Events",
+     "url": "https://www.nationallanding.org/events"
+    },
+    {
+     "text": "The Lodge: December 5",
+     "url": "https://www.nationallanding.org/events/thelodge"
+    },
+    {
+     "text": "Food + Drink",
+     "url": "https://www.nationallanding.org/events?category=food-and-drink"
+    },
+    {
+     "text": "Arts + Entertainment",
+     "url": "https://www.nationallanding.org/events?category=arts-and-entertainment"
+    },
+    {
+     "text": "Shopping",
+     "url": "https://www.nationallanding.org/events?category=shopping"
+    },
+    {
+     "text": "Classes + Workshops",
+     "url": "https://www.nationallanding.org/events?category=classes-and-workshops"
+    },
+    {
+     "text": "Networking",
+     "url": "https://www.nationallanding.org/events?category=networking"
+    },
+    {
+     "text": "Business + Innovation",
+     "url": "https://www.nationallanding.org/events?category=business-and-innovation"
+    },
+    {
+     "text": "Met Park",
+     "url": "https://www.nationallanding.org/events?category=met-park"
+    },
+    {
+     "text": "Water Park",
+     "url": "https://www.nationallanding.org/events?category=water-park"
+    },
+    {
+     "text": "All",
+     "url": "https://www.nationallanding.org/events?category=family-friendly&date=all"
+    },
+    {
+     "text": "Weekly events",
+     "url": "https://www.nationallanding.org/events?category=family-friendly&date=weekly"
+    },
+    {
+     "text": "Today",
+     "url": "https://www.nationallanding.org/events?category=family-friendly&date=today"
+    },
+    {
+     "text": "Tomorrow",
+     "url": "https://www.nationallanding.org/events?category=family-friendly&date=tomorrow"
+    },
+    {
+     "text": "Next 7 days",
+     "url": "https://www.nationallanding.org/events?category=family-friendly&date=next7days"
+    },
+    {
+     "text": "Young Explorers @ MoCA Arlington's Innovation Studio + Store",
+     "url": "https://www.nationallanding.org/events/young-explorers-moca-arlingtons-innovation-studio-store/2026-12-01"
+    },
+    {
+     "text": "MoCA on the Move: Handcrafted Holidays - Drip\u00a0Paint a Festiv",
+     "url": "https://www.nationallanding.org/events/moca-on-the-move-handcrafted-holidays-2-2-2"
+    },
+    {
+     "text": "The Lodge: National Landing\u2019s Winter Festival \u2192",
+     "url": "https://www.nationallanding.org/events/the-lodge"
+    },
+    {
+     "text": "Holiday Movie Parties at Alamo Drafthouse: Elf \u2192",
+     "url": "https://www.nationallanding.org/events/holiday-movie-parties-at-alamo-drafthouse-elf"
+    },
+    {
+     "text": "Holiday Movie Parties at Alamo Drafthouse: National Lampoon'",
+     "url": "https://www.nationallanding.org/events/holiday-movie-parties-at-alamo-drafthouse-national-lampoons-christmas-vacation"
+    },
+    {
+     "text": "Young Explorers @ MoCA Arlington's Innovation Studio + Store",
+     "url": "https://www.nationallanding.org/events/young-explorers-moca-arlingtons-innovation-studio-store/2026-12-08"
+    },
+    {
+     "text": "Plants in the Park - Holiday Ornament \u2192",
+     "url": "https://www.nationallanding.org/events/plants-in-the-park---holiday-ornament"
+    },
+    {
+     "text": "MoCA on the Move: Handcrafted Holidays - Printed Holiday Car",
+     "url": "https://www.nationallanding.org/events/moca-on-the-move-handcrafted-holidays-2-2-2-2"
+    },
+    {
+     "text": "Miracle on 23rd Street \u2192",
+     "url": "https://www.nationallanding.org/events/miracle-on-23rd-street"
+    },
+    {
+     "text": "Holiday Movie Parties at Alamo Drafthouse: The Grinch \u2192",
+     "url": "https://www.nationallanding.org/events/holiday-movie-parties-at-alamo-drafthouse-the-grinch"
+    }
+   ],
+   "platform": "",
+   "error": ""
+  }
+ ],
+ "best_page": "https://nationallanding.org/do/young-professionals-happy-hour"
+}

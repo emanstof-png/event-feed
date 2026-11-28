@@ -1,0 +1,266 @@
+{
+ "row": "143",
+ "name": "Olli DC",
+ "seed_url": "https://olli-dc.org/recent_lectures",
+ "programs": "",
+ "access": "",
+ "found": "2026-11-28 01:26Z",
+ "search_hits": [],
+ "search_error": "html.duckduckgo.com 0 hits (202, 15138b); www.bing.com 0 hits (200, 118009b); lite.duckduckgo.com 0 hits (202, 15138b)",
+ "probes": [
+  {
+   "url": "https://www.olli-dc.org/wp-json/tribe/events/v1/events?per_page=10",
+   "status": "HTTPError",
+   "events": 0
+  },
+  {
+   "url": "https://www.olli-dc.org/events/?ical=1",
+   "status": 200,
+   "events": 0,
+   "head": "\r\n\r\n<!DOCTYPE html>\r\n<html>\r\n<head>\r\n    <!-- Google tag (gtag.js) -->\r\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=G-19FQ799901\"></script>\r\n<script>\r\n    window.dataLayer = window.dataLayer || [];\r\n    function gtag() { dataLayer.push(arguments); }\r\n    gtag('js', new Date());\r\n\r"
+  },
+  {
+   "url": "https://www.olli-dc.org/?ical=1",
+   "status": 200,
+   "events": 0,
+   "head": "\r\n\r\n\r\n<!DOCTYPE html>\r\n<html>\r\n<head>\r\n    <!-- Google tag (gtag.js) -->\r\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=G-19FQ799901\"></script>\r\n<script>\r\n    window.dataLayer = window.dataLayer || [];\r\n    function gtag() { dataLayer.push(arguments); }\r\n    gtag('js', new Date());\r"
+  }
+ ],
+ "pages": [
+  {
+   "url": "https://olli-dc.org/recent_lectures",
+   "status": 200,
+   "final_url": "https://www.olli-dc.org/recent_lectures",
+   "title": "OLLI | Recent Lectures",
+   "dates": 1,
+   "jsonld": 0,
+   "jsonld_samples": [],
+   "hints": [],
+   "iframes": [],
+   "event_links": [
+    {
+     "text": "Events Calendar",
+     "url": "https://www.olli-dc.org/events"
+    },
+    {
+     "text": "Events Overview",
+     "url": "https://www.olli-dc.org/events_overview"
+    },
+    {
+     "text": "Lecture Series Overview",
+     "url": "https://www.olli-dc.org/lecture_series_overview"
+    },
+    {
+     "text": "Special Events Recordings",
+     "url": "https://www.olli-dc.org/special_events_recordings"
+    }
+   ],
+   "platform": "",
+   "error": ""
+  },
+  {
+   "url": "https://www.olli-dc.org/",
+   "status": 200,
+   "final_url": "https://www.olli-dc.org/",
+   "title": "OLLI at American University",
+   "dates": 2,
+   "jsonld": 0,
+   "jsonld_samples": [],
+   "hints": [],
+   "iframes": [],
+   "event_links": [
+    {
+     "text": "Events Calendar",
+     "url": "https://www.olli-dc.org/events"
+    },
+    {
+     "text": "Events Overview",
+     "url": "https://www.olli-dc.org/events_overview"
+    },
+    {
+     "text": "Lecture Series Overview",
+     "url": "https://www.olli-dc.org/lecture_series_overview"
+    },
+    {
+     "text": "Special Events Recordings",
+     "url": "https://www.olli-dc.org/special_events_recordings"
+    },
+    {
+     "text": "Register.",
+     "url": "https://www.olli-dc.org/events/2026_holiday_party"
+    },
+    {
+     "text": "Details",
+     "url": "https://www.olli-dc.org/events/FallLecture1204"
+    },
+    {
+     "text": "Details",
+     "url": "https://www.olli-dc.org/events/happyhour1204"
+    },
+    {
+     "text": "Details",
+     "url": "https://www.olli-dc.org/events/SGLluncheon120826"
+    },
+    {
+     "text": "Details",
+     "url": "https://www.olli-dc.org/events/hillwoodmansiontour12102026"
+    }
+   ],
+   "platform": "",
+   "error": ""
+  },
+  {
+   "url": "https://www.olli-dc.org/events",
+   "status": 200,
+   "final_url": "https://www.olli-dc.org/events",
+   "title": "Events Calendar",
+   "dates": 14,
+   "jsonld": 0,
+   "jsonld_samples": [],
+   "hints": [],
+   "iframes": [],
+   "event_links": [
+    {
+     "text": "Events Calendar",
+     "url": "https://www.olli-dc.org/events"
+    },
+    {
+     "text": "Events Overview",
+     "url": "https://www.olli-dc.org/events_overview"
+    },
+    {
+     "text": "Lecture Series Overview",
+     "url": "https://www.olli-dc.org/lecture_series_overview"
+    },
+    {
+     "text": "Special Events Recordings",
+     "url": "https://www.olli-dc.org/special_events_recordings"
+    },
+    {
+     "text": "2026 Holiday Party",
+     "url": "https://www.olli-dc.org/events/2026_holiday_party"
+    },
+    {
+     "text": "Fall Lecture: Rebecca Hamilton, White Collar War Criminals",
+     "url": "https://www.olli-dc.org/events/FallLecture1204"
+    },
+    {
+     "text": "Happy Hour",
+     "url": "https://www.olli-dc.org/events/happyhour1204"
+    },
+    {
+     "text": "Study Group Leader Appreciation Luncheon",
+     "url": "https://www.olli-dc.org/events/SGLluncheon120826"
+    },
+    {
+     "text": "TOUR: Hillwood Mansion in Holiday Splendor",
+     "url": "https://www.olli-dc.org/events/hillwoodmansiontour12102026"
+    },
+    {
+     "text": "Serendipity Talk: The House that Tut Built: The Grand Egypti",
+     "url": "https://www.olli-dc.org/events/030827Serendipity"
+    },
+    {
+     "text": "Serendipity Talk: USS Houston POW Experience",
+     "url": "https://www.olli-dc.org/events/032227Serendipity"
+    }
+   ],
+   "platform": "",
+   "error": ""
+  },
+  {
+   "url": "https://www.olli-dc.org/events_overview",
+   "status": 200,
+   "final_url": "https://www.olli-dc.org/events_overview",
+   "title": "OLLI | Events Overview",
+   "dates": 0,
+   "jsonld": 0,
+   "jsonld_samples": [],
+   "hints": [],
+   "iframes": [],
+   "event_links": [
+    {
+     "text": "Events Calendar",
+     "url": "https://www.olli-dc.org/events"
+    },
+    {
+     "text": "Events Overview",
+     "url": "https://www.olli-dc.org/events_overview"
+    },
+    {
+     "text": "Lecture Series Overview",
+     "url": "https://www.olli-dc.org/lecture_series_overview"
+    },
+    {
+     "text": "Special Events Recordings",
+     "url": "https://www.olli-dc.org/special_events_recordings"
+    }
+   ],
+   "platform": "",
+   "error": ""
+  },
+  {
+   "url": "https://www.olli-dc.org/lecture_series_overview",
+   "status": 200,
+   "final_url": "https://www.olli-dc.org/lecture_series_overview",
+   "title": "OLLI | Lecture Series Overview",
+   "dates": 0,
+   "jsonld": 0,
+   "jsonld_samples": [],
+   "hints": [],
+   "iframes": [],
+   "event_links": [
+    {
+     "text": "Events Calendar",
+     "url": "https://www.olli-dc.org/events"
+    },
+    {
+     "text": "Events Overview",
+     "url": "https://www.olli-dc.org/events_overview"
+    },
+    {
+     "text": "Lecture Series Overview",
+     "url": "https://www.olli-dc.org/lecture_series_overview"
+    },
+    {
+     "text": "Special Events Recordings",
+     "url": "https://www.olli-dc.org/special_events_recordings"
+    }
+   ],
+   "platform": "",
+   "error": ""
+  },
+  {
+   "url": "https://www.olli-dc.org/special_events_recordings",
+   "status": 200,
+   "final_url": "https://www.olli-dc.org/MyAccount/LogOn?returnURL=%2Fspecial_events_recordings%3F&membersOnlyPage=Y",
+   "title": "OLLI | Log On",
+   "dates": 0,
+   "jsonld": 0,
+   "jsonld_samples": [],
+   "hints": [],
+   "iframes": [],
+   "event_links": [
+    {
+     "text": "Events Calendar",
+     "url": "https://www.olli-dc.org/events"
+    },
+    {
+     "text": "Events Overview",
+     "url": "https://www.olli-dc.org/events_overview"
+    },
+    {
+     "text": "Lecture Series Overview",
+     "url": "https://www.olli-dc.org/lecture_series_overview"
+    },
+    {
+     "text": "Special Events Recordings",
+     "url": "https://www.olli-dc.org/special_events_recordings"
+    }
+   ],
+   "platform": "",
+   "error": ""
+  }
+ ],
+ "best_page": "https://www.olli-dc.org/events"
+}
