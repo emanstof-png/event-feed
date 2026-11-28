@@ -1,0 +1,171 @@
+list,row,name,method,saved_file,status,chars,window_date_mentions,feed_rows,flags
+main,2,GatherDC,api,,,,0,1,OK
+main,3,EntryPointDC (Edlavitch DCJCC),ical,,,,0,0,OK
+main,4,Moishe House DC (Columbia Heights),html,raw_samples/moishe-house-dc-columbia-heights.txt,200,3456,0,0,OK
+main,6,Sixth & I,api,browser_samples/sixth-i.txt,200,32155,3,0,POSSIBLE MISS
+main,7,2239 (Washington Hebrew Congregation),api,browser_samples/2239-washington-hebrew-congregation.txt,200,49796,11,6,OK
+main,8,Reva (Adas Israel),html,raw_samples/reva-adas-israel.txt,200,14078,1,0,POSSIBLE MISS
+main,9,Chabad Young Professionals DC,browser,browser_samples/chabad-young-professionals-dc.txt,200,5828,2,1,OK
+main,10,Next Gen (Jewish Federation of Greater Washington),ical,,,,0,4,OK
+main,11,Repair the World,browser,browser_samples/repair-the-world.txt,200,51084,2,0,POSSIBLE MISS
+main,12,Bhakti Yoga DC,recurring,,,,0,0,OK
+main,13,Ecstatic Dance DC,recurring,,,,0,0,OK
+main,14,Eaton Wellness,xhr,browser_samples/eaton-wellness.txt,200,9382,0,1,OK
+main,15,Soul Fire Experiences / Ecstatic Dance Arlington,browser,browser_samples/soul-fire-experiences-ecstatic-dance-arlington.txt,200,119,0,0,OK
+main,16,The Dance with Ann Kite,html,raw_samples/the-dance-with-ann-kite.txt,200,1028,0,0,OK
+main,17,Sun & Moon Yoga Studio,html,raw_samples/sun-moon-yoga-studio.txt,200,4814,4,1,POSSIBLE UNDERCOUNT
+main,18,Flow Yoga Center,html,raw_samples/flow-yoga-center.txt,200,6573,0,0,OK
+main,19,Kadampa Meditation Center DC,html,raw_samples/kadampa-meditation-center-dc.txt,200,1508,0,2,OK
+main,20,Yoga District,browser,browser_samples/yoga-district.txt,200,31287,4,68,OK
+main,21,National Museum of Women in the Arts,browser,browser_samples/national-museum-of-women-in-the-arts.txt,200,3864,8,2,POSSIBLE UNDERCOUNT
+main,22,Authentic Relating DC,ical,,,,0,1,OK
+main,24,Awarehouse,browser,browser_samples/awarehouse.txt,200,1661,0,0,OK
+main,25,DC Contact Improv,recurring,,,,0,1,OK
+main,26,ONIMA Breathwork,browser,browser_samples/onima-breathwork.txt,200,3974,0,0,OK
+main,27,Blueberry Gardens Healing Center,ical,,,,0,0,OK
+main,28,Art of Living DC Center (events),browser,browser_samples/art-of-living-dc-center-events.txt,200,303,0,0,OK
+main,29,Insight Meditation Community of Washington (IMCW),browser,browser_samples/insight-meditation-community-of-washington-imcw.txt,200,9204,0,0,OK
+main,30,The Center for Mindful Living,recurring,,,,0,1,OK
+main,31,The Mindfulness Center,browser,browser_samples/the-mindfulness-center.txt,200,9917,0,0,OK
+main,32,Satchidananda Ashram-Yogaville,ical,,,,0,0,OK
+main,33,Georgetown University (university-wide),api,,,,0,0,OK
+main,34,Georgetown School of Foreign Service,api,,,,0,0,OK
+main,35,Georgetown Institute of Politics and Public Service,ical,,,,0,0,OK
+main,36,Georgetown Department of Government,api,,,,0,0,OK
+main,37,George Washington University (university-wide),api,,,,0,17,OK
+main,38,GW Elliott School of International Affairs,ical,,,,0,0,OK
+main,39,American University (university-wide),html,raw_samples/american-university-university-wide.txt,200,6813,1,0,POSSIBLE MISS
+main,40,American University College of Arts and Sciences,stealth,browser_samples/american-university-college-of-arts-and-sciences.txt,None,0,0,0,BLOCKED
+main,41,"University of Maryland, College Park",html,raw_samples/university-of-maryland-college-park.txt,200,4684,1,0,POSSIBLE MISS
+main,42,Johns Hopkins Bloomberg Center DC,html,raw_samples/johns-hopkins-bloomberg-center-dc.txt,200,4687,0,0,OK
+main,43,Japan Information & Culture Center (Embassy of Japan),html,raw_samples/japan-information-culture-center-embassy-of-japan.txt,200,8048,0,0,OK
+main,44,Goethe-Institut Washington,browser,browser_samples/goethe-institut-washington.txt,403,61,0,0,BLOCKED
+main,45,Alliance Francaise of Washington DC,html,raw_samples/alliance-francaise-of-washington-dc.txt,200,13946,0,0,OK
+main,46,Italian Cultural Institute of Washington,html,raw_samples/italian-cultural-institute-of-washington.txt,200,4983,0,0,OK
+main,47,Austrian Cultural Forum Washington,html,raw_samples/austrian-cultural-forum-washington.txt,200,18368,0,0,OK
+main,48,Mexican Cultural Institute,xhr,browser_samples/mexican-cultural-institute.txt,200,5301,0,0,OK
+main,49,La Maison Francaise (Embassy of France),ical,,,,0,0,OK
+main,50,SPAIN arts & culture (Washington),rss,raw_samples/spain-arts-culture-washington.txt,25,16414,0,0,OK
+main,52,Embassy of the Czech Republic (cultural events),html,raw_samples/embassy-of-the-czech-republic-cultural-events.txt,200,3773,0,0,OK
+main,53,Socrates Cafe Rockville,ical,,,,0,1,OK
+main,54,Practical Philosophy Club (Washington DC),ical,,,,0,0,OK
+main,55,Effective Altruism DC,ical,,,,0,0,OK
+main,56,LessWrong community events,html,raw_samples/lesswrong-community-events.txt,200,1102,0,1,OK
+main,57,Interintellect,xhr,browser_samples/interintellect.txt,200,4713,0,0,OK
+main,58,Braver Angels DC Alliance,ical,,,,0,0,OK
+main,59,Profs and Pints (Washington DC),ical,,,,0,0,OK
+main,60,Hill Center DC,html,raw_samples/hill-center-dc.txt,200,76269,20,8,OK
+main,61,Brookings Institution,html,raw_samples/brookings-institution.txt,200,6555,0,0,OK
+main,62,CSIS,html,raw_samples/csis.txt,200,10480,0,0,OK
+main,63,Carnegie Endowment for International Peace,html,raw_samples/carnegie-endowment-for-international-peace.txt,200,974,0,0,OK
+main,64,Atlantic Council,html,raw_samples/atlantic-council.txt,200,15899,0,0,OK
+main,65,Stimson Center,html,raw_samples/stimson-center.txt,200,5470,0,0,OK
+main,66,New America,html,raw_samples/new-america.txt,200,6834,0,0,OK
+main,67,CNAS,html,raw_samples/cnas.txt,200,9204,0,0,OK
+main,68,Cato Institute,html,raw_samples/cato-institute.txt,200,6096,0,0,OK
+main,69,American Enterprise Institute,stealth,browser_samples/american-enterprise-institute.txt,None,0,0,0,BLOCKED
+main,70,Hudson Institute,html,raw_samples/hudson-institute.txt,200,18790,0,0,OK
+main,71,DC Policy Events (aggregator),api,,,,0,0,OK
+main,72,Politics and Prose,stealth,browser_samples/politics-and-prose.txt,200,42901,0,0,OK
+main,73,Lost City Books,stealth,browser_samples/lost-city-books.txt,200,8685,0,0,OK
+main,74,Kramers,browser,browser_samples/kramers.txt,200,17710,0,0,OK
+main,75,East City Bookshop,browser,browser_samples/east-city-bookshop.txt,200,1735,0,0,OK
+main,76,People's Book (Takoma Park),browser,browser_samples/people-s-book-takoma-park.txt,200,60000,0,0,TRUNCATED
+main,77,Loyalty Bookstores (book clubs),stealth,browser_samples/loyalty-bookstores-book-clubs.txt,None,0,0,0,BLOCKED
+main,78,Solid State Books: Reading the City,html,raw_samples/solid-state-books-reading-the-city.txt,200,1971,0,0,OK
+main,79,Folger Shakespeare Library,html,raw_samples/folger-shakespeare-library.txt,200,22379,5,5,OK
+main,80,The Writer's Center (Bethesda),html,raw_samples/the-writer-s-center-bethesda.txt,200,15113,1,0,POSSIBLE MISS
+main,81,DC Public Library: DC Reads,xhr,browser_samples/dc-public-library-dc-reads.txt,200,60000,0,5,TRUNCATED
+main,82,DC Central Kitchen,html,raw_samples/dc-central-kitchen.txt,200,3312,0,0,OK
+main,84,Martha's Table,browser,browser_samples/martha-s-table.txt,200,33663,0,0,OK
+main,85,SOME (So Others Might Eat),browser,browser_samples/some-so-others-might-eat.txt,200,1136,0,0,OK
+main,86,Volunteer Arlington,browser,browser_samples/volunteer-arlington.txt,200,60000,2,5,TRUNCATED
+main,87,Volunteer Alexandria,html,raw_samples/volunteer-alexandria.txt,200,4108,0,0,OK
+main,88,Rock Creek Conservancy,xhr,browser_samples/rock-creek-conservancy.txt,200,19806,36,5,POSSIBLE UNDERCOUNT
+main,89,Casey Trees,ical,,,,0,0,OK
+main,90,Anacostia Watershed Society,api,,,,0,0,OK
+main,91,Capital Area Food Bank,xhr,browser_samples/capital-area-food-bank.txt,200,11310,0,1,OK
+main,92,HacDC,ical,,,,0,0,OK
+main,93,Nova Labs,rss,raw_samples/nova-labs.txt,140,69881,8,4,OK
+main,94,Data Science DC,browser,browser_samples/data-science-dc.txt,200,6592,1,0,POSSIBLE MISS
+main,95,Data Community DC,ical,,,,0,0,OK
+main,97,DC Python,browser,browser_samples/dc-python.txt,200,4883,1,0,POSSIBLE MISS
+main,98,PSW Science,ical,,,,0,0,OK
+main,99,National Capital Astronomers,html,raw_samples/national-capital-astronomers.txt,200,9545,0,0,OK
+main,100,Northern Virginia Astronomy Club (NOVAC),stealth,browser_samples/northern-virginia-astronomy-club-novac.txt,200,3013,0,0,OK
+main,101,Carnegie Science,stealth,browser_samples/carnegie-science.txt,200,17174,0,0,OK
+main,102,Labyrinth Games & Puzzles,browser,browser_samples/labyrinth-games-puzzles.txt,200,13601,0,3,OK
+main,103,Game Kastle (College Park),ical,,,,0,9,OK
+main,104,Victory Comics,ical,browser_samples/victory-comics.txt,200,17396,0,5,OK
+main,105,Games & Comics Pair O' Dice (Fairfax),ical,,,,0,6,OK
+main,106,Fantom Comics,html,raw_samples/fantom-comics.txt,200,6906,8,2,POSSIBLE UNDERCOUNT
+main,107,Break My Game,recurring,,,,0,0,OK
+main,108,Arlington Chess Club,browser,browser_samples/arlington-chess-club.txt,404,190,0,0,BLOCKED
+main,109,Beer & Board Games,ical,,,,0,1,OK
+main,110,The DC Area Board Game Club,browser,browser_samples/the-dc-area-board-game-club.txt,200,5423,0,0,OK
+main,112,DC Rawhides,html,raw_samples/dc-rawhides.txt,200,15443,1,1,OK
+main,113,Hollywood Ballroom,xhr,browser_samples/hollywood-ballroom.txt,200,11352,0,2,OK
+main,114,Salsa Vida (DMV aggregator),jsonld,raw_samples/salsa-vida-dmv-aggregator.txt,200,14356,19,13,OK
+main,115,Baila DC (socials),recurring,,,,0,0,OK
+main,117,Dance Jam Productions,html,raw_samples/dance-jam-productions.txt,200,1416,0,0,OK
+main,118,Carpe Diem Arts,ical,,,,0,2,OK
+main,119,District Clay Center (One Shot classes),recurring,,,,0,2,OK
+main,120,Merry Pin,browser,browser_samples/merry-pin.txt,200,4600,2,1,OK
+main,121,Art House 7,browser,browser_samples/art-house-7.txt,None,0,0,0,BLOCKED
+main,122,Sur La Table (Pentagon Row),html,raw_samples/sur-la-table-pentagon-row.txt,200,9012,7,8,OK
+main,123,Sur La Table (Alexandria),html,raw_samples/sur-la-table-alexandria.txt,200,8825,6,10,OK
+main,124,WGIT DC,browser,browser_samples/wgit-dc.txt,200,47569,9,1,POSSIBLE UNDERCOUNT
+main,125,DC Social Guide,xhr,,,,0,0,OK
+main,126,Art of Living DC Center (meetups),browser,browser_samples/art-of-living-dc-center-meetups.txt,200,722,1,0,POSSIBLE MISS
+main,127,Art of Living DC Center (courses),browser,browser_samples/art-of-living-dc-center-courses.txt,200,5711,0,15,OK
+elite,5,Arts Club of Washington,xhr,,,,0,0,OK
+elite,6,International Student House DC (I-House),browser,browser_samples/international-student-house-dc-i-house.txt,200,4803,0,0,OK
+elite,7,The Phillips Collection,html,raw_samples/the-phillips-collection.txt,200,4602,0,0,OK
+elite,8,The Washington Ballet,html,raw_samples/the-washington-ballet.txt,200,4058,1,1,OK
+elite,9,Hirshhorn Museum,ical,,,,0,4,OK
+elite,10,National Museum of Women in the Arts,browser,browser_samples/national-museum-of-women-in-the-arts.txt,200,3864,8,2,POSSIBLE UNDERCOUNT
+elite,11,French-American Chamber of Commerce DC,browser,browser_samples/french-american-chamber-of-commerce-dc.txt,200,816,0,0,OK
+elite,12,Swedish-American Chamber of Commerce DC,browser,browser_samples/swedish-american-chamber-of-commerce-dc.txt,200,1141,0,0,OK
+elite,13,International Club of DC,html,raw_samples/international-club-of-dc.txt,200,14855,0,0,OK
+elite,14,Alliance Francaise of Washington DC,html,raw_samples/alliance-francaise-of-washington-dc.txt,200,13946,0,0,OK
+elite,15,TiE DC,xhr,,,,0,0,OK
+elite,19,Arlington Chamber of Commerce,html,raw_samples/arlington-chamber-of-commerce.txt,200,4558,0,0,OK
+elite,20,Northern Virginia Chamber of Commerce,browser,browser_samples/northern-virginia-chamber-of-commerce.txt,200,1907,0,0,OK
+elite,21,IA&A at Hillyer,html,raw_samples/ia-a-at-hillyer.txt,200,8427,0,0,OK
+elite,22,Dupont Circle Art Walk,browser,browser_samples/dupont-circle-art-walk.txt,200,7456,4,11,OK
+elite,23,Dupont Underground,api,,,,0,0,OK
+elite,24,National Gallery of Art,browser,browser_samples/national-gallery-of-art.txt,200,15312,10,5,OK
+elite,25,MoCA Arlington,browser,browser_samples/moca-arlington.txt,200,3357,0,0,OK
+elite,26,Georgetown University Art Galleries,browser,browser_samples/georgetown-university-art-galleries.txt,200,2515,1,0,POSSIBLE MISS
+elite,27,Transformer,api,,,,0,0,OK
+elite,28,Touchstone Gallery,api,,,,0,0,OK
+elite,29,Foundry Gallery,browser,browser_samples/foundry-gallery.txt,200,1460,0,0,OK
+elite,31,Smithsonian American Art Museum / Renwick,ical,,,,0,0,OK
+elite,32,Austrian Cultural Forum Washington,html,raw_samples/austrian-cultural-forum-washington.txt,200,18368,0,0,OK
+elite,33,Goethe-Institut Washington,browser,browser_samples/goethe-institut-washington.txt,403,61,0,0,BLOCKED
+elite,34,Italian Cultural Institute of Washington,html,raw_samples/italian-cultural-institute-of-washington.txt,200,4983,0,0,OK
+elite,36,SPAIN arts & culture (Washington),rss,raw_samples/spain-arts-culture-washington.txt,25,16414,0,0,OK
+elite,37,Mexican Cultural Institute,xhr,browser_samples/mexican-cultural-institute.txt,200,5301,0,0,OK
+elite,38,Embassy of Sweden / House of Sweden,browser,browser_samples/embassy-of-sweden-house-of-sweden.txt,200,26585,0,0,OK
+elite,39,Jewish Federation of Greater Washington,ical,,,,0,4,OK
+elite,40,JNF-USA Greater Washington (JNFuture),html,raw_samples/jnf-usa-greater-washington-jnfuture.txt,200,5838,0,0,OK
+elite,41,Israel Bonds (Washington),browser,browser_samples/israel-bonds-washington.txt,200,5639,0,0,OK
+elite,42,AJC Washington,browser,browser_samples/ajc-washington.txt,404,4982,0,0,BLOCKED
+elite,43,Bender JCC of Greater Washington,html,raw_samples/bender-jcc-of-greater-washington.txt,200,16094,7,9,OK
+elite,44,Edlavitch DCJCC,ical,,,,0,0,OK
+elite,45,Sixth & I,api,browser_samples/sixth-i.txt,200,32155,3,0,POSSIBLE MISS
+elite,46,Capital Jewish Museum,html,raw_samples/capital-jewish-museum.txt,200,6111,0,0,OK
+elite,47,Pozez JCC of Northern Virginia,browser,browser_samples/pozez-jcc-of-northern-virginia.txt,522,1001,1,0,BLOCKED
+elite,48,Reva (Adas Israel),html,raw_samples/reva-adas-israel.txt,200,14078,1,0,POSSIBLE MISS
+elite,49,MakomDC (Adas Israel),html,raw_samples/makomdc-adas-israel.txt,200,31414,1,0,POSSIBLE MISS
+elite,51,Smithsonian (all museums),ical,,,,0,26,OK
+elite,52,GatherDC (community calendar),api,,,,0,1,OK
+nightlife,4,Flash,jsonld,raw_samples/flash.txt,200,4086,3,3,OK
+nightlife,5,Songbyrd,html,raw_samples/songbyrd.txt,200,40000,4,2,TRUNCATED
+nightlife,8,Blues Alley,browser,browser_samples/blues-alley.txt,200,4656,0,6,OK
+nightlife,9,CapitalBop,xhr,,,,0,0,OK
+nightlife,10,"DC Improv (Lounge showroom, Sketch Night)",html,raw_samples/dc-improv-lounge-showroom-sketch-night.txt,200,1859,2,2,OK
+nightlife,13,Dance Place After Dark,ical,,,,0,0,OK
+nightlife,15,Eighteenth Street Lounge,html,raw_samples/eighteenth-street-lounge.txt,200,7128,0,0,OK
+nightlife,25,The Comedy Loft of DC (incl. The Cellar),jsonld,raw_samples/the-comedy-loft-of-dc-incl-the-cellar.txt,200,40000,8,7,TRUNCATED
+nightlife,27,Washington Improv Theater (WIT),html,raw_samples/washington-improv-theater-wit.txt,200,12600,0,0,OK
